@@ -2,4 +2,5 @@
 Azure Open Datasets - Clinical Trials (Hackathon 2022)
 
 #### Contributors:
+ - jehayesms
  - kdehaan
