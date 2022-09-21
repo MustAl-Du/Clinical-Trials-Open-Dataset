@@ -1,0 +1,4712 @@
+University of Birmingham,University
+Imperial College London,University
+Great Ormond Street Hospital for Children NHS Foundation Trust,Hospital
+Medway NHS Foundation Trust,Government
+University of Leeds,University
+University of Dundee,University
+University of Oxford,University
+University of Bath,University
+York Teaching Hospitals NHS Foundation Trust,Hospital
+University of Aberdeen,University
+Quadram Institute,Foundation
+University of Greenwich,University
+Firstkind Ltd,Industry
+"University College, London",University
+University of Edinburgh,University
+Guy's and St Thomas' NHS Foundation Trust,Government
+University of Nottingham,University
+University of Manchester,University
+University of Edinburgh,University
+Medical Research Council Cognition and Brain Sciences Unit,Government
+University of Leicester,University
+"University College, London",University
+King's College London,University
+"University College, London",University
+"Queen's University, Belfast",University
+Northumbria University,University
+Basildon and Thurrock University Hospitals NHS Foundation Trust,University
+Institut Straumann AG,Industry
+University of Leeds,University
+"University College, London",University
+King's College London,University
+Royal Brompton & Harefield NHS Foundation Trust,Government
+University Hospitals Coventry and Warwickshire NHS Trust,University
+Aintree University Hospitals NHS Foundation Trust,University
+University Hospital Plymouth NHS Trust,University
+South Tyneside NHS Foundation Trust,Government
+Sheffield Hallam University,University
+University of Hull,University
+University of Dundee,University
+Manchester University NHS Foundation Trust,University
+Anglia Ruskin University,University
+Royal Brompton & Harefield NHS Foundation Trust,Government
+National Cancer Institute (NCI),Government
+Royal Marsden NHS Foundation Trust,Government
+Oxford Brookes University,University
+Imperial College London,University
+Imperial College London,University
+University of Ulster,University
+University of Sheffield,University
+Newcastle-upon-Tyne Hospitals NHS Trust,Hospital
+University of Bristol,University
+Barts & The London NHS Trust,Government
+King's College Hospital NHS Trust,University
+University of Oxford,University
+National Cancer Institute (NCI),Government
+University Hospitals Coventry and Warwickshire NHS Trust,University
+University of Oxford,University
+National Cancer Institute (NCI),Government
+King's College London,University
+University of Exeter,University
+"University College, London",University
+Research in Real-Life Ltd,Industry
+AstraZeneca,Industry
+University of Oxford,University
+Anglia Ruskin University,University
+University of Edinburgh,University
+University of Oxford,University
+GlaxoSmithKline,Industry
+University of Manchester,University
+Nestlé,Industry
+Royal College of Music,University
+University of Manchester,University
+King's College Hospital NHS Trust,University
+Cambridge University Hospitals NHS Foundation Trust,University
+MedtronicNeuro,Industry
+Imperial College London,University
+University of Edinburgh,University
+Cambridge University Hospitals NHS Foundation Trust,University
+University of Warwick,University
+University Hospitals Bristol NHS Foundation Trust,University
+Newcastle-upon-Tyne Hospitals NHS Trust,Hospital
+Papworth Hospital NHS Foundation Trust,Hospital
+The Christie NHS Foundation Trust,Government
+London Surgical Research Group,Foundation
+IBSA Institut Biochimique SA,Industry
+Musgrave Park Hospital,Hospital
+Cardiff University,University
+University of Surrey,University
+"St George's, University of London",University
+GlaxoSmithKline,Industry
+University of Oxford,University
+NHS Greater Glasgow and Clyde,Government
+University of Edinburgh,University
+University of Oxford,University
+Anglia Ruskin University,University
+"Queen's University, Belfast",University
+University of Reading,University
+Mid Yorkshire Hospitals NHS Trust,Hospital
+University of Cambridge,University
+Quadram Institute,Foundation
+Hull and East Yorkshire Hospitals NHS Trust,Hospital
+University of Leeds,University
+University Hospital Southampton NHS Foundation Trust,University
+"University College, London",University
+NHS Greater Glasgow and Clyde,Government
+University of Oxford,University
+NIHR Exeter Clinical Research Facility,Government
+University of Nottingham,University
+Great Ormond Street Hospital for Children NHS Foundation Trust,Hospital
+"Genentech, Inc.",Industry
+"University College, London",University
+"University College, London",University
+Keele University,University
+Edge Hill University,University
+Eastbourne General Hospital,Hospital
+"City, University of London",Government
+Imperial College London,University
+London School of Hygiene and Tropical Medicine,University
+"University of California, San Francisco",University
+University of Oslo,University
+Massachusetts General Hospital,Hospital
+Makerere University,University
+Makerere University,University
+London School of Hygiene and Tropical Medicine,University
+University of Minnesota - Clinical and Translational Science Institute,University
+Centre For International Health,Foundation
+"University Health Network, Toronto",University
+"University of California, San Francisco",University
+London School of Hygiene and Tropical Medicine,University
+Makerere University,University
+Kanuni Sultan Suleyman Training and Research Hospital,Hospital
+Hacettepe University,University
+Gazi University,University
+Zeynep Kamil Maternity and Pediatric Research and Training Hospital,Hospital
+Ataturk University,University
+Akdeniz University,University
+"Memorial Sisli Hospital, Istanbul",Hospital
+Baskent University,University
+Acibadem University,University
+Akdeniz University,University
+Zeynep Kamil Maternity and Pediatric Research and Training Hospital,Hospital
+Kanuni Sultan Suleyman Training and Research Hospital,Hospital
+Bagcilar Training and Research Hospital,Hospital
+Rize Üniversitesi,University
+Rize Üniversitesi,University
+Pamukkale University,University
+Kanuni Sultan Suleyman Training and Research Hospital,Hospital
+Isparta Military Hospital,Hospital
+Istanbul University,University
+Istanbul University,University
+Saglik Bilimleri Universitesi Gulhane Tip Fakultesi,University
+Ankara Training and Research Hospital,Hospital
+Inonu University,University
+Hacettepe University,University
+Celal Bayar University,University
+Inonu University,University
+Hacettepe University,University
+Maltepe University,University
+Cukurova University,Government
+Cukurova University,Government
+Istanbul Bakirkoy Maternity and Children Diseases Hospital,Hospital
+Zeynep Kamil Maternity and Pediatric Research and Training Hospital,Hospital
+Adnan Menderes University,University
+University Tunis El Manar,University
+Centre National de Greffe de Moelle Osseuse,Government
+University of Monastir,University
+University of Monastir,University
+Oystershell NV,Industry
+Ramathibodi Hospital,Hospital
+Siriraj Hospital,Hospital
+Mahidol University,University
+Prince of Songkla University,University
+Chiang Mai University,University
+Chulalongkorn University,University
+Thammasat University,University
+Thammasat University,University
+Mahidol University,University
+Chulalongkorn University,University
+Khon Kaen University,University
+Chulalongkorn University,University
+Khon Kaen University,University
+U.S. Army Medical Research and Materiel Command,Government
+Khon Kaen University,University
+Chiang Mai University,University
+Ramathibodi Hospital,Hospital
+Thammasat University,University
+Ramathibodi Hospital,Hospital
+Thammasat University,University
+Thammasat University,University
+Mahidol University,University
+Harvard School of Public Health,University
+Helse Stavanger HF,Hospital
+DBL -Institute for Health Research and Development,Foundation
+Helse Stavanger HF,Hospital
+London School of Hygiene and Tropical Medicine,University
+"University of California, Berkeley",University
+Karolinska Institutet,University
+EngenderHealth,Foundation
+London School of Hygiene and Tropical Medicine,University
+National Taiwan University Hospital,Government
+GenMont Biotech Incorporation,Industry
+National Taiwan University Hospital,Government
+National Taiwan University Hospital,Government
+Tri-Service General Hospital,Hospital
+Chang Gung Memorial Hospital,Hospital
+National Yang Ming University,Government
+Shin Kong Wu Ho-Su Memorial Hospital,Hospital
+Mackay Memorial Hospital,Hospital
+Chang Gung Memorial Hospital,Hospital
+Kaohsiung Medical University Chung-Ho Memorial Hospital,University
+National Taiwan University Hospital,Government
+GenMont Biotech Incorporation,Industry
+Taipei Medical University Shuang Ho Hospital,University
+National Taiwan University Hospital,Government
+Chang Gung Memorial Hospital,Hospital
+Buddhist Tzu Chi General Hospital,Hospital
+Tri-Service General Hospital,Hospital
+China Medical University Hospital,University
+Kaohsiung Veterans General Hospital.,Government
+Chang Gung Memorial Hospital,Hospital
+National Taiwan University Hospital,Government
+"G&amp;E Herbal Biotechnology Co., LTD",Industry
+"National Health Research Institutes, Taiwan",Government
+Shin Kong Wu Ho-Su Memorial Hospital,Hospital
+Chang Gung Memorial Hospital,Hospital
+Taipei Medical University,University
+Kaohsiung Veterans General Hospital.,Government
+Tri-Service General Hospital,Hospital
+National Taiwan University Hospital,Government
+Damascus University,University
+Damascus University,University
+Damascus University,University
+University of Zurich,University
+University of Zurich,University
+"University Hospital Inselspital, Berne",University
+University of Lausanne,University
+Reha Rheinfelden,Hospital
+University of Zurich,University
+"University Hospital, Basel, Switzerland",University
+University of Basel,University
+University of Zurich,University
+"University Hospital, Geneva",University
+Clinique Romande de Readaptation,Hospital
+"University Hospital, Basel, Switzerland",University
+"University Hospital, Geneva",University
+Klinik Valens,Hospital
+"University Hospital Inselspital, Berne",University
+"University Hospital Inselspital, Berne",University
+Balgrist University Hospital,University
+"University Hospital Inselspital, Berne",University
+"University Hospital Inselspital, Berne",University
+HES-SO Valais-Wallis,University
+University of Zurich,University
+Swiss National Science Foundation,Government
+University of Lausanne,University
+"University Hospital, Basel, Switzerland",University
+"University Hospital, Basel, Switzerland",University
+University of Bern,University
+University of Zurich,University
+University of Lausanne Hospitals,University
+"University Hospital, Geneva",University
+Swiss Tropical & Public Health Institute,Government
+"University Hospital, Geneva",University
+"University Hospital, Basel, Switzerland",University
+"University Hospital, Geneva",University
+Kantonsspital Liestal,Hospital
+St. Anna Clinic Luzern,Hospital
+Reha Rheinfelden,Hospital
+"University Hospital, Geneva",University
+"University Hospital Inselspital, Berne",University
+University of Zurich,University
+Cantonal Hospital of St. Gallen,Hospital
+"University Hospital Inselspital, Berne",University
+Kantonsspital Winterthur KSW,Hospital
+University of Zurich,University
+"University Hospital, Basel, Switzerland",University
+"University Hospital Inselspital, Berne",University
+Schulthess Klinik,Hospital
+Schulthess Klinik,Hospital
+"University Hospital, Basel, Switzerland",University
+Kantonsspital Winterthur KSW,Hospital
+University of Zurich,University
+Centre Hospitalier Universitaire Vaudois,University
+University of Zurich,University
+"University Hospital Inselspital, Berne",University
+"University Hospital Inselspital, Berne",University
+"University Hospital Inselspital, Berne",University
+University of Basel,University
+University of Zurich,University
+Karolinska Institutet,University
+Smartfish AS,Industry
+Region Skane,Government
+Umeå University,University
+Linkoeping University,University
+Uppsala University,University
+Karolinska Institutet,University
+"Sahlgrenska University Hospital, Sweden",University
+Umeå University,University
+St. Erik Eye Hospital,Hospital
+Region Skane,Government
+Karolinska University Hospital,University
+Västerbotten County Council,Government
+Uppsala University,University
+Region Örebro County,Government
+Umeå University,University
+Göteborg University,University
+Karolinska University Hospital,University
+Lund University Hospital,University
+Umeå University,University
+Umeå University,University
+Karolinska Institutet,University
+Uppsala University,University
+Linkoeping University,University
+Göteborg University,University
+Karolinska Institutet,University
+Karolinska Institutet,University
+Karolinska University Hospital,University
+Karolinska Institutet,University
+Public Dental Health in Uppsala Region,Government
+"Sahlgrenska University Hospital, Sweden",University
+Karolinska University Hospital,University
+Umeå University,University
+"Sahlgrenska University Hospital, Sweden",University
+"Sahlgrenska University Hospital, Sweden",University
+Uppsala University,University
+Region Skane,Government
+Umeå University,University
+Örebro County Council,Government
+Vastra Gotaland Region,Government
+Kronoberg County Council,Government
+Stryker European Operations BV,Industry
+Swedish Lung Cancer Study Group,Government
+Uppsala University,University
+Region Skane,Government
+Region Skane,Government
+Region Gävleborg,Government
+Karolinska University Hospital,University
+Göteborg University,University
+Stockholm South General Hospital,Hospital
+Göteborg University,University
+Karolinska Institutet,University
+Linkoeping University,University
+Karolinska Institutet,University
+Region Skane,Government
+Linkoeping University,University
+Karolinska Institutet,University
+Karolinska Institutet,University
+"Sahlgrenska University Hospital, Sweden",University
+Göteborg University,University
+Göteborg University,University
+Karolinska University Hospital,University
+Lund University,University
+"University Hospital, Linkoeping",University
+Linkoeping University,University
+Umeå University,University
+Karolinska Institutet,University
+Region Skane,Government
+Karolinska Institutet,University
+Karolinska Institutet,University
+Uppsala University,University
+"University Hospital, Linkoeping",University
+Uppsala University,University
+Karolinska University Hospital,University
+Uppsala University,University
+Stockholm University,University
+Göteborg University,University
+Region Skane,Government
+Region Skane,Government
+"Sahlgrenska University Hospital, Sweden",University
+Karolinska Institutet,University
+Karolinska Institutet,University
+Stockholm University,University
+"University Hospital, Linkoeping",University
+Skane University Hospital,University
+Karolinska University Hospital,University
+Region Västmanland,Government
+Umeå University,University
+Karolinska Institutet,University
+Biopolis S.L.,Industry
+Universidad Rey Juan Carlos,University
+Corporacion Parc Tauli,Hospital
+Universidad de Almeria,University
+Universidad Rey Juan Carlos,University
+Hospital Clinic of Barcelona,Hospital
+Fundació Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau,Hospital
+Universidad Autonoma de Madrid,University
+Cardenal Herrera University,University
+Institut d'Investigació Biomèdica de Girona Dr. Josep Trueta,Foundation
+University of Jaén,University
+Universidad Rey Juan Carlos,University
+Basque Health Service,Government
+University of Valencia,University
+University of Valencia,University
+Universidad Rey Juan Carlos,University
+"National Research Council, Spain",Government
+Spanish Cooperative Group for the Treatment of Digestive Tumours (TTD),Foundation
+University of Alcala,University
+Universidad de Granada,University
+Barcelona Institute for Global Health,Foundation
+University of Valencia,University
+Universidad Rey Juan Carlos,University
+Maimónides Biomedical Research Institute of Córdoba,Foundation
+Germans Trias i Pujol Hospital,Hospital
+Universidad Rey Juan Carlos,University
+Puerta de Hierro University Hospital,University
+Technical University of Madrid,University
+Fundació Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau,Hospital
+Hospital General Universitario Elche,University
+Universidad de Zaragoza,University
+Universidad Autonoma de Madrid,University
+Universidad Europea de Madrid,University
+Group of Research in Minimally Invasive Techniques,Foundation
+Universidad de Granada,University
+Institut d'Investigació Biomèdica de Girona Dr. Josep Trueta,Foundation
+Biosearch S.A.,Industry
+Hospital Clinic of Barcelona,Hospital
+Universidad Miguel Hernandez de Elche,University
+Hospital Universitario La Fe,University
+Asociación Andaluza de Hematología y Hemoterapia,University
+Hospital Universitario Virgen de la Arrixaca,University
+Sociedad Andaluza de Enfermedades Infecciosas,Foundation
+Hospital General Universitario Elche,University
+University of Barcelona,University
+Fundación Pública Andaluza para la Investigación de Málaga en Biomedicina y Salud,Foundation
+Competence Centre on Health Technologies,Foundation
+Hospital Clinic of Barcelona,Hospital
+Please refer to primary and secondary sponsors,Hospital
+Hospital Clinic of Barcelona,Hospital
+Hospital Universitari de Bellvitge,University
+Jordi Gol i Gurina Foundation,Foundation
+Fundació Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau,Hospital
+Hospital General Universitario Gregorio Marañon,University
+Universidad de Granada,University
+"Hospital San Carlos, Madrid",Hospital
+Fundació Sant Joan de Déu,Foundation
+Instituto de Investigación Sanitaria de la Fundación Jiménez Díaz,Foundation
+"National Research Council, Spain",Government
+Jordi Gol i Gurina Foundation,Foundation
+University of Malaga,University
+"Clinica Universidad de Navarra, Universidad de Navarra",Hospital
+Fundación Marques de Valdecilla,Foundation
+Instituto Aragones de Ciencias de la Salud,Foundation
+Salvat,Industry
+Parc de Salut Mar,Hospital
+Sociedad Española de Neumología y Cirugía Torácica,Foundation
+"Clinica Universidad de Navarra, Universidad de Navarra",Hospital
+Osakidetza,Government
+University of Barcelona,University
+Hospital del Río Hortega,Hospital
+Universidad de Granada,University
+"Clinica Universidad de Navarra, Universidad de Navarra",Hospital
+Sociedad Española de Neumología y Cirugía Torácica,Foundation
+Universitat Jaume I,University
+University of Valencia,University
+Fundación Médica para la Investigación y Desarrollo en el Area Cardiovascular,Foundation
+"Fundación de Ayuda a la Investigación sobre la Hipertensión, Riesgo Cardiovascular y Enfermedades",Foundation
+Universidad Autonoma de Madrid,University
+Laboratorios Ordesa,Industry
+Fundació d'investigació Sanitària de les Illes Balears,Foundation
+Universidad Politecnica de Madrid,University
+Basque Health Service,Government
+"Instituto Valenciano de Infertilidad, IVI VALENCIA",Foundation
+Tecnología e Innovación Médico Estética S.L.,Industry
+Universidad Autonoma de Madrid,University
+Universidad Politecnica de Madrid,University
+Hospital General Universitario Elche,University
+Universidad Autonoma de Madrid,University
+VenterPharma,Industry
+Hospital Universitari Vall d'Hebron Research Institute,University
+University of Deusto,University
+Parc de Salut Mar,Hospital
+Maternal-Infantil Vall d´Hebron Hospital,Hospital
+University of Cadiz,University
+Cardenal Herrera University,University
+Hospital Universitari de Bellvitge,University
+Instituto de Investigación Sanitaria de la Fundación Jiménez Díaz,Foundation
+Fundación Pública Andaluza para la Investigación Biomédica Andalucía Oriental,Foundation
+University of Barcelona,University
+Sociedad Española de Neumología y Cirugía Torácica,Foundation
+Hospital Clinico Universitario de Santiago,Hospital
+Basque Health Service,Government
+University of Malaga,University
+Jordi Gol i Gurina Foundation,Foundation
+Fundacion para la Investigacion y Formacion en Ciencias de la Salud,Foundation
+Fundacion SEIMC-GESIDA,Foundation
+Basque Country University,University
+Fundacio Ictus Malaltia Vascular,Foundation
+Cardenal Herrera University,University
+Cardenal Herrera University,University
+Hospital Clinic of Barcelona,Hospital
+Universidad Rey Juan Carlos,University
+Fundación Canaria Rafael Clavijo para la Investigación Biomédica,Foundation
+Hospital General Universitario Gregorio Marañon,University
+Puerta de Hierro University Hospital,University
+Fundacion Miguel Servet,Foundation
+The Mediterranean Institute for the Advance of Biotechnology and Health Research,Foundation
+Universidad de Granada,University
+Jordi Gol i Gurina Foundation,Foundation
+Hospital Clinic of Barcelona,Hospital
+Hospital Universitario Reina Sofia de Cordoba,University
+Puerta de Hierro University Hospital,University
+Universidad de Granada,University
+Biopolis S.L.,Industry
+Hospital Clinic of Barcelona,Hospital
+"Coopervision, Inc.",Industry
+University of Las Palmas de Gran Canaria,University
+Universitat de Lleida,University
+University of Alcala,University
+Seoul National University Hospital,Government
+Hallym University Kangnam Sacred Heart Hospital,University
+"National Cancer Center, Korea",Government
+Seoul National University Hospital,Government
+Seoul National University Hospital,Government
+Seoul National University Hospital,Government
+Ulsan University Hospital,University
+Asan Medical Center,Foundation
+Samsung Medical Center,Foundation
+Seoul National University Hospital,Government
+Yonsei University,University
+IlDong Pharmaceutical Co Ltd,Industry
+Samsung Medical Center,Foundation
+Seoul National University Hospital,Government
+Seoul National University Hospital,Government
+The Catholic University of Korea,University
+"Merck KGaA, Darmstadt, Germany",Industry
+Daegu Catholic University Medical Center,University
+Seoul National University Hospital,Government
+Samsung Medical Center,Foundation
+Korean Medicine Hospital of Pusan National University,Government
+"Clinical Research Center for Solid Tumor, Korea",Foundation
+Gangnam Severance Hospital,Hospital
+Seoul National University Bundang Hospital,Government
+Seoul St. Mary's Hospital,Hospital
+Samsung Medical Center,Foundation
+Yonsei University,University
+Yonsei University,University
+Kyunghee University Medical Center,University
+Kyunghee University Medical Center,University
+Yonsei University,University
+Yonsei University,University
+Healthconnect,Industry
+"Dong-A ST Co., Ltd.",Industry
+Hanmi Pharmaceutical Company Limited,Industry
+Daewoong Pharmaceutical Co. LTD.,Industry
+Seoul National University Hospital,Government
+Green Cross Corporation,Industry
+Pusan National University Hospital,Government
+Asan Medical Center,Foundation
+Yonsei University,University
+Samsung Medical Center,Foundation
+Samsung Medical Center,Foundation
+Seoul National University Hospital,Government
+Seoul National University Hospital,Government
+Yonsei University,University
+Seoul National University Bundang Hospital,Government
+Seoul National University Hospital,Government
+Seoul National University Hospital,Government
+Asan Medical Center,Foundation
+Seoul National University Bundang Hospital,Government
+Samsung Medical Center,Foundation
+CJ HealthCare Corporation,Industry
+Samyang Biopharmaceuticals Corporation,Industry
+Korea Ginseng Corporation,Industry
+Chosun University Hospital,University
+Yonsei University,University
+Seoul National University Hospital,Government
+The Catholic University of Korea,University
+Pusan National University Hospital,Government
+Yonsei University,University
+Samsung Medical Center,Foundation
+Yonsei University,University
+Seoul National University Hospital,Government
+LG Electronics Inc.,Industry
+Yonsei University,University
+"National Cancer Center, Korea",Government
+"Handok Pharmaceuticals Co., Ltd.",Industry
+Seoul National University Hospital,Government
+Kyung Hee University Hospital at Gangdong,University
+Seoul National University Hospital,Government
+Yonsei University,University
+Ajou University School of Medicine,University
+Yonsei University,University
+Kyunghee University Medical Center,University
+Samsung Medical Center,Foundation
+Seoul National University Hospital,Government
+Seoul National University Hospital,Government
+Samsung Medical Center,Foundation
+Seoul National University Bundang Hospital,Government
+Asan Medical Center,Foundation
+"National Cancer Center, Korea",Government
+Chonnam National University Hospital,Government
+Kyungpook National University,Government
+Seoul National University Hospital,Government
+Seoul National University Hospital,Government
+Celltrion,Industry
+Asan Medical Center,Foundation
+Kangbuk Samsung Hospital,Hospital
+"National Cancer Center, Korea",Government
+The Catholic University of Korea,University
+Kyunghee University,University
+LG Life Sciences,Industry
+Seoul National University Hospital,Government
+Astellas Pharma Inc,Industry
+Kangbuk Samsung Hospital,Hospital
+Yonsei University,University
+Yonsei University,University
+Seoul National University Hospital,Government
+Kangbuk Samsung Hospital,Hospital
+Korea University,University
+Seoul National University Hospital,Government
+Seoul National University Hospital,Government
+Yonsei University,University
+Kangbuk Samsung Hospital,Hospital
+Seoul National University Bundang Hospital,Government
+Helen Joseph Hospital,Hospital
+"University of California, Los Angeles",University
+"University of North Carolina, Chapel Hill",University
+University of Cape Town,University
+Brown University,University
+World Bank,Foundation
+University of KwaZulu,University
+French National Institute for Health and Medical Research-French National Agency for Research on AID,Government
+CONRAD,Foundation
+IDRI,Foundation
+University of Miami,University
+University of Cape Town,University
+London School of Hygiene and Tropical Medicine,University
+University Medical Centre Ljubljana,University
+"University Rehabilitation Institute, Republic of Slovenia",University
+University Hospital Ostrava,University
+"Clinical Nutrition Research Centre, Singapore",Foundation
+Changi General Hospital,Hospital
+"Institute of Mental Health, Singapore",Foundation
+Changi General Hospital,Hospital
+"National University, Singapore",Government
+Singapore General Hospital,Hospital
+Singapore General Hospital,Hospital
+"National University Hospital, Singapore",Government
+Singapore General Hospital,Hospital
+"Clinical Nutrition Research Centre, Singapore",Foundation
+KK Women's and Children's Hospital,Hospital
+"National University, Singapore",Government
+"National Cancer Centre, Singapore",Government
+"National University, Singapore",Government
+Singapore National Eye Centre,Government
+"National Medical Research Council (NMRC), Singapore",Government
+Duke-NUS Graduate Medical School,University
+Tan Tock Seng Hospital,Hospital
+"National Healthcare Group, Singapore",Government
+Singapore General Hospital,Hospital
+London School of Hygiene and Tropical Medicine,University
+Centers for Disease Control and Prevention,Government
+"Institute of Virology, Vaccines and Sera, Torlak",Foundation
+"Institut National de la Santé Et de la Recherche Médicale, France",Government
+PATH,Foundation
+Ain Shams University,University
+Al Jedaani Hospital,Hospital
+King Saud University,University
+Ain Shams University,University
+Benha University,University
+King Saud University,University
+Dammam University,University
+University of Saskatchewan,University
+"Institute of Tropical Medicine, Belgium",Foundation
+Materia Medica Holding,Foundation
+Meshalkin Research Institute of Pathology of Circulation,Foundation
+Astellas Pharma Inc,Industry
+West University of Timisoara,University
+Boston Children’s Hospital,Hospital
+Babes-Bolyai University,University
+Ferrer Internacional S.A.,Industry
+Universidade Nova de Lisboa,Government
+Universidade do Porto,University
+University of Lisbon,University
+University of Coimbra,University
+Hospital de Braga,Hospital
+Universidade do Porto,University
+Universidade do Porto,University
+"Children's Memorial Health Institute, Poland",Foundation
+Medical University of Warsaw,University
+"Institute of Cardiology, Warsaw, Poland",Foundation
+Maria Sklodowska-Curie Institute - Oncology Center,Foundation
+Polish Academy of Sciences,University
+Poznan University of Life Sciences,University
+Medical Universtity of Lodz,University
+Stanley Dudrick's Memorial Hospital,Hospital
+Poznan University of Life Sciences,University
+Maria Sklodowska-Curie Institute - Oncology Center,Foundation
+Jagiellonian University,University
+Poznan University of Life Sciences,University
+Poznan University of Medical Sciences,University
+"Children's Memorial Health Institute, Poland",Foundation
+Medical University of Silesia,University
+Jagiellonian University,University
+"Institute of Cardiology, Warsaw, Poland",Foundation
+Medical University of Warsaw,University
+Nestlé,Industry
+Brigham and Women's Hospital,Hospital
+"University of California, Los Angeles",University
+Papua New Guinea Institute of Medical Research,Foundation
+"Saint Thomas Hospital, Panama",Hospital
+Aga Khan University,University
+Aga Khan University,University
+Dow University of Health Sciences,University
+Aga Khan University,University
+Aga Khan University,University
+University of Calgary,University
+Aga Khan University,University
+University of Kent,University
+Norwegian School of Sport Sciences,University
+University of Oslo,University
+Sykehuset Asker og Baerum,Hospital
+Oslo University Hospital,University
+Oslo University Hospital,University
+NORCE Norwegian Research Centre AS,Government
+Oslo University Hospital,University
+University Hospital of North Norway,University
+Norwegian University of Science and Technology,University
+Lovisenberg Diakonale Hospital,Hospital
+Oslo University Hospital,University
+Diakonhjemmet Hospital,Hospital
+Norwegian School of Sport Sciences,University
+"National Institute of Nutrition and Seafood Research, Norway",Government
+University of Bergen,University
+University of Oslo,University
+University of Oslo,University
+Norwegian University of Science and Technology,University
+Sykehuset Innlandet HF,Hospital
+University of Bergen,University
+University of Oslo,University
+University of Tromso,University
+"National Institute of Nutrition and Seafood Research, Norway",Government
+Sorlandet Hospital HF,Hospital
+University Hospital of North Norway,University
+NORCE Norwegian Research Centre AS,Government
+Norwegian University of Science and Technology,University
+Norwegian University of Science and Technology,University
+Oslo University Hospital,University
+University of Oslo,University
+Cancer Registry of Norway,Government
+North Norway Rehabilitation Center,Foundation
+Oslo University Hospital,University
+University Hospital of North Norway,University
+Norwegian University of Science and Technology,University
+Norwegian University of Science and Technology,University
+Sunnaas Rehabilitation Hospital,Hospital
+Norwegian University of Science and Technology,University
+Norwegian Department of Health and Social Affairs,Government
+University of Oslo,University
+Norwegian University of Science and Technology,University
+Norwegian University of Science and Technology,University
+Haukeland University Hospital,University
+University of Tromso,University
+Norwegian University of Science and Technology,University
+Oslo and Akershus University College of Applied Sciences,University
+Norwegian University of Science and Technology,University
+Sogn og Fjordane University College,University
+Helse Stavanger HF,Hospital
+University of Bergen,University
+Haukeland University Hospital,University
+University of Oslo,University
+NORCE Norwegian Research Centre AS,Government
+Helse Fonna,Hospital
+Norwegian Center for Violence and Traumatic Stress Studies,Government
+University of Oslo,University
+Haukeland University Hospital,University
+Oslo University Hospital,University
+Oslo University Hospital,University
+Oslo University Hospital,University
+Oslo University Hospital,University
+St. Olavs Hospital,Hospital
+Norwegian University of Science and Technology,University
+University of Oslo,University
+Norwegian University of Science and Technology,University
+Oslo University Hospital,University
+Norwegian University of Science and Technology,University
+University Hospital of North Norway,University
+Sorlandet Hospital HF,Hospital
+Oslo University Hospital,University
+Norwegian University of Science and Technology,University
+University of Tromso,University
+Norwegian University of Science and Technology,University
+Ostfold Hospital Trust,Hospital
+University of Oslo,University
+Sykehuset Innlandet HF,Hospital
+Norwegian Knowledge Centre for the Health Services,Government
+University of Minnesota - Clinical and Translational Science Institute,University
+University of Chicago,University
+"Instituto Nacional de Salud Publica, Mexico",Foundation
+London School of Hygiene and Tropical Medicine,University
+"Bayero University Kano, Nigeria",Industry
+Epicentre,Foundation
+Epicentre,Foundation
+University of Otago,University
+"University of Auckland, New Zealand",University
+"North Shore Hospital, New Zealand",Hospital
+GlaxoSmithKline,Industry
+Maastricht University Medical Center,University
+Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA),University
+University Medical Center Groningen,University
+VU University of Amsterdam,University
+Radboud University,University
+University Medical Center Groningen,University
+Rijnstate Hospital,Hospital
+University Medical Center Groningen,University
+Onze Lieve Vrouwe Gasthuis,Hospital
+Leiden University Medical Center,University
+Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA),University
+Leiden University Medical Center,University
+University of Groningen,University
+Wageningen University,University
+University Medical Center Groningen,University
+Maastricht University Medical Center,University
+Maastricht University Medical Center,University
+Foundation for Liver Research,Foundation
+UMC Utrecht,University
+Orthopedisch Centrum Oost Nederland,Hospital
+VU University Medical Center,University
+Radboud University,University
+Radboud University,University
+Radboud University,University
+UMC Utrecht,University
+Radboud University,University
+UMC Utrecht,University
+Radboud University,University
+University Medical Center Groningen,University
+Erasmus Medical Center,Hospital
+Erasmus Medical Center,Hospital
+Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA),University
+St. Antonius Hospital,Hospital
+"Bethesda General Hospital, Hoogeveen",Hospital
+Erasmus Medical Center,Hospital
+Erasmus Medical Center,Hospital
+University Medical Center Groningen,University
+Maastricht University Medical Center,University
+Rijnstate Hospital,Hospital
+Bayer,Industry
+UMC Utrecht,University
+Oticon Medical,Industry
+Leiden University Medical Center,University
+Cardio Research Enschede BV,Industry
+"DSM Nutritional Products, Inc.",Industry
+VU University Medical Center,University
+Maastricht University Medical Center,University
+University of Groningen,University
+Maastricht University Medical Center,University
+"Medical Research Foundation, The Netherlands",Government
+Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA),University
+Maastricht University Medical Center,University
+"Rivierduinen, Centre for Personality disorders Jelgersma",Foundation
+Free University Medical Center,University
+Cellerix,Industry
+Wageningen University,University
+Medtronic Cardiovascular,Industry
+Radboud University,University
+Nestlé,Industry
+Erasmus Medical Center,Hospital
+Leiden University Medical Center,University
+Radboud University,University
+Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA),University
+Maastricht University Medical Center,University
+VU University of Amsterdam,University
+Dutch Colorectal Cancer Group,Foundation
+Maasstad Hospital,Hospital
+Erasmus Medical Center,Hospital
+St. Antonius Hospital,Hospital
+Gynaecologisch Oncologisch Centrum Zuid,Hospital
+Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA),University
+VU University of Amsterdam,University
+VU University Medical Center,University
+VU University Medical Center,University
+Radboud University,University
+The Netherlands Cancer Institute,Government
+Maastricht University Medical Center,University
+Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA),University
+Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA),University
+UMC Utrecht,University
+UMC Utrecht,University
+Radboud University,University
+Radboud University,University
+University of Tilburg,University
+Maastricht University Medical Center,University
+Onze Lieve Vrouwe Gasthuis,Hospital
+Maastricht University Medical Center,University
+Leiden University Medical Center,University
+Elisabeth-TweeSteden Ziekenhuis,Hospital
+VU University Medical Center,University
+VU University Medical Center,University
+Maastricht University Medical Center,University
+Cardio Research Enschede BV,Industry
+"Cutanea Life Sciences, Inc.",Industry
+The Netherlands Cancer Institute,Government
+Wageningen University,University
+University of Aarhus,University
+B.P. Koirala Institute of Health Sciences,Foundation
+Uppsala University,University
+"Children's Hospital Medical Center, Cincinnati",Hospital
+Hospital Italiano de Buenos Aires,Hospital
+Novartis,Industry
+University of Oxford,University
+"Clinical Research Organization, Dhaka, Bangladesh",Foundation
+PATH,Foundation
+Centers for Disease Control and Prevention,Government
+"University of California, Davis",University
+"University of California, Berkeley",University
+"International Centre for Diarrhoeal Disease Research, Bangladesh",Government
+"International Centre for Diarrhoeal Disease Research, Bangladesh",Government
+"International Centre for Diarrhoeal Disease Research, Bangladesh",Government
+Columbia University,University
+University of Oklahoma,University
+PATH,Foundation
+Johns Hopkins Bloomberg School of Public Health,University
+Cliniques universitaires Saint-Luc- Université Catholique de Louvain,Hospital
+KU Leuven,University
+Universitaire Ziekenhuizen Leuven,University
+Université Libre de Bruxelles,University
+Jessa Hospital,Hospital
+"University Hospital, Ghent",University
+Université Libre de Bruxelles,University
+KU Leuven,University
+University Ghent,University
+Hasselt University,University
+KU Leuven,University
+KU Leuven,University
+University Hospital of Liege,University
+Universitaire Ziekenhuizen Leuven,University
+University Hospital of Liege,University
+KU Leuven,University
+Hasselt University,University
+Amgen,Industry
+"University Hospital, Ghent",University
+Université Catholique de Louvain,University
+VZW Cardiovascular Research Center Aalst,Foundation
+Universitaire Ziekenhuizen Leuven,University
+Cliniques universitaires Saint-Luc- Université Catholique de Louvain,Hospital
+University Ghent,University
+KU Leuven,University
+University Ghent,University
+University Ghent,University
+Universitaire Ziekenhuizen Leuven,University
+KU Leuven,University
+Universitaire Ziekenhuizen Leuven,University
+Takeda,Industry
+Universiteit Antwerpen,University
+KU Leuven,University
+Brugmann University Hospital,University
+"University Hospital, Ghent",University
+Hacettepe University,University
+Universiteit Antwerpen,University
+Pfizer,Industry
+Universitair Ziekenhuis Brussel,University
+University Medical Center Groningen,University
+Swiss Federal Institute of Technology,Government
+Drugs for Neglected Diseases,Foundation
+Fundacion Nacional de Dermatologia,Foundation
+University Clinical Center Tuzla,University
+Federal University of the Valleys of Jequitinhonha and Mucuri,University
+University of Sao Paulo,University
+Universidade Federal de Pernambuco,University
+Federal University of Juiz de Fora,University
+"Ministry of Health, Brazil",Government
+Federal University of Health Science of Porto Alegre,University
+Instituto do Cancer do Estado de São Paulo,Foundation
+University of Sao Paulo,University
+Universidade Federal do Rio Grande do Norte,University
+Universidade Federal de Pernambuco,University
+Federal University of São Paulo,University
+Universidade Norte do Paraná,University
+Federal University of Bahia,University
+Universidade Cidade de Sao Paulo,University
+Irmandade da Santa Casa de Misericordia de Sao Paulo,Hospital
+Federal University of Pelotas,University
+University of Nove de Julho,University
+University of Sao Paulo,University
+Federal University of Rio Grande do Sul,University
+University of Sao Paulo,University
+Hospital de Clinicas de Porto Alegre,Hospital
+Faculdade de Medicina do ABC,University
+University of Sao Paulo,University
+Federal University of Rio Grande do Sul,University
+University of Sao Paulo,University
+University of Sao Paulo General Hospital,University
+Universidade Federal do Rio Grande do Norte,University
+Federal University of São Paulo,University
+Hospital de Clinicas de Porto Alegre,Hospital
+University of Sao Paulo General Hospital,University
+Eurofarma Laboratorios S.A.,Industry
+Federal University of Health Science of Porto Alegre,University
+Hospital de Clinicas de Porto Alegre,Hospital
+University of Sao Paulo,University
+University of Nove de Julho,University
+University of Sao Paulo,University
+Hospital de Clinicas de Porto Alegre,Hospital
+Universidade Cidade de Sao Paulo,University
+Federal University of São Paulo,University
+Hospital de Clinicas de Porto Alegre,Hospital
+Universidade Federal de Goias,University
+Universidade Federal do Rio Grande do Norte,University
+Federal University of Minas Gerais,University
+Federal University of Rio Grande do Sul,University
+Federal University of São Paulo,University
+University of Sao Paulo,University
+Federal University of Health Science of Porto Alegre,University
+University of Taubate,University
+University of Sao Paulo,University
+University of Pernambuco,University
+Pontificia Universidade Catolica de Sao Paulo,University
+Hospital de Clinicas de Porto Alegre,Hospital
+Universidade Federal de Pernambuco,University
+University of Sao Paulo,University
+University of Sao Paulo General Hospital,University
+University of Sao Paulo,University
+Hospital de Clinicas de Porto Alegre,Hospital
+University of Brasilia,University
+Federal University of Bahia,University
+University of Sao Paulo,University
+Federal University of Espirito Santo,University
+University of Nove de Julho,University
+Federal University of Minas Gerais,University
+University of Sao Paulo,University
+Federal University of Paraíba,University
+Barretos Cancer Hospital,Hospital
+Universidade Federal de Sao Carlos,University
+Federal University of Uberlandia,University
+Federal University of São Paulo,University
+University of Guarulhos,University
+Federal University of Rio Grande do Sul,University
+Universidade Estadual de Londrina,University
+University of Sao Paulo,University
+University of Sao Paulo,University
+"University of Campinas, Brazil",University
+Universidade Federal do Triangulo Mineiro,University
+Universidade Federal Fluminense,University
+Universidade do Vale do Paraíba,University
+Universidade Norte do Paraná,University
+Hospital Geral de Fortaleza,Hospital
+Hospital de Base,Hospital
+University of Sao Paulo General Hospital,University
+Federal University of São Paulo,University
+University of Brasilia,University
+Hospital de Clinicas de Porto Alegre,Hospital
+University of Nove de Julho,University
+University of Sao Paulo,University
+Hospital de Clinicas de Porto Alegre,Hospital
+Federal University of Pelotas,University
+Fundação de Amparo à Pesquisa do Estado de São Paulo,Foundation
+Centro de Reabilitação e Readaptação Dr. Henrique Santillo,Hospital
+Federal University of Health Science of Porto Alegre,University
+University of Sao Paulo,University
+Federal University of Minas Gerais,University
+University of Sao Paulo,University
+Hospital de Clinicas de Porto Alegre,Hospital
+Hospital do Coracao,Hospital
+Federal University of Vicosa,University
+Universidade Federal do Triangulo Mineiro,University
+Universidade Federal de Pernambuco,University
+Federal University of Health Science of Porto Alegre,University
+University of Sao Paulo General Hospital,University
+Federal University of Minas Gerais,University
+Federal University of Minas Gerais,University
+Federal University of Health Science of Porto Alegre,University
+Federal University of Paraíba,University
+Universidade Federal de Santa Maria,University
+Federal University of Rio Grande do Sul,University
+Federal University of São Paulo,University
+University of Sao Paulo,University
+University of Nove de Julho,University
+Federal University of São Paulo,University
+Hospital de Clinicas de Porto Alegre,Hospital
+Federal University of São Paulo,University
+Hospital Israelita Albert Einstein,Hospital
+University of Nove de Julho,University
+Federal University of São Paulo,University
+Federal University of Health Science of Porto Alegre,University
+Federal University of Pelotas,University
+Universidade Cidade de Sao Paulo,University
+University of Sao Paulo,University
+Federal University of Minas Gerais,University
+Hospital de Clinicas de Porto Alegre,Hospital
+Hospital de Clinicas de Porto Alegre,Hospital
+University of Sao Paulo,University
+Universidade Estadual de Londrina,University
+University of Sao Paulo,University
+University of Nove de Julho,University
+Hospital do Coracao,Hospital
+Instituto Materno Infantil Prof. Fernando Figueira,Foundation
+Universidade Cidade de Sao Paulo,University
+Federal University of São Paulo,University
+Federal University of Bahia,University
+University of Sao Paulo,University
+Universidade Federal de Goias,University
+Hospital Moinhos de Vento,Hospital
+Hospital de Clinicas de Porto Alegre,Hospital
+Universidade Federal do Ceara,University
+Centro de Diabetes Curitiba Ltda,Industry
+EMS,Industry
+University of Sao Paulo General Hospital,University
+"University of Campinas, Brazil",University
+Federal University of Health Science of Porto Alegre,University
+Hospital Nossa Senhora da Conceicao,Hospital
+University of Sao Paulo,University
+Hospital de Clinicas de Porto Alegre,Hospital
+Federal University of Bahia,University
+DMG Dental Material Gesellschaft mbH,Industry
+University of Sao Paulo,University
+Hospital do Coracao,Hospital
+Universidade Federal do Rio Grande do Norte,University
+University of Pernambuco,University
+Federal University of São Paulo,University
+Federal University of São Paulo,University
+Clinica Olfact,Hospital
+Universidade Cidade de Sao Paulo,University
+Danone Research,Foundation
+Action Contre la Faim,Foundation
+University of Chicago,University
+Liverpool School of Tropical Medicine,University
+London School of Hygiene and Tropical Medicine,University
+London School of Hygiene and Tropical Medicine,University
+Institut de Recherche pour le Developpement,Foundation
+University of British Columbia,University
+Marie Stopes International,Industry
+Yaounde Central Hospital,Hospital
+University of British Columbia,University
+University of Toronto,University
+Dalhousie University,University
+University of Waterloo,University
+Canadian Cancer Trials Group,Foundation
+University of Toronto,University
+Population Health Research Institute,Foundation
+"University Health Network, Toronto",University
+Ottawa Fertility Centre,Foundation
+McGill University Health Center,University
+"University Health Network, Toronto",University
+"University Health Network, Toronto",University
+University of Guelph-Humber,University
+Institut de Recherches Cliniques de Montreal,Hospital
+Laval University,University
+Université de Sherbrooke,University
+University of British Columbia,University
+SolAeroMed Inc.,Industry
+Sunnybrook Health Sciences Centre,Foundation
+Laval University,University
+St. Justine's Hospital,Hospital
+St. Justine's Hospital,Hospital
+University of Calgary,University
+University of British Columbia,University
+University of British Columbia,University
+McGill University Health Center,University
+University of British Columbia,University
+Laval University,University
+University of Saskatchewan,University
+Laval University,University
+"Samuel Lunenfeld Research Institute, Mount Sinai Hospital",Hospital
+IWK Health Centre,Hospital
+University of Alberta,University
+University of Calgary,University
+PepsiCo Global R&D,Industry
+University of British Columbia,University
+Centre for Addiction and Mental Health,Foundation
+Institut de Recherches Cliniques de Montreal,Hospital
+University of Saskatchewan,University
+Laval University,University
+"University Health Network, Toronto",University
+"Anika Therapeutics, Inc.",Industry
+"University Health Network, Toronto",University
+University of British Columbia,University
+"Samuel Lunenfeld Research Institute, Mount Sinai Hospital",Hospital
+Ottawa Heart Institute Research Corporation,Foundation
+University of British Columbia,University
+McMaster Children's Hospital,Hospital
+Montreal Heart Institute,Foundation
+Centre de Recherche de l'Institut Universitaire de Geriatrie de Montreal,University
+Centre hospitalier de l'Université de Montréal (CHUM),University
+Maisonneuve-Rosemont Hospital,Hospital
+University of Victoria,University
+Alberta Children's Hospital,Hospital
+"Mount Sinai Hospital, Canada",Hospital
+University of Manitoba,University
+McMaster University,University
+Shoulder &amp; Upper Extremity Research Group of Edmonton,Foundation
+McGill University,University
+University of British Columbia,University
+Institut de Recherches Cliniques de Montreal,Hospital
+Laval University,University
+The Hospital for Sick Children,Hospital
+St. Boniface General Hospital Research Centre,Hospital
+University of Alberta,University
+The Hospital for Sick Children,Hospital
+University of Alberta,University
+The Hospital for Sick Children,Hospital
+University of British Columbia,University
+Université de Sherbrooke,University
+Université de Sherbrooke,University
+Laval University,University
+Université de Sherbrooke,University
+Dalhousie University,University
+Hopital de l'Enfant-Jesus,Hospital
+Lawson Health Research Institute,Foundation
+Sunnybrook Health Sciences Centre,Foundation
+Centre for Addiction and Mental Health,Foundation
+Ottawa Hospital Research Institute,Hospital
+University of Calgary,University
+Ottawa Hospital Research Institute,Hospital
+Eli Lilly and Company,Industry
+Nestlé,Industry
+AHS Cancer Control Alberta,Government
+"University Health Network, Toronto",University
+McGill University,University
+Ottawa Heart Institute Research Corporation,Foundation
+"St. Michael's Hospital, Toronto",Hospital
+CHU de Quebec-Universite Laval,University
+"University Health Network, Toronto",University
+University of Calgary,University
+Laval University,University
+McGill University,University
+"St. Michael's Hospital, Toronto",Hospital
+"Mount Sinai Hospital, Canada",Hospital
+University of Manitoba,University
+Maisonneuve-Rosemont Hospital,Hospital
+University of Alberta,University
+"University Health Network, Toronto",University
+The Hospital for Sick Children,Hospital
+McGill University,University
+"University Health Network, Toronto",University
+The Hospital for Sick Children,Hospital
+Université de Montréal,University
+PepsiCo Global R&amp;D,Industry
+Holland Bloorview Kids Rehabilitation Hospital,Hospital
+University of Calgary,University
+"University Health Network, Toronto",University
+Ottawa Hospital Research Institute,Hospital
+Laval University,University
+Ottawa Hospital Research Institute,Hospital
+"St. Michael's Hospital, Toronto",Hospital
+University of Guelph,University
+University of British Columbia,University
+University of Saskatchewan,University
+"St. Michael's Hospital, Toronto",Hospital
+Douglas Mental Health University Institute,University
+Brock University,University
+McGill University Health Center,University
+Ottawa Heart Institute Research Corporation,Foundation
+University of Alberta,University
+Lawson Health Research Institute,Foundation
+The Hospital for Sick Children,Hospital
+British Columbia Cancer Agency,Government
+"University Health Network, Toronto",University
+University of British Columbia,University
+University of Toronto,University
+University of British Columbia,University
+University of Alberta,University
+McGill University,University
+University of British Columbia,University
+Simon Fraser University,University
+University of Calgary,University
+University of Manitoba,University
+McMaster University,University
+University of Alberta,University
+Centre for Addiction and Mental Health,Foundation
+British Columbia Cancer Agency,Government
+London Health Sciences Centre,Foundation
+Lawson Health Research Institute,Foundation
+"University Health Network, Toronto",University
+Lawson Health Research Institute,Foundation
+McGill University Health Center,University
+Lawson Health Research Institute,Foundation
+Laval University,University
+University of Manitoba,University
+Queen's University,University
+University of Manitoba,University
+Ottawa Hospital Research Institute,Hospital
+Cancer Care Ontario,Government
+Southlake Regional Health Centre,Hospital
+"Samuel Lunenfeld Research Institute, Mount Sinai Hospital",Hospital
+Centre for Addiction and Mental Health,Foundation
+University of British Columbia,University
+Lawson Health Research Institute,Foundation
+McMaster University,University
+Ottawa Hospital Research Institute,Hospital
+IWK Health Centre,Hospital
+Centre for Addiction and Mental Health,Foundation
+Centre for Addiction and Mental Health,Foundation
+University of Alberta,University
+Université de Sherbrooke,University
+"University Health Network, Toronto",University
+University of British Columbia,University
+Queen's University,University
+PepsiCo Global R&amp;D,Industry
+Sunnybrook Health Sciences Centre,Foundation
+Canadian Cancer Trials Group,Foundation
+Timothy J. Best Medicine Professional Corporation,Industry
+University of British Columbia,University
+Centre hospitalier de l'Université de Montréal (CHUM),University
+"St. Michael's Hospital, Toronto",Hospital
+University of Alberta,University
+University of Calgary,University
+Lawson Health Research Institute,Foundation
+University of Alberta,University
+Simon Fraser University,University
+Centre hospitalier de l'Université de Montréal (CHUM),University
+University of British Columbia,University
+Lawson Health Research Institute,Foundation
+Toronto East General Hospital,Hospital
+McGill University Health Center,University
+Ottawa Hospital Research Institute,Hospital
+McMaster University,University
+University of British Columbia,University
+Ottawa Hospital Research Institute,Hospital
+Memorial University of Newfoundland,University
+"St. Michael's Hospital, Toronto",Hospital
+Institut de Recherches Cliniques de Montreal,Hospital
+University of Manitoba,University
+The Hospital for Sick Children,Hospital
+McMaster University,University
+McGill University,University
+University of Toronto,University
+University of Toronto,University
+McMaster University,University
+University of British Columbia,University
+McMaster University,University
+Kelowna General Hospital,Hospital
+University of Toronto,University
+McGill University,University
+University of Toronto,University
+University of British Columbia,University
+Canadian Urology Research Consortium,Foundation
+Lawson Health Research Institute,Foundation
+Institut de Recherches Cliniques de Montreal,Hospital
+"St. Michael's Hospital, Toronto",Hospital
+"St. Paul's Hospital, Canada",Hospital
+Ottawa Heart Institute Research Corporation,Foundation
+3M,Industry
+The Hospital for Sick Children,Hospital
+Lawson Health Research Institute,Foundation
+Centre hospitalier de l'Université de Montréal (CHUM),University
+McGill University Health Center,University
+University of Alberta,University
+West Park Healthcare Centre,Foundation
+University of Waterloo,University
+McMaster University,University
+"Mount Sinai Hospital, Canada",Hospital
+University of Alberta,University
+Lawson Health Research Institute,Foundation
+CancerCare Manitoba,Government
+University of British Columbia,University
+McGill University Health Center,University
+University of Alberta,University
+University of Manitoba,University
+Lawson Health Research Institute,Foundation
+Action Contre la Faim,Foundation
+Pontificia Universidad Catolica de Chile,University
+Pontificia Universidad Catolica de Chile,University
+University of Chile,University
+Pontificia Universidad Catolica de Chile,University
+Pontificia Universidad Catolica de Chile,University
+University of Chile,University
+Pontificia Universidad Catolica de Chile,University
+Pontificia Universidad Catolica de Chile,University
+"Universidad de los Andes, Chile",University
+Universidad de Valparaiso,University
+"Universidad de los Andes, Chile",University
+University of Chile,University
+Nanfang Hospital of Southern Medical University,University
+Peking Union Medical College Hospital,University
+"China Medical University, China",University
+Sun Yat-sen University,University
+Peking University,University
+Peking University,University
+Fujian Provincial Hospital,Hospital
+"The George Institute for Global Health, China",Foundation
+"Chia Tai Tianqing Pharmaceutical Group Co., Ltd.",Industry
+"Essen Technology (Beijing) Co., Ltd.",Industry
+Nanfang Hospital of Southern Medical University,University
+Changhai Hospital,Hospital
+Shanghai Zhongshan Hospital,Hospital
+Sun Yat-Sen Memorial Hospital of Sun Yat-Sen University,University
+"Shanghai Pulmonary Hospital, Shanghai, China",Hospital
+Wenzhou Medical University,University
+Guang'anmen Hospital of China Academy of Chinese Medical Sciences,Hospital
+Affiliated Hospital to Academy of Military Medical Sciences,Hospital
+Heilongjiang University of Chinese Medicine,University
+Hutchison Medipharma Limited,Industry
+Sir Run Run Shaw Hospital,Hospital
+The First Affiliated Hospital of Guangzhou Medical University,University
+Hunan Province Tumor Hospital,Hospital
+"First Affiliated Hospital, Sun Yat-Sen University",University
+Chinese University of Hong Kong,University
+The University of Hong Kong,University
+Zhongda Hospital,Hospital
+Huazhong University of Science and Technology,University
+"University of North Carolina, Chapel Hill",University
+Ruijin Hospital,Hospital
+Fudan University,University
+"Merck KGaA, Darmstadt, Germany",Industry
+Changhua Christian Hospital,Hospital
+"Lepu Medical Technology (Beijing) Co., Ltd.",Industry
+Wenzhou Medical University,University
+Huashan Hospital,Hospital
+Sun Yat-sen University,University
+Jiangxi Provincial Cancer Hospital,Hospital
+Sun Yat-sen University,University
+Xijing Hospital,Hospital
+The First Affiliated Hospital of Anhui Medical University,University
+"Princess Margaret Hospital, Hong Kong",Hospital
+"Third Affiliated Hospital, Sun Yat-Sen University",University
+Shanghai Jiao Tong University School of Medicine,University
+"Third Affiliated Hospital, Sun Yat-Sen University",University
+Tianjin Medical University Cancer Institute and Hospital,University
+"University College, London",University
+The Second Affiliated Hospital of Anhui University of Traditional Chinese Medicine,University
+Changhai Hospital,Hospital
+Sun Yat-sen University,University
+Tianjin Women and Children's Health Center,Hospital
+"Shineway Pharmaceutical Co.,Ltd",Industry
+Guangdong General Hospital,Hospital
+Changhai Hospital,Hospital
+The Hong Kong Polytechnic University,University
+The University of Hong Kong,University
+Peking University,University
+Peking Union Medical College Hospital,University
+"Qidong Gaitianli Medicines Co., Ltd",Industry
+Ministry of Science and Technology of the People´s Republic of China,Government
+Chinese Academy of Medical Sciences,University
+Shanghai Gynecologic Oncology Group,Foundation
+The Affiliated Nanjing Drum Tower Hospital of Nanjing University Medical School,University
+Guangdong General Hospital,Hospital
+Guangzhou University of Traditional Chinese Medicine,University
+European Foundation for the Study of Diabetes,Government
+Changhai Hospital,Hospital
+Fuzhou General Hospital,Hospital
+Tianjin Medical University Cancer Institute and Hospital,University
+"Chinese Academy of Medical Sciences, Fuwai Hospital",Hospital
+"Jiangsu Simcere Pharmaceutical Co., Ltd.",Industry
+"ZhuHai Cardionovum Medical Device Co., Ltd.",Industry
+Fudan University,University
+China-Japan Friendship Hospital,Hospital
+South China Children's Leukemia Group,Foundation
+"ZhuHai Cardionovum Medical Device Co., Ltd.",Industry
+The First Affiliated Hospital of Guangzhou Medical University,University
+Chinese University of Hong Kong,University
+Guangdong Provincial Hospital of Traditional Chinese Medicine,Hospital
+Chinese University of Hong Kong,University
+Zhengzhou University,University
+Beijing Cancer Hospital,Hospital
+Guangzhou Psychiatric Hospital,Hospital
+Zhejiang University,University
+Sun Yat-sen University,University
+Otsuka Beijing Research Institute,Foundation
+Shanghai Zhongshan Hospital,Hospital
+"Southwest Hospital, China",Hospital
+"Shanghai Pulmonary Hospital, Shanghai, China",Hospital
+The University of Hong Kong,University
+The University of Hong Kong,University
+Chinese University of Hong Kong,University
+State Key Laboratory of Respiratory Disease,Government
+First People's Hospital of Hangzhou,Hospital
+Sun Yat-sen University,University
+Peking Union Medical College Hospital,University
+"Jinling Hospital, China",Hospital
+"Southwest Hospital, China",Hospital
+Shanghai Jiao Tong University Affiliated Sixth People’s Hospital,University
+Sun Yat-sen University,University
+University of Minnesota - Clinical and Translational Science Institute,University
+The University of Hong Kong,University
+Peking University,University
+"Sinovac Biotech Co., Ltd",Industry
+Sun Yat-Sen Memorial Hospital of Sun Yat-Sen University,University
+Sun Yat-sen University,University
+The Eye Hospital of Wenzhou Medical University,University
+The Hong Kong Polytechnic University,University
+Huazhong University of Science and Technology,University
+Ministry of Science and Technology of the People´s Republic of China,Government
+"First Affiliated Hospital, Sun Yat-Sen University",University
+Sun Yat-sen University,University
+Fudan University,University
+Ningbo No. 1 Hospital,Hospital
+AstraZeneca,Industry
+Fudan University,University
+Sun Yat-sen University,University
+"China Medical University, China",University
+Shanghai Zhongshan Hospital,Hospital
+Beijing Tiantan Hospital,Hospital
+Shanghai Zhongshan Hospital,Hospital
+The University of Hong Kong,University
+Zhejiang University,University
+Eli Lilly and Company,Industry
+"Southwest Hospital, China",Hospital
+Xijing Hospital,Hospital
+Fourth Military Medical University,University
+Chengdu University of Traditional Chinese Medicine,University
+Pfizer,Industry
+Guang'anmen Hospital of China Academy of Chinese Medical Sciences,Hospital
+Chinese PLA General Hospital,Hospital
+Henan Cancer Hospital,Hospital
+AstraZeneca,Industry
+Capital Medical University,University
+The Third Affiliated Hospital of Southern Medical University,University
+Hong Kong Baptist University,University
+The First Affiliated Hospital of Zhengzhou University,University
+Shanghai Mental Health Center,Hospital
+"Spiration, Inc.",Industry
+"China Medical University, China",University
+"Zhejiang Medicine Co., Ltd.",Industry
+Chinese University of Hong Kong,University
+Shandong University,University
+Chinese University of Hong Kong,University
+The University of Hong Kong,University
+Xiangya Hospital of Central South University,University
+Xijing Hospital,Hospital
+West China Hospital,Hospital
+Guang'anmen Hospital of China Academy of Chinese Medical Sciences,Hospital
+Peking Union Medical College Hospital,University
+Fourth Military Medical University,University
+"Chinese Academy of Medical Sciences, Fuwai Hospital",Hospital
+Sun Yat-sen University,University
+Shandong University,University
+The Affiliated Nanjing Drum Tower Hospital of Nanjing University Medical School,University
+Chinese University of Hong Kong,University
+Peking University People's Hospital,University
+Beijing Tiantan Hospital,Hospital
+The First Affiliated Hospital of Anhui Medical University,University
+Zhujiang Hospital,Hospital
+The University of Hong Kong,University
+The Affiliated Nanjing Drum Tower Hospital of Nanjing University Medical School,University
+Centers for Disease Control and Prevention,Government
+Kangaroo Foundation,Foundation
+Fundación Santa Fe de Bogota,Foundation
+CES University,University
+Oregon Health and Science University,University
+"Universidad del Valle, Colombia",University
+"Universidad El Bosque, Bogotá",University
+Universidad de Caldas,University
+Universidad Icesi,University
+"Salmon, Margaret, M.D.",Not Funded
+Johns Hopkins Bloomberg School of Public Health,University
+Johns Hopkins Bloomberg School of Public Health,University
+"Association for Functional Rehabilitation, Recreation and Applied Kinesiology Impulse",Foundation
+University Hospital Hradec Kralove,University
+Municipal Hospital Ostrava,Hospital
+University Hospital Ostrava,University
+"Rigshospitalet, Denmark",Hospital
+"Rigshospitalet, Denmark",Hospital
+Chiesi Farmaceutici S.p.A.,Industry
+"Rigshospitalet, Denmark",Hospital
+University of Aarhus,University
+Aalborg Universitetshospital,University
+Bispebjerg Hospital,Hospital
+Central Jutland Regional Hospital,Hospital
+Aarhus University Hospital,University
+Nordsjaellands Hospital,Hospital
+Copenhagen Studies on Asthma in Childhood,Foundation
+Aalborg University,University
+University of Southern Denmark,University
+Hvidovre University Hospital,University
+Danish Headache Center,Foundation
+Steno Diabetes Center,Foundation
+"Rigshospitalet, Denmark",Hospital
+University of Aarhus,University
+Nordsjaellands Hospital,Hospital
+"Rigshospitalet, Denmark",Hospital
+Aarhus University Hospital,University
+University of Aarhus,University
+University Hospital Bispebjerg and Frederiksberg,University
+"Rigshospitalet, Denmark",Hospital
+"Rigshospitalet, Denmark",Hospital
+University of Aarhus,University
+University of Copenhagen,University
+"Rigshospitalet, Denmark",Hospital
+University of Aarhus,University
+Odense University Hospital,University
+Odense University Hospital,University
+Pharmacosmos A/S,Industry
+University of Copenhagen,University
+Novo Nordisk A/S,Industry
+"Rigshospitalet, Denmark",Hospital
+Aalborg University,University
+University of Aarhus,University
+University of Copenhagen,University
+"Rigshospitalet, Denmark",Hospital
+Copenhagen Studies on Asthma in Childhood,Foundation
+"Rigshospitalet, Denmark",Hospital
+Bispebjerg Hospital,Hospital
+Aarhus University Hospital Skejby,University
+University of Aarhus,University
+Danish Headache Center,Foundation
+Odense University Hospital,University
+Odense University Hospital,University
+University of Copenhagen,University
+Herning Hospital,Hospital
+Odense University Hospital,University
+University of Aarhus,University
+University of Aarhus,University
+University of Copenhagen,University
+Randers Regional Hospital,Hospital
+"Rigshospitalet, Denmark",Hospital
+Mental Health Centre Copenhagen,Hospital
+University of Copenhagen,University
+"Copenhagen University Hospital, Hvidovre",University
+"Rigshospitalet, Denmark",Hospital
+Danish Headache Center,Foundation
+University of Aarhus,University
+"Rigshospitalet, Denmark",Hospital
+Holbaek Sygehus,Hospital
+University of Copenhagen,University
+"Copenhagen University Hospital, Hvidovre",University
+Aarhus University Hospital,University
+Bispebjerg Hospital,Hospital
+University of Copenhagen,University
+University of Aarhus,University
+"Rigshospitalet, Denmark",Hospital
+Odense University Hospital,University
+"Rigshospitalet, Denmark",Hospital
+Bispebjerg Hospital,Hospital
+"Rigshospitalet, Denmark",Hospital
+University of Copenhagen,University
+Hvidovre University Hospital,University
+"Rigshospitalet, Denmark",Hospital
+University of Southern Denmark,University
+Aarhus University Hospital,University
+Holbaek Sygehus,Hospital
+"Rigshospitalet, Denmark",Hospital
+Herlev Hospital,Hospital
+Aarhus University Hospital,University
+Bispebjerg Hospital,Hospital
+"Rigshospitalet, Denmark",Hospital
+Nordsjaellands Hospital,Hospital
+Bispebjerg Hospital,Hospital
+University of Aarhus,University
+Odense University Hospital,University
+Hospital of South West Denmark,Hospital
+"Rigshospitalet, Denmark",Hospital
+Nordsjaellands Hospital,Hospital
+Odense University Hospital,University
+Odense University Hospital,University
+University of Aarhus,University
+"Rigshospitalet, Denmark",Hospital
+"Rigshospitalet, Denmark",Hospital
+Hospital of South West Denmark,Hospital
+Vejle Hospital,Hospital
+Herlev and Gentofte Hospital,Hospital
+University of Copenhagen,University
+Aarhus University Hospital,University
+Novo Nordisk A/S,Industry
+Odense University Hospital,University
+University of Southern Denmark,University
+Herlev Hospital,Hospital
+University of Aarhus,University
+Hvidovre University Hospital,University
+"Northern Orthopaedic Division, Denmark",Foundation
+Boehringer Ingelheim,Industry
+University of Aarhus,University
+"Shanghai MicroPort Medical (Group) Co., Ltd.",Industry
+"Northern Orthopaedic Division, Denmark",Foundation
+Acacia Pharma Ltd,Industry
+Odense University Hospital,University
+Zealand University Hospital,University
+"University Hospital, Gentofte, Copenhagen",University
+Slagelse Hospital,Hospital
+University of Copenhagen,University
+Bispebjerg Hospital,Hospital
+University of Aarhus,University
+University of Copenhagen,University
+Herlev Hospital,Hospital
+Horsens Hospital,Hospital
+"Rigshospitalet, Denmark",Hospital
+University of Southern Denmark,University
+University of Aarhus,University
+Hvidovre University Hospital,University
+"National Research Centre for the Working Environment, Denmark",Government
+Nordsjaellands Hospital,Hospital
+University of Aarhus,University
+University of Aarhus,University
+University of Copenhagen,University
+"Hillerod Hospital, Denmark",Hospital
+University of Aarhus,University
+University of Aarhus,University
+Aalborg Universitetshospital,University
+University of Aarhus,University
+Odense University Hospital,University
+Zealand Pharma,Industry
+"Rigshospitalet, Denmark",Hospital
+"Glostrup University Hospital, Copenhagen",University
+University of Southern Denmark,University
+University of Copenhagen,University
+Region Syddanmark,Government
+University of Southern Denmark,University
+EmeraMed,Industry
+Cairo University,University
+Cairo University,University
+Tanta University,University
+Cairo University,University
+Assiut University,University
+Mansoura University,University
+Mansoura University,University
+Minia Maternity University Hospital,University
+Cairo University,University
+Mansoura University,University
+Assiut University,University
+Ain Shams University,University
+Mansoura University,University
+Mansoura University,University
+"Woman's Health University Hospital, Egypt",University
+University of Alexandria,University
+Assiut University,University
+Mansoura University,University
+Mansoura University,University
+Cairo University,University
+Assiut University,University
+Ain Shams University,University
+Mansoura University,University
+Cairo University,University
+Tanta University,University
+Cairo University,University
+Assiut University,University
+Assiut University,University
+Mansoura University,University
+Assiut University,University
+South Egypt Cancer Institute,Foundation
+Assiut University,University
+Ain Shams University,University
+Assiut University,University
+Cairo University,University
+Cairo University,University
+Assiut University,University
+Ibn Sina Hospital,Hospital
+Gynuity Health Projects,Foundation
+Mansoura University,University
+Assiut University,University
+Beni-Suef University,University
+Assiut University,University
+Ain Shams University,University
+Aljazeera Hospital,Hospital
+Tanta University,University
+Assiut University,University
+ClinAmygate,Industry
+Assiut University,University
+Tanta University,University
+Mansoura University,University
+Karolinska Institutet,University
+Malaria Consortium,Foundation
+Dilla University,University
+University of Pennsylvania,University
+"University of California, San Francisco",University
+University Ghent,University
+GlaxoSmithKline,Industry
+Finnish Breast Cancer Group,Foundation
+Kuopio University Hospital,University
+UKK Institute,Foundation
+Turku University Hospital,University
+University of Oulu,University
+Kuopio University Hospital,University
+"National Institute for Health and Welfare, Finland",Government
+Helsinki University,University
+Tampere University Hospital,University
+University of Jyvaskyla,University
+University of Oulu,University
+Turku University Hospital,University
+University of Eastern Finland,University
+Finnish Institute of Occupational Health,Foundation
+University of Turku,University
+Oulu University Hospital,University
+Helsinki University,University
+Helsinki University,University
+Turku University Hospital,University
+Helsinki University Central Hospital,University
+Kuopio University Hospital,University
+University of Oulu,University
+Danisco,Industry
+GlaxoSmithKline,Industry
+Tampere University Hospital,University
+Joint Authority for Päijät-Häme Social and Health Care,Government
+Turku University Hospital,University
+Helsinki University Central Hospital,University
+GlaxoSmithKline,Industry
+Helsinki University,University
+Hospices Civils de Lyon,Hospital
+Hopital Foch,Hospital
+French Society for Intensive Care,Foundation
+"University Hospital, Toulouse",University
+"University Hospital, Bordeaux",University
+Assistance Publique - Hôpitaux de Paris,Hospital
+"University Hospital, Bordeaux",University
+Laboratoires URGO,Industry
+"Gustave Roussy, Cancer Campus, Grand Paris",Foundation
+"Institut National de la Santé Et de la Recherche Médicale, France",Government
+Assistance Publique - Hôpitaux de Paris,Hospital
+"University Hospital, Montpellier",University
+Thuasne,Industry
+Assistance Publique - Hôpitaux de Paris,Hospital
+Assistance Publique Hopitaux De Marseille,Hospital
+Hospices Civils de Lyon,Hospital
+"University Hospital, Clermont-Ferrand",University
+Assistance Publique Hopitaux De Marseille,Hospital
+Assistance Publique - Hôpitaux de Paris,Hospital
+Assistance Publique - Hôpitaux de Paris,Hospital
+Assistance Publique - Hôpitaux de Paris,Hospital
+"University Hospital, Clermont-Ferrand",University
+"University Hospital, Clermont-Ferrand",University
+Hôpital Necker-Enfants Malades,Hospital
+"University Hospital, Montpellier",University
+"University Hospital, Limoges",University
+Assistance Publique Hopitaux De Marseille,Hospital
+Association Accompagnement pour un Internet en Médecine et Santé au Service des Usagers,Foundation
+"University Hospital, Clermont-Ferrand",University
+"University Hospital, Brest",University
+"University Hospital, Montpellier",University
+Centre Hospitalier Universitaire Dijon,University
+Centre Chirurgical Marie Lannelongue,Foundation
+Groupe Oncologie Radiotherapie Tete et Cou,Foundation
+"University Hospital, Clermont-Ferrand",University
+"University Hospital, Clermont-Ferrand",University
+Assistance Publique - Hôpitaux de Paris,Hospital
+Assistance Publique - Hôpitaux de Paris,Hospital
+"University Hospital, Montpellier",University
+"University Hospital, Tours",University
+Hospices Civils de Lyon,Hospital
+"University Hospital, Grenoble",University
+"University Hospital, Montpellier",University
+Association Francaise pour la Recherche Thermale,Foundation
+Assistance Publique - Hôpitaux de Paris,Hospital
+Centre Leon Berard,Foundation
+Yoplait France SAS,Industry
+"Institut National de la Santé Et de la Recherche Médicale, France",Government
+Centre Oscar Lambret,Foundation
+UNICANCER,Foundation
+Centre Hospitalier Universitaire de Saint Etienne,University
+Hopital Foch,Hospital
+GERCOR - Multidisciplinary Oncology Cooperative Group,Foundation
+Institut Paoli-Calmettes,Foundation
+Hospices Civils de Lyon,Hospital
+"University Hospital, Strasbourg, France",University
+"University Hospital, Caen",University
+"University Hospital, Lille",University
+"University Hospital, Lille",University
+"University Hospital, Rouen",University
+"University Hospital, Angers",University
+"Gustave Roussy, Cancer Campus, Grand Paris",Foundation
+"University Hospital, Montpellier",University
+"University Hospital, Tours",University
+"University Hospital, Angers",University
+Hospices Civils de Lyon,Hospital
+Assistance Publique Hopitaux De Marseille,Hospital
+"University Hospital, Toulouse",University
+Centre Hospitalier Universitaire de Nice,University
+"University Hospital, Grenoble",University
+Centre Hospitalier Universitaire Dijon,University
+Assistance Publique Hopitaux De Marseille,Hospital
+"University Hospital, Montpellier",University
+"University Hospital, Grenoble",University
+"University Hospital, Lille",University
+Assistance Publique Hopitaux De Marseille,Hospital
+Centre Leon Berard,Foundation
+AGIR à Dom,Industry
+Centre Hospitalier Universitaire de Nīmes,University
+"Gustave Roussy, Cancer Campus, Grand Paris",Foundation
+Assistance Publique - Hôpitaux de Paris,Hospital
+"University Hospital, Clermont-Ferrand",University
+University of Paris 13,University
+Centre Hospitalier Intercommunal Creteil,Hospital
+Assistance Publique - Hôpitaux de Paris,Hospital
+Centre Hospitalier Universitaire de Nīmes,University
+"University Hospital, Montpellier",University
+"University Hospital, Lille",University
+Centre Hospitalier Universitaire de Besancon,University
+"University Hospital, Brest",University
+"Gustave Roussy, Cancer Campus, Grand Paris",Foundation
+Assistance Publique - Hôpitaux de Paris,Hospital
+French Cardiology Society,Foundation
+Assistance Publique - Hôpitaux de Paris,Hospital
+Assistance Publique - Hôpitaux de Paris,Hospital
+Assistance Publique - Hôpitaux de Paris,Hospital
+"University Hospital, Rouen",University
+Assistance Publique - Hôpitaux de Paris,Hospital
+Assistance Publique - Hôpitaux de Paris,Hospital
+Assistance Publique - Hôpitaux de Paris,Hospital
+Assistance Publique - Hôpitaux de Paris,Hospital
+Chiesi Farmaceutici S.p.A.,Industry
+"University Hospital, Rouen",University
+Assistance Publique - Hôpitaux de Paris,Hospital
+French Cardiology Society,Foundation
+Assistance Publique - Hôpitaux de Paris,Hospital
+Centre Hospitalier Régional d'Orléans,Hospital
+Assistance Publique - Hôpitaux de Paris,Hospital
+Assistance Publique - Hôpitaux de Paris,Hospital
+"University Hospital, Toulouse",University
+Laboratoires URGO,Industry
+Danisco Sweeteners Oy,Industry
+Hospices Civils de Lyon,Hospital
+"University Hospital, Strasbourg, France",University
+Assistance Publique - Hôpitaux de Paris,Hospital
+French National Institute for Health and Medical Research-French National Agency for Research on AID,Government
+"University Hospital, Rouen",University
+Assistance Publique Hopitaux De Marseille,Hospital
+"Centre Hospitalier Universitaire, Amiens",University
+Centre Hospitalier Universitaire Dijon,University
+"University Hospital, Rouen",University
+"University Hospital, Brest",University
+Assistance Publique - Hôpitaux de Paris,Hospital
+Assistance Publique - Hôpitaux de Paris,Hospital
+"University Hospital, Strasbourg, France",University
+Assistance Publique - Hôpitaux de Paris,Hospital
+Groupe Hospitalier du Havre,Hospital
+Etablissement Français du Sang,Industry
+Hospices Civils de Lyon,Hospital
+Centre Oscar Lambret,Foundation
+"University Hospital, Rouen",University
+French Cardiology Society,Foundation
+"Central Hospital, Nancy, France",Hospital
+French National Institute for Health and Medical Research-French National Agency for Research on AID,Government
+Federation Francophone de Cancerologie Digestive,Foundation
+Assistance Publique - Hôpitaux de Paris,Hospital
+Institut Paoli-Calmettes,Foundation
+London School of Hygiene and Tropical Medicine,University
+London School of Hygiene and Tropical Medicine,University
+"Charite University, Berlin, Germany",University
+Universitätsklinikum Hamburg-Eppendorf,University
+University of Erlangen-Nürnberg Medical School,University
+University of Erlangen-Nürnberg Medical School,University
+"Charite University, Berlin, Germany",University
+University of Luebeck,University
+"Charite University, Berlin, Germany",University
+University of Ulm,University
+University Medical Center Goettingen,University
+St. Antonius Hospital Gronau,Hospital
+Philipps University Marburg Medical Center,University
+"University Hospital, Essen",University
+"Charite University, Berlin, Germany",University
+Ludwig-Maximilians - University of Munich,University
+RWTH Aachen University,University
+Technische Universität Dresden,University
+University of Cologne,University
+University of Schleswig-Holstein,University
+Klinikum Bremen Ost,Hospital
+German Cancer Research Center,Government
+Esslingen University of Applied Sciences,University
+Klinikum Berchtesgadener Land der Schön-Kliniken,Hospital
+University of Regensburg,University
+Forschungsinstitut der Diabetes Akademie Mergentheim,Foundation
+University Medicine Greifswald,University
+"Heinrich-Heine University, Duesseldorf",University
+RWTH Aachen University,University
+Bionorica SE,Industry
+German Research Foundation,Government
+Saarland University,University
+ARCIM Institute Academic Research in Complementary and Integrative Medicine,Foundation
+Ludwig-Maximilians - University of Munich,University
+"Osprey Medical, Inc",Industry
+Klinikum Berchtesgadener Land der Schön-Kliniken,Hospital
+Robert Bosch Medical Center,Foundation
+University Hospital Tuebingen,University
+"Charite University, Berlin, Germany",University
+Humedics GmbH,Industry
+University Hospital Heidelberg,University
+"Charite University, Berlin, Germany",University
+Johannes Gutenberg University Mainz,University
+Johannes Gutenberg University Mainz,University
+Universitätsklinikum Hamburg-Eppendorf,University
+University of Cologne,University
+Ludwig-Maximilians - University of Munich,University
+University of Leipzig,University
+Klinik für Kinder- und Jugendmedizin,Hospital
+Heidelberg University,University
+Universitätsmedizin Mannheim,University
+Heidelberg University,University
+"Heinrich-Heine University, Duesseldorf",University
+AIO-Studien-gGmbH,Industry
+University Hospital Tuebingen,University
+Association of Urologic Oncology (AUO),Foundation
+Philipps University Marburg Medical Center,University
+University of Magdeburg,University
+Universitätsklinikum Hamburg-Eppendorf,University
+Universitätsklinikum Hamburg-Eppendorf,University
+Novartis,Industry
+"Charite University, Berlin, Germany",University
+"Charite University, Berlin, Germany",University
+University of Cologne,University
+Landstuhl Regional Medical Center,Foundation
+Universitätsmedizin Mannheim,University
+West German Center of Diabetes and Health,Foundation
+University of Ulm,University
+Philipps University Marburg Medical Center,University
+German Institute of Human Nutrition,Government
+Ludwig-Maximilians - University of Munich,University
+Universitätsmedizin Mannheim,University
+Philipps University Marburg Medical Center,University
+"Charite University, Berlin, Germany",University
+Spectranetics Corporation,Industry
+University of Leipzig,University
+Universitätsklinikum Hamburg-Eppendorf,University
+German Institute of Human Nutrition,Government
+Universitätsklinikum Hamburg-Eppendorf,University
+Klinikum der Universitaet Muenchen,University
+German Diabetes Center,Government
+University Hospital Muenster,University
+University of Leipzig,University
+National Cancer Institute (NCI),Government
+University of Hohenheim,University
+Medice Arzneimittel Pütter GmbH & Co KG,Industry
+Technische Universität Dresden,University
+University Hospital Carl Gustav Carus,University
+Deutsches Herzzentrum Muenchen,Hospital
+University of Erlangen-Nürnberg Medical School,University
+University of Erlangen-Nürnberg Medical School,University
+LEO Pharma,Industry
+Medtronic Endovascular,Industry
+Technische Universität Dresden,University
+"Charite University, Berlin, Germany",University
+Zydolab - Institute of Cytology and Immune Cytochemistry,Foundation
+Heidelberg University,University
+"Charite University, Berlin, Germany",University
+University Hospital Freiburg,University
+"Charite University, Berlin, Germany",University
+Ludwig-Maximilians - University of Munich,University
+University of Cologne,University
+"Heinrich-Heine University, Duesseldorf",University
+Hoffmann-La Roche,Industry
+Heidelberg University,University
+University Hospital Heidelberg,University
+Dr. Falk Pharma GmbH,Industry
+Universität Duisburg-Essen,University
+RWTH Aachen University,University
+West German Study Group,Foundation
+B. Braun Melsungen AG,Industry
+Zydolab - Institute of Cytology and Immune Cytochemistry,Foundation
+Max Planck Institute for Human Cognitive and Brain Sciences,Foundation
+"Charite University, Berlin, Germany",University
+German Breast Group,Government
+Herzzentrum Bremen,Hospital
+"Charite University, Berlin, Germany",University
+Goethe University,University
+Aesculap AG,Industry
+BG Unfallklinik,Hospital
+University of Leipzig,University
+University of Rostock,University
+AIO-Studien-gGmbH,Industry
+RWTH Aachen University,University
+Vital Solutions GmbH,Industry
+Universitätsklinikum Hamburg-Eppendorf,University
+University Hospital Freiburg,University
+University Hospital Freiburg,University
+University of Cologne,University
+Goethe University,University
+Science Consulting in Diabetes,Industry
+Martin-Luther-Universität Halle-Wittenberg,University
+German Center for Neurodegenerative Diseases (DZNE),Government
+RWTH Aachen University,University
+Novartis,Industry
+German Cancer Research Center,Government
+New York University School of Medicine,University
+"Medical Research Council, South Africa",Government
+University of Ghana Medical School,University
+Medical University of South Carolina,University
+"University of California, Davis",University
+University of Patras,University
+Harokopio University,University
+Benizelion General Hospital,Hospital
+Larissa University Hospital,University
+KLOX Technologies Inc.,Industry
+University of Ioannina,University
+Harokopio University,University
+University of Thessaly,University
+"Laikon General District Hospital, Athens",Hospital
+Aristotle University Of Thessaloniki,University
+Aghia Sophia Children's Hospital of Athens,Hospital
+Emory University,University
+"Wuqu' Kawoq, Maya Health Alliance",Foundation
+Bandim Health Project,Foundation
+Bandim Health Project,Foundation
+The Hong Kong Polytechnic University,University
+Chinese University of Hong Kong,University
+The University of Hong Kong,University
+The Hong Kong Polytechnic University,University
+The Hong Kong Polytechnic University,University
+The Hong Kong Polytechnic University,University
+The Hong Kong Polytechnic University,University
+The University of Hong Kong,University
+The University of Hong Kong,University
+The Hong Kong Polytechnic University,University
+The Hong Kong Polytechnic University,University
+The University of Hong Kong,University
+The University of Hong Kong,University
+Chinese University of Hong Kong,University
+Chinese University of Hong Kong,University
+Chinese University of Hong Kong,University
+The Hong Kong Polytechnic University,University
+Chinese University of Hong Kong,University
+The University of Hong Kong,University
+The Hong Kong Polytechnic University,University
+University of Pecs,University
+Somogy Megyei Kaposi Mór Teaching Hospital,Hospital
+Postgraduate Institute of Medical Education and Research,University
+Postgraduate Institute of Medical Education and Research,University
+Society for Applied Studies,Foundation
+Serum Institute of India Pvt. Ltd.,Industry
+Sangath,Foundation
+Banaras Hindu University,University
+Cornell University,University
+"Institute of Liver and Biliary Sciences, India",Government
+Abbott Nutrition,Industry
+Iladevi Cataract and IOL Research Center,Foundation
+"Government Dental College and Research Institute, Bangalore",University
+Postgraduate Institute of Medical Education and Research,University
+Postgraduate Institute of Medical Education and Research,University
+Emory University,University
+Lady Hardinge Medical College,University
+"Diabetes Foundation, India",Government
+University of Pittsburgh,University
+"All India Institute of Medical Sciences, New Delhi",Government
+Postgraduate Institute of Medical Education and Research,University
+"All India Institute of Medical Sciences, New Delhi",Government
+Postgraduate Institute of Medical Education and Research,University
+Tata Memorial Hospital,Hospital
+Tata Memorial Hospital,Hospital
+International Vaccine Institute,Foundation
+Northwestern University,University
+GlaxoSmithKline,Industry
+"Tuberculosis Research Centre, India",Government
+Harvard School of Public Health,University
+London School of Hygiene and Tropical Medicine,University
+Public Health Foundation of India,Foundation
+S.C.B. Medical College and Hospital,University
+Christiana Care Health Services,Hospital
+"Medanta, The Medicity, India",Government
+Postgraduate Institute of Medical Education and Research,University
+Postgraduate Institute of Medical Education and Research,University
+Thomas Jefferson University,University
+"All India Institute of Medical Sciences, Bhubaneswar",Government
+Nilratan Sircar Medical College,University
+Sun Yat-sen University,University
+Indonesia University,University
+Nestlé,Industry
+Indonesia University,University
+Dr Cipto Mangunkusumo General Hospital,Hospital
+Isfahan University of Medical Sciences,University
+University of Konstanz,University
+Qazvin University Of Medical Sciences,University
+Shiraz University of Medical Sciences,University
+Shahid Beheshti University of Medical Sciences,University
+Mashhad University of Medical Sciences,University
+Shahid Beheshti University of Medical Sciences,University
+Tabriz University of Medical Sciences,University
+Zahedan University of Medical Sciences,University
+Mashhad University of Medical Sciences,University
+Tehran University of Medical Sciences,University
+Royan Institute,Foundation
+Tehran University of Medical Sciences,University
+Royan Institute,Foundation
+Royan Institute,Foundation
+Mashhad University of Medical Sciences,University
+Shahid Beheshti University of Medical Sciences,University
+Isfahan University of Medical Sciences,University
+Shahid Beheshti University of Medical Sciences,University
+Mashhad University of Medical Sciences,University
+Tehran University of Medical Sciences,University
+National Nutrition and Food Technology Institute,Government
+Shiraz University of Medical Sciences,University
+Isfahan University of Medical Sciences,University
+"National Research Institute of Tuberculosis and Lung Disease, Iran",Government
+Royan Institute,Foundation
+Shahid Beheshti University of Medical Sciences,University
+Tehran University of Medical Sciences,University
+Shahid Beheshti University of Medical Sciences,University
+Royan Institute,Foundation
+National Nutrition and Food Technology Institute,Government
+Shiraz University of Medical Sciences,University
+Shiraz University of Medical Sciences,University
+Shahid Beheshti University,University
+Please refer to primary and secondary sponsors,Industry
+Johns Hopkins Bloomberg School of Public Health,University
+"Royal College of Surgeons, Ireland",University
+Beaumont Hospital,Hospital
+Mater Misericordiae University Hospital,University
+"St Patrick's Hospital, Ireland",Hospital
+"Mayo General Hospital, Ireland",Hospital
+"University of Dublin, Trinity College",University
+University College Cork,University
+Cancer Trials Ireland,Government
+"University of Dublin, Trinity College",University
+University College Dublin,University
+Connolly Hospital Blanchardstown,Hospital
+University College Cork,University
+"National University of Ireland, Galway, Ireland",Government
+University College Dublin,University
+Advanced Inhalation Therapies Ltd,Industry
+Tel-Aviv Sourasky Medical Center,Foundation
+"HaEmek Medical Center, Israel",Foundation
+Hadassah Medical Organization,Hospital
+Barzilai Medical Center,Foundation
+Tel Aviv University,University
+Wolfson Medical Center,Foundation
+Ben-Gurion University of the Negev,University
+Hebrew University of Jerusalem,University
+Tel-Aviv Sourasky Medical Center,Foundation
+Microsoft Research,Foundation
+Assaf-Harofeh Medical Center,Foundation
+Ziv Hospital,Hospital
+"Bar-Ilan University, Israel",University
+Assuta Hospital Systems,Hospital
+Bnai Zion Medical Center,Foundation
+Sheba Medical Center,Foundation
+Rambam Health Care Campus,Hospital
+Wolfson Medical Center,Foundation
+Tel Aviv University,University
+Hadassah Medical Organization,Hospital
+Rabin Medical Center,Foundation
+Meir Medical Center,Foundation
+Sheba Medical Center,Foundation
+Wolfson Medical Center,Foundation
+Ben-Gurion University of the Negev,University
+Tel Aviv University,University
+Tel-Aviv Sourasky Medical Center,Foundation
+"IRCCS Centro Neurolesi ""Bonino-Pulejo""",Foundation
+A.O. Ospedale Papa Giovanni XXIII,Hospital
+Università degli Studi dell'Insubria,University
+Italian Research Group for Gastric Cancer,Government
+IRCCS San Raffaele,Hospital
+University of Modena and Reggio Emilia,University
+"Azienda Ospedaliero, Universitaria Pisana",University
+IRCCS San Raffaele,Hospital
+University of Bari,University
+Ospedale San Raffaele,Hospital
+IRCCS San Raffaele,Hospital
+ElectroCore INC,Industry
+Federico II University,University
+University of Roma La Sapienza,University
+University of Cagliari,University
+"University of Turin, Italy",University
+University of Parma,University
+Azienda Ospedaliera Ospedale Infantile Regina Margherita Sant'Anna,Hospital
+Federico II University,University
+University of Roma La Sapienza,University
+Ospedale Generale Di Zona Moriggia-Pelascini,Hospital
+Azienda Ospedaliera Spedali Civili di Brescia,Hospital
+Ospedale Generale Di Zona Moriggia-Pelascini,Hospital
+Catholic University of the Sacred Heart,University
+University of Messina,University
+Catholic University of the Sacred Heart,University
+"Fondazione C.N.R./Regione Toscana ""G. Monasterio"", Pisa, Italy",Foundation
+University of Rome Tor Vergata,University
+European Institute of Oncology,Foundation
+Federico II University,University
+Azienda Ospedaliera Universitaria Senese,University
+Federico II University,University
+Ospedale San Raffaele,Hospital
+University Hospital of Ferrara,University
+Università degli Studi di Sassari,University
+"University of Turin, Italy",University
+Università degli Studi di Sassari,University
+Ospedale San Raffaele,Hospital
+Azienda Unità Sanitaria Locale Reggio Emilia,Industry
+IRCCS Burlo Garofolo,Hospital
+Uniter Onlus,Foundation
+Fondazione Don Carlo Gnocchi Onlus,Foundation
+Fondazione Don Carlo Gnocchi Onlus,Foundation
+Associazione Volontari Pazienti Oncologici,Foundation
+Sanofi,Industry
+Fondazione Salvatore Maugeri,Foundation
+SOFAR S.p.A.,Industry
+IRCCS San Raffaele,Hospital
+Azienda Ospedaliera Specializzata in Gastroenterologia Saverio de Bellis,Hospital
+Azienda Ospedaliera S. Maria della Misericordia,Hospital
+Azienda Ospedaliera Spedali Civili di Brescia,Hospital
+Istituto Scientifico Romagnolo per lo Studio e la cura dei Tumori,Foundation
+Istituto Scientifico Romagnolo per lo Studio e la cura dei Tumori,Foundation
+Chiesi Farmaceutici S.p.A.,Industry
+"Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico",Hospital
+"Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico",Hospital
+Mario Negri Institute for Pharmacological Research,Foundation
+Istituto Ortopedico Rizzoli,Foundation
+Fondazione Salvatore Maugeri,Foundation
+Istituto Scientifico Romagnolo per lo Studio e la cura dei Tumori,Foundation
+Azienda Ospedaliera Universitaria di Bologna Policlinico S. Orsola Malpighi,Hospital
+University Hospital of Ferrara,University
+Lactalis,Industry
+Fondazione Don Carlo Gnocchi Onlus,Foundation
+University of Milan,University
+Fondazione Salvatore Maugeri,Foundation
+I.R.C.C.S. Fondazione Santa Lucia,Foundation
+Azienda Ospedaliera di Padova,Hospital
+Universita di Verona,University
+Ospedale San Raffaele,Hospital
+St. Jude Medical,Industry
+IRCCS Eugenio Medea,Hospital
+Federico II University,University
+Istituto Oncologico Veneto IRCCS,Foundation
+"Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico",Hospital
+"Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico",Hospital
+Derming SRL,Industry
+"University of Turin, Italy",University
+"Fondazione IRCCS Istituto Nazionale dei Tumori, Milano",Foundation
+Gruppo Italiano Mammella (GIM),Foundation
+Catholic University of the Sacred Heart,University
+International Piezosurgery Academy,University
+"University of Turin, Italy",University
+"IRCCS San Camillo, Venezia, Italy",Foundation
+Gruppo Oncologico del Nord-Ovest,Foundation
+Azienda Usl di Bologna,Industry
+"Cancer Prevention and Research Institute, Italy",Foundation
+Catholic University of the Sacred Heart,University
+Università degli Studi 'G. d'Annunzio' Chieti e Pescara,University
+IRCCS Policlinico S. Donato,Hospital
+Centro Prevenzione Malattie Cardiovascolari N. e V. Corbella,Foundation
+International Breast Cancer Study Group,Foundation
+University of Bari,University
+University of Bologna,University
+University Hospital of Ferrara,University
+Ente Ospedaliero Ospedali Galliera,Hospital
+Heinz Italia SpA,Industry
+University of Milano Bicocca,University
+Italian Society of Invasive Cardiology,Foundation
+University of Bologna,University
+University of Bologna,University
+Policlinico Hospital,Hospital
+S. Anna Hospital,Hospital
+Mario Negri Institute for Pharmacological Research,Foundation
+Niguarda Hospital,Hospital
+Catholic University of the Sacred Heart,University
+Istituto di Biomedicina e Immunologia Molecolare Alberto Monroy,Foundation
+Istituto Ortopedico Rizzoli,Foundation
+Catholic University of the Sacred Heart,University
+"Center for Outcomes Research and Clinical Epidemiology, Italy",Foundation
+"Odontostomatologic Laser Therapy Center, Florence, Italy",Foundation
+"Nihon Pharmaceutical Co., Ltd",Industry
+Juntendo University Hospital,University
+Nobelpharma,Industry
+"Otsuka Pharmaceutical Co., Ltd.",Industry
+Takeda,Industry
+"Ministry of Health, Labour and Welfare, Japan",Government
+Wakayama Medical University,University
+Chiba University,University
+Novo Nordisk A/S,Industry
+Takeda,Industry
+Mitsubishi Tanabe Pharma Corporation,Industry
+Boehringer Ingelheim,Industry
+Medtronic Endovascular,Industry
+"Translational Research Center for Medical Innovation, Kobe, Hyogo, Japan",Foundation
+"Kissei Pharmaceutical Co., Ltd.",Industry
+"Translational Research Center for Medical Innovation, Kobe, Hyogo, Japan",Foundation
+"Translational Research Center for Medical Innovation, Kobe, Hyogo, Japan",Foundation
+Nagoya City University,University
+Boehringer Ingelheim,Industry
+Japan Clinical Oncology Group,Foundation
+"Pearl Therapeutics, Inc.",Industry
+Tomidahama Hospital,Hospital
+Chiba University,University
+Kumamoto University,University
+"Ministry of Health, Labour and Welfare, Japan",Government
+Takeda,Industry
+Hamamatsu University,University
+Kumamoto University,University
+Yokohama City University Medical Center,University
+"Translational Research Center for Medical Innovation, Kobe, Hyogo, Japan",Foundation
+Yamaguchi University Hospital,University
+Novo Nordisk A/S,Industry
+Eli Lilly and Company,Industry
+Novo Nordisk A/S,Industry
+Novo Nordisk A/S,Industry
+GlaxoSmithKline,Industry
+"Kyoto University, Graduate School of Medicine",University
+Janssen Pharmaceutical K.K.,Industry
+Osaka City University,University
+Epidemiological and Clinical Research Information Network,Foundation
+Novo Nordisk A/S,Industry
+Kyoto University,University
+Boehringer Ingelheim,Industry
+"National Center of Neurology and Psychiatry, Japan",Government
+AstraZeneca,Industry
+Kameda Medical Center,Foundation
+Jordan University of Science and Technology,University
+Al-Balqa Applied University,University
+Jordan University of Science and Technology,University
+Research Institute for Biological Safety Problems,Foundation
+Nazarbayev University Medical Center,University
+Duke University,University
+University of Washington,University
+University of Nairobi,University
+Liverpool School of Tropical Medicine,University
+University of Washington,University
+Wageningen University,University
+National Institute of Allergy and Infectious Diseases (NIAID),Government
+Karolinska Institutet,University
+Centers for Disease Control and Prevention,Government
+PATH,Foundation
+Emory University,University
+Innovations for Poverty Action,Foundation
+Duke University,University
+University of Washington,University
+Royal Tropical Institute,Foundation
+University of Zurich,University
+"University of California, Davis",University
+Swiss Tropical & Public Health Institute,Government
+"St Joseph University, Beirut, Lebanon",University
+Saint-Joseph University,University
+"St Joseph University, Beirut, Lebanon",University
+"St Joseph University, Beirut, Lebanon",University
+"St Joseph University, Beirut, Lebanon",University
+Makassed General Hospital,Hospital
+Swiss Tropical & Public Health Institute,Government
+Washington University School of Medicine,University
+Centers for Disease Control and Prevention,Government
+University of Tampere,University
+Centers for Disease Control and Prevention,Government
+FHI 360,Foundation
+National Institute of Allergy and Infectious Diseases (NIAID),Government
+Johns Hopkins University,University
+Save the Children,Foundation
+Yale University,University
+Malaysia Palm Oil Board,Government
+University of Malaya,University
+University of Malaya,University
+Malaysia Palm Oil Board,Government
+University of Malaya,University
+Monash University,University
+University of Science Malaysia,University
+Menzies School of Health Research,University
+"University of California, San Francisco",University
+Sante Diabete Mali,Foundation
+University of Bamako,University
+"University of California, San Diego",University
+"Coordinación de Investigación en Salud, Mexico",Government
+"Coordinación de Investigación en Salud, Mexico",Government
+Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran,Foundation
+Universidad Autonoma de Queretaro,University
+Instituto Nacional de Cancerologia de Mexico,Foundation
+Hospital Civil de Guadalajara,Hospital
+"Coordinación de Investigación en Salud, Mexico",Government
+Universidad Autonoma de Ciudad Juarez,University
+Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran,Foundation
+Novartis,Industry
+Metropolitan Autonomous University,University
+Brigham and Women's Hospital,Hospital
+Simon Fraser University,University
+Ruhr University of Bochum,University
+Omni Med,Industry
+Canadian Cancer Trials Group,Foundation
+Shire,Industry
+Bayer,Industry
+UCB Pharma,Industry
+Eli Lilly and Company,Industry
+Takeda,Industry
+European Organisation for Research and Treatment of Cancer - EORTC,Government
+National Cancer Institute (NCI),Government
+Radboud University,University
+Grupo Espanol de Trabajo en Enfermedad de Crohn y Colitis Ulcerosa,Foundation
+"Rigshospitalet, Denmark",Hospital
+Biotronik AG,Industry
+Horizon Health Network,Government
+Fin-Ceramica Faenza Spa,Industry
+Bayer,Industry
+European Society of Human Reproduction and Embryology,Government
+Intrinsic Therapeutics,Industry
+"University Hospital, Basel, Switzerland",University
+Air Liquide Santé International,Industry
+"Taiho Pharmaceutical Co., Ltd.",Industry
+Novartis,Industry
+Boehringer Ingelheim,Industry
+Bristol-Myers Squibb,Industry
+Restech Srl,Industry
+Sanofi,Industry
+Hollister Incorporated,Industry
+"Promedior, Inc.",Industry
+ECRI bv,Industry
+Eli Lilly and Company,Industry
+University of Washington,University
+University of Cape Town,University
+"NGM Biopharmaceuticals, Inc",Industry
+Novo Nordisk A/S,Industry
+Novartis,Industry
+Universitätsmedizin Mannheim,University
+Berlin-Chemie AG Menarini Group,Industry
+AstraZeneca,Industry
+"University Hospital, Grenoble",University
+Zimmer Biomet,Industry
+Norwegian University of Science and Technology,University
+Hoffmann-La Roche,Industry
+Eli Lilly and Company,Industry
+Pfizer,Industry
+Eli Lilly and Company,Industry
+Abbott,Industry
+"Genentech, Inc.",Industry
+Forest Laboratories,Industry
+Aalborg Universitetshospital,University
+Biotest,Industry
+Novo Nordisk A/S,Industry
+Sanofi,Industry
+Hoffmann-La Roche,Industry
+Abbott Diabetes Care,Industry
+Novo Nordisk A/S,Industry
+"Genentech, Inc.",Industry
+UCB Pharma,Industry
+Johns Hopkins University,University
+CSL Behring,Industry
+Eli Lilly and Company,Industry
+"Kyowa Kirin Pharmaceutical Development, Inc.",Industry
+"University Hospital, Limoges",University
+Pharmacyclics LLC.,Industry
+"University Hospital, Geneva",University
+Norwegian University of Science and Technology,University
+Ibn Sina Hospital,Hospital
+UCB Pharma,Industry
+"Seattle Genetics, Inc.",Industry
+Federation Francophone de Cancerologie Digestive,Foundation
+MolMed S.p.A.,Industry
+Amgen,Industry
+Novartis,Industry
+CTI BioPharma,Industry
+The European Research Group on Periodontology (ERGOPerio),Government
+Ono Pharmaceutical Co. Ltd,Industry
+Eli Lilly and Company,Industry
+Groupe Oncologie Radiotherapie Tete et Cou,Foundation
+Scandinavian Critical Care Trials Group,Foundation
+Novartis,Industry
+Galapagos NV,Industry
+UCB Pharma,Industry
+American Burn Association,Foundation
+University of Miami,University
+Novartis,Industry
+"Almirall, S.A.",Industry
+Ipsen,Industry
+Ottawa Hospital Research Institute,Hospital
+"SFJ Pharmaceuticals, Inc.",Industry
+Klinikum der Universitaet Muenchen,University
+EMD Serono,Industry
+"University College, London",University
+Eli Lilly and Company,Industry
+Alliance for Clinical Trials in Oncology,Foundation
+Takeda,Industry
+AbbVie,Industry
+Spanish Society of Cardiology,Foundation
+Galapagos NV,Industry
+Institute for Clinical and Experimental Medicine,Foundation
+GlaxoSmithKline,Industry
+Galapagos NV,Industry
+MedtronicNeuro,Industry
+"Vitae Pharmaceuticals, Inc.",Industry
+Novartis,Industry
+National Cancer Institute (NCI),Government
+UCB Pharma,Industry
+"Tricida, Inc.",Industry
+Biotest,Industry
+Novartis,Industry
+SciPharm SàRL,Industry
+Trans-Tasman Radiation Oncology Group (TROG),Foundation
+Mukoviszidose Institut gGmbH,Industry
+Tufts University,University
+Trans-Tasman Radiation Oncology Group (TROG),Foundation
+"University of Witwatersrand, South Africa",University
+AstraZeneca,Industry
+Azienda Ospedaliera Città della Salute e della Scienza di Torino,Hospital
+Pierre Fabre Medicament,Industry
+Trans-Tasman Radiation Oncology Group (TROG),Foundation
+Pfizer,Industry
+University of Erlangen-Nürnberg Medical School,University
+Hasselt University,University
+Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA),University
+Trans-Tasman Radiation Oncology Group (TROG),Foundation
+Dartmouth-Hitchcock Medical Center,Foundation
+International Breast Cancer Study Group,Foundation
+Swiss Group for Clinical Cancer Research,Government
+University of Kansas Medical Center,University
+Institut Straumann AG,Industry
+"National Healthcare Group, Singapore",Government
+Philips Healthcare,Industry
+Hospital de Clinicas de Porto Alegre,Hospital
+Novartis,Industry
+University of Bologna,University
+UNICANCER,Foundation
+Loma Linda University,University
+Radiation Therapy Oncology Group,Foundation
+Fondazione Poliambulanza Istituto Ospedaliero,Foundation
+Ludwig-Maximilians - University of Munich,University
+International Breast Cancer Study Group,Foundation
+Dartmouth-Hitchcock Medical Center,Foundation
+Forest Laboratories,Industry
+Universitaire Ziekenhuizen Leuven,University
+Westat,Industry
+Nestlé,Industry
+Moscow State University of Medicine and Dentistry,University
+Celgene,Industry
+St. Anna Kinderkrebsforschung,Foundation
+The Medicines Company,Industry
+Nottingham University Hospitals NHS Trust,University
+Pierre Fabre Medicament,Industry
+UMC Utrecht,University
+Maisonneuve-Rosemont Hospital,Hospital
+PENTA Foundation,Foundation
+Impulse Dynamics,Industry
+Columbia University,University
+Erasmus Medical Center,Hospital
+Maastricht University Medical Center,University
+IWK Health Centre,Hospital
+CTI BioPharma,Industry
+Regeneron Pharmaceuticals,Industry
+Regionalt Cancercentrum Väst,Government
+Imperial College London,University
+Children's Hospital of Eastern Ontario,Hospital
+"St. James's Hospital, Ireland",Hospital
+Amgen,Industry
+Australia and New Zealand Melanoma Trials Group,Government
+NSABP Foundation Inc,Industry
+Norwegian University of Science and Technology,University
+"National University Hospital, Singapore",Government
+UMC Utrecht,University
+Hoffmann-La Roche,Industry
+The Cleveland Clinic,Hospital
+Pacific Institute for Research and Evaluation,Foundation
+HiPP GmbH & Co. Vertrieb KG,Industry
+St. Jude Medical,Industry
+The University of Queensland,University
+Watson Pharmaceuticals,Industry
+European Organisation for Research and Treatment of Cancer - EORTC,Government
+Karolinska Institutet,University
+MDDX LLC,Industry
+University of Versailles,University
+Medical Research Council,Government
+University of Versailles,University
+University of Schleswig-Holstein,University
+"International Partnership for Microbicides, Inc.",Industry
+Boston University,University
+Johns Hopkins University,University
+Asan Medical Center,Foundation
+University Medicine Greifswald,University
+Great Lakes Pharmaceuticals Inc.,Industry
+National Cancer Institute (NCI),Government
+Universitaire Ziekenhuizen Leuven,University
+Sanquin Research & Blood Bank Divisions,Foundation
+Scientific Institute San Raffaele,Foundation
+Theodor Bilharz Research Institute,Foundation
+"Aragon Pharmaceuticals, Inc.",Industry
+GlaxoSmithKline,Industry
+AstraZeneca,Industry
+Eli Lilly and Company,Industry
+Novartis,Industry
+Medtronic Cardiac Rhythm and Heart Failure,Industry
+Swiss Group for Clinical Cancer Research,Government
+Karolinska University Hospital,University
+Medtronic - MITG,Industry
+"Institut National de la Santé Et de la Recherche Médicale, France",Government
+Rigel Pharmaceuticals,Industry
+Cook MyoSite,Industry
+AIDS Clinical Trials Group,Foundation
+Novartis,Industry
+Biogen,Industry
+Janssen R&D Ireland,Industry
+Boca Raton Regional Hospital,Hospital
+University College Cork,University
+Boehringer Ingelheim,Industry
+Eli Lilly and Company,Industry
+AO Clinical Investigation and Documentation,Foundation
+Dompé Farmaceutici S.p.A,Industry
+Seqirus,Industry
+National Institute of Allergy and Infectious Diseases (NIAID),Government
+Anthera Pharmaceuticals,Industry
+French National Institute for Health and Medical Research-French National Agency for Research on AID,Government
+KU Leuven,University
+Novartis,Industry
+Intercept Pharmaceuticals,Industry
+Boehringer Ingelheim,Industry
+Novo Nordisk A/S,Industry
+GlaxoSmithKline,Industry
+"Vital Therapies, Inc.",Industry
+Maastricht University Medical Center,University
+AstraZeneca,Industry
+Exelixis,Industry
+University of Barcelona,University
+Boston Scientific Corporation,Industry
+"Pearl Therapeutics, Inc.",Industry
+Duke University,University
+Australian and New Zealand Intensive Care Research Centre,Government
+Hoffmann-La Roche,Industry
+Pfizer,Industry
+"Taiho Oncology, Inc.",Industry
+Novartis,Industry
+AM-Pharma,Industry
+Abbott Medical Devices,Industry
+The Hospital for Sick Children,Hospital
+European Organisation for Research and Treatment of Cancer - EORTC,Government
+London School of Hygiene and Tropical Medicine,University
+University of Leipzig,University
+Bayer,Industry
+Fundación para la Investigación del Hospital Clínico de Valencia,Hospital
+Takeda,Industry
+Jazz Pharmaceuticals,Industry
+Novo Nordisk A/S,Industry
+Regeneron Pharmaceuticals,Industry
+mAbxience S.A,Industry
+Novo Nordisk A/S,Industry
+"Rigshospitalet, Denmark",Hospital
+Hoffmann-La Roche,Industry
+Milton S. Hershey Medical Center,Foundation
+UNC Lineberger Comprehensive Cancer Center,Foundation
+Celgene,Industry
+Sanofi,Industry
+GW Research Ltd,Industry
+The George Institute,Foundation
+National Cancer Institute (NCI),Government
+Novartis,Industry
+Hoffmann-La Roche,Industry
+Amgen,Industry
+"University of California, San Francisco",University
+Children's Oncology Group,Foundation
+Novartis,Industry
+Pfizer,Industry
+Alliance for Clinical Trials in Oncology,Foundation
+Novo Nordisk A/S,Industry
+Columbia University,University
+Teva Pharmaceutical Industries,Government
+Actelion,Industry
+MedtronicNeuro,Industry
+Cook Group Incorporated,Industry
+"University of California, San Francisco",University
+AstraZeneca,Industry
+Sanofi,Industry
+Acacia Pharma Ltd,Industry
+Dentsply Sirona Implants,Industry
+GlaxoSmithKline,Industry
+Clinica Alemana de Santiago,Hospital
+Novo Nordisk A/S,Industry
+The Medicines Company,Industry
+"Mt. Sinai Medical Center, Miami",Foundation
+"Janssen Research &amp; Development, LLC",Industry
+Rabin Medical Center,Foundation
+Hoffmann-La Roche,Industry
+GW Research Ltd,Industry
+Pfizer,Industry
+GlaxoSmithKline,Industry
+Frederiksberg University Hospital,University
+Pfizer,Industry
+GlaxoSmithKline,Industry
+ViiV Healthcare,Industry
+AstraZeneca,Industry
+Bayer,Industry
+Eli Lilly and Company,Industry
+Hoffmann-La Roche,Industry
+Exelixis,Industry
+AbbVie,Industry
+Fondazione Michelangelo,Foundation
+Boehringer Ingelheim,Industry
+Boehringer Ingelheim,Industry
+"NGM Biopharmaceuticals, Inc",Industry
+McGill University,University
+Array BioPharma,Industry
+Thorax Centrum Twente,Hospital
+AstraZeneca,Industry
+Medical Research Council,Government
+Radboud University,University
+Medtronic Vascular,Industry
+Boehringer Ingelheim,Industry
+Children's Oncology Group,Foundation
+Boehringer Ingelheim,Industry
+Shire,Industry
+Sanofi,Industry
+Shire,Industry
+Novo Nordisk A/S,Industry
+"Janssen Research &amp; Development, LLC",Industry
+Allergan,Industry
+Eli Lilly and Company,Industry
+Gilead Sciences,Industry
+Bristol-Myers Squibb,Industry
+Greenville Health System,Hospital
+Hoffmann-La Roche,Industry
+Forest Laboratories,Industry
+Novartis,Industry
+Teva Pharmaceutical Industries,Government
+Novartis,Industry
+Columbia University,University
+Ludwig-Maximilians - University of Munich,University
+Medicines Development Limited,Industry
+Bayer,Industry
+Pherecydes Pharma,Industry
+Sanofi,Industry
+University of Ulm,University
+CONRAD,Foundation
+Helsinki University Central Hospital,University
+Eisai Inc.,Industry
+EMD Serono,Industry
+Novo Nordisk A/S,Industry
+University of Aarhus,University
+Bayer,Industry
+Novartis,Industry
+Novartis,Industry
+Novartis,Industry
+GlaxoSmithKline,Industry
+GlaxoSmithKline,Industry
+GlaxoSmithKline,Industry
+GlaxoSmithKline,Industry
+Population Health Research Institute,Foundation
+Centre hospitalier de l'Université de Montréal (CHUM),University
+"Janssen Research & Development, LLC",Industry
+"AFT Pharmaceuticals, Ltd.",Industry
+Catharina Ziekenhuis Eindhoven,Hospital
+Boston Scientific Corporation,Industry
+McMaster University,University
+"Elcelyx Therapeutics, Inc.",Industry
+Shire,Industry
+Eli Lilly and Company,Industry
+Radiation Therapy Oncology Group,Foundation
+BioTech Tools S.A.,Industry
+Radboud University,University
+Foundation for Liver Research,Foundation
+Bristol-Myers Squibb,Industry
+Astellas Pharma Inc,Industry
+"Melinta Therapeutics, Inc.",Industry
+Themis Bioscience GmbH,Industry
+"Tobira Therapeutics, Inc.",Industry
+Acacia Pharma Ltd,Industry
+Centre Hospitalier Universitaire de Nice,University
+Australian and New Zealand Intensive Care Research Centre,Government
+Sanofi,Industry
+Drugs for Neglected Diseases,Foundation
+Hoffmann-La Roche,Industry
+UMC Utrecht,University
+Euro CTO Club,Foundation
+"Pulmonx, Inc.",Industry
+AstraZeneca,Industry
+Novo Nordisk A/S,Industry
+GlaxoSmithKline,Industry
+Eli Lilly and Company,Industry
+Vericel Corporation,Industry
+"ReCor Medical, Inc.",Industry
+Assistance Publique - Hôpitaux de Paris,Hospital
+Exelixis,Industry
+AstraZeneca,Industry
+Smart Medical Systems Ltd.,Industry
+MedImmune LLC,Industry
+PROCEPT BioRobotics,Industry
+Santen SAS,Industry
+Novartis,Industry
+Bristol-Myers Squibb,Industry
+Rabin Medical Center,Foundation
+Sanofi,Industry
+Sanofi,Industry
+Pfizer,Industry
+Kirby Institute,Foundation
+"Tesaro, Inc.",Industry
+University of South Florida,University
+Università Vita-Salute San Raffaele,University
+European Organisation for Research and Treatment of Cancer - EORTC,Government
+Hospital do Coracao,Hospital
+GlaxoSmithKline,Industry
+Gilead Sciences,Industry
+"NGM Biopharmaceuticals, Inc",Industry
+St. Jude Children's Research Hospital,Hospital
+HIV Prevention Trials Network,Foundation
+Bristol-Myers Squibb,Industry
+Crucell Holland BV,Industry
+Danish Procalcitonin Study Group,Government
+AGIR à Dom,Industry
+"Rigshospitalet, Denmark",Hospital
+"Janssen Research & Development, LLC",Industry
+Maastricht University Medical Center,University
+Harvard University Faculty of Medicine,University
+Cosmo Technologies Ltd,Industry
+"University of California, San Francisco",University
+Clinical Evaluation Research Unit at Kingston General Hospital,Hospital
+Al Hayat National Hospital,Government
+Astellas Pharma Inc,Industry
+Novo Nordisk A/S,Industry
+Hoffmann-La Roche,Industry
+Hoffmann-La Roche,Industry
+Celgene,Industry
+Novartis,Industry
+"Cerenis Therapeutics, SA",Industry
+"Genentech, Inc.",Industry
+NICHD Global Network for Women's and Children's Health,Government
+Otto Bock France SNC,Industry
+Forest Laboratories,Industry
+International Breast Cancer Study Group,Foundation
+McMaster University,University
+The University of New South Wales,University
+University of Pittsburgh,University
+Pfizer,Industry
+Bristol-Myers Squibb,Industry
+Novartis,Industry
+ECRI bv,Industry
+University of Edinburgh,University
+Sanofi,Industry
+Maasstad Hospital,Hospital
+Amgen,Industry
+AstraZeneca,Industry
+AstraZeneca,Industry
+Novo Nordisk A/S,Industry
+Boehringer Ingelheim,Industry
+Swiss Group for Clinical Cancer Research,Government
+Hoffmann-La Roche,Industry
+Novo Nordisk A/S,Industry
+"Institut National de la Santé Et de la Recherche Médicale, France",Government
+AstraZeneca,Industry
+Novartis,Industry
+European Organisation for Research and Treatment of Cancer - EORTC,Government
+"University of California, San Francisco",University
+AbbVie,Industry
+Jacobs University Bremen gGmbH,Industry
+Eisai Inc.,Industry
+Ceric Sàrl,Industry
+Sanofi,Industry
+R&amp;D Cardiologie,Industry
+Pfizer,Industry
+Hoffmann-La Roche,Industry
+Novo Nordisk A/S,Industry
+GlaxoSmithKline,Industry
+Eli Lilly and Company,Industry
+Eli Lilly and Company,Industry
+Novartis,Industry
+Hoffmann-La Roche,Industry
+Shire,Industry
+GlaxoSmithKline,Industry
+Sanofi,Industry
+Janssen Sciences Ireland UC,Industry
+Chimerix,Industry
+McGill University Health Center,University
+Novartis,Industry
+Gilead Sciences,Industry
+Oslo University Hospital,University
+University of Cambridge,University
+Corvia Medical,Industry
+Biothera,Industry
+"The University of Texas Health Science Center, Houston",University
+Gilead Sciences,Industry
+Novadaq Technologies Inc.,Industry
+Pfizer,Industry
+The Netherlands Cancer Institute,Government
+"AMAG Pharmaceuticals, Inc.",Industry
+National Institute of Allergy and Infectious Diseases (NIAID),Government
+"ZOLL Circulation, Inc., USA",Industry
+"Melinta Therapeutics, Inc.",Industry
+AstraZeneca,Industry
+Grünenthal GmbH,Industry
+GW Research Ltd,Industry
+AstraZeneca,Industry
+University Hospital Heidelberg,University
+Eli Lilly and Company,Industry
+Pfizer,Industry
+GlaxoSmithKline,Industry
+GlaxoSmithKline,Industry
+"Orion Corporation, Orion Pharma",Industry
+Royal Tropical Institute,Foundation
+"Janssen Research & Development, LLC",Industry
+Galderma,Industry
+"Tetraphase Pharmaceuticals, Inc.",Industry
+International Food Policy Research Institute,Foundation
+Children's Oncology Group,Foundation
+Neurotech Pharmaceuticals,Industry
+Hoffmann-La Roche,Industry
+"The University of Texas Health Science Center, Houston",University
+Novo Nordisk A/S,Industry
+AstraZeneca,Industry
+Bayer,Industry
+"Daiichi Sankyo, Inc.",Industry
+Spectral Diagnostics (US) Inc.,Industry
+Rebiotix Inc.,Industry
+"University of California, San Francisco",University
+Duke University,University
+Massachusetts Eye and Ear Infirmary,Hospital
+Ultragenyx Pharmaceutical Inc,Industry
+Monash University,University
+Monash University,University
+Royal Adelaide Hospital,Hospital
+Austin Health,Hospital
+"Zafgen, Inc.",Industry
+Bayside Health,Industry
+University of Sydney,University
+Uniquest Pty Ltd,Industry
+University of Melbourne,University
+Center for Eye Research Australia,Government
+Medical Research Council,Government
+South West Sydney Local Health District,Government
+The Alfred,Hospital
+Austin Health,Hospital
+University of Melbourne,University
+University of Melbourne,University
+Baker IDI Heart and Diabetes Institute,Foundation
+The Alfred,Hospital
+Brien Holden Vision,Foundation
+Monash University,University
+Medical University of Graz,University
+Britannia Pharmaceuticals Ltd.,Industry
+Medical University of Graz,University
+Arbeitsgemeinschaft medikamentoese Tumortherapie,Foundation
+Medical University of Graz,University
+Bioverativ Therapeutics Inc.,Industry
+University of Vienna,University
+Medical University of Vienna,University
+Medical University of Graz,University
+Medical University of Graz,University
+Medical University of Vienna,University
+Celltrion,Industry
+Austrian Breast &amp; Colorectal Cancer Study Group,Foundation
+Novo Nordisk A/S,Industry
+Wilhelminenspital Vienna,Hospital
+Wilhelminenspital Vienna,Hospital
+Medical University of Vienna,University
+Medical University of Vienna,University
+Harvard Pilgrim Health Care,Industry
+Minsk State Clinical Hospital No 9,Hospital
+Cyprus University of Technology,University
+"Joint Child Health Project, Mauritius",Foundation
+Johns Hopkins Bloomberg School of Public Health,University
+Zambia Center for Applied Health Research and Development,Government
+University of Alabama at Birmingham,University
+Zambart,Foundation
+"Institute of Population, Health and Development, Vietnam",Foundation
+McMaster University,University
+"Oxford University Clinical Research Unit, Vietnam",University
+"University of California, Los Angeles",University
+Universidad Europea de Madrid,University
+Universidad Europea de Madrid,University
+Universidad Europea de Madrid,University
+"Centro Nacional de Quemados, Uruguay",Government
+"University Hospital, Angers",University
+"Royal College of Surgeons, Ireland",University
+Amgen,Industry
+NPO International TRI Network,Foundation
+Toronto Centre for Advanced Reproductive Technology,Foundation
+London School of Hygiene and Tropical Medicine,University
+Cedars-Sinai Medical Center,Foundation
+Merck Sharp & Dohme Corp.,Industry
+Chulalongkorn University,University
+Anhui Medical University,University
+Chang Gung Memorial Hospital,Hospital
+Yonsei University,University
+The Cleveland Clinic,Hospital
+Nationwide Children's Hospital,Hospital
+Shionogi Inc.,Industry
+Merck Sharp & Dohme Corp.,Industry
+Rhode Island Hospital,Hospital
+Greenville Health System,Hospital
+Action Contre la Faim,Foundation
+University of Pennsylvania,University
+Oslo and Akershus University College of Applied Sciences,University
+University of Jyvaskyla,University
+Taro Pharmaceuticals USA,Industry
+Brigham and Women's Hospital,Hospital
+Livzon Pharmaceutical Group Inc.,Industry
+Norwegian University of Science and Technology,University
+The University of Queensland,University
+CEN Biotech,Industry
+Virginia Commonwealth University,University
+Lund University,University
+Centro de Investigación en Alimentación y Desarrollo A.C.,Foundation
+Universidade Federal de Sergipe,University
+"Gerencia de Atención Primaria, Albacete",Hospital
+Bispebjerg Hospital,Hospital
+University of Utah,University
+University of Connecticut,University
+Araclon Biotech S.L.,Industry
+Dokuz Eylul University,University
+"University of Novi Sad, Faculty of Sport and Physical Education",University
+Montefiore Medical Center,Foundation
+Yale University,University
+Aravind Eye Care System,Hospital
+Turku University Hospital,University
+Children's Hospital Srebrnjak,Hospital
+Singapore General Hospital,Hospital
+Sri Sathya Sai Institute of Higher Medical Sciences,Foundation
+Universidad Rey Juan Carlos,University
+San Diego State University,University
+Basque Country University,University
+"University of California, San Diego",University
+Universidade Federal do Rio de Janeiro,University
+Ahlia University,University
+TurnCare Inc.,Industry
+Westat,Industry
+"Faculty of Medicine, Sousse",University
+Universidade Federal do Ceara,University
+University of Alabama at Birmingham,University
+New York University,University
+Stanford University,University
+Instituto de Cardiologia do Rio Grande do Sul,Foundation
+Chitwan Medical College,University
+Hangzhou Normal University,University
+Laboratorios Sophia S.A de C.V.,Industry
+"Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico",Hospital
+Universidad de la Frontera,University
+"University of California, San Francisco",University
+"National Heart, Lung, and Blood Institute (NHLBI)",Government
+Kırıkkale University,University
+Seoul National University Bundang Hospital,Government
+"Government Dental College and Research Institute, Bangalore",University
+National Yang Ming University,Government
+Chulabhorn Hospital,Hospital
+Ankara Training and Research Hospital,Hospital
+McGill University,University
+"Rigshospitalet, Denmark",Hospital
+University of Siena,University
+Assiut University,University
+Universidade Federal do Rio de Janeiro,University
+Cairo University,University
+Clemson University,University
+KU Leuven,University
+Ege University,University
+Assiut University,University
+University of Guelph,University
+Federal University of Health Science of Porto Alegre,University
+University of Agder,University
+Soroka University Medical Center,University
+Sha’ar Menashe Mental Health Center,Hospital
+Universidade Estadual Paulista Júlio de Mesquita Filho,University
+Hospital Clinico Universitario de Santiago,Hospital
+University of Arkansas,University
+"University Hospital, Gentofte, Copenhagen",University
+University of Sao Paulo,University
+Centro Hospitalar Lisboa Norte,Hospital
+Johnson &amp; Johnson Consumer and Personal Products Worldwide,Industry
+Universidade Estadual de Goiás,University
+Universidade Federal de Sergipe,University
+National Naval Medical Center,Government
+West China College of Stomatology,University
+Pusan National University Hospital,Government
+Rothman Institute Orthopaedics,Foundation
+"National Heart Institute, Egypt",Government
+St. Louis University,University
+University of Pittsburgh,University
+Yonsei University,University
+Region Östergötland,Government
+King Fahad Medical City,Hospital
+G. d'Annunzio University,University
+Korea United Pharm. Inc.,Industry
+Hospital Clinic of Barcelona,Hospital
+"Synthes USA HQ, Inc.",Industry
+University of Lausanne,University
+Texas Tech University,University
+Marmara University,University
+Bogomolets National Medical University,Government
+Tomsk National Research Medical Center of the Russian Academy of Sciences,Government
+Ajou University School of Medicine,University
+Mahidol University,University
+University of Lisbon,University
+Korea University Anam Hospital,University
+University of Roma La Sapienza,University
+University at Albany,University
+Università degli Studi di Brescia,University
+Azienda Ospedaliera Cardinale G. Panico,Hospital
+Universidad Complutense de Madrid,University
+Ain Shams University,University
+Women and Infants Hospital of Rhode Island,Hospital
+Butler Hospital,Hospital
+Alcon Research,Foundation
+Hospital Privado de Comunidad de Mar del Plata,Hospital
+University of Isfahan,University
+University of Texas Southwestern Medical Center,University
+Slaven Falamić,Not Funded
+Old Dominion University,University
+University Medical Centre Ljubljana,University
+"University of California, San Francisco",University
+National University of Malaysia,Government
+Fundación Pública Andaluza para la Investigación Biomédica Andalucía Oriental,Foundation
+Abdul Latif Jameel Poverty Action Lab,Foundation
+Universidad de Zaragoza,University
+Careggi Hospital,Hospital
+Ege University,University
+Shanghai University of Traditional Chinese Medicine,University
+Istanbul University,University
+University of Kentucky,University
+Pusan National University,Government
+Emory University,University
+Immunology Research Institute in Gifu,Foundation
+University of Valencia,University
+Associação Médico Espírita de Botucatu,Foundation
+University of Chicago,University
+Milton S. Hershey Medical Center,Foundation
+Universidade do Porto,University
+Raisio Group,Foundation
+Inonu University,University
+Rio de Janeiro State University,University
+Universidad Católica San Antonio de Murcia,University
+University of South Carolina,University
+Harokopio University,University
+Shriners Hospitals for Children,Hospital
+Universitaire Ziekenhuizen Leuven,University
+Göteborg University,University
+University of Coimbra,University
+University of Toronto,University
+"University Hospital, Antwerp",University
+Universiti Putra Malaysia,University
+Azienda Ospedaliero-Universitaria Careggi,University
+Ludwig-Maximilians - University of Munich,University
+Rush University Medical Center,University
+Michigan State University,University
+University of Sao Paulo,University
+Assiut University,University
+Gazi University,University
+University of Pisa,University
+Seoul National University Bundang Hospital,Government
+Hanmi Pharmaceutical Company Limited,Industry
+Guy's and St Thomas' NHS Foundation Trust,Government
+University of Valladolid,University
+University of Washington,University
+Veteran Affairs Office of Patient Care Services,Government
+Hospital de Clinicas de Porto Alegre,Hospital
+Universidade Federal de Santa Catarina,University
+Göteborg University,University
+University of Alabama at Birmingham,University
+Zagazig University,University
+Augusta University,University
+"Chung-Ang University Hosptial, Chung-Ang University College of Medicine",University
+Providence VA Medical Center,Government
+Université d'Auvergne,University
+University of Connecticut,University
+University of the Punjab,University
+University of Ulster,University
+Ain Shams University,University
+Tel Hai College,University
+Instituto de Investigacion Sanitaria La Fe,Foundation
+University of Miami,University
+Fondazione Don Carlo Gnocchi Onlus,Foundation
+University of Chicago,University
+Fondazione Don Carlo Gnocchi Onlus,Foundation
+Universidade Estadual Paulista Júlio de Mesquita Filho,University
+Isfahan University of Medical Sciences,University
+Universidade Federal do Rio Grande do Norte,University
+Cukurova University,Government
+Universitaire Ziekenhuizen Leuven,University
+Saglik Bilimleri Universitesi Gulhane Tip Fakultesi,University
+"University of Campania ""Luigi Vanvitelli""",University
+Seoul National University Bundang Hospital,Government
+"SK Chemicals Co.,Ltd.",Industry
+University Medical Centre Ljubljana,University
+Centro de estudos em Atenção Plena,Foundation
+Imperial College Healthcare NHS Trust,University
+Brigham and Women's Hospital,Hospital
+University of Tennessee Graduate School of Medicine,University
+University of Georgia,University
+Abdul Latif Jameel Poverty Action Lab,Foundation
+Yonsei University,University
+Tuscan Dental Institute,Foundation
+University of Chile,University
+National Nutrition and Food Technology Institute,Government
+University Of Perugia,University
+Radiation Therapy Oncology Group,Foundation
+Menoufia University,University
+"University of Wisconsin, Madison",University
+Saglik Bilimleri Universitesi Gulhane Tip Fakultesi,University
+"Charles University, Czech Republic",University
+Merck Sharp & Dohme Corp.,Industry
+Pusan National University Hospital,Government
+Singapore National Eye Centre,Government
+"Sinovac (Dalian) Vaccine Technology Co., Ltd.",Industry
+University of British Columbia,University
+Le Bonheur Children's Hospital,Hospital
+Asklepieion Voulas General Hospital,Hospital
+King's College London,University
+University of Minnesota - Clinical and Translational Science Institute,University
+Ahlia University,University
+Catholic University of the Sacred Heart,University
+Kaiser Permanente,Industry
+Universidade Estadual de Londrina,University
+GlaxoSmithKline,Industry
+Universitaire Ziekenhuizen Leuven,University
+Canisius College,University
+"Government Dental College and Research Institute, Bangalore",University
+"Berkhout, Christophe",Not Funded
+IBSS Biomed S.A.,Industry
+Medical University of South Carolina,University
+Laval University,University
+Poznan University of Medical Sciences,University
+The University of Texas Health Science Center at San Antonio,University
+Sadat City University,University
+"University of North Carolina, Chapel Hill",University
+McGill University Health Center,University
+Ain Shams University,University
+Samsung Medical Center,Foundation
+University of Oulu,University
+Asofarma de México S.A de C.V.,Industry
+Stryker South Pacific,Industry
+"International Centre for Diarrhoeal Disease Research, Bangladesh",Government
+Nestlé,Industry
+Uppsala University,University
+Virginia Polytechnic Institute and State University,University
+Kafrelsheikh University,University
+National Taiwan University Hospital,Government
+University of Maryland,University
+Region Skane,Government
+Indiana University,University
+Universidade Federal do Paraná,University
+Istanbul Medipol University Hospital,University
+National Aeronautics and Space Administration (NASA),Government
+Ege University,University
+University of New Mexico,University
+Rothman Institute Orthopaedics,Foundation
+Ispharm srl,Industry
+Universidad de la Sabana,University
+Universidade Federal do Triangulo Mineiro,University
+University Medical Centre Ljubljana,University
+"University of California, Los Angeles",University
+King's College London,University
+Chang Gung Memorial Hospital,Hospital
+Massachusetts General Hospital,Hospital
+University of Sao Paulo General Hospital,University
+Foundation IRCCS San Matteo Hospital,Hospital
+Universitat Internacional de Catalunya,University
+"Regenstrief Institute, Inc.",Industry
+Istanbul University,University
+National and Kapodistrian University of Athens,Government
+Northwestern University,University
+Johns Hopkins University,University
+"Government Dental College and Research Institute, Bangalore",University
+Universidade Estadual Paulista Júlio de Mesquita Filho,University
+Gangnam Severance Hospital,Hospital
+University Of Perugia,University
+"University of California, San Francisco",University
+Lyell McEwin Hospital,Hospital
+"University of Colorado, Denver",University
+Federal University of Minas Gerais,University
+Ingredion Incorporated,Industry
+Ramathibodi Hospital,Hospital
+Universidade Estadual de Londrina,University
+Peking University People's Hospital,University
+Brown University,University
+Postgraduate Institute of Dental Sciences Rohtak,University
+Universidade Estadual de Londrina,University
+"University of Colorado, Denver",University
+Instituto do Cancer do Estado de São Paulo,Foundation
+Jordi Gol i Gurina Foundation,Foundation
+Hospital Nossa Senhora da Conceicao,Hospital
+Brown University,University
+Federal University of Minas Gerais,University
+Tel-Aviv Sourasky Medical Center,Foundation
+Mae Fah Luang University Hospital,University
+"Kuhnil Pharmaceutical Co., Ltd.",Industry
+Indiana University,University
+Yale University,University
+"Institute of Liver and Biliary Sciences, India",Government
+Barretos Cancer Hospital,Hospital
+Universidade Federal Fluminense,University
+Ramathibodi Hospital,Hospital
+Jhpiego,Foundation
+Rush University Medical Center,University
+Aretaieion University Hospital,University
+Medical University Innsbruck,University
+Thammasat University,University
+University Rovira i Virgili,University
+University of Sao Paulo,University
+"International Centre for Diarrhoeal Disease Research, Bangladesh",Government
+IRCCS Policlinico S. Matteo,Hospital
+King Abdulaziz University,University
+University Ghent,University
+Catholic University of the Sacred Heart,University
+University of Birmingham,University
+Erasme University Hospital,University
+Università degli Studi di Brescia,University
+Universidad Católica San Antonio de Murcia,University
+Brandeis University,University
+Dudley Group NHS Foundation Trust,Government
+Universidad Complutense de Madrid,University
+"Wuhan Union Hospital, China",Hospital
+University of Cape Town,University
+Nanjing Medical University,University
+Harokopio University,University
+University of Messina,University
+University of Utah,University
+University of Georgia,University
+Federal University of Minas Gerais,University
+"Bangabandhu Sheikh Mujib Medical University, Dhaka, Bangladesh",University
+Jhpiego,Foundation
+Croydon Health Services NHS Trust,Government
+University of Toronto,University
+American University of Beirut Medical Center,University
+Odense University Hospital,University
+Fundação de Medicina Tropical Dr. Heitor Vieira Dourado,Not Funded
+"Promundo, United States",Government
+Universidad Rey Juan Carlos,University
+Linkoeping University,University
+"BioRegen Biomedical (CHangzhou) Co., Ltd",Industry
+Federal University of the Valleys of Jequitinhonha and Mucuri,University
+Weill Medical College of Cornell University,University
+Ain Shams University,University
+Boston College,University
+Universidade da Coruña,University
+Central South University,University
+Technical University of Lisbon,University
+Universidade Federal do vale do São Francisco,University
+Seoul National University Hospital,Government
+Assiut University,University
+"Medical Research Council, South Africa",Government
+University Ghent,University
+Fundacion Clinica Valle del Lili,Hospital
+CHU de Quebec-Universite Laval,University
+Nestlé,Industry
+University of Southern Denmark,University
+Nihon University,University
+University of Guadalajara,University
+University of Pennsylvania,University
+"University of North Carolina, Chapel Hill",University
+McMaster University,University
+Universidade do Porto,University
+Rhode Island Hospital,Hospital
+Merck Sharp & Dohme Corp.,Industry
+University of Chile,University
+Universitaire Ziekenhuizen Leuven,University
+Unilever R&D,Industry
+Merck Sharp & Dohme Corp.,Industry
+Sheffield Teaching Hospitals NHS Foundation Trust,Hospital
+Universiti Putra Malaysia,University
+Montefiore Medical Center,Foundation
+AbbVie,Industry
+"University of California, San Francisco",University
+University of Pennsylvania,University
+"Rigshospitalet, Denmark",Hospital
+Merck Sharp & Dohme Corp.,Industry
+Henry Ford Health System,Hospital
+Hallym University Kangnam Sacred Heart Hospital,University
+University of Pennsylvania,University
+Oxford University Hospitals NHS Trust,University
+Zuyd University of Applied Sciences,University
+Sun Pharma Global FZE,Industry
+Karolinska University Hospital,University
+"Rigshospitalet, Denmark",Hospital
+Ottawa Hospital Research Institute,Hospital
+Merck Sharp &amp; Dohme Corp.,Industry
+"Third Affiliated Hospital, Sun Yat-Sen University",University
+Cedars-Sinai Medical Center,Foundation
+Guy's and St Thomas' NHS Foundation Trust,Government
+Sun Life Financial Movement Disorders Research and Rehabilitation Centre,Foundation
+Alcon Research,Foundation
+"The Baruch Padeh Medical Center, Poriya",Foundation
+Merck Sharp & Dohme Corp.,Industry
+Universidade Federal de Pernambuco,University
+Khushi Baby Inc.,Industry
+Central South University,University
+Federal University of São Paulo,University
+Merck Sharp & Dohme Corp.,Industry
+Merck Sharp & Dohme Corp.,Industry
+"University Hospital, Basel, Switzerland",University
+Merck Sharp & Dohme Corp.,Industry
+HealthPartners Institute,Foundation
+Merck Sharp & Dohme Corp.,Industry
+AbbVie,Industry
+Merck Sharp & Dohme Corp.,Industry
+Hospital Miguel Servet,Hospital
+Universidade Federal de Pernambuco,University
+Merck Sharp & Dohme Corp.,Industry
+AbbVie,Industry
+Fujian Medical University,University
+Universidade Norte do Paraná,University
+Merck Sharp & Dohme Corp.,Industry
+Centre de Recherche de l'Institut Universitaire de Geriatrie de Montreal,University
+Universidade Estadual de Londrina,University
+Valduce Hospital,Hospital
+Massachusetts General Hospital,Hospital
+Bispebjerg Hospital,Hospital
+Chung Shan Medical University,University
+The Hong Kong Polytechnic University,University
+University of British Columbia,University
+Aarhus University Hospital,University
+Barretos Cancer Hospital,Hospital
+Lund University,University
+Children's Hospital of Fudan University,University
+Cedars-Sinai Medical Center,Foundation
+Karolinska Institutet,University
+Universitat Oberta de Catalunya,University
+International Vaccine Institute,Foundation
+Karolinska Institutet,University
+Merck Sharp & Dohme Corp.,Industry
+Chinese Gynecological Oncology Group,Foundation
+Keimyung University Dongsan Medical Center,University
+Merck Sharp & Dohme Corp.,Industry
+University of Ottawa,University
+University of Bergen,University
+Duke-NUS Graduate Medical School,University
+Xijing Hospital,Hospital
+Boston University,University
+Nottingham University Hospitals NHS Trust,University
+Merck Sharp &amp; Dohme Corp.,Industry
+University of British Columbia,University
+Merck Sharp &amp; Dohme Corp.,Industry
+Federal University of Health Science of Porto Alegre,University
+King Abdulaziz University,University
+Merck Sharp & Dohme Corp.,Industry
+Merck Sharp & Dohme Corp.,Industry
+Merck Sharp &amp; Dohme Corp.,Industry
+Sun Pharma Advanced Research Company Limited,Industry
+Amgen,Industry
+Universidad Nacional de Colombia,University
+Merck Sharp & Dohme Corp.,Industry
+"International Clinic of Rehabilitation, Ukraine",Hospital
+Please refer to primary and secondary sponsors,Industry
+Please refer to primary and secondary sponsors,University
+Emory University,University
+Vaxart,Industry
+Planned Parenthood League of Massachusetts,Foundation
+Medical College of Wisconsin,University
+University of Arkansas,University
+Abbott Nutrition,Industry
+Memorial Sloan Kettering Cancer Center,Foundation
+Duke University,University
+"University of California, San Francisco",University
+"Children's Hospital Medical Center, Cincinnati",Hospital
+Loyola University,University
+University of Oklahoma,University
+M.D. Anderson Cancer Center,Foundation
+University of New Mexico,University
+Eli Lilly and Company,Industry
+Brigham and Women's Hospital,Hospital
+Halyard Health,Industry
+Boston Medical Center,Foundation
+Foundation Fighting Blindness,Foundation
+National Institutes of Health Clinical Center (CC),Government
+Washington University School of Medicine,University
+M.D. Anderson Cancer Center,Foundation
+Wayne State University,University
+University of Pennsylvania,University
+University of Illinois at Chicago,University
+University of Virginia,University
+Mayo Clinic,Hospital
+Boston University,University
+"Pacira Pharmaceuticals, Inc",Industry
+Baim Institute for Clinical Research,Foundation
+University of Kansas Medical Center,University
+"Laureate Institute for Brain Research, Inc.",Industry
+University of Pennsylvania,University
+Teva Pharmaceutical Industries,Government
+"University of Wisconsin, Madison",University
+Meda Pharmaceuticals,Industry
+Northwestern University,University
+Loma Linda University,University
+University of Washington,University
+"University of California, San Diego",University
+Children's Hospital of Philadelphia,Hospital
+Purdue University,University
+Brigham and Women's Hospital,Hospital
+Memorial Sloan Kettering Cancer Center,Foundation
+VA Boston Healthcare System,Government
+Northwestern University,University
+California Collaborative Treatment Group,Foundation
+Prothena Biosciences Limited,Industry
+"University of Wisconsin, Madison",University
+"Janssen Biotech, Inc.",Industry
+Columbia University,University
+Old Dominion University,University
+Analgesic Solutions,Industry
+"University of North Carolina, Chapel Hill",University
+National Institutes of Health Clinical Center (CC),Government
+Winthrop University Hospital,University
+Mayo Clinic,Hospital
+"Vapotherm, Inc.",Industry
+Kettering Health Network,Hospital
+University of Washington,University
+Greater Houston Retina Research,Foundation
+Oregon Health and Science University,University
+"University of Colorado, Boulder",University
+Northwestern University,University
+"University of Colorado, Denver",University
+National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),Government
+National Institute on Aging (NIA),Government
+Yasoo Health,Industry
+"Regenstrief Institute, Inc.",Industry
+Carrick Institute for Graduate Studies,Foundation
+Nationwide Children's Hospital,Hospital
+Milton S. Hershey Medical Center,Foundation
+Duke University,University
+USDA Beltsville Human Nutrition Research Center,Government
+Brooke Army Medical Center,Foundation
+Mayo Clinic,Hospital
+"University of California, San Diego",University
+Washington University School of Medicine,University
+National Institutes of Health Clinical Center (CC),Government
+"University of Colorado, Denver",University
+Vanderbilt University,University
+Washington University School of Medicine,University
+Yale University,University
+Indiana University,University
+University of Pittsburgh,University
+Medtronic Endovascular,Industry
+Conatus Pharmaceuticals Inc.,Industry
+"Institute for Food Safety and Health, United States",Government
+University of Kansas Medical Center,University
+University of Florida,University
+University of Minnesota - Clinical and Translational Science Institute,University
+University of Southern California,University
+"The University of Texas Health Science Center, Houston",University
+University of Minnesota - Clinical and Translational Science Institute,University
+Tufts University,University
+Avanir Pharmaceuticals,Industry
+University of Chicago,University
+Beth Israel Deaconess Medical Center,Foundation
+"Hospital for Special Surgery, New York",Hospital
+Minneapolis Medical Research Foundation,Foundation
+"Union College, New York",University
+Florida Hospital,Hospital
+University of Miami,University
+Chatham University,University
+Louisiana State University and A&amp;M College,University
+Northwestern University,University
+The University of Texas Health Science Center at San Antonio,University
+USDA Beltsville Human Nutrition Research Center,Government
+University of Southern California,University
+Mayo Clinic,Hospital
+Boston Children’s Hospital,Hospital
+Wake Forest University Health Sciences,University
+Brooke Army Medical Center,Foundation
+Massachusetts General Hospital,Hospital
+Northwestern University,University
+Medical University of South Carolina,University
+Memorial Sloan Kettering Cancer Center,Foundation
+Midwest Center for Metabolic and Cardiovascular Research,Foundation
+Yale University,University
+Physicians Committee for Responsible Medicine,Foundation
+Medical University of South Carolina,University
+Oregon Health and Science University,University
+Regeneron Pharmaceuticals,Industry
+M.D. Anderson Cancer Center,Foundation
+M.D. Anderson Cancer Center,Foundation
+"REMD Biotherapeutics, Inc.",Industry
+New York State Psychiatric Institute,Government
+Boston Children’s Hospital,Hospital
+"University of Wisconsin, Madison",University
+Massachusetts General Hospital,Hospital
+Seattle Children's Hospital,Hospital
+Massachusetts General Hospital,Hospital
+Florida Hospital,Hospital
+Stanford University,University
+University of New Mexico,University
+"University of North Texas, Denton, TX",University
+Memorial Sloan Kettering Cancer Center,Foundation
+The University of Texas Health Science Center at San Antonio,University
+University of Miami,University
+Duke University,University
+Texas Tech University Health Sciences Center,University
+"University of California, San Francisco",University
+University of Maryland,University
+Massachusetts General Hospital,Hospital
+Emory University,University
+"The University of Texas Health Science Center, Houston",University
+EPI-Q,Industry
+Ohio State University Comprehensive Cancer Center,University
+Sheppard Pratt Health System,Hospital
+University of Michigan,University
+"University of Massachusetts, Worcester",University
+USDA Beltsville Human Nutrition Research Center,Government
+Washington University School of Medicine,University
+"University of California, San Francisco",University
+University of Pennsylvania,University
+Olmsted Medical Center,Foundation
+"Solace Therapeutics, Inc.",Industry
+University of Vermont,University
+University of Washington,University
+Memorial Sloan Kettering Cancer Center,Foundation
+University of Vermont,University
+Mayo Clinic,Hospital
+University of Pennsylvania,University
+"University of California, San Francisco",University
+University of Pennsylvania,University
+Stealth BioTherapeutics Inc.,Industry
+"University of Colorado, Denver",University
+Washington University School of Medicine,University
+Icahn School of Medicine at Mount Sinai,University
+The University of Texas at Dallas,University
+Oregon Research Institute,Foundation
+Memorial Sloan Kettering Cancer Center,Foundation
+Monell Chemical Senses Center,Foundation
+"University of North Carolina, Chapel Hill",University
+Indiana University,University
+3M,Industry
+University of Alabama at Birmingham,University
+Truth Initiative,Foundation
+Stanford University,University
+Johns Hopkins University,University
+St. Luke's-Roosevelt Hospital Center,Hospital
+University of Iowa,University
+The National Dental Practice-Based Research Network,Government
+National Multiple Sclerosis Society,Government
+University of Pennsylvania,University
+NorthShore University HealthSystem Research Institute,University
+Johns Hopkins University,University
+"University of California, Los Angeles",University
+Osiris Therapeutics,Industry
+Memorial Sloan Kettering Cancer Center,Foundation
+"University of Wisconsin, Madison",University
+Brigham and Women's Hospital,Hospital
+Children's Hospitals and Clinics of Minnesota,Hospital
+Alameda Health System,Hospital
+Washington University School of Medicine,University
+University of Texas Southwestern Medical Center,University
+Abramson Cancer Center of the University of Pennsylvania,University
+DuPont Nutrition and Health,Industry
+Indiana University,University
+Acclarent,Industry
+Oregon Health and Science University,University
+Duke University,University
+National Institutes of Health Clinical Center (CC),Government
+Emory University,University
+Medtronic Endovascular,Industry
+Massachusetts General Hospital,Hospital
+National Institutes of Health Clinical Center (CC),Government
+"University of Colorado, Denver",University
+Memorial Sloan Kettering Cancer Center,Foundation
+University of Illinois at Chicago,University
+United States Army Research Institute of Environmental Medicine,Government
+Zimmer Biomet,Industry
+New York State Psychiatric Institute,Government
+"University of Wisconsin, Madison",University
+University of Texas Southwestern Medical Center,University
+Butler Hospital,Hospital
+"Rutgers, The State University of New Jersey",University
+Boston University,University
+Kaiser Permanente,Industry
+Emory University,University
+Massachusetts General Hospital,Hospital
+Mayo Clinic,Hospital
+"University of California, Los Angeles",University
+University of Iowa,University
+Yale University,University
+University of Pennsylvania,University
+Duke University,University
+"Recro Pharma, Inc.",Industry
+Acucela Inc.,Industry
+Rush University Medical Center,University
+University of Michigan,University
+"Pamlab, Inc.",Industry
+Alabama Physical Therapy & Acupuncture,Industry
+"Toltec Pharmaceuticals, LLC",Industry
+"University of California, Davis",University
+"The University of Texas Medical Branch, Galveston",University
+Massachusetts General Hospital,Hospital
+"University of California, Berkeley",University
+Northwestern Health Sciences University,University
+"University of California, San Francisco",University
+Northwell Health,University
+"Alkermes, Inc.",Industry
+Benaroya Research Institute,Foundation
+Duchesnay Inc.,Industry
+Professional Education and Research Institute,Foundation
+University of Kentucky,University
+Penumbra Inc.,Industry
+Lower Extremity Institute for Research and Therapy,Foundation
+Columbia University,University
+"California State University, Fullerton",University
+Case Western Reserve University,University
+University of Michigan,University
+Memorial Sloan Kettering Cancer Center,Foundation
+Medical University of South Carolina,University
+Washington University School of Medicine,University
+University of Texas at Austin,University
+MemorialCare Health System,Industry
+Norgine,Industry
+"Regenesis Biomedical, Inc.",Industry
+University of Michigan,University
+Johns Hopkins Bloomberg School of Public Health,University
+University of Pennsylvania,University
+"NGM Biopharmaceuticals, Inc",Industry
+"Alkermes, Inc.",Industry
+Mayo Clinic,Hospital
+Northwestern University,University
+Wayne State University,University
+Columbia University,University
+"Merz North America, Inc.",Industry
+"Alkermes, Inc.",Industry
+University of Utah,University
+University of Alabama at Birmingham,University
+"NovaDigm Therapeutics, Inc.",Industry
+Brown University,University
+"MiMedx Group, Inc.",Industry
+Augusta University,University
+Radiation Therapy Oncology Group,Foundation
+Celltrion,Industry
+Watson Pharmaceuticals,Industry
+Wayne State University,University
+Price Vision Group,Hospital
+Ann & Robert H Lurie Children's Hospital of Chicago,Hospital
+Mayo Clinic,Hospital
+Northwestern University,University
+"University of North Carolina, Chapel Hill",University
+VA Puget Sound Health Care System,Government
+University of Nebraska Lincoln,University
+Icahn School of Medicine at Mount Sinai,University
+Brigham and Women's Hospital,Hospital
+Mayo Clinic,Hospital
+National Cancer Institute (NCI),Government
+University of Pittsburgh,University
+Tufts Medical Center,Foundation
+"Research Foundation for Mental Hygiene, Inc.",Industry
+Torax Medical Incorporated,Industry
+Northwestern University,University
+"Entellus Medical, Inc.",Industry
+Braeburn Pharmaceuticals,Industry
+University of Pennsylvania,University
+"Adamas Pharmaceuticals, Inc.",Industry
+Washington University School of Medicine,University
+Milton S. Hershey Medical Center,Foundation
+International AIDS Vaccine Initiative,Foundation
+Duke University,University
+University of Rochester,Industry
+"Children's Hospital Medical Center, Cincinnati",Hospital
+Madigan Army Medical Center,Foundation
+University of Pittsburgh,University
+Astellas Pharma Inc,Industry
+University of Washington,University
+Walter Reed National Military Medical Center,Government
+Southwest Oncology Group,Foundation
+Northwestern University,University
+"University of California, Berkeley",University
+TherapeuticsMD,Industry
+"University of Alabama, Tuscaloosa",University
+Northwell Health,University
+Duke University,University
+University of Florida,University
+Yale University,University
+Ohio State University Comprehensive Cancer Center,University
+Northwestern University,University
+Washington University School of Medicine,University
+Benaroya Research Institute,Foundation
+North Carolina State University,University
+"University of California, San Francisco",University
+University of Pennsylvania,University
+University of Alabama at Birmingham,University
+Mayo Clinic,Hospital
+Boston Children’s Hospital,Hospital
+Nestlé,Industry
+Shirley Ryan AbilityLab,Hospital
+"University of North Carolina, Chapel Hill",University
+Florida Hospital,Hospital
+University of Michigan,University
+Boston Children’s Hospital,Hospital
+AltheaDx,Industry
+Cornell University,University
+Duke University,University
+"University of North Carolina, Chapel Hill",University
+University of Pittsburgh,University
+"Anika Therapeutics, Inc.",Industry
+Yale University,University
+University of Alabama at Birmingham,University
+"University of California, San Diego",University
+Massachusetts General Hospital,Hospital
+University of Texas Southwestern Medical Center,University
+Columbia University,University
+Defense and Veterans Center for Integrative Pain Management,Government
+NICHD Pelvic Floor Disorders Network,Government
+University of Connecticut,University
+Stony Brook University,University
+University of Pennsylvania,University
+Arizona State University,University
+Thomas Jefferson University,University
+"University of California, San Francisco",University
+Nationwide Children's Hospital,Hospital
+Children's Mercy Hospital Kansas City,Hospital
+GlaxoSmithKline,Industry
+Arizona State University,University
+University of Florida,University
+Purdue University,University
+University of Kentucky,University
+CDx Diagnostics,Industry
+Vanderbilt University Medical Center,University
+Connecticut Children's Medical Center,Foundation
+Nova Southeastern University,Government
+Penn State University,University
+Washington University School of Medicine,University
+Northwestern University,University
+University of Florida,University
+Indiana University,University
+George Washington University,University
+White River Junction Veterans Affairs Medical Center,Government
+Carnegie Mellon University,University
+Montefiore Medical Center,Foundation
+New York University School of Medicine,University
+"Hologenix, LLC",Industry
+William Beaumont Hospitals,Hospital
+Rush University Medical Center,University
+University of Alabama at Birmingham,University
+National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),Government
+Carolinas Healthcare System,Hospital
+Portland State University,University
+Aciont Inc,Industry
+"Hospital for Special Surgery, New York",Hospital
+Brigham and Women's Hospital,Hospital
+Madigan Army Medical Center,Foundation
+University of Chicago,University
+Madigan Army Medical Center,Foundation
+Craig Hospital,Hospital
+Baylor College of Medicine,University
+"University of Colorado, Denver",University
+University of the Incarnate Word,University
+University of Rochester,Industry
+Purdue University,University
+Center for Hunger-Free Communities,Foundation
+Boston Heart Diagnostics,Industry
+VA Ann Arbor Healthcare System,Government
+Thomas Jefferson University,University
+"University of California, San Francisco",University
+"The University of Texas Medical Branch, Galveston",University
+Northwell Health,University
+"University of Nebraska, Omaha",University
+Yale University,University
+"Kowa Research Institute, Inc.",Industry
+Medtronic Spinal and Biologics,Industry
+"University of Wisconsin, Madison",University
+University of Arizona,University
+Washington University School of Medicine,University
+Harvard School of Public Health,University
+Johns Hopkins University,University
+University of Illinois at Urbana-Champaign,University
+University of Delaware,University
+Wake Forest University Health Sciences,University
+University of Alabama at Birmingham,University
+University of Southern California,University
+University of Texas Southwestern Medical Center,University
+Alameda Health System,Hospital
+RAND,Foundation
+Baylor Research Institute,Foundation
+University of Iowa,University
+University of Virginia,University
+"Radius Health, Inc.",Industry
+Saint Joseph Mercy Health System,Hospital
+"University of California, Merced",University
+Thomas Jefferson University,University
+"The University of Texas Medical Branch, Galveston",University
+National Opinion Research Center,Government
+University of Maryland,University
+Brooke Army Medical Center,Foundation
+Minnesota Department of Health,Government
+Indiana University,University
+The Cleveland Clinic,Hospital
+Emory University,University
+University of Texas at Austin,University
+Fox Chase Cancer Center,Foundation
+University of Kansas Medical Center,University
+University of Washington,University
+"University of California, San Diego",University
+University of Michigan,University
+VA Office of Research and Development,Government
+Emory University,University
+University of Pennsylvania,University
+University of Washington,University
+Pennington Biomedical Research Center,Foundation
+Beth Israel Deaconess Medical Center,Foundation
+"The University of Texas Medical Branch, Galveston",University
+Fred Hutchinson Cancer Research Center,Foundation
+Boston University,University
+University of Minnesota - Clinical and Translational Science Institute,University
+The University of Texas Health Science Center at San Antonio,University
+Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD),Government
+University of Virginia,University
+Virginia Commonwealth University,University
+USDA Human Nutrition Research Center on Aging,Government
+Arizona State University,University
+University of Minnesota - Clinical and Translational Science Institute,University
+Case Western Reserve University,University
+Washington University School of Medicine,University
+University of Washington,University
+Takeda,Industry
+Columbia University,University
+Michigan State University,University
+Atlantic Health System,Industry
+Griffin Hospital,Hospital
+Virginia Polytechnic Institute and State University,University
+University of Alabama at Birmingham,University
+University of Pennsylvania,University
+Virginia Polytechnic Institute and State University,University
+Denver Research Institute,Foundation
+University of Pennsylvania,University
+University of Alabama at Birmingham,University
+"University of California, Los Angeles",University
+Northwell Health,University
+University of Texas at Austin,University
+Children's Mercy Hospital Kansas City,Hospital
+Columbia University,University
+New York State Psychiatric Institute,Government
+Western Kentucky University,University
+"The University of Texas Health Science Center, Houston",University
+Spectrum Health Hospitals,Hospital
+Harvard University Faculty of Medicine,University
+University of Tennessee Health Science Center,University
+St. Louis University,University
+University of Alabama at Birmingham,University
+Children's Hospital & Research Center Oakland,Hospital
+Henry Ford Health System,Hospital
+VA Office of Research and Development,Government
+"University of California, Irvine",University
+Yale University,University
+Washington University School of Medicine,University
+Medical University of South Carolina,University
+Dartmouth-Hitchcock Medical Center,Foundation
+Cornell University,University
+Saint Anselm College,University
+TriHealth Inc.,Industry
+Johns Hopkins University,University
+H. Lee Moffitt Cancer Center and Research Institute,Foundation
+Rothman Institute Orthopaedics,Foundation
+M.D. Anderson Cancer Center,Foundation
+University of Michigan,University
+Brigham and Women's Hospital,Hospital
+MetroHealth Medical Center,Foundation
+University of Alabama at Birmingham,University
+Minneapolis Medical Research Foundation,Foundation
+University of Pittsburgh,University
+University of Maryland,University
+University of South Carolina,University
+"Children's Hospital Medical Center, Cincinnati",Hospital
+University of New Mexico,University
+Stony Brook University,University
+San Diego State University,University
+Tulane University,University
+New York State Psychiatric Institute,Government
+University of Montana,University
+San Diego Veterans Healthcare System,Government
+VA Office of Research and Development,Government
+High Point University,University
+Oregon Health and Science University,University
+Virginia Commonwealth University,University
+San Diego State University,University
+Kaiser Permanente,Industry
+"Intermountain Health Care, Inc.",Industry
+Texas A&amp;M University,University
+Memorial Sloan Kettering Cancer Center,Foundation
+Johns Hopkins University,University
+University of Hawaii,University
+"University of Colorado, Denver",University
+UConn Health,Hospital
+Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins,Foundation
+Case Western Reserve University,University
+University of Iowa,University
+GlaxoSmithKline,Industry
+Inova Health Care Services,Government
+i4Health,Foundation
+Oregon Research Institute,Foundation
+University of Illinois at Chicago,University
+Ohio State University Comprehensive Cancer Center,University
+Wayne State University,University
+New York State Psychiatric Institute,Government
+Stanford University,University
+New York University School of Medicine,University
+Cedars-Sinai Medical Center,Foundation
+Dana-Farber Cancer Institute,Foundation
+University of Maryland,University
+Brigham and Women's Hospital,Hospital
+Vanderbilt University Medical Center,University
+Tufts University,University
+University of Alabama at Birmingham,University
+Sharp HealthCare,Hospital
+National Cancer Institute (NCI),Government
+Reckitt Benckiser LLC,Industry
+University of Texas Southwestern Medical Center,University
+Arizona State University,University
+The Miriam Hospital,Hospital
+Children's Mercy Hospital Kansas City,Hospital
+Baylor College of Medicine,University
+Medical College of Wisconsin,University
+Massachusetts General Hospital,Hospital
+Washington University School of Medicine,University
+Georgetown University,University
+University of Delaware,University
+Texas Tech University,University
+Chestnut Health Systems,Hospital
+Johns Hopkins University,University
+Washington University School of Medicine,University
+University of Kansas Medical Center,University
+Dentsply International,Industry
+Medical University of South Carolina,University
+University of Alabama at Birmingham,University
+Northwestern University,University
+University of Delaware,University
+University of Oklahoma,University
+University of Pennsylvania,University
+AOBiome LLC,Industry
+Tulane University,University
+Duke University,University
+Washington University School of Medicine,University
+The Cleveland Clinic,Hospital
+Brown University,University
+Pennington Biomedical Research Center,Foundation
+University of Pittsburgh,University
+Pfizer,Industry
+"University of Colorado, Denver",University
+Children's Hospital of Philadelphia,Hospital
+Brigham and Women's Hospital,Hospital
+The University of Texas Health Science Center at San Antonio,University
+Appalachian State University,University
+Henry Ford Health System,Hospital
+University of Pennsylvania,University
+University of Tennessee,University
+Johns Hopkins University,University
+Massachusetts General Hospital,Hospital
+"Mt Sinai Hospital, Chicago",Hospital
+Carnegie Mellon University,University
+Washington University School of Medicine,University
+Yale University,University
+University of Southern California,University
+Virginia Commonwealth University,University
+"University of California, San Francisco",University
+"Rutgers, The State University of New Jersey",University
+Kemin Foods LC,Industry
+Northwestern University,University
+San Diego State University,University
+Columbia University,University
+University of Alabama at Birmingham,University
+University of Miami,University
+University of Tennessee,University
+New York University School of Medicine,University
+"University of North Carolina, Chapel Hill",University
+"University of North Carolina, Chapel Hill",University
+Purdue University,University
+University of Minnesota - Clinical and Translational Science Institute,University
+San Diego State University,University
+Stanford University,University
+Portland VA Medical Center,Government
+Arizona State University,University
+Dartmouth-Hitchcock Medical Center,Foundation
+Phoenix Children's Hospital,Hospital
+The George Washington University Biostatistics Center,University
+Johns Hopkins University,University
+Wayne State University,University
+NorthShore University HealthSystem Research Institute,University
+University of Minnesota - Clinical and Translational Science Institute,University
+University of Houston,University
+University of Missouri-Columbia,University
+Milton S. Hershey Medical Center,Foundation
+Innovation Research &amp; Training,Foundation
+University of Washington,University
+Wake Forest University Health Sciences,University
+"University of California, San Diego",University
+University of Rochester,Industry
+Milton S. Hershey Medical Center,Foundation
+"University of California, San Diego",University
+Butler Hospital,Hospital
+UConn Health,Hospital
+Atlantic Health System,Industry
+Massachusetts General Hospital,Hospital
+University of Connecticut,University
+William Beaumont Hospitals,Hospital
+Drexel University,University
+University of Mississippi Medical Center,University
+Harvard University,University
+University of Michigan,University
+Washington University School of Medicine,University
+Ochsner Health System,Hospital
+Rush University Medical Center,University
+University of Utah,University
+"University of California, San Francisco",University
+"University of California, San Diego",University
+"The University of Texas Health Science Center, Houston",University
+New York University School of Medicine,University
+Baylor College of Medicine,University
+University of Minnesota - Clinical and Translational Science Institute,University
+Albany Medical College,University
+American Hip Institute,Foundation
+National Institute of Allergy and Infectious Diseases (NIAID),Government
+Harvard School of Dental Medicine,University
+"University of Colorado, Boulder",University
+Sonoma State University,University
+Hoag Memorial Hospital Presbyterian,Hospital
+"University of Massachusetts, Boston",University
+"University of California, San Francisco",University
+University of Michigan,University
+Northwestern University,University
+"University of California, San Francisco",University
+VA Office of Research and Development,Government
+University of Tennessee,University
+University of Illinois at Urbana-Champaign,University
+Stony Brook University,University
+"University of California, San Francisco",University
+University of Iowa,University
+Colorado State University,University
+Baylor College of Medicine,University
+Case Western Reserve University,University
+National Institute of Environmental Health Sciences (NIEHS),Government
+East Carolina University,University
+"University of North Carolina, Chapel Hill",University
+"University of California, San Francisco",University
+Case Western Reserve University,University
+RAND,Foundation
+University of Miami,University
+Centers for Disease Control and Prevention,Government
+Fred Hutchinson Cancer Research Center,Foundation
+NorthShore University HealthSystem,University
+Johns Hopkins Bloomberg School of Public Health,University
+Duke University,University
+"Genentech, Inc.",Industry
+Massachusetts General Hospital,Hospital
+Emory University,University
+Northwestern University,University
+"University of Colorado, Denver",University
+VA Office of Research and Development,Government
+"University of California, San Diego",University
+"Hospital for Special Surgery, New York",Hospital
+North Texas Veterans Healthcare System,Government
+University of Washington,University
+Kaiser Permanente,Industry
+"ICStudy, LLC",Industry
+"University of North Carolina, Chapel Hill",University
+Children's Mercy Hospital Kansas City,Hospital
+VA Office of Research and Development,Government
+National Institute on Alcohol Abuse and Alcoholism (NIAAA),Government
+Brigham and Women's Hospital,Hospital
+University of Michigan,University
+Yale University,University
+University of Texas Southwestern Medical Center,University
+Northwestern University,University
+"University of North Carolina, Chapel Hill",University
+University of Texas Southwestern Medical Center,University
+University of Texas Southwestern Medical Center,University
+Duke University,University
+"The University of Texas Health Science Center, Houston",University
+Emory University,University
+USDA Beltsville Human Nutrition Research Center,Government
+VA Office of Research and Development,Government
+Hartford Hospital,Hospital
+Milton S. Hershey Medical Center,Foundation
+Zosano Pharma Corporation,Industry
+VA Connecticut Healthcare System,Government
+Duke University,University
+Emory University,University
+Alabama Physical Therapy &amp; Acupuncture,Industry
+"USDA, Western Human Nutrition Research Center",Government
+GlaxoSmithKline,Industry
+The EMMES Corporation,Industry
+"National Development and Research Institutes, Inc.",Government
+National Cancer Institute (NCI),Government
+The Cleveland Clinic,Hospital
+Baylor College of Medicine,University
+VA Office of Research and Development,Government
+HealthPartners Institute,Foundation
+Cefaly Technology,Industry
+Yale University,University
+Youngstown State University,University
+Johns Hopkins University,University
+"University of California, Davis",University
+University of Alabama at Birmingham,University
+Nationwide Children's Hospital,Hospital
+"Albert Einstein College of Medicine, Inc.",University
+AstraZeneca,Industry
+Yale University,University
+University of Miami,University
+"Sancilio and Company, Inc.",Industry
+"Genocea Biosciences, Inc.",Industry
+Northwestern University,University
+Teva Pharmaceutical Industries,Government
+Wake Forest University Health Sciences,University
+Weill Medical College of Cornell University,University
+University of Florida,University
+"Children's Hospital Medical Center, Cincinnati",Hospital
+University of Iowa,University
+Children's Research Institute,Foundation
+"University of Wisconsin, Madison",University
+Mayo Clinic,Hospital
+Emory University,University
+Thomas Jefferson University,University
+University of Iowa,University
+Dana-Farber Cancer Institute,Foundation
+Yale University,University
+Abbott Medical Devices,Industry
+"Hebrew Rehabilitation Center, Boston",Foundation
+VA Office of Research and Development,Government
+Johns Hopkins University,University
+The University of Texas at Dallas,University
+University of Florida,University
+Oregon Health and Science University,University
+California Polytechnic State University-San Luis Obispo,University
+Yale University,University
+University of Utah,University
+Brigham and Women's Hospital,Hospital
+University of Pittsburgh,University
+Columbia University,University
+University of Alabama at Birmingham,University
+Wake Forest University Health Sciences,University
+National Institute of Allergy and Infectious Diseases (NIAID),Government
+Yale University,University
+Craig Hospital,Hospital
+"University of California, San Francisco",University
+Seattle Children's Hospital,Hospital
+"University of California, San Francisco",University
+Oregon Health and Science University,University
+University of Minnesota - Clinical and Translational Science Institute,University
+Northwestern University,University
+Butler Hospital,Hospital
+Brigham and Women's Hospital,Hospital
+C. R. Bard,Industry
+University of Texas Southwestern Medical Center,University
+"University of California, San Francisco",University
+The Cleveland Clinic,Hospital
+University of Pennsylvania,University
+National Institutes of Health Clinical Center (CC),Government
+Rhode Island Hospital,Hospital
+National Cancer Institute (NCI),Government
+US WorldMeds LLC,Industry
+"University of California, Davis",University
+Shady Grove Fertility Reproductive Science Center,Foundation
+National Cancer Institute (NCI),Government
+Kaiser Permanente,Industry
+Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins,Foundation
+Columbia University,University
+Vanderbilt University Medical Center,University
+"University of California, San Francisco",University
+Alere Wellbeing,Industry
+Montefiore Medical Center,Foundation
+Montefiore Medical Center,Foundation
+Nova Southeastern University,Government
+Gynecologic Oncology Group,Foundation
+AIDS Clinical Trials Group,Foundation
+Bausch &amp; Lomb Incorporated,Industry
+University of Rochester,Industry
+Eastern Maine Medical Center,Foundation
+VA Office of Research and Development,Government
+Washington State University,University
+Wake Forest University Health Sciences,University
+Rockefeller University,University
+"University of North Carolina, Chapel Hill",University
+Agency for Healthcare Research and Quality (AHRQ),Foundation
+New York University School of Medicine,University
+Vanderbilt University,University
+Mayo Clinic,Hospital
+Tufts University,University
+"University of California, San Francisco",University
+Kessler Foundation,Foundation
+Brigham and Women's Hospital,Hospital
+"University of Massachusetts, Worcester",University
+"MiMedx Group, Inc.",Industry
+Wake Forest University Health Sciences,University
+National Institute of Allergy and Infectious Diseases (NIAID),Government
+"University of North Carolina, Chapel Hill",University
+Massachusetts General Hospital,Hospital
+"PrECOG, LLC.",Industry
+Des Moines University,University
+M.D. Anderson Cancer Center,Foundation
+National Institutes of Health Clinical Center (CC),Government
+Yale University,University
+Virginia Commonwealth University,University
+Montefiore Medical Center,Foundation
+Carolinas Healthcare System,Hospital
+National Institute of Allergy and Infectious Diseases (NIAID),Government
+University of Pennsylvania,University
+"University of California, San Francisco",University
+M.D. Anderson Cancer Center,Foundation
+FHI 360,Foundation
+Columbia University,University
+Tufts University,University
+University of Alabama at Birmingham,University
+"The University of Texas Health Science Center, Houston",University
+Rush University Medical Center,University
+Pfizer,Industry
+AIDS Clinical Trials Group,Foundation
+Health Decisions,Industry
+Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins,Foundation
+Wake Forest University Health Sciences,University
+Mayo Clinic,Hospital
+University of Pittsburgh,University
+National Jewish Health,Government
+Fred Hutchinson Cancer Research Center,Foundation
+"Children's Hospital Medical Center, Cincinnati",Hospital
+Winthrop University Hospital,University
+Duke University,University
+Massachusetts General Hospital,Hospital
+University of Texas Southwestern Medical Center,University
+National University of Natural Medicine,Government
+Columbia University,University
+VA Office of Research and Development,Government
+University of Rochester,Industry
+VA Office of Research and Development,Government
+Hoffmann-La Roche,Industry
+The University of Texas Health Science Center at San Antonio,University
+Takeda,Industry
+Multidisciplinary Association for Psychedelic Studies,Foundation
+Montefiore Medical Center,Foundation
+"Hebrew Rehabilitation Center, Boston",Foundation
+"SCRI Development Innovations, LLC",Industry
+Jaeb Center for Health Research,Foundation
+Blood Center of Wisconsin,Foundation
+VA Office of Research and Development,Government
+University of Hawaii,University
+VA Office of Research and Development,Government
+San Francisco Department of Public Health,Government
+Children's Research Institute,Foundation
+Nationwide Children's Hospital,Hospital
+University of Texas Southwestern Medical Center,University
+"University of California, Los Angeles",University
+Southwest Oncology Group,Foundation
+Multidisciplinary Association for Psychedelic Studies,Foundation
+University of Pittsburgh,University
+Hartford Hospital,Hospital
+"Hospital for Special Surgery, New York",Hospital
+"Pursuit Vascular, Inc.",Industry
+University of Michigan,University
+Mayo Clinic,Hospital
+Massachusetts General Hospital,Hospital
+Proton Collaborative Group,Foundation
+Mayo Clinic,Hospital
+University of Pittsburgh,University
+Northwestern University,University
+Seattle Children's Hospital,Hospital
+Stanford University,University
+Stanford University,University
+Shire,Industry
+Southwest Oncology Group,Foundation
+Forest Laboratories,Industry
+Seton Healthcare Family,Hospital
+VA Office of Research and Development,Government
+Fred Hutchinson Cancer Research Center,Foundation
+University of New Mexico,University
+Henry Ford Health System,Hospital
+Oregon Health and Science University,University
+Children's Hospital of Philadelphia,Hospital
+Massachusetts General Hospital,Hospital
+Eli Lilly and Company,Industry
+Oregon Health and Science University,University
+United States Department of Defense,Government
+Southwest Oncology Group,Foundation
+Southwest Oncology Group,Foundation
+Northwell Health,University
+Duke University,University
+University of Arizona,University
+University of Washington,University
+Duke University,University
+Greater Houston Retina Research,Foundation
+Nexstim Ltd,Industry
+Kent State University,University
+"University of California, Los Angeles",University
+Columbia University,University
+Seattle Institute for Biomedical and Clinical Research,Foundation
+University of Miami,University
+Abramson Cancer Center of the University of Pennsylvania,University
+Alliance for Clinical Trials in Oncology,Foundation
+VA Office of Research and Development,Government
+Alliance for Clinical Trials in Oncology,Foundation
+Galectin Therapeutics Inc.,Industry
+University of Washington,University
+Washington University School of Medicine,University
+University of Oregon,University
+University Hospitals Cleveland Medical Center,University
+Brigham and Women's Hospital,Hospital
+Mayo Clinic,Hospital
+Mayo Clinic,Hospital
+University of Florida,University
+Kaiser Permanente,Industry
+AIDS Malignancy Consortium,Foundation
+Planned Parenthood Federation of America,Foundation
+Ampio Pharmaceuticals. Inc.,Industry
+VA Office of Research and Development,Government
+VA Office of Research and Development,Government
+"Aimmune Therapeutics, Inc.",Industry
+Duke University,University
+Case Comprehensive Cancer Center,Foundation
+Loma Linda University,University
+University of Rhode Island,University
+"University of Colorado, Denver",University
+Dartmouth-Hitchcock Medical Center,Foundation
+National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),Government
+Washington University School of Medicine,University
+U.S. Army Medical Research and Materiel Command,Government
+New York State Psychiatric Institute,Government
+M.D. Anderson Cancer Center,Foundation
+Johns Hopkins University,University
+Clemson University,University
+Yale University,University
+"University of Wisconsin, Madison",University
+Children's Mercy Hospital Kansas City,Hospital
+Johns Hopkins University,University
+Wake Forest University Health Sciences,University
+University of Pittsburgh,University
+Mayo Clinic,Hospital
+Indiana University,University
+"The University of Texas Health Science Center, Houston",University
+Salem Veterans Affairs Medical Center,Government
+"University of Wisconsin, Madison",University
+VA Office of Research and Development,Government
+VA Office of Research and Development,Government
+VA Palo Alto Health Care System,Government
+Inova Health Care Services,Government
+VA Office of Research and Development,Government
+VA Office of Research and Development,Government
+VA Office of Research and Development,Government
+National Institutes of Health Clinical Center (CC),Government
+Yale University,University
+New York University School of Medicine,University
+"University of California, Los Angeles",University
+University of Southern California,University
+University of Minnesota - Clinical and Translational Science Institute,University
+Kaiser Permanente,Industry
+Massachusetts General Hospital,Hospital
+University of Rochester,Industry
+"University of California, San Francisco",University
+VA Office of Research and Development,Government
+Duke University,University
+University of Miami,University
+Columbia University,University
+Jaeb Center for Health Research,Foundation
+"Hospital for Special Surgery, New York",Hospital
+University of Tennessee,University
+Scripps Health,Hospital
+"Intuor Technologies, Inc.",Industry
+University of Alabama at Birmingham,University
+Northwestern University,University
+"University of California, San Francisco",University
+University of Washington,University
+GlaxoSmithKline,Industry
+"University of California, San Francisco",University
+"The University of Texas Health Science Center, Houston",University
+Washington University School of Medicine,University
+Children's Hospital of Philadelphia,Hospital
+University of Florida,University
+Brooke Army Medical Center,Foundation
+University of Southern California,University
+Denver Health and Hospital Authority,Government
+VA Office of Research and Development,Government
+Johns Hopkins University,University
+Northwell Health,University
+Scripps Translational Science Institute,Foundation
+Fred Hutchinson Cancer Research Center,Foundation
+"Motus Therapeutics, Inc.",Industry
+Washington University School of Medicine,University
+AmpliMed Corporation,Industry
+EKOS Corporation,Industry
+"Children's Hospital Medical Center, Cincinnati",Hospital
+VA Office of Research and Development,Government
+VA Office of Research and Development,Government
+Maimonides Medical Center,Foundation
+Northwestern University,University
+Wake Forest University Health Sciences,University
+"University of North Carolina, Chapel Hill",University
+University of Chicago,University
+University of Rochester,Industry
+"University of Wisconsin, Madison",University
+"University of Wisconsin, Madison",University
+Protein Sciences Corporation,Industry
+"University of North Carolina, Chapel Hill",University
+Women and Infants Hospital of Rhode Island,Hospital
+California Collaborative Treatment Group,Foundation
+The Cleveland Clinic,Hospital
+University of Pittsburgh,University
+Christiana Care Health Services,Hospital
+VA Office of Research and Development,Government
+Medicines for Malaria Venture,Industry
+Wake Forest University Health Sciences,University
+Northwestern University,University
+Oregon Health and Science University,University
+"University of Colorado, Denver",University
+University of Pittsburgh,University
+University of Chicago,University
+"University of North Carolina, Chapel Hill",University
+University of Minnesota - Clinical and Translational Science Institute,University
+University of Miami,University
+VA Office of Research and Development,Government
+VA Office of Research and Development,Government
+Bavarian Nordic,Industry
+Duquesne University,University
+Washington University School of Medicine,University
+Duke University,University
+University of Michigan,University
+Duke University,University
+Duke University,University
+Revimmune,Industry
+"The University of Texas Health Science Center, Houston",University
+"Children's Hospital Medical Center, Cincinnati",Hospital
+Center for International Blood and Marrow Transplant Research,Foundation
+University of Utah,University
+Loma Linda University,University
+"University of California, San Diego",University
+Medical College of Wisconsin,University
+Nationwide Children's Hospital,Hospital
+"Children's Hospital Medical Center, Cincinnati",Hospital
+Brigham and Women's Hospital,Hospital
+Brigham and Women's Hospital,Hospital
+National Institute of Allergy and Infectious Diseases (NIAID),Government
+The Miriam Hospital,Hospital
+University of Pittsburgh,University
+Jaeb Center for Health Research,Foundation
+University of Utah,University
+"University of California, Los Angeles",University
+University of Rochester,Industry
+Yale University,University
+Boston University,University
+Florida Hospital,Hospital
+Wake Forest University Health Sciences,University
+New York University School of Medicine,University
+Emory University,University
+"University of California, Los Angeles",University
+University of Virginia,University
+"University of California, San Diego",University
+Washington University School of Medicine,University
+Tufts Medical Center,Foundation
+NuSirt Biopharma,Industry
+George Washington University,University
+Seattle Children's Hospital,Hospital
+VA Office of Research and Development,Government
+University of Michigan,University
+Massachusetts General Hospital,Hospital
+Denver Health and Hospital Authority,Government
+Boston Children’s Hospital,Hospital
+Mclean Hospital,Hospital
+Takeda,Industry
+Center for Innovative Public Health Research,Foundation
+Montefiore Medical Center,Foundation
+Brigham and Women's Hospital,Hospital
+Massachusetts General Hospital,Hospital
+Boston University,University
+Kaiser Permanente,Industry
+University of Florida,University
+University of Pittsburgh,University
+Stanford University,University
+"University of Massachusetts, Worcester",University
+National Institute of Allergy and Infectious Diseases (NIAID),Government
+"St. Joseph's Hospital and Medical Center, Phoenix",Hospital
+"University of North Carolina, Chapel Hill",University
+"University of California, San Francisco",University
+Boston University Charles River Campus,University
+University of Florida,University
+Mayo Clinic,Hospital
+National Cancer Institute (NCI),Government
+Vanderbilt University Medical Center,University
+"Tandem Diabetes Care, Inc.",Industry
+Jaeb Center for Health Research,Foundation
+Dartmouth-Hitchcock Medical Center,Foundation
+University of New Mexico,University
+Emory University,University
+Brown University,University
+University of Western States,University
+National Institute of Allergy and Infectious Diseases (NIAID),Government
+Tufts Medical Center,Foundation
+Duke University,University
+New York Institute of Technology,University
+Menlo Therapeutics Inc.,Industry
+"University of California, San Francisco",University
+Columbia University,University
+Johns Hopkins University,University
+University of South Carolina,University
+Wake Forest University Health Sciences,University
+Wake Forest University Health Sciences,University
+NICHD Neonatal Research Network,Government
+GlaxoSmithKline,Industry
+Nationwide Children's Hospital,Hospital
+Michigan State University,University
+"The University of Texas Medical Branch, Galveston",University
+Northwestern University,University
+University of Alabama at Birmingham,University
+University of Kansas Medical Center,University
+Vanderbilt University Medical Center,University
+University of Virginia,University
+ICON Bioscience Inc,Industry
+Hoffmann-La Roche,Industry
+Minneapolis Medical Research Foundation,Foundation
+"University of California, San Francisco",University
+Montefiore Medical Center,Foundation
+Montefiore Medical Center,Foundation
+National Cancer Institute (NCI),Government
+University of Pennsylvania,University
+"National Heart, Lung, and Blood Institute (NHLBI)",Government
+"University of Colorado, Denver",University
+VA Office of Research and Development,Government
+"University of California, San Diego",University
+Duke University,University
+University of Minnesota - Clinical and Translational Science Institute,University
+Northwestern University,University
+"University of Massachusetts, Worcester",University
+Nationwide Children's Hospital,Hospital
+Saint Joseph Mercy Health System,Hospital
+National Institute of Allergy and Infectious Diseases (NIAID),Government
+AstraZeneca,Industry
+Emory University,University
+Maimonides Medical Center,Foundation
+Virginia Commonwealth University,University
+Northwestern University,University
+University of Michigan,University
+Yale University,University
+University of Tennessee,University
+"University of Colorado, Denver",University
+Northwestern University,University
+"University of California, San Francisco",University
+Vanderbilt University Medical Center,University
+"The University of Texas Health Science Center, Houston",University
+M.D. Anderson Cancer Center,Foundation
+Cedars-Sinai Medical Center,Foundation
+University of Pittsburgh,University
+University of Iowa,University
+Northwestern University,University
+Washington University School of Medicine,University
+National Institute of Allergy and Infectious Diseases (NIAID),Government
+Optinose US Inc.,Industry
+"Obalon Therapeutics, Inc.",Industry
+"Pearl Therapeutics, Inc.",Industry
+"Intermountain Health Care, Inc.",Industry
+VentiRx Pharmaceuticals Inc.,Industry
+Mayo Clinic,Hospital
+National Cancer Institute (NCI),Government
+"University of Massachusetts, Worcester",University
+Crucell Holland BV,Industry
+M.D. Anderson Cancer Center,Foundation
+Case Western Reserve University,University
+University of Pennsylvania,University
+"University of California, San Francisco",University
+Northern California Institute of Research and Education,Foundation
+New York State Psychiatric Institute,Government
+Yale University,University
+Geisinger Clinic,Hospital
+Eastern Cooperative Oncology Group,Foundation
+"University of California, Los Angeles",University
+"University of Colorado, Denver",University
+"University of California, Los Angeles",University
+Dartmouth-Hitchcock Medical Center,Foundation
+Children's Mercy Hospital Kansas City,Hospital
+"University of California, San Francisco",University
+Johns Hopkins University,University
+"University of California, San Francisco",University
+Children's Mercy Hospital Kansas City,Hospital
+Virginia Commonwealth University,University
+"University of California, Los Angeles",University
+University of Washington,University
+University of New Mexico,University
+University of Pittsburgh,University
+VA Office of Research and Development,Government
+Sangamo Therapeutics,Industry
+Bristol-Myers Squibb,Industry
+University of Pennsylvania,University
+Joslin Diabetes Center,Foundation
+"USDA, Delta Human Nutrition Research Program",Government
+Providence Medical Research Center,Foundation
+State University of New York - Upstate Medical University,University
+Stanford University,University
+Milton S. Hershey Medical Center,Foundation
+University of Maryland,University
+University of Kansas Medical Center,University
+University of Kansas Medical Center,University
+"University of California, San Francisco",University
+Novadaq Technologies Inc.,Industry
+Icahn School of Medicine at Mount Sinai,University
