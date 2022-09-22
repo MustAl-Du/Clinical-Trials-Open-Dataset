@@ -1,0 +1,4712 @@
+Postoperative Morbidity,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Heart Failure,Heart Disease
+Hypoxia,Others
+"Urinary Incontinence, Urge",Kidney Disease
+Cognitive Performance (Focus),Mental Health
+Lung Cancer,Oncology
+Liver Transplantation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Healthy,Others
+Intermittent Claudication,Heart Disease
+Non Coeliac Gluten Sensitivity,Obesity and Physical Activity
+Cardiovascular Disease,Heart Disease
+Dietary Modification,Obesity and Physical Activity
+Deep Vein Thrombosis,Heart Disease
+Prostatic Neoplasms,Oncology
+Anxiety Disorders,Mental Health
+Obesity Hypoventilation Syndrome,Obesity and Physical Activity
+Attention Deficit Hyperactivity Disorder (ADHD),Mental Health
+Cognitive Behaviour Therapy for Internalised Stigma,Mental Health
+Cancer,Oncology
+Major Depressive Disorder,Mental Health
+Polycystic Ovary Syndrome,Reproduction and Sexual Health
+Head and Neck Cancer,Oncology
+Menopause,Reproduction and Sexual Health
+Blood Pressure,Heart Disease
+Healthy,Others
+Type II Diabetes Mellitus,Diabetes
+Back Pain,Arthritis and Injuries
+"Jaw, Edentulous, Partially",Oral Health
+Psoriatic Arthritis,Arthritis and Injuries
+Dementia in Parkinson's Disease,Mental Health
+Erosive Tooth Wear,Oral Health
+Heart Failure,Heart Disease
+"Kidney Failure, Chronic",Kidney Disease
+Cancer of Head and Neck,Oncology
+Cardiac Valve Replacement,Heart Disease
+Colorectal Neoplasms,Oncology
+Metabolic Syndrome,Obesity and Physical Activity
+Peripheral Vascular Disease,"Ear, Nose and Throat"
+Malocclusion,Oral Health
+Incisional Hernia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Hemiparesis,Others
+Lung,Pulmonary Disease
+Bladder Cancer,Oncology
+Peripheral T-cell Lymphoma NOS,Oncology
+Dyspnea,Pulmonary Disease
+Stable Angina,Heart Disease
+Venous Leg Ulcer,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Selenium and Iodine Status,Obesity and Physical Activity
+Pelvic Floor Disorders,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Fatigue,Others
+Type 1 Diabetes Mellitus,Diabetes
+Coronary Artery Disease,Heart Disease
+Obese,Obesity and Physical Activity
+Diabetes Mellitus,Diabetes
+Breast Cancer,Oncology
+Head and Neck Position for Intubation,Arthritis and Injuries
+Dupuytren's Disease,Arthritis and Injuries
+Colorectal Cancer,Oncology
+Reversible Pulpitis,Oral Health
+Depressive Symptoms,Mental Health
+HIV,Reproduction and Sexual Health
+Asthma,Pulmonary Disease
+"LPS Challenge, Neutrophils",Others
+Infectious Diseases,Skin Condition
+Tinnitus,"Ear, Nose and Throat"
+Coagulopathy in Patients Having Thoraco-Abdominal Aneurysm Repair,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Kidney Transplantation,Kidney Disease
+"Transplantation, Organ",Others
+Generalized Anxiety Disorder,Mental Health
+Constipation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Depression, Postpartum",Mental Health
+Hypertension,Heart Disease
+Inflammatory Bowel Disease,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Chronic Obstructive Pulmonary Disease,Pulmonary Disease
+Failed Back Surgery Syndrome,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Peripheral Vascular Disease,"Ear, Nose and Throat"
+Acute Coronary Syndrome,Heart Disease
+Hypertension,Heart Disease
+Hypertension,Heart Disease
+Lung Tumour,Pulmonary Disease
+Critical Illness,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Cardiac Surgery,Heart Disease
+Lung Cancer,Oncology
+Perioperative Myocardial Injury,Heart Disease
+Pain,Arthritis and Injuries
+Total Hip Arthroplasty,Arthritis and Injuries
+Unipolar Depression,Mental Health
+Cancer,Oncology
+Venous Leg Ulcer,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Growth and Development,Others
+Achilles Tendon Rupture,Arthritis and Injuries
+Chronic Arthritis,Arthritis and Injuries
+Angina Pectoris,Heart Disease
+Shoulder Impingement Syndrome,Arthritis and Injuries
+Tinnitus,"Ear, Nose and Throat"
+Healthy Cohort,Others
+Influenza,Skin Condition
+Osteoarthritis,Arthritis and Injuries
+Cardiovascular Risk Factor,Heart Disease
+Blood Pressure,Heart Disease
+Cough,Pulmonary Disease
+Surgical Site Infection,Skin Condition
+Non-Alcoholic Fatty Liver Disease,Addiction
+Stroke,Heart Disease
+Acquired Brain Injury,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Gestational Diabetes Mellitus,Diabetes
+Stroke,Heart Disease
+Gout,Arthritis and Injuries
+Critical Care,Others
+Healthy Volunteer,Others
+Challenging Behaviour,Others
+Secondary Progressive Multiple Sclerosis,Mental Health
+Carpal Tunnel Syndrome (CTS),Arthritis and Injuries
+Physical Activity,Obesity and Physical Activity
+Paroxysmal Atrial Fibrillation,Heart Disease
+Anxiety Disorders,Mental Health
+Cerebral Palsy,Mental Health
+Information Seeking Behavior,Others
+Contraceptive Implant Utilization,Reproduction and Sexual Health
+Infant Malnutrition,Obesity and Physical Activity
+HIV/AIDS,Reproduction and Sexual Health
+Poor Performance Status,Others
+Delay in Sexual Debut Among Adolescents,Reproduction and Sexual Health
+Intimate Partner Violence,Mental Health
+Cryptococcal Meningitis,Mental Health
+Asphyxia Neonatorum,Pulmonary Disease
+Severe Malaria,Skin Condition
+Malaria,Skin Condition
+Malaria,Skin Condition
+Sickle Cell Crisis,Heart Disease
+Myomectomy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Neck Pain,Arthritis and Injuries
+Cerebral Palsy,Mental Health
+"Early Amniotomy, Unfavorable Cervix",Reproduction and Sexual Health
+Labor Pain,Reproduction and Sexual Health
+Neoplasm of Female Breast,Oncology
+Infertility,Reproduction and Sexual Health
+Unexplained Infertility,Reproduction and Sexual Health
+Radial Artery Injury,Heart Disease
+Dysmenorrhea,Reproduction and Sexual Health
+Embryo,Reproduction and Sexual Health
+Pregnancy Termination,Reproduction and Sexual Health
+Postpartum Bleeding,Reproduction and Sexual Health
+Nasal Polyps,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Respiratory Failure,Pulmonary Disease
+Musculoskeletal Pain,Arthritis and Injuries
+Bartholin Abscess,Others
+Pain Postoperative,Arthritis and Injuries
+Finger Injuries,Arthritis and Injuries
+Postoperative Pain,Arthritis and Injuries
+"Urinary Bladder, Overactive",Kidney Disease
+Nocturnal Enuresis,Kidney Disease
+"Obesity, Morbid",Obesity and Physical Activity
+Bronchiectasis,Pulmonary Disease
+Warfarin Knowledge Level,Others
+Bariatric Surgery Candidate,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Distal Radius Fracture,Arthritis and Injuries
+Postoperative Pain,Arthritis and Injuries
+Incomplete Reversal of Neuromuscular Block,Mental Health
+Delayed Emergence From Anesthesia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Effect of CO2 Was Removed by Means Trandelenburg Position at Laparascopic Surgery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Labor Induction,Reproduction and Sexual Health
+Emergence Delirium,Mental Health
+Postoperative Pain,Arthritis and Injuries
+Graft vs Host Disease,Skin Condition
+Renal Colic,Kidney Disease
+Acute Exacerbation of Chronic Obstructive Airways Disease,Pulmonary Disease
+Onychomycosis of Toenail,Skin Condition
+Gestational Diabetes,Diabetes
+All Hospitalzied Patients,Others
+Venous Insufficiency,Heart Disease
+Tympanic Membrane Perforation,Others
+Mild Cognitive Impairment,Mental Health
+"Lupus Erythematosus, Discoid",Mental Health
+Knee Osteoarthritis,Arthritis and Injuries
+Peripheral Diabetic Neuropathy,Mental Health
+Abdominal Obesity-Metabolic Syndrome,Obesity and Physical Activity
+Alcohol Drinking,Addiction
+Musical Therapy as a Complementary Treatment of Hypertension,Heart Disease
+Inhalants Craving,Others
+Low Back Pain,Arthritis and Injuries
+Malaria,Skin Condition
+Healthy,Others
+Shoulder Pain,Arthritis and Injuries
+Surgical Site Infection,Skin Condition
+Postoperative Pain,Arthritis and Injuries
+Lupus Nephritis,Arthritis and Injuries
+Blood Loss,Heart Disease
+"Pain, Postoperative",Arthritis and Injuries
+Tubal Obstruction,Others
+HIV,Reproduction and Sexual Health
+Social Anxiety,Mental Health
+Schistosoma Mansoni,Others
+Fetal Heart Rate Abnormalities,Heart Disease
+Malaria,Skin Condition
+HIV,Reproduction and Sexual Health
+Malaria,Skin Condition
+"Sterilization, Tubal",Others
+Contraception,Reproduction and Sexual Health
+One Lung Ventilation in Thoracic Surgery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Type 2 Diabetes,Diabetes
+"Neoplasms, Pulmonary",Oncology
+Latent Tuberculosis Infection,Pulmonary Disease
+Carpal Tunnel Syndrome,Arthritis and Injuries
+Psoriasis Vulgaris,Skin Condition
+Obese,Obesity and Physical Activity
+Tennis Elbow,Arthritis and Injuries
+Depression,Mental Health
+Chronic Stroke,Heart Disease
+Trauma,Mental Health
+Osteoporosis,Arthritis and Injuries
+Atopic Dermatitis,Skin Condition
+Chronic Shoulder Pain,Arthritis and Injuries
+Helicobacter,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Drug Hypersensitivity,Skin Condition
+Bladder Pain Syndrome,Kidney Disease
+Schizophrenia,Mental Health
+Schizophrenia,Mental Health
+Helicobacter Pylori Infection,Skin Condition
+Myopia,Eye Disease
+Early Ambulation,Others
+Actinic Keratosis,Oncology
+Nasopharyngeal Carcinoma,Oncology
+All Type of Cancers With Bony Metastasis,Oncology
+Dementia,Mental Health
+Flat Foot,Arthritis and Injuries
+Hypertrophic Scars,Skin Condition
+Carpal Tunnel Syndrome,Arthritis and Injuries
+Shoulder Impingement,Arthritis and Injuries
+Surgical Incision,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+White Spot Lesion,Others
+"Malocclusion, Angle Class II",Oral Health
+Sleep-wake Disturbances in Motor-phase Parkinson`s Disease,Mental Health
+Chronic Obstructive Pulmonary Disease,Pulmonary Disease
+"Stress Disorders, Post-Traumatic",Mental Health
+Normal Subjects,Others
+Cerebrovascular Accident,"Ear, Nose and Throat"
+"Sleep Apnea, Obstructive",Mental Health
+Femoral Neck Fracture,Arthritis and Injuries
+Football Injuries in Children,Arthritis and Injuries
+Knee Osteoarthritis,Arthritis and Injuries
+Diabetic Foot Ulcer,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Pain,Arthritis and Injuries
+Hypogonadism,Reproduction and Sexual Health
+Parathyroid Function Low Adverse Event,"Ear, Nose and Throat"
+Multiple Sclerosis,Mental Health
+Giant Cell Arteritis,Heart Disease
+Coronary Artery Disease,Heart Disease
+"Urinary Bladder, Neurogenic",Kidney Disease
+Low Back Pain,Arthritis and Injuries
+Thyroid Dysfunction,"Ear, Nose and Throat"
+Spinal Cord Injury,Arthritis and Injuries
+Chronic Obstructive Pulmonary Disease (COPD),Pulmonary Disease
+Accidental Falls,Arthritis and Injuries
+Frequent Users of the Emergency Department,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Polypharmacy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Postoperative Delirium,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Asthma,Pulmonary Disease
+Attention Deficit Hyperactivity Disorder,Mental Health
+Healthy Volunteers,Others
+Pain,Arthritis and Injuries
+Impaired Social Functioning,Mental Health
+Periarthritis,Arthritis and Injuries
+Wound Contamination,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Edentulous Complete Denture Wearers,Oral Health
+Incisional Hernia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Herniated Disk Lumbar,Arthritis and Injuries
+Low Back Pain,Arthritis and Injuries
+Aortic Stenosis,Heart Disease
+Postoperative Pain Management,Arthritis and Injuries
+Cystic Fibrosis,Pulmonary Disease
+Benign Prostatic Hyperplasia,Reproduction and Sexual Health
+Post Operative Urinary Retention,Kidney Disease
+Gastrointestinal Cancer,Oncology
+Physical Activity,Obesity and Physical Activity
+Community-acquired Pneumonia,Pulmonary Disease
+Pediatric Cancer,Oncology
+Obese,Obesity and Physical Activity
+Anesthesia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Heart,Heart Disease
+Benign Gallbladder Disease,Kidney Disease
+Glioblastoma,Oncology
+EEG With Periodic Abnormalities,Others
+Community-dwelling Seniors,Aging and Palliative Care
+Preoxygenation,Others
+Coronary Artery Disease,Heart Disease
+Incisional Hernias,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Overweight, Obesity Grade I",Obesity and Physical Activity
+Insomnia Disorder,Mental Health
+Severe Health Anxiety,Mental Health
+COPD,Pulmonary Disease
+Stress,Mental Health
+Sleep Apnea Syndromes,Mental Health
+Depression,Mental Health
+Breastfeeding,Reproduction and Sexual Health
+Fibromyalgia,Arthritis and Injuries
+Aortic Stenosis,Heart Disease
+"Diabetes Mellitus, Type 2",Diabetes
+Central Retinal Vein Occlusion,Heart Disease
+Pathogenic Bacteria in the Oropharynx,"Ear, Nose and Throat"
+"Sleep Apnea, Obstructive",Mental Health
+Muscle Weakness,Arthritis and Injuries
+Obstructive Sleep Apnea,Mental Health
+The Prevalence of Surgery for Small Bowel Obstruction After LGBP Procedure.,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Vitamin D Deficiency,Obesity and Physical Activity
+Cardiorenal Syndrome,Kidney Disease
+Cardiac Surgery,Heart Disease
+Small Cell Lung Cancer,Oncology
+Cardiovascular Diseases,Heart Disease
+Obesity,Obesity and Physical Activity
+Pancreatitis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Osteo Arthritis,Arthritis and Injuries
+Hearing Loss,"Ear, Nose and Throat"
+Overweight,Obesity and Physical Activity
+Stroke,Heart Disease
+Insomnia,Mental Health
+"Carcinoma, Squamous Cell",Oncology
+"Temperature Change, Body",Others
+Dental Caries,Oral Health
+"Heart Failure, Diastolic",Heart Disease
+Alcohol Use Disorders,Addiction
+Anemia,Heart Disease
+Femoral Neck Fractures,Arthritis and Injuries
+Acute Kidney Injury,Kidney Disease
+Colorectal Peritoneal Carcinomatosis,Oncology
+Scars,Skin Condition
+Inguinal Hernia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Tooth, Impacted",Oral Health
+"Diabetes Mellitus, Type 1",Diabetes
+Depression,Mental Health
+"Arthroplasty, Replacement, Knee",Arthritis and Injuries
+Non Small Cell Lung Cancer,Oncology
+Fear of Childbirth,Reproduction and Sexual Health
+"Abortion, Spontaneous",Reproduction and Sexual Health
+Stress,Mental Health
+Orthodontic Anchorage Procedures,Oral Health
+Cervical Pain,Arthritis and Injuries
+Depression,Mental Health
+Femoral Neck Fractures,Arthritis and Injuries
+Obstructive Sleep Apnea,Mental Health
+Elderly,Aging and Palliative Care
+Whiplash,Arthritis and Injuries
+"Stress, Psychological",Mental Health
+Chronic Kidney Disease,Kidney Disease
+Lumbar Spine Disc Herniation,Arthritis and Injuries
+Cardiovascular Risk Factors,Heart Disease
+Autism Spectrum Disorder (ASD),Mental Health
+Oropharyngeal Neoplasms,Oncology
+Health Behavior,Others
+Coronary Artery Disease,Heart Disease
+Obstructive Sleep Apnea Syndrome,Mental Health
+Stable Claudication (Fontaine IIa and IIb),Heart Disease
+Cardiovascular Mortality,Heart Disease
+Radiculopathy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Exhaustion,Others
+Well Being,Others
+"Osteoarthritis, Knee",Arthritis and Injuries
+Type 2 Diabetes Mellitus,Diabetes
+Anxiety Disorders,Mental Health
+Depression,Mental Health
+Postoperative Complications,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Sleep Apnea, Obstructive",Mental Health
+Metastatic Castration Resistant Prostate Cancer,Oncology
+Arthralgia,Arthritis and Injuries
+Social Phobia,Mental Health
+Birth,Reproduction and Sexual Health
+ST Elevation Myocardial Infarction,Heart Disease
+Acute Kidney Injury,Kidney Disease
+Osteopenia,Arthritis and Injuries
+Recurrent Low Back Pain,Arthritis and Injuries
+COPD,Pulmonary Disease
+Procrastination,Others
+Cardiovascular Disease,Heart Disease
+Wound Infection,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Methicillin Resistant Staphylococcus Aureus,Others
+Atelectasis,Pulmonary Disease
+Overweight,Obesity and Physical Activity
+Obesity,Obesity and Physical Activity
+Obesity,Obesity and Physical Activity
+Stroke,Heart Disease
+Shoulder Dislocation,Arthritis and Injuries
+Fibromyalgia,Arthritis and Injuries
+Carpal Tunnel Syndrome,Arthritis and Injuries
+Bronchiectasis,Pulmonary Disease
+Metastatic Colorectal Cancer,Oncology
+Manual Therapies,Others
+Child Obesity,Obesity and Physical Activity
+Colorectal Cancer,Oncology
+Falling Injury,Arthritis and Injuries
+Shoulder Pain,Arthritis and Injuries
+Hypertension,Heart Disease
+Crohn´s Disease,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Hockey Players Whith Lower Back and Hamstring Pain,Arthritis and Injuries
+Shoulder Pain,Arthritis and Injuries
+Overweight,Obesity and Physical Activity
+Colorectal Cancer,Oncology
+Shoulder Pain,Arthritis and Injuries
+Chronic Pelvic Pain,Arthritis and Injuries
+Chronic Obstructive Pulmonary Disease (COPD),Pulmonary Disease
+Fibromyalgia,Arthritis and Injuries
+Neck Pain,Arthritis and Injuries
+Colorectal Cancer,Oncology
+Multiple Sclerosis,Mental Health
+Neck Pain,Arthritis and Injuries
+Angelman Syndrome,Mental Health
+Pregnancy,Reproduction and Sexual Health
+"Obesity, Morbid",Obesity and Physical Activity
+Postoperative Pain,Arthritis and Injuries
+Hip Osteoarthritis,Arthritis and Injuries
+Manual Therapies,Others
+Achilles Tendinopathy,Arthritis and Injuries
+Pelvic Congestion Syndrome,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Acute Injury of Anterior Cruciate Ligament,Arthritis and Injuries
+Respiratory,Pulmonary Disease
+Metabolic Syndrome X,Obesity and Physical Activity
+Renal Failure,Kidney Disease
+Shoulder Pain,Arthritis and Injuries
+Neuromuscular Blockade Monitoring,Mental Health
+Myelodysplastic Syndrome (MDS),Oncology
+Primary Malignant Neoplasm of Ascending Colon,Oncology
+HIV Infection,Reproduction and Sexual Health
+"Pain, Postoperative",Arthritis and Injuries
+Stroke,Heart Disease
+Bronchiectasis,Pulmonary Disease
+Female Infertility,Reproduction and Sexual Health
+"Labor, Premature",Reproduction and Sexual Health
+Allergic Rhinitis,Infection and Allergy
+Colorectal Cancer,Oncology
+Postoperative Pain,Arthritis and Injuries
+Tennis Elbow,Arthritis and Injuries
+Hip Fracture,Arthritis and Injuries
+Pain,Arthritis and Injuries
+Metabolic Syndrome X,Obesity and Physical Activity
+Breast Cancer,Oncology
+Negative Symptoms of Schizophrenia in Post-menopausal Women.,Reproduction and Sexual Health
+Postoperative Complications,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Colorectal Cancer,Oncology
+Frail Elderly,Arthritis and Injuries
+Individuality,Others
+Body Weight Changes,Obesity and Physical Activity
+Schizophrenia,Mental Health
+Hyperferritinemia,Others
+Otic Eczema,Skin Condition
+Heart Failure,Heart Disease
+Obstructive Sleep Apnea,Mental Health
+Colorectal Carcinoma,Oncology
+Diabetes Mellitus,Diabetes
+Oral Hygiene,Oral Health
+"Anesthesia, Obstetrical","Surgery, Abdominal Disease, Emergency and Intensive Care"
+Stroke,Heart Disease
+Osteoarthritis,Arthritis and Injuries
+Obstructive Sleep Apnea Syndrome,Mental Health
+Eating Disorder,Mental Health
+Compassion,Others
+In-stent Restenosis,Heart Disease
+Chronic Kidney Disease Stage 4,Kidney Disease
+COPD,Pulmonary Disease
+Gastrointestinal Diseases,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Smoking,Addiction
+Pregnancy,Reproduction and Sexual Health
+Interprofessional Relations,Others
+Infertility,Reproduction and Sexual Health
+Fibromyalgia,Arthritis and Injuries
+Asymptomatic Subjects,Others
+Weight Gain,Obesity and Physical Activity
+"Vomiting, Postoperative","Surgery, Abdominal Disease, Emergency and Intensive Care"
+Autonomic Nervous System,Mental Health
+Lactose Intolerance,Obesity and Physical Activity
+Persistent Occiput Posterior Position During Labor,Reproduction and Sexual Health
+Multiple Sclerosis,Mental Health
+Sterility,Others
+Preterm Birth,Reproduction and Sexual Health
+Neuromuscular Diseases in Children,Mental Health
+Low Back Pain,Arthritis and Injuries
+Breast Cancer,Oncology
+Coronary Heart Disease,Heart Disease
+Cardiovascular Diseases,Heart Disease
+Major Depressive Disorder,Mental Health
+Sleep Apnea Syndrome,Mental Health
+Thyroid Associated Ophthalmopathies,"Ear, Nose and Throat"
+Prediabetic State,Diabetes
+Breast Neoplasms,Oncology
+Sedentary General Population,Obesity and Physical Activity
+Healthy Subjects Without Cardiovascular Disease,Heart Disease
+HIV Infection,Reproduction and Sexual Health
+Hypertension,Heart Disease
+Acute Stroke,Heart Disease
+Low Back Pain,Arthritis and Injuries
+End Stage Renal Disease,Kidney Disease
+Infective Endocarditis,Others
+Ankle Sprain,Arthritis and Injuries
+"Diabetes Mellitus, Adult-Onset",Diabetes
+Pulmonary Hypertension,Heart Disease
+Early Onset of Delivery Before 37 Weeks,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Functional Impairment,Others
+Depression,Mental Health
+Pregnancy,Reproduction and Sexual Health
+Atrial Fibrillation,Heart Disease
+Vaginal Vault Prolapse,Reproduction and Sexual Health
+Myocardial Infarction,Heart Disease
+Hypercholesterolemia,Heart Disease
+COPD,Pulmonary Disease
+"Dermatitis, Atopic",Skin Condition
+Abdominal Surgical Patient,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Myopia,Eye Disease
+Midwifery,Reproduction and Sexual Health
+Fibromyalgia,Arthritis and Injuries
+Shoulder Pain,Arthritis and Injuries
+Cardiac Index,Heart Disease
+Wounds and Injuries,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Rectal Neoplasm,Oncology
+Acute Kidney Injury,Kidney Disease
+Mechanical Ventilation Complication,Pulmonary Disease
+Angina Pectoris,Heart Disease
+"Osteoarthritis, Knee",Arthritis and Injuries
+Brain Ischemia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Trigger Finger,Arthritis and Injuries
+Core Body Temperature,Others
+Obstructive Sleep Apnea,Mental Health
+Hypercholesterolemia,Heart Disease
+"Catheterization, Peripheral",Heart Disease
+Coronary Artery Disease,Heart Disease
+Rheumatoid Arthritis,Arthritis and Injuries
+Venous Thromboembolism,Heart Disease
+Idiopathic Short Stature,Others
+"Anesthesia, General","Surgery, Abdominal Disease, Emergency and Intensive Care"
+Malnourished,Obesity and Physical Activity
+Septic Shock,Skin Condition
+Low Back Pain,Arthritis and Injuries
+Small Cell Lung Cancer,Oncology
+Malignant Tumor,Oncology
+"Arthritis, Degenerative",Arthritis and Injuries
+Out-of-hospital Cardiac Arrest,Heart Disease
+Metastatic Breast Cancer,Oncology
+The Elderly Patients Aged Between 65 and 85,Aging and Palliative Care
+Surgery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Pain, Postoperative",Arthritis and Injuries
+Type 2 Diabetes Mellitus,Diabetes
+Vitrectomy Operation Under General Anesthesia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Valvular Heart Disease Patients,Heart Disease
+Type 2 Diabetes,Diabetes
+Hypertension,Heart Disease
+Benign Prostate Hyperplasia,Reproduction and Sexual Health
+Diabetic Foot Ulcer Patients With Uncontrolled Diabetes Mellitus,Diabetes
+"Parkinson's Disease,Idiopathic",Mental Health
+Influenza,Skin Condition
+Hypogonadism,Reproduction and Sexual Health
+Coronary Restenosis,Heart Disease
+EGD Procedure,Others
+Kidney Transplantation,Kidney Disease
+Stomach Cancer,Oncology
+HCC,Others
+Coronary Artery Disease,Heart Disease
+Orthopedic Surgery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Anesthesia, Spinal","Surgery, Abdominal Disease, Emergency and Intensive Care"
+Postural Orthostatic Tachycardia Syndrome,Mental Health
+Gastric Tumor,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Respiratory Disease,Pulmonary Disease
+Gastric Cancer,Oncology
+Attention Deficit Hyperactivity Disorder,Mental Health
+Diabetes Mellitus,Diabetes
+Ovarian Cancer,Oncology
+Healthy,Others
+Scrub Typhus,Skin Condition
+Mixed Hyperlipidemia,Heart Disease
+Intubation Complication,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Colon Neoplasms,Oncology
+Midazolam Premedication,Others
+Gastric Adenocarcinoma,Oncology
+Acute Coronary Syndrome,Heart Disease
+Visceral Fat,Others
+Degenerative Lumbar Spinal Stenosis,Arthritis and Injuries
+Obesity,Obesity and Physical Activity
+Prehypertension,Heart Disease
+Metastatic Breast Cancer,Oncology
+Type 2 Diabetes Mellitus,Diabetes
+Pulmonary Tuberculosis Without Resistance to Rifampicin,Pulmonary Disease
+Rectal Cancer,Oncology
+Muscle Relaxation,Arthritis and Injuries
+Ischemic Heart Disease,Heart Disease
+Congenital Muscular Torticollis,Heart Disease
+"Lung Cancer,",Oncology
+Appendicitis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Pancreatic Cancer,Oncology
+Sedation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Pancreatic Cancer,Oncology
+Voiding Dysfunction,Kidney Disease
+Neuromuscular Blockade,Mental Health
+Prostate Cancer,Oncology
+Gastric Cancer,Oncology
+Depressive Disorder,Mental Health
+"Glomerulonephritis, Membranous",Kidney Disease
+"Catheterization, Central Venous",Heart Disease
+Optic Nerve Sheath Diameter,Mental Health
+Follicular Lymphoma,Oncology
+Hepatocellular Carcinoma,Oncology
+Myoma,Oncology
+Rectal Neoplasms,Oncology
+Atherosclerosis,Heart Disease
+Atopic Dermatitis,Skin Condition
+Type 2 Diabetes,Diabetes
+Spinal Diseases,Arthritis and Injuries
+Type 2 Diabetes Mellitus,Diabetes
+"Cholecystitis, Acute",Kidney Disease
+Robot Assisted Laparoscopic Prostatectomy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Lumbar Radiculopathy Due to Spinal Nerve Compression,Arthritis and Injuries
+Postoperative Sore Throat,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Gynecologic Diseases,Reproduction and Sexual Health
+Chronic Hepatitis B,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Skin Reaction to Suture Material,Skin Condition
+"Stress, Psychological",Mental Health
+Lumbosacral Radicular Pain,Arthritis and Injuries
+Gynecologic Diseases,Reproduction and Sexual Health
+Stroke,Heart Disease
+Emergency Medicine,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Human Immunodeficiency Virus,Reproduction and Sexual Health
+Gender Relations,Reproduction and Sexual Health
+HIV,Reproduction and Sexual Health
+HIV,Reproduction and Sexual Health
+HIV,Reproduction and Sexual Health
+HIV,Reproduction and Sexual Health
+HIV Infection,Reproduction and Sexual Health
+HIV Prevention,Reproduction and Sexual Health
+Pulmonary Tuberculosis,Pulmonary Disease
+HIV,Reproduction and Sexual Health
+Tuberculosis,Pulmonary Disease
+Scabies,Others
+Disorder of Transplanted Kidney,Kidney Disease
+"Amputation; Traumatic, Leg, Lower, Between Knee and Ankle",Arthritis and Injuries
+Coronary Artery Disease,Heart Disease
+Cardiometabolic Risk,Heart Disease
+Analgesia in Total Knee Arthroplasty,Arthritis and Injuries
+Opiate Dependent Patients Who Are Undergoing Inpatient Detoxification in Singapore,Others
+Knee Osteoarthritis,Arthritis and Injuries
+Mild Cognitive Impairment,Mental Health
+Knee Osteoarthritis,Arthritis and Injuries
+Cardiac Arrest,Heart Disease
+Pregnancy,Reproduction and Sexual Health
+Stenosis of Arteriovenous Dialysis Fistula,Heart Disease
+Pre Diabetes,Diabetes
+Hypotension,Heart Disease
+Mood (Psychological Function),Mental Health
+Advanced Lung Cancer,Oncology
+Accidental Falls,Arthritis and Injuries
+Dry Eye,Eye Disease
+Pre-Frail or Frail State,Arthritis and Injuries
+Hypertension,Heart Disease
+"Influenza, Human",Skin Condition
+Conduct Disorder,Mental Health
+Bacteremia Due to Staphylococcus Aureus,Others
+Malaria,Skin Condition
+"Hemorrhagic Fever, Ebola",Skin Condition
+"Influenza, Human",Skin Condition
+Urinary Schistosomiasis,Kidney Disease
+Influenza,Skin Condition
+Postoperative Care,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Agitation States as Acute Reaction to Gross Stress,Mental Health
+Upper Respiratory Tract Infections,Pulmonary Disease
+Labor Pain,Reproduction and Sexual Health
+Complications; Cesarean Section,Reproduction and Sexual Health
+Diabetes Mellitus Type 2,Diabetes
+Vitamin D Deficiency,Obesity and Physical Activity
+Post Operative Pain,Arthritis and Injuries
+Contraception,Reproduction and Sexual Health
+Type I Diabetes Mellitus,Diabetes
+Intracranial Aneurysm,Heart Disease
+Type 2 Diabetes Mellitus,Diabetes
+Depression,Mental Health
+"Cognitive Ability, General",Mental Health
+"Resilience, Psychological",Others
+Impetigo,Others
+Inflammation,Skin Condition
+Other Lesions of Median Nerve,Mental Health
+Gingivitis,Oral Health
+Acupuncture,Others
+ST Elevation Myocardial Infarction,Heart Disease
+Spinal Cord Injuries,Arthritis and Injuries
+Mass Screening,Others
+Functional Constipation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Children Prior to Colonoscopy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Coronary Artery Disease,Heart Disease
+Brain Metastases,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Celiac Disease,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Nutrition,Obesity and Physical Activity
+Schizophrenia,Mental Health
+Liver Failure,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Supplementation,Others
+Multiple Myeloma,Oncology
+Gastric Cancer,Oncology
+Nutritional Disorder,Obesity and Physical Activity
+Obesity,Obesity and Physical Activity
+Enteral Nutritional Support,Obesity and Physical Activity
+Temporomandibular Disorder,Arthritis and Injuries
+Goiter,"Ear, Nose and Throat"
+Hypertension,Heart Disease
+Acute Gastroenteritis,Obesity and Physical Activity
+Diarrhea,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+HIV,Reproduction and Sexual Health
+Partner Notification Following STI Diagnosis,Others
+Pneumonia,Pulmonary Disease
+Blunt Expansion of the Uterine Incision,Reproduction and Sexual Health
+Child Development,Reproduction and Sexual Health
+Vaccination Failure,Skin Condition
+Oral Cavity Carcinoma,Oncology
+Adolescents,Others
+Vascular Disease,"Ear, Nose and Throat"
+Dehydration,Obesity and Physical Activity
+Poliomyelitis,Skin Condition
+Hypertension,Heart Disease
+Bulimia Nervosa,Mental Health
+Erythema Migrans,Skin Condition
+Syndesmotic Injury of the Ankle,Arthritis and Injuries
+Postoperative Pain,Arthritis and Injuries
+Secondary Malignant Neoplasm of Liver,Oncology
+Anxiety,Mental Health
+Epilepsy,Mental Health
+Type 2 Diabetes,Diabetes
+Cerebral Infarction,Heart Disease
+Primary Arthrosis,Others
+Coronary Heart Disease,Heart Disease
+Rheumatoid Arthritis,Arthritis and Injuries
+Urinary Incontinence,Kidney Disease
+Cognitive Performance,Mental Health
+Sleep Apnea,Mental Health
+Healthy,Others
+Opioid Dependence,Addiction
+Bipolar Disorder,Mental Health
+Musculoskeletal Diseases,Arthritis and Injuries
+Quality of Life,Others
+Acute Cystitis (Excl in Pregnancy),Reproduction and Sexual Health
+Cardiovascular Disease,Heart Disease
+Cognitive Performance,Mental Health
+Pregnancy,Reproduction and Sexual Health
+Cerebrovascular Accident,"Ear, Nose and Throat"
+Mental Disorders,Mental Health
+Obesity,Obesity and Physical Activity
+Complex Symptom Disorders,Others
+Knee Injuries,Arthritis and Injuries
+Oral Health,Oral Health
+Breast Neoplasms,Oncology
+Spinal Cord Injury,Arthritis and Injuries
+Gonarthritis,Arthritis and Injuries
+Orthopedic Disorders,Arthritis and Injuries
+Low Back Pain,Arthritis and Injuries
+Sick Leave,Others
+Spinal Cord Injury,Arthritis and Injuries
+Mental Disorders,Mental Health
+Colorectal Cancer,Oncology
+Dental Plaque,Oral Health
+Mental Disorders,Mental Health
+Neck Pain,Arthritis and Injuries
+Coronary Heart Disease,Heart Disease
+Vitamin D Deficiency,Obesity and Physical Activity
+Pregnancy,Reproduction and Sexual Health
+Pain,Arthritis and Injuries
+Angina,Heart Disease
+Academic Performance,Others
+Diabetic Foot,Diabetes
+Depression,Mental Health
+Colonic Diseases,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Oxidative Stress,Mental Health
+Psychosis,Mental Health
+COPD,Pulmonary Disease
+Post-Traumatic Stress Disorder,Mental Health
+"Spinal Cord Injured, Tetraplegia",Arthritis and Injuries
+Knee Osteoarthritis,Arthritis and Injuries
+Disorder Related to Renal Transplantation,Kidney Disease
+Pregnancy,Reproduction and Sexual Health
+Obesity,Obesity and Physical Activity
+"Knee Outcome, Subjective",Arthritis and Injuries
+Prostatic Neoplasms,Oncology
+Chronic Pain,Arthritis and Injuries
+Healthy,Others
+Muscle Weakness,Arthritis and Injuries
+Traumatic Brain Injury,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Major Depressive Disorder,Mental Health
+Irritable Bowel Syndrome,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Femoral Neck Fracture,Arthritis and Injuries
+Obesity,Obesity and Physical Activity
+Obesity,Obesity and Physical Activity
+Periodontal Diseases,Oral Health
+Obesity,Obesity and Physical Activity
+Caesarean Sections,Reproduction and Sexual Health
+Cardiovascular Diseases,Heart Disease
+Dementia,Mental Health
+Psychological Distress,Mental Health
+"Jaundice, Neonatal",Others
+Pregnancy,Reproduction and Sexual Health
+HIV/AIDS,Reproduction and Sexual Health
+Postpartum Haemorrhage,Reproduction and Sexual Health
+Chronic Low Back Pain,Arthritis and Injuries
+Severe Rotavirus Gastroenteritis,Obesity and Physical Activity
+"Meningitis, Meningococcal",Mental Health
+Obesity,Obesity and Physical Activity
+Obesity,Obesity and Physical Activity
+Type 2 Diabetes Mellitus,Diabetes
+Asthma,Pulmonary Disease
+Contrast Induced Nephropathy,Kidney Disease
+Diabetes Mellitus Type II,Diabetes
+Ovarian Cancer,Oncology
+Phobic Disorders,Mental Health
+"Complex Regional Pain Syndrome, Type I",Arthritis and Injuries
+Autosomal Dominant Polycystic Kidney Disease (ADPKD),Kidney Disease
+Vitamin B12 Deficiency,Obesity and Physical Activity
+Adrenal Insufficiency,Kidney Disease
+Disorder of Glucose Regulation,Diabetes
+Intermittent Claudication,Heart Disease
+Tetralogy of Fallot,Arthritis and Injuries
+Endometrial Cancer,Oncology
+Polypharmacy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Hypertension,Heart Disease
+Elective Hepatic Resection,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Hip Fracture,Arthritis and Injuries
+Varicose Veins,Heart Disease
+Esophageal Cancer,Oncology
+Spinal Deformity,Arthritis and Injuries
+Anterior Cruciate Ligament Injury,Arthritis and Injuries
+Growth Hormone Deficiency,Others
+Distress,Mental Health
+Symptomatic Dominant Liver Cyst,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Pelvic Organ Prolapse,Kidney Disease
+Esophageal Carcinoma,Oncology
+Malaria,Skin Condition
+Infections,Skin Condition
+Self-management for Mobility Improvement in the Elderly,Aging and Palliative Care
+Neoplasms,Oncology
+Inflammatory Bowel Disease (IBD),"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Smoking Cessation,Addiction
+Cerebral Ischemia,Heart Disease
+Obesity,Obesity and Physical Activity
+Type 2 Diabetes Mellitus,Diabetes
+Stable Angina Pectoris,Heart Disease
+Substance Dependency,Addiction
+Renal Insufficiency,Kidney Disease
+"Analgesia, Epidural","Surgery, Abdominal Disease, Emergency and Intensive Care"
+Morbid Obesity,Obesity and Physical Activity
+Constipation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Diabetes Mellitus,Diabetes
+Conductive Hearing Loss,"Ear, Nose and Throat"
+"Neoplasms, Adipose Tissue",Oncology
+Acute Coronary Syndrome,Heart Disease
+Pre-frail Elderly,Arthritis and Injuries
+Multiple Organ Failure,Others
+Obesity,Obesity and Physical Activity
+Acute Coronary Syndrome,Heart Disease
+Obesity,Obesity and Physical Activity
+"Diabetes Mellitus, Type 2",Diabetes
+Obstructive Sleep Apnea,Mental Health
+Obesity,Obesity and Physical Activity
+Borderline Personality Disorder,Mental Health
+Acute Kidney Injury,Kidney Disease
+Sepsis,Skin Condition
+Healthy,Others
+Atrial Fibrillation,Heart Disease
+ADHD,Mental Health
+Constipation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Risk Reduction Behavior,Others
+Urinary Tract Infection,Kidney Disease
+Delirium,Mental Health
+Quality of Life,Others
+Pain,Arthritis and Injuries
+Major Depressive Disorder,Mental Health
+Gastric Cancer,Oncology
+Osteoarthritis,Arthritis and Injuries
+Hidradenitis Suppurativa,Others
+Chronic Pain,Arthritis and Injuries
+Abdominal Hysterectomy (& Wertheim),Reproduction and Sexual Health
+Ventilator-free Days,Others
+Insomnia,Mental Health
+Sepsis,Skin Condition
+ColoRectal Cancer,Oncology
+Head and Neck Cancer,Oncology
+Gastric Cancer,Oncology
+Mental Disorders,Mental Health
+Respiratory Failure,Pulmonary Disease
+Rotavirus Infections,Skin Condition
+Heart Failure,Heart Disease
+Psychotic Disorders,Mental Health
+Postcancer Fatigue,Oncology
+Hearing Loss,"Ear, Nose and Throat"
+Low Grade Glioma of Brain,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Superficial Basal Cell Carcinoma,Oncology
+Meniscal Tear,Arthritis and Injuries
+Antibiotic Prescriptions,Others
+Deep Vein Thrombosis,Heart Disease
+Osteoporosis,Arthritis and Injuries
+Obesity,Obesity and Physical Activity
+Delirium,Mental Health
+Metabolic Syndrome,Obesity and Physical Activity
+Acute Coronary Syndrome,Heart Disease
+Cutaneous Warts,Skin Condition
+Breast Cancer,Oncology
+Undernutrition,Obesity and Physical Activity
+Hypertension,Heart Disease
+"Postoperative Sore Throat, Cough, Hoarseness","Surgery, Abdominal Disease, Emergency and Intensive Care"
+Anemia,Heart Disease
+Influenza Human,Skin Condition
+Acute Cholecystitis,Kidney Disease
+"Pulmonary Disease, Chronic Obstructive (COPD)",Pulmonary Disease
+Malaria,Skin Condition
+Chronic Hepatitis B,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Influenza,Skin Condition
+Poliomyelitis,Skin Condition
+Malnutrition,Obesity and Physical Activity
+Helminthiasis,Skin Condition
+Cholera,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Cholera,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Malnutrition,Obesity and Physical Activity
+High Blood Arsenic Due to Chronic Arsenic Exposure,Heart Disease
+Hand Disinfection,Skin Condition
+Escherichia Coli Diarrhea,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Stunting,Others
+SEPTIC SHOCK,Skin Condition
+Interstitial Lung Disease,Pulmonary Disease
+Periapical Periodontitis,Oral Health
+Cardiovascular Risk Factor,Heart Disease
+"Pain, Postoperative",Arthritis and Injuries
+Prostate Cancer,Oncology
+Mivacurium,Others
+Lung Neoplasm,Oncology
+Physical Activity,Obesity and Physical Activity
+Breast Cancer,Oncology
+Social Behavior,Mental Health
+Sedentary Lifestyle,Obesity and Physical Activity
+Non Traumatic Osteonecrosis of the Femoral Head (Hip),Arthritis and Injuries
+Staphylococcus Aureus Bacteraemia,Others
+Disorders of Consciousness,Others
+Sepsis,Skin Condition
+Chronic Non-specific Low Back Pain,Arthritis and Injuries
+Healthy Subjects,Others
+Prostate or Bladder Cancer,Oncology
+Ankle Stiffness,Arthritis and Injuries
+Atrial Fibrillation,Heart Disease
+Obesity,Obesity and Physical Activity
+Ehlers Danlos,Reproduction and Sexual Health
+Life-limiting Cancer With Prognosis of Approximately 1 Year,Oncology
+Cerebral Palsy,Mental Health
+Health Behavior,Others
+Chronic Spinal Pain,Arthritis and Injuries
+Patients With Any Condition Who Need a PICC for IV Therapy,Others
+COPD,Pulmonary Disease
+Bronchiolitis Obliterans,Pulmonary Disease
+Healthy Volunteers,Others
+Unexpected Hospital Mortality,Others
+Coronary Artery Disease (CAD),Heart Disease
+Surgery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Prostate Cancer,Oncology
+Stress Urinary Incontinence,Kidney Disease
+Study Focus: Prescribing of Drugs,Others
+Healthy,Others
+Diabetic Neuropathies,Mental Health
+Mycobacterium Ulcerans Disease,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Zinc Deficiency,Obesity and Physical Activity
+"Chronic Chagas Disease, Indeterminate",Others
+"Leishmaniasis, Cutaneous",Skin Condition
+Appendicitis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Pain,Arthritis and Injuries
+Weak,Others
+"Sleep Apnea, Obstructive",Mental Health
+Asthma,Pulmonary Disease
+Acute Myocardial Infarction,Heart Disease
+Feeding and Eating Disorders of Childhood,Mental Health
+Postoperative Nausea and Vomiting,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Pain,Arthritis and Injuries
+Low Back Pain,Arthritis and Injuries
+Kidney Disease,Kidney Disease
+"Hepatitis C, Chronic","Surgery, Abdominal Disease, Emergency and Intensive Care"
+Bone Mineral Density Quantitative Trait Locus 3,Arthritis and Injuries
+Cerebral Palsy,Mental Health
+Low Back Pain,Arthritis and Injuries
+Osteoarthritis,Arthritis and Injuries
+Denture Hygiene Protocol,Oral Health
+Shoulder Impingement Syndrome,Arthritis and Injuries
+Bipolar I Disorder,Mental Health
+Aging,Aging and Palliative Care
+Postoperative; Dysfunction Following Cardiac Surgery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Diabetes Mellitus, Type 2",Diabetes
+Vulvovaginal Atrophy,Reproduction and Sexual Health
+Caries Involving Multiple Surfaces of Tooth,Oral Health
+Type2 Diabetes Mellitus,Diabetes
+Pelvic Floor Disorders,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Mild Cognitive Impairment,Mental Health
+Major Depression,Mental Health
+Pelvic Organ Prolapse,Kidney Disease
+Deviated Nasal Septum,"Ear, Nose and Throat"
+Lumbar Spine Disc Herniation,Arthritis and Injuries
+Esophageal Cancer,Oncology
+Cardiovascular Diseases,Heart Disease
+Heart Failure,Heart Disease
+Radius Fracture Distal,Arthritis and Injuries
+"Excessive Physical Exercise, Unspecified",Obesity and Physical Activity
+Overweight,Obesity and Physical Activity
+"Stroke, Acute",Heart Disease
+Pain,Arthritis and Injuries
+"Headache Disorders, Primary",Mental Health
+Fibromyalgia,Arthritis and Injuries
+"Mouth, Edentulous",Oral Health
+Patellofemoral Pain Syndrome,Arthritis and Injuries
+Head and Neck Cancer,Oncology
+Dental Caries,Oral Health
+Female Stress Urinary Incontinence,Kidney Disease
+Hypoxia,Others
+Elderly Men,Aging and Palliative Care
+Gingivitis,Oral Health
+Gingiva Atrophy,Oral Health
+Peripheral Artery Disease,Heart Disease
+"Pain, Postoperative",Arthritis and Injuries
+Diastolic Dysfunction,Heart Disease
+Parkinson's Disease.,Mental Health
+Systemic Lupus Erythematosus,Mental Health
+"Hyperparathyroidism, Secondary","Ear, Nose and Throat"
+Catheter-Related Infections,Skin Condition
+Hypertension,Heart Disease
+Cryotherapy Effect,Others
+Asthma,Pulmonary Disease
+Osteoarthritis,Arthritis and Injuries
+Drug Addiction,Addiction
+Spinal Cord Injuries,Arthritis and Injuries
+Cardiovascular Disease,Heart Disease
+Amyotrophic Lateral Sclerosis,Mental Health
+Obesity,Obesity and Physical Activity
+Urinary Incontinence,Kidney Disease
+Coronary Artery Disease,Heart Disease
+Bloodpressure,Heart Disease
+Knee Osteoarthritis,Arthritis and Injuries
+Peri-Implantitis,Others
+"Diabetes Mellitus, Type 1",Diabetes
+Thirst,Others
+Cirrhosis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Systemic Lupus Erythematosus,Mental Health
+Gingival Recession,Oral Health
+Anxiety,Mental Health
+Chronic Kidney Disease,Kidney Disease
+Ankle Sprain,Arthritis and Injuries
+COPD,Pulmonary Disease
+Transplantation Infection,Skin Condition
+Type 2 Diabetes Mellitus,Diabetes
+Pituitary Adenoma,Others
+Psoriatic Arthritis,Arthritis and Injuries
+Addiction,Addiction
+Acute Pain,Arthritis and Injuries
+Chronic Obstructive Pulmonary Disease (COPD,Pulmonary Disease
+Chronic Ulcer,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Myofascial Pain Syndromes,Arthritis and Injuries
+Post and Core Failure,Others
+Hypertension,Heart Disease
+Spinal Cord Injury,Arthritis and Injuries
+Substance-Related Disorders,Addiction
+Periodontitis,Oral Health
+Obesity,Obesity and Physical Activity
+"Depression, Bipolar",Mental Health
+Breastfeeding,Reproduction and Sexual Health
+Depression,Mental Health
+Type 2 Diabetes Mellitus,Diabetes
+Pain,Arthritis and Injuries
+Hand Osteoarthritis,Arthritis and Injuries
+Cardiovascular Diseases,Heart Disease
+"Hepatitis, Autoimmune","Surgery, Abdominal Disease, Emergency and Intensive Care"
+Hypoactive Sexual Desire Disfunction,Reproduction and Sexual Health
+Discolored Teeth,Oral Health
+Cardiovascular Diseases,Heart Disease
+Dental Caries,Oral Health
+Complications Due to Coronary Artery Bypass Graft,Heart Disease
+Cardiovascular Diseases,Heart Disease
+Mechanical Neck Pain,Arthritis and Injuries
+Chronic Periodontitis,Oral Health
+Asthma,Pulmonary Disease
+Heart Failure,Heart Disease
+"Diabetes Mellitus, Type 2",Diabetes
+Dry Eye,Eye Disease
+Biliary Anastomotic Stenosis,Heart Disease
+Temporomandibular Disorder.,Arthritis and Injuries
+Chronic Kidney Disease,Kidney Disease
+Other Disorders of the Autonomic Nervous System,Mental Health
+Cardiovascular Disease,Heart Disease
+Low Back Pain,Arthritis and Injuries
+Low Back Pain,Arthritis and Injuries
+Stroke,Heart Disease
+Pre-hypertension,Heart Disease
+"Diabetes Mellitus, Type 2",Diabetes
+Diabetes Mellitus,Diabetes
+Osteoarthritis,Arthritis and Injuries
+Bipolar Depression,Mental Health
+Osteoarthritis of the Knee,Arthritis and Injuries
+Systemic Hypertension,Heart Disease
+Management of Delivery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Non-specific Chronic Low Back Pain,Arthritis and Injuries
+KERATOCONJUNCTIVITIS SICCA,Eye Disease
+Parkinson Disease,Mental Health
+Obsessive-Compulsive Disorder,Mental Health
+Severe Obesity,Obesity and Physical Activity
+Delirium,Mental Health
+Attention-deficit/Hyperactivity Disorder.,Mental Health
+Renal Failure,Kidney Disease
+Type 2 Diabetes Mellitus,Diabetes
+Herpes Zoster,Skin Condition
+Leg Injuries,Arthritis and Injuries
+Endometriosis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Parkinson's Disease,Mental Health
+Weaning of Mechanical Ventilation,Pulmonary Disease
+Labour Pain,Reproduction and Sexual Health
+Obstructive Sleep Apnea,Mental Health
+Chronic Obstructive Pulmonary Disease,Pulmonary Disease
+Dental Health,Oral Health
+Systemic Lupus Erythematosus,Mental Health
+Acute Coronary Syndrome,Heart Disease
+Chikungunya Fever,Skin Condition
+Hypertension,Heart Disease
+Surgical Site Infection,Skin Condition
+"Anemia, Iron-Deficiency",Heart Disease
+Tonsillitis,Skin Condition
+Chronic Low Back Pain,Arthritis and Injuries
+Recurrent Urinary Tract Infection,Kidney Disease
+Acute Malnutrition,Obesity and Physical Activity
+Child Abuse,Mental Health
+Malaria,Skin Condition
+Diarrhoea,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Postpartum Period,Reproduction and Sexual Health
+Malnutrition,Obesity and Physical Activity
+Household Food Security,Obesity and Physical Activity
+Contraception,Reproduction and Sexual Health
+Periodontitis,Oral Health
+Sleep,Mental Health
+Type 2 Diabetes,Diabetes
+Pregnant Women,Reproduction and Sexual Health
+Osteoporotic Fractures,Arthritis and Injuries
+Prostate Cancer,Oncology
+PreDiabetes,Diabetes
+Cardiovascular Disease,Heart Disease
+Depression,Mental Health
+Education,Others
+Psychological Stress,Mental Health
+Aortic Valve Replacement,Heart Disease
+Breast Neoplasms,Oncology
+Prostate Cancer Patients Undergoing Radical Prostatectomy,Oncology
+Type 1 Diabetes,Diabetes
+Musculoskeletal Disorder,Arthritis and Injuries
+Tendinopathy,Arthritis and Injuries
+Stroke,Heart Disease
+Asthma,Pulmonary Disease
+Dementia,Mental Health
+Effect of Resveratrol and Curcumin on Inflammation,Skin Condition
+Acute Otitis Media,"Ear, Nose and Throat"
+Pain,Arthritis and Injuries
+Acute Pain Following Decompressive Lumbar Spinal Surgery,Arthritis and Injuries
+Hip Fractures,Arthritis and Injuries
+Idiopathic Clubfoot (Talipes Equinovarus),Others
+Leiomyoma,Oncology
+Self-Efficacy,Others
+HPV Vaccines Immunogenicity and Safety,Skin Condition
+Polycystic Ovary Syndrome,Reproduction and Sexual Health
+Acute Rotator Cuff Tendinopathy,Arthritis and Injuries
+Respiratory Aspiration,Pulmonary Disease
+Preterm Infants,Reproduction and Sexual Health
+Family,Others
+Cancer,Oncology
+Muscle Protein Synthesis,Arthritis and Injuries
+Multiple Sclerosis,Mental Health
+Substance Use Disorders,Addiction
+Type 1 Diabetes,Diabetes
+Multiple Sclerosis,Mental Health
+Morbid Obesity,Obesity and Physical Activity
+Laryngeal Masks,Others
+Knee Osteoarthritis,Arthritis and Injuries
+Hypertension,Heart Disease
+Sport-related Concussion,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Difficult Breathing,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Coronary Heart Disease,Heart Disease
+Quality Improvement in Patient Handoff,Others
+Early Enteral Feeding Advancement,Reproduction and Sexual Health
+Heart Failure,Heart Disease
+Mobility Disability,Arthritis and Injuries
+"Stroke, Acute",Heart Disease
+Body Temperature Changes,Others
+Physical Activity,Obesity and Physical Activity
+Cardiopulmonary Resuscitation,Heart Disease
+Degenerative Lumbar Spinal Stenosis,Arthritis and Injuries
+Hypotension,Heart Disease
+Aging,Aging and Palliative Care
+Athlete's Shoulder,Arthritis and Injuries
+"Syncope, Vasovagal",Mental Health
+Exercise,Obesity and Physical Activity
+Type 1 Diabetes,Diabetes
+Rotator Cuff Tendinopathy,Arthritis and Injuries
+Sleep,Mental Health
+Focus of Study,Others
+Pediatric Obesity,Obesity and Physical Activity
+Heart Transplantation,Heart Disease
+Nutrition Assessment,Obesity and Physical Activity
+Self Control,Others
+Fundoscopy,Others
+Prostate Cancer,Oncology
+Developmental Coordination Disorder,Mental Health
+"Stress Disorders, Post-Traumatic",Mental Health
+Nasal Polyps,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Soft Tissue Anaesthesia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Glenohumeral Joint Dislocation,Arthritis and Injuries
+"Cognitive Ability, General",Mental Health
+Twin Pregnancy,Reproduction and Sexual Health
+Depression,Mental Health
+Binge Eating Disorder,Mental Health
+Cardiovascular Disease,Heart Disease
+Obesity,Obesity and Physical Activity
+Common Cold,Skin Condition
+Healthy Children,Others
+Breast Neoplasms,Oncology
+Moderately Difficult to Intubate,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Attention Deficit Hyperactivity Disorder,Mental Health
+Coronary Artery Disease,Heart Disease
+Type II Diabetes Control,Diabetes
+Treatment of Depressive Symptoms in Cancer Patients,Oncology
+Prostate Cancer,Oncology
+Patient Compliance,Others
+Patellofemoral Pain (PFPS),Arthritis and Injuries
+Healthy,Others
+"Diabetes Mellitus, Type 2",Diabetes
+Premature Birth,Reproduction and Sexual Health
+Type 1 Diabetes,Diabetes
+Stress,Mental Health
+Newborn Infants Having Asystole or Bradycardia at Birth,Reproduction and Sexual Health
+Total Knee Arthroplasty,Arthritis and Injuries
+Cancer,Oncology
+Overweight,Obesity and Physical Activity
+Influenza,Skin Condition
+Pain,Arthritis and Injuries
+Child Development,Reproduction and Sexual Health
+"Glycemic, Insulinemic, Subjective Appetite Responses",Obesity and Physical Activity
+Anxiety,Mental Health
+Family Caregivers,Others
+Endotracheal Intubation,Pulmonary Disease
+Surgical Site Infections,Skin Condition
+Shoulder Impingement Syndrome,Arthritis and Injuries
+Bleeding,Heart Disease
+Obesity,Obesity and Physical Activity
+Healthy,Others
+Type 2 Diabetes,Diabetes
+Malignancy,Oncology
+Healthy,Others
+"Stress Disorders, Post-Traumatic",Mental Health
+Autism Spectrum Disorder,Mental Health
+Colorectal Cancer,Oncology
+Pre-diabetic,Diabetes
+Shoulder Pain,Arthritis and Injuries
+Cubital Tunnel Syndrome,Arthritis and Injuries
+Anesthesia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Breast Cancer,Oncology
+Breast Neoplasms,Oncology
+Prostate Cancer,Oncology
+Type 2 Diabetes,Diabetes
+Opioid Dependence,Addiction
+Depression,Mental Health
+Chronic Obstructive Pulmonary Disease (COPD),Pulmonary Disease
+Knee Osteoarthritis,Arthritis and Injuries
+Mobility Limitation,Arthritis and Injuries
+Abdominal Sepsis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Pain, Postoperative",Arthritis and Injuries
+Obesity,Obesity and Physical Activity
+Leukemia,Oncology
+Major Depressive Disorder,Mental Health
+Metastatic Castration-Resistant Prostate Cancer,Oncology
+Optic Neuritis,Eye Disease
+Mild Cognitive Impairment,Mental Health
+Postoperative Pain,Arthritis and Injuries
+Acute Kidney Injury,Kidney Disease
+Cancer,Oncology
+Chronic Kidney Disease,Kidney Disease
+Metabolic Syndrome,Obesity and Physical Activity
+Fibromyalgia Syndrome,Arthritis and Injuries
+Stroke,Heart Disease
+Wound Closure,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Labour Dystocia,Reproduction and Sexual Health
+Healthy,Others
+Persistent Atrial Fibrillation,Heart Disease
+Hypotension,Heart Disease
+Alcohol Consumption,Addiction
+Hypoxia,Others
+Osteoarthritis,Arthritis and Injuries
+Postoperative Ileus,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Breast Cancer,Oncology
+Sleep,Mental Health
+Major Depressive Disorder,Mental Health
+Nicotine Dependence,Addiction
+Open Angle Glaucoma,Eye Disease
+Preeclampsia,Mental Health
+"Heart Defects, Congenital",Heart Disease
+Osteoporosis,Arthritis and Injuries
+Death,Others
+"Blood Glucose; Subjective Hunger, Insulin",Diabetes
+Bacteremia,Others
+Non Small Cell Lung Cancer,Oncology
+Diabetic Polyneuropathy,Mental Health
+Tobacco Use Cessation,Addiction
+Spinal Anesthesia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Early Detection of Cancer,Oncology
+Osteoporosis,Arthritis and Injuries
+Schizophrenia,Mental Health
+Bone Fractures,Arthritis and Injuries
+Diabetes,Diabetes
+Effectiveness of Nurse-Family Partnership (NFP) in BC,Arthritis and Injuries
+Cough,Pulmonary Disease
+Asthma,Pulmonary Disease
+"Urinary Bladder, Neurogenic",Kidney Disease
+Chronic Obstructive Pulmonary Disease,Pulmonary Disease
+Esophageal Cancer,Oncology
+Early Stage Breast Cancer,Oncology
+Healthy Volunteers,Others
+Lifestyle,Others
+WOUNDS,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Bacteriuria,Kidney Disease
+Dysphonia,"Ear, Nose and Throat"
+Type 1 Diabetes,Diabetes
+Older Adults With Decreased Outdoor Walking Ability,Aging and Palliative Care
+Very Low Birth Weight Infant (<1250g),Reproduction and Sexual Health
+Influenza,Skin Condition
+Acute Coronary Syndrome,Heart Disease
+Breast Cancer,Oncology
+ARDS,Others
+Cardiovascular Diseases,Heart Disease
+Atrial Fibrillation,Heart Disease
+"Osteoarthritis, Knee",Arthritis and Injuries
+Cellulitis,Skin Condition
+Skin Infection,Skin Condition
+Pain,Arthritis and Injuries
+Postpartum Women,Reproduction and Sexual Health
+Latent Tuberculosis Infection,Pulmonary Disease
+Prostate Cancer,Oncology
+Postoperative Surgical Site Infections,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Type 1 Diabetes,Diabetes
+Rhegmatogenous Retinal Detachment,Eye Disease
+Sinusitis,"Ear, Nose and Throat"
+Coronary Artery Disease,Heart Disease
+Hypothermia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Actively Undergoing Cancer Treatment,Oncology
+Glaucoma,Eye Disease
+Knee Arthroplasty,Arthritis and Injuries
+Laparoscopic Colectomy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Epistaxis,"Ear, Nose and Throat"
+Chronic Obstructive Pulmonary Disease With (Acute) Exacerbation,Pulmonary Disease
+Cigarette Smoking,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Osteoarthritis, Knee",Arthritis and Injuries
+Pelvic Organ Prolapse,Kidney Disease
+Acute Gastroenteritis,Obesity and Physical Activity
+Fibromyalgia,Arthritis and Injuries
+Prostatic Neoplasms,Oncology
+Motor Activity,Arthritis and Injuries
+Appendicitis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Coronary Artery Disease,Heart Disease
+"Stress Disorders, Post Traumatic",Mental Health
+Falls,Arthritis and Injuries
+Severe Malnutrition,Obesity and Physical Activity
+Septic Shock,Skin Condition
+Stomach Neoplasms,Oncology
+Polio,Others
+Acne,Skin Condition
+Primary Sjogren,Others
+Chronic Periodontitis,Oral Health
+Postoperative Nausea and Vomiting,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Hip Fractures,Arthritis and Injuries
+Diabetes Mellitus.,Diabetes
+Dental Caries,Oral Health
+Osteoarthritis,Arthritis and Injuries
+Depression,Mental Health
+Colorectal Cancer,Oncology
+Hypothermia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Sleep Deprivation,Mental Health
+Nasopharyngeal Neoplasms,Oncology
+Advanced Gastric Cancer,Oncology
+Hepatitis B,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Inguinal Hernia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Cardiovascular Disease,Heart Disease
+Non-small Cell Lung Cancer,Oncology
+Ischemic Heart Disease,Heart Disease
+Complications,Others
+Pancreatic Duct Cannulation During Endoscopic Retrograde Choledochopancreatography,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Thromboangiitis Obliterans,Heart Disease
+Nasopharyngeal Carcinoma,Oncology
+Lung Neoplasm,Oncology
+Breast Cancer,Oncology
+Type 2 Diabetes Mellitus ,Diabetes
+Esophagogastroduodenoscopy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Pregnancy,Reproduction and Sexual Health
+Colorectal Cancer,Oncology
+Liver Diseases,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Renal Calculi,Kidney Disease
+"Carcinoma, Non-small Cell Lung",Oncology
+Anticoagulation Treatment Overdose,Others
+Hepatocellular Carcinoma,Oncology
+"Hernia, Inguinal","Surgery, Abdominal Disease, Emergency and Intensive Care"
+Osteoarthritis,Arthritis and Injuries
+Pancreas Neoplasms,Oncology
+HIV,Reproduction and Sexual Health
+Coronary Artery Bypass,Heart Disease
+Breast Cancer,Oncology
+Metastatic Colorectal Cancer,Oncology
+Chronic Obstructive Pulmonary Disease,Pulmonary Disease
+Coronary Artery Disease,Heart Disease
+Esophageal Cancer,Oncology
+Glioma,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Agitation,Mental Health
+Oral Mucositis,Oral Health
+Nasopharyngeal Carcinoma,Oncology
+Breast Cancer,Oncology
+Surgery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Supraventricular Tachycardia,Mental Health
+"Diabetes Mellitus, Type 2",Diabetes
+Blood Loss,Heart Disease
+Lumbar Herniated Disc,Arthritis and Injuries
+Non-small Cell Lung Cancer Stage III,Oncology
+Stress-related Problem,Mental Health
+Stroke,Heart Disease
+Colonoscopy Insertion,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Rectal Cancer,Oncology
+Gestational Diabetes Mellitus (GDM),Diabetes
+Vascular Dementia,"Ear, Nose and Throat"
+Lumbar Disc Herniation,Arthritis and Injuries
+Bowel Preparation Scale,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Parkinson's Disease,Mental Health
+Child,Others
+Depressive Episodes of Bipolar Disorder,Mental Health
+Major Surgery Under General Anesthesia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Hepatic Carcinoma,Oncology
+Stroke,Heart Disease
+Leukemia,Oncology
+Bulky Stage IIIC and IV Epithelial Ovarian Cancer,Oncology
+Non-Alcoholic Fatty Liver Disease,Addiction
+Acute Kidney Injury,Kidney Disease
+Shoulder Pain,Arthritis and Injuries
+Type 1 Diabetes,Diabetes
+Stomach Diseases,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Crohn Disease,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Head and Neck Cancer,Oncology
+Coronary Heart Disease,Heart Disease
+Squamous Cell Carcinoma,Oncology
+Coronary Stenosis,Heart Disease
+Blood Pressure,Heart Disease
+Gallbladder Stone,Kidney Disease
+Childhood Acute Promyelocytic Leukemia,Oncology
+Coronary Restenosis,Heart Disease
+Renal Calculi,Kidney Disease
+Gastrointestinal Bleeding,Heart Disease
+Perimenopause,Reproduction and Sexual Health
+Bleeding,Heart Disease
+Primary CNS Lymphoma (PCNSL),Oncology
+Gastric Cancer,Oncology
+Schizophrenia,Mental Health
+Healthy,Others
+Non-small Cell Lung Cancer,Oncology
+Ascites,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Liver Dysfunction,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Blood Loss,Heart Disease
+Reinfection Pulmonary Tuberculosis,Pulmonary Disease
+Bleeding,Heart Disease
+Early Childhood Caries,Oral Health
+Abdominal Pain,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Chronic Obstructive Pulmonary Disease,Pulmonary Disease
+Cholangiocarcinoma,Oncology
+Squamous Cell Esophageal Carcinoma,Oncology
+Carotid Stenosis,Heart Disease
+Fecal Impaction,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Blood Loss,Heart Disease
+Type 2 Diabetes Mellitus,Diabetes
+Diffuse Large B-cell Lymphoma,Oncology
+Irritable Bowel Syndrome,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Childhood Cancer,Oncology
+Esophageal Squamous Cell Carcinoma,Oncology
+Poliomyelitis,Skin Condition
+Neuropathic Pain,Mental Health
+"Carcinoma, Hepatocellular",Oncology
+Perioperative Pain Experiences,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Fire,Others
+Intubation;Difficult,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Ischemic Stroke,Heart Disease
+Septic Shock,Skin Condition
+Nasopharyngeal Carcinoma,Oncology
+Esophageal Neoplasms,Oncology
+Polyp,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Type 2 Diabetes Mellitus,Diabetes
+Stage III Esophageal Squamous Cell Carcinoma,Oncology
+Compliance,Others
+Postoperative Pain,Arthritis and Injuries
+Lung Neoplasms,Oncology
+Intracranial Arteriovenous Malformations,Heart Disease
+Esophageal Varices,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Cancer,Oncology
+Type 2 Diabetes,Diabetes
+Erectile Dysfunction,Reproduction and Sexual Health
+Stomach Neoplasm,Oncology
+Bell's Palsy,Mental Health
+Health Behavior,Others
+Diarrhea-predominant Irritable Bowel Syndrome,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Diabetic Neuropathy, Painful",Mental Health
+Menopausal Syndrome,Reproduction and Sexual Health
+Gastric Cancer,Oncology
+Esophageal Cancer,Oncology
+Type 2 Diabetes Mellitus,Diabetes
+Cerebral Tumor,Oncology
+Early Systolic Blood Pressure Control Rate,Heart Disease
+Functional Constipation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Post-dural Puncture Headache,Mental Health
+Amphetamine Addiction,Addiction
+Empyhsema,Pulmonary Disease
+Postoperative Sleep Quality,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+NASH (Non-Alcoholic Steatohepatitis),Addiction
+Gestational Diabetes Mellitus,Diabetes
+Polycystic Ovary Syndrome,Reproduction and Sexual Health
+Sarcopenia,Aging and Palliative Care
+Colorectal Cancer,Oncology
+Valvular Heart Disease,Heart Disease
+Scar,Skin Condition
+Hyperglycemia,Diabetes
+Chronic Prostatitis,Reproduction and Sexual Health
+Type2 Diabetes Mellitus,Diabetes
+Decompensated Cirrhosis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Antiplatelet Therapy of Coronary Artery Bypass,Heart Disease
+Hepatocellular Carcinoma,Oncology
+Effect of Clostridium Butyricum in Treating Irritable Bowel Syndrome,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Type 2 Diabetes,Diabetes
+Diabetes,Diabetes
+Leukemia,Oncology
+Acute Stroke,Heart Disease
+Postoperative Nausea and Vomiting,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Chronic Obstructive Pulmonary Disease(COPD),Pulmonary Disease
+Benzodiazepine Dependence,Addiction
+Type 2 Diabetes,Diabetes
+Perinatal Mortality,Reproduction and Sexual Health
+Preterm Infant,Reproduction and Sexual Health
+Lipid Peroxidation,Others
+Gynecologic Surgical Procedures,Reproduction and Sexual Health
+Contraceptive Usage,Reproduction and Sexual Health
+Post-Traumatic Stress Disorder,Mental Health
+Hypochlorous Acid,Others
+Fear of Falling,Arthritis and Injuries
+Cardiovascular Diseases,Heart Disease
+Hookworm Stool Burden,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Fever,Skin Condition
+Depression,Mental Health
+Gestational Diabetes Mellitus,Diabetes
+Pancreaticoduodenectomy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Coronary Artery Disease,Heart Disease
+Hip Joint Disorders,Arthritis and Injuries
+Embolic Stroke,Heart Disease
+Osteoarthrosis,Arthritis and Injuries
+Alpha-Mannosidosis,Others
+Ischaemic Heart Disease,Heart Disease
+Insomnia,Mental Health
+Psoriatic Arthritis,Arthritis and Injuries
+Telangiectasias,Heart Disease
+Lumbar Spine Fusion,Arthritis and Injuries
+Metabolic Syndrome,Obesity and Physical Activity
+"Diabetes Mellitus, Type 1",Diabetes
+Childhood Asthma With Acute Exacerbation,Pulmonary Disease
+Plantar Fasciopathy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Activities of Daily Living,Others
+Repeated-sprint Ability,Others
+Cluster Headache,Mental Health
+Type 2 Diabetes,Diabetes
+Postoperative Pain,Arthritis and Injuries
+Attention Deficit Hyperactivity Disorder,Mental Health
+Postoperative Pain,Arthritis and Injuries
+Spondyloarthritis,Arthritis and Injuries
+Abdominal Aortic Aneurysm,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Febrile Illness Acute,Skin Condition
+Drug Overdose,Others
+Ischaemic Heart Disease,Heart Disease
+Osteoarthrosis,Arthritis and Injuries
+Osteoporosis,Arthritis and Injuries
+Asthma,Pulmonary Disease
+Male Infertility,Reproduction and Sexual Health
+Angina Pectoris,Heart Disease
+Unilateral Primary Osteoarthritis of Hip,Arthritis and Injuries
+Sensorineural Hearing Loss,"Ear, Nose and Throat"
+Iron-deficiency,Obesity and Physical Activity
+Stress,Mental Health
+Diabetes,Diabetes
+Incurable Cancer,Oncology
+Migraine According to International Headache Society (IHS) Criteria (ICHD-II),Mental Health
+Rheumatoid Arthritis,Arthritis and Injuries
+Obesity,Obesity and Physical Activity
+Prospective,Others
+Asthma,Pulmonary Disease
+Psychomotor Agitation,Arthritis and Injuries
+Microvascular Angina,"Ear, Nose and Throat"
+Hypertension,Heart Disease
+Carcinoma in Situ of Uterine Cervix,Oncology
+Migraine,Mental Health
+Hip Fracture of Intertrochanteric Type,Arthritis and Injuries
+Primary Spontaneous Pneumothorax,Pulmonary Disease
+Eczema,Skin Condition
+Rehabilitation,Arthritis and Injuries
+Cancer,Oncology
+Metastatic Renal Cell Carcinoma,Kidney Disease
+"Osteoarthritis, Knee",Arthritis and Injuries
+Oral Lichen Planus,Oral Health
+Atrial Fibrillation,Heart Disease
+Heart Disease,Heart Disease
+Schizophrenia,Mental Health
+Muscle Hypertrophy in Healthy Young Men,Arthritis and Injuries
+Liver Cirrhosis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+ST Segment Elevation Myocardial Infarction,Heart Disease
+Medication-overuse Headache,Mental Health
+Hypothermia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Lung Cancer,Oncology
+Geriatric Disorder,Aging and Palliative Care
+Body Composition,Others
+Achilles Tendon Rupture,Arthritis and Injuries
+Prematurity,Reproduction and Sexual Health
+Achilles Tendon Rupture,Arthritis and Injuries
+Prevention of Obesity,Obesity and Physical Activity
+Acute Coronary Syndrome,Heart Disease
+Atrial Fibrillation,Heart Disease
+Hypogonadism,Reproduction and Sexual Health
+Simulation Training,Others
+Cicatrix,Others
+ST-elevation Myocardial Infarction,Heart Disease
+Obesity,Obesity and Physical Activity
+Cerebral Palsy,Mental Health
+Non-small Cell Lung Cancer,Oncology
+Acute Medical Conditions,Others
+Paediatric Early Warning System,Reproduction and Sexual Health
+ADHD,Mental Health
+Prostate Cancer,Oncology
+Polycystic Ovary Syndrome,Reproduction and Sexual Health
+Obese,Obesity and Physical Activity
+Advanced Cancer,Oncology
+Adiposity,Obesity and Physical Activity
+Acute Kidney Injury,Kidney Disease
+Colorectal Cancer,Oncology
+Stroke,Heart Disease
+Disorder Related to Renal Transplantation,Kidney Disease
+Morbid Obesity,Obesity and Physical Activity
+"Aortic Aneurysm, Thoracic",Heart Disease
+Other Acute Postoperative Pain,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Surgical Wound Infection,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Parkinson Disease,Mental Health
+Breast Cancer,Oncology
+Postoperative Pain,Arthritis and Injuries
+Laparotomy,Others
+Lymphoedema,Arthritis and Injuries
+Constipation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+No Medical Condition,Others
+Overweight and Obesity,Obesity and Physical Activity
+Lung Cancer,Oncology
+Metabolism and Nutrition Disorder,Obesity and Physical Activity
+Endometrial Cancer,Oncology
+"Osteoarthritis, Knee",Arthritis and Injuries
+Rectal Cancer,Oncology
+"Osteoarthritis, Knee",Arthritis and Injuries
+Delirium - Postoperative,Mental Health
+Running Related Injuries,Obesity and Physical Activity
+Hypertension,Heart Disease
+Cervical Cancer,Oncology
+Coronary Artery Disease,Heart Disease
+Chronic Achilles Tendinopathy,Arthritis and Injuries
+CINV,Others
+Rectal Bleeding,Heart Disease
+Nerve Block,Mental Health
+Psoriasis,Skin Condition
+Degenerative Meniscus Tear,Arthritis and Injuries
+Stress-related Problem,Mental Health
+Type 2 Diabetes,Diabetes
+Fragility,Others
+Days Absent From Daycare,Others
+Triage,Others
+Ventral Hernia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Brain Injuries,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Functionally-Impaired Elderly,Aging and Palliative Care
+Ketone Body Metabolism,Obesity and Physical Activity
+Infertility,Reproduction and Sexual Health
+Musculoskeletal Disorders,Arthritis and Injuries
+Suspected Appendicitis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Cardiorespiratory Fitness,Pulmonary Disease
+Dyspnea,Pulmonary Disease
+Overweight and Obesity,Obesity and Physical Activity
+Ankle Fractures,Arthritis and Injuries
+Chronic Obstructive Pulmonary Disease (COPD),Pulmonary Disease
+Roux-en-Y Gastric Bypass,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Kidney Failure Chronic,Kidney Disease
+Ventricular Septal Defect,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Adherence,Others
+Focus of Study is STEMI,Others
+Chronic Obstructive Lung Disease,Pulmonary Disease
+Spinal Cord Injury,Arthritis and Injuries
+Sporadic Inclusion Body Myositis,Arthritis and Injuries
+"Stroke, Acute",Heart Disease
+ADHD,Mental Health
+Neck Pain,Arthritis and Injuries
+Mercury Poisoning,Others
+Invitro Fertilization,Reproduction and Sexual Health
+Alopecia Areata,Others
+Hepatocellular Cancer,Oncology
+Post Operative Hemorrhage,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Induction of Abortion,Reproduction and Sexual Health
+"Carcinoma of Urinary Bladder, Superficial",Oncology
+Quality of Life,Others
+Placenta Previa Without Hemorrhage,Others
+OHSS,Others
+Bladder Cancer,Oncology
+"Hepatectomy, Surgical Blood Loss, Terlipressin",Heart Disease
+Cesarean Section; Dehiscence,Reproduction and Sexual Health
+Quality of Life,Others
+Periodontal Diseases,Oral Health
+Iron Deficiency Anemia,Heart Disease
+Reduction in Pain,Arthritis and Injuries
+Intrauterine Growth Restriction Asymmetrical,Reproduction and Sexual Health
+Periampullary Carcinoma Resectable,Oncology
+Anal Fissure,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Pulpitis,Oral Health
+Polycystic Ovary Syndrome,Reproduction and Sexual Health
+Postpartum Hemorrhage,Reproduction and Sexual Health
+Urinary Calculi,Kidney Disease
+Sublingual Microcirculation,Heart Disease
+Portal Hypertension,Heart Disease
+Locally Advanced Bladder Cancer,Oncology
+Abdominal Cancer,Oncology
+Drug Induced Tardive Syndrome (DITS),Others
+Prostatic Hyperplasia,Reproduction and Sexual Health
+Postpartum Hemorrhage,Reproduction and Sexual Health
+Abdominal Cancer,Oncology
+Osteo Arthritis Knee,Arthritis and Injuries
+Menorrhagia,Reproduction and Sexual Health
+Postoperative Nausea and Vomiting,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Contraceptive Device; Complications,Reproduction and Sexual Health
+"Pain, Postoperative",Arthritis and Injuries
+Dystocia,Reproduction and Sexual Health
+Embryo Culture,Reproduction and Sexual Health
+Preeclampsia,Mental Health
+Benign Prostate Hyperplasia,Reproduction and Sexual Health
+Acute Pain,Arthritis and Injuries
+Intra-Uterine Growth Retardation,Reproduction and Sexual Health
+Iron Deficiency Anemia,Heart Disease
+Beta Thalassemia Major,Heart Disease
+Cesarean Section,Reproduction and Sexual Health
+"Encephalopathy, Hepatic","Surgery, Abdominal Disease, Emergency and Intensive Care"
+Improving Quality of Life,Others
+Postpartum Hemorrhage,Reproduction and Sexual Health
+Endoscopy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Liver Cirrhosis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Anesthesia, Spinal","Surgery, Abdominal Disease, Emergency and Intensive Care"
+Pulmonary Tuberculosis (TB),Pulmonary Disease
+Fever,Skin Condition
+Prenatal Care,Reproduction and Sexual Health
+Trichiasis,Eye Disease
+Trachoma,Eye Disease
+Child Malnutrition,Obesity and Physical Activity
+"Infections, Streptococcal",Infection and Allergy
+Breast Neoplasms,Oncology
+Chronic Lower Limb Ischemia,Arthritis and Injuries
+Low Back Pain,Arthritis and Injuries
+Acute Appendicitis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Persistent Ductus Arteriosus,Heart Disease
+Hypertension,Heart Disease
+Cognitive Impairment,Mental Health
+"Low Back Pain, Recurrent",Arthritis and Injuries
+Prostatic Neoplasms,Oncology
+Metabolic Syndrome Risk Factors,Obesity and Physical Activity
+Metabolic Syndrome,Obesity and Physical Activity
+Hip Osteoarthritis,Arthritis and Injuries
+Hyperglycemia,Diabetes
+Driver Sleepiness,Mental Health
+Learning,Others
+Forearm Fracture,Arthritis and Injuries
+Gestational Diabetes,Diabetes
+Subacromial Impingement Syndrome,Arthritis and Injuries
+Morbid Obesity,Obesity and Physical Activity
+Venous Insufficiency,Heart Disease
+Surgery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Wheezy Bronchitis,Pulmonary Disease
+Obesity,Obesity and Physical Activity
+"Infections, Papillomavirus",Skin Condition
+Keloidscars,"Ear, Nose and Throat"
+Actinic Keratosis,Oncology
+Scoliosis,Arthritis and Injuries
+Vitamin D Status,Obesity and Physical Activity
+"Infections, Streptococcal",Skin Condition
+Serum 25-hydroxyvitamin D Concentrations (25OHD),Obesity and Physical Activity
+Atopic Dermatitis,Skin Condition
+Tracheal Intubation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+ICU Patients Requiring Invasive Mechanical Ventilation,Pulmonary Disease
+Dementia,Mental Health
+"Respiratory Distress Syndrome, Newborn",Pulmonary Disease
+"Leukemia, Lymphocytic",Oncology
+Prostatic Hyperplasia,Reproduction and Sexual Health
+Attention Deficit Hyperactivity Disorder,Mental Health
+Thyroid Cancer,"Ear, Nose and Throat"
+Cognitive Aging,Mental Health
+Lung Neoplasms,Oncology
+Respiratory Distress Syndrome,Pulmonary Disease
+"Osteoarthritis, Knee",Arthritis and Injuries
+Prematurity,Reproduction and Sexual Health
+Healthy,Others
+"Pain, Postoperative",Arthritis and Injuries
+Neuropathic Traumatic Pain,Mental Health
+Professional Stress,Mental Health
+Lower Uterine Segment,Reproduction and Sexual Health
+Rapid Sequence Induction of General Anesthesia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Down Syndrome,Mental Health
+Healthy Volunteers (Middle-aged Smokers),Addiction
+Sedation for Mechanical Ventilation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Crohn's Disease,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Metabolic Acidosis,Others
+Severe Sepsis With Septic Shock,Infection and Allergy
+Infections and Respiratory Infectious,Pulmonary Disease
+Rheumatoid Arthritis,Arthritis and Injuries
+Metabolic Syndrome,Obesity and Physical Activity
+Prevention of the Procedural Pain in the Newborn,Arthritis and Injuries
+Sedentary Lifestyle,Obesity and Physical Activity
+Metastatic Colorectal Adenocarcinoma,Oncology
+Patients Are Recruited From One Thoracic and Cardiac Surgery ICU,Heart Disease
+Squamous Cell Head and Neck Carcinoma,Oncology
+Healthy,Others
+Peanut Allergy,Skin Condition
+Diabetes,Diabetes
+Nephrotic Syndrome,Kidney Disease
+Allogenic Transfusion,Others
+Ovarian Cyst,Reproduction and Sexual Health
+Breast Cancer,Oncology
+Sciatica,Mental Health
+Child,Others
+Self Efficacy,Others
+Overweight,Obesity and Physical Activity
+Hepatectomy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Menopause,Reproduction and Sexual Health
+Colorectal Cancer Screening,Oncology
+Angiosarcoma,Oncology
+Colorectal Cancer,Oncology
+Sickle Cell Hemoglobin C Disease,Heart Disease
+Anesthesia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Colorectal Cancer,Oncology
+Invasive Breast Cancer,Oncology
+Colorectal Cancer,Oncology
+Cardiac Surgery,Heart Disease
+Total Hip Replacement,Arthritis and Injuries
+Pregnancy,Reproduction and Sexual Health
+Trauma,Mental Health
+Chronic Obstructive Pulmonary Disease,Pulmonary Disease
+Hemofiltration,Kidney Disease
+Colorectal Cancer,Oncology
+Partial Deficiency of Muscle Strength,Arthritis and Injuries
+Breech Presentation,Others
+Obstructive Sleep Apnea Syndrome,Mental Health
+Acute Ischemic Stroke,Heart Disease
+Subnormal,Others
+Acute Urticaria,Skin Condition
+"Caries, Dental",Oral Health
+PARAPLEGIA,Arthritis and Injuries
+Thermoablation,Others
+Improve the Understanding of the Diagnosis the Treatment and the Prognosis by One Member of the Fami,Others
+Actual Suicidal Behavior Disorder,Mental Health
+Refractory Hypertension,Heart Disease
+"Suicide, Attempted",Mental Health
+Atrial Fibrillation,Heart Disease
+Breast Cancer,Oncology
+COPD,Pulmonary Disease
+"Anesthesia, General","Surgery, Abdominal Disease, Emergency and Intensive Care"
+Untreated Operable Early Breast Cancer,Oncology
+Emergency Patients,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Parkinson's Disease,Mental Health
+Primary Prevention,Others
+Premedication,Others
+"Shoulder Dystocia,",Arthritis and Injuries
+Bipolar Disorder,Mental Health
+Bronchiolitis,Pulmonary Disease
+Cystocele,Others
+Stress Hyperglycemia,Mental Health
+Chronic Obstructive Pulmonary Disease,Pulmonary Disease
+Prostate Cancer,Oncology
+Obesity,Obesity and Physical Activity
+Heart Failure,Heart Disease
+Hereditary Angioedema,Skin Condition
+Colorectal Cancer,Oncology
+"Targeted HIV Screening, Emergency Departments",Reproduction and Sexual Health
+Colorectal Cancer,Oncology
+Complication of Hemodialysis,Kidney Disease
+Acute Respiratory Failure,Pulmonary Disease
+Granulomatosis With Polyangiitis,Skin Condition
+Postoperative Peritonitis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Alpha-Mannosidosis,Others
+Resectable Pancreatic Duct Adenocarcinoma,Oncology
+"Leukemia, Promyelocytic, Acute",Oncology
+Cardiac Disease,Heart Disease
+Renal Replacement Therapy for Acute Kidney Injury in Intensive Care Unit,Kidney Disease
+ICU-acquired Muscle Weakness,Arthritis and Injuries
+Facilitated Tucking,Others
+Metabolism,Obesity and Physical Activity
+Alzheimer Disease,Mental Health
+Diabetic Foot Ulcer(s),"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Constipation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Hepatocellular Carcinoma,Oncology
+Akathisia,Others
+Uveitis,Eye Disease
+HIV Infections,Reproduction and Sexual Health
+COPD,Pulmonary Disease
+the Treatment of Knee Osteoarthritis,Arthritis and Injuries
+Morbid Obesity,Obesity and Physical Activity
+Infertility,Reproduction and Sexual Health
+"Endometriosis, Rectum","Surgery, Abdominal Disease, Emergency and Intensive Care"
+Patients Having Realized a Suicide Attempt,Mental Health
+Out-of-hospital Cardiac Arrest,Heart Disease
+Critical Illness,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Sedentary Lifestyle in Patients Over 70,Obesity and Physical Activity
+Emergency Patients,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Cystic Fibrosis,Pulmonary Disease
+Aplasia With Expected Thrombocytopenia,Heart Disease
+Major Abdominal Surgery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Gastric Cancer,Oncology
+Critically Ill Patients Under Mechanical Ventilation,Pulmonary Disease
+Acute Myocardial Infarction,Heart Disease
+Upper Limb Surgery,Arthritis and Injuries
+HIV Infections,Reproduction and Sexual Health
+Colorectal Cancer,Oncology
+Colonic Neoplasms,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Rectal Cancer,Oncology
+Neonatal Infection,Skin Condition
+Traumatic Brain Injury,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Osteoarthritis,Arthritis and Injuries
+Multiple Sclerosis,Mental Health
+Rectal Neoplasms,Oncology
+Sarcopenic Obesity,Obesity and Physical Activity
+Knee Arthropathy,Arthritis and Injuries
+Mild to Moderate Depressive Symptoms,Mental Health
+Ovarian Cancer,Oncology
+Amyotrophic Lateral Sclerosis,Mental Health
+Urinary Tract Infections,Kidney Disease
+Prostate Cancer,Oncology
+Hemodynamic Instability,Others
+"Lymphoma, High-grade",Oncology
+Chronic Low Back Pain,Arthritis and Injuries
+Tobacco Reduction,Addiction
+Flexible Bronchoscopy,Pulmonary Disease
+Development of Pulmonary Dysfunction Following Open Abdominal Surgery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Macular Hole,Eye Disease
+"Diabetes Mellitus, Insulin-Dependent",Diabetes
+Hemispatial Neglect,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Obesity,Obesity and Physical Activity
+Alcohol Consumption,Addiction
+COPD,Pulmonary Disease
+Mammaplasty,Others
+Diabetes Mellitus,Diabetes
+Hazardous Drinking,Addiction
+Healthy,Others
+Elderly,Aging and Palliative Care
+Urinary Tract Infection,Kidney Disease
+Oppositional Defiant Disorder,Mental Health
+"Primary Prevention, Cardiovascular Risk Factor Management, Size of Response to Training",Heart Disease
+Prematurity,Reproduction and Sexual Health
+Lipid Metabolism Disorders,Obesity and Physical Activity
+Coronary Angiography,Heart Disease
+COPD,Pulmonary Disease
+Acute Kidney Injury,Kidney Disease
+Elevated Liver Fat Content and Insulin Resistance,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Subjective Cognitive Decline,Mental Health
+Liver Failure,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Acute Ischemic Stroke,Heart Disease
+Dystonia,Mental Health
+Adenocarcinoma,Oncology
+"Depression, Unipolar",Mental Health
+Unipolar Depression,Mental Health
+Acute Renal Failure,Kidney Disease
+Neoplasm Metastasis,Oncology
+Cancer,Oncology
+Kidney Diseases,Kidney Disease
+Liver Resection,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Rectal Cancer,Oncology
+Pain,Arthritis and Injuries
+Healthy,Others
+Gastric Adenocarcinoma With Peritoneal Carcinomatosis,Oncology
+Thyroid Disease,"Ear, Nose and Throat"
+Bladder Cancer,Oncology
+Depression,Mental Health
+Hepatocellular Carcinoma,Oncology
+Obsessive-Compulsive Disorder,Mental Health
+Depression,Mental Health
+Breast Cancer,Oncology
+Relapsing Remitting Multiple Sclerosis,Mental Health
+Endodontically Treated Teeth,Oral Health
+Oppositional Defiant Disorder,Mental Health
+Insomnia,Mental Health
+Kidney Transplantation,Kidney Disease
+Overweight,Obesity and Physical Activity
+Stable Coronary Artery Disease,Heart Disease
+Heart Diseases,Heart Disease
+Diabetes,Diabetes
+"Laparoscopic Surgery of Uterus, Adnex or Ovaries","Surgery, Abdominal Disease, Emergency and Intensive Care"
+Muscles Ischemia,Arthritis and Injuries
+"Pain, Postoperative",Arthritis and Injuries
+Stable Coronary Heart Disease,Heart Disease
+Peripheral Arterial Disease,Heart Disease
+Acute,Others
+Respiratory Insufficiency,Pulmonary Disease
+"Diabetes Mellitus, Type 2",Diabetes
+Depression,Mental Health
+Persistent Atrial Fibrillation,Heart Disease
+Type 2 Diabetes,Diabetes
+Stroke,Heart Disease
+Therapy Resistant Hypertension,Heart Disease
+Sarcoma,Oncology
+Safety After Oral Intake,Oral Health
+Pharyngitis,Skin Condition
+Lymphoma,Oncology
+Acute Myeloid Leukemia,Oncology
+Coronary Heart Disease,Heart Disease
+Diabetes Mellitus Type 2,Diabetes
+Anorexia Nervosa,Mental Health
+Actinic Keratosis (AK),Oncology
+Peripheral Arterial Disease (PAD),Heart Disease
+Pancreatic Resection,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Cancer,Oncology
+Uterine Cervical Dysplasia,Reproduction and Sexual Health
+Vertebral Bony Metastases,Arthritis and Injuries
+Obesity,Obesity and Physical Activity
+Graft vs Host Disease,Skin Condition
+Menstrual Pain,Reproduction and Sexual Health
+Cognitive Enhancement,Mental Health
+Spondylolisthesis,Arthritis and Injuries
+Heparin Induced Thrombocytopenia (HIT),Heart Disease
+Glioblastoma Multiforme,Oncology
+Fall Prevention,Arthritis and Injuries
+"Brain Metastases, Adult","Surgery, Abdominal Disease, Emergency and Intensive Care"
+Active Ulcerative Colitis,Obesity and Physical Activity
+Irritable Bowel Syndrome,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Impact of Oxytocin on Social Learning,Others
+Breast Cancer,Oncology
+Plasma Volume Replacement,Others
+Uterine Cervical Dysplasia,Reproduction and Sexual Health
+Healthy,Others
+Dental Caries,Oral Health
+Tubular Breast Cancer Stage II,Oncology
+Myocardial Infarction,Heart Disease
+Chronic Heart Failure,Heart Disease
+Chronic Disease,Others
+Hydrocephalus,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Traumatic Lesion of Sensory Nerves of the Hand,Mental Health
+Myocardial Infarction,Heart Disease
+Complication of Ventilation Therapy,Pulmonary Disease
+Resectable Pancreatic Cancer,Oncology
+Infections,Skin Condition
+Healthy Volunteers,Others
+Coronary Artery Disease,Heart Disease
+Chronic Major Depressive Disorder,Mental Health
+Retinopathy of Prematurity (ROP),Reproduction and Sexual Health
+Hodgkins Lymphoma,Oncology
+Mental Disorders,Mental Health
+Diabetes,Diabetes
+Stroke,Heart Disease
+Dementia,Mental Health
+Anesthesia With Use of LMA (Laryngeal Mask Airway),"Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Chronic Obstructive Pulmonary Disease, COPD",Pulmonary Disease
+Pancreatic Cancer,Oncology
+Hypertension,Heart Disease
+Domestic Violence,Mental Health
+Schizophrenia,Mental Health
+Stroke,Heart Disease
+Anemia,Heart Disease
+Varicosity,Others
+Inflammatory Bowel Diseases,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Colonic Polyps,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Colorectal Resection,Oncology
+Acne Vulgaris,Skin Condition
+Atherothrombosis,Others
+Non-alcoholic Fatty Liver Disease (NAFLD),"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Circuit-based High Intensity Interval Training,Others
+Thalassemia Major,Heart Disease
+Autoimmune Thyroiditis,"Ear, Nose and Throat"
+Acute Gastroenteritis,Obesity and Physical Activity
+Pregnancy,Reproduction and Sexual Health
+Malnutrition,Obesity and Physical Activity
+Measles Vaccine,Skin Condition
+Measles,Skin Condition
+Dementia,Mental Health
+Stroke,Heart Disease
+Motor Skills Disorders,Arthritis and Injuries
+Geriatric Disorder,Aging and Palliative Care
+Stroke,Heart Disease
+Insomnia,Mental Health
+Stroke,Heart Disease
+Developmental Coordination Disorder,Mental Health
+Insomnia,Mental Health
+Schizophrenia,Mental Health
+End Stage Heart Disease,Heart Disease
+Schizophrenia,Mental Health
+Postoperative Pain,Arthritis and Injuries
+Functional Gastrointestinal Disorder,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Liver Cirrhosis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Soft Tissue Injuries,Others
+"Insomnia, Primary",Mental Health
+Nasopharyngeal Cancer,Oncology
+Schizophrenia,Mental Health
+Dementia,Mental Health
+Anaesthesia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Parkinson Disease,Mental Health
+Sarcoidosis,Others
+Cirrhosis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Uncomplicated Severe Acute Malnutrition,Obesity and Physical Activity
+Immune Response to MMR Vaccine,Skin Condition
+Health Promotion,Others
+Oral Cancer,Oncology
+Iron Deficiency and Anemia,Heart Disease
+Cirrhosis Related Parkinsonism,Mental Health
+Growth,Others
+Congenital Cataract,Heart Disease
+Chronic Periodontitis With Mandibular Degree 2 Furcation Defects,Oral Health
+Acute Respiratory Distress Syndrome (ARDS),Pulmonary Disease
+Autistic Children With Sensory Processing Abnormalities,"Ear, Nose and Throat"
+Anemia,Heart Disease
+Infantile Spasms,Reproduction and Sexual Health
+Obesity,Obesity and Physical Activity
+Depression,Mental Health
+Bronchopulmonary Diseases,Pulmonary Disease
+Type 2 Diabetes Mellitus,Diabetes
+Tuberculosis,Pulmonary Disease
+Allergic Bronchopulmonary Aspergilloses,Pulmonary Disease
+Cancer of Cervix,Oncology
+Cancer of Cervix,Oncology
+Diarrhea,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Acute Coronary Syndrome,Heart Disease
+Tuberculosis,Pulmonary Disease
+HIV Infection,Reproduction and Sexual Health
+Pregnancy,Reproduction and Sexual Health
+Diarrhea,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Hypertension,Heart Disease
+PCOS,Others
+Pregnancy,Reproduction and Sexual Health
+Non Alcoholic Fatty Liver Disease,Addiction
+Atrophic Post Acne Scarring,Skin Condition
+Allergic Bronchopulmonary Aspergillosis,Pulmonary Disease
+Hypoxic Ischemic Encephalopathy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Seizures, Focal",Mental Health
+Nephrotic Syndrome,Kidney Disease
+Presbyopia,Eye Disease
+Malaria,Skin Condition
+Healthy,Others
+Muscle Weakness,Arthritis and Injuries
+Urinary Tract Infection,Kidney Disease
+Irritable Bowel Syndrome Predominant Constipation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Mental Disorders,Mental Health
+Sleep,Mental Health
+Diabetic Nephropathy,Kidney Disease
+Prostate Cancer,Oncology
+Activity,Others
+Proiriftrative Diabetic Retinopathy,Diabetes
+Pneumothorax Spontaneous Primary,Pulmonary Disease
+Postpartum Lumbopelvic Pain,Arthritis and Injuries
+Pulpitis,Oral Health
+Renal Colic,Kidney Disease
+Myocardial Infarction,Heart Disease
+Cardiovascular Disease,Heart Disease
+In Vitro Fertilization,Reproduction and Sexual Health
+Rheumatoid Arthritis,Arthritis and Injuries
+"Dental Devices, Home Care",Oral Health
+Diabetic Macular Edema,Eye Disease
+Symptomatic Irreversible Pulpitis,Oral Health
+Postpartum Hemorrhage,Reproduction and Sexual Health
+Esophageal Neoplasms,Oncology
+Diabetes Mellitus Type II,Diabetes
+Gastric Bypass Surgery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Cow's Milk Allergy,Skin Condition
+Body Mass Index Quantitative Trait Locus 7 Disorder,Others
+Pain,Arthritis and Injuries
+Infertility,Reproduction and Sexual Health
+Eye Burns,Eye Disease
+Post-operative Pain,Arthritis and Injuries
+Obesity,Obesity and Physical Activity
+Osteoarthritis,Arthritis and Injuries
+Metabolic Syndrome,Obesity and Physical Activity
+Hyperlipidemias,Heart Disease
+Fatty Liver,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Acute Pyelonephritis(APN),Kidney Disease
+Osseointegrated Dental Implantation,Oral Health
+Depression,Mental Health
+Chronic Obstructive Pulmonary Disease,Pulmonary Disease
+Asthma,Pulmonary Disease
+Breast Diseases,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Depression,Mental Health
+Laparoscopic TAP Block in TEP Inguinal Hernia Repair.,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Schizophrenia,Mental Health
+Hypertension,Heart Disease
+Spinal Cord Compression,Arthritis and Injuries
+Esophageal Cancer,Oncology
+Overweight,Obesity and Physical Activity
+Outpatients General Surgery Virtual Clinic,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Vitamin D Deficiency,Obesity and Physical Activity
+Peripheral Arterial Diseases,Heart Disease
+Physical Disability,Obesity and Physical Activity
+Bronchiolitis,Pulmonary Disease
+Fever,Skin Condition
+"Labor, Second Stage",Reproduction and Sexual Health
+Ischemic Heart Disease,Heart Disease
+Accidental Falls,Arthritis and Injuries
+Loneliness,Mental Health
+Gestational Diabetes,Diabetes
+Men With Mild Abdominal Obesity,Obesity and Physical Activity
+Social Phobia,Mental Health
+Chronic Kidney Disease,Kidney Disease
+Anorexia,Mental Health
+Fibromyalgia,Arthritis and Injuries
+Cesarean Section,Reproduction and Sexual Health
+Social Skills,Others
+Plantar Fasciitis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Pain,Arthritis and Injuries
+Post-traumatic Stress Disorder,Mental Health
+Alveolar Bone Loss,Oral Health
+Crohn's Disease,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Social Anxiety Disorder,Mental Health
+Prolonged Pregnancy,Reproduction and Sexual Health
+Surgical Wound Infection,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Hemoptisis,Others
+Alzheimer's Disease (AD),Mental Health
+"Labor, Induced",Reproduction and Sexual Health
+Obesity,Obesity and Physical Activity
+Social Phobia,Mental Health
+NAFLD,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Stroke,Heart Disease
+Acute Appendicitis Without Peritonitis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Surgical Wound Dehiscence,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Gastric Cancer,Oncology
+Nervous System Neoplasms,Oncology
+Complex Patients in Rehabilitation Phase,Arthritis and Injuries
+Ischemic Reperfusion Injury,Arthritis and Injuries
+Pancreatic Cancer,Oncology
+Irritable Bowel Syndrome,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Motor Neuron Disease,Mental Health
+Pancreatic Cancer,Oncology
+Migraine,Mental Health
+Chronic Kidney Disease Stage 3-5,Kidney Disease
+Primary Adrenal Insufficiency,Kidney Disease
+Parkinson Disease,Mental Health
+Chronic Subclinic Inflammation,Skin Condition
+"Regulation, Appetite",Obesity and Physical Activity
+Infantile Colic,Reproduction and Sexual Health
+Cardiovascular Risk Factors,Heart Disease
+Cerebrovascular Disease,"Ear, Nose and Throat"
+Parkinson's Disease,Mental Health
+"Ataxia, Cerebellar","Surgery, Abdominal Disease, Emergency and Intensive Care"
+Peripheral Neuropathy,Mental Health
+Dental Anxiety,Mental Health
+Oral Soft Tissue Conditions,Oral Health
+Knee Osteoarthritis,Arthritis and Injuries
+Chronic Kidney Disease.,Kidney Disease
+Obesity,Obesity and Physical Activity
+Cancer,Oncology
+Cystic Fibrosis,Pulmonary Disease
+Fibromyalgia Syndrome,Arthritis and Injuries
+Metabolic Syndrome,Obesity and Physical Activity
+Type 1 Diabetes,Diabetes
+Surgical Flaps,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Plaque Ph Lowering After Use of Probiotics,Others
+Periodontal Diseases,Oral Health
+Dentin Sensitivity,Oral Health
+Type 1 Diabetes,Diabetes
+Breast Cancer,Oncology
+Stomatitis,Others
+Vestibular Diseases,"Ear, Nose and Throat"
+Rehabilitation,Arthritis and Injuries
+Multiple Sclerosis,Mental Health
+Head and Neck Squamous Cell Carcinoma,Oncology
+Diabetes Mellitus,Diabetes
+"Pulmonary Disease, Chronic Obstructive",Pulmonary Disease
+Irritable Bowel Syndrome,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Healthy,Others
+Metabolic Syndrome X,Obesity and Physical Activity
+Uterine Myoma,Oncology
+Prostate Cancer,Oncology
+Metastatic Colorectal Cancer,Oncology
+Human Epidermal Growth Factor 2 Negative Carcinoma of Breast,Oncology
+Chronic Obstructive Pulmonary Disease (COPD),Pulmonary Disease
+Celiac Disease,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Safety Issues,Others
+Diabetes Type 2,Diabetes
+Knee Chondropathy,Arthritis and Injuries
+Chronic Diseases,Others
+Pancreatic Neoplasm,Oncology
+"Stage, Pancreatic Cancer",Oncology
+Low Back Pain,Arthritis and Injuries
+Infant Development,Reproduction and Sexual Health
+Chronic Obstructive Pulmonary Disease (COPD),Pulmonary Disease
+Bioavailability,Others
+Chronic Respiratory Insufficiency,Pulmonary Disease
+Stroke,Heart Disease
+Liver Failure,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Multiple Sclerosis,Mental Health
+HIV-1 Infection,Reproduction and Sexual Health
+Persistent Atrial Fibrillation,Heart Disease
+Attention Deficit Hyperactivity Disorder,Mental Health
+Atopic Dermatitis,Skin Condition
+Glioblastoma Multiforme,Oncology
+Post-operative Cognitive Dysfunction,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Premature Birth,Reproduction and Sexual Health
+Face Aging/Photo Aging of Moderate Grade,Others
+Type 2 Diabetes Mellitus,Diabetes
+Metabolic Syndrome,Obesity and Physical Activity
+Breast Cancer,Oncology
+Obesity,Obesity and Physical Activity
+"Bone Atrophy, Alveolar",Oral Health
+Obesity,Obesity and Physical Activity
+Stroke,Heart Disease
+Metastatic Colorectal Cancer,Oncology
+Biliary Tract Diseases,Arthritis and Injuries
+Colorectal Cancer,Oncology
+Human Immunodeficiency Virus,Reproduction and Sexual Health
+Gestational Diabetes Mellitus,Diabetes
+Acute Kidney Injury,Kidney Disease
+Permanent Atrial Fibrillation,Heart Disease
+Breast Cancer Invasive Nos,Oncology
+IBS in Celiac Desease,Others
+"Vacuum Extraction; Failure, Affecting Fetus or Newborn",Reproduction and Sexual Health
+Tooth Loss,Oral Health
+Tertiary Prevention in Colon Cancer,Oncology
+Clinical and Nutritional Safety.,Obesity and Physical Activity
+Surgery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Acute Coronary Syndromes,Heart Disease
+Pre-hypertension,Heart Disease
+Liver Cirrhosis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Infant Colics,Reproduction and Sexual Health
+Multiple Sclerosis,Mental Health
+Type 2 Diabetes,Diabetes
+Genito Urinary Function Evaluation,Kidney Disease
+Sarcopenia,Aging and Palliative Care
+Allergic Rhinitis,"Ear, Nose and Throat"
+Hip Fracture,Arthritis and Injuries
+Obesity With Complications,Obesity and Physical Activity
+Diabetes Mellitus,Diabetes
+Periodontitis,Oral Health
+Portal Vein Thrombosis,Heart Disease
+Coronary Artery Disease,Heart Disease
+Tuberous Sclerosis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Head and Neck Cancer,Oncology
+Major Depressive Disorder,Mental Health
+Advanced Hepatocellular Carcinoma,Oncology
+Pancreatic Neoplasms,Oncology
+Gullain Barre Syndrome,Others
+Genetic Disorder,Others
+Major Depressive Disorder,Mental Health
+Kawasaki Disease Refractory to Initial Therapy With Intravenous Immunoglobulin,Heart Disease
+"Diabetes Mellitus, Type 2",Diabetes
+Femoral Artery Stenosis,Oral Health
+Colorectal Cancer,Oncology
+Chronic Constipation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Chronic Obstructive Pulmonary Disease (COPD),Pulmonary Disease
+Colorectal Cancer,Oncology
+Major Depressive Disorder,Mental Health
+"Diabetes Mellitus, Type 2",Diabetes
+Non-Small-Cell Lung Carcinoma,Oncology
+Chronic Obstructive Pulmonary Disease,Pulmonary Disease
+Osteoporosis,Arthritis and Injuries
+Pancreatic Tumor,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Hypertension,Heart Disease
+Hypertension,Heart Disease
+Grade I or II Essential Hypertension,Heart Disease
+H. Pylori Infection,Skin Condition
+Coronary Disease,Heart Disease
+Rectal Cancer,Oncology
+Ischemic Stroke,Heart Disease
+"Brain Injuries, Traumatic","Surgery, Abdominal Disease, Emergency and Intensive Care"
+Diabetes,Diabetes
+Osteoarthritis of the Knee,Arthritis and Injuries
+Diabetes,Diabetes
+Diabetes,Diabetes
+"Pulmonary Disease, Chronic Obstructive",Pulmonary Disease
+Atrial Fibrillation,Heart Disease
+Palmoplantaris Pustulosis,Skin Condition
+Functional Dyspepsia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Colorectal Neoplasms,Oncology
+Diabetes,Diabetes
+Unipolar Major Depressive Episode,Mental Health
+"Diabetes Mellitus, Type 1",Diabetes
+Depressive Disorder,Mental Health
+Healthy,Others
+Pneumococcal Pneumonia,Pulmonary Disease
+Malocclusion,Oral Health
+Homocystinaemia,Others
+Deep Caries,Oral Health
+Influenza,Skin Condition
+Myocardial Infarction,Heart Disease
+Contraception Behavior,Reproduction and Sexual Health
+Maternal Health,Reproduction and Sexual Health
+Depressive Symptoms,Mental Health
+Malaria,Skin Condition
+Human Immunodeficiency Virus,Reproduction and Sexual Health
+Zinc Deficiency,Obesity and Physical Activity
+HIV Infections,Reproduction and Sexual Health
+Pregnancy,Reproduction and Sexual Health
+Cryptosporidium; Diarrhea,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Pneumonia, Pneumococcal",Pulmonary Disease
+HIV/AIDS,Reproduction and Sexual Health
+Malnutrition,Obesity and Physical Activity
+Fever,Skin Condition
+HIV Infections,Reproduction and Sexual Health
+Malaria,Skin Condition
+Chronic Obstructive Pulmonary Disease (COPD),Pulmonary Disease
+Diarrhea,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Hookworm Infection,Skin Condition
+Brow Lifting,Others
+Bronchoscopy,Pulmonary Disease
+Post-operative Pain,Arthritis and Injuries
+"Tinnitus, Subjective","Ear, Nose and Throat"
+Browlift,Others
+Inguinal Hernia Repair,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+HIV Infection,Reproduction and Sexual Health
+Pregnancy,Reproduction and Sexual Health
+HIV Infections,Reproduction and Sexual Health
+Malaria,Skin Condition
+HIV,Reproduction and Sexual Health
+Contraception,Reproduction and Sexual Health
+Malaria,Skin Condition
+Tuberculosis,Pulmonary Disease
+Pneumonia,Pulmonary Disease
+Opiate Dependence,Addiction
+Cardiovascular Risk Factor,Heart Disease
+"Sexual Dysfunctions, Psychological",Reproduction and Sexual Health
+Anaesthesia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Overweight,Obesity and Physical Activity
+Gestational Diabetes Mellitus,Diabetes
+"Diabetes Mellitus, Type 2",Diabetes
+Diabetic Neuropathy,Mental Health
+Uncomplicated Knowlesi Malaria,Skin Condition
+Malaria,Skin Condition
+Diabetes,Diabetes
+Malaria,Skin Condition
+HIV,Reproduction and Sexual Health
+Multiple Sclerosis,Mental Health
+"Muscular Dystrophy, Duchenne",Arthritis and Injuries
+Glucose Metabolism Disorders,Diabetes
+Growth & Development,Others
+Non-Small Cell Lung Cancer,Oncology
+Carpal Tunnel Syndrome,Arthritis and Injuries
+Obesity,Obesity and Physical Activity
+Cardiovascular Diseases,Heart Disease
+Urinary Tract Infection,Kidney Disease
+Influenza,Skin Condition
+Mucositis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Pregnancy,Reproduction and Sexual Health
+Fetal Growth Restriction,Reproduction and Sexual Health
+Endometrial Cancer,Oncology
+Community Health Services,Others
+Colorectal Carcinoma,Oncology
+Sanfilippo Syndrome,Others
+Moderate Risk of CVD,Heart Disease
+"Arthritis, Psoriatic",Arthritis and Injuries
+Type 2 Diabetes Mellitus,Diabetes
+Multiple Myeloma,Oncology
+Kidney Cancer,Oncology
+Breast Adenocarcinoma,Oncology
+Myotonic Dystrophy Type 1,Others
+Ulcerative Colitis,Obesity and Physical Activity
+Acute Lymphoblastic Leukemia,Oncology
+Coronary Artery Disease,Heart Disease
+Hypotension,Heart Disease
+Knee Chondral Lesion,Arthritis and Injuries
+Metrorrhagia,Others
+Aneuploid Oocytes,Reproduction and Sexual Health
+Lumbar Disc Herniation,Arthritis and Injuries
+Coronary Heart Disease,Heart Disease
+Delirium,Mental Health
+Colorectal Cancer,Oncology
+Relapsing Remitting Multiple Sclerosis,Mental Health
+Asthma,Pulmonary Disease
+Idiopathic Pulmonary Fibrosis,Pulmonary Disease
+Chronic Obstructive Pulmonary Disease (COPD),Pulmonary Disease
+Colorectal Neoplasms,Oncology
+Ostomy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Idiopathic Pulmonary Fibrosis,Pulmonary Disease
+Coronary Stenosis,Heart Disease
+Type 2 Diabetes Mellitus,Diabetes
+Tooth Movement,Oral Health
+Tuberculosis,Pulmonary Disease
+Nonalcoholic Steatohepatitis (NASH),Addiction
+Diabetes,Diabetes
+Congestive Heart Failure,Heart Disease
+Metastatic Colorectal Cancer,Oncology
+Deep Vein Thrombosis,Heart Disease
+Hypertriglyceridemia,Heart Disease
+"Diabetes Mellitus, Type 1",Diabetes
+"Osteoarthritis, Knee",Arthritis and Injuries
+Pain,Arthritis and Injuries
+Coronary Heart Disease,Heart Disease
+Type 2 Diabetes Mellitus,Diabetes
+Neuropathic Pain,Mental Health
+Postmenopausal Osteoporosis,Reproduction and Sexual Health
+Female Infertility,Reproduction and Sexual Health
+Cytomegalovirus Infections,Skin Condition
+Major Depressive Disorder,Mental Health
+Paroxysmal Atrial Fibrillation.,Heart Disease
+Community Acquired Pneumonia,Pulmonary Disease
+Adult Growth Hormone Deficiency,Others
+Acute Coronary Syndrome,Heart Disease
+Glioblastoma,Oncology
+Type 1 Diabetes Mellitus,Diabetes
+Diabetes,Diabetes
+Non-Squamous Non-Small Cell Lung Cancer,Oncology
+Psoriatic Arthritis,Arthritis and Injuries
+Myopia,Eye Disease
+Chronic Inflammatory Demyelinating Polyneuropathy,Mental Health
+Type 2 Diabetes Mellitus,Diabetes
+Cutaneous T-Cell Lymphoma,Oncology
+Childhood Idiopathic Nephrotic Syndrome,Kidney Disease
+Chronic Lymphocytic Leukemia,Oncology
+Urinary Tract Infections,Kidney Disease
+Obesity,Obesity and Physical Activity
+Oocyte Fertilization,Reproduction and Sexual Health
+Spondyloarthropathies,Arthritis and Injuries
+Anaplastic Large-Cell Lymphoma,Oncology
+OESOPHAGO-GASTRIC CARCINOMA,Oncology
+Malignant Pleural Mesothelioma,Oncology
+Osteoporosis in Men,Arthritis and Injuries
+Polypoidal Choroidal Vasculopathy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Lymphoma, Non-Hodgkin",Oncology
+Gingival Recession,Oral Health
+Gastric Cancer,Oncology
+Pancreatic Cancer,Oncology
+Nasopharyngeal Cancers,Oncology
+Septic Shock,Skin Condition
+Meningoccocal Disease,Skin Condition
+Psoriatic Arthritis,Arthritis and Injuries
+Epilepsy,Mental Health
+Burn Injury,Skin Condition
+Glaucoma,Eye Disease
+Thrombocytopaenia,Others
+Actinic Keratosis,Oncology
+Glabellar Frown Lines,Others
+Pregnancy Complications,Reproduction and Sexual Health
+Clear Cell Renal Carcinoma,Kidney Disease
+Acute Coronary Syndrome,Heart Disease
+Relapsing-Remitting Multiple Sclerosis,Mental Health
+"Vision, Low",Eye Disease
+Diabetic Kidney Disease,Kidney Disease
+Lung Cancer,Oncology
+"Depressive Disorder, Major",Mental Health
+Rheumatoid Arthritis,Arthritis and Injuries
+Myocardial Infarction,Heart Disease
+Ankylosing Spondylitis,Arthritis and Injuries
+Atrial Fibrillation,Heart Disease
+"Pulmonary Disease, Chronic Obstructive",Pulmonary Disease
+Idiopathic Pulmonary Fibrosis,Pulmonary Disease
+Severe Spasticity,Skin Condition
+Atopic Dermatitis,Skin Condition
+Liver Transplantation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+HER2/Neu Positive,Others
+Chronic Plaque Psoriasis,Skin Condition
+Acidosis,Others
+Rheumatoid Arthritis,Arthritis and Injuries
+Type 2 Diabetes Mellitus,Diabetes
+Non-operable Chronic Thromboembolic Pulmonary Hypertension,Heart Disease
+Esophagus Cancer,Oncology
+Cystic Fibrosis,Pulmonary Disease
+Sarcopenia,Aging and Palliative Care
+Follicular Lymphoma,Oncology
+Acquired Immune Deficiency Syndrome,Reproduction and Sexual Health
+Elevated High-sensitivity C-Reactive Protein (hsCRP),Others
+Acute Kidney Injury,Kidney Disease
+Breast Cancer,Oncology
+Skin Cancer,Oncology
+Prostate Cancer,Oncology
+Breast Cancer,Oncology
+Child Malnutrition,Obesity and Physical Activity
+Congenital Heart Disease,Heart Disease
+Prostate Cancer,Oncology
+Colorectal Cancer,Oncology
+Breast Cancer,Oncology
+Colorectal Cancer,Oncology
+HIV,Reproduction and Sexual Health
+"Jaw, Edentulous, Partially",Oral Health
+Gastric Cancer,Oncology
+Incontinence,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Generalized Anxiety Disorder,Mental Health
+Renal Function and Chronic Allograft Vasculopathy,Kidney Disease
+Aging,Aging and Palliative Care
+Breast Cancer,Oncology
+Age Related Cognitive Decline,Mental Health
+Prostate Cancer,Oncology
+Respiratory Distress Syndrome,Pulmonary Disease
+Infant Development,Reproduction and Sexual Health
+Breast Cancer,Oncology
+Colorectal Cancer,Oncology
+Dementia of the Alzheimer's Type,Mental Health
+Ulcerative Colitis,Obesity and Physical Activity
+HIV Infection,Reproduction and Sexual Health
+Critically Ill Mechanically Ventilated Subjects,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Stable Angina Pectoris,Heart Disease
+Psoriatic Arthritis,Arthritis and Injuries
+Neuroblastoma,Oncology
+Acute Coronary Syndrome,Heart Disease
+Diabetic Foot Ulcer,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Breast Cancer,Oncology
+Prostate Cancer,Oncology
+Sleep Deprivation,Mental Health
+HIV,Reproduction and Sexual Health
+NYHA Class III Heart Failure,Heart Disease
+"Behavior, Consumer",Others
+Umbilical Hernia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Postthrombotic Syndrome,Others
+Hypotension,Heart Disease
+Primary Myelofibrosis,Heart Disease
+Atopic Dermatitis,Skin Condition
+Colorectal Cancer,Oncology
+Hypertension,Heart Disease
+"Diabetes Mellitus, Type 1",Diabetes
+Alzheimer's Disease,Mental Health
+Breast Cancer,Oncology
+Metastatic Melanoma,Oncology
+Breast Cancer,Oncology
+Metabolic Syndrome,Obesity and Physical Activity
+Indications for Warfarin Therapy,Others
+ICU-ecology (Multidrug Resistant Bacteria),"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Cytomegalovirus Infections,Skin Condition
+Cardiac Surgery,Heart Disease
+HIV,Reproduction and Sexual Health
+Disturbance of Growth,Others
+Chronic Pain,Arthritis and Injuries
+Bloodstream Infections,Heart Disease
+Uterine Bleeding in Women With Leiomyomas,Oncology
+Lymphoma,Oncology
+Polymyositis,Arthritis and Injuries
+Coronary Artery Disease,Heart Disease
+Critical Illness,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Prostate Cancer,Oncology
+Critical Illness,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Leukemia,Oncology
+HIV Infections,Reproduction and Sexual Health
+HIV/AIDS,Reproduction and Sexual Health
+Trachoma,Eye Disease
+Brain Ischemia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Dental Caries,Oral Health
+Dialysis Catheter Infections,Kidney Disease
+Prostate Cancer,Oncology
+Acute Myocardial Infarction,Heart Disease
+Thrombocytopenia,Heart Disease
+Endometrioma,Reproduction and Sexual Health
+Variceal Hemorrhage,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Prostatic Neoplasms,Oncology
+"Infections, Meningococcal",Skin Condition
+Hormone Receptor Positive Breast Cancer,Oncology
+Type 2 Diabetes,Diabetes
+Metastatic Breast Cancer,Oncology
+Atrial Fibrillation,Heart Disease
+Prostate Cancer,Oncology
+Breast Cancer,Oncology
+Cardiac Surgical Procedures,Heart Disease
+Cognitive Dysfunction,Mental Health
+"Lupus Erythematosus, Discoid",Mental Health
+"Urinary Incontinence, Stress",Kidney Disease
+HIV-1 Infection,Reproduction and Sexual Health
+Chronic Obstructive Pulmonary Disease (COPD) With Cachexia,Pulmonary Disease
+Secondary Progressive Multiple Sclerosis,Mental Health
+Human Immunodeficiency Virus Type 1,Reproduction and Sexual Health
+Saphenous Vein Graft Disease,Heart Disease
+Heart Failure,Heart Disease
+"Diabetes Mellitus, Type 2",Diabetes
+Gastric Adenocarcinoma,Oncology
+Hip Fractures,Arthritis and Injuries
+Neurotrophic Keratitis,Mental Health
+Influenza Virus,Skin Condition
+HIV Infections,Reproduction and Sexual Health
+Systemic Lupus Erythematosus,Mental Health
+HIV Infection,Reproduction and Sexual Health
+Critical Illness,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Advanced Metastatic Breast Cancer,Oncology
+"Liver Cirrhosis, Biliary","Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Diabetes Mellitus, Type 2",Diabetes
+Diabetes,Diabetes
+Measles,Skin Condition
+Acute Alcoholic Hepatitis,Addiction
+Cystoid Macular Edema,Eye Disease
+COPD,Pulmonary Disease
+Solid Tumors,Oncology
+Bulimia Nervosa,Mental Health
+Aortic Stenosis,Heart Disease
+COPD,Pulmonary Disease
+Cardiovascular Diseases,Heart Disease
+"Brain Injuries, Traumatic","Surgery, Abdominal Disease, Emergency and Intensive Care"
+Colorectal Cancer,Oncology
+Smoking Cessation,Addiction
+Refractory Metastatic Gastric Cancer,Oncology
+Psoriatic Arthritis,Arthritis and Injuries
+Acute Kidney Injury,Kidney Disease
+Coronary Artery Disease,Heart Disease
+Critically Ill Children,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Breast Cancer,Oncology
+Yaws,Skin Condition
+Mania,Others
+Prevention & Control,Others
+Moderated-high Risk of Postoperative Pulmonary Complication,Pulmonary Disease
+Type 2 Diabetes,Diabetes
+Obstructive Sleep Apnea,Mental Health
+Diabetes,Diabetes
+Atopic Dermatitis,Skin Condition
+Metastatic Colorectal Cancer,Oncology
+Metabolism and Nutrition Disorder,Obesity and Physical Activity
+Feeding Intolerance,Reproduction and Sexual Health
+"Sclerosis, Systemic",Others
+Acute Lung Injury,Pulmonary Disease
+Colorectal Cancer Metastatic,Oncology
+"Dermatitis, Atopic Dermatitis",Skin Condition
+Non-Hodgkin's Lymphoma,Oncology
+Schizophrenia,Mental Health
+Renal Replacement Therapy,Kidney Disease
+Adult Acute Megakaryoblastic Leukemia (M7),Oncology
+Tuberous Sclerosis Complex,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Metastatic Breast Cancer,Oncology
+Ulcerative Colitis,Obesity and Physical Activity
+Corneal Ulcer,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Anaplastic Medulloblastoma,Oncology
+"Myelogenous Leukemia, Chronic",Oncology
+Acute Lymphoblastic Leukemia,Oncology
+Colorectal Cancer,Oncology
+Diabetes,Diabetes
+HIV,Reproduction and Sexual Health
+Asthma,Pulmonary Disease
+Pulmonary Arterial Hypertension,Heart Disease
+Failed Back Surgery Syndrome,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Benign Esophageal Lesions,Oncology
+Epilepsy,Mental Health
+Diabetes,Diabetes
+Tetanus,Skin Condition
+PONV,Others
+"Jaw, Edentulous, Partially",Oral Health
+Melanoma,Oncology
+Ischemic Stroke,Heart Disease
+Diabetes,Diabetes
+Atherosclerotic Cardiovascular Disease,Heart Disease
+Coronary Artery Disease,Heart Disease
+Psoriasis,Skin Condition
+Gram Negative Bacteremia,Others
+Fragile X Syndrome,Others
+Epilepsy,Mental Health
+"Arthritis, Rheumatoid",Arthritis and Injuries
+Gastroparesis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Knee Osteoarthritis,Arthritis and Injuries
+"Spondylitis, Ankylosing",Arthritis and Injuries
+Malaria,Skin Condition
+"Infection, Human Immunodeficiency Virus",Reproduction and Sexual Health
+Irritable Bowel Syndrome With Constipation (IBS-C),"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Neovascular Macular Degeneration,"Ear, Nose and Throat"
+Plaque Psoriasis,Skin Condition
+Non-Hodgkin's Lymphoma,Oncology
+Prostate Cancer,Oncology
+Rheumatoid Arthritis,Arthritis and Injuries
+Breast Cancer,Oncology
+Mesothelioma,Oncology
+"Diabetes Mellitus, Type 2",Diabetes
+Primary Sclerosing Cholangitis,Others
+Malnutrition,Obesity and Physical Activity
+Melanoma,Oncology
+Coronary Artery Disease,Heart Disease
+Anticancer Treatment,Oncology
+Human Immunodeficiency Virus,Reproduction and Sexual Health
+Catheter Related Blood Stream Infections,Heart Disease
+Hypertension,Heart Disease
+"Pulmonary Disease, Chronic Obstructive",Pulmonary Disease
+Juvenile Myelomonocytic Leukemia,Oncology
+Schizophrenia,Mental Health
+Acute Adenoviral Conjunctivitis,Others
+Hypercholesterolemia,Heart Disease
+Alagille Syndrome,Others
+Diabetes,Diabetes
+Psoriasis,Skin Condition
+Muscle Spasticity,Arthritis and Injuries
+Systemic Lupus Erythematosus,Mental Health
+Primary Myelofibrosis (PMF),Heart Disease
+Type 2 Diabetes Mellitus,Diabetes
+Open Fracture Wounds,Arthritis and Injuries
+Non-Squamous Non-Small Cell Lung Cancer,Oncology
+Bipolar 1 Disorder,Mental Health
+"Advanced, Metastatic Breast Cancer",Oncology
+Migraine,Mental Health
+Spinal and Bulbar Muscular Atrophy,Arthritis and Injuries
+Sexual Assault,Reproduction and Sexual Health
+Infant Nutrition,Obesity and Physical Activity
+Onchocerciasis,Eye Disease
+Bronchiectasis,Pulmonary Disease
+Wound Infection,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Diabetes Mellitus, Type 2",Diabetes
+Secrecy Versus Disclosure Among Adolescents With Mental Illness,Mental Health
+HIV,Reproduction and Sexual Health
+Out-of-Hospital Cardiac Arrest,Heart Disease
+Hepatocellular Carcinoma (HCC),Oncology
+"Unresectable, Recurrent, Locally Advanced or Metastatic Gastric or Gastroesophageal Junction Adenoca",Oncology
+Congenital Bleeding Disorder,Heart Disease
+Out of Hospital Cardiac Arrest,Heart Disease
+Stroke,Heart Disease
+Moderate to Severe Nail Psoriasis,Skin Condition
+Psoriatic Arthritis,Arthritis and Injuries
+COPD,Pulmonary Disease
+Systemic Lupus Erythematosus,Mental Health
+"Infections, Papillomavirus",Skin Condition
+Muscular Dystrophies,Arthritis and Injuries
+Asthma,Pulmonary Disease
+Myocardial Injury After Noncardiac Surgery (MINS),Heart Disease
+Cancer,Oncology
+Prostate Neoplasms,Oncology
+Dental Pain,Oral Health
+Postoperative Ileus,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Atherosclerosis of Native Arteries of the Extremities,Heart Disease
+Femoroacetabular Impingement,Arthritis and Injuries
+Type 2 Diabetes Mellitus,Diabetes
+Hereditary Angioedema (HAE),Skin Condition
+Migraine,Mental Health
+Head and Neck Cancer,Oncology
+Hay Fever,Skin Condition
+Patent Ductus Arteriosus,Heart Disease
+Pancreatic Masses,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Unresectable or Metastatic Melanoma,Oncology
+Chronic Kidney Disease,Kidney Disease
+Urinary Tract Infection Complicated,Kidney Disease
+Chikungunya Virus Infection,Skin Condition
+Nonalcoholic Steatohepatitis,Addiction
+Postoperative Nausea and Vomiting,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Vitiligo,Skin Condition
+Traumatic Brain Injury,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Type 2 Diabetes Mellitus,Diabetes
+Human African Trypanosomiasis (HAT),Others
+Glioblastoma,Oncology
+Esophageal Resection Candidates,Others
+Chronic Stable Angina,Heart Disease
+Emphysema,Pulmonary Disease
+Type 1 Diabetes Mellitus,Diabetes
+Diabetes,Diabetes
+"Infections, Papillomavirus",Skin Condition
+Migraine,Mental Health
+Articular Cartilage Defects,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Hypertension,Heart Disease
+Symptomatic Aortic Stenosis,Heart Disease
+Renal Cell Carcinoma,Kidney Disease
+Platinum Sensitive,Others
+Adenoma,Oncology
+Atopic Dermatitis,Skin Condition
+Benign Prostatic Hyperplasia (BPH),Reproduction and Sexual Health
+Vernal Keratoconjunctivitis,Eye Disease
+Diffuse Large B-cell Lymphoma,Oncology
+Melanoma,Oncology
+Gram-Negative Bacterial Infections,Skin Condition
+Gaucher Disease,Others
+Rheumatoid Arthritis,Arthritis and Injuries
+"Leukemia, Myelogenous, Chronic, Breakpoint Cluster Region-Abelson Proto-oncogene (BCR-ABL) Positive",Oncology
+HIV,Reproduction and Sexual Health
+Platinum Sensitive Ovarian Cancer,Oncology
+"Central Nervous System Tumor, Pediatric",Mental Health
+Low Cardiac Output Syndrome,Heart Disease
+Central Nervous System Tumors,Mental Health
+Acute ST Segment Elevation Myocardial Infarction,Heart Disease
+Diabetes Mellitus,Diabetes
+HIV-1 Infection,Reproduction and Sexual Health
+Primary Biliary Cirrhosis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Central Line-Associated Bloodstream Infection,Heart Disease
+HIV Infections,Reproduction and Sexual Health
+Lymphoma,Oncology
+Healthy,Others
+Septic Shock,Skin Condition
+Obesity,Obesity and Physical Activity
+Acute Lymphoblastic Leukemia,Oncology
+Juvenile Idiopathic Arthritis,Arthritis and Injuries
+Liver Lesions Requiring Hemihepatectomy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Tuberculosis,Pulmonary Disease
+Adenomas,Oncology
+Childhood Mortality,Reproduction and Sexual Health
+Critical Illness,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Labor Preterm Requiring Hospitalization,Reproduction and Sexual Health
+Clostridium Difficile,Others
+Diabetes,Diabetes
+Melanoma,Oncology
+Breast Neoplasms,Oncology
+Psoriatic Arthritis,Arthritis and Injuries
+Chronic Inflammatory Demyelinating Polyradiculoneuropathy,Mental Health
+Acute Coronary Syndromes,Heart Disease
+Alzheimer's Disease,Mental Health
+Pregnancy,Reproduction and Sexual Health
+"Amputation of Hip and Thigh, Level Unspecified",Arthritis and Injuries
+Major Depressive Disorder,Mental Health
+Metastatic Breastcancer,Oncology
+Cardiovascular Disease,Heart Disease
+Unipolar Depression,Mental Health
+Depression,Mental Health
+Nosocomial Pneumonia (NP),Pulmonary Disease
+Unresectable or Metastatic Melanoma,Oncology
+Breast Cancer,Oncology
+Coronary Artery Disease (CAD),Heart Disease
+Decreased Fetal Movements Affecting Care of Mother,Reproduction and Sexual Health
+Influenza,Skin Condition
+Myocardial Infarction,Heart Disease
+Migraine,Mental Health
+Asthma,Pulmonary Disease
+Metastatic Castration-resistant Prostate Cancer,Oncology
+Diabetes,Diabetes
+"Diabetes Mellitus, Type 2",Diabetes
+Adenocarcinoma of the Gastroesophageal Junction,Oncology
+"Multiple Sclerosis, Primary Progressive",Mental Health
+Diabetes,Diabetes
+Candidiasis,Skin Condition
+Diabetes Mellitus,Diabetes
+Chronic Obstructive Pulmonary Disease (COPD),Pulmonary Disease
+Elderly Metastatic Breast Cancer Population,Oncology
+Patent Ductus Arteriosus,Heart Disease
+Triple Negative Breast Cancer,Oncology
+CARDIOVASCULAR DISEASES,Heart Disease
+Cardiovascular Disease,Heart Disease
+Stable Angina,Heart Disease
+Dyslipidemia,Heart Disease
+Coronary Artery Disease,Heart Disease
+"Arthritis, Rheumatoid",Arthritis and Injuries
+Bladder Cancer,Oncology
+Diabetes,Diabetes
+"Infections, Meningococcal",Skin Condition
+Type 2 Diabetes Mellitus,Diabetes
+Spondyloarthritis,Arthritis and Injuries
+Atherosclerosis,Heart Disease
+High Grade Glioma,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Retinopathy of Prematurity (ROP),Reproduction and Sexual Health
+Herpes Zoster,Skin Condition
+Type 2 Diabetes Mellitus,Diabetes
+"Immunodeficiency Virus Type 1, Human",Reproduction and Sexual Health
+CMV,Others
+Kidney Transplantation,Kidney Disease
+Prevention of Acute Rejection in Paediatric Recipients of a Renal Transplant,Kidney Disease
+HIV-1 Infection,Reproduction and Sexual Health
+Effect of Individualized Nutrition on Quality of Life,Obesity and Physical Activity
+Diabetes Mellitus,Diabetes
+Heart Failure,Heart Disease
+Non-Small Cell Lung Cancer,Oncology
+Angiofibromas,"Ear, Nose and Throat"
+HIV-1 Infection,Reproduction and Sexual Health
+Endometrial Cancer,Oncology
+Rheumatoid Arthritis,Arthritis and Injuries
+NSCLC,Others
+Iron Deficiency Anemia,Heart Disease
+HIV Infections,Reproduction and Sexual Health
+Out-Of-Hospital Cardiac Arrest,Heart Disease
+Urinary Tract Infection Complicated,Kidney Disease
+Chronic Obstructive Pulmonary Disease COPD,Pulmonary Disease
+Pain,Arthritis and Injuries
+Epilepsy,Mental Health
+Metastatic,Oncology
+"Stroke, Acute",Heart Disease
+Spondyloarthritis,Arthritis and Injuries
+Rheumatoid Arthritis,Arthritis and Injuries
+Gastroparesis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Infections, Meningococcal",Skin Condition
+Asthma,Pulmonary Disease
+"Malaria, Antepartum",Skin Condition
+Treatment Resistant Depressive Disorder,Mental Health
+Acne Vulgaris,Skin Condition
+Complicated Intra-abdominal Infections,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Malnutrition,Obesity and Physical Activity
+Disseminated Neuroblastoma,Oncology
+Macular Telangiectasia Type 2,Eye Disease
+Breast Cancer,Oncology
+Trauma,Mental Health
+Diabetes,Diabetes
+Recurrent/Metastatic Squamous Cell Carcinoma of Head & Neck,Oncology
+Bronchiectasis,Pulmonary Disease
+Venous Thromboembolism,Heart Disease
+Septic Shock,Skin Condition
+Enterocolitis Clostridium Difficile Recurrent,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Child Development,Reproduction and Sexual Health
+Bacteremia,Others
+Vocal Fold Nodules,Others
+X-linked Hypophosphatemia,Others
+Chronic Pain,Arthritis and Injuries
+Heart Arrest,Heart Disease
+Colorectal Disorders,Oncology
+"Kidney Failure, Acute",Kidney Disease
+Obesity,Obesity and Physical Activity
+Type 2 Diabetes,Diabetes
+Diabetic Retinopathy,Diabetes
+Pediculosis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Bipolar Disorder,Mental Health
+Age-related Macular Degeneration,Aging and Palliative Care
+Major Depressive Disorder,Mental Health
+Alcoholic Liver Disease,Addiction
+Borderline Personality Disorder,Mental Health
+Obesity in Men,Obesity and Physical Activity
+Hip Fractures,Arthritis and Injuries
+HIV,Reproduction and Sexual Health
+Polycystic Ovary Syndrome,Reproduction and Sexual Health
+Menopausal Depression,Reproduction and Sexual Health
+Presbyopia,Eye Disease
+Type 2 Diabetes Mellitus,Diabetes
+Hypogonadism,Reproduction and Sexual Health
+Parkinson's Disease,Mental Health
+Totally Ruptured Anterior Cruciate Ligament in the Knee,Arthritis and Injuries
+Physical Activity,Obesity and Physical Activity
+Polycystic Ovary Syndrome,Reproduction and Sexual Health
+Bullous Pemphigoid (BP),Skin Condition
+Aging,Aging and Palliative Care
+Acute Coronary Syndrome,Heart Disease
+Type 2 Diabetes,Diabetes
+Arterial Hypertension,Heart Disease
+Late Rejection of Renal Transplant,Kidney Disease
+Rheumatoid Arthritis,Arthritis and Injuries
+Synchronous Metastasized Breast Cancer,Oncology
+Diabetes,Diabetes
+Hypertension,Heart Disease
+Aortic Aneurysm,Heart Disease
+ST-elevation Myocardial Infarction,Heart Disease
+Cholestasis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Effect of Breastfeeding on Maternal and Child Health Outcomes,Reproduction and Sexual Health
+Hematological Infection,Skin Condition
+Head and Neck Cancer,Oncology
+Antisocial,Mental Health
+Growth,Others
+Stunting,Others
+Hypothermia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+HIV Seropositivity,Reproduction and Sexual Health
+Hypertension,Heart Disease
+Respiratory Infection,Pulmonary Disease
+Tuberculous Meningitis,Mental Health
+Drug Dependence,Addiction
+Cervicobrachial Neuralgia,Arthritis and Injuries
+Cervicobrachial Neuralgia,Arthritis and Injuries
+Cervicobrachial Neuralgia,Arthritis and Injuries
+Burn Injury,Skin Condition
+Obstructive Sleep Apnea,Mental Health
+Hypertension,Heart Disease
+Osteoporosis,Arthritis and Injuries
+Percutaneous Coronary Intervention,Heart Disease
+In Vitro Fertilization,Reproduction and Sexual Health
+Diarrhea,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Crohn's Disease,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Type 2 Diabetes,Diabetes
+Post Cesarean Section Patient,Reproduction and Sexual Health
+Rectal Cancer,Oncology
+Medical Education,Others
+Evidence of Cholecystectomy,Kidney Disease
+Suture Tying,Others
+"Health Knowledge,Practices,Attitudes",Others
+Urinary Tract Infections,Kidney Disease
+HPV Infections,Skin Condition
+HIV,Reproduction and Sexual Health
+Bacterial Contamination,Skin Condition
+Marasmus,Reproduction and Sexual Health
+Hypertension,Heart Disease
+Healthy,Others
+Aging,Aging and Palliative Care
+Psoriasis,Skin Condition
+"Arthritis, Rheumatoid",Arthritis and Injuries
+Gastroesophageal Reflux Disease,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Psoriatic Arthritis,Arthritis and Injuries
+Overactive Bladder,Kidney Disease
+Anhedonia in Healthy Volunteers,Others
+Health Care Utilization,Others
+Back Pain,Arthritis and Injuries
+Hypertension,Heart Disease
+Medicaments Substances in Therapeutic Use,Others
+Hypercholesterolemia,Heart Disease
+Actinic Keratosis,Oncology
+"Pain, Postoperative",Arthritis and Injuries
+HIV-1 Infection,Reproduction and Sexual Health
+Alzheimer's Disease,Mental Health
+Rheumatoid Arthritis,Arthritis and Injuries
+Energy Metabolism,Obesity and Physical Activity
+Molluscum Contagiosum,Skin Condition
+Survivorship Care,Arthritis and Injuries
+"Glaucoma, Angle-Closure",Eye Disease
+Periappendicular Abscess,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Laryngopharyngeal Reflux,Others
+Obstructive Sleep Apnea of Adult,Mental Health
+Rheumatic Heart Disease,Heart Disease
+Neck Pain,Arthritis and Injuries
+Postprandial Hyperglycemia,Diabetes
+Running,Obesity and Physical Activity
+Aging,Aging and Palliative Care
+Dental Caries,Oral Health
+Diabetic Mellitus,Diabetes
+"Pressure Ulcer, Buttock","Surgery, Abdominal Disease, Emergency and Intensive Care"
+Serious Emotional Disturbance,Mental Health
+Acute Pain Due to Trauma,Mental Health
+Healthy Individuals,Others
+Cerebral Hemiplegia,Heart Disease
+Acne Vulgaris,Skin Condition
+End of Life,Aging and Palliative Care
+Inflammatory Disorder of the Cardiovascular System,Heart Disease
+To Compare the Effects of Mycophenolate Mofetil With Cyclophosphamide in Neplaese Lupus Nephritis Pa,Arthritis and Injuries
+Patients in Minimally Conscious State,Others
+Primary Open Angle Glaucoma,Eye Disease
+Breastfeeding,Reproduction and Sexual Health
+Dental Caries,Oral Health
+Hypertension,Heart Disease
+Hypertension,Heart Disease
+Chronic Periodontitis,Oral Health
+Colonoscopy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Chronic Periodontitis,Oral Health
+Cerebellar Ataxia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Educational Problems,Others
+Premature Ejaculation,Reproduction and Sexual Health
+Healthy,Others
+Chronic Pain,Arthritis and Injuries
+"Gingival Recession, Localized",Oral Health
+Postoperative Analgesia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Pregnancy,Reproduction and Sexual Health
+Postoperative Pain,Arthritis and Injuries
+Clinical Decision-Making,Others
+Implant Complication,Others
+"Neoplasm, Rectum",Oncology
+Recurrent Miscarriage,Reproduction and Sexual Health
+Mental Health Wellness 1,Mental Health
+Chronic Kidney Disease,Kidney Disease
+Physical Activity,Obesity and Physical Activity
+Gestational Diabetes Mellitus,Diabetes
+Schizophrenia,Mental Health
+End Stage Renal Failure on Dialysis,Kidney Disease
+Dizziness Chronic,Others
+Sarcopenia,Aging and Palliative Care
+Malnutrition,Obesity and Physical Activity
+"Tooth, Nonvital",Oral Health
+Obesity,Obesity and Physical Activity
+Sun Protection,Skin Condition
+MYOSITIS,Arthritis and Injuries
+Tooth Sensitivity,Oral Health
+Pelvic Floor Disorders,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Zygomatic Fractures,Arthritis and Injuries
+Amblyopia,Eye Disease
+Rotator Cuff Injury,Arthritis and Injuries
+Pneumonia,Pulmonary Disease
+Text Messaging,Others
+Low Back Pain,Arthritis and Injuries
+Abdominal Mass,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Pain, Postoperative",Arthritis and Injuries
+Vitamin D Deficiency,Obesity and Physical Activity
+GDM,Others
+Functional Dyspepsia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Alcohol Drinking,Addiction
+Spinal Diseases,Arthritis and Injuries
+"Solid Tumor, Adult",Oncology
+Physical Activity,Obesity and Physical Activity
+Generalized Aggressive Periodontitis,Oral Health
+Type2 Diabetes,Diabetes
+Coronary Artery Disease,Heart Disease
+Blood Pressure,Heart Disease
+Elderly,Aging and Palliative Care
+Type 2 Diabetes,Diabetes
+Stroke,Heart Disease
+Gingival Recession,Oral Health
+Nutrition Poor,Obesity and Physical Activity
+Macular Edema,Eye Disease
+Pelvic Organ Prolapse,Kidney Disease
+Xerostomia,Oral Health
+Oral Lichen Planus,Oral Health
+Overactive Bladder,Kidney Disease
+Chronic Low Back Pain,Arthritis and Injuries
+Primary Open Angle Glaucoma (POAG),Eye Disease
+Atelectasis,Pulmonary Disease
+Multiple Sclerosis,Mental Health
+Diabetes Type 2,Diabetes
+Atrial Fibrillation,Heart Disease
+College Student Drinking,Addiction
+Stress Urinary Incontinence,Kidney Disease
+Alveolar Ridge Preservation,Others
+Peritoneal Dialysis Patients,Kidney Disease
+Respiratory Tract Infections,Pulmonary Disease
+"Arthroplasty, Replacement",Arthritis and Injuries
+Body Composition,Others
+Phlebitis,Heart Disease
+Chronic Periodontitis,Oral Health
+Cancer,Oncology
+Rotator Cuff Tear,Arthritis and Injuries
+Stroke,Heart Disease
+"Obesity, Adolescent",Obesity and Physical Activity
+Hygiene,Others
+Chronic Periodontitis,Oral Health
+"Osteoporosis, Postmenopausal",Reproduction and Sexual Health
+Disorder Related to Renal Transplantation,Kidney Disease
+Breast Feeding,Reproduction and Sexual Health
+Neoplasms,Oncology
+Coronary Heart Disease,Heart Disease
+Dyslipidemias,Heart Disease
+"Obesity, Morbid",Obesity and Physical Activity
+Health Education,Others
+Bronchiolitis,Pulmonary Disease
+Childhood Obesity,Obesity and Physical Activity
+Impaired Glucose Tolerance,Diabetes
+Clubfoot,Arthritis and Injuries
+Implantation Complication,Others
+Health Related Quality of Life,Others
+Male Prison Inmates,Others
+Maternal Death Affecting Fetus or Newborn,Reproduction and Sexual Health
+Other Peripheral Nerve Disease,Mental Health
+Musculoskeletal Pain,Arthritis and Injuries
+Breast Cancer,Oncology
+Head and Neck Cancer,Oncology
+Dysphagia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Cardiovascular Diseases in Old Age,Heart Disease
+Anxiety,Mental Health
+Postoperative Pain,Arthritis and Injuries
+Gingival Recession,Oral Health
+Periodontitis,Oral Health
+Non-ST Elevation Myocardial Infarction,Heart Disease
+Asthma,Pulmonary Disease
+COPD,Pulmonary Disease
+Surgical Site Infection,Skin Condition
+Multiple Sclerosis,Mental Health
+Primary Health Care,Others
+Dyslipidemias,Heart Disease
+Generic Label,Others
+"Abortion, Habitual",Reproduction and Sexual Health
+Ovarian Cancer,Oncology
+Portal Vein Thrombosis,Heart Disease
+Constipation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Breast Cancer,Oncology
+Chronic Low Back Pain,Arthritis and Injuries
+"Deficiency, Vitamin D",Obesity and Physical Activity
+Overweight and Obesity,Obesity and Physical Activity
+Malnutrition in Children,Obesity and Physical Activity
+Cardiovascular Disease,Heart Disease
+Patent Ductus Arteriosus,Heart Disease
+Primary Prevention,Others
+Crohn's Disease,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Marital Conflict,Others
+Stroke,Heart Disease
+Cardiac and Pulmonary Complications. Central Venous Line Insertion. Gastrointestinal Recovery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Multiple Sclerosis,Mental Health
+"Aggressive Periodontitis, Generalized",Oral Health
+Cardiovascular Risk Factor,Heart Disease
+Anterior Cruciate Ligament Reconstruction,Arthritis and Injuries
+Endodontically-Treated Teeth,Oral Health
+Sepsis,Skin Condition
+Pain,Arthritis and Injuries
+Syncope Recurrent,Others
+Neuromuscular Blockade,Mental Health
+"Influenza, Human",Skin Condition
+Opioid-Related Disorders,Addiction
+Stress,Mental Health
+Colonoscopy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Low Back Pain,Arthritis and Injuries
+Complications,Others
+HIV/AIDS,Reproduction and Sexual Health
+Economics,Others
+Chronic Otitis Media,"Ear, Nose and Throat"
+Alveolar Bone Loss,Oral Health
+Discolored Teeth,Oral Health
+Type 2 Diabetes,Diabetes
+Hypercholesterolemia,Heart Disease
+Prostate Cancer,Oncology
+Obese,Obesity and Physical Activity
+Breast Cancer,Oncology
+Urinary Tract Stones,Kidney Disease
+Physical Activity,Obesity and Physical Activity
+Type 1 Diabetes Mellitus,Diabetes
+Healthy,Others
+Visual Impairment,Eye Disease
+Varicella,Skin Condition
+Breast Cancer,Oncology
+Asthma,Pulmonary Disease
+Total Knee Arthroplasty,Arthritis and Injuries
+Dental Crowding,Oral Health
+Snoring,Others
+Urinary Incontinence,Kidney Disease
+Clostridium Difficile,Others
+Physical Activity,Obesity and Physical Activity
+Body Composition,Others
+Dental Plaque,Oral Health
+Draining Wound,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Autism Spectrum Disorder,Mental Health
+Chronic Periodontitis,Oral Health
+Health Behavior,Others
+Late Onset Neonatal Sepsis,Skin Condition
+PTSD,Mental Health
+"Obesity, Morbid",Obesity and Physical Activity
+"Hypertension,Essential",Heart Disease
+Chronic Pain,Arthritis and Injuries
+Major Depressive Disorder,Mental Health
+Fruit and Vegetable Consumption,Obesity and Physical Activity
+Chronic Kidney Disease Requiring Chronic Dialysis,Kidney Disease
+Oxidative Stress,Mental Health
+Astigmatism,Eye Disease
+"Malocclusion, Angle Class II",Oral Health
+Helicobacter Pylori Gastritis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Arthroplasties,Arthritis and Injuries
+Sexual and Reproductive Health and Rights,Reproduction and Sexual Health
+Healthy Newborn Infants,Reproduction and Sexual Health
+Anxiety,Mental Health
+Alcohol Use Disorder,Addiction
+Tinnitus,"Ear, Nose and Throat"
+Alopecia,Others
+HIV-1-infection,Reproduction and Sexual Health
+Male Infertility,Reproduction and Sexual Health
+Human Papillomavirus Vaccines,Skin Condition
+Adolescent Behavior,Others
+Lung Transplant,Pulmonary Disease
+Sleep,Mental Health
+Tooth Loss,Oral Health
+Chronic Kidney Disease,Kidney Disease
+Surgical Wound Infection,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Hypercholesterolemia,Heart Disease
+Asphyxia Neonatorum,Pulmonary Disease
+Breast Cancer Female,Oncology
+Lumbar Spine Fusion,Arthritis and Injuries
+Major Depression,Mental Health
+Reversible Pulpitis,Oral Health
+Carpal Tunnel Syndrome(CTS),Arthritis and Injuries
+Focus of Study is on Graduate Medical Education Supervision,Eye Disease
+Pregnancy,Reproduction and Sexual Health
+Tendinopathy,Arthritis and Injuries
+Mucositis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Human Papilloma Virus Infection Type 11,Skin Condition
+Video-based Task Oriented Activity Training,Others
+Periodontitis,Oral Health
+Metabolic Syndrome,Obesity and Physical Activity
+Cardiovascular Diseases,Heart Disease
+Chronic Periodontitis,Oral Health
+Gingival Recession,Oral Health
+Colistin,Others
+Hospital Infection,Skin Condition
+Community Health Worker Performance,Others
+Colorectal Neoplasms,Oncology
+Hip Injuries,Arthritis and Injuries
+Postoperative Nausea,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Glucose, High Blood",Diabetes
+Lumbar Disc Herniation,Arthritis and Injuries
+Metabolic Syndrome,Obesity and Physical Activity
+Macular Hole,Eye Disease
+Binge Drinking,Addiction
+Attachment Loss,Others
+Prostate Cancer,Oncology
+Autism Spectrum Disorder,Mental Health
+Rectal Cancer,Oncology
+Hypertension,Heart Disease
+Dental Caries,Oral Health
+Dietary Habits,Obesity and Physical Activity
+Alveolar Bone Loss,Oral Health
+Leishmaniasis,Skin Condition
+Surgery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Dyslipidemias,Heart Disease
+Breast Cancer Female,Oncology
+Pleural Effusion,Pulmonary Disease
+Biliary Complications,Others
+Acute Kidney Injury,Kidney Disease
+Inflammation,Skin Condition
+Impingement Shoulder,Arthritis and Injuries
+Stillbirth,Reproduction and Sexual Health
+Dysphasia,Others
+Clinical Pregnancy Rate,Reproduction and Sexual Health
+Organ Preservation Solutions,Others
+Ischemic Stroke,Heart Disease
+Cardiovascular Diseases,Heart Disease
+Type 2 Diabetes,Diabetes
+Infant Malnutrition,Obesity and Physical Activity
+Knee Osteoarthrosis,Arthritis and Injuries
+Pain,Arthritis and Injuries
+Dietary Modification,Obesity and Physical Activity
+Obesity,Obesity and Physical Activity
+Apnoeic Oxygenation,Others
+Intravenous Anesthetic Agent Overdose,Heart Disease
+Performance of Wrong Procedure (Operation),Others
+Healthy Aged Women,Aging and Palliative Care
+Sedentary Lifestyle,Obesity and Physical Activity
+Breast Cancer,Oncology
+Tension-Type Headache,Mental Health
+Functional Dyspepsia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Stuttering in Adolescence,Mental Health
+Pediatric Ventricular Septal Defects,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Healthy,Others
+Chronic Periodontitis,Oral Health
+Facial Nerve Injuries,Mental Health
+Pregnancy,Reproduction and Sexual Health
+Migraine,Mental Health
+Irritable Bowel Syndrome,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Training,Others
+Lipodermatosclerosis,Skin Condition
+Post-Injection Intraocular Pressure Spikes,Others
+Diabetes Mellitus,Diabetes
+Cross-Sectional Study,Others
+Cutaneous Leishmaniasis.,Skin Condition
+Gender Relations,Reproduction and Sexual Health
+Neck Pains,Arthritis and Injuries
+Anxiety,Mental Health
+Intrauterine Adhesion,Reproduction and Sexual Health
+Tooth Extraction,Oral Health
+Diabetes Mellitus,Diabetes
+Type 1 Diabetes,Diabetes
+Sedentary Lifestyle,Obesity and Physical Activity
+Physical Therapy,Arthritis and Injuries
+Self-management,Others
+Osteoarthritis,Arthritis and Injuries
+Physical Activity,Obesity and Physical Activity
+"Neoplasms, Colorectal",Oncology
+Postpartum Hemorrhage,Reproduction and Sexual Health
+Domestic Violence,Mental Health
+Overweight and Obesity,Obesity and Physical Activity
+Respiratory Muscle Weakness,Pulmonary Disease
+Cancer,Oncology
+Overweight,Obesity and Physical Activity
+Academic Acheivement,Others
+Edentulous,Oral Health
+Diabetic Foot Ulcers,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Cancer of the Colon,Oncology
+HIV,Reproduction and Sexual Health
+Continuity of Care,Others
+Anxiety,Mental Health
+HIV Health Literacy,Reproduction and Sexual Health
+Melanoma,Oncology
+Suicide,Mental Health
+Prostate Cancer,Oncology
+Vascular Function,"Ear, Nose and Throat"
+Heart Failure,Heart Disease
+Sciatica,Mental Health
+Type 2 Diabetes Mellitus,Diabetes
+"Labor; Forced or Induced, Affecting Fetus or Newborn",Reproduction and Sexual Health
+Heavy Uterine Bleeding,Reproduction and Sexual Health
+Arrhythmia,Mental Health
+Utilization,Others
+Transvaginal Ultrasound Scan,Reproduction and Sexual Health
+Herpes Zoster,Skin Condition
+"Blood Loss, Surgical",Heart Disease
+Hypothermia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Physical Activity,Obesity and Physical Activity
+Sleep,Mental Health
+Phantom Limb Pain,Arthritis and Injuries
+Plaque Psoriasis,Skin Condition
+Anesthesia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Xerostomia,Oral Health
+Cancer,Oncology
+Breast Cancer,Oncology
+Disorder Related to Renal Transplantation,Kidney Disease
+Adverse Drug Events,Others
+Cataract,Eye Disease
+Parkinson's Disease,Mental Health
+Glaucoma,Eye Disease
+Asymptomatic Diseases,Others
+Type 2 Diabetes Mellitus,Diabetes
+Kidney Disease,Kidney Disease
+DTP Vaccine Series Completion,Skin Condition
+Smoking Cessation,Addiction
+Hypoxia,Others
+Dysmenorrhea,Reproduction and Sexual Health
+Type 2 Diabetes Mellitus,Diabetes
+Morbid Obesity,Obesity and Physical Activity
+Alzheimer's Disease,Mental Health
+Hypertension,Heart Disease
+Hepatitis C,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Crohn's Disease,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Type 2 Diabetes Mellitus,Diabetes
+Fibromyalgia,Arthritis and Injuries
+Chronic Kidney Disease,Kidney Disease
+Type 2 Diabetes Mellitus,Diabetes
+Nail Psoriasis,Skin Condition
+Stomach Neoplasms,Oncology
+Back Pain,Arthritis and Injuries
+Dengue,Skin Condition
+Inappropriate Dose of Drug Administered,Others
+Hypothermia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Colonoscopy Preparation Acceptance,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Physical Disability,Obesity and Physical Activity
+Scar Improvement by Laser,Skin Condition
+Diabetes,Diabetes
+Severe Mental Illness,Mental Health
+Social Anxiety,Mental Health
+Healthy,Others
+Neoplasia of the Uterine Cervix,Reproduction and Sexual Health
+Mental Disorders,Mental Health
+Congenital Heart Disease,Heart Disease
+Anesthesia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Type 2 Diabetes,Diabetes
+Alzheimer Disease,Mental Health
+Cholera,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Adjustment Disorder,Mental Health
+Type 2 Diabetes Mellitus,Diabetes
+Cervical Cancer,Oncology
+Cholecystitis,Kidney Disease
+Chemotherapy-Induced Nausea and Vomiting (CINV),Oncology
+Antenatal Care and Delivery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Community Mental Health Services,Mental Health
+Hypertension,Heart Disease
+Cesarean Section,Reproduction and Sexual Health
+Medical Knowledge,Others
+Dementia MCI (Mild Cognitive Impairment),Mental Health
+"Osteoporosis, Postmenopausal",Reproduction and Sexual Health
+Total Knee Arthroplasty,Arthritis and Injuries
+HIV Infection,Reproduction and Sexual Health
+Erectile Dysfunction,Reproduction and Sexual Health
+Restless Legs Syndrome,Arthritis and Injuries
+Gastric Adenocarcinoma,Oncology
+HIV-1,Reproduction and Sexual Health
+Alzheimer's Disease,Mental Health
+Multiple Myeloma,Oncology
+MDS,Others
+Dry Eye,Eye Disease
+Hypersensitivity,Skin Condition
+"Cerebral Palsy, Spastic",Mental Health
+Influenza;Influenza;Influenza,Infection and Allergy
+Reproductive Health;Reproductive Health;Reproductive Health;Reproductive Health,Reproduction and Sexual Health
+End-Stage Kidney Disease,Kidney Disease
+Norovirus Gastroenteritis,Obesity and Physical Activity
+Contraception,Reproduction and Sexual Health
+Chronic GVHD,Others
+Autism Spectrum Disorder,Mental Health
+Infant Growth,Reproduction and Sexual Health
+Multiple Myeloma,Oncology
+Psychological Distress,Mental Health
+Diabetes Mellitus,Diabetes
+Obesity,Obesity and Physical Activity
+Patient Compliance,Others
+Insulin Resistance,Diabetes
+Leukemia,Oncology
+Cortical Spreading Depolarization,Others
+"Osteoarthritis, Knee",Arthritis and Injuries
+Obstructive Sleep Apnea (OSA),Mental Health
+Osteoarthritis of the Knee,Arthritis and Injuries
+Depression,Mental Health
+Retinitis Pigmentosa,Eye Disease
+Leiomyoma,Oncology
+Pregnancy,Reproduction and Sexual Health
+Malignant Neoplasms of Independent (Primary) Multiple Sites,Oncology
+Excessive Alcohol Consumption,Addiction
+Preterm Birth,Reproduction and Sexual Health
+Diabetes Mellitus,Diabetes
+"Injuries, Ankle",Arthritis and Injuries
+Tonsillectomy,Skin Condition
+Autism,Mental Health
+Pain,Arthritis and Injuries
+Atrial Fibrillation,Heart Disease
+Knee Osteoarthritis,Arthritis and Injuries
+Bipolar Disorder Depression,Mental Health
+Advance Directive Completion,Others
+Infertility,Reproduction and Sexual Health
+Attentional Processing,Others
+Allergic Rhinitis,"Ear, Nose and Throat"
+Spinal Cord Injury,Arthritis and Injuries
+Satiety,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+HIV,Reproduction and Sexual Health
+Schizophrenia,Mental Health
+"Pain, Postoperative",Arthritis and Injuries
+Muscle Composition,Arthritis and Injuries
+Post-Traumatic Stress Disorder,Mental Health
+Cancer Patients First-ever Acute Ischemic Stroke,Oncology
+Posttraumatic Stress Disorder,Mental Health
+Surgery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Patient Adherence,Others
+Parkinson's Disease,Mental Health
+Post-micturition Incontinence,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Psoriasis,Skin Condition
+Atopic Dermatitis,Skin Condition
+Muscle Soreness,Arthritis and Injuries
+Painful Diabetic Neuropathy (PDN),Mental Health
+Alzheimer Disease,Mental Health
+Weight Loss,Obesity and Physical Activity
+Delusion of Reference,Mental Health
+Arthropathy of Knee Joint,Arthritis and Injuries
+Acute Respiratory Failure,Pulmonary Disease
+Post-op Pain,Arthritis and Injuries
+Transtibial Amputation,Arthritis and Injuries
+Macular Degeneration,Eye Disease
+Postoperative Vomiting and Nausea,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Multiple Sclerosis,Mental Health
+Stroke,Heart Disease
+Schizophrenia,Mental Health
+Diabetes,Diabetes
+Aging,Aging and Palliative Care
+Bariatric Surgery Candidate,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Human Papilloma Virus Infection Type 11,Skin Condition
+Autism Spectrum Disorder,Mental Health
+Anxiety,Mental Health
+Stress,Mental Health
+Hypercholesterolemia,Heart Disease
+Metabolizable Energy of Walnuts,Obesity and Physical Activity
+Mechanical Ventilation Pressure High,Pulmonary Disease
+Epistaxis,"Ear, Nose and Throat"
+Post-surgical Pain,Arthritis and Injuries
+Insulin Resistance,Diabetes
+Dermatomyositis,Arthritis and Injuries
+Otitis Media,"Ear, Nose and Throat"
+Respiratory Failure,Pulmonary Disease
+Contraception,Reproduction and Sexual Health
+Cannabis Dependence,Addiction
+Colorectal Cancer Screening,Oncology
+Generalized Anxiety Disorder,Mental Health
+Great Saphenous Vein (GSV) With Venous Reflux Disease,Heart Disease
+Nonalcoholic Steatohepatitis,Addiction
+Glycemic Response,Others
+Postpartum Hemorrhage,Reproduction and Sexual Health
+Sedentary Lifestyle,Obesity and Physical Activity
+Weight Loss,Obesity and Physical Activity
+Prostate Cancer,Oncology
+Wound Complication,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Wound Infection Due to Staphylococcus Aureus,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Obesity,Obesity and Physical Activity
+Migraine,Mental Health
+Unintended Pregnancy,Reproduction and Sexual Health
+Schizophrenic Psychoses,Mental Health
+Systemic Sclerosis,Others
+Hyperglycemia,Diabetes
+Mild Cognitive Impairment,Mental Health
+Pancreatic Carcinoma Metastatic,Oncology
+Vasculogenic Erectile Dysfunction,Reproduction and Sexual Health
+Neck Pain,Arthritis and Injuries
+Cannabis Dependence,Addiction
+"Osteoarthritis, Knee",Arthritis and Injuries
+Aging,Aging and Palliative Care
+Healthy Volunteers,Others
+Psoriasis,Skin Condition
+Endothelial Dysfunction,Heart Disease
+Obesity,Obesity and Physical Activity
+"Osteoarthritis, Hip",Arthritis and Injuries
+Hypoxia,Others
+Diabetes,Diabetes
+Hypertension,Heart Disease
+Alcohol Dependence,Addiction
+Lung Biopsy,Pulmonary Disease
+Healthy Men and Women,Others
+Social Anxiety Disorder,Mental Health
+Overweight,Obesity and Physical Activity
+Venous Disease,Heart Disease
+Keratoplasty,Eye Disease
+Atopic Dermatitis,Skin Condition
+Leukemia,Oncology
+Leukemia,Oncology
+Type 1 Diabetes Mellitus,Diabetes
+Healthy Controls,Others
+Angelman Syndrome,Mental Health
+Intestinal Barrier Function,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Mental Disorders,Mental Health
+Pediatric Presentation of Urinary Tract Infection,Kidney Disease
+Major Depressive Disorder,Mental Health
+Infected Pancreatic Necrosis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Pressure Ulcer,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Pre-Eclampsia,Mental Health
+Insomnia,Mental Health
+Renal Cancer,Oncology
+Prostate Cancer,Oncology
+Prematurity,Reproduction and Sexual Health
+Childhood Obesity,Obesity and Physical Activity
+Osteoporosis,Arthritis and Injuries
+Obesity,Obesity and Physical Activity
+Inflammatory Bowel Disease,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Cellulitis,Skin Condition
+Anterior Cruciate Ligament Reconstruction,Arthritis and Injuries
+Cerebral Palsy,Mental Health
+"Diabetes Mellitus, Type 2",Diabetes
+Healthy Subject,Others
+Bipolar Disorder,Mental Health
+Obstructive Sleep Apnea,Mental Health
+Melena,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Healthy,Others
+Airway Management,Pulmonary Disease
+HIV,Reproduction and Sexual Health
+Nicotine Dependence,Addiction
+Asthma,Pulmonary Disease
+Stress Urinary Incontinence,Kidney Disease
+Biliary Tract Diseases,Arthritis and Injuries
+Sleep Apnea Syndromes,Mental Health
+Breast Cancer With Chronic Lymphedema,Oncology
+Smoking Cessation,Addiction
+"Stress, Psychological",Mental Health
+Polycystic Ovary Syndrome (PCOS),Others
+"Respiratory Distress Syndrome, Adult",Pulmonary Disease
+Obesity,Obesity and Physical Activity
+Mitochondrial Myopathy,Others
+Myofascial Pain,Arthritis and Injuries
+Induction of Labor,Reproduction and Sexual Health
+Spinal Anesthesia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Post Traumatic Stress Disorder,Mental Health
+Fall,Arthritis and Injuries
+Invasive Breast Cancer,Oncology
+Development,Others
+Cerebral Concussion,Heart Disease
+Sleep,Mental Health
+Hand Hygiene Effectiveness,Others
+Premature,Others
+Smoking Cessation,Addiction
+Mild-To-Moderate Alzheimer's Disease,Mental Health
+Epilepsy,Mental Health
+Pregnancy,Reproduction and Sexual Health
+Pregnancy,Reproduction and Sexual Health
+Dental Caries,Oral Health
+Multiple Sclerosis,Mental Health
+Major Depressive Disorder,Mental Health
+Residual Neuromuscular Block,Mental Health
+Amyotrophic Lateral Sclerosis,Mental Health
+Alcohol Use Disorder,Addiction
+"Foot Ulcer, Diabetic","Surgery, Abdominal Disease, Emergency and Intensive Care"
+Hodgkin's Lymphoma,Oncology
+Pain,Arthritis and Injuries
+First Degree Relatives of Rheumatoid Arthritis Patients,Arthritis and Injuries
+Type 1 Diabetes Mellitus,Diabetes
+Pain,Arthritis and Injuries
+Brain Death,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Traumatic Brain Injury,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Candidates for BRCA 1/2 Genetic Testing,Others
+Overweight,Obesity and Physical Activity
+Presbycusis,Others
+Eustachian Tube Dysfunction,"Ear, Nose and Throat"
+Aging,Aging and Palliative Care
+Cardiovascular Disease,Heart Disease
+Gastrointestinal Neoplasm,Oncology
+End-Stage Renal Disease,Kidney Disease
+Femoral Artery Stenosis,Heart Disease
+Extraarticular Distal Radius Malunion,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Type I Diabetes,Diabetes
+Kidney Disease,Kidney Disease
+Advanced Solid Tumor Diseases,Oncology
+Cigarette Smoking,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Weight Loss,Obesity and Physical Activity
+Coronary Artery Disease,Heart Disease
+Major Depressive Disorder,Mental Health
+Acute Respiratory Infection,Pulmonary Disease
+Hepatic Encephalopathy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Depression,Mental Health
+Tobacco Use Disorder,Addiction
+Arthritis,Arthritis and Injuries
+Gestational Diabetes,Diabetes
+HIV,Reproduction and Sexual Health
+Lung Cancer,Oncology
+Immigrant Physical Activity and Nutrition,Obesity and Physical Activity
+Childhood Influenza Vaccination,Skin Condition
+Tooth Loss,Oral Health
+Persistent Pregnancy of Unknown Location,Reproduction and Sexual Health
+Antisocial Behavior,Mental Health
+Breast Cancer,Oncology
+"Pain, Post-operative",Arthritis and Injuries
+Geographic Atrophy,Others
+Osteoarthritis,Arthritis and Injuries
+Peripheral Nervous System Diseases,Mental Health
+Schizophrenia,Mental Health
+Knee Osteoarthritis,Arthritis and Injuries
+Bacterial Vaginosis,Reproduction and Sexual Health
+Smoking,Addiction
+Sarcopenia,Aging and Palliative Care
+Bipolar Disorder,Mental Health
+Sedentary Lifestyle,Obesity and Physical Activity
+Low Back Pain,Arthritis and Injuries
+Contraception Behavior,Reproduction and Sexual Health
+Stress Urinary Incontinence,Kidney Disease
+Dental Pain,Oral Health
+Post-Operative Pain,Arthritis and Injuries
+Nausea and Vomiting of Pregnancy,Reproduction and Sexual Health
+Diabetic; Foot Ulcers,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+HIV Infections,Reproduction and Sexual Health
+Acute Ischemic Stroke From Large Vessel Occlusion,Heart Disease
+Diabetic Foot,Diabetes
+Fatigue,Others
+Knee Osteoarthritis,Arthritis and Injuries
+Diabetes Mellitus,Diabetes
+Asthma,Pulmonary Disease
+Breast Cancer,Oncology
+Labor Pain,Reproduction and Sexual Health
+Subarachnoid Hemorrhage,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Female Sexual Arousal Disorder,Reproduction and Sexual Health
+"Obesity, Severe",Obesity and Physical Activity
+Colon Cancer,Oncology
+Lumbar Surgery,Arthritis and Injuries
+Health Services Misuse,Others
+Dysentery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Acute Myocardial Infarction (AMI),Heart Disease
+Functional Constipation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Opioid Use Disorder,Addiction
+Muscle Contraction,Arthritis and Injuries
+Pain,Arthritis and Injuries
+Somatoform Disorders,Mental Health
+Infection,Skin Condition
+Aging Hands,Aging and Palliative Care
+Healthy,Others
+Post-operative Craniotomy Patients,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Cancer,Oncology
+Vulvovaginal Candidiasis,Skin Condition
+HIV,Reproduction and Sexual Health
+"Fasciitis, Plantar","Surgery, Abdominal Disease, Emergency and Intensive Care"
+Complications of Bone Marrow Transplant,Arthritis and Injuries
+Breast Cancer,Oncology
+Healthy Volunteers,Others
+Uterine Bleeding in Women With Leiomyomas,Oncology
+Drug Abuse,Addiction
+Keratoconus,Others
+Sexual Transmission of Infection,Reproduction and Sexual Health
+Urinary Incontinence,Kidney Disease
+Diabetes Mellitus,Diabetes
+Early Detection of Cancer,Oncology
+Major Depressive Disorder,Mental Health
+Obesity,Obesity and Physical Activity
+Wheat Allergy,Skin Condition
+Alzheimer Disease,Mental Health
+Adolescent Obesity,Obesity and Physical Activity
+Stage IA Pancreatic Cancer,Oncology
+Urinary Retention,Kidney Disease
+Neonatal Abstinence Syndrome,Reproduction and Sexual Health
+Posttraumatic Stress Disorder (PTSD),Mental Health
+GERD Gastroesophageal Reflux Disease,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Breast Cancer,Oncology
+Eustachian Tube Dysfunction,"Ear, Nose and Throat"
+Opioid Use Disorders,Addiction
+Bipolar Disorder,Mental Health
+Walking Impairment,Arthritis and Injuries
+"Depressive Disorder, Major",Mental Health
+"Nicotine Dependence, Cigarettes","Surgery, Abdominal Disease, Emergency and Intensive Care"
+HIV,Reproduction and Sexual Health
+Stem Cell Transplant,Others
+Coronary Artery Disease,Heart Disease
+Pain,Arthritis and Injuries
+Low Back Pain,Arthritis and Injuries
+Cardiac Arrest,Heart Disease
+Erectile Dysfunction,Reproduction and Sexual Health
+Suicidal and Self-injurious Behaviour,Mental Health
+Postoperative Pain,Arthritis and Injuries
+Stage 0 Bladder Urothelial Carcinoma,Oncology
+Drug Safety,Others
+Eveningness/Sleep,Mental Health
+Menopause,Reproduction and Sexual Health
+Chronic Pain,Arthritis and Injuries
+Post Operative Pain,Arthritis and Injuries
+Intensive Care Unit Survivors,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Type 2 Diabetes,Diabetes
+Cognitive Aging,Mental Health
+Recurrent Breast Cancer,Oncology
+Photoaging,Others
+Major Depressive Disorder,Mental Health
+"Pain, Postoperative",Arthritis and Injuries
+HIV,Reproduction and Sexual Health
+HIV,Reproduction and Sexual Health
+Obstructive Sleep Apnea,Mental Health
+Chronic Kidney Disease,Kidney Disease
+Surgical Wound,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Adolescent Idiopathic Scoliosis,Arthritis and Injuries
+Diabetes,Diabetes
+Stroke,Heart Disease
+Knee Osteoarthritis,Arthritis and Injuries
+Pancreatic Cancer,Oncology
+Parenting,Reproduction and Sexual Health
+Urolithiasis,Kidney Disease
+Depression,Mental Health
+Dietary Habits,Obesity and Physical Activity
+"Cognitive Impairment, no Dementia (CIND)",Mental Health
+Stroke,Heart Disease
+Bipolar Disorder,Mental Health
+Osteoarthritis,Arthritis and Injuries
+Cocaine Dependence,Addiction
+Care-resistant Behavior,Mental Health
+Atrial Fibrillation,Heart Disease
+Smoking Cessation,Addiction
+Hyperlipoproteinemia Type I,Others
+Pain Acute,Arthritis and Injuries
+Lower Back Pain,Arthritis and Injuries
+Pelvic Organ Prolapse,Kidney Disease
+STDs,Reproduction and Sexual Health
+Acute Pain,Arthritis and Injuries
+Obesity,Obesity and Physical Activity
+Depression,Mental Health
+Wound Infection,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Dental White Spots,Oral Health
+Ankle Sprain,Arthritis and Injuries
+Perforated Appendicitis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Sleep Disorders,Mental Health
+Obesity,Obesity and Physical Activity
+Low Back Pain,Arthritis and Injuries
+"Anemia, Iron Deficiency",Heart Disease
+Chronic Ankle Instability,Arthritis and Injuries
+GERD,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Sezary Syndrome,Others
+Body Weight Changes,Obesity and Physical Activity
+Postoperative Posterior Shoulder Tightness,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Anxiety,Mental Health
+Obesity,Obesity and Physical Activity
+Peripheral Artery Disease,Heart Disease
+Insomnia,Mental Health
+Delirium,Mental Health
+Type 2 Diabetes,Diabetes
+Adenoma,Oncology
+Psychological Stress,Mental Health
+Migraine,Mental Health
+Hypertensive Heart Disease,Heart Disease
+Transcutaneous Oxygen Tension,Heart Disease
+"Urinary Incontinence, Stress",Kidney Disease
+Depressive Symptoms,Mental Health
+Physical Activity,Obesity and Physical Activity
+Biliary Atresia,Others
+Hospital Readmission,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Violence,Mental Health
+Non-Infectious Anterior Uveitis,Eye Disease
+Osteoarthritis,Arthritis and Injuries
+Diabetes,Diabetes
+Pregnancy,Reproduction and Sexual Health
+Pain,Arthritis and Injuries
+Femoroacetabular Impingement,Arthritis and Injuries
+Spinal Cord Injury,Arthritis and Injuries
+Head and Neck Cancer,Oncology
+Cancer,Oncology
+Dietary Supplementation,Obesity and Physical Activity
+Autism,Mental Health
+Oral Glucose Tolerance,Diabetes
+Hunger,Obesity and Physical Activity
+Cardiovascular Diseases,Heart Disease
+Posttraumatic Stress Disorder,Mental Health
+Gestational Diabetes,Diabetes
+Colorectal Cancer,Oncology
+Aging,Aging and Palliative Care
+Chronic Heart Failure,Heart Disease
+Menopause,Reproduction and Sexual Health
+"Hypophosphatemic Rickets, X Linked Dominant",Arthritis and Injuries
+Dyslipidemia,Heart Disease
+Radiculopathy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Stroke,Heart Disease
+Obesity,Obesity and Physical Activity
+General Medicine,Others
+Child Physical Activity,Obesity and Physical Activity
+Severe Mood Dysregulation,Mental Health
+"Cognitive Ability, General",Mental Health
+Acute Injury of Anterior Cruciate Ligament,Arthritis and Injuries
+Obesity,Obesity and Physical Activity
+Chronic Stroke Survivors With Plegic Hand,Heart Disease
+Pelvic Floor Disorders,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Depression,Mental Health
+Pain,Arthritis and Injuries
+Depression,Mental Health
+Labor Pain,Reproduction and Sexual Health
+Postoperative Pain,Arthritis and Injuries
+Breastfeeding,Reproduction and Sexual Health
+Osteoporosis,Arthritis and Injuries
+Colon Cancer,Oncology
+Diet Intervention,Obesity and Physical Activity
+Cesarean Section,Reproduction and Sexual Health
+Burn Injury,Skin Condition
+Hepatitis C,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Venous Thromboembolism,Heart Disease
+Nausea,Others
+Colorectal Cancer,Oncology
+"Trauma, Head","Surgery, Abdominal Disease, Emergency and Intensive Care"
+Pain,Arthritis and Injuries
+Hypertension,Heart Disease
+Oral Glucose Tolerance Test,Diabetes
+Breast Cancer,Oncology
+Amyotrophic Lateral Sclerosis (ALS),Mental Health
+Chronic Pain,Arthritis and Injuries
+Prostate Cancer,Oncology
+Irreversible Pulpitis,Oral Health
+Schizophrenia,Mental Health
+Obesity,Obesity and Physical Activity
+Hip Arthroscopy,Arthritis and Injuries
+Anxiety Disorder,Mental Health
+Obesity,Obesity and Physical Activity
+"Contraceptive Devices, Intrauterine",Reproduction and Sexual Health
+Patient Satisfaction,Others
+Accelerated Phase Chronic Myelogenous Leukemia,Oncology
+Scleroderma,Skin Condition
+Wound Complications,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Dentin Sensitivity,Oral Health
+Female Sexual Dysfunction,Reproduction and Sexual Health
+Gastroesophageal Reflux,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Traumatic Brain Injury,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Aging,Aging and Palliative Care
+Childhood Obesity,Obesity and Physical Activity
+Acute Pain,Arthritis and Injuries
+Bipolar Disorder,Mental Health
+Head and Neck Cancer,Oncology
+Implantable Cardioverter Defibrillator (ICD),Heart Disease
+Hypertension,Heart Disease
+Stroke,Heart Disease
+Physical Activity,Obesity and Physical Activity
+Postoperative Pain,Arthritis and Injuries
+Diabetes,Diabetes
+Validation Studies,Others
+Gout,Arthritis and Injuries
+Melanoma,Oncology
+Dietary Habits,Obesity and Physical Activity
+Chronic Heart Failure,Heart Disease
+Psoriasis,Skin Condition
+Spinal Cord Injury,Arthritis and Injuries
+Depression,Mental Health
+Bronchiolitis,Pulmonary Disease
+Multiple Sclerosis,Mental Health
+Gastroschisis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Abortion Early,Reproduction and Sexual Health
+Cardiovascular Disease,Heart Disease
+Suicide Attempt,Mental Health
+Posttraumatic Stress Disorder,Mental Health
+Malignant Neoplasm of Abdomen,Oncology
+Parkinson Disease,Mental Health
+"Pain, Postoperative",Arthritis and Injuries
+"Education, Medical, Undergraduate",Others
+"Infant, Newborn, Diseases",Reproduction and Sexual Health
+"Stress, Psychological",Mental Health
+"Insomnia, Primary",Mental Health
+Alzheimer's Disease,Mental Health
+Morbid Obesity,Obesity and Physical Activity
+Alcoholism,Addiction
+Rhinosinusitis,"Ear, Nose and Throat"
+"Pain, Postoperative",Arthritis and Injuries
+Tobacco Dependence,Addiction
+Heart Disease,Heart Disease
+"Depression, Postpartum",Mental Health
+Pelvic Organ Prolapse,Kidney Disease
+Hip Fractures,Arthritis and Injuries
+Small Cell Lung Cancer,Oncology
+Arthroplasty Shoulder,Arthritis and Injuries
+Prostate Cancer,Oncology
+Osteoarthritis,Arthritis and Injuries
+Traumatic Hemorrhage,Mental Health
+Heartburn,Heart Disease
+Breast Cancer,Oncology
+Sedation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Anxiety,Mental Health
+Information Dissemination,Others
+Aphasia,Others
+ADHD - Inattentive Type,Mental Health
+Melanoma (Skin),Skin Condition
+Diverticulitis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Lung Diseases,Pulmonary Disease
+Diarrhea-Predominant Irritable Bowel Syndrome,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Depression,Mental Health
+Anterior Cruciate Ligament Injury,Arthritis and Injuries
+PTSD With a History of Mild to Moderate TBI,Mental Health
+Cardiovascular Disease,Heart Disease
+Anterior Cruciate Ligament Injury,Arthritis and Injuries
+Cancer,Oncology
+Overweight and Obesity,Obesity and Physical Activity
+Skin Cancer,Oncology
+Back Pain,Arthritis and Injuries
+Severe Sepsis,Skin Condition
+Cardiovascular Disease,Heart Disease
+Metastatic Breast Cancer,Oncology
+Primary Progressive Aphasia,Others
+Acute Pain,Arthritis and Injuries
+HPV Immunization Status,Skin Condition
+PTSD,Mental Health
+Tobacco Use Disorder,Addiction
+HIV,Reproduction and Sexual Health
+Radial Artery Cannulation,Heart Disease
+Gastrointestinal Mucosal Damage,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Cardiac Perfusion,Heart Disease
+Comparison of Internet-based CBT and CMT,Others
+Tobacco Use Cessation,Addiction
+Major Depression,Mental Health
+Anxiety Disorder,Mental Health
+Obesity,Obesity and Physical Activity
+Major Depressive Disorder,Mental Health
+Obesity,Obesity and Physical Activity
+Intracerebral Infarcts,Heart Disease
+Urinary Retention,Kidney Disease
+Cancer,Oncology
+Overweight,Obesity and Physical Activity
+Heart Failure,Heart Disease
+Colorectal Cancer,Oncology
+Fecal Microbiota,Others
+Fatigue,Others
+Abnormal Vascular Flow,"Ear, Nose and Throat"
+Prostate Carcinoma,Oncology
+Acute Pharyngitis,Skin Condition
+Aging,Aging and Palliative Care
+Autism,Mental Health
+Opioid-Related Disorders,Addiction
+Respiratory Insufficiency,Pulmonary Disease
+Accidental Falls,Arthritis and Injuries
+Post Operative Pain,Arthritis and Injuries
+Acute Coronary Syndrome,Heart Disease
+Diabetes,Diabetes
+Breast Cancer,Oncology
+Behavior Problems,Mental Health
+Generalized Anxiety Disorder,Mental Health
+Substance Use,Addiction
+Preconception Care,Reproduction and Sexual Health
+Parkinson's Disease,Mental Health
+Weight Loss,Obesity and Physical Activity
+"Mouth, Edentulous",Oral Health
+Hepatic Carcinoma,Oncology
+Obesity,Obesity and Physical Activity
+Cervical Spine,Arthritis and Injuries
+Cardiovascular Risk Factors,Heart Disease
+Diabetes Mellitus,Diabetes
+Hypertension in Pregnancy,Reproduction and Sexual Health
+Keratosis Pilaris,Oncology
+Trichomonas Infections,Skin Condition
+Stroke,Heart Disease
+Rotator Cuff Tear,Arthritis and Injuries
+Overweight,Obesity and Physical Activity
+Abdominal Pain,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Prediabetes,Diabetes
+Quality of Life,Others
+Heartburn,Heart Disease
+Infant Growth,Reproduction and Sexual Health
+Pediatric Obesity,Obesity and Physical Activity
+Healthy Adults (Full Study and Extension Phase),Others
+Breast Cancer,Oncology
+Inflammation,Skin Condition
+Pain,Arthritis and Injuries
+Adolescent Pregnancy,Reproduction and Sexual Health
+Overweight,Obesity and Physical Activity
+Pancreatic Solid Lesions,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Orthopaedic Injury,Arthritis and Injuries
+Agitation,Mental Health
+Pregnancy,Reproduction and Sexual Health
+Pituitary Adenoma,Others
+Attachment,Others
+"Obesity, Abdominal",Obesity and Physical Activity
+"Infant, Premature, Diseases",Reproduction and Sexual Health
+HIV/AIDS,Reproduction and Sexual Health
+Cancer Survivor,Oncology
+Mood,Mental Health
+Preeclampsia,Mental Health
+Obesity,Obesity and Physical Activity
+Sickle Cell Disease,Heart Disease
+Pregnancy,Reproduction and Sexual Health
+Cervical Cancer,Oncology
+Breast Neoplasm Female,Oncology
+Radial Head Fracture,Arthritis and Injuries
+Specific Phobia,Mental Health
+Perimenopause,Reproduction and Sexual Health
+Cardiovascular Diseases,Heart Disease
+Adolescent Depression,Mental Health
+Eating Behavior,Mental Health
+Food Allergy,Skin Condition
+Medication Review,Others
+High Blood Pressure,Heart Disease
+Ulcerative Colitis,Obesity and Physical Activity
+Child Passenger Safety,Others
+Cerebral Palsy,Mental Health
+Gastrointestinal Hemorrhage,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Diabetes,Diabetes
+Craniotomy,Others
+Obesity,Obesity and Physical Activity
+Breast Cancer,Oncology
+Obese,Obesity and Physical Activity
+Cancer,Oncology
+Safe Sex,Reproduction and Sexual Health
+Suicidal Ideation,Mental Health
+Obesity,Obesity and Physical Activity
+Anxiety,Mental Health
+Prostate Cancer,Oncology
+Nicotine Dependent Cigarette Smoker,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Obesity,Obesity and Physical Activity
+HIV,Reproduction and Sexual Health
+Orthodontic Pathological Resorption of External Root,Oral Health
+Urinary Retention,Kidney Disease
+Exercise-related Amenorrhea,Obesity and Physical Activity
+HIV/AIDS,Reproduction and Sexual Health
+Chronic Urogenital Pain,Kidney Disease
+Overweight,Obesity and Physical Activity
+Cardiovascular Disease,Heart Disease
+Anxiety Symptoms,Mental Health
+Mindfulness,Others
+Tinnitus,"Ear, Nose and Throat"
+Advanced Chronic Rhinosinusitis,"Ear, Nose and Throat"
+Arthroplasty,Arthritis and Injuries
+Infection,Skin Condition
+Muscle Weakness | Patient,Arthritis and Injuries
+Cognitive Dysfunction,Mental Health
+C. Difficile,Others
+Alzheimer Disease,Mental Health
+End-Stage Heart Failure,Heart Disease
+Malocclusion,Oral Health
+Sinusitis,"Ear, Nose and Throat"
+"Pain, Postoperative",Arthritis and Injuries
+Beta Haemolytic Streptococcal Infection,Others
+Ridge Preservation,Others
+Parkinson's Disease,Mental Health
+Healthy,Others
+Metastatic Melanoma,Oncology
+AIDS/HIV,Reproduction and Sexual Health
+Chronic Disease,Others
+"Heart Defects, Congenital",Heart Disease
+"Osteoarthritis, Knee",Arthritis and Injuries
+Mobile Health,Others
+Multiple Sclerosis,Mental Health
+"Genital Neoplasm, Female",Oncology
+Brain Health,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Pancreatic Tumor,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Nicotine Addiction,Addiction
+Dental Caries,Oral Health
+Healthy,Others
+Anxiety,Mental Health
+Post-Traumatic Stress Disorder,Mental Health
+Environmental Exposures,Mental Health
+Type 2 Diabetes Mellitus,Diabetes
+Bulimia Nervosa,Mental Health
+Burnout Syndrome,Skin Condition
+Sleep Apnea Syndromes,Mental Health
+Implementation of Evidence Based Programs,Others
+Social Isolation,Mental Health
+HIV Infection,Reproduction and Sexual Health
+Smoking Cessation,Addiction
+Cognitive Aids,Mental Health
+Obesity,Obesity and Physical Activity
+Osteoarthritis,Arthritis and Injuries
+Stroke,Heart Disease
+Cancer,Oncology
+Healthy,Others
+Melanoma,Oncology
+Diabetes Complications,Diabetes
+Back Pain,Arthritis and Injuries
+Pain Due to Intrauterine Contraceptive Device,Reproduction and Sexual Health
+Pain,Arthritis and Injuries
+Arteriosclerosis,Heart Disease
+Caregiver,Others
+Communicable Diseases,Others
+"Cystitis, Interstitial","Surgery, Abdominal Disease, Emergency and Intensive Care"
+Schizophrenia,Mental Health
+Juvenile Idiopathic Arthritis,Arthritis and Injuries
+Coronary Artery Bypass Grafting,Heart Disease
+Alcohol Dependence,Addiction
+Asthma,Pulmonary Disease
+Dementia,Mental Health
+Drug Dependence,Addiction
+Colorectal Cancer,Oncology
+Peripheral Arterial Disease,Heart Disease
+Cigarette Smoking Behavior,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Stage IV Non-Small Cell Lung Cancer,Oncology
+Desaturation of Blood,Heart Disease
+Urethral Analgesia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Influenza Vaccination,Skin Condition
+Type 2 Diabetes,Diabetes
+Healthy,Others
+"Carcinoma, Basal Cell",Oncology
+Pelvic Organ Prolapse,Kidney Disease
+Endometriosis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Acute Migraine,Mental Health
+Sedation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Chronic Kidney Disease,Kidney Disease
+Human Papillomavirus,Skin Condition
+Plantar Fasciitis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Insulin Resistance,Diabetes
+Oral Hygiene,Oral Health
+Central Retinal Vein Occlusion,Heart Disease
+Chronic Pain,Arthritis and Injuries
+Extensive Stage Small Cell Lung Carcinoma,Oncology
+Pain,Arthritis and Injuries
+"Endoscopy, Gastrointestinal","Surgery, Abdominal Disease, Emergency and Intensive Care"
+Compulsive Hoarding,Mental Health
+Hypertension,Heart Disease
+Migraine,Mental Health
+HIV,Reproduction and Sexual Health
+Neck Pain,Arthritis and Injuries
+Lumbar Facet Joint Pain,Arthritis and Injuries
+Muscle Cramps in Amyotrophic Lateral Sclerosis,Arthritis and Injuries
+Vitamin D Deficiency,Obesity and Physical Activity
+Idiopathic Scoliosis,Arthritis and Injuries
+Pediatric Obesity,Obesity and Physical Activity
+Type 2 Diabetes Mellitus,Diabetes
+Depression,Mental Health
+Amyotrophic Lateral Sclerosis,Mental Health
+Sickle Cell Disease,Heart Disease
+Genital Herpes Simplex Type 2,Reproduction and Sexual Health
+HIV Infection,Reproduction and Sexual Health
+Persistent Asthma,Pulmonary Disease
+Anxiety,Mental Health
+Obesity,Obesity and Physical Activity
+Gastroesophageal Reflux Disease,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Traumatic Brain Injury,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Fluid Loss,Others
+Premature Birth of Newborn,Reproduction and Sexual Health
+β-cryptoxanthin Bioavailability From Biofortified Maize in Humans,Others
+Tricuspid Regurgitation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Obesity,Obesity and Physical Activity
+Mild Cognitive Impairment (MCI),Mental Health
+Depressive Symptoms,Mental Health
+Prostate Cancer,Oncology
+Smoking,Addiction
+Carotid Artery Disease,Heart Disease
+Aging,Aging and Palliative Care
+Post-Traumatic Stress Disorder,Mental Health
+Coronary Artery Disease,Heart Disease
+Hearing Impaired,"Ear, Nose and Throat"
+Healthy,Others
+Fibromyalgia,Arthritis and Injuries
+Obesity,Obesity and Physical Activity
+Pervasive Development Disorders,Others
+Adenocarcinoma of the Prostate,Oncology
+Hyperlipidemia,Heart Disease
+Smoking,Addiction
+Overweight,Obesity and Physical Activity
+Cardiac Arrest,Heart Disease
+"Osteoarthritis, Knee",Arthritis and Injuries
+Pneumococcal Infection,Skin Condition
+Endometrial Cancer,Oncology
+Traumatic Brain Injury,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Kidney Transplantation,Kidney Disease
+Cystic Fibrosis,Pulmonary Disease
+Rheumatoid Arthritis,Arthritis and Injuries
+Pulmonary Function,Pulmonary Disease
+Premature Atrial Contraction,Heart Disease
+Overweight,Obesity and Physical Activity
+Alcohol Use,Addiction
+Mobility Limitation,Arthritis and Injuries
+Arteriovenous Fistula,Heart Disease
+Alcohol Dependence,Addiction
+Idiopathic Pulmonary Fibrosis,Pulmonary Disease
+Hypotension,Heart Disease
+Obesity,Obesity and Physical Activity
+Healthy Volunteer,Others
+Substance Abuse Detection,Addiction
+Clear Cell Renal Cell Carcinoma,Kidney Disease
+Opioid Dependence,Addiction
+Musculoskeletal Pain,Arthritis and Injuries
+Infertility,Reproduction and Sexual Health
+Acute Myeloid Leukemia,Oncology
+Diabetic Peripheral Neuropathy,Mental Health
+Prostate Cancer,Oncology
+Insomnia,Mental Health
+"Obesity, Childhood",Obesity and Physical Activity
+HIV,Reproduction and Sexual Health
+Cigarette Smoking,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Acute Pain,Arthritis and Injuries
+Low Back Pain,Arthritis and Injuries
+Retinitis Pigmentosa,Eye Disease
+Recurrent Fallopian Tube Carcinoma,Oncology
+HIV Infection,Reproduction and Sexual Health
+Hyperemia,Heart Disease
+Palliative Care,Aging and Palliative Care
+Knee Osteoarthritis,Arthritis and Injuries
+Posttraumatic Stress Disorder (PTSD),Mental Health
+Waterpipe Smoking,Addiction
+Acute Coronary Syndrome,Heart Disease
+Atopic Dermatitis,Skin Condition
+Substance Use Disorder,Addiction
+Osteoarthritis,Arthritis and Injuries
+Opioid Use Disorder,Addiction
+Chronic Kidney Disease,Kidney Disease
+Smoking,Addiction
+Cardiovascular Disease Risk,Heart Disease
+Aging,Aging and Palliative Care
+Multiple Sclerosis,Mental Health
+Osteoarthritis,Arthritis and Injuries
+Overweight,Obesity and Physical Activity
+Leg Ulcer,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Osteoarthritis,Arthritis and Injuries
+Primary Sjögren's Syndrome,Others
+Aneuploidy,Others
+Nicotine Dependence,Addiction
+Metastatic Breast Cancer,Oncology
+"Fasciitis, Plantar","Surgery, Abdominal Disease, Emergency and Intensive Care"
+Hodgkin's Lymphoma,Oncology
+Systemic Lupus Erthematosus,Arthritis and Injuries
+Alcohol Abuse,Addiction
+Knee Osteoarthritis,Arthritis and Injuries
+"Pain, Acute",Arthritis and Injuries
+Brain Injury,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Herpes Zoster,Skin Condition
+Psoriasis,Skin Condition
+Chronic Disease,Others
+Pain,Arthritis and Injuries
+Contraception,Reproduction and Sexual Health
+Osteoarthritis,Arthritis and Injuries
+Inflammation,Skin Condition
+Multiple Sclerosis,Mental Health
+Spinal Cord Injury,Arthritis and Injuries
+HIV Infection,Reproduction and Sexual Health
+PREVENTION OF INVASIVE PNEUMOCOCCAL DISEASE,Others
+HIV-1 Infection,Reproduction and Sexual Health
+Contraception,Reproduction and Sexual Health
+Breast Cancer,Oncology
+Total Knee Arthroplasty,Arthritis and Injuries
+Constipation Drug Induced,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Chronic Pain,Arthritis and Injuries
+Asthma,Pulmonary Disease
+Smoking,Addiction
+Juvenile Fibromyalgia,Arthritis and Injuries
+Determine Effect of Vitamin D on Bone Health in Elderly African American Women,Arthritis and Injuries
+Sickle Cell Disease,Heart Disease
+Obesity,Obesity and Physical Activity
+"Carcinoma, Hepatocellular",Oncology
+Multiple Sclerosis,Mental Health
+"Spinal; Puncture, Complications",Arthritis and Injuries
+Obesity,Obesity and Physical Activity
+Pediatric Asthma,Pulmonary Disease
+Depression,Mental Health
+Colorectal Neoplasms,Oncology
+Alveolar Bone Loss,Oral Health
+Coronary Artery Disease,Heart Disease
+Posttraumatic Stress Disorder,Mental Health
+Chest Pain,Arthritis and Injuries
+Advanced Dementia,Mental Health
+Non Small Cell Lung Cancer,Oncology
+Proliferative Diabetic Retinopathy,Diabetes
+Bone Density,Arthritis and Injuries
+"Stress Disorders, Post-Traumatic",Mental Health
+Pregnancy Termination,Reproduction and Sexual Health
+Ischemic Heart Disease,Heart Disease
+Amphetamine-Related Disorders,Others
+HIV,Reproduction and Sexual Health
+Preterm Birth,Reproduction and Sexual Health
+Depression,Mental Health
+Cerebrovascular Accident,"Ear, Nose and Throat"
+Bladder Cancer,Oncology
+Posttraumatic Stress Disorder,Mental Health
+Pedal Fat Pad Atrophy,Others
+Impotence,Reproduction and Sexual Health
+Knee Arthropathy,Arthritis and Injuries
+End Stage Renal Disease (ESRD),Kidney Disease
+Breast Cancer,Oncology
+Congestive Heart Failure,Heart Disease
+"Pain, Postoperative",Arthritis and Injuries
+Prostate Cancer,Oncology
+Infection Associated With Catheter,Skin Condition
+Depression,Mental Health
+Anxiety,Mental Health
+Cancer,Oncology
+IUD Insertion,Others
+"Pain Management, Cervical Preparation",Arthritis and Injuries
+Dry Eye Disease,Eye Disease
+Breast Cancer,Oncology
+Major Depressive Disorder,Mental Health
+Asthma,Pulmonary Disease
+Operating Room Scheduling,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Acute Myeloid Leukemia in Remission,Oncology
+Alcohol Use Disorder,Addiction
+Menopause,Reproduction and Sexual Health
+Migraine Headache,Mental Health
+Hospitalization,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Smoking,Addiction
+Migraine Headache,Mental Health
+Methamphetamine Abuse,Addiction
+Post-traumatic Stress Disorder,Mental Health
+Breast Cancer,Oncology
+Breast Cancer,Oncology
+Post-operative Pain,Arthritis and Injuries
+Aging,Aging and Palliative Care
+Childhood Asthma,Pulmonary Disease
+Infection,Skin Condition
+Nonconvulsive Seizures,Mental Health
+Diabetic Macular Edema,Eye Disease
+Stroke,Heart Disease
+Custodial Grandparents,Reproduction and Sexual Health
+HIV-infection/Aids,Reproduction and Sexual Health
+Sickle Cell Disease,Heart Disease
+Alcoholism,Addiction
+Cervical Cancer,Oncology
+Stage II Colon Cancer,Oncology
+Melanoma (Skin),Skin Condition
+Tinnitus,"Ear, Nose and Throat"
+Prostate Cancer,Oncology
+Nonalcoholic Steatohepatitis,Addiction
+Multiple Sclerosis,Mental Health
+Deep Vein Thrombosis,Heart Disease
+Muscle Atrophy,Arthritis and Injuries
+Cervical Ripening,Reproduction and Sexual Health
+Hypertension,Heart Disease
+Microaspiration,Others
+Healthy Participants,Others
+Mild Cognitive Impairment,Mental Health
+Alcohol Use Disorder,Addiction
+Anal Cancer,Oncology
+Contraception,Reproduction and Sexual Health
+"Osteoarthritis, Knee",Arthritis and Injuries
+Health Risk Appraisal,Others
+Aging,Aging and Palliative Care
+Peanut Allergy,Skin Condition
+Primary Open Angle Glaucoma,Eye Disease
+Tobacco Use Cessation,Addiction
+Stroke,Heart Disease
+Iron Deficiency,Obesity and Physical Activity
+Parkinson Disease,Mental Health
+Type 1 Diabetes,Diabetes
+Obesity,Obesity and Physical Activity
+Contraception,Reproduction and Sexual Health
+Traumatic Brain Injury With Brief Loss of Consciousness,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Anorexia Nervosa,Mental Health
+Leukemia,Oncology
+Chronic Obstructive Pulmonary Disease,Pulmonary Disease
+Healthy,Others
+Alcohol Abuse or Dependence,Addiction
+Stress,Mental Health
+Diseases/Diagnoses,Others
+Substance Abuse Disorder,Addiction
+Cardiovascular Disease,Heart Disease
+Childhood Obesity,Obesity and Physical Activity
+Colorectal Disorders,Oncology
+Colorectal Neoplasms,Oncology
+"Hernia, Ventral","Surgery, Abdominal Disease, Emergency and Intensive Care"
+Chronic Kidney Disease,Kidney Disease
+Smoking Cessation,Addiction
+PTSD,Mental Health
+Pain,Arthritis and Injuries
+Bipolar Disorder,Mental Health
+Postoperative Pain,Arthritis and Injuries
+Schizophrenia,Mental Health
+Alzheimer's Disease,Mental Health
+Lower Extremity Amputation,Arthritis and Injuries
+Healthy Volunteers,Others
+Alcoholism,Addiction
+Hypertension,Heart Disease
+Stroke,Heart Disease
+"Diabetes Mellitus, Type 1",Diabetes
+Pediatric Hemiparesis,Others
+Obstructive Sleep Apnea,Mental Health
+Atrial Fibrillation,Heart Disease
+Gestational Weight Gain,Obesity and Physical Activity
+Smoking,Addiction
+Psychosis,Mental Health
+Limited Dorsiflexion,Arthritis and Injuries
+Human Immunodeficiency Virus Infection,Reproduction and Sexual Health
+Inpatient,Others
+Amblyopia,Eye Disease
+Nerve Block,Mental Health
+"Pain, Postoperative",Arthritis and Injuries
+Delirium,Mental Health
+Ocular Hypertension,Heart Disease
+Ovarian Cancer,Oncology
+Health Behavior,Others
+Sedentary Lifestyle,Obesity and Physical Activity
+Serious Emotional Disturbance of Youth,Mental Health
+"Pulmonary Disease, Chronic Obstructive",Pulmonary Disease
+Sedentary Lifestyle,Obesity and Physical Activity
+Preeclampsia,Mental Health
+Diabetes Mellitus,Diabetes
+Asthma,Pulmonary Disease
+HIV Infection,Reproduction and Sexual Health
+Hysterectomy,Reproduction and Sexual Health
+Stage I Breast Cancer,Oncology
+Trauma,Mental Health
+Diabetes Mellitus,Diabetes
+"Heart Failure, Diastolic",Heart Disease
+Schizophrenia,Mental Health
+Atrial Fibrillation,Heart Disease
+Atrophy of Vagina,Reproduction and Sexual Health
+Anorexia Nervosa,Mental Health
+Electronic Fetal Monitoring,Reproduction and Sexual Health
+Pancreatic Neoplasms,Oncology
+Pulmonary Embolism and Thrombosis,Pulmonary Disease
+Severe Sepsis,Skin Condition
+Post-traumatic,Mental Health
+Dementia,Mental Health
+Pain,Arthritis and Injuries
+Labor Pain,Reproduction and Sexual Health
+Malignant Skin Neoplasm,Oncology
+Vaginal Vault Prolapse,Reproduction and Sexual Health
+Acute Respiratory Distress Syndrome,Pulmonary Disease
+Fatigue,Others
+Smoking Cessation,Addiction
+Emergencies,Others
+Influenza,Skin Condition
+Discharge Planning,Others
+Intimate Partner Violence,Mental Health
+Patient Adherence,Others
+Prosthesis-related Infections,Skin Condition
+"Polycystic Kidney, Autosomal Dominant",Kidney Disease
+Postoperative Pain,Arthritis and Injuries
+Smoking Cessation,Addiction
+Healthy,Others
+Head and Neck Cancer,Oncology
+Neuroma,Mental Health
+Type 1 Diabetes,Diabetes
+Heart Failure,Heart Disease
+Bipolar Disorder,Mental Health
+"Arthroplasty, Replacement, Knee",Arthritis and Injuries
+Type 1 Diabetes,Diabetes
+Childhood Obesity,Obesity and Physical Activity
+Bladder Cancer Requiring Cystectomy,Oncology
+"Brain Injuries, Traumatic","Surgery, Abdominal Disease, Emergency and Intensive Care"
+Major Depressive Disorder,Mental Health
+Smallpox,Skin Condition
+Substance Withdrawal Syndrome,Addiction
+Pregnancy,Reproduction and Sexual Health
+ATIII Deficiency,Others
+Scleroderma,Skin Condition
+Neoplasms,Oncology
+Coronary Artery Disease,Heart Disease
+Severe Sepsis With Septic Shock,Skin Condition
+Uncomplicated Pregnancy,Reproduction and Sexual Health
+Focus: Hospitalized Patients,Others
+Adult Hematopoietic Cell Transplant (HCT) Survivors 1-2 Yrs Post Most Recent HCT,Others
+Opioid Misuse,Addiction
+Parental/Caregiver Anxiety,Mental Health
+HIV,Reproduction and Sexual Health
+Wounds and Injuries,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Knee Injury,Arthritis and Injuries
+Heart Disease,Heart Disease
+Pneumonia,Pulmonary Disease
+Test Result Management,Others
+Influenza,Skin Condition
+Migraine,Mental Health
+Mobility Limitation,Arthritis and Injuries
+Exotropia,Eye Disease
+Osteoarthrosis of the Carpometacarpal Joint of the Thumb,Arthritis and Injuries
+Anxiety Disorders,Mental Health
+Malignant Neoplasm,Oncology
+Schizophrenia,Mental Health
+Dental Caries in Children,Oral Health
+Pancreatic Neoplasm,Oncology
+Nicotine Dependence,Addiction
+Multiple Sclerosis,Mental Health
+Diabetes,Diabetes
+Methamphetamine Dependence,Addiction
+Insomnia,Mental Health
+Obesity,Obesity and Physical Activity
+Aggression,Mental Health
+Acute Respiratory Failure,Pulmonary Disease
+NAFLD,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Ureterolithiases,Others
+Chronic Pain,Arthritis and Injuries
+Substance Use Disorders,Addiction
+Dental Caries,Oral Health
+HIV,Reproduction and Sexual Health
+Acute Pain,Arthritis and Injuries
+Congenital Heart Disease,Heart Disease
+Borderline Personality Disorder,Mental Health
+Ovarian Carcinoma,Oncology
+HIV,Reproduction and Sexual Health
+Autism,Mental Health
+"Breast Density, Breast Cancer Prevention",Oncology
+Hospitalism,Others
+Posttraumatic Stress Disorder,Mental Health
+Colorectal Cancer,Oncology
+Pyruvate Dehydrogenase Complex Deficiency,Others
+Autistic Disorder,"Ear, Nose and Throat"
+Diabetes Mellitus,Diabetes
+Influenza,Skin Condition
+HIV Infections,Reproduction and Sexual Health
+Pituitary Tumor,Oncology
+Overweight,Obesity and Physical Activity
+MDD,Others
+Cigarette Smoking,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Inflammation,Skin Condition
+Total Hip Replacement,Arthritis and Injuries
+Recurrent Fallopian Tube Carcinoma,Oncology
+Surgery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Diabetes Mellitus, Type 1",Diabetes
+Diabetic Macular Edema,Eye Disease
+Surgical Wound Infection,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Risk Reduction Behavior,Others
+Vitamin D Deficiency,Obesity and Physical Activity
+Alzheimer Disease,Mental Health
+Cervicogenic Headache,Mental Health
+Tuberculosis,Pulmonary Disease
+Fibromyalgia,Arthritis and Injuries
+Heart Failure,Heart Disease
+Motor Activity,Arthritis and Injuries
+Chronic Pruritus,Skin Condition
+Hoarding Disorder,Mental Health
+Sexual Assault,Reproduction and Sexual Health
+Sexually Transmitted Diseases,Reproduction and Sexual Health
+Obesity,Obesity and Physical Activity
+Colorectal Neoplasms,Oncology
+Stroke,Heart Disease
+"Infant, Newborn",Reproduction and Sexual Health
+Poliomyelitis,Skin Condition
+Patellofemoral Pain Syndrome,Arthritis and Injuries
+Breast Cancer,Oncology
+Cachexia,Others
+Pain,Arthritis and Injuries
+Osteoporosis,Arthritis and Injuries
+Overactive Bladder,Kidney Disease
+Overweight and Obesity,Obesity and Physical Activity
+Method of Tubal Ligation at the Time of Cesarean Section,Reproduction and Sexual Health
+Inflammation,Skin Condition
+Rheumatoid Arthritis,Arthritis and Injuries
+Acute Respiratory Failure,Pulmonary Disease
+HIV Infection,Reproduction and Sexual Health
+Migraine,Mental Health
+Epilepsy,Mental Health
+Adenomatous Polyp,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+End-Stage Renal Disease,Kidney Disease
+Hypertension,Heart Disease
+Early Childhood Dental Caries,Oral Health
+Saphenous Vein Graft Atherosclerosis,Heart Disease
+Physical Activity,Obesity and Physical Activity
+Obesity,Obesity and Physical Activity
+Respiratory Distress Syndrome,Pulmonary Disease
+Bipolar Disorder,Mental Health
+Abscess,Others
+Smoke Inhalation Injury,Addiction
+Colon Cancer,Oncology
+Influenza,Skin Condition
+Type II Diabetes,Diabetes
+Respiratory Failure,Pulmonary Disease
+POSTOPERATIVE PAIN,Arthritis and Injuries
+Nontherapeutic,Others
+Curvature of Spine,Arthritis and Injuries
+Labor Pain,Reproduction and Sexual Health
+Substance Abuse,Addiction
+Vulvodynia,Reproduction and Sexual Health
+Cystic Fibrosis,Pulmonary Disease
+Pregnancy,Reproduction and Sexual Health
+Quality Improvement,Others
+Discharge Follow-up Phone Calls,Others
+Hernia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Smoking Cessation,Addiction
+Hypertension,Heart Disease
+Sexual Assault,Reproduction and Sexual Health
+Diabetes Mellitus,Diabetes
+Pain,Arthritis and Injuries
+Delirium,Mental Health
+HIV Infections,Reproduction and Sexual Health
+Bilateral Nasal Polyposis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Obesity,Obesity and Physical Activity
+Asthma,Pulmonary Disease
+Focus: Healthy Adults Without Brain Injury,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Carcinoma, Squamous Cell of Head and Neck",Oncology
+Sleep Apnea,Mental Health
+PSA Level Less Than Ten,Others
+"Analgesics, Opioid","Surgery, Abdominal Disease, Emergency and Intensive Care"
+Healthy,Others
+BRAF V600E Mutation Present,Others
+Wheezing,Pulmonary Disease
+Posttraumatic Stress Disorders,Mental Health
+Chronic Obstructive Pulmonary Disease (COPD),Pulmonary Disease
+PTSD Symptoms,Mental Health
+Schizophrenia,Mental Health
+Tobacco Use Disorder,Addiction
+Premature Rupture of Membranes,Arthritis and Injuries
+Metastatic Hormone-sensitive Prostate Cancer,Oncology
+Depression,Mental Health
+Lumbar Puncture,Arthritis and Injuries
+Chronic Illness,Others
+Schizophrenia,Mental Health
+Prepubertal Labial Adhesions,Others
+Type 1 Diabetes Mellitus,Diabetes
+Substance Use Disorders,Addiction
+Dental Caries,Oral Health
+"Pain, Postoperative",Arthritis and Injuries
+Chronic Low Back Pain,Arthritis and Injuries
+Hepatitis B,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Critical Illness,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Pregnancy Termination in Second Trimester,Reproduction and Sexual Health
+Poor Quality Sleep,Mental Health
+"Stress Disorders, Posttraumatic",Mental Health
+Alzheimer's Disease,Mental Health
+Non-Alcoholic Steatohepatitis,Addiction
+Sedentary Employees,Obesity and Physical Activity
+Obesity,Obesity and Physical Activity
+Obesity,Obesity and Physical Activity
+Chronic Kidney Disease,Kidney Disease
+Type 2 Diabetes,Diabetes
+Pain,Arthritis and Injuries
+Infant,Reproduction and Sexual Health
+Shoulder Infection,Arthritis and Injuries
+Pregnancy,Reproduction and Sexual Health
+Smoking Cessation,Addiction
+Breastfeeding,Reproduction and Sexual Health
+Rectal Cancer,Oncology
+Depression,Mental Health
