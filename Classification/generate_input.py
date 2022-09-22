@@ -14,12 +14,14 @@ parser.add_argument('-projectKind', action="store", default="CustomEntityRecogni
 parser.add_argument('-multilingual', action="store", default=False)
 parser.add_argument('-lang', action="store", default="en")
 
-
 args = parser.parse_args()
 
 entity_types = set()
 out_dir = "{}_train".format(args.projectName)
-os.makedirs(out_dir)
+try:
+    os.makedirs(out_dir)
+except:
+    pass
 
 with codecs.open(args.inputFile, encoding='utf-8') as f:
     csvFile = csv.reader(f, delimiter=',', quotechar='"')
@@ -50,7 +52,10 @@ with codecs.open(args.inputFile, encoding='utf-8') as f:
         documents[i]["entities"] = [entities]
         with open(filename, "w", encoding="utf-8") as gen_file:
             gen_file.write(rowList[i][0])
-        os.rename(filename, "./{}/{}".format(out_dir, filename))
+        try:
+            os.rename(filename, "./{}/{}".format(out_dir, filename))
+        except:
+            os.replace(filename, "./{}/{}".format(out_dir, filename))
 
     input_json = {}
     input_json["projectFileVersion"] = "2022-05-01"
@@ -58,11 +63,11 @@ with codecs.open(args.inputFile, encoding='utf-8') as f:
 
     metadata = {}
     metadata["projectKind"] = args.projectKind
-    metadata["storageInputContainerName"] = args.projectKind
+    metadata["storageInputContainerName"] = args.storageContainer
     metadata["projectName"] = args.projectName
     metadata["multilingual"] = args.multilingual
     metadata["description"] = args.description
-    metadata["language"] = args.description
+    metadata["language"] = args.lang
     input_json["metadata"] = metadata
 
     assets = {}
