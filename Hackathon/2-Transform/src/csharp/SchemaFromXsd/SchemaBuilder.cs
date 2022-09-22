@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -48,9 +49,17 @@ namespace SchemaFromXsd
         private void WriteOutput()
         {
             using StreamWriter file = new(this.Settings.OutputFile);
+            char delimiter = '\t';
+
+            if (this.Settings.OutputFormat.ToUpperInvariant() == Settings.CsvFormat)
+            {
+                delimiter = ',';
+                file.WriteLine("FieldName,Type,Path");
+            }
+
             foreach (Field field in this.Fields)
             {
-                file.WriteLine($"{field.Name}\t{field.Type}");
+                file.WriteLine($"{field.Name}{delimiter}{field.Type}{delimiter}{field.Path}");
             }
         }
 
@@ -120,7 +129,10 @@ namespace SchemaFromXsd
 
             if (unbounded)
             {
-                this.Fields.Add(new Field($"{this.GetFieldName(name)}Id", "integer"));
+                this.Fields.Add(new Field(
+                    $"{this.GetFieldName(name)}Id", 
+                    "integer",
+                    $"{this.GetFieldPath(name)}>Id"));
             }
 
             this.Parents.Push(name);
@@ -131,15 +143,16 @@ namespace SchemaFromXsd
         private void AppendPrimitiveField(string name, string typeName, bool unbounded)
         {
             string fieldName = this.GetFieldName(name);
+            string fieldPath = this.GetFieldPath(name);
 
             if (unbounded)
             {
-                this.Fields.Add(new Field($"{fieldName}Id", "integer"));
-                this.Fields.Add(new Field($"{fieldName}Value", typeName[3..]));
+                this.Fields.Add(new Field($"{fieldName}Id", "integer", $"{fieldPath}>Id"));
+                this.Fields.Add(new Field($"{fieldName}Value", typeName[3..], $"{fieldPath}>Value"));
                 return;
             }
 
-            this.Fields.Add(new Field(fieldName, typeName[3..]));
+            this.Fields.Add(new Field(fieldName, typeName[3..], fieldPath));
         }
 
         private (string typeName, XElement? typeElement) GetElementType(XElement element)
@@ -231,6 +244,11 @@ namespace SchemaFromXsd
         private string GetFieldName(string name)
         {
             return String.Join(String.Empty, Parents.Reverse()) + name;
+        }
+
+        private string GetFieldPath(string name)
+        {
+            return String.Join('>', Parents.Reverse()) + $">{name}";
         }
 
         private static string PascalCasify(string? underscoreString)
