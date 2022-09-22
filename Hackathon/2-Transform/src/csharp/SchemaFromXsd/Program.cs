@@ -15,7 +15,7 @@ namespace SchemaFromXsd
             Settings settings = config.GetRequiredSection(nameof(Settings)).Get<Settings>() 
                 ?? throw new InvalidOperationException("Failed to read app settings.");
 
-            SchemaBuilder schemaBuilder = new SchemaBuilder(settings);
+            SchemaBuilder schemaBuilder = new(settings);
             schemaBuilder.Run();
         }
     }
