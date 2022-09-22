@@ -1,0 +1,1385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2128">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01919112</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2013P000067</org_study_id>
+    <secondary_id>1R01DC012584-01A1</secondary_id>
+    <nct_id>NCT01919112</nct_id>
+  </id_info>
+  <brief_title>Fostering Eating After Stroke With Transcranial Direct Current Stimulation</brief_title>
+  <acronym>FEASt</acronym>
+  <official_title>Non-invasive Brain Stimulation for Swallowing Recovery After a Dysphagic Stroke</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Beth Israel Deaconess Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Deafness and Other Communication Disorders (NIDCD)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Beth Israel Deaconess Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Swallowing difficulties are common after a stroke and can lead to serious complications like&#xD;
+      pneumonia and malnutrition. Unfortunately, there are no effective treatment for improving&#xD;
+      swallowing in stroke patients.&#xD;
+&#xD;
+      Previous investigations have shown that recovery of swallowing functions occurs from&#xD;
+      reorganization (&quot;rewiring&quot;) of the non-involved cerebral hemisphere. In this study, the&#xD;
+      investigators propose to investigate a new intervention, which combines, swallowing exercises&#xD;
+      with brain stimulation targeted to the non-involved cerebral hemisphere, using low intensity&#xD;
+      current in acute stroke patients. The investigators plan to assess the safety of this&#xD;
+      technique in this patient population and also assess its effect on improving swallowing&#xD;
+      functions and swallowing physiology. During this time trial participants will undergo&#xD;
+      standardized swallowing and neurological assessments as well as brain MRI scans.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Swallowing impairments are a common and a serious complication of stroke but lack effective&#xD;
+      therapies. The study investigators herein propose to conduct a prospective clinical study&#xD;
+      using a non-invasive brain stimulation technique, anodal transcranial direct current&#xD;
+      stimulation (tDCS), in combination with swallowing exercises for improving dysphagia due to&#xD;
+      an acute-subacute hemispheric infarction, and obtain data on safety and effect of 2 different&#xD;
+      doses of tDCS, on swallowing physiology and behavior. Dysphagia from hemispheric strokes&#xD;
+      occurs due to disruption of the cortical projections to the brainstem swallowing centers&#xD;
+      while recovery of swallowing functions have been shown to be mediated via the reorganization&#xD;
+      of the swallowing cortex in the unaffected hemisphere. A recent pilot study conducted by the&#xD;
+      investigators demonstrated the safety and feasibility of applying 5 consecutive daily&#xD;
+      sessions of anodal tDCS for 30 minutes to the swallowing cortex on the unaffected hemisphere&#xD;
+      in the acute-subacute stroke phases and showed a promise in improving dysphagia, when&#xD;
+      combined with swallowing exercises. The proposed research will be used to further confirm&#xD;
+      safety of this technique in early stroke phases and explore alternative, more effective doses&#xD;
+      for promoting swallowing recovery prior to its examination in any confirmatory trials. The&#xD;
+      investigators will use the study cohort to examine important subject specific parameters&#xD;
+      which influence response to the proposed intervention in dysphagic stroke patients. The&#xD;
+      overall aim of this study is to gather additional safety data on cumulative sessions of tDCS&#xD;
+      in acute-subacute phases of stroke, obtain information about effects of this intervention on&#xD;
+      important physiological and clinically relevant swallowing parameters, examine possible dose&#xD;
+      effects, and identify candidates who are more likely to benefit from this intervention. The&#xD;
+      experience gained from this project will guide planning of future confirmatory trials that&#xD;
+      use relevant clinical outcomes to assess potential benefits of this intervention and utilize&#xD;
+      important subject specific parameters to refine study inclusion criteria and aid in severity&#xD;
+      adjusted analysis.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">September 2013</start_date>
+  <completion_date type="Actual">September 2019</completion_date>
+  <primary_completion_date type="Actual">May 31, 2019</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>The trial will randomize subjects to anodal transcranial direct current stimulation (tDCS) versus sham stimulation, both of them carried out in combination with standardized swallowing exercises</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Investigators and subjects will be masked to the trail arm assignments at randomization. The investigator reviewing outcome data will also be masked to the trial assignments.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To Assess Changes in Penetration and Aspiration</measure>
+    <time_frame>Scores will be measured before tDCS and after 5 days after completion of stimulation</time_frame>
+    <description>This will be assessed using the Penetration and Aspiration Scale (PAS) scores, a validated 8 point ordinal scale that quantifies penetration and aspiration events observed during Videofluoroscopic Swallowing Evaluation. PAS ranges from 1 (best score) representing no aspiration or penetration to 8 (worst score) representing severe aspiration. An average PAS score will be computed based on 9 swallows for this outcome.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To Assess Safety of tDCS in Acute-subacute Stroke Phase: Number of Participants With Seizures in Each of the 3 Groups</measure>
+    <time_frame>During the 5 days of stimulation sessions</time_frame>
+    <description>We will tabulate the number of participants who develop seizures in the High-dose anodal tDCS, Low-dose anodal tDCS and Sham stimulation groups.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To Assess Safety of tDCS in Acute-subacute Stroke Phase: Number of Deaths in Each of the 3 Groups Attributable to the Direct Effects of Stroke</measure>
+    <time_frame>During the 5 days of stimulation sessions</time_frame>
+    <description>We will tabulate the number of deaths in High-dose tDCS, Low-dose tDCS and Sham stimulation groups, that are attributable to the direct effects of the qualifying stroke.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To Assess Safety of tDCS in Acute-subacute Stroke Phase: Number of Participants With Neurological Deterioration in Each of the 3 Groups</measure>
+    <time_frame>During the 5 days of stimulation sessions</time_frame>
+    <description>We will tabulate the number of participants who develop neurological deterioration in the High-dose tDCS, Low-dose tDCS and Sham groups. Neurological deterioration will be defined as an increase in the total National Institute of Health Stroke Scale (NIHSS) Score by 4 or more points between each successive day. The NIHSS is a 15-item neurologic examination stroke scale used to evaluate the effect of acute cerebral infarction on the levels of consciousness, language, neglect, visual-field loss, extraocular movement, motor strength, ataxia, dysarthria, and sensory loss. NIHSS ranges from 0 (normal) to 42 (worst possible score). Higher scores mean worse neurological functions.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To Assess Safety of tDCS in Acute-subacute Stroke Phase: Number of Participants With Motor Deterioration in Each of the 3 Groups</measure>
+    <time_frame>During the 5 days of stimulation sessions</time_frame>
+    <description>We will tabulate the number of participants with deterioration in their motor functions in the High-dose tDCS, Low-dose tDCS and Sham groups. Motor deterioration will be defined as an increase in the motor sub-item of the National Institute of Health Stroke Scale (NIHSS) score by 2 or more points between each successive day of stimulation. The motor sub-item of the NIHSS ranges from 0 (normal) to 16 (worst possible score), with higher scores indicating a worse motor exam.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To Assess Safety of tDCS in Acute-subacute Stroke Phase: Number of Participants With Swallowing Deterioration in Each of the 3 Groups</measure>
+    <time_frame>Any change between day 1 and day 3 of stimulation session</time_frame>
+    <description>We will tabulate the number of participants with swallowing deterioration in the High-dose tDCS, Low-dose tDCS and sham groups Swallowing deterioration will be defined as an increase in the score by 2 or more points in the Functional Oral Intake Scale (FOIS). FOIS provides a validated measure of diet level. FOIS is an ordinal scale ranging from 7 (normal diet) to 0 (no oral intake), with lower scores indicating a worse diet.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To Assess and Compare Changes in Dietary Intake in Each of the Three Groups</measure>
+    <time_frame>At study onset and after 1 month</time_frame>
+    <description>The durability of any observed effects of the intervention on dietary status will be estimated by changes in Functional Oral Intake Scale (FOIS) score. FOIS is an ordinal scale ranging from 1 (worst) to 7 (normal oral diet) and provides a reliable measure of dietary intake. The change in FOIS scores across each group will be compared.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To Assess Changes in Physiological Measures of Pharyngeal Strength</measure>
+    <time_frame>Variables will be measured at baseline (before starting tDCS) and after 5 days after completion of stimulation</time_frame>
+    <description>Examining effects of differing doses of anodal tDCS versus sham stimulation on Pharyngeal Constriction Ratio (PCR), derived from videofluoroscopic swallowing studies.PCR is a measure of the pharyngeal area visible in the lateral radiograph view at the point when a bolus is held in the oral cavity divided by the pharyngeal area at the point of maximum pharyngeal constriction during the swallow. A higher PCR indicates a weak swallow leading to increased food residue in the pharynx.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To Assess Changes in Physiological Measures of Briskness of Swallow Onset</measure>
+    <time_frame>Variables will be measured at baseline (before starting tDCS) and after 5 days after completion of stimulation</time_frame>
+    <description>Examining effects of differing doses of anodal tDCS versus sham stimulation on Pharyngeal Delay Time (PDT) , derived from videofluoroscopic swallowing studies. PDT is defined as the time in centiseconds that the bolus is present in the hypopharynx before the swallow is triggered. PDT is a temporal measure of the briskness of the swallow onset.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To Assess Changes in Physiological Measures of Laryngeal Excursion</measure>
+    <time_frame>Variables will be measured at baseline (before starting tDCS) and after 5 days after completion of stimulation</time_frame>
+    <description>Examining effects of differing doses of anodal tDCS versus sham stimulation on measure of actual excursion of the larynx in centimeters from their resting point to maximal excursion, derived from videofluoroscopic swallowing studies.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in PAS Scores as an Indicator of Dysphagia Recovery After Covariate Adjustment</measure>
+    <time_frame>At day 5 of study participation</time_frame>
+    <description>We will examine the effects of the intervention in a linear model by using it as a predictor for dysphagia recovery along with other variables of interest [age, baseline National Institute of Health Stroke Scale and Penetration and Aspiration Scale (PAS) scores], with a change in PAS scores from baseline to day 5 of the intervention, as being the outcome of interest.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">42</enrollment>
+  <condition>Dysphagia</condition>
+  <condition>Stroke</condition>
+  <arm_group>
+    <arm_group_label>High dose anodal tDCS</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>High dose tDCS (2 milliamps twice daily) for 5 days will be administered concomitantly with swallowing exercises</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Low dose anodal tDCS</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>This arm will use a low dose of current administered via tDCS (2 milliamps once daily) for 5 days will be administered concomitantly with swallowing exercises</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sham Stimulation</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>Twice daily swallowing exercises only</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>tDCS</intervention_name>
+    <description>Anodal tDCS will be administered with swallowing exercises</description>
+    <arm_group_label>High dose anodal tDCS</arm_group_label>
+    <arm_group_label>Low dose anodal tDCS</arm_group_label>
+    <arm_group_label>Sham Stimulation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  21 years or older in age since safety of non-invasive cortical stimulation in&#xD;
+             children.&#xD;
+&#xD;
+          -  Between 25 hours (day 2) to 144 (day 6) hours since stroke onset.&#xD;
+&#xD;
+          -  Unilateral hemispheric infarction (cortical or subcortical infarction) documented by&#xD;
+             imaging.&#xD;
+&#xD;
+          -  Moderate to severe dysphagia with a score of 4 or more on Penetration and Aspiration&#xD;
+             Scale (PAS)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Prior history of swallowing difficulties.&#xD;
+&#xD;
+          -  Drowsiness or marked cognitive impairment that interferes with participation in&#xD;
+             swallowing maneuvers.&#xD;
+&#xD;
+          -  Unable to undergo an MRI due to claustrophobia or presence of electrically,&#xD;
+             magnetically or mechanically activated implant (including cardiac pacemaker),&#xD;
+             intracerebral vascular clips or any other electrically sensitive support system, metal&#xD;
+             in any part of the body, including metallic injury to eye, or pregnancy).&#xD;
+&#xD;
+          -  History of seizures or unexplained episodes of loss of consciousness.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sandeep Kumar, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Beth Israel Deaconess Medical Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Beth Israel Deaconess Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Marchina S, Schlaug G, Kumar S. Study design for the fostering eating after stroke with transcranial direct current stimulation trial: a randomized controlled intervention for improving Dysphagia after acute ischemic stroke. J Stroke Cerebrovasc Dis. 2015 Mar;24(3):511-20. doi: 10.1016/j.jstrokecerebrovasdis.2014.09.027. Epub 2014 Dec 19.</citation>
+    <PMID>25534369</PMID>
+  </reference>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>August 6, 2013</study_first_submitted>
+  <study_first_submitted_qc>August 6, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">August 8, 2013</study_first_posted>
+  <results_first_submitted>May 28, 2020</results_first_submitted>
+  <results_first_submitted_qc>June 20, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">July 7, 2020</results_first_posted>
+  <last_update_submitted>July 8, 2020</last_update_submitted>
+  <last_update_submitted_qc>July 8, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 21, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Beth Israel Deaconess Medical Center</investigator_affiliation>
+    <investigator_full_name>Sandeep Kumar</investigator_full_name>
+    <investigator_title>Associate Professor of Neurology</investigator_title>
+  </responsible_party>
+  <keyword>Brain stimulation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stroke</mesh_term>
+  </condition_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>August 14, 2014</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/12/NCT01919112/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>All subjects were recruited from the inpatient neurology/stroke service at Beth Israel Deaconess Medical Center, Boston, MA. The first subject was recruited on 2/10/2014.</recruitment_details>
+      <pre_assignment_details>A total of 328 subjects were screened for the trial, of which 214 did not fulfill all trial criteria and 72 refused consent. A total of 42 subjects were eventually enrolled: 14 subjects in High-Dose tDCS, 13 in Low-Dose tDCS and 15 in Sham arms.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>High Dose Anodal tDCS</title>
+          <description>High dose tDCS (2 milliamps twice daily) for 5 days will be administered concomitantly with swallowing exercises&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+        </group>
+        <group group_id="P2">
+          <title>Low Dose Anodal tDCS</title>
+          <description>This arm will use a low dose of current administered via tDCS (2 milliamps once daily) for 5 days will be administered concomitantly with swallowing exercises&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+        </group>
+        <group group_id="P3">
+          <title>Sham Stimulation</title>
+          <description>Twice daily swallowing exercises only&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Primary Analysis-day 5 of Intervention</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="14"/>
+                <participants group_id="P2" count="13"/>
+                <participants group_id="P3" count="15"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="14"/>
+                <participants group_id="P2" count="13"/>
+                <participants group_id="P3" count="15"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+        <period>
+          <title>Secondary Analysis-day 30</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="14"/>
+                <participants group_id="P2" count="13"/>
+                <participants group_id="P3" count="15"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="12"/>
+                <participants group_id="P2" count="12"/>
+                <participants group_id="P3" count="14"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="1"/>
+                <participants group_id="P3" count="1"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Death</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="1"/>
+                <participants group_id="P3" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>High Dose Anodal tDCS</title>
+          <description>High dose tDCS (2 milliamps twice daily) for 5 days will be administered concomitantly with swallowing exercises&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+        </group>
+        <group group_id="B2">
+          <title>Low Dose Anodal tDCS</title>
+          <description>This arm will use a low dose of current administered via tDCS (2 milliamps once daily) for 5 days will be administered concomitantly with swallowing exercises&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+        </group>
+        <group group_id="B3">
+          <title>Sham Stimulation</title>
+          <description>Twice daily swallowing exercises only&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+        </group>
+        <group group_id="B4">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="14"/>
+            <count group_id="B2" value="13"/>
+            <count group_id="B3" value="15"/>
+            <count group_id="B4" value="42"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="68" spread="12.6"/>
+                    <measurement group_id="B2" value="72" spread="13.3"/>
+                    <measurement group_id="B3" value="73" spread="14.1"/>
+                    <measurement group_id="B4" value="71" spread="13.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="6"/>
+                    <measurement group_id="B4" value="17"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="9"/>
+                    <measurement group_id="B4" value="25"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                    <measurement group_id="B2" value="13"/>
+                    <measurement group_id="B3" value="14"/>
+                    <measurement group_id="B4" value="39"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="11"/>
+                    <measurement group_id="B3" value="14"/>
+                    <measurement group_id="B4" value="34"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                    <measurement group_id="B2" value="13"/>
+                    <measurement group_id="B3" value="15"/>
+                    <measurement group_id="B4" value="42"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Penetration and Aspiration Scale Score</title>
+          <description>This is a validated 8 point ordinal scale (range 1-8; score 1 is normal and 8 is the worst possible) that quantifies penetration and aspiration events observed during a videofluroscopic swallowing study (VFSS). All PAS scores were assigned by an independent evaluator blinded to intervention allocation and were based on a standardized VFSS.</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4" spread="1.2"/>
+                    <measurement group_id="B2" value="4.1" spread="1.1"/>
+                    <measurement group_id="B3" value="4" spread="1.5"/>
+                    <measurement group_id="B4" value="4" spread="1.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>To Assess Changes in Penetration and Aspiration</title>
+        <description>This will be assessed using the Penetration and Aspiration Scale (PAS) scores, a validated 8 point ordinal scale that quantifies penetration and aspiration events observed during Videofluoroscopic Swallowing Evaluation. PAS ranges from 1 (best score) representing no aspiration or penetration to 8 (worst score) representing severe aspiration. An average PAS score will be computed based on 9 swallows for this outcome.</description>
+        <time_frame>Scores will be measured before tDCS and after 5 days after completion of stimulation</time_frame>
+        <population>Analysis of participant was based on an intention to treat principle.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>High Dose Anodal tDCS</title>
+            <description>High dose tDCS (2 milliamps twice daily) for 5 days will be administered concomitantly with swallowing exercises&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+          </group>
+          <group group_id="O2">
+            <title>Low Dose Anodal tDCS</title>
+            <description>This arm will use a low dose of current administered via tDCS (2 milliamps once daily) for 5 days will be administered concomitantly with swallowing exercises&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+          </group>
+          <group group_id="O3">
+            <title>Sham Stimulation</title>
+            <description>Twice daily swallowing exercises only&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>To Assess Changes in Penetration and Aspiration</title>
+          <description>This will be assessed using the Penetration and Aspiration Scale (PAS) scores, a validated 8 point ordinal scale that quantifies penetration and aspiration events observed during Videofluoroscopic Swallowing Evaluation. PAS ranges from 1 (best score) representing no aspiration or penetration to 8 (worst score) representing severe aspiration. An average PAS score will be computed based on 9 swallows for this outcome.</description>
+          <population>Analysis of participant was based on an intention to treat principle.</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="14"/>
+                <count group_id="O2" value="13"/>
+                <count group_id="O3" value="15"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.4" spread="1.2"/>
+                    <measurement group_id="O2" value="-0.8" spread="1.5"/>
+                    <measurement group_id="O3" value="-0.8" spread="1.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>To Assess Safety of tDCS in Acute-subacute Stroke Phase: Number of Participants With Seizures in Each of the 3 Groups</title>
+        <description>We will tabulate the number of participants who develop seizures in the High-dose anodal tDCS, Low-dose anodal tDCS and Sham stimulation groups.</description>
+        <time_frame>During the 5 days of stimulation sessions</time_frame>
+        <population>Analyzed on an intention to treat as well as per protocol analysis</population>
+        <group_list>
+          <group group_id="O1">
+            <title>High Dose Anodal tDCS</title>
+            <description>High dose tDCS (2 milliamps twice daily) for 5 days will be administered concomitantly with swallowing exercises&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+          </group>
+          <group group_id="O2">
+            <title>Low Dose Anodal tDCS</title>
+            <description>This arm will use a low dose of current administered via tDCS (2 milliamps once daily) for 5 days will be administered concomitantly with swallowing exercises&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+          </group>
+          <group group_id="O3">
+            <title>Sham Stimulation</title>
+            <description>Twice daily swallowing exercises only&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>To Assess Safety of tDCS in Acute-subacute Stroke Phase: Number of Participants With Seizures in Each of the 3 Groups</title>
+          <description>We will tabulate the number of participants who develop seizures in the High-dose anodal tDCS, Low-dose anodal tDCS and Sham stimulation groups.</description>
+          <population>Analyzed on an intention to treat as well as per protocol analysis</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="14"/>
+                <count group_id="O2" value="13"/>
+                <count group_id="O3" value="15"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>To Assess Safety of tDCS in Acute-subacute Stroke Phase: Number of Deaths in Each of the 3 Groups Attributable to the Direct Effects of Stroke</title>
+        <description>We will tabulate the number of deaths in High-dose tDCS, Low-dose tDCS and Sham stimulation groups, that are attributable to the direct effects of the qualifying stroke.</description>
+        <time_frame>During the 5 days of stimulation sessions</time_frame>
+        <population>Analyzed on an intention to treat as well as per protocol analysis</population>
+        <group_list>
+          <group group_id="O1">
+            <title>High Dose Anodal tDCS</title>
+            <description>High dose tDCS (2 milliamps twice daily) for 5 days will be administered concomitantly with swallowing exercises&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+          </group>
+          <group group_id="O2">
+            <title>Low Dose Anodal tDCS</title>
+            <description>This arm will use a low dose of current administered via tDCS (2 milliamps once daily) for 5 days will be administered concomitantly with swallowing exercises&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+          </group>
+          <group group_id="O3">
+            <title>Sham Stimulation</title>
+            <description>Twice daily swallowing exercises only&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>To Assess Safety of tDCS in Acute-subacute Stroke Phase: Number of Deaths in Each of the 3 Groups Attributable to the Direct Effects of Stroke</title>
+          <description>We will tabulate the number of deaths in High-dose tDCS, Low-dose tDCS and Sham stimulation groups, that are attributable to the direct effects of the qualifying stroke.</description>
+          <population>Analyzed on an intention to treat as well as per protocol analysis</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="14"/>
+                <count group_id="O2" value="13"/>
+                <count group_id="O3" value="15"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>To Assess Safety of tDCS in Acute-subacute Stroke Phase: Number of Participants With Neurological Deterioration in Each of the 3 Groups</title>
+        <description>We will tabulate the number of participants who develop neurological deterioration in the High-dose tDCS, Low-dose tDCS and Sham groups. Neurological deterioration will be defined as an increase in the total National Institute of Health Stroke Scale (NIHSS) Score by 4 or more points between each successive day. The NIHSS is a 15-item neurologic examination stroke scale used to evaluate the effect of acute cerebral infarction on the levels of consciousness, language, neglect, visual-field loss, extraocular movement, motor strength, ataxia, dysarthria, and sensory loss. NIHSS ranges from 0 (normal) to 42 (worst possible score). Higher scores mean worse neurological functions.</description>
+        <time_frame>During the 5 days of stimulation sessions</time_frame>
+        <population>Analyzed on an intention to treat as well as per protocol analysis</population>
+        <group_list>
+          <group group_id="O1">
+            <title>High Dose Anodal tDCS</title>
+            <description>High dose tDCS (2 milliamps twice daily) for 5 days will be administered concomitantly with swallowing exercises&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+          </group>
+          <group group_id="O2">
+            <title>Low Dose Anodal tDCS</title>
+            <description>This arm will use a low dose of current administered via tDCS (2 milliamps once daily) for 5 days will be administered concomitantly with swallowing exercises&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+          </group>
+          <group group_id="O3">
+            <title>Sham Stimulation</title>
+            <description>Twice daily swallowing exercises only&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>To Assess Safety of tDCS in Acute-subacute Stroke Phase: Number of Participants With Neurological Deterioration in Each of the 3 Groups</title>
+          <description>We will tabulate the number of participants who develop neurological deterioration in the High-dose tDCS, Low-dose tDCS and Sham groups. Neurological deterioration will be defined as an increase in the total National Institute of Health Stroke Scale (NIHSS) Score by 4 or more points between each successive day. The NIHSS is a 15-item neurologic examination stroke scale used to evaluate the effect of acute cerebral infarction on the levels of consciousness, language, neglect, visual-field loss, extraocular movement, motor strength, ataxia, dysarthria, and sensory loss. NIHSS ranges from 0 (normal) to 42 (worst possible score). Higher scores mean worse neurological functions.</description>
+          <population>Analyzed on an intention to treat as well as per protocol analysis</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="14"/>
+                <count group_id="O2" value="13"/>
+                <count group_id="O3" value="15"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>To Assess Safety of tDCS in Acute-subacute Stroke Phase: Number of Participants With Motor Deterioration in Each of the 3 Groups</title>
+        <description>We will tabulate the number of participants with deterioration in their motor functions in the High-dose tDCS, Low-dose tDCS and Sham groups. Motor deterioration will be defined as an increase in the motor sub-item of the National Institute of Health Stroke Scale (NIHSS) score by 2 or more points between each successive day of stimulation. The motor sub-item of the NIHSS ranges from 0 (normal) to 16 (worst possible score), with higher scores indicating a worse motor exam.</description>
+        <time_frame>During the 5 days of stimulation sessions</time_frame>
+        <population>Analyzed on an intention to treat as well as per protocol analysis</population>
+        <group_list>
+          <group group_id="O1">
+            <title>High Dose Anodal tDCS</title>
+            <description>High dose tDCS (2 milliamps twice daily) for 5 days will be administered concomitantly with swallowing exercises&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+          </group>
+          <group group_id="O2">
+            <title>Low Dose Anodal tDCS</title>
+            <description>This arm will use a low dose of current administered via tDCS (2 milliamps once daily) for 5 days will be administered concomitantly with swallowing exercises&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+          </group>
+          <group group_id="O3">
+            <title>Sham Stimulation</title>
+            <description>Twice daily swallowing exercises only&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>To Assess Safety of tDCS in Acute-subacute Stroke Phase: Number of Participants With Motor Deterioration in Each of the 3 Groups</title>
+          <description>We will tabulate the number of participants with deterioration in their motor functions in the High-dose tDCS, Low-dose tDCS and Sham groups. Motor deterioration will be defined as an increase in the motor sub-item of the National Institute of Health Stroke Scale (NIHSS) score by 2 or more points between each successive day of stimulation. The motor sub-item of the NIHSS ranges from 0 (normal) to 16 (worst possible score), with higher scores indicating a worse motor exam.</description>
+          <population>Analyzed on an intention to treat as well as per protocol analysis</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="14"/>
+                <count group_id="O2" value="13"/>
+                <count group_id="O3" value="15"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>To Assess Safety of tDCS in Acute-subacute Stroke Phase: Number of Participants With Swallowing Deterioration in Each of the 3 Groups</title>
+        <description>We will tabulate the number of participants with swallowing deterioration in the High-dose tDCS, Low-dose tDCS and sham groups Swallowing deterioration will be defined as an increase in the score by 2 or more points in the Functional Oral Intake Scale (FOIS). FOIS provides a validated measure of diet level. FOIS is an ordinal scale ranging from 7 (normal diet) to 0 (no oral intake), with lower scores indicating a worse diet.</description>
+        <time_frame>Any change between day 1 and day 3 of stimulation session</time_frame>
+        <population>Analyzed on an intention to treat as well as per protocol analysis</population>
+        <group_list>
+          <group group_id="O1">
+            <title>High Dose Anodal tDCS</title>
+            <description>High dose tDCS (2 milliamps twice daily) for 5 days will be administered concomitantly with swallowing exercises&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+          </group>
+          <group group_id="O2">
+            <title>Low Dose Anodal tDCS</title>
+            <description>This arm will use a low dose of current administered via tDCS (2 milliamps once daily) for 5 days will be administered concomitantly with swallowing exercises&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+          </group>
+          <group group_id="O3">
+            <title>Sham Stimulation</title>
+            <description>Twice daily swallowing exercises only&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>To Assess Safety of tDCS in Acute-subacute Stroke Phase: Number of Participants With Swallowing Deterioration in Each of the 3 Groups</title>
+          <description>We will tabulate the number of participants with swallowing deterioration in the High-dose tDCS, Low-dose tDCS and sham groups Swallowing deterioration will be defined as an increase in the score by 2 or more points in the Functional Oral Intake Scale (FOIS). FOIS provides a validated measure of diet level. FOIS is an ordinal scale ranging from 7 (normal diet) to 0 (no oral intake), with lower scores indicating a worse diet.</description>
+          <population>Analyzed on an intention to treat as well as per protocol analysis</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="14"/>
+                <count group_id="O2" value="13"/>
+                <count group_id="O3" value="15"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>To Assess and Compare Changes in Dietary Intake in Each of the Three Groups</title>
+        <description>The durability of any observed effects of the intervention on dietary status will be estimated by changes in Functional Oral Intake Scale (FOIS) score. FOIS is an ordinal scale ranging from 1 (worst) to 7 (normal oral diet) and provides a reliable measure of dietary intake. The change in FOIS scores across each group will be compared.</description>
+        <time_frame>At study onset and after 1 month</time_frame>
+        <population>Analyzed on an intention to treat analysis</population>
+        <group_list>
+          <group group_id="O1">
+            <title>High Dose Anodal tDCS</title>
+            <description>High dose tDCS (2 milliamps twice daily) for 5 days will be administered concomitantly with swallowing exercises&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+          </group>
+          <group group_id="O2">
+            <title>Low Dose Anodal tDCS</title>
+            <description>This arm will use a low dose of current administered via tDCS (2 milliamps once daily) for 5 days will be administered concomitantly with swallowing exercises&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+          </group>
+          <group group_id="O3">
+            <title>Sham Stimulation</title>
+            <description>Twice daily swallowing exercises only&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>To Assess and Compare Changes in Dietary Intake in Each of the Three Groups</title>
+          <description>The durability of any observed effects of the intervention on dietary status will be estimated by changes in Functional Oral Intake Scale (FOIS) score. FOIS is an ordinal scale ranging from 1 (worst) to 7 (normal oral diet) and provides a reliable measure of dietary intake. The change in FOIS scores across each group will be compared.</description>
+          <population>Analyzed on an intention to treat analysis</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+                <count group_id="O2" value="12"/>
+                <count group_id="O3" value="14"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.9" spread="1.2"/>
+                    <measurement group_id="O2" value="2.5" spread="1.7"/>
+                    <measurement group_id="O3" value="2.1" spread="1.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>To Assess Changes in Physiological Measures of Pharyngeal Strength</title>
+        <description>Examining effects of differing doses of anodal tDCS versus sham stimulation on Pharyngeal Constriction Ratio (PCR), derived from videofluoroscopic swallowing studies.PCR is a measure of the pharyngeal area visible in the lateral radiograph view at the point when a bolus is held in the oral cavity divided by the pharyngeal area at the point of maximum pharyngeal constriction during the swallow. A higher PCR indicates a weak swallow leading to increased food residue in the pharynx.</description>
+        <time_frame>Variables will be measured at baseline (before starting tDCS) and after 5 days after completion of stimulation</time_frame>
+        <population>Analyzed on an intention to treat as well as per protocol analysis</population>
+        <group_list>
+          <group group_id="O1">
+            <title>High Dose Anodal tDCS</title>
+            <description>High dose tDCS (2 milliamps twice daily) for 5 days will be administered concomitantly with swallowing exercises&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+          </group>
+          <group group_id="O2">
+            <title>Low Dose Anodal tDCS</title>
+            <description>This arm will use a low dose of current administered via tDCS (2 milliamps once daily) for 5 days will be administered concomitantly with swallowing exercises&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+          </group>
+          <group group_id="O3">
+            <title>Sham Stimulation</title>
+            <description>Twice daily swallowing exercises only&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>To Assess Changes in Physiological Measures of Pharyngeal Strength</title>
+          <description>Examining effects of differing doses of anodal tDCS versus sham stimulation on Pharyngeal Constriction Ratio (PCR), derived from videofluoroscopic swallowing studies.PCR is a measure of the pharyngeal area visible in the lateral radiograph view at the point when a bolus is held in the oral cavity divided by the pharyngeal area at the point of maximum pharyngeal constriction during the swallow. A higher PCR indicates a weak swallow leading to increased food residue in the pharynx.</description>
+          <population>Analyzed on an intention to treat as well as per protocol analysis</population>
+          <units>Ratio</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="14"/>
+                <count group_id="O2" value="13"/>
+                <count group_id="O3" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.01" spread="0.09"/>
+                    <measurement group_id="O2" value="-0.1" spread="0.12"/>
+                    <measurement group_id="O3" value="-0.02" spread="0.06"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>To Assess Changes in Physiological Measures of Briskness of Swallow Onset</title>
+        <description>Examining effects of differing doses of anodal tDCS versus sham stimulation on Pharyngeal Delay Time (PDT) , derived from videofluoroscopic swallowing studies. PDT is defined as the time in centiseconds that the bolus is present in the hypopharynx before the swallow is triggered. PDT is a temporal measure of the briskness of the swallow onset.</description>
+        <time_frame>Variables will be measured at baseline (before starting tDCS) and after 5 days after completion of stimulation</time_frame>
+        <population>Analyzed on an intention to treat as well as per protocol analysis</population>
+        <group_list>
+          <group group_id="O1">
+            <title>High Dose Anodal tDCS</title>
+            <description>High dose tDCS (2 milliamps twice daily) for 5 days will be administered concomitantly with swallowing exercises&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+          </group>
+          <group group_id="O2">
+            <title>Low Dose Anodal tDCS</title>
+            <description>This arm will use a low dose of current administered via tDCS (2 milliamps once daily) for 5 days will be administered concomitantly with swallowing exercises&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+          </group>
+          <group group_id="O3">
+            <title>Sham Stimulation</title>
+            <description>Twice daily swallowing exercises only&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>To Assess Changes in Physiological Measures of Briskness of Swallow Onset</title>
+          <description>Examining effects of differing doses of anodal tDCS versus sham stimulation on Pharyngeal Delay Time (PDT) , derived from videofluoroscopic swallowing studies. PDT is defined as the time in centiseconds that the bolus is present in the hypopharynx before the swallow is triggered. PDT is a temporal measure of the briskness of the swallow onset.</description>
+          <population>Analyzed on an intention to treat as well as per protocol analysis</population>
+          <units>centiseconds</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="13"/>
+                <count group_id="O2" value="11"/>
+                <count group_id="O3" value="14"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.2" spread="21.3"/>
+                    <measurement group_id="O2" value="-7.3" spread="43.4"/>
+                    <measurement group_id="O3" value="0.83" spread="20.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>To Assess Changes in Physiological Measures of Laryngeal Excursion</title>
+        <description>Examining effects of differing doses of anodal tDCS versus sham stimulation on measure of actual excursion of the larynx in centimeters from their resting point to maximal excursion, derived from videofluoroscopic swallowing studies.</description>
+        <time_frame>Variables will be measured at baseline (before starting tDCS) and after 5 days after completion of stimulation</time_frame>
+        <population>Analyzed on an intention to treat as well as per protocol analysis</population>
+        <group_list>
+          <group group_id="O1">
+            <title>High Dose Anodal tDCS</title>
+            <description>High dose tDCS (2 milliamps twice daily) for 5 days will be administered concomitantly with swallowing exercises&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+          </group>
+          <group group_id="O2">
+            <title>Low Dose Anodal tDCS</title>
+            <description>This arm will use a low dose of current administered via tDCS (2 milliamps once daily) for 5 days will be administered concomitantly with swallowing exercises&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+          </group>
+          <group group_id="O3">
+            <title>Sham Stimulation</title>
+            <description>Twice daily swallowing exercises only&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>To Assess Changes in Physiological Measures of Laryngeal Excursion</title>
+          <description>Examining effects of differing doses of anodal tDCS versus sham stimulation on measure of actual excursion of the larynx in centimeters from their resting point to maximal excursion, derived from videofluoroscopic swallowing studies.</description>
+          <population>Analyzed on an intention to treat as well as per protocol analysis</population>
+          <units>centimeters</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+                <count group_id="O2" value="9"/>
+                <count group_id="O3" value="12"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.07" spread="0.81"/>
+                    <measurement group_id="O2" value="0.17" spread="1.4"/>
+                    <measurement group_id="O3" value="0.14" spread="0.67"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in PAS Scores as an Indicator of Dysphagia Recovery After Covariate Adjustment</title>
+        <description>We will examine the effects of the intervention in a linear model by using it as a predictor for dysphagia recovery along with other variables of interest [age, baseline National Institute of Health Stroke Scale and Penetration and Aspiration Scale (PAS) scores], with a change in PAS scores from baseline to day 5 of the intervention, as being the outcome of interest.</description>
+        <time_frame>At day 5 of study participation</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>High Dose Anodal tDCS</title>
+            <description>High dose tDCS (2 milliamps twice daily) for 5 days will be administered concomitantly with swallowing exercises&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+          </group>
+          <group group_id="O2">
+            <title>Low Dose Anodal tDCS</title>
+            <description>This arm will use a low dose of current administered via tDCS (2 milliamps once daily) for 5 days will be administered concomitantly with swallowing exercises&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+          </group>
+          <group group_id="O3">
+            <title>Sham Stimulation</title>
+            <description>Twice daily swallowing exercises only&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in PAS Scores as an Indicator of Dysphagia Recovery After Covariate Adjustment</title>
+          <description>We will examine the effects of the intervention in a linear model by using it as a predictor for dysphagia recovery along with other variables of interest [age, baseline National Institute of Health Stroke Scale and Penetration and Aspiration Scale (PAS) scores], with a change in PAS scores from baseline to day 5 of the intervention, as being the outcome of interest.</description>
+          <units>score on a scale</units>
+          <param>Median</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="14"/>
+                <count group_id="O2" value="13"/>
+                <count group_id="O3" value="15"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.34" spread="0.35"/>
+                    <measurement group_id="O2" value="-0.81" spread="0.36"/>
+                    <measurement group_id="O3" value="-0.96" spread="0.33"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+              <group_id>O3</group_id>
+            </group_id_list>
+            <groups_desc>The aim for this analysis was to assess for effect modification of the trial intervention across the novel radiological variable corticobulbar tract-lesion load.</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <non_inferiority_desc>Regression models using interaction terms will used to assess for heterogeneity of intervention effects across the novel radiological variable corticobulbar tract (CBT)-lesion load, a combined measure of lesion size and location. For purposes of the analysis, the CBT-lesion load was dichotomized into 2 groups based on the median CBT-lesion load volume.</non_inferiority_desc>
+            <p_value>0.116</p_value>
+            <p_value_desc>Interaction p-values will be considered statistically significant at the 0.15 level of significance given the relatively low power for tests of interaction to detect a true interaction.</p_value_desc>
+            <method>2-way analysis of variance with interact</method>
+            <method_desc>The tDCS intervention was the main variable of interest, PAS score the main outcome and CBT-lesion load was the interaction term used.</method_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Adverse event data were collected over the entire duration of patient follow-up (30 days since trial enrollment).</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>High Dose Anodal tDCS</title>
+          <description>High dose tDCS (2 milliamps twice daily) for 5 days will be administered concomitantly with swallowing exercises&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+        </group>
+        <group group_id="E2">
+          <title>Low Dose Anodal tDCS</title>
+          <description>This arm will use a low dose of current administered via tDCS (2 milliamps once daily) for 5 days will be administered concomitantly with swallowing exercises&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+        </group>
+        <group group_id="E3">
+          <title>Sham Stimulation</title>
+          <description>Twice daily swallowing exercises only&#xD;
+tDCS: Anodal tDCS will be administered with swallowing exercises</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="13"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="15"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="13"/>
+                <counts group_id="E3" subjects_affected="2" subjects_at_risk="15"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Pneumonia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="13"/>
+                <counts group_id="E3" events="2" subjects_affected="2" subjects_at_risk="15"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pulmonary embolism</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="13"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="15"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>3</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="14"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="13"/>
+                <counts group_id="E3" subjects_affected="3" subjects_at_risk="15"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Tachycardia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="13"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="15"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Endocrine disorders</title>
+            <event_list>
+              <event>
+                <sub_title>hyperglycemia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="13"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="15"/>
+              </event>
+              <event>
+                <sub_title>Metabolic disorder</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="13"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="15"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>diarrhea</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="13"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="15"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Fever</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="13"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="15"/>
+              </event>
+              <event>
+                <sub_title>Urinary tract infection</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="13"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="15"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Sandeep Kumar, MD</name_or_title>
+      <organization>Beth Israel Deaconess Medical Center</organization>
+      <phone>617-632-8917</phone>
+      <email>skumar@bidmc.harvard.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

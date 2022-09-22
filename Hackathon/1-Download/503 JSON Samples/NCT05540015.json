@@ -1,0 +1,367 @@
+{
+  "FullStudy":{
+    "Rank":502,
+    "Study":{
+      "ProtocolSection":{
+        "IdentificationModule":{
+          "NCTId":"NCT05540015",
+          "OrgStudyIdInfo":{
+            "OrgStudyId":"6482963527"
+          },
+          "Organization":{
+            "OrgFullName":"I.M. Sechenov First Moscow State Medical University",
+            "OrgClass":"OTHER"
+          },
+          "BriefTitle":"Use of Erbium Laser for Extraction of the Third Molars",
+          "OfficialTitle":"Use of Erbium Laser With the Wavelength 2.94 nm for Extraction of the Impacted Lower Third Molars"
+        },
+        "StatusModule":{
+          "StatusVerifiedDate":"September 2022",
+          "OverallStatus":"Not yet recruiting",
+          "ExpandedAccessInfo":{
+            "HasExpandedAccess":"No"
+          },
+          "StartDateStruct":{
+            "StartDate":"December 2022",
+            "StartDateType":"Anticipated"
+          },
+          "PrimaryCompletionDateStruct":{
+            "PrimaryCompletionDate":"August 2024",
+            "PrimaryCompletionDateType":"Anticipated"
+          },
+          "CompletionDateStruct":{
+            "CompletionDate":"August 2025",
+            "CompletionDateType":"Anticipated"
+          },
+          "StudyFirstSubmitDate":"September 9, 2022",
+          "StudyFirstSubmitQCDate":"September 9, 2022",
+          "StudyFirstPostDateStruct":{
+            "StudyFirstPostDate":"September 14, 2022",
+            "StudyFirstPostDateType":"Actual"
+          },
+          "LastUpdateSubmitDate":"September 9, 2022",
+          "LastUpdatePostDateStruct":{
+            "LastUpdatePostDate":"September 14, 2022",
+            "LastUpdatePostDateType":"Actual"
+          }
+        },
+        "SponsorCollaboratorsModule":{
+          "ResponsibleParty":{
+            "ResponsiblePartyType":"Sponsor"
+          },
+          "LeadSponsor":{
+            "LeadSponsorName":"I.M. Sechenov First Moscow State Medical University",
+            "LeadSponsorClass":"OTHER"
+          }
+        },
+        "OversightModule":{
+          "OversightHasDMC":"Yes",
+          "IsFDARegulatedDrug":"No",
+          "IsFDARegulatedDevice":"No"
+        },
+        "DescriptionModule":{
+          "BriefSummary":"A comparative analysis of the effectiveness of the erbium laser with the wavelength of 2.94 µm and traditional instruments in the extraction of the impacted lower third molars will be performed. Clinical, radiological and biochemical findings will be assessed after extraction of the impacted lower third molars.",
+          "DetailedDescription":"A single-centre, interventional, non-randomized, prospective clinical trial in 2 parallel groups is planned. The lower third molars will be extracted in 60 patients. There will be 2 groups. The number of men and women in both groups will be the same, the patients age will be between 18 and 70 years. In the study group the lower third molars will be extracted using erbium laser with a wavelength of 2.94 µm (Erbium laser Smart 2940D plus with the wavelength 2,94 µm, company- DEKA, Italy, registration № 2005/1245), in the control group the lower third molars will be extracted using the conventional method (cutting and rotating instruments). Postoperative clinical symptoms such as collateral soft tissue swelling, postoperative pain, trismus in the extraction site and healing time (epithelization and bone regeneration) will be assessed. The epithelization will be assessed after 7, 10, 14 days. The bone regeneration will be assessed by cone beam computed tomography (KAVO, ORTHOPANTOMOGRAPH ОР 3D, type: РСХ-1; registration № РЗН 2020/10586) after 1, 3, 6 months. The radiation exposure will not exceed the permissible limits. Biochemical indicators in the saliva will be assessed before extraction, after extraction, 3 days and 7 days after the extraction. The Shapiro-Wilk test will be applied to check the normality of variable distribu- tion. Qualitative variables will be analyzed by Pearson's chi-squared test. Quantitative variables (normal distribution of variable) will be analyzed by Students t-test, non-normal distribution of variables will be analyzed by Mann-Whitney U test."
+        },
+        "ConditionsModule":{
+          "ConditionList":{
+            "Condition":[
+              "Third Molar Extraction",
+              "Impacted Third Molar Tooth"
+            ]
+          },
+          "KeywordList":{
+            "Keyword":[
+              "Impacted third molars",
+              "Erbium laser",
+              "Atraumatic extraction"
+            ]
+          }
+        },
+        "DesignModule":{
+          "StudyType":"Interventional",
+          "PhaseList":{
+            "Phase":[
+              "Not Applicable"
+            ]
+          },
+          "DesignInfo":{
+            "DesignAllocation":"Non-Randomized",
+            "DesignInterventionModel":"Parallel Assignment",
+            "DesignPrimaryPurpose":"Treatment",
+            "DesignMaskingInfo":{
+              "DesignMasking":"None (Open Label)"
+            }
+          },
+          "EnrollmentInfo":{
+            "EnrollmentCount":"60",
+            "EnrollmentType":"Anticipated"
+          }
+        },
+        "ArmsInterventionsModule":{
+          "ArmGroupList":{
+            "ArmGroup":[
+              {
+                "ArmGroupLabel":"Group with impacted third molar, extracted by cutting and rotary tools",
+                "ArmGroupType":"Active Comparator",
+                "ArmGroupDescription":"The study group will include 28 patients with indications (impacted third molars that exerts pressure on the adjacent tooth and cause inflammation process in the surrounding tissue; absence of antagonist; pericorinitis; periodontitis; periodontal pockets) for the impacted third molar extraction. Patients will be comparable by gender and age, the patients age will be between 18 and 70 years. Patients should be with therapeutic and surgical oral hygiene and without co-morbidities.",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Procedure: Third molar extraction by cutting and rotary tools"
+                  ]
+                }
+              },{
+                "ArmGroupLabel":"Group with impacted third molar, extracted by erbium laser 2.94 nm",
+                "ArmGroupType":"Active Comparator",
+                "ArmGroupDescription":"The study group will include 28 patients with indications (impacted third molars that exerts pressure on the adjacent tooth and cause inflammation process in the surrounding tissue; absence of antagonist; pericorinitis; periodontitis; periodontal pockets) for the impacted third molar extraction.Patients will be comparable by gender and age, the patients age will be between 18 and 70 years. Patients should be with therapeutic and surgical oral hygiene and without co-morbidities.",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Procedure: Third molar extraction by erbium laser with wavelength 2.94 nm"
+                  ]
+                }
+              }
+            ]
+          },
+          "InterventionList":{
+            "Intervention":[
+              {
+                "InterventionType":"Procedure",
+                "InterventionName":"Third molar extraction by cutting and rotary tools",
+                "InterventionDescription":"Extraction of the impacted lower third molar will be conducted using cutting and rotary tools under the local anesthesia (Ultracain D-S 1:100000 40 mg/ml, active substance- articaine+epinephrine, registration № П N015119/01 ). Scalpel will be used for the incision of the soft tissues, rotary instruments will be used for the bone tissue and tooth fragmentation. After the extraction the wound will be sutured by the suture material.",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Group with impacted third molar, extracted by cutting and rotary tools"
+                  ]
+                }
+              },{
+                "InterventionType":"Procedure",
+                "InterventionName":"Third molar extraction by erbium laser with wavelength 2.94 nm",
+                "InterventionDescription":"Extraction of the impacted lower third molar will be conducted using erbium laser with wavelength 2.94 nm under the local anesthesia (Ultracain D-S 1:100000 40 mg/ml, active substance- articaine+epinephrine, registration № П N015119/01 ). The soft tissue and bone tissue will be dissected by erbium laser with wavelength 2.94 µm (Erbium laser Smart 2940D plus with the wavelength 2,94 µm, company- DEKA, Italy, registration № 2005/1245). After the extraction the wound will be sutured by the suture material (registration № ФСЗ 2010/06040; 07.08.2018)",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Group with impacted third molar, extracted by erbium laser 2.94 nm"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "OutcomesModule":{
+          "PrimaryOutcomeList":{
+            "PrimaryOutcome":[
+              {
+                "PrimaryOutcomeMeasure":"Assessment the level of bone regeneration according to Radiographic bone height (RBH)",
+                "PrimaryOutcomeDescription":"Assessment the level of bone regeneration according to Radiographic bone height (RBH) by cone beam computed tomography after extraction of the lower third molar. (Radiographic bone height (RBH)- is the distance between root apex of the distal root and uppermost intersecting point between distal root of the second molar and mesial wall of extraction socket, it will be measured on the cone beam computed tomography)",
+                "PrimaryOutcomeTimeFrame":"Days 180 after extraction"
+              }
+            ]
+          },
+          "SecondaryOutcomeList":{
+            "SecondaryOutcome":[
+              {
+                "SecondaryOutcomeMeasure":"Radiographic bone height (RBH)",
+                "SecondaryOutcomeDescription":"Assessment the level of bone regeneration according to Radiographic bone height (RBH) by cone beam computed tomography after extraction of the lower third molar with erbium laser. (Radiographic bone height (RBH)- is the distance between root apex of the distal root of the second molar and uppermost intersecting point between distal root of the second molar and mesial wall of extraction socket, it will be measured on the cone beam computed tomography)",
+                "SecondaryOutcomeTimeFrame":"3;6 months"
+              },{
+                "SecondaryOutcomeMeasure":"Radiographic infrabony defect (RID)",
+                "SecondaryOutcomeDescription":"Assessment the level of bone regeneration according to Radiographic infrabony defect (RID) by cone beam computed tomography after extraction of the lower third molar with erbium laser. (Radiographic infrabony defect (RID) is the distance between cemento-enamel junction of the second molar and uppermost intersecting point between distal root of the second molar and mesial wall of extraction socket; it will be measured on the cone beam computed tomography)",
+                "SecondaryOutcomeTimeFrame":"3;6 months"
+              },{
+                "SecondaryOutcomeMeasure":"Post-operative pain",
+                "SecondaryOutcomeDescription":"Post-operative pain will be assessed by 10-point visual analogue scale (VAS) in the area of the extracted tooth",
+                "SecondaryOutcomeTimeFrame":"1;3;5;7;10 days"
+              },{
+                "SecondaryOutcomeMeasure":"Post-operative oedema",
+                "SecondaryOutcomeDescription":"Assessment the soft tissue epithelization using six-point Visual Analogue Scale (VAS) of swelling, where 0 indicates \"no swelling\", and 5 indicates \"extreme severe swelling",
+                "SecondaryOutcomeTimeFrame":"1;3;5;7;10 days"
+              },{
+                "SecondaryOutcomeMeasure":"Soft tissue epithelization",
+                "SecondaryOutcomeDescription":"Assessment the soft tissue epithelization using a photoprotocol (the day on which full tissue regeneration has taken place will be taken into account)",
+                "SecondaryOutcomeTimeFrame":"7;10;14"
+              },{
+                "SecondaryOutcomeMeasure":"Trismus",
+                "SecondaryOutcomeDescription":"Assessment the distance between upper and lower incisors in mm",
+                "SecondaryOutcomeTimeFrame":"1;3;5;7;10 days"
+              },{
+                "SecondaryOutcomeMeasure":"sRANKL (soluble receptor activator of nuclear factor-κB ligand)",
+                "SecondaryOutcomeDescription":"Assessment the level of sRANKL in saliva by enzyme-linked immunosorbent assay, ELISA",
+                "SecondaryOutcomeTimeFrame":"before surgery, after surgery, 3;7 days"
+              },{
+                "SecondaryOutcomeMeasure":"OPG (osteoprotegerin)",
+                "SecondaryOutcomeDescription":"Assessment the level of OPG in saliva by enzyme-linked immunosorbent assay, ELISA",
+                "SecondaryOutcomeTimeFrame":"before surgery, after surgery, 3;7 days"
+              },{
+                "SecondaryOutcomeMeasure":"Fibroblast growth factor-b (FGF-b)",
+                "SecondaryOutcomeDescription":"Assessment the level of FGF-b in saliva",
+                "SecondaryOutcomeTimeFrame":"before surgery, after surgery, 3;7 days"
+              },{
+                "SecondaryOutcomeMeasure":"C-reactive protein (CRP)",
+                "SecondaryOutcomeDescription":"Assessment the level of CRP in saliva by enzyme-linked immunosorbent assay",
+                "SecondaryOutcomeTimeFrame":"before surgery, after surgery, 3;7 days"
+              },{
+                "SecondaryOutcomeMeasure":"IgA",
+                "SecondaryOutcomeDescription":"Assessment the level of IgA in saliva by enzyme-linked immunosorbent assay",
+                "SecondaryOutcomeTimeFrame":"before surgery, after surgery, 3;7 days"
+              },{
+                "SecondaryOutcomeMeasure":"IgG",
+                "SecondaryOutcomeDescription":"Assessment the level of IgG in saliva by enzyme-linked immunosorbent assay",
+                "SecondaryOutcomeTimeFrame":"before surgery, after surgery, 3;7 days"
+              },{
+                "SecondaryOutcomeMeasure":"IgM",
+                "SecondaryOutcomeDescription":"Assessment the level of IgM in saliva by enzyme-linked immunosorbent assay",
+                "SecondaryOutcomeTimeFrame":"before surgery, after surgery, 3;7 days"
+              },{
+                "SecondaryOutcomeMeasure":"Vascular endothelial growth factor (VEGF)",
+                "SecondaryOutcomeDescription":"Assessment the level of VEGF in saliva by enzyme-linked immunosorbent assay",
+                "SecondaryOutcomeTimeFrame":"before surgery, after surgery, 3;7 days"
+              }
+            ]
+          }
+        },
+        "EligibilityModule":{
+          "EligibilityCriteria":"Inclusion Criteria:\n\nSigning of written informed consent of the patient to participate in a study\nAge from 25 to 50 years old\nIndications for impacted third molar extraction\nPatients who are medically stable\nTherapeutic and surgical oral hygiene before surgery (absence of inflammatory diseases, caries, pulpitis, periodontitis in oral cavity)\n\nExclusion Criteria:\n\nRefusal of the patient from further participation in the study\nPregnancy diagnosed after the inclusion into the trial\nNon-compliance by the patient with postoperative recommendations\nAbsence of a lower second molar",
+          "HealthyVolunteers":"No",
+          "Gender":"All",
+          "MinimumAge":"25 Years",
+          "MaximumAge":"70 Years",
+          "StdAgeList":{
+            "StdAge":[
+              "Adult",
+              "Older Adult"
+            ]
+          }
+        },
+        "ContactsLocationsModule":{
+          "CentralContactList":{
+            "CentralContact":[
+              {
+                "CentralContactName":"Svetlana Tarasenko",
+                "CentralContactRole":"Contact",
+                "CentralContactPhone":"+7-985-773-48-53",
+                "CentralContactEMail":"tarasenko_s_v@staff.sechenov.ru"
+              },{
+                "CentralContactName":"Diana Sologova",
+                "CentralContactRole":"Contact",
+                "CentralContactPhone":"+7-919-997-57-81",
+                "CentralContactEMail":"sologova_d_i@student.sechenov.ru"
+              }
+            ]
+          },
+          "OverallOfficialList":{
+            "OverallOfficial":[
+              {
+                "OverallOfficialName":"Diana Sologova",
+                "OverallOfficialAffiliation":"I.M. Sechenov First Moscow State Medical University (Sechenov University)",
+                "OverallOfficialRole":"Principal Investigator"
+              }
+            ]
+          }
+        },
+        "IPDSharingStatementModule":{
+          "IPDSharing":"No",
+          "IPDSharingDescription":"No, dissemination of data is prohibited by the local ethics committee"
+        }
+      },
+      "DerivedSection":{
+        "MiscInfoModule":{
+          "VersionHolder":"September 19, 2022"
+        },
+        "ConditionBrowseModule":{
+          "ConditionMeshList":{
+            "ConditionMesh":[
+              {
+                "ConditionMeshId":"D000014095",
+                "ConditionMeshTerm":"Tooth, Impacted"
+              }
+            ]
+          },
+          "ConditionAncestorList":{
+            "ConditionAncestor":[
+              {
+                "ConditionAncestorId":"D000014076",
+                "ConditionAncestorTerm":"Tooth Diseases"
+              },{
+                "ConditionAncestorId":"D000009057",
+                "ConditionAncestorTerm":"Stomatognathic Diseases"
+              }
+            ]
+          },
+          "ConditionBrowseLeafList":{
+            "ConditionBrowseLeaf":[
+              {
+                "ConditionBrowseLeafId":"M16002",
+                "ConditionBrowseLeafName":"Tooth, Impacted",
+                "ConditionBrowseLeafAsFound":"Impacted",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M15983",
+                "ConditionBrowseLeafName":"Tooth Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M11169",
+                "ConditionBrowseLeafName":"Stomatognathic Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              }
+            ]
+          },
+          "ConditionBrowseBranchList":{
+            "ConditionBrowseBranch":[
+              {
+                "ConditionBrowseBranchAbbrev":"BC07",
+                "ConditionBrowseBranchName":"Mouth and Tooth Diseases"
+              },{
+                "ConditionBrowseBranchAbbrev":"All",
+                "ConditionBrowseBranchName":"All Conditions"
+              }
+            ]
+          }
+        },
+        "InterventionBrowseModule":{
+          "InterventionBrowseLeafList":{
+            "InterventionBrowseLeaf":[
+              {
+                "InterventionBrowseLeafId":"M3259",
+                "InterventionBrowseLeafName":"Anesthetics",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M7144",
+                "InterventionBrowseLeafName":"Epinephrine",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M4761",
+                "InterventionBrowseLeafName":"Carticaine",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M29524",
+                "InterventionBrowseLeafName":"Racepinephrine",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M211051",
+                "InterventionBrowseLeafName":"Epinephryl borate",
+                "InterventionBrowseLeafRelevance":"low"
+              }
+            ]
+          },
+          "InterventionBrowseBranchList":{
+            "InterventionBrowseBranch":[
+              {
+                "InterventionBrowseBranchAbbrev":"CNSDep",
+                "InterventionBrowseBranchName":"Central Nervous System Depressants"
+              },{
+                "InterventionBrowseBranchAbbrev":"All",
+                "InterventionBrowseBranchName":"All Drugs and Chemicals"
+              },{
+                "InterventionBrowseBranchAbbrev":"VaCoAg",
+                "InterventionBrowseBranchName":"Vasoconstrictor Agents"
+              },{
+                "InterventionBrowseBranchAbbrev":"Resp",
+                "InterventionBrowseBranchName":"Respiratory System Agents"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+

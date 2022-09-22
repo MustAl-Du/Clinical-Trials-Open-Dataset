@@ -1,0 +1,1799 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3747">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00894686</url>
+  </required_header>
+  <id_info>
+    <org_study_id>700802</org_study_id>
+    <secondary_id>B9371021</secondary_id>
+    <secondary_id>2009-009324-36</secondary_id>
+    <nct_id>NCT00894686</nct_id>
+  </id_info>
+  <brief_title>Tick-Borne Encephalitis (TBE) Seropersistence After First Booster and Response to a Second Booster in Children, Adolescents and Young Adults (Follow-Up to Study 700401)</brief_title>
+  <official_title>Open-label Phase Iv Study To Investigate The Seropersistence Of Tick-borne Encephalitis (Tbe) Virus Antibodies After The First Booster And The Response To A Second Booster Vaccination With Fsme-immun In Children, Adolescents And Young Adults (Follow-up To Study 700401)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Pfizer</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main purpose of this study is to assess the seropersistence of TBE virus antibodies in&#xD;
+      children, adolescents and young adults who received the first booster vaccination with either&#xD;
+      FSME-IMMUN 0.25 mL Junior or FSME-IMMUN 0.5 mL in precursor Study 700401.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 26, 2009</start_date>
+  <completion_date type="Actual">May 10, 2017</completion_date>
+  <primary_completion_date type="Actual">May 10, 2017</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Seropositivity Rate Measured by Neutralization Test (NT) at 21-35 Days After the First Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700401</measure>
+    <time_frame>21-35 days after first TBE booster vaccination</time_frame>
+    <description>Seropositivity rate was reported as percentage of participants with NT level greater than equal to (&gt;=) 10 at 21-35 days after the first TBE booster vaccination in Study 700401. Exact 2-sided 95 percent confidence interval (CI) was based upon the observed percentage of participants.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Seropositivity Rate Measured by Neutralization Test (NT) at 38 Months After the First Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700401</measure>
+    <time_frame>38 months after first TBE booster vaccination</time_frame>
+    <description>Seropositivity rate was reported as percentage of participants with NT level &gt;=10 at 38 months after the first TBE booster vaccination in Study 700401. Exact 2-sided 95 percent confidence interval (CI) was based upon the observed percentage of participants.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Seropositivity Rate Measured by Neutralization Test (NT) at 46 Months After the First Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700401</measure>
+    <time_frame>46 months after first TBE booster vaccination</time_frame>
+    <description>Seropositivity rate was reported as percentage of participants with NT level &gt;=10 at 46 months after the first TBE booster vaccination in Study 700401. Exact 2-sided 95 percent CI was based upon the observed percentage of participants.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Seropositivity Rate Measured by Neutralization Test (NT) at 58 Months After the First Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700401</measure>
+    <time_frame>58 months after first TBE booster vaccination</time_frame>
+    <description>Seropositivity rate was reported as percentage of participants with NT level &gt;=10 at 58 months after the first TBE booster vaccination in Study 700401. Exact 2-sided 95 percent CI was based upon the observed percentage of participants.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Seropositivity Rate Measured by Neutralization Test (NT) at 70 Months After the First Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700401</measure>
+    <time_frame>70 months after first TBE booster vaccination</time_frame>
+    <description>Seropositivity rate was reported as percentage of participants with NT level &gt;=10 at 70 months after the first TBE booster vaccination in Study 700401. Exact 2-sided 95 percent CI was based upon the observed percentage of participants.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Seropositivity Rate Measured by Neutralization Test (NT) at 82 Months After the First Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700401</measure>
+    <time_frame>82 months after first TBE booster vaccination</time_frame>
+    <description>Seropositivity rate was reported as percentage of participants with NT level &gt;=10 at 82 months after the first TBE booster vaccination in Study 700401. Exact 2-sided 95 percent CI was based upon the observed percentage of participants.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Seropositivity Rate Measured by Neutralization Test (NT) at 94 Months After the First Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700401</measure>
+    <time_frame>94 months after first TBE booster vaccination</time_frame>
+    <description>Seropositivity rate was reported as percentage of participants with NT level &gt;=10 at 94 months after the first TBE booster vaccination in Study 700401. Exact 2-sided 95 percent CI was based upon the observed percentage of participants.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Seropositivity Rate Measured by Neutralization Test (NT) at 106 Months After the First Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700401</measure>
+    <time_frame>106 months after first TBE booster vaccination</time_frame>
+    <description>Seropositivity rate was reported as percentage of participants with NT level &gt;=10 at 106 months after the first TBE booster vaccination in Study 700401. Exact 2-sided 95 percent CI was based upon the observed percentage of participants.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Seropositivity Rate Measured by Neutralization Test (NT) at 118 Months After the First Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700401</measure>
+    <time_frame>118 months after first TBE booster vaccination</time_frame>
+    <description>Seropositivity rate was reported as percentage of participants with NT level &gt;=10 at 118 months after the first TBE booster vaccination in Study 700401. Exact 2-sided 95 percent CI was based upon the observed percentage of participants.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Seropositivity Rate Measured by Neutralization Test (NT) at 21-35 Days After the Second Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700802</measure>
+    <time_frame>21-35 days after second TBE booster vaccination</time_frame>
+    <description>Seropositivity rate was reported as percentage of participants with NT level &gt;=10 at 21-35 days after the second TBE booster vaccination. Exact 2-sided 95 percent CI was based upon the observed percentage of participants.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Seropositivity Rate Measured by Enzyme-Linked Immunosorbent Assay (ELISA) at Each Available Time Point After First Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700401</measure>
+    <time_frame>21-35 days and 38, 46, 58, 70, 82, 94, 106, 118 months after first TBE booster vaccination</time_frame>
+    <description>Seropositivity rate was reported as percentage of participants with ELISA level greater than (&gt;) 126 vienna units per milliliter (VIE U/mL) at each blood sampling time point after first TBE booster vaccination in Study 700401. Exact 2-sided 95 percent CI was based upon the observed percentage of participants.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Seropositivity Rate Measured by Enzyme-Linked Immunosorbent Assay (ELISA) at 21-35 Days After Second Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700802</measure>
+    <time_frame>21-35 days after second TBE booster vaccination</time_frame>
+    <description>Seropositivity rate was reported as percentage of participants with ELISA level &gt;126 VIE U/mL at 21-35 days after second TBE booster vaccination. Exact 2-sided 95 percent CI was based upon the observed percentage of participants.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric Mean Concentration Measured by Enzyme-linked Immunosorbent Assay (ELISA) at Each Available Time-Point After First Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700401</measure>
+    <time_frame>21-35 days and 38, 46, 58, 70, 82, 94, 106, 118 months after first TBE booster vaccination</time_frame>
+    <description>Antibody against TBE booster vaccination was measured as geometric mean concentration (GMC) by ELISA level at different time points after first booster vaccination. CIs were computed by back transforming the CIs based on the Student t distribution for the mean logarithm of the concentrations.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric Mean Concentration Measured by Enzyme-linked Immunosorbent Assay (ELISA) at 21-35 Days After Second Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700802</measure>
+    <time_frame>21-35 days after second TBE booster vaccination</time_frame>
+    <description>Antibody against TBE booster vaccination was measured as GMC by ELISA level after the second booster vaccination. CIs were computed by back transforming the CIs based on the Student t distribution for the mean logarithm of the concentrations.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric Mean Titer Measured by Neutralization Test (NT) Each Available Time-Point Blood Draw After First Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700401</measure>
+    <time_frame>21-35 days and 38, 46, 58, 70, 82, 94, 106, 118 months after first TBE booster vaccination</time_frame>
+    <description>Antibody against TBE booster vaccination was measured as geometric mean titer (GMT) by NT level at different time points after first booster vaccination. CIs were computed by back transforming the CIs based on the Student t distribution for the mean logarithm of the titers.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric Mean Titer Measured by Neutralization Test (NT) After Second Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700802</measure>
+    <time_frame>21-35 days after second TBE booster vaccination</time_frame>
+    <description>Antibody against TBE booster vaccination was measured as GMT by NT level after second booster vaccination. CIs were computed by back transforming the CIs based on the Student t distribution for the mean logarithm of the titers.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric Mean Fold Rise (GMFR) in Antibody Concentrations After Second Tick-borne Encephalitis (TBE) Booster Vaccination as Compared to Before the Booster Vaccination as Measured by Enzyme-Linked Immunosorbent Assay (ELISA)</measure>
+    <time_frame>Before second booster vaccination (pre-vaccination), 21-35 days after second booster vaccination</time_frame>
+    <description>GMFR in antibody concentration from pre-booster (before second booster vaccination) to post-booster (21-35 days after TBE vaccination) was measured by ELISA. CIs were computed by back transforming the CIs based on the Student t distribution for the mean logarithm of the titers, concentrations or the fold rises.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric Mean Fold Rise (GMFR) in Antibody Titer After Second Tick-borne Encephalitis (TBE) Booster Vaccination as Compared to Before the Booster Vaccination as Measured by Neutralization Test (NT)</measure>
+    <time_frame>Before second booster vaccination (pre-vaccination), 21-35 days after second booster vaccination</time_frame>
+    <description>GMFR in antibody titers from pre-booster (before second booster vaccination) to post-booster (21-35 days after TBE vaccination) was measured by ELISA. CIs were computed by back transforming the CIs based on the Student t distribution for the mean logarithm of the titers, concentrations or the fold rises.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With Injection Site Reactions and Systemic Reactions After Second Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700802</measure>
+    <time_frame>From second booster vaccination up to 21-35 days after the vaccination</time_frame>
+    <description>Injection site reactions included swelling, induration, redness, injection site pain, tenderness, ecchymosis and hematoma. Systemic reaction included headache, nausea, vomiting, muscle pain, joint pain, swelling of the lymph nodes, malaise and fatigue. Participants with any injection site reaction and systemic reaction after second TBE booster vaccination in Study 700802 were reported in this outcome measure.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">179</enrollment>
+  <condition>Encephalitis, Tick-Borne</condition>
+  <arm_group>
+    <arm_group_label>All subjects</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Assessment of seropersistence of TBE antibodies at yearly intervals from approximately 3 years (38 months) to 10 years (118 months) after the first booster vaccination (in Study 700401), as well as antibody response to a second booster vaccination with either FSME-IMMUN 0.25 mL Junior or FSME-IMMUN 0.5 mL, depending on the subject´s age. Timing of the second booster vaccination will depend on the level of serum TBE antibodies detected at the defined assessment time points. Subjects who are not protected against TBE for an entire further season (NT titer &lt;= 20 and/or ELISA value &lt;=126 VIE U/mL) will be invited to receive the second booster vaccination at either the 40, 48, 60, 72, 84, 96, 108, or 120-month time point.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>FSME-IMMUN 0.25 mL Junior (1.2 µg TBE antigen/0.25 mL) or FSME-IMMUN 0.5 mL (2.4µg TBE antigen/0.5 mL)</intervention_name>
+    <description>Dosage form: solution/suspension; injectable. Dosage frequency: once. Mode of administration: intramuscular.</description>
+    <arm_group_label>All subjects</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Subjects who participated in precursor Study 700401 and meet ALL of the following criteria&#xD;
+        are eligible for participation in this study:&#xD;
+&#xD;
+          -  Subject / parent(s) / legal guardian(s) provide(s) written informed consent (according&#xD;
+             to national law);&#xD;
+&#xD;
+          -  Subject provides written assent to the study according to age and capacity of&#xD;
+             understanding;&#xD;
+&#xD;
+          -  Subject received the first booster vaccination with either FSME-IMMUN 0.25 ml Junior&#xD;
+             or FSME-IMMUN 0.5 ml during the course of precursor Study 700401;&#xD;
+&#xD;
+          -  Blood was drawn after the first booster vaccination in precursor Study 700401;&#xD;
+&#xD;
+          -  Subject / parent(s) / legal guardian(s) understand(s) the nature of the study and is /&#xD;
+             are willing to comply with the requirements of the protocol (e.g. return for follow-up&#xD;
+             visits, completion of the Subject Diary).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Subjects who participated in precursor Study 700401 and meet ANY of the following criteria&#xD;
+        are not eligible for participation in this study:&#xD;
+&#xD;
+          -  Subject received any TBE vaccination since his / her first booster vaccination in&#xD;
+             precursor Study 700401;&#xD;
+&#xD;
+          -  Subject has a history of infection with or vaccination against other flaviviruses&#xD;
+             (e.g. Dengue fever, yellow fever, Japanese B encephalitis) since his / her first&#xD;
+             booster vaccination in precursor Study 700401;&#xD;
+&#xD;
+          -  Subject is known to be HIV positive since his / her first booster vaccination in&#xD;
+             precursor Study 700401 (a special HIV test is not required for the purpose of the&#xD;
+             study);&#xD;
+&#xD;
+          -  Subject received a blood product or immunoglobulins within 90 days before any blood&#xD;
+             draw or in the period between the blood draw and the booster vaccination (as&#xD;
+             applicable);&#xD;
+&#xD;
+          -  Subject has a known or suspected problem with drug or alcohol abuse (&gt; 4 liters of&#xD;
+             wine/week or equivalent level of other alcoholic beverages);&#xD;
+&#xD;
+          -  Subject / parent(s) / legal guardian(s) is / are in a dependent relationship with the&#xD;
+             study investigator or with a study team member. Dependent relationship includes close&#xD;
+             relatives (i.e., children or grandchildren, partner / spouse, siblings) as well as&#xD;
+             employees of the investigator or the site conducting the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>Pfizer</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Eva-Maria Pöllabauer, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Baxter Healthcare Corporation</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Grieskirchnerstr.17</name>
+      <address>
+        <city>Oberösterreich</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Untergraben 2</name>
+      <address>
+        <city>Oberösterreich</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dr. Ulrich Behre</name>
+      <address>
+        <city>Baden-Württemberg</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Niepubliczny Zakład Opieki Zdrowotnej Ośrodek Zdrowia w Lipsku</name>
+      <address>
+        <city>Zamosc</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Austria</country>
+    <country>Germany</country>
+    <country>Poland</country>
+  </location_countries>
+  <verification_date>May 2018</verification_date>
+  <study_first_submitted>April 30, 2009</study_first_submitted>
+  <study_first_submitted_qc>May 6, 2009</study_first_submitted_qc>
+  <study_first_posted type="Estimate">May 7, 2009</study_first_posted>
+  <results_first_submitted>May 9, 2018</results_first_submitted>
+  <results_first_submitted_qc>May 9, 2018</results_first_submitted_qc>
+  <results_first_posted type="Actual">December 17, 2018</results_first_posted>
+  <last_update_submitted>May 9, 2018</last_update_submitted>
+  <last_update_submitted_qc>May 9, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 17, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Encephalitis, Tick-Borne</mesh_term>
+    <mesh_term>Encephalitis</mesh_term>
+  </condition_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>June 25, 2015</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/86/NCT00894686/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>April 25, 2017</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/86/NCT00894686/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>This study is a follow-up study of 700401 (NCT00161967) in which participants received the first booster vaccination.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>FSME-IMMUN 0.25 Milliliters (mL) Junior/0.5 mL</title>
+          <description>Participants with low tick-borne encephalitis (TBE) serum antibody levels and received first booster vaccination in Study 700401 (NCT00161967) were administered single intramuscular injection of FSME-IMMUN 0.25 mL Junior (less than 16 years of age) or FSME-IMMUN 0.5 mL (16 years or above of age), as second booster vaccination in this study either at Month 40, 48, 60, 72, 84, 96, 108, or 120. Participants were followed up to 21-35 days post vaccination in this study.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="179"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="123"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="56"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="50"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Physician Decision</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Other</title>
+              <participants_list>
+                <participants group_id="P1" count="5"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Full analysis set included all participants enrolled into the study.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>FSME-IMMUN 0.25 Milliliters (mL) Junior/0.5 mL</title>
+          <description>Participants with low tick-borne encephalitis (TBE) serum antibody levels and received first booster vaccination in Study 700401 (NCT00161967) were administered single intramuscular injection of FSME-IMMUN 0.25 mL Junior (less than 16 years of age) or FSME-IMMUN 0.5 mL (16 years or above of age), as second booster vaccination in this study either at Month 40, 48, 60, 72, 84, 96, 108, or 120. Participants were followed up to 21-35 days post vaccination in this study.</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="179"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="179"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15.1" spread="4.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="179"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="88"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="91"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race and Ethnicity Not Collected</title>
+          <population>Race and Ethnicity were not collected from any participant.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Seropositivity Rate Measured by Neutralization Test (NT) at 21-35 Days After the First Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700401</title>
+        <description>Seropositivity rate was reported as percentage of participants with NT level greater than equal to (&gt;=) 10 at 21-35 days after the first TBE booster vaccination in Study 700401. Exact 2-sided 95 percent confidence interval (CI) was based upon the observed percentage of participants.</description>
+        <time_frame>21-35 days after first TBE booster vaccination</time_frame>
+        <population>Per-protocol population included participants who had been enrolled and meet all inclusion/exclusion criteria at all visits, had available assay results at any blood sampling visit and had no other major protocol deviation. Here, &quot;Number of participants analyzed&quot; (N) signifies those participants who were evaluable for this outcome measure.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>FSME-IMMUN 0.25 Milliliters (mL) Junior/0.5 mL</title>
+            <description>Participants with low tick-borne encephalitis (TBE) serum antibody levels and received first booster vaccination in Study 700401 (NCT00161967) were administered single intramuscular injection of FSME-IMMUN 0.25 mL Junior (less than 16 years of age) or FSME-IMMUN 0.5 mL (16 years or above of age), as second booster vaccination in this study either at Month 40, 48, 60, 72, 84, 96, 108, or 120. Participants were followed up to 21-35 days post vaccination in this study.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Seropositivity Rate Measured by Neutralization Test (NT) at 21-35 Days After the First Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700401</title>
+          <description>Seropositivity rate was reported as percentage of participants with NT level greater than equal to (&gt;=) 10 at 21-35 days after the first TBE booster vaccination in Study 700401. Exact 2-sided 95 percent confidence interval (CI) was based upon the observed percentage of participants.</description>
+          <population>Per-protocol population included participants who had been enrolled and meet all inclusion/exclusion criteria at all visits, had available assay results at any blood sampling visit and had no other major protocol deviation. Here, &quot;Number of participants analyzed&quot; (N) signifies those participants who were evaluable for this outcome measure.</population>
+          <units>Percentage of participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="171"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="100.0" lower_limit="97.9" upper_limit="100.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Seropositivity Rate Measured by Neutralization Test (NT) at 38 Months After the First Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700401</title>
+        <description>Seropositivity rate was reported as percentage of participants with NT level &gt;=10 at 38 months after the first TBE booster vaccination in Study 700401. Exact 2-sided 95 percent confidence interval (CI) was based upon the observed percentage of participants.</description>
+        <time_frame>38 months after first TBE booster vaccination</time_frame>
+        <population>Per-protocol population included participants who had been enrolled and meet all inclusion/exclusion criteria at all visits, had available assay results at any blood sampling visit and had no other major protocol deviation. Here, &quot;N&quot; signifies those participants who were evaluable for this outcome measure.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>FSME-IMMUN 0.25 Milliliters (mL) Junior/0.5 mL</title>
+            <description>Participants with low tick-borne encephalitis (TBE) serum antibody levels and received first booster vaccination in Study 700401 (NCT00161967) were administered single intramuscular injection of FSME-IMMUN 0.25 mL Junior (less than 16 years of age) or FSME-IMMUN 0.5 mL (16 years or above of age), as second booster vaccination in this study either at Month 40, 48, 60, 72, 84, 96, 108, or 120. Participants were followed up to 21-35 days post vaccination in this study.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Seropositivity Rate Measured by Neutralization Test (NT) at 38 Months After the First Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700401</title>
+          <description>Seropositivity rate was reported as percentage of participants with NT level &gt;=10 at 38 months after the first TBE booster vaccination in Study 700401. Exact 2-sided 95 percent confidence interval (CI) was based upon the observed percentage of participants.</description>
+          <population>Per-protocol population included participants who had been enrolled and meet all inclusion/exclusion criteria at all visits, had available assay results at any blood sampling visit and had no other major protocol deviation. Here, &quot;N&quot; signifies those participants who were evaluable for this outcome measure.</population>
+          <units>Percentage of participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="167"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="100.0" lower_limit="97.8" upper_limit="100.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Seropositivity Rate Measured by Neutralization Test (NT) at 46 Months After the First Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700401</title>
+        <description>Seropositivity rate was reported as percentage of participants with NT level &gt;=10 at 46 months after the first TBE booster vaccination in Study 700401. Exact 2-sided 95 percent CI was based upon the observed percentage of participants.</description>
+        <time_frame>46 months after first TBE booster vaccination</time_frame>
+        <population>Per-protocol population included participants who had been enrolled and meet all inclusion/exclusion criteria at all visits, had available assay results at any blood sampling visit and had no other major protocol deviation. Here, &quot;N&quot; signifies those participants who were evaluable for this outcome measure.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>FSME-IMMUN 0.25 Milliliters (mL) Junior/0.5 mL</title>
+            <description>Participants with low tick-borne encephalitis (TBE) serum antibody levels and received first booster vaccination in Study 700401 (NCT00161967) were administered single intramuscular injection of FSME-IMMUN 0.25 mL Junior (less than 16 years of age) or FSME-IMMUN 0.5 mL (16 years or above of age), as second booster vaccination in this study either at Month 40, 48, 60, 72, 84, 96, 108, or 120. Participants were followed up to 21-35 days post vaccination in this study.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Seropositivity Rate Measured by Neutralization Test (NT) at 46 Months After the First Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700401</title>
+          <description>Seropositivity rate was reported as percentage of participants with NT level &gt;=10 at 46 months after the first TBE booster vaccination in Study 700401. Exact 2-sided 95 percent CI was based upon the observed percentage of participants.</description>
+          <population>Per-protocol population included participants who had been enrolled and meet all inclusion/exclusion criteria at all visits, had available assay results at any blood sampling visit and had no other major protocol deviation. Here, &quot;N&quot; signifies those participants who were evaluable for this outcome measure.</population>
+          <units>Percentage of participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="147"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="100.0" lower_limit="97.5" upper_limit="100.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Seropositivity Rate Measured by Neutralization Test (NT) at 58 Months After the First Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700401</title>
+        <description>Seropositivity rate was reported as percentage of participants with NT level &gt;=10 at 58 months after the first TBE booster vaccination in Study 700401. Exact 2-sided 95 percent CI was based upon the observed percentage of participants.</description>
+        <time_frame>58 months after first TBE booster vaccination</time_frame>
+        <population>Per-protocol population included participants who had been enrolled and meet all inclusion/exclusion criteria at all visits, had available assay results at any blood sampling visit and had no other major protocol deviation. Here, &quot;N&quot; signifies those participants who were evaluable for this outcome measure.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>FSME-IMMUN 0.25 Milliliters (mL) Junior/0.5 mL</title>
+            <description>Participants with low tick-borne encephalitis (TBE) serum antibody levels and received first booster vaccination in Study 700401 (NCT00161967) were administered single intramuscular injection of FSME-IMMUN 0.25 mL Junior (less than 16 years of age) or FSME-IMMUN 0.5 mL (16 years or above of age), as second booster vaccination in this study either at Month 40, 48, 60, 72, 84, 96, 108, or 120. Participants were followed up to 21-35 days post vaccination in this study.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Seropositivity Rate Measured by Neutralization Test (NT) at 58 Months After the First Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700401</title>
+          <description>Seropositivity rate was reported as percentage of participants with NT level &gt;=10 at 58 months after the first TBE booster vaccination in Study 700401. Exact 2-sided 95 percent CI was based upon the observed percentage of participants.</description>
+          <population>Per-protocol population included participants who had been enrolled and meet all inclusion/exclusion criteria at all visits, had available assay results at any blood sampling visit and had no other major protocol deviation. Here, &quot;N&quot; signifies those participants who were evaluable for this outcome measure.</population>
+          <units>Percentage of participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="156"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="99.4" lower_limit="96.5" upper_limit="100.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Seropositivity Rate Measured by Neutralization Test (NT) at 70 Months After the First Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700401</title>
+        <description>Seropositivity rate was reported as percentage of participants with NT level &gt;=10 at 70 months after the first TBE booster vaccination in Study 700401. Exact 2-sided 95 percent CI was based upon the observed percentage of participants.</description>
+        <time_frame>70 months after first TBE booster vaccination</time_frame>
+        <population>Per-protocol population included participants who had been enrolled and meet all inclusion/exclusion criteria at all visits, had available assay results at any blood sampling visit and had no other major protocol deviation. Here, &quot;N&quot; signifies those participants who were evaluable for this outcome measure.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>FSME-IMMUN 0.25 Milliliters (mL) Junior/0.5 mL</title>
+            <description>Participants with low tick-borne encephalitis (TBE) serum antibody levels and received first booster vaccination in Study 700401 (NCT00161967) were administered single intramuscular injection of FSME-IMMUN 0.25 mL Junior (less than 16 years of age) or FSME-IMMUN 0.5 mL (16 years or above of age), as second booster vaccination in this study either at Month 40, 48, 60, 72, 84, 96, 108, or 120. Participants were followed up to 21-35 days post vaccination in this study.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Seropositivity Rate Measured by Neutralization Test (NT) at 70 Months After the First Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700401</title>
+          <description>Seropositivity rate was reported as percentage of participants with NT level &gt;=10 at 70 months after the first TBE booster vaccination in Study 700401. Exact 2-sided 95 percent CI was based upon the observed percentage of participants.</description>
+          <population>Per-protocol population included participants who had been enrolled and meet all inclusion/exclusion criteria at all visits, had available assay results at any blood sampling visit and had no other major protocol deviation. Here, &quot;N&quot; signifies those participants who were evaluable for this outcome measure.</population>
+          <units>Percentage of participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="157"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="98.1" lower_limit="94.5" upper_limit="99.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Seropositivity Rate Measured by Neutralization Test (NT) at 82 Months After the First Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700401</title>
+        <description>Seropositivity rate was reported as percentage of participants with NT level &gt;=10 at 82 months after the first TBE booster vaccination in Study 700401. Exact 2-sided 95 percent CI was based upon the observed percentage of participants.</description>
+        <time_frame>82 months after first TBE booster vaccination</time_frame>
+        <population>Per-protocol population included participants who had been enrolled and meet all inclusion/exclusion criteria at all visits, had available assay results at any blood sampling visit and had no other major protocol deviation. Here, &quot;N&quot; signifies those participants who were evaluable for this outcome measure.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>FSME-IMMUN 0.25 Milliliters (mL) Junior/0.5 mL</title>
+            <description>Participants with low tick-borne encephalitis (TBE) serum antibody levels and received first booster vaccination in Study 700401 (NCT00161967) were administered single intramuscular injection of FSME-IMMUN 0.25 mL Junior (less than 16 years of age) or FSME-IMMUN 0.5 mL (16 years or above of age), as second booster vaccination in this study either at Month 40, 48, 60, 72, 84, 96, 108, or 120. Participants were followed up to 21-35 days post vaccination in this study.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Seropositivity Rate Measured by Neutralization Test (NT) at 82 Months After the First Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700401</title>
+          <description>Seropositivity rate was reported as percentage of participants with NT level &gt;=10 at 82 months after the first TBE booster vaccination in Study 700401. Exact 2-sided 95 percent CI was based upon the observed percentage of participants.</description>
+          <population>Per-protocol population included participants who had been enrolled and meet all inclusion/exclusion criteria at all visits, had available assay results at any blood sampling visit and had no other major protocol deviation. Here, &quot;N&quot; signifies those participants who were evaluable for this outcome measure.</population>
+          <units>Percentage of participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="156"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="96.8" lower_limit="92.7" upper_limit="99.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Seropositivity Rate Measured by Neutralization Test (NT) at 94 Months After the First Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700401</title>
+        <description>Seropositivity rate was reported as percentage of participants with NT level &gt;=10 at 94 months after the first TBE booster vaccination in Study 700401. Exact 2-sided 95 percent CI was based upon the observed percentage of participants.</description>
+        <time_frame>94 months after first TBE booster vaccination</time_frame>
+        <population>Per-protocol population included participants who had been enrolled and meet all inclusion/exclusion criteria at all visits, had available assay results at any blood sampling visit and had no other major protocol deviation. Here, &quot;N&quot; signifies those participants who were evaluable for this outcome measure.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>FSME-IMMUN 0.25 Milliliters (mL) Junior/0.5 mL</title>
+            <description>Participants with low tick-borne encephalitis (TBE) serum antibody levels and received first booster vaccination in Study 700401 (NCT00161967) were administered single intramuscular injection of FSME-IMMUN 0.25 mL Junior (less than 16 years of age) or FSME-IMMUN 0.5 mL (16 years or above of age), as second booster vaccination in this study either at Month 40, 48, 60, 72, 84, 96, 108, or 120. Participants were followed up to 21-35 days post vaccination in this study.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Seropositivity Rate Measured by Neutralization Test (NT) at 94 Months After the First Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700401</title>
+          <description>Seropositivity rate was reported as percentage of participants with NT level &gt;=10 at 94 months after the first TBE booster vaccination in Study 700401. Exact 2-sided 95 percent CI was based upon the observed percentage of participants.</description>
+          <population>Per-protocol population included participants who had been enrolled and meet all inclusion/exclusion criteria at all visits, had available assay results at any blood sampling visit and had no other major protocol deviation. Here, &quot;N&quot; signifies those participants who were evaluable for this outcome measure.</population>
+          <units>Percentage of participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="156"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="95.5" lower_limit="91.0" upper_limit="98.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Seropositivity Rate Measured by Neutralization Test (NT) at 106 Months After the First Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700401</title>
+        <description>Seropositivity rate was reported as percentage of participants with NT level &gt;=10 at 106 months after the first TBE booster vaccination in Study 700401. Exact 2-sided 95 percent CI was based upon the observed percentage of participants.</description>
+        <time_frame>106 months after first TBE booster vaccination</time_frame>
+        <population>Per-protocol population included participants who had been enrolled and meet all inclusion/exclusion criteria at all visits, had available assay results at any blood sampling visit and had no other major protocol deviation. Here, &quot;N&quot; signifies those participants who were evaluable for this outcome measure.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>FSME-IMMUN 0.25 Milliliters (mL) Junior/0.5 mL</title>
+            <description>Participants with low tick-borne encephalitis (TBE) serum antibody levels and received first booster vaccination in Study 700401 (NCT00161967) were administered single intramuscular injection of FSME-IMMUN 0.25 mL Junior (less than 16 years of age) or FSME-IMMUN 0.5 mL (16 years or above of age), as second booster vaccination in this study either at Month 40, 48, 60, 72, 84, 96, 108, or 120. Participants were followed up to 21-35 days post vaccination in this study.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Seropositivity Rate Measured by Neutralization Test (NT) at 106 Months After the First Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700401</title>
+          <description>Seropositivity rate was reported as percentage of participants with NT level &gt;=10 at 106 months after the first TBE booster vaccination in Study 700401. Exact 2-sided 95 percent CI was based upon the observed percentage of participants.</description>
+          <population>Per-protocol population included participants who had been enrolled and meet all inclusion/exclusion criteria at all visits, had available assay results at any blood sampling visit and had no other major protocol deviation. Here, &quot;N&quot; signifies those participants who were evaluable for this outcome measure.</population>
+          <units>Percentage of participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="156"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="94.9" lower_limit="90.1" upper_limit="97.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Seropositivity Rate Measured by Neutralization Test (NT) at 118 Months After the First Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700401</title>
+        <description>Seropositivity rate was reported as percentage of participants with NT level &gt;=10 at 118 months after the first TBE booster vaccination in Study 700401. Exact 2-sided 95 percent CI was based upon the observed percentage of participants.</description>
+        <time_frame>118 months after first TBE booster vaccination</time_frame>
+        <population>Per-protocol population included participants who had been enrolled and meet all inclusion/exclusion criteria at all visits, had available assay results at any blood sampling visit and had no other major protocol deviation. Here, &quot;N&quot; signifies those participants who were evaluable for this outcome measure.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>FSME-IMMUN 0.25 Milliliters (mL) Junior/0.5 mL</title>
+            <description>Participants with low tick-borne encephalitis (TBE) serum antibody levels and received first booster vaccination in Study 700401 (NCT00161967) were administered single intramuscular injection of FSME-IMMUN 0.25 mL Junior (less than 16 years of age) or FSME-IMMUN 0.5 mL (16 years or above of age), as second booster vaccination in this study either at Month 40, 48, 60, 72, 84, 96, 108, or 120. Participants were followed up to 21-35 days post vaccination in this study.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Seropositivity Rate Measured by Neutralization Test (NT) at 118 Months After the First Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700401</title>
+          <description>Seropositivity rate was reported as percentage of participants with NT level &gt;=10 at 118 months after the first TBE booster vaccination in Study 700401. Exact 2-sided 95 percent CI was based upon the observed percentage of participants.</description>
+          <population>Per-protocol population included participants who had been enrolled and meet all inclusion/exclusion criteria at all visits, had available assay results at any blood sampling visit and had no other major protocol deviation. Here, &quot;N&quot; signifies those participants who were evaluable for this outcome measure.</population>
+          <units>Percentage of participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="155"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="90.3" lower_limit="84.5" upper_limit="94.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Seropositivity Rate Measured by Neutralization Test (NT) at 21-35 Days After the Second Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700802</title>
+        <description>Seropositivity rate was reported as percentage of participants with NT level &gt;=10 at 21-35 days after the second TBE booster vaccination. Exact 2-sided 95 percent CI was based upon the observed percentage of participants.</description>
+        <time_frame>21-35 days after second TBE booster vaccination</time_frame>
+        <population>Per-protocol population included participants who had been enrolled and meet all inclusion/exclusion criteria at all visits, had available assay results at any blood sampling visit and had no other major protocol deviation.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>FSME-IMMUN 0.25 Milliliters (mL) Junior/0.5 mL</title>
+            <description>Participants with low tick-borne encephalitis (TBE) serum antibody levels and received first booster vaccination in Study 700401 (NCT00161967) were administered single intramuscular injection of FSME-IMMUN 0.25 mL Junior (less than 16 years of age) or FSME-IMMUN 0.5 mL (16 years or above of age), as second booster vaccination in this study either at Month 40, 48, 60, 72, 84, 96, 108, or 120. Participants were followed up to 21-35 days post vaccination in this study.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Seropositivity Rate Measured by Neutralization Test (NT) at 21-35 Days After the Second Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700802</title>
+          <description>Seropositivity rate was reported as percentage of participants with NT level &gt;=10 at 21-35 days after the second TBE booster vaccination. Exact 2-sided 95 percent CI was based upon the observed percentage of participants.</description>
+          <population>Per-protocol population included participants who had been enrolled and meet all inclusion/exclusion criteria at all visits, had available assay results at any blood sampling visit and had no other major protocol deviation.</population>
+          <units>Percentage of participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="26"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="100.0" lower_limit="86.8" upper_limit="100.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Seropositivity Rate Measured by Enzyme-Linked Immunosorbent Assay (ELISA) at Each Available Time Point After First Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700401</title>
+        <description>Seropositivity rate was reported as percentage of participants with ELISA level greater than (&gt;) 126 vienna units per milliliter (VIE U/mL) at each blood sampling time point after first TBE booster vaccination in Study 700401. Exact 2-sided 95 percent CI was based upon the observed percentage of participants.</description>
+        <time_frame>21-35 days and 38, 46, 58, 70, 82, 94, 106, 118 months after first TBE booster vaccination</time_frame>
+        <population>Per-protocol population included participants who had been enrolled and meet all inclusion/exclusion criteria at all visits, had available assay results at any blood sampling visit and had no other major protocol deviation.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>FSME-IMMUN 0.25 Milliliters (mL) Junior/0.5 mL</title>
+            <description>Participants with low tick-borne encephalitis (TBE) serum antibody levels and received first booster vaccination in Study 700401 (NCT00161967) were administered single intramuscular injection of FSME-IMMUN 0.25 mL Junior (less than 16 years of age) or FSME-IMMUN 0.5 mL (16 years or above of age), as second booster vaccination in this study either at Month 40, 48, 60, 72, 84, 96, 108, or 120. Participants were followed up to 21-35 days post vaccination in this study.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Seropositivity Rate Measured by Enzyme-Linked Immunosorbent Assay (ELISA) at Each Available Time Point After First Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700401</title>
+          <description>Seropositivity rate was reported as percentage of participants with ELISA level greater than (&gt;) 126 vienna units per milliliter (VIE U/mL) at each blood sampling time point after first TBE booster vaccination in Study 700401. Exact 2-sided 95 percent CI was based upon the observed percentage of participants.</description>
+          <population>Per-protocol population included participants who had been enrolled and meet all inclusion/exclusion criteria at all visits, had available assay results at any blood sampling visit and had no other major protocol deviation.</population>
+          <units>Percentage of participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="172"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>After 21-35 days</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="171"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="98.8" lower_limit="95.8" upper_limit="99.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>After 38 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="166"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="97.0" lower_limit="93.1" upper_limit="99.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>After 46 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="146"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="100.0" lower_limit="97.5" upper_limit="100.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>After 58 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="157"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="97.5" lower_limit="93.6" upper_limit="99.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>After 70 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="156"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="96.8" lower_limit="92.7" upper_limit="99.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>After 82 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="156"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="96.2" lower_limit="91.8" upper_limit="98.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>After 94 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="156"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="96.2" lower_limit="91.8" upper_limit="98.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>After 106 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="156"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="91.7" lower_limit="86.2" upper_limit="95.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>After 118 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="155"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="87.7" lower_limit="81.5" upper_limit="92.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Seropositivity Rate Measured by Enzyme-Linked Immunosorbent Assay (ELISA) at 21-35 Days After Second Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700802</title>
+        <description>Seropositivity rate was reported as percentage of participants with ELISA level &gt;126 VIE U/mL at 21-35 days after second TBE booster vaccination. Exact 2-sided 95 percent CI was based upon the observed percentage of participants.</description>
+        <time_frame>21-35 days after second TBE booster vaccination</time_frame>
+        <population>Per-protocol population included participants who had been enrolled and meet all inclusion/exclusion criteria at all visits, had available assay results at any blood sampling visit and had no other major protocol deviation.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>FSME-IMMUN 0.25 Milliliters (mL) Junior/0.5 mL</title>
+            <description>Participants with low tick-borne encephalitis (TBE) serum antibody levels and received first booster vaccination in Study 700401 (NCT00161967) were administered single intramuscular injection of FSME-IMMUN 0.25 mL Junior (less than 16 years of age) or FSME-IMMUN 0.5 mL (16 years or above of age), as second booster vaccination in this study either at Month 40, 48, 60, 72, 84, 96, 108, or 120. Participants were followed up to 21-35 days post vaccination in this study.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Seropositivity Rate Measured by Enzyme-Linked Immunosorbent Assay (ELISA) at 21-35 Days After Second Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700802</title>
+          <description>Seropositivity rate was reported as percentage of participants with ELISA level &gt;126 VIE U/mL at 21-35 days after second TBE booster vaccination. Exact 2-sided 95 percent CI was based upon the observed percentage of participants.</description>
+          <population>Per-protocol population included participants who had been enrolled and meet all inclusion/exclusion criteria at all visits, had available assay results at any blood sampling visit and had no other major protocol deviation.</population>
+          <units>Percentage of participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="26"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="100.0" lower_limit="86.8" upper_limit="100.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Geometric Mean Concentration Measured by Enzyme-linked Immunosorbent Assay (ELISA) at Each Available Time-Point After First Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700401</title>
+        <description>Antibody against TBE booster vaccination was measured as geometric mean concentration (GMC) by ELISA level at different time points after first booster vaccination. CIs were computed by back transforming the CIs based on the Student t distribution for the mean logarithm of the concentrations.</description>
+        <time_frame>21-35 days and 38, 46, 58, 70, 82, 94, 106, 118 months after first TBE booster vaccination</time_frame>
+        <population>Per-protocol population included participants who had been enrolled and meet all inclusion/exclusion criteria at all visits, had available assay results at any blood sampling visit and had no other major protocol deviation.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>FSME-IMMUN 0.25 Milliliters (mL) Junior/0.5 mL</title>
+            <description>Participants with low tick-borne encephalitis (TBE) serum antibody levels and received first booster vaccination in Study 700401 (NCT00161967) were administered single intramuscular injection of FSME-IMMUN 0.25 mL Junior (less than 16 years of age) or FSME-IMMUN 0.5 mL (16 years or above of age), as second booster vaccination in this study either at Month 40, 48, 60, 72, 84, 96, 108, or 120. Participants were followed up to 21-35 days post vaccination in this study.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Geometric Mean Concentration Measured by Enzyme-linked Immunosorbent Assay (ELISA) at Each Available Time-Point After First Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700401</title>
+          <description>Antibody against TBE booster vaccination was measured as geometric mean concentration (GMC) by ELISA level at different time points after first booster vaccination. CIs were computed by back transforming the CIs based on the Student t distribution for the mean logarithm of the concentrations.</description>
+          <population>Per-protocol population included participants who had been enrolled and meet all inclusion/exclusion criteria at all visits, had available assay results at any blood sampling visit and had no other major protocol deviation.</population>
+          <units>VIE U/mL</units>
+          <param>Geometric Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="172"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>After 21-35 days</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="171"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4368.2" lower_limit="3605.22" upper_limit="5292.63"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>After 38 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="166"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1081.5" lower_limit="933.04" upper_limit="1253.51"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>After 46 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="146"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1212.1" lower_limit="1055.77" upper_limit="1391.65"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>After 58 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="157"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1005.1" lower_limit="876.16" upper_limit="1153.08"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>After 70 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="156"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="883.4" lower_limit="767.09" upper_limit="1017.25"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>After 82 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="156"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="728.6" lower_limit="626.66" upper_limit="847.12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>After 94 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="156"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="636.8" lower_limit="541.70" upper_limit="748.55"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>After 106 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="156"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="561.0" lower_limit="469.95" upper_limit="669.58"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>After 118 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="155"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="506.4" lower_limit="414.96" upper_limit="618.10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Geometric Mean Concentration Measured by Enzyme-linked Immunosorbent Assay (ELISA) at 21-35 Days After Second Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700802</title>
+        <description>Antibody against TBE booster vaccination was measured as GMC by ELISA level after the second booster vaccination. CIs were computed by back transforming the CIs based on the Student t distribution for the mean logarithm of the concentrations.</description>
+        <time_frame>21-35 days after second TBE booster vaccination</time_frame>
+        <population>Per-protocol population included participants who had been enrolled and meet all inclusion/exclusion criteria at all visits, had available assay results at any blood sampling visit and had no other major protocol deviation.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>FSME-IMMUN 0.25 Milliliters (mL) Junior/0.5 mL</title>
+            <description>Participants with low tick-borne encephalitis (TBE) serum antibody levels and received first booster vaccination in Study 700401 (NCT00161967) were administered single intramuscular injection of FSME-IMMUN 0.25 mL Junior (less than 16 years of age) or FSME-IMMUN 0.5 mL (16 years or above of age), as second booster vaccination in this study either at Month 40, 48, 60, 72, 84, 96, 108, or 120. Participants were followed up to 21-35 days post vaccination in this study.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Geometric Mean Concentration Measured by Enzyme-linked Immunosorbent Assay (ELISA) at 21-35 Days After Second Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700802</title>
+          <description>Antibody against TBE booster vaccination was measured as GMC by ELISA level after the second booster vaccination. CIs were computed by back transforming the CIs based on the Student t distribution for the mean logarithm of the concentrations.</description>
+          <population>Per-protocol population included participants who had been enrolled and meet all inclusion/exclusion criteria at all visits, had available assay results at any blood sampling visit and had no other major protocol deviation.</population>
+          <units>VIE U/mL</units>
+          <param>Geometric Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="26"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1844.1" lower_limit="1305.54" upper_limit="2604.91"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Geometric Mean Titer Measured by Neutralization Test (NT) Each Available Time-Point Blood Draw After First Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700401</title>
+        <description>Antibody against TBE booster vaccination was measured as geometric mean titer (GMT) by NT level at different time points after first booster vaccination. CIs were computed by back transforming the CIs based on the Student t distribution for the mean logarithm of the titers.</description>
+        <time_frame>21-35 days and 38, 46, 58, 70, 82, 94, 106, 118 months after first TBE booster vaccination</time_frame>
+        <population>Per-protocol population included participants who had been enrolled and meet all inclusion/exclusion criteria at all visits, had available assay results at any blood sampling visit and had no other major protocol deviation.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>FSME-IMMUN 0.25 Milliliters (mL) Junior/0.5 mL</title>
+            <description>Participants with low tick-borne encephalitis (TBE) serum antibody levels and received first booster vaccination in Study 700401 (NCT00161967) were administered single intramuscular injection of FSME-IMMUN 0.25 mL Junior (less than 16 years of age) or FSME-IMMUN 0.5 mL (16 years or above of age), as second booster vaccination in this study either at Month 40, 48, 60, 72, 84, 96, 108, or 120. Participants were followed up to 21-35 days post vaccination in this study.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Geometric Mean Titer Measured by Neutralization Test (NT) Each Available Time-Point Blood Draw After First Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700401</title>
+          <description>Antibody against TBE booster vaccination was measured as geometric mean titer (GMT) by NT level at different time points after first booster vaccination. CIs were computed by back transforming the CIs based on the Student t distribution for the mean logarithm of the titers.</description>
+          <population>Per-protocol population included participants who had been enrolled and meet all inclusion/exclusion criteria at all visits, had available assay results at any blood sampling visit and had no other major protocol deviation.</population>
+          <units>Titers</units>
+          <param>Geometric Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="172"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>After 21-35 days</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="171"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="380.7" lower_limit="336.73" upper_limit="430.31"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>After 38 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="167"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="162.1" lower_limit="139.29" upper_limit="188.58"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>After 46 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="147"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="108.1" lower_limit="92.41" upper_limit="126.34"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>After 58 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="156"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="111.3" lower_limit="96.10" upper_limit="128.84"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>After 70 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="157"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="123.4" lower_limit="105.31" upper_limit="144.59"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>After 82 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="156"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="122.3" lower_limit="102.33" upper_limit="146.28"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>After 94 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="156"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="82.8" lower_limit="68.88" upper_limit="99.57"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>After 106 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="156"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="56.0" lower_limit="46.42" upper_limit="67.57"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>After 118 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="155"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="53.9" lower_limit="43.40" upper_limit="66.87"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Geometric Mean Titer Measured by Neutralization Test (NT) After Second Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700802</title>
+        <description>Antibody against TBE booster vaccination was measured as GMT by NT level after second booster vaccination. CIs were computed by back transforming the CIs based on the Student t distribution for the mean logarithm of the titers.</description>
+        <time_frame>21-35 days after second TBE booster vaccination</time_frame>
+        <population>Per-protocol population included participants who had been enrolled and meet all inclusion/exclusion criteria at all visits, had available assay results at any blood sampling visit and had no other major protocol deviation.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>FSME-IMMUN 0.25 Milliliters (mL) Junior/0.5 mL</title>
+            <description>Participants with low tick-borne encephalitis (TBE) serum antibody levels and received first booster vaccination in Study 700401 (NCT00161967) were administered single intramuscular injection of FSME-IMMUN 0.25 mL Junior (less than 16 years of age) or FSME-IMMUN 0.5 mL (16 years or above of age), as second booster vaccination in this study either at Month 40, 48, 60, 72, 84, 96, 108, or 120. Participants were followed up to 21-35 days post vaccination in this study.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Geometric Mean Titer Measured by Neutralization Test (NT) After Second Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700802</title>
+          <description>Antibody against TBE booster vaccination was measured as GMT by NT level after second booster vaccination. CIs were computed by back transforming the CIs based on the Student t distribution for the mean logarithm of the titers.</description>
+          <population>Per-protocol population included participants who had been enrolled and meet all inclusion/exclusion criteria at all visits, had available assay results at any blood sampling visit and had no other major protocol deviation.</population>
+          <units>Titers</units>
+          <param>Geometric Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="26"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="126.8" lower_limit="94.76" upper_limit="169.64"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Geometric Mean Fold Rise (GMFR) in Antibody Concentrations After Second Tick-borne Encephalitis (TBE) Booster Vaccination as Compared to Before the Booster Vaccination as Measured by Enzyme-Linked Immunosorbent Assay (ELISA)</title>
+        <description>GMFR in antibody concentration from pre-booster (before second booster vaccination) to post-booster (21-35 days after TBE vaccination) was measured by ELISA. CIs were computed by back transforming the CIs based on the Student t distribution for the mean logarithm of the titers, concentrations or the fold rises.</description>
+        <time_frame>Before second booster vaccination (pre-vaccination), 21-35 days after second booster vaccination</time_frame>
+        <population>Per-protocol population included participants who had been enrolled and meet all inclusion/exclusion criteria at all visits, had available assay results at any blood sampling visit and had no other major protocol deviation.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>FSME-IMMUN 0.25 Milliliters (mL) Junior/0.5 mL</title>
+            <description>Participants with low tick-borne encephalitis (TBE) serum antibody levels and received first booster vaccination in Study 700401 (NCT00161967) were administered single intramuscular injection of FSME-IMMUN 0.25 mL Junior (less than 16 years of age) or FSME-IMMUN 0.5 mL (16 years or above of age), as second booster vaccination in this study either at Month 40, 48, 60, 72, 84, 96, 108, or 120. Participants were followed up to 21-35 days post vaccination in this study.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Geometric Mean Fold Rise (GMFR) in Antibody Concentrations After Second Tick-borne Encephalitis (TBE) Booster Vaccination as Compared to Before the Booster Vaccination as Measured by Enzyme-Linked Immunosorbent Assay (ELISA)</title>
+          <description>GMFR in antibody concentration from pre-booster (before second booster vaccination) to post-booster (21-35 days after TBE vaccination) was measured by ELISA. CIs were computed by back transforming the CIs based on the Student t distribution for the mean logarithm of the titers, concentrations or the fold rises.</description>
+          <population>Per-protocol population included participants who had been enrolled and meet all inclusion/exclusion criteria at all visits, had available assay results at any blood sampling visit and had no other major protocol deviation.</population>
+          <units>Fold rise</units>
+          <param>Geometric Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="26"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8.6" lower_limit="6.69" upper_limit="11.10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Geometric Mean Fold Rise (GMFR) in Antibody Titer After Second Tick-borne Encephalitis (TBE) Booster Vaccination as Compared to Before the Booster Vaccination as Measured by Neutralization Test (NT)</title>
+        <description>GMFR in antibody titers from pre-booster (before second booster vaccination) to post-booster (21-35 days after TBE vaccination) was measured by ELISA. CIs were computed by back transforming the CIs based on the Student t distribution for the mean logarithm of the titers, concentrations or the fold rises.</description>
+        <time_frame>Before second booster vaccination (pre-vaccination), 21-35 days after second booster vaccination</time_frame>
+        <population>Per-protocol population included participants who had been enrolled and meet all inclusion/exclusion criteria at all visits, had available assay results at any blood sampling visit and had no other major protocol deviation.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>FSME-IMMUN 0.25 Milliliters (mL) Junior/0.5 mL</title>
+            <description>Participants with low tick-borne encephalitis (TBE) serum antibody levels and received first booster vaccination in Study 700401 (NCT00161967) were administered single intramuscular injection of FSME-IMMUN 0.25 mL Junior (less than 16 years of age) or FSME-IMMUN 0.5 mL (16 years or above of age), as second booster vaccination in this study either at Month 40, 48, 60, 72, 84, 96, 108, or 120. Participants were followed up to 21-35 days post vaccination in this study.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Geometric Mean Fold Rise (GMFR) in Antibody Titer After Second Tick-borne Encephalitis (TBE) Booster Vaccination as Compared to Before the Booster Vaccination as Measured by Neutralization Test (NT)</title>
+          <description>GMFR in antibody titers from pre-booster (before second booster vaccination) to post-booster (21-35 days after TBE vaccination) was measured by ELISA. CIs were computed by back transforming the CIs based on the Student t distribution for the mean logarithm of the titers, concentrations or the fold rises.</description>
+          <population>Per-protocol population included participants who had been enrolled and meet all inclusion/exclusion criteria at all visits, had available assay results at any blood sampling visit and had no other major protocol deviation.</population>
+          <units>Fold rise</units>
+          <param>Geometric Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="26"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.2" lower_limit="2.78" upper_limit="9.67"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants With Injection Site Reactions and Systemic Reactions After Second Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700802</title>
+        <description>Injection site reactions included swelling, induration, redness, injection site pain, tenderness, ecchymosis and hematoma. Systemic reaction included headache, nausea, vomiting, muscle pain, joint pain, swelling of the lymph nodes, malaise and fatigue. Participants with any injection site reaction and systemic reaction after second TBE booster vaccination in Study 700802 were reported in this outcome measure.</description>
+        <time_frame>From second booster vaccination up to 21-35 days after the vaccination</time_frame>
+        <population>The safety population included any participant who had received the second booster dose.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>FSME-IMMUN 0.25 Milliliters (mL) Junior/0.5 mL</title>
+            <description>Participants with low tick-borne encephalitis (TBE) serum antibody levels and received first booster vaccination in Study 700401 (NCT00161967) were administered single intramuscular injection of FSME-IMMUN 0.25 mL Junior (less than 16 years of age) or FSME-IMMUN 0.5 mL (16 years or above of age), as second booster vaccination in this study either at Month 40, 48, 60, 72, 84, 96, 108, or 120. Participants were followed up to 21-35 days post vaccination in this study.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Injection Site Reactions and Systemic Reactions After Second Tick-borne Encephalitis (TBE) Booster Vaccination in Study 700802</title>
+          <description>Injection site reactions included swelling, induration, redness, injection site pain, tenderness, ecchymosis and hematoma. Systemic reaction included headache, nausea, vomiting, muscle pain, joint pain, swelling of the lymph nodes, malaise and fatigue. Participants with any injection site reaction and systemic reaction after second TBE booster vaccination in Study 700802 were reported in this outcome measure.</description>
+          <population>The safety population included any participant who had received the second booster dose.</population>
+          <units>Participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="26"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Injection site reactions</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Systemic reactions</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>From second booster vaccination up to 21-35 days after the vaccination</time_frame>
+      <desc>The safety population included any participant who had received the second booster dose.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>FSME-IMMUN 0.25 Milliliters (mL) Junior/0.5 mL</title>
+          <description>Participants with low tick-borne encephalitis (TBE) serum antibody levels and received first booster vaccination in Study 700401 (NCT00161967) were administered single intramuscular injection of FSME-IMMUN 0.25 mL Junior (less than 16 years of age) or FSME-IMMUN 0.5 mL (16 years or above of age), as second booster vaccination in this study either at Month 40, 48, 60, 72, 84, 96, 108, or 120. Participants were followed up to 21-35 days post vaccination in this study.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="26"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_vocab>MedDRA v19.1</default_vocab>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="26"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Tenderness</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="26"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>Pfizer has the right to review disclosures, requesting a delay of less than 60 days. Investigator will postpone single center publications until after disclosure of pooled data (all sites), less than 12 months from study completion/termination at all participating sites. Investigator may not disclose previously undisclosed confidential information other than study results.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Pfizer ClinicalTrials.gov Call Center</name_or_title>
+      <organization>Pfizer, Inc.</organization>
+      <phone>1-800-718-1021</phone>
+      <email>ClinicalTrials.gov_Inquiries@pfizer.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

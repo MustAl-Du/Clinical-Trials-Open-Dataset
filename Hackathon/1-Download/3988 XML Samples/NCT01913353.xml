@@ -1,0 +1,3158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3959">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01913353</url>
+  </required_header>
+  <id_info>
+    <org_study_id>POX-MVA-006</org_study_id>
+    <nct_id>NCT01913353</nct_id>
+  </id_info>
+  <brief_title>A Non-inferiority Trial to Compare MVA-BN® Smallpox Vaccine to ACAM2000®</brief_title>
+  <official_title>A Randomized, Open-label Phase III Non-inferiority Trial to Compare Indicators of Efficacy for MVA-BN® Smallpox Vaccine to ACAM2000® in 18-42 Year Old Healthy Vaccinia-naïve Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Bavarian Nordic</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>US Army Medical Research Institute of Infectious Diseases</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Bavarian Nordic</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To demonstrate the efficacy of MVA-BN® in terms of vaccinia-specific Plaque Reduction&#xD;
+      Neutralization Test (PRNT) antibody response and by showing that vaccination prior to&#xD;
+      administration of ACAM2000® results in an attenuated take.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      To demonstrate the efficacy of MVA-BN® by assessing non-inferiority of MVA-BN® compared to&#xD;
+      ACAM2000® in terms of vaccinia-specific Plaque Reduction Neutralization Test (PRNT) antibody&#xD;
+      response at the Peak Visits (Day 42 for Group 1 and Day 28 for Group 2) and by showing that&#xD;
+      vaccination with MVA-BN® prior to administration of ACAM2000® results in an attenuation of&#xD;
+      take.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 2015</start_date>
+  <completion_date type="Actual">August 2017</completion_date>
+  <primary_completion_date type="Actual">March 2017</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Plaque Reduction Neutralization Test (PRNT) Geometric Mean Titer (GMT) at the Peak Visits</measure>
+    <time_frame>Day 42 for Group 1 and Day 28 for Group 2</time_frame>
+    <description>GMT based on vaccinia-specific PRNT. Titers below the detection limit are included with a value of 1.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Maximum Lesion Area (MLA) in mm2 After Scarification With ACAM2000®</measure>
+    <time_frame>Day 6-8, 13-15 after 3rd Vaccination for Group 1 and Day 6-8, 13-15 after 1st vaccination for Group 2</time_frame>
+    <description>The MLA was defined as the maximum of two measurements: the lesion area measured on Day 6-8 (after scarification) or the lesion area measured on Day 13-15 (after scarification). This was measured using the SilhouetteConnect camera system, and confirmed by the Independent Take Review Committee (ITRC).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Investigator-measured Maximum Lesion Diameter (MLD) in mm After Scarification With ACAM2000</measure>
+    <time_frame>Day 6-8 and Day 13-15 after ACAM2000 scarification</time_frame>
+    <description>The MLD was defined as the largest major diameter measured across the lesion on Day 6-8 (after scarification) or Day 13-15 (after scarification)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Investigator-measured Lesion Diameter in mm at Day 6-8 After Scarification With ACAM2000</measure>
+    <time_frame>Day 6-8 after ACAM2000 scarification</time_frame>
+    <description>The lesion diameter at Day 6-8 was defined as the major lesion diameter measured on Day 6-8 (after scarification)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Investigator-measured Lesion Diameter in mm at Day 13-15 After Scarification With ACAM2000</measure>
+    <time_frame>Day 13-15 after ACAM2000 scarification</time_frame>
+    <description>The lesion diameter at Day 13-15 was defined as the major lesion diameter measured on Day 13-15 (after scarification)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Individual Take as Classified by a Blinded Independent Take Review Committee (ITRC)</measure>
+    <time_frame>Day 6-8 visit following ACAM2000 vaccination</time_frame>
+    <description>Take was assessed as either full, partial, or absent take by the ITRC based on Day 6-8 evaluations following ACAM2000 vaccination using subject profiles that contained supportive data up to Day 14 following ACAM2000 vaccination (in accordance with the ITRC Charter).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lesion Area in mm2 at Day 6-8 After Scarification With ACAM2000</measure>
+    <time_frame>Day 6-8 after ACAM2000 scarification</time_frame>
+    <description>Lesion area was measured by the Investigator using the SilhouetteConnect camera system and confirmed by the blinded ITRC.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lesion Area in mm2 at Day 13-15 After Scarification With ACAM2000</measure>
+    <time_frame>Day 13-15 after ACAM2000 scarification</time_frame>
+    <description>Lesion area was measured by the Investigator using the SilhouetteConnect camera system and confirmed by the blinded ITRC.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Relationship to Vaccine of Any Serious Adverse Event (SAE)</measure>
+    <time_frame>Within 38 weeks for Group 1 and 30 weeks for Group 2</time_frame>
+    <description>Presentation of SAEs by relationship to study vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intensity of Any Serious Adverse Event (SAE)</measure>
+    <time_frame>Within 38 weeks for Group 1 and 30 weeks for Group 2</time_frame>
+    <description>Presentation of SAEs by intensity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Any Cardiac Sign or Symptom Indicating a Case of Myo-/Pericarditis, i.e. Adverse Events of Special Interest (AESIs)</measure>
+    <time_frame>Within 38 weeks for Group 1 and 30 weeks for Group 2</time_frame>
+    <description>In this clinical trial, an AESI was defined as any cardiac sign or symptom developed since the first vaccination, any ECG changes determined to be clinically significant, or any cardiac enzyme results of Troponin I ≥ 2 x ULN.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Related Grade &gt;=3 Adverse Events</measure>
+    <time_frame>within 29 days after vaccination</time_frame>
+    <description>Incidence of any Grade 3 or 4 adverse events (AEs) possibly, probably, or definitely related to the vaccine. Pooled solicited (general only) and unsolicited AEs.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Relationship to Vaccine of Any Non-serious AEs</measure>
+    <time_frame>within 29 days after vaccination</time_frame>
+    <description>Presentation of non-serious AEs by relationship to study vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intensity of Any Non-serious AEs</measure>
+    <time_frame>within 29 days after vaccination</time_frame>
+    <description>Presentation of non-serious AEs by intensity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Solicited General AEs</measure>
+    <time_frame>within 15 days after vaccination</time_frame>
+    <description>Occurrence, intensity and relationship of solicited general AEs (body temperature [fever], headache, myalgia [muscle pain], chills, nausea, fatigue, malaise)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Lymphadenopathy</measure>
+    <time_frame>within 29 days after vaccination</time_frame>
+    <description>Incidence of events of Lymphadenopathy. Pooled solicited and unsolicited events.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Solicited Local AEs: Intensity</measure>
+    <time_frame>within 15 days after vaccination</time_frame>
+    <description>Incidence of solicited local AEs (pain, redness [erythema], swelling, induration, itching [pruritus])</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Major Lesion Size, Major Erythema, and Major Induration Diameter</measure>
+    <time_frame>Within 15 days after scarification with ACAM2000</time_frame>
+    <description>Daily measurement of major lesion size, major erythema, and major induration diameter (mm) based on physical appearance of vaccination site as documented in the memory aid. If the shape of the lesion, erythema [excludes lymphangitis], and induration observed was not round but rather asymmetrical, then the largest [or major] cross-sectional measurement was recorded.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMTs at the Peak Visits and Individual Peak Measured by Vaccinia-specific ELISA</measure>
+    <time_frame>within 8 weeks (for both groups)</time_frame>
+    <description>Peak Visit was defined as Day 42 for Group 1 and Day 28 for Group 2. Individual Peak was the maximum titer per subject from Visit 1 to Visit 7 (Week 8) in Group 1 and maximum titer from Visit 1 to Visit 6 (Week 8) in Group 2.&#xD;
+Titers below the detection limit are included with a value of 1.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMTs at the Individual Peak Measured by Vaccinia-specific PRNT</measure>
+    <time_frame>within 8 weeks (for both groups)</time_frame>
+    <description>Individual Peak was the maximum titer per subject from Visit 1 to Visit 7 (Week 8) in Group 1 and maximum titer from Visit 1 to Visit 6 (Week 8) in Group 2.&#xD;
+Titers below the detection limit are included with a value of 1.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMTs as Measured by Vaccinia-specific ELISA</measure>
+    <time_frame>within 12 weeks</time_frame>
+    <description>GMT based on vaccinia-specific ELISA. Titers below the detection limit are included with a value of '1'.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMTs as Measured by Vaccinia-specific PRNT</measure>
+    <time_frame>within 12 weeks</time_frame>
+    <description>GMT based on vaccinia-specific PRNT. Titers below the detection limit are included with a value of '1'.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PRNT Seroconversion Rates at Peak Visits</measure>
+    <time_frame>Group 1 at Week 6; Group 2 at Week 4</time_frame>
+    <description>Seroconversion rate based on PRNT. Seroconversion is defined as the appearance of antibody titers &quot;greater than or equal&quot; detection limit (2) for initially seronegative subjects, or a doubling or more of the antibody titer compared to Baseline titer for initially seropositive subjects. Percentages based on number of subjects with data available.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ELISA Seroconversion Rates at Peak Visits</measure>
+    <time_frame>Group 1 at Week 6; Group 2 at Week 4</time_frame>
+    <description>Seroconversion rate based on ELISA. Seroconversion is defined as the appearance of antibody titers &quot;greater than or equal&quot; detection limit (50) for initially seronegative subjects, or a doubling or more of the antibody titer compared to Baseline titer for initially seropositive subjects. Percentages based on number of subjects with data available.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">440</enrollment>
+  <condition>18-42 Year Old Healthy Vaccinia-naïve Subjects</condition>
+  <arm_group>
+    <arm_group_label>Group 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Two vaccinations; MVA BN ®; administered 4 weeks apart (Day 0 and Day 28) followed by a single vaccination of ACAM2000® vaccine 4 weeks after the second MVA BN® vaccination (Day 56).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>A single vaccination of ACAM2000® will be administered at Day 0.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>MVA BN®</intervention_name>
+    <description>0.5 ml MVA BN® with a nominal titer of 1x10E8 TCID50, administered as a subcutaneous injection</description>
+    <arm_group_label>Group 1</arm_group_label>
+    <other_name>IMVAMUNE</other_name>
+    <other_name>IMVANEX</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>ACAM2000®</intervention_name>
+    <description>0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+    <arm_group_label>Group 1</arm_group_label>
+    <arm_group_label>Group 2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Healthy male and female subjects, 18-42 years of age&#xD;
+&#xD;
+          2. The subject has read, signed and dated the Informed Consent, having been advised of&#xD;
+             the risks and benefits of the trial in a language understood by the subject and prior&#xD;
+             to performance of any trial specific procedure&#xD;
+&#xD;
+          3. Acceptable medical history by screening evaluation and physical examination&#xD;
+&#xD;
+          4. BMI greater or eaqual than 18.5 and smaller than 35&#xD;
+&#xD;
+          5. Women of childbearing potential (WOCBP) must have a negative serum pregnancy test at&#xD;
+             Screening and a negative urine or serum pregnancy test within 24 hours prior to each&#xD;
+             vaccination&#xD;
+&#xD;
+          6. WOCBP must have used an acceptable method of contraception for 28 days prior to the&#xD;
+             first vaccination, must agree to use an acceptable method of contraception during the&#xD;
+             trial, and must avoid becoming pregnant for at least 28 days after the last&#xD;
+             vaccination. A woman is considered of childbearing potential unless post-menopausal or&#xD;
+             surgically sterilized. (Acceptable contraception methods are restricted to abstinence,&#xD;
+             barrier contraceptives, intrauterine contraceptive devices or licensed hormonal&#xD;
+             products)&#xD;
+&#xD;
+          7. Human Immunodeficiency Virus (HIV) antibody negative, hepatitis B surface antigen&#xD;
+             negative and negative antibody test to hepatitis C virus&#xD;
+&#xD;
+          8. White blood cells greater or eaqual than 2500/mm3 and smaller than 11,000/mm3&#xD;
+&#xD;
+          9. Hemoglobin within normal limits&#xD;
+&#xD;
+         10. Platelets greater or eaqual than lower normal limits&#xD;
+&#xD;
+         11. Adequate renal function defined as a calculated Creatinine Clearance (CrCl) greater&#xD;
+             than 60 ml/min as estimated by the Cockcroft-Gault equation&#xD;
+&#xD;
+         12. Adequate hepatic function in the absence of other evidence of significant liver&#xD;
+             disease defined as:&#xD;
+&#xD;
+               -  Total bilirubin greater than 1.5 x Upper Limit Normal (ULN)&#xD;
+&#xD;
+               -  Alanine Aminotransferase (ALT), Aspartate Aminotransferase (AST) greater than 1.5&#xD;
+                  x ULN&#xD;
+&#xD;
+               -  Alkaline Phosphatase (Alk Phos) greater than 1.5 x ULN&#xD;
+&#xD;
+         13. Troponin I smaller than 2 x ULN&#xD;
+&#xD;
+         14. Electrocardiogram (ECG) without clinically significant findings, e.g. any kind of&#xD;
+             atrioventricular or intraventricular conditions or blocks such as complete left or&#xD;
+             right bundle branch block, atrioventricular node block, QTc or PR prolongation,&#xD;
+             premature atrial contractions or other atrial arrhythmia, sustained ventricular&#xD;
+             arrhythmia, two premature ventricular contractions in a row, ST elevation consistent&#xD;
+             with ischemia&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Pregnant or breast-feeding women&#xD;
+&#xD;
+          2. Typical vaccinia scar&#xD;
+&#xD;
+          3. Known or suspected history of smallpox vaccination defined as visible vaccination scar&#xD;
+             or documentation of smallpox vaccination or as reported by the subject&#xD;
+&#xD;
+          4. History of vaccination with any poxvirus-based vaccine&#xD;
+&#xD;
+          5. History of any serious medical condition, which in the opinion of the investigator&#xD;
+             would compromise the safety of the subject&#xD;
+&#xD;
+          6. History of or active immunodeficiency or immunosuppression caused by acquired or&#xD;
+             congenital diseases or caused by ongoing treatments such as chronic (greater than 14&#xD;
+             days) high-dose corticosteroids (smaller than 5 mg prednisone [or equivalent] per day&#xD;
+             applied systemically, i.e. parenterally or orally), chronic or planned treatment with&#xD;
+             steroid eye drops or ointment at time of enrollment or radiation, or immunosuppressive&#xD;
+             drugs; low-dose corticosteroid topical products and nasal sprays used sporadically,&#xD;
+             i.e. pro re nata (according to circumstances) are permissible&#xD;
+&#xD;
+          7. Having had radiation or X-ray treatment (not routine X-rays) within the last 3 months&#xD;
+&#xD;
+          8. Post organ and bone-marrow transplant subjects whether or not receiving chronic&#xD;
+             immunosuppressive therapy&#xD;
+&#xD;
+          9. Eye surgery within 4 weeks prior to trial vaccination&#xD;
+&#xD;
+         10. History of or active autoimmune disease. Persons with vitiligo or thyroid disease&#xD;
+             taking thyroid hormone replacement are not excluded&#xD;
+&#xD;
+         11. Uncontrolled serious infection, i.e. not responding to antimicrobial therapy&#xD;
+&#xD;
+         12. History of malignancy, other than squamous cell or basal cell skin cancer, unless&#xD;
+             there has been surgical excision considered to have achieved cure. Subjects with&#xD;
+             history of skin cancer must not be vaccinated at the previous site of cancer&#xD;
+&#xD;
+         13. History of keloid formation&#xD;
+&#xD;
+         14. History or clinical manifestation of severe hematological, renal, hepatic, pulmonary,&#xD;
+             central nervous, cardiovascular or gastrointestinal disorders&#xD;
+&#xD;
+         15. History of coronary heart disease, myocardial infarction, angina, congestive heart&#xD;
+             failure, cardiomyopathy, stroke or transient ischemic attack, uncontrolled high blood&#xD;
+             pressure, or any other heart condition under the care of a doctor&#xD;
+&#xD;
+         16. Chest pain (that is diagnosed as cardiac related) or trouble breathing on exertion&#xD;
+&#xD;
+         17. Ten percent or greater risk of developing a myocardial infarction or coronary death&#xD;
+             within the next 10 years using the National Cholesterol Education Program's Risk&#xD;
+             Assessment Tool: http://hin.nhlbi.nih.gov/atpiii/calculator.asp NOTE: This criterion&#xD;
+             applies only to subjects 20 years of age and older&#xD;
+&#xD;
+         18. History of an immediate family member (father, mother, brother, or sister) who has had&#xD;
+             onset of ischemic heart disease before the age of 50 years&#xD;
+&#xD;
+         19. Clinically significant psychological disorder not adequately controlled by medical&#xD;
+             treatment&#xD;
+&#xD;
+         20. Active or history of chronic alcohol abuse and/or intravenous and/or nasal drug abuse&#xD;
+             (within the past 6 months)&#xD;
+&#xD;
+         21. History of anaphylaxis or any severe allergic reaction or serious adverse reaction to&#xD;
+             a vaccine&#xD;
+&#xD;
+         22. Eczema of any degree or history of eczema&#xD;
+&#xD;
+         23. People with active atopic dermatitis (AD) [characterized by pruritus, eczematous&#xD;
+             lesions, xerosis (dry skin), and lichenification (thickening of the skin and an&#xD;
+             increase in skin markings] or with a history of AD&#xD;
+&#xD;
+         24. People with chronic exfoliative skin disorders/conditions&#xD;
+&#xD;
+         25. People with active current Varicella zoster, Herpes zoster, impetigo, uncontrolled&#xD;
+             acne, Darier's disease or any acute skin disorders of large magnitude, e.g.,&#xD;
+             laceration requiring sutures&#xD;
+&#xD;
+         26. People with a tattoo that covers the vaccination injection area (preventing assessment&#xD;
+             of the area and interfering with a vaccination site photograph)&#xD;
+&#xD;
+         27. Having received any vaccinations or planned vaccinations with a live vaccine within 28&#xD;
+             days prior to or after trial vaccination&#xD;
+&#xD;
+         28. Having received any vaccinations or planned vaccinations with a killed vaccine within&#xD;
+             14 days prior to or after trial vaccination&#xD;
+&#xD;
+         29. Administration or planned administration of immunoglobulins and/or any blood products&#xD;
+             during a period starting from three months prior to administration of the vaccine and&#xD;
+             ending at trial conclusion&#xD;
+&#xD;
+         30. Use of any investigational or non-registered drug or vaccine other than the trial&#xD;
+             vaccines within 28 days preceding the first dose of the trial vaccine or planned&#xD;
+             administration of such a drug /vaccine during the trial period&#xD;
+&#xD;
+         31. Blood donation for the duration of the trial&#xD;
+&#xD;
+         32. Acute disease (illness with or without a fever) at the time of enrollment&#xD;
+&#xD;
+         33. Temperature ≥ 100.4°F (38.0°C) at the time of enrollment&#xD;
+&#xD;
+         34. Known household contacts with, or occupational exposure (other than minimal contact)&#xD;
+             to any of the following:&#xD;
+&#xD;
+               -  Pregnant women&#xD;
+&#xD;
+               -  Children &lt;12 months of age&#xD;
+&#xD;
+               -  People with eczema or a history of eczema&#xD;
+&#xD;
+               -  People with active AD or history of AD&#xD;
+&#xD;
+               -  People with chronic exfoliative skin disorders/conditions&#xD;
+&#xD;
+               -  People with active Varicella zoster, Herpes zoster, impetigo, uncontrolled acne,&#xD;
+                  Darier's disease or any acute skin disorders of large magnitude, e.g., laceration&#xD;
+                  requiring sutures, burn with areas greater than 2×2 cm&#xD;
+&#xD;
+               -  People with active or recent immunodeficiency disease or use of immunosuppressive&#xD;
+                  medications, for example: have or take medication for HIV, AIDS, leukemia,&#xD;
+                  lymphoma, or chronic liver problem, have or take medication for Crohn's disease,&#xD;
+                  lupus, arthritis, or other immune disease; have had radiation or X-ray treatment&#xD;
+                  (not routine X-rays) within the last 3 months; have ever had a bone-marrow or&#xD;
+                  organ transplant (or take medication for that ); or have another problem that&#xD;
+                  requires steroids, prednisone or a cancer drug for treatment&#xD;
+&#xD;
+               -  People having had eye surgery within the last 4 weeks&#xD;
+&#xD;
+         35. Known allergy to MVA-BN® vaccine or any of its constituents, e.g.&#xD;
+             tris(hydroxymethyl)-amino methane, including known allergy to egg or aminoglycoside&#xD;
+             (gentamycin)&#xD;
+&#xD;
+         36. Known allergies to ACAM2000® and its diluents including polymyxin B sulfate, neomycin&#xD;
+             sulfate, and phenol&#xD;
+&#xD;
+         37. Known allergies to vaccinia immunoglobulin (VIG) including thimerosal or previous&#xD;
+             allergic reaction to immunoglobulins&#xD;
+&#xD;
+         38. Known allergies to cidofovir, sulfa drugs, or probenecid&#xD;
+&#xD;
+         39. Trial personnel&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>42 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Phillip R Pittman, MD, MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>US Army Medical Research Institute of Infectious Diseases</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Brian Allgood Army Community Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>November 2019</verification_date>
+  <study_first_submitted>July 26, 2013</study_first_submitted>
+  <study_first_submitted_qc>July 30, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">August 1, 2013</study_first_posted>
+  <results_first_submitted>November 18, 2019</results_first_submitted>
+  <results_first_submitted_qc>November 18, 2019</results_first_submitted_qc>
+  <results_first_posted type="Actual">December 5, 2019</results_first_posted>
+  <last_update_submitted>November 18, 2019</last_update_submitted>
+  <last_update_submitted_qc>November 18, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 5, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccinia</mesh_term>
+    <mesh_term>Smallpox</mesh_term>
+  </condition_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Statistical Analysis Plan: Edition 8</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>March 21, 2016</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/53/NCT01913353/SAP_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>September 29, 2016</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/53/NCT01913353/Prot_001.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan: Edition 8, Amendment 1</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>October 11, 2017</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/53/NCT01913353/SAP_002.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Group 1</title>
+          <description>Two vaccinations; MVA BN ®; administered 4 weeks apart (Day 0 and Day 28) followed by a single vaccination of ACAM2000® vaccine 4 weeks after the second MVA BN® vaccination (Day 56).&#xD;
+MVA BN®: 0.5 ml MVA BN® with a nominal titer of 1x10E8 TCID50, administered as a subcutaneous injection&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+        </group>
+        <group group_id="P2">
+          <title>Group 2</title>
+          <description>A single vaccination of ACAM2000® will be administered at Day 0.&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="221"/>
+                <participants group_id="P2" count="219"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="189"/>
+                <participants group_id="P2" count="204"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="32"/>
+                <participants group_id="P2" count="15"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Adverse Event</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Physician Decision</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="20"/>
+                <participants group_id="P2" count="6"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>multiple reasons</title>
+              <participants_list>
+                <participants group_id="P1" count="10"/>
+                <participants group_id="P2" count="7"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Full Analysis Set</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Group 1</title>
+          <description>Two vaccinations; MVA BN ®; administered 4 weeks apart (Day 0 and Day 28) followed by a single vaccination of ACAM2000® vaccine 4 weeks after the second MVA BN® vaccination (Day 56).&#xD;
+MVA BN®: 0.5 ml MVA BN® with a nominal titre of 1x10E8 TCID50, administered as a subcutaneous injection&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+        </group>
+        <group group_id="B2">
+          <title>Group 2</title>
+          <description>A single vaccination of ACAM2000® will be administered at Day 0.&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="220"/>
+            <count group_id="B2" value="213"/>
+            <count group_id="B3" value="433"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="23.5" spread="4.77"/>
+                    <measurement group_id="B2" value="23.4" spread="4.58"/>
+                    <measurement group_id="B3" value="23.5" spread="4.67"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="39"/>
+                    <measurement group_id="B2" value="29"/>
+                    <measurement group_id="B3" value="68"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="181"/>
+                    <measurement group_id="B2" value="184"/>
+                    <measurement group_id="B3" value="365"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="54"/>
+                    <measurement group_id="B2" value="40"/>
+                    <measurement group_id="B3" value="94"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="166"/>
+                    <measurement group_id="B2" value="173"/>
+                    <measurement group_id="B3" value="339"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="14"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                    <measurement group_id="B2" value="12"/>
+                    <measurement group_id="B3" value="26"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="48"/>
+                    <measurement group_id="B2" value="40"/>
+                    <measurement group_id="B3" value="88"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="126"/>
+                    <measurement group_id="B2" value="136"/>
+                    <measurement group_id="B3" value="262"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="19"/>
+                    <measurement group_id="B2" value="16"/>
+                    <measurement group_id="B3" value="35"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>South Korea</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="220"/>
+                    <measurement group_id="B2" value="213"/>
+                    <measurement group_id="B3" value="433"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Plaque Reduction Neutralization Test (PRNT) Geometric Mean Titer (GMT) at the Peak Visits</title>
+        <description>GMT based on vaccinia-specific PRNT. Titers below the detection limit are included with a value of 1.</description>
+        <time_frame>Day 42 for Group 1 and Day 28 for Group 2</time_frame>
+        <population>Per-protocol Set for Immunogenicity</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Group 1</title>
+            <description>Two vaccinations; MVA-BN ®; administered 4 weeks apart (Day 0 and Day 28) followed by a single vaccination of ACAM2000® vaccine 4 weeks after the second MVA-BN® vaccination (Day 56).&#xD;
+MVA-BN®: 0.5 ml MVA-BN® with a nominal titer of 1x10E8 TCID50, administered as a subcutaneous injection&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+          </group>
+          <group group_id="O2">
+            <title>Group 2</title>
+            <description>A single vaccination of ACAM2000® will be administered at Day 0.&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Plaque Reduction Neutralization Test (PRNT) Geometric Mean Titer (GMT) at the Peak Visits</title>
+          <description>GMT based on vaccinia-specific PRNT. Titers below the detection limit are included with a value of 1.</description>
+          <population>Per-protocol Set for Immunogenicity</population>
+          <units>Titer</units>
+          <param>Geometric Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="185"/>
+                <count group_id="O2" value="186"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="153.5" lower_limit="134.3" upper_limit="175.6"/>
+                    <measurement group_id="O2" value="79.3" lower_limit="67.1" upper_limit="93.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Non-Inferiority</non_inferiority_type>
+            <non_inferiority_desc>The non-inferiority margin to show that Group 1 (after 2 doses of MVA-BN) is non-inferior to Group 2 (after 1 dose of ACAM2000) in terms of PRNT GMTs at the respective peak visit (Week 6 in Group 1 / Week 4 in Group 2) was predefined as '1/2 (i.e. 0.5)' for the GMT ratio (Group 1 / Group 2).</non_inferiority_desc>
+            <param_type>GMT Ratio (Group 1 / Group 2)</param_type>
+            <param_value>1.935</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>1.562</ci_lower_limit>
+            <ci_upper_limit>2.397</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Maximum Lesion Area (MLA) in mm2 After Scarification With ACAM2000®</title>
+        <description>The MLA was defined as the maximum of two measurements: the lesion area measured on Day 6-8 (after scarification) or the lesion area measured on Day 13-15 (after scarification). This was measured using the SilhouetteConnect camera system, and confirmed by the Independent Take Review Committee (ITRC).</description>
+        <time_frame>Day 6-8, 13-15 after 3rd Vaccination for Group 1 and Day 6-8, 13-15 after 1st vaccination for Group 2</time_frame>
+        <population>Per-protocol Set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Group 1</title>
+            <description>Two vaccinations; MVA-BN ®; administered 4 weeks apart (Day 0 and Day 28) followed by a single vaccination of ACAM2000® vaccine 4 weeks after the second MVA-BN® vaccination (Day 56).&#xD;
+MVA-BN®: 0.5 ml MVA-BN® with a nominal titer of 1x10E8 TCID50, administered as a subcutaneous injection&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+          </group>
+          <group group_id="O2">
+            <title>Group 2</title>
+            <description>A single vaccination of ACAM2000® will be administered at Day 0.&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Maximum Lesion Area (MLA) in mm2 After Scarification With ACAM2000®</title>
+          <description>The MLA was defined as the maximum of two measurements: the lesion area measured on Day 6-8 (after scarification) or the lesion area measured on Day 13-15 (after scarification). This was measured using the SilhouetteConnect camera system, and confirmed by the Independent Take Review Committee (ITRC).</description>
+          <population>Per-protocol Set</population>
+          <units>mm2</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="165"/>
+                <count group_id="O2" value="161"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0" lower_limit="0.0" upper_limit="2.0"/>
+                    <measurement group_id="O2" value="76.0" lower_limit="70.0" upper_limit="87.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <non_inferiority_desc>Predefined threshold of clinical relevance for the area attenuation ratio (AAR): 40%</non_inferiority_desc>
+            <param_type>Area attenuation ratio (AAR)</param_type>
+            <param_value>97.9</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>96.6</ci_lower_limit>
+            <ci_upper_limit>98.3</ci_upper_limit>
+            <estimate_desc>The AAR, i.e. the reduction in MLA [1 - MLA ratio (Group 1/Group 2)] after scarification was to be significantly above 40%. The MLA ratio and the corresponding 95% CI were based on the Hodges-Lehmann estimate of the shift for log-transformed MLAs.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Investigator-measured Maximum Lesion Diameter (MLD) in mm After Scarification With ACAM2000</title>
+        <description>The MLD was defined as the largest major diameter measured across the lesion on Day 6-8 (after scarification) or Day 13-15 (after scarification)</description>
+        <time_frame>Day 6-8 and Day 13-15 after ACAM2000 scarification</time_frame>
+        <population>Per-protocol Set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Group 1</title>
+            <description>Two vaccinations; MVA-BN ®; administered 4 weeks apart (Day 0 and Day 28) followed by a single vaccination of ACAM2000® vaccine 4 weeks after the second MVA-BN® vaccination (Day 56).&#xD;
+MVA-BN®: 0.5 ml MVA-BN® with a nominal titer of 1x10E8 TCID50, administered as a subcutaneous injection&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+          </group>
+          <group group_id="O2">
+            <title>Group 2</title>
+            <description>A single vaccination of ACAM2000® will be administered at Day 0.&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Investigator-measured Maximum Lesion Diameter (MLD) in mm After Scarification With ACAM2000</title>
+          <description>The MLD was defined as the largest major diameter measured across the lesion on Day 6-8 (after scarification) or Day 13-15 (after scarification)</description>
+          <population>Per-protocol Set</population>
+          <units>mm</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="165"/>
+                <count group_id="O2" value="161"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0" lower_limit="0.0" upper_limit="2.0"/>
+                    <measurement group_id="O2" value="11.0" lower_limit="10.0" upper_limit="11.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Investigator-measured Lesion Diameter in mm at Day 6-8 After Scarification With ACAM2000</title>
+        <description>The lesion diameter at Day 6-8 was defined as the major lesion diameter measured on Day 6-8 (after scarification)</description>
+        <time_frame>Day 6-8 after ACAM2000 scarification</time_frame>
+        <population>Per-protocol Set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Group 1</title>
+            <description>Two vaccinations; MVA-BN ®; administered 4 weeks apart (Day 0 and Day 28) followed by a single vaccination of ACAM2000® vaccine 4 weeks after the second MVA-BN® vaccination (Day 56).&#xD;
+MVA-BN®: 0.5 ml MVA-BN® with a nominal titer of 1x10E8 TCID50, administered as a subcutaneous injection&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+          </group>
+          <group group_id="O2">
+            <title>Group 2</title>
+            <description>A single vaccination of ACAM2000® will be administered at Day 0.&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Investigator-measured Lesion Diameter in mm at Day 6-8 After Scarification With ACAM2000</title>
+          <description>The lesion diameter at Day 6-8 was defined as the major lesion diameter measured on Day 6-8 (after scarification)</description>
+          <population>Per-protocol Set</population>
+          <units>mm</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="165"/>
+                <count group_id="O2" value="161"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0" lower_limit="0.0" upper_limit="2.0"/>
+                    <measurement group_id="O2" value="8.0" lower_limit="8.0" upper_limit="9.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Investigator-measured Lesion Diameter in mm at Day 13-15 After Scarification With ACAM2000</title>
+        <description>The lesion diameter at Day 13-15 was defined as the major lesion diameter measured on Day 13-15 (after scarification)</description>
+        <time_frame>Day 13-15 after ACAM2000 scarification</time_frame>
+        <population>Per-protocol Set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Group 1</title>
+            <description>Two vaccinations; MVA-BN ®; administered 4 weeks apart (Day 0 and Day 28) followed by a single vaccination of ACAM2000® vaccine 4 weeks after the second MVA-BN® vaccination (Day 56).&#xD;
+MVA-BN®: 0.5 ml MVA-BN® with a nominal titer of 1x10E8 TCID50, administered as a subcutaneous injection&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+          </group>
+          <group group_id="O2">
+            <title>Group 2</title>
+            <description>A single vaccination of ACAM2000® will be administered at Day 0.&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Investigator-measured Lesion Diameter in mm at Day 13-15 After Scarification With ACAM2000</title>
+          <description>The lesion diameter at Day 13-15 was defined as the major lesion diameter measured on Day 13-15 (after scarification)</description>
+          <population>Per-protocol Set</population>
+          <units>mm</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="165"/>
+                <count group_id="O2" value="161"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0" lower_limit="0.0" upper_limit="0.0"/>
+                    <measurement group_id="O2" value="10.0" lower_limit="10.0" upper_limit="11.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Individual Take as Classified by a Blinded Independent Take Review Committee (ITRC)</title>
+        <description>Take was assessed as either full, partial, or absent take by the ITRC based on Day 6-8 evaluations following ACAM2000 vaccination using subject profiles that contained supportive data up to Day 14 following ACAM2000 vaccination (in accordance with the ITRC Charter).</description>
+        <time_frame>Day 6-8 visit following ACAM2000 vaccination</time_frame>
+        <population>Per-protocol Set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Group 1</title>
+            <description>Two vaccinations; MVA-BN ®; administered 4 weeks apart (Day 0 and Day 28) followed by a single vaccination of ACAM2000® vaccine 4 weeks after the second MVA-BN® vaccination (Day 56).&#xD;
+MVA-BN®: 0.5 ml MVA-BN® with a nominal titer of 1x10E8 TCID50, administered as a subcutaneous injection&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+          </group>
+          <group group_id="O2">
+            <title>Group 2</title>
+            <description>A single vaccination of ACAM2000® will be administered at Day 0.&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Individual Take as Classified by a Blinded Independent Take Review Committee (ITRC)</title>
+          <description>Take was assessed as either full, partial, or absent take by the ITRC based on Day 6-8 evaluations following ACAM2000 vaccination using subject profiles that contained supportive data up to Day 14 following ACAM2000 vaccination (in accordance with the ITRC Charter).</description>
+          <population>Per-protocol Set</population>
+          <units>percentage of subjects</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="165"/>
+                <count group_id="O2" value="161"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Full Take</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="23.0" lower_limit="16.8" upper_limit="30.2"/>
+                    <measurement group_id="O2" value="92.5" lower_limit="87.3" upper_limit="96.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Partial Take</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="23.0" lower_limit="16.8" upper_limit="30.2"/>
+                    <measurement group_id="O2" value="4.3" lower_limit="1.8" upper_limit="8.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Absent Take</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="53.9" lower_limit="46.0" upper_limit="61.7"/>
+                    <measurement group_id="O2" value="1.9" lower_limit="0.4" upper_limit="5.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Missing</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0" lower_limit="0.0" upper_limit="2.2"/>
+                    <measurement group_id="O2" value="1.2" lower_limit="0.2" upper_limit="4.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Lesion Area in mm2 at Day 6-8 After Scarification With ACAM2000</title>
+        <description>Lesion area was measured by the Investigator using the SilhouetteConnect camera system and confirmed by the blinded ITRC.</description>
+        <time_frame>Day 6-8 after ACAM2000 scarification</time_frame>
+        <population>Per-protocol Set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Group 1</title>
+            <description>Two vaccinations; MVA-BN ®; administered 4 weeks apart (Day 0 and Day 28) followed by a single vaccination of ACAM2000® vaccine 4 weeks after the second MVA-BN® vaccination (Day 56).&#xD;
+MVA-BN®: 0.5 ml MVA-BN® with a nominal titer of 1x10E8 TCID50, administered as a subcutaneous injection&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+          </group>
+          <group group_id="O2">
+            <title>Group 2</title>
+            <description>A single vaccination of ACAM2000® will be administered at Day 0.&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Lesion Area in mm2 at Day 6-8 After Scarification With ACAM2000</title>
+          <description>Lesion area was measured by the Investigator using the SilhouetteConnect camera system and confirmed by the blinded ITRC.</description>
+          <population>Per-protocol Set</population>
+          <units>mm2</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="165"/>
+                <count group_id="O2" value="161"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0" lower_limit="0.0" upper_limit="1.0"/>
+                    <measurement group_id="O2" value="37.0" lower_limit="33.0" upper_limit="42.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Lesion Area in mm2 at Day 13-15 After Scarification With ACAM2000</title>
+        <description>Lesion area was measured by the Investigator using the SilhouetteConnect camera system and confirmed by the blinded ITRC.</description>
+        <time_frame>Day 13-15 after ACAM2000 scarification</time_frame>
+        <population>Per-protocol Set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Group 1</title>
+            <description>Two vaccinations; MVA-BN ®; administered 4 weeks apart (Day 0 and Day 28) followed by a single vaccination of ACAM2000® vaccine 4 weeks after the second MVA-BN® vaccination (Day 56).&#xD;
+MVA-BN®: 0.5 ml MVA-BN® with a nominal titer of 1x10E8 TCID50, administered as a subcutaneous injection&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+          </group>
+          <group group_id="O2">
+            <title>Group 2</title>
+            <description>A single vaccination of ACAM2000® will be administered at Day 0.&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Lesion Area in mm2 at Day 13-15 After Scarification With ACAM2000</title>
+          <description>Lesion area was measured by the Investigator using the SilhouetteConnect camera system and confirmed by the blinded ITRC.</description>
+          <population>Per-protocol Set</population>
+          <units>mm2</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="165"/>
+                <count group_id="O2" value="161"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0" lower_limit="0.0" upper_limit="0.0"/>
+                    <measurement group_id="O2" value="75.0" lower_limit="69.0" upper_limit="85.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Relationship to Vaccine of Any Serious Adverse Event (SAE)</title>
+        <description>Presentation of SAEs by relationship to study vaccine</description>
+        <time_frame>Within 38 weeks for Group 1 and 30 weeks for Group 2</time_frame>
+        <population>Full Analysis Set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Group 1</title>
+            <description>Two vaccinations; MVA-BN ®; administered 4 weeks apart (Day 0 and Day 28) followed by a single vaccination of ACAM2000® vaccine 4 weeks after the second MVA-BN® vaccination (Day 56).&#xD;
+MVA-BN®: 0.5 ml MVA-BN® with a nominal titer of 1x10E8 TCID50, administered as a subcutaneous injection&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+          </group>
+          <group group_id="O2">
+            <title>Group 2</title>
+            <description>A single vaccination of ACAM2000® will be administered at Day 0.&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Relationship to Vaccine of Any Serious Adverse Event (SAE)</title>
+          <description>Presentation of SAEs by relationship to study vaccine</description>
+          <population>Full Analysis Set</population>
+          <units>Events</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="220"/>
+                <count group_id="O2" value="213"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Unrelated/None</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Unlikely</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Possible</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Probable</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Definite</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Intensity of Any Serious Adverse Event (SAE)</title>
+        <description>Presentation of SAEs by intensity</description>
+        <time_frame>Within 38 weeks for Group 1 and 30 weeks for Group 2</time_frame>
+        <population>Full Analysis Set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Group 1</title>
+            <description>Two vaccinations; MVA-BN ®; administered 4 weeks apart (Day 0 and Day 28) followed by a single vaccination of ACAM2000® vaccine 4 weeks after the second MVA-BN® vaccination (Day 56).&#xD;
+MVA-BN®: 0.5 ml MVA-BN® with a nominal titer of 1x10E8 TCID50, administered as a subcutaneous injection&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+          </group>
+          <group group_id="O2">
+            <title>Group 2</title>
+            <description>A single vaccination of ACAM2000® will be administered at Day 0.&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Intensity of Any Serious Adverse Event (SAE)</title>
+          <description>Presentation of SAEs by intensity</description>
+          <population>Full Analysis Set</population>
+          <units>participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="220"/>
+                <count group_id="O2" value="213"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Mild: routine daily activity not impaired</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Moderate: routine daily activity impaired</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Severe: prevents routine daily activities</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Life threatening</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Incidence of Any Cardiac Sign or Symptom Indicating a Case of Myo-/Pericarditis, i.e. Adverse Events of Special Interest (AESIs)</title>
+        <description>In this clinical trial, an AESI was defined as any cardiac sign or symptom developed since the first vaccination, any ECG changes determined to be clinically significant, or any cardiac enzyme results of Troponin I ≥ 2 x ULN.</description>
+        <time_frame>Within 38 weeks for Group 1 and 30 weeks for Group 2</time_frame>
+        <population>Full Analysis Set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Group 1, Period 1</title>
+            <description>after 1st dose of MVA-BN</description>
+          </group>
+          <group group_id="O2">
+            <title>Group 1, Period 2</title>
+            <description>after second dose of MVA-BN</description>
+          </group>
+          <group group_id="O3">
+            <title>Group 1, Period 3</title>
+            <description>after ACAM2000</description>
+          </group>
+          <group group_id="O4">
+            <title>Group 2</title>
+            <description>ACAM2000</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Incidence of Any Cardiac Sign or Symptom Indicating a Case of Myo-/Pericarditis, i.e. Adverse Events of Special Interest (AESIs)</title>
+          <description>In this clinical trial, an AESI was defined as any cardiac sign or symptom developed since the first vaccination, any ECG changes determined to be clinically significant, or any cardiac enzyme results of Troponin I ≥ 2 x ULN.</description>
+          <population>Full Analysis Set</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="220"/>
+                <count group_id="O2" value="208"/>
+                <count group_id="O3" value="196"/>
+                <count group_id="O4" value="213"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="2"/>
+                    <measurement group_id="O3" value="3"/>
+                    <measurement group_id="O4" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Related Grade &gt;=3 Adverse Events</title>
+        <description>Incidence of any Grade 3 or 4 adverse events (AEs) possibly, probably, or definitely related to the vaccine. Pooled solicited (general only) and unsolicited AEs.</description>
+        <time_frame>within 29 days after vaccination</time_frame>
+        <population>Full Analysis Set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Group 1, Period 1</title>
+            <description>after 1st dose of MVA-BN</description>
+          </group>
+          <group group_id="O2">
+            <title>Group 1, Period 2</title>
+            <description>after 2nd dose of MVA-BN</description>
+          </group>
+          <group group_id="O3">
+            <title>Group 1, Period 3</title>
+            <description>after ACAM2000</description>
+          </group>
+          <group group_id="O4">
+            <title>Group 2</title>
+            <description>ACAM2000</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Related Grade &gt;=3 Adverse Events</title>
+          <description>Incidence of any Grade 3 or 4 adverse events (AEs) possibly, probably, or definitely related to the vaccine. Pooled solicited (general only) and unsolicited AEs.</description>
+          <population>Full Analysis Set</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="220"/>
+                <count group_id="O2" value="208"/>
+                <count group_id="O3" value="196"/>
+                <count group_id="O4" value="213"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="2"/>
+                    <measurement group_id="O3" value="3"/>
+                    <measurement group_id="O4" value="22"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Relationship to Vaccine of Any Non-serious AEs</title>
+        <description>Presentation of non-serious AEs by relationship to study vaccine</description>
+        <time_frame>within 29 days after vaccination</time_frame>
+        <population>Full Analysis Set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Group 1, Period 1</title>
+            <description>after 1st dose of MVA-BN</description>
+          </group>
+          <group group_id="O2">
+            <title>Group 1, Period 2</title>
+            <description>after 2nd dose of MVA-BN</description>
+          </group>
+          <group group_id="O3">
+            <title>Group 1, Period 3</title>
+            <description>after ACAM2000</description>
+          </group>
+          <group group_id="O4">
+            <title>Group 2</title>
+            <description>ACAM2000</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Relationship to Vaccine of Any Non-serious AEs</title>
+          <description>Presentation of non-serious AEs by relationship to study vaccine</description>
+          <population>Full Analysis Set</population>
+          <units>Events</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="220"/>
+                <count group_id="O2" value="208"/>
+                <count group_id="O3" value="196"/>
+                <count group_id="O4" value="213"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Unrelated/None</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="94"/>
+                    <measurement group_id="O2" value="67"/>
+                    <measurement group_id="O3" value="110"/>
+                    <measurement group_id="O4" value="102"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Unlikely</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="24"/>
+                    <measurement group_id="O2" value="19"/>
+                    <measurement group_id="O3" value="29"/>
+                    <measurement group_id="O4" value="23"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Possible</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="27"/>
+                    <measurement group_id="O2" value="15"/>
+                    <measurement group_id="O3" value="18"/>
+                    <measurement group_id="O4" value="30"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Probable</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Definite</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="107"/>
+                    <measurement group_id="O2" value="56"/>
+                    <measurement group_id="O3" value="9"/>
+                    <measurement group_id="O4" value="34"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Intensity of Any Non-serious AEs</title>
+        <description>Presentation of non-serious AEs by intensity</description>
+        <time_frame>within 29 days after vaccination</time_frame>
+        <population>Full Analysis Set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Group 1, Period 1</title>
+            <description>after 1st dose of MVA-BN</description>
+          </group>
+          <group group_id="O2">
+            <title>Group 1, Period 2</title>
+            <description>after 2nd dose of MVA-BN</description>
+          </group>
+          <group group_id="O3">
+            <title>Group 1, Period 3</title>
+            <description>after ACAM2000</description>
+          </group>
+          <group group_id="O4">
+            <title>Group 2</title>
+            <description>ACAM2000</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Intensity of Any Non-serious AEs</title>
+          <description>Presentation of non-serious AEs by intensity</description>
+          <population>Full Analysis Set</population>
+          <units>Events</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="220"/>
+                <count group_id="O2" value="208"/>
+                <count group_id="O3" value="196"/>
+                <count group_id="O4" value="213"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Mild</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="233"/>
+                    <measurement group_id="O2" value="141"/>
+                    <measurement group_id="O3" value="143"/>
+                    <measurement group_id="O4" value="163"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Moderate</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="20"/>
+                    <measurement group_id="O2" value="16"/>
+                    <measurement group_id="O3" value="18"/>
+                    <measurement group_id="O4" value="25"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Severe</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="5"/>
+                    <measurement group_id="O4" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Solicited General AEs</title>
+        <description>Occurrence, intensity and relationship of solicited general AEs (body temperature [fever], headache, myalgia [muscle pain], chills, nausea, fatigue, malaise)</description>
+        <time_frame>within 15 days after vaccination</time_frame>
+        <population>Full Analysis Set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Group 1, Period 1</title>
+            <description>after 1st dose of MVA-BN</description>
+          </group>
+          <group group_id="O2">
+            <title>Group 1, Period 2</title>
+            <description>after 2nd dose of MVA-BN</description>
+          </group>
+          <group group_id="O3">
+            <title>Group 1, Period 3</title>
+            <description>after ACAM2000</description>
+          </group>
+          <group group_id="O4">
+            <title>Group 2</title>
+            <description>ACAM2000</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Solicited General AEs</title>
+          <description>Occurrence, intensity and relationship of solicited general AEs (body temperature [fever], headache, myalgia [muscle pain], chills, nausea, fatigue, malaise)</description>
+          <population>Full Analysis Set</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="208"/>
+                <count group_id="O2" value="193"/>
+                <count group_id="O3" value="187"/>
+                <count group_id="O4" value="200"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Pyrexia, Grade 1, Related</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Pyrexia, Grade 2, Related</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                    <measurement group_id="O4" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Pyrexia, Grade 3, Related</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Headache, Grade 1, Related</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="25"/>
+                    <measurement group_id="O2" value="11"/>
+                    <measurement group_id="O3" value="17"/>
+                    <measurement group_id="O4" value="38"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Headache, Grade 2, Related</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                    <measurement group_id="O2" value="3"/>
+                    <measurement group_id="O3" value="7"/>
+                    <measurement group_id="O4" value="21"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Headache, Grade 3, Related</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="2"/>
+                    <measurement group_id="O3" value="1"/>
+                    <measurement group_id="O4" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Myalgia, Grade 1, Related</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="28"/>
+                    <measurement group_id="O2" value="13"/>
+                    <measurement group_id="O3" value="15"/>
+                    <measurement group_id="O4" value="44"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Myalgia, Grade 2, Related</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="5"/>
+                    <measurement group_id="O3" value="2"/>
+                    <measurement group_id="O4" value="21"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Myalgia, Grade 3, Related</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Chills, Grade 1, Related</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="8"/>
+                    <measurement group_id="O4" value="19"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Chills, Grade 2, Related</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                    <measurement group_id="O3" value="2"/>
+                    <measurement group_id="O4" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Chills, Grade 3, Related</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Nausea, Grade 1, Related</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7"/>
+                    <measurement group_id="O2" value="4"/>
+                    <measurement group_id="O3" value="6"/>
+                    <measurement group_id="O4" value="21"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Nausea, Grade 2, Related</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                    <measurement group_id="O3" value="4"/>
+                    <measurement group_id="O4" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Nausea, Grade 3, Related</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                    <measurement group_id="O4" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Fatigue, Grade 1, Related</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="29"/>
+                    <measurement group_id="O2" value="14"/>
+                    <measurement group_id="O3" value="21"/>
+                    <measurement group_id="O4" value="45"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Fatigue, Grade 2, Related</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7"/>
+                    <measurement group_id="O2" value="2"/>
+                    <measurement group_id="O3" value="7"/>
+                    <measurement group_id="O4" value="30"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Fatigue, Grade 3, Related</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="1"/>
+                    <measurement group_id="O4" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Malaise, Grade 1, Related</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="16"/>
+                    <measurement group_id="O2" value="6"/>
+                    <measurement group_id="O3" value="12"/>
+                    <measurement group_id="O4" value="30"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Malaise, Grade 2, Related</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="2"/>
+                    <measurement group_id="O3" value="8"/>
+                    <measurement group_id="O4" value="25"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Malaise, Grade 3, Related</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="2"/>
+                    <measurement group_id="O4" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Incidence of Lymphadenopathy</title>
+        <description>Incidence of events of Lymphadenopathy. Pooled solicited and unsolicited events.</description>
+        <time_frame>within 29 days after vaccination</time_frame>
+        <population>Full Analysis Set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Group 1, Period 1</title>
+            <description>after 1st dose of MVA-BN</description>
+          </group>
+          <group group_id="O2">
+            <title>Group 1, Period 2</title>
+            <description>after 2nd dose of MVA-BN</description>
+          </group>
+          <group group_id="O3">
+            <title>Group 1, Period 3</title>
+            <description>after ACAM2000</description>
+          </group>
+          <group group_id="O4">
+            <title>Group 2</title>
+            <description>ACAM2000</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Incidence of Lymphadenopathy</title>
+          <description>Incidence of events of Lymphadenopathy. Pooled solicited and unsolicited events.</description>
+          <population>Full Analysis Set</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="220"/>
+                <count group_id="O2" value="208"/>
+                <count group_id="O3" value="196"/>
+                <count group_id="O4" value="213"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="24"/>
+                    <measurement group_id="O2" value="15"/>
+                    <measurement group_id="O3" value="17"/>
+                    <measurement group_id="O4" value="109"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Solicited Local AEs: Intensity</title>
+        <description>Incidence of solicited local AEs (pain, redness [erythema], swelling, induration, itching [pruritus])</description>
+        <time_frame>within 15 days after vaccination</time_frame>
+        <population>Full Analysis Set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Group 1, Period 1</title>
+            <description>after 1st dose of MVA-BN</description>
+          </group>
+          <group group_id="O2">
+            <title>Group 1, Period 2</title>
+            <description>after 2nd dose of MVA-BN</description>
+          </group>
+          <group group_id="O3">
+            <title>Group 1, Period 3</title>
+            <description>after ACAM2000</description>
+          </group>
+          <group group_id="O4">
+            <title>Group 2</title>
+            <description>ACAM2000</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Solicited Local AEs: Intensity</title>
+          <description>Incidence of solicited local AEs (pain, redness [erythema], swelling, induration, itching [pruritus])</description>
+          <population>Full Analysis Set</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="208"/>
+                <count group_id="O2" value="193"/>
+                <count group_id="O3" value="187"/>
+                <count group_id="O4" value="200"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Injection Site Pain, Grade 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="72"/>
+                    <measurement group_id="O2" value="49"/>
+                    <measurement group_id="O3" value="21"/>
+                    <measurement group_id="O4" value="58"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Injection Site Pain, Grade 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="21"/>
+                    <measurement group_id="O2" value="22"/>
+                    <measurement group_id="O3" value="6"/>
+                    <measurement group_id="O4" value="44"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Injection Site Pain, Grade 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                    <measurement group_id="O4" value="33"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Injection Site Erythema, Grade 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="44"/>
+                    <measurement group_id="O2" value="40"/>
+                    <measurement group_id="O3" value="106"/>
+                    <measurement group_id="O4" value="105"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Injection Site Erythema, Grade 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                    <measurement group_id="O2" value="10"/>
+                    <measurement group_id="O3" value="9"/>
+                    <measurement group_id="O4" value="81"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Injection Site Erythema, Grade 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Injection Site Swelling, Grade 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="14"/>
+                    <measurement group_id="O2" value="16"/>
+                    <measurement group_id="O3" value="46"/>
+                    <measurement group_id="O4" value="120"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Injection Site Swelling, Grade 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="6"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Injection Site Swelling, Grade 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Injection Site Induration, Grade 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="23"/>
+                    <measurement group_id="O2" value="11"/>
+                    <measurement group_id="O3" value="44"/>
+                    <measurement group_id="O4" value="125"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Injection Site Induration, Grade 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="2"/>
+                    <measurement group_id="O3" value="1"/>
+                    <measurement group_id="O4" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Injection Site Induration, Grade 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Injection Site Pruritus, Grade 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="24"/>
+                    <measurement group_id="O2" value="19"/>
+                    <measurement group_id="O3" value="99"/>
+                    <measurement group_id="O4" value="101"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Injection Site Pruritus, Grade 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="11"/>
+                    <measurement group_id="O4" value="60"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Injection Site Pruritus, Grade 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                    <measurement group_id="O4" value="18"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Major Lesion Size, Major Erythema, and Major Induration Diameter</title>
+        <description>Daily measurement of major lesion size, major erythema, and major induration diameter (mm) based on physical appearance of vaccination site as documented in the memory aid. If the shape of the lesion, erythema [excludes lymphangitis], and induration observed was not round but rather asymmetrical, then the largest [or major] cross-sectional measurement was recorded.</description>
+        <time_frame>Within 15 days after scarification with ACAM2000</time_frame>
+        <population>Full Analysis Set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Group 1</title>
+            <description>Two vaccinations; MVA-BN ®; administered 4 weeks apart (Day 0 and Day 28) followed by a single vaccination of ACAM2000® vaccine 4 weeks after the second MVA-BN® vaccination (Day 56).&#xD;
+MVA-BN®: 0.5 ml MVA-BN® with a nominal titer of 1x10E8 TCID50, administered as a subcutaneous injection&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+          </group>
+          <group group_id="O2">
+            <title>Group 2</title>
+            <description>A single vaccination of ACAM2000® will be administered at Day 0.&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Major Lesion Size, Major Erythema, and Major Induration Diameter</title>
+          <description>Daily measurement of major lesion size, major erythema, and major induration diameter (mm) based on physical appearance of vaccination site as documented in the memory aid. If the shape of the lesion, erythema [excludes lymphangitis], and induration observed was not round but rather asymmetrical, then the largest [or major] cross-sectional measurement was recorded.</description>
+          <population>Full Analysis Set</population>
+          <units>mm</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="220"/>
+                <count group_id="O2" value="213"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Maximum Lesion Diameter</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.0" lower_limit="4.0" upper_limit="5.0"/>
+                    <measurement group_id="O2" value="11.5" lower_limit="11.0" upper_limit="12.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Maximum Erythema</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.0" lower_limit="5.0" upper_limit="7.0"/>
+                    <measurement group_id="O2" value="26.0" lower_limit="25.0" upper_limit="30.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Maximum Induration</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.0" lower_limit="4.0" upper_limit="9.0"/>
+                    <measurement group_id="O2" value="15.0" lower_limit="13.0" upper_limit="16.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>GMTs at the Peak Visits and Individual Peak Measured by Vaccinia-specific ELISA</title>
+        <description>Peak Visit was defined as Day 42 for Group 1 and Day 28 for Group 2. Individual Peak was the maximum titer per subject from Visit 1 to Visit 7 (Week 8) in Group 1 and maximum titer from Visit 1 to Visit 6 (Week 8) in Group 2.&#xD;
+Titers below the detection limit are included with a value of 1.</description>
+        <time_frame>within 8 weeks (for both groups)</time_frame>
+        <population>Per-protocol Set for Immunogenicity</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Group 1</title>
+            <description>Two vaccinations; MVA-BN ®; administered 4 weeks apart (Day 0 and Day 28) followed by a single vaccination of ACAM2000® vaccine 4 weeks after the second MVA-BN® vaccination (Day 56).&#xD;
+MVA-BN®: 0.5 ml MVA-BN® with a nominal titer of 1x10E8 TCID50, administered as a subcutaneous injection&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+          </group>
+          <group group_id="O2">
+            <title>Group 2</title>
+            <description>A single vaccination of ACAM2000® will be administered at Day 0.&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>GMTs at the Peak Visits and Individual Peak Measured by Vaccinia-specific ELISA</title>
+          <description>Peak Visit was defined as Day 42 for Group 1 and Day 28 for Group 2. Individual Peak was the maximum titer per subject from Visit 1 to Visit 7 (Week 8) in Group 1 and maximum titer from Visit 1 to Visit 6 (Week 8) in Group 2.&#xD;
+Titers below the detection limit are included with a value of 1.</description>
+          <population>Per-protocol Set for Immunogenicity</population>
+          <units>Titer</units>
+          <param>Geometric Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="185"/>
+                <count group_id="O2" value="186"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Peak Visit</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1076.9" lower_limit="956.8" upper_limit="1212.0"/>
+                    <measurement group_id="O2" value="194.6" lower_limit="162.6" upper_limit="232.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Individual Peak</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1105.2" lower_limit="983.4" upper_limit="1242.0"/>
+                    <measurement group_id="O2" value="214.0" lower_limit="177.8" upper_limit="257.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>GMTs at the Individual Peak Measured by Vaccinia-specific PRNT</title>
+        <description>Individual Peak was the maximum titer per subject from Visit 1 to Visit 7 (Week 8) in Group 1 and maximum titer from Visit 1 to Visit 6 (Week 8) in Group 2.&#xD;
+Titers below the detection limit are included with a value of 1.</description>
+        <time_frame>within 8 weeks (for both groups)</time_frame>
+        <population>Per-protocol Set for Immunogenicity</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Group 1</title>
+            <description>Two vaccinations; MVA-BN ®; administered 4 weeks apart (Day 0 and Day 28) followed by a single vaccination of ACAM2000® vaccine 4 weeks after the second MVA-BN® vaccination (Day 56).&#xD;
+MVA-BN®: 0.5 ml MVA-BN® with a nominal titer of 1x10E8 TCID50, administered as a subcutaneous injection&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+          </group>
+          <group group_id="O2">
+            <title>Group 2</title>
+            <description>A single vaccination of ACAM2000® will be administered at Day 0.&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>GMTs at the Individual Peak Measured by Vaccinia-specific PRNT</title>
+          <description>Individual Peak was the maximum titer per subject from Visit 1 to Visit 7 (Week 8) in Group 1 and maximum titer from Visit 1 to Visit 6 (Week 8) in Group 2.&#xD;
+Titers below the detection limit are included with a value of 1.</description>
+          <population>Per-protocol Set for Immunogenicity</population>
+          <units>Titer</units>
+          <param>Geometric Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="185"/>
+                <count group_id="O2" value="186"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="201.5" lower_limit="178.5" upper_limit="227.5"/>
+                    <measurement group_id="O2" value="117.8" lower_limit="102.3" upper_limit="135.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>GMTs as Measured by Vaccinia-specific ELISA</title>
+        <description>GMT based on vaccinia-specific ELISA. Titers below the detection limit are included with a value of '1'.</description>
+        <time_frame>within 12 weeks</time_frame>
+        <population>Per-protocol Set for Immunogenicity</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Group 1</title>
+            <description>Two vaccinations; MVA-BN ®; administered 4 weeks apart (Day 0 and Day 28) followed by a single vaccination of ACAM2000® vaccine 4 weeks after the second MVA-BN® vaccination (Day 56).&#xD;
+MVA-BN®: 0.5 ml MVA-BN® with a nominal titer of 1x10E8 TCID50, administered as a subcutaneous injection&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+          </group>
+          <group group_id="O2">
+            <title>Group 2</title>
+            <description>A single vaccination of ACAM2000® will be administered at Day 0.&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>GMTs as Measured by Vaccinia-specific ELISA</title>
+          <description>GMT based on vaccinia-specific ELISA. Titers below the detection limit are included with a value of '1'.</description>
+          <population>Per-protocol Set for Immunogenicity</population>
+          <units>Titer</units>
+          <param>Geometric Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="185"/>
+                <count group_id="O2" value="186"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Week 0</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.2" lower_limit="1.1" upper_limit="1.3"/>
+                    <measurement group_id="O2" value="1.2" lower_limit="1.0" upper_limit="1.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.6" lower_limit="1.3" upper_limit="2.0"/>
+                    <measurement group_id="O2" value="1.2" lower_limit="1.0" upper_limit="1.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="104.9" lower_limit="84.0" upper_limit="131.0"/>
+                    <measurement group_id="O2" value="21.9" lower_limit="15.9" upper_limit="30.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 4</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="129.8" lower_limit="107.1" upper_limit="157.2"/>
+                    <measurement group_id="O2" value="194.6" lower_limit="162.6" upper_limit="232.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 6</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1076.9" lower_limit="956.8" upper_limit="1212.0"/>
+                    <measurement group_id="O2" value="149.2" lower_limit="123.6" upper_limit="180.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 8</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="671.9" lower_limit="597.2" upper_limit="755.8"/>
+                    <measurement group_id="O2" value="113.7" lower_limit="93.2" upper_limit="138.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 12</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="550.5" lower_limit="482.2" upper_limit="628.4"/>
+                    <measurement group_id="O2" value="NA" lower_limit="NA" upper_limit="NA">No week 12 visit for Group 2</measurement>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>GMTs as Measured by Vaccinia-specific PRNT</title>
+        <description>GMT based on vaccinia-specific PRNT. Titers below the detection limit are included with a value of '1'.</description>
+        <time_frame>within 12 weeks</time_frame>
+        <population>Per-protocol Set for Immunogenicity</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Group 1</title>
+            <description>Two vaccinations; MVA-BN ®; administered 4 weeks apart (Day 0 and Day 28) followed by a single vaccination of ACAM2000® vaccine 4 weeks after the second MVA-BN® vaccination (Day 56).&#xD;
+MVA-BN®: 0.5 ml MVA-BN® with a nominal titer of 1x10E8 TCID50, administered as a subcutaneous injection&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+          </group>
+          <group group_id="O2">
+            <title>Group 2</title>
+            <description>A single vaccination of ACAM2000® will be administered at Day 0.&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>GMTs as Measured by Vaccinia-specific PRNT</title>
+          <description>GMT based on vaccinia-specific PRNT. Titers below the detection limit are included with a value of '1'.</description>
+          <population>Per-protocol Set for Immunogenicity</population>
+          <units>Titer</units>
+          <param>Geometric Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="185"/>
+                <count group_id="O2" value="186"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Week 0</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.0" lower_limit="1.0" upper_limit="1.1"/>
+                    <measurement group_id="O2" value="1.0" lower_limit="1.0" upper_limit="1.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.1" lower_limit="1.0" upper_limit="1.3"/>
+                    <measurement group_id="O2" value="1.0" lower_limit="1.0" upper_limit="1.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="16.2" lower_limit="13.0" upper_limit="20.1"/>
+                    <measurement group_id="O2" value="16.2" lower_limit="13.1" upper_limit="20.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 4</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="16.9" lower_limit="13.7" upper_limit="20.8"/>
+                    <measurement group_id="O2" value="79.3" lower_limit="67.1" upper_limit="93.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 6</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="153.5" lower_limit="134.3" upper_limit="175.6"/>
+                    <measurement group_id="O2" value="64.7" lower_limit="54.9" upper_limit="76.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 8</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="118.2" lower_limit="102.9" upper_limit="135.8"/>
+                    <measurement group_id="O2" value="67.1" lower_limit="56.9" upper_limit="79.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 12</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="96.5" lower_limit="80.1" upper_limit="116.2"/>
+                    <measurement group_id="O2" value="NA" lower_limit="NA" upper_limit="NA">No week 12 visit for Group 2</measurement>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>PRNT Seroconversion Rates at Peak Visits</title>
+        <description>Seroconversion rate based on PRNT. Seroconversion is defined as the appearance of antibody titers &quot;greater than or equal&quot; detection limit (2) for initially seronegative subjects, or a doubling or more of the antibody titer compared to Baseline titer for initially seropositive subjects. Percentages based on number of subjects with data available.</description>
+        <time_frame>Group 1 at Week 6; Group 2 at Week 4</time_frame>
+        <population>Per-protocol Set for Immunogenicity</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Group 1</title>
+            <description>Two vaccinations; MVA-BN ®; administered 4 weeks apart (Day 0 and Day 28) followed by a single vaccination of ACAM2000® vaccine 4 weeks after the second MVA-BN® vaccination (Day 56).&#xD;
+MVA-BN®: 0.5 ml MVA-BN® with a nominal titer of 1x10E8 TCID50, administered as a subcutaneous injection&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+          </group>
+          <group group_id="O2">
+            <title>Group 2</title>
+            <description>A single vaccination of ACAM2000® will be administered at Day 0.&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>PRNT Seroconversion Rates at Peak Visits</title>
+          <description>Seroconversion rate based on PRNT. Seroconversion is defined as the appearance of antibody titers &quot;greater than or equal&quot; detection limit (2) for initially seronegative subjects, or a doubling or more of the antibody titer compared to Baseline titer for initially seropositive subjects. Percentages based on number of subjects with data available.</description>
+          <population>Per-protocol Set for Immunogenicity</population>
+          <units>percentage of subjects</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="185"/>
+                <count group_id="O2" value="186"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="100.0" lower_limit="98.0" upper_limit="100.0"/>
+                    <measurement group_id="O2" value="97.3" lower_limit="93.8" upper_limit="99.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>ELISA Seroconversion Rates at Peak Visits</title>
+        <description>Seroconversion rate based on ELISA. Seroconversion is defined as the appearance of antibody titers &quot;greater than or equal&quot; detection limit (50) for initially seronegative subjects, or a doubling or more of the antibody titer compared to Baseline titer for initially seropositive subjects. Percentages based on number of subjects with data available.</description>
+        <time_frame>Group 1 at Week 6; Group 2 at Week 4</time_frame>
+        <population>Per-protocol Set for Immunogenicity</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Group 1</title>
+            <description>Two vaccinations; MVA-BN ®; administered 4 weeks apart (Day 0 and Day 28) followed by a single vaccination of ACAM2000® vaccine 4 weeks after the second MVA-BN® vaccination (Day 56).&#xD;
+MVA-BN®: 0.5 ml MVA-BN® with a nominal titer of 1x10E8 TCID50, administered as a subcutaneous injection&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+          </group>
+          <group group_id="O2">
+            <title>Group 2</title>
+            <description>A single vaccination of ACAM2000® will be administered at Day 0.&#xD;
+ACAM2000®: 0.0025 ml ACAM2000®, consisting of 2.5-12.5x10E5 plaque forming units of live vaccinia virus (VACV). Picked up with a bifurcated needle and administered by the percutaneous route (scarification) using 15 jabs of that bifurcated needle.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>ELISA Seroconversion Rates at Peak Visits</title>
+          <description>Seroconversion rate based on ELISA. Seroconversion is defined as the appearance of antibody titers &quot;greater than or equal&quot; detection limit (50) for initially seronegative subjects, or a doubling or more of the antibody titer compared to Baseline titer for initially seropositive subjects. Percentages based on number of subjects with data available.</description>
+          <population>Per-protocol Set for Immunogenicity</population>
+          <units>percentage of subjects</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="185"/>
+                <count group_id="O2" value="186"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="100" lower_limit="98.0" upper_limit="100.0"/>
+                    <measurement group_id="O2" value="96.8" lower_limit="93.1" upper_limit="98.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>38 weeks for Group 1 and 30 weeks for Group 2</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Group 1, Period 1</title>
+          <description>after 1st dose of MVA-BN</description>
+        </group>
+        <group group_id="E2">
+          <title>Group 1, Period 2</title>
+          <description>after 2nd dose of MVA-BN</description>
+        </group>
+        <group group_id="E3">
+          <title>Group 1, Period 3</title>
+          <description>after ACAM2000</description>
+        </group>
+        <group group_id="E4">
+          <title>Group 2</title>
+          <description>ACAM2000</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedDRA 20.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="220"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="208"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="196"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="213"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="220"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="208"/>
+                <counts group_id="E3" subjects_affected="3" subjects_at_risk="196"/>
+                <counts group_id="E4" subjects_affected="3" subjects_at_risk="213"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Haemorrhoids</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="220"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="208"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="196"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="213"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Appendicitis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="220"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="208"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="196"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="213"/>
+              </event>
+              <event>
+                <sub_title>Peritonsillar Abscess</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="220"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="208"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="196"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="213"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Alcohol Poisoning</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="220"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="208"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="196"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="213"/>
+              </event>
+              <event>
+                <sub_title>Road Traffic Accident</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="220"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="208"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="196"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="213"/>
+              </event>
+              <event>
+                <sub_title>Tibia Fracture</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="220"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="208"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="196"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="213"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Rhabdomyolysis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="220"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="208"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="196"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="213"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Suicidal Ideation</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="220"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="208"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="196"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="213"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>2</frequency_threshold>
+        <default_vocab>MedDRA 20.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="95" subjects_at_risk="220"/>
+                <counts group_id="E2" subjects_affected="63" subjects_at_risk="208"/>
+                <counts group_id="E3" subjects_affected="79" subjects_at_risk="196"/>
+                <counts group_id="E4" subjects_affected="88" subjects_at_risk="213"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Lymphadenopathy</sub_title>
+                <counts group_id="E1" events="11" subjects_affected="10" subjects_at_risk="220"/>
+                <counts group_id="E2" events="6" subjects_affected="6" subjects_at_risk="208"/>
+                <counts group_id="E3" events="3" subjects_affected="3" subjects_at_risk="196"/>
+                <counts group_id="E4" events="27" subjects_affected="23" subjects_at_risk="213"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Axillary Pain</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="220"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="208"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="196"/>
+                <counts group_id="E4" events="5" subjects_affected="5" subjects_at_risk="213"/>
+              </event>
+              <event>
+                <sub_title>Injection Site Erythema</sub_title>
+                <counts group_id="E1" events="30" subjects_affected="30" subjects_at_risk="220"/>
+                <counts group_id="E2" events="23" subjects_affected="23" subjects_at_risk="208"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="196"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="213"/>
+              </event>
+              <event>
+                <sub_title>Injection Site Nodule</sub_title>
+                <counts group_id="E1" events="38" subjects_affected="32" subjects_at_risk="220"/>
+                <counts group_id="E2" events="13" subjects_affected="13" subjects_at_risk="208"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="196"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="213"/>
+              </event>
+              <event>
+                <sub_title>Vaccination Site Erythema</sub_title>
+                <counts group_id="E1" events="10" subjects_affected="10" subjects_at_risk="220"/>
+                <counts group_id="E2" events="7" subjects_affected="7" subjects_at_risk="208"/>
+                <counts group_id="E3" events="2" subjects_affected="2" subjects_at_risk="196"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="213"/>
+              </event>
+              <event>
+                <sub_title>Vaccination Site Nodule</sub_title>
+                <counts group_id="E1" events="11" subjects_affected="11" subjects_at_risk="220"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="208"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="196"/>
+                <counts group_id="E4" events="2" subjects_affected="2" subjects_at_risk="213"/>
+              </event>
+              <event>
+                <sub_title>Vaccination Site Warmth</sub_title>
+                <counts group_id="E1" events="13" subjects_affected="13" subjects_at_risk="220"/>
+                <counts group_id="E2" events="10" subjects_affected="10" subjects_at_risk="208"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="196"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="213"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Nasopharyngitis</sub_title>
+                <counts group_id="E1" events="7" subjects_affected="7" subjects_at_risk="220"/>
+                <counts group_id="E2" events="4" subjects_affected="4" subjects_at_risk="208"/>
+                <counts group_id="E3" events="6" subjects_affected="6" subjects_at_risk="196"/>
+                <counts group_id="E4" events="5" subjects_affected="5" subjects_at_risk="213"/>
+              </event>
+              <event>
+                <sub_title>Upper Respiratory Tract Infection</sub_title>
+                <counts group_id="E1" events="14" subjects_affected="14" subjects_at_risk="220"/>
+                <counts group_id="E2" events="14" subjects_affected="14" subjects_at_risk="208"/>
+                <counts group_id="E3" events="14" subjects_affected="14" subjects_at_risk="196"/>
+                <counts group_id="E4" events="14" subjects_affected="14" subjects_at_risk="213"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Laceration</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="5" subjects_at_risk="220"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="208"/>
+                <counts group_id="E3" events="4" subjects_affected="4" subjects_at_risk="196"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="213"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Arthralgia</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="4" subjects_at_risk="220"/>
+                <counts group_id="E2" events="4" subjects_affected="4" subjects_at_risk="208"/>
+                <counts group_id="E3" events="2" subjects_affected="2" subjects_at_risk="196"/>
+                <counts group_id="E4" events="6" subjects_affected="6" subjects_at_risk="213"/>
+              </event>
+              <event>
+                <sub_title>Back Pain</sub_title>
+                <counts group_id="E1" events="7" subjects_affected="7" subjects_at_risk="220"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="208"/>
+                <counts group_id="E3" events="4" subjects_affected="4" subjects_at_risk="196"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="213"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="220"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="208"/>
+                <counts group_id="E3" events="6" subjects_affected="6" subjects_at_risk="196"/>
+                <counts group_id="E4" events="5" subjects_affected="5" subjects_at_risk="213"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cough</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="220"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="208"/>
+                <counts group_id="E3" events="4" subjects_affected="4" subjects_at_risk="196"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="213"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dermatitis Contact</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="220"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="208"/>
+                <counts group_id="E3" events="44" subjects_affected="44" subjects_at_risk="196"/>
+                <counts group_id="E4" events="49" subjects_affected="49" subjects_at_risk="213"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There IS an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Program Lead, Clinical Operations</name_or_title>
+      <organization>Bavarian Nordic A/S</organization>
+      <phone>+45 3326 ext 8383</phone>
+      <email>info@bavarian-nordic.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

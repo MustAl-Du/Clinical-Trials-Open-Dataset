@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2199">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01590433</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2011P000310</org_study_id>
+    <nct_id>NCT01590433</nct_id>
+  </id_info>
+  <brief_title>Weight Loss With Exenatide Treatment</brief_title>
+  <official_title>A Prospective Study of Patterns, Predictors, and Mechanisms of Weight Loss With Exenatide Treatment in Overweight and Obese Women Without Diabetes</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Jody Dushay</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>AstraZeneca</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Beth Israel Deaconess Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The investigators are conducting a study that will investigate the possible mechanisms of&#xD;
+      weight loss associated with exenatide treatment and the metabolic characteristics of high&#xD;
+      responders (i.e. subjects who achieve greater than 5% weight loss) to exenatide treatment.&#xD;
+      The investigators will also examine the magnitude and duration of weight loss among a cohort&#xD;
+      of high responders over 52 weeks of treatment, and at 3 and 6 months following treatment.&#xD;
+&#xD;
+      Hypothesis:&#xD;
+&#xD;
+      The mechanisms of weight loss with exenatide are not fully understood, and weight loss&#xD;
+      responses to exenatide are highly variable, possibly reflecting distinct metabolic&#xD;
+      parameters. By identifying and following a group of obese women who lose greater than 5% body&#xD;
+      weight after short-term exenatide treatment, the investigators can gain insights into the&#xD;
+      possible mechanisms of weight loss and assess long-term weight loss with this&#xD;
+      pharmacotherapeutic intervention.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Primary Outcomes&#xD;
+&#xD;
+      The primary objectives of this study is:&#xD;
+&#xD;
+      - To investigate possible mechanisms and patterns of weight loss with exenatide treatment,&#xD;
+      especially among individuals who have robust early weight loss (greater than 5% weight loss&#xD;
+      in 12 weeks) with exenatide.&#xD;
+&#xD;
+      Secondary Outcomes&#xD;
+&#xD;
+      Our secondary objective is to identify metabolic characteristics that predict robust response&#xD;
+      to exenatide treatment.&#xD;
+&#xD;
+      Outcome measurements:&#xD;
+&#xD;
+        -  Weight&#xD;
+&#xD;
+        -  Body composition&#xD;
+&#xD;
+        -  Resting energy expenditure (REE)&#xD;
+&#xD;
+        -  Mixed meal test&#xD;
+&#xD;
+        -  Thermic effect of food&#xD;
+&#xD;
+        -  Serum metabolic parameters&#xD;
+&#xD;
+        -  Hunger/Nausea/Satiety visual analog scales (VAS)&#xD;
+&#xD;
+        -  Physical activity monitoring&#xD;
+&#xD;
+      Study Population&#xD;
+&#xD;
+      The study population will be generally healthy, non-diabetic women age 18-70 years with BMI&#xD;
+      28-48 kg/m^2.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>March 2012</start_date>
+  <completion_date type="Actual">January 2019</completion_date>
+  <primary_completion_date type="Actual">January 2019</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Body Weight</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Change in body weight after 12 weeks of treatment with exenatide or placebo twice daily injections. This outcome compares baseline and 12 week body weight.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">249</enrollment>
+  <condition>Obesity</condition>
+  <arm_group>
+    <arm_group_label>Exenatide</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will be randomly assigned to the exenatide study treatment group or to the placebo study treatment group. Subjects will have a 33 percent chance of being assigned to the placebo study treatment group and a 66 percent chance of being assigned to exenatide study treatment. Subjects will not be able to choose the study group to which they will be assigned. All study participants will receive individualized dietary counseling based on food logs. Subjects who receive exenatide will not be assigned to follow a reduced-calorie diet in addition to study treatment. Subjects will not know whether they are receiving exenatide or placebo, but the unblinded members of study team will know which they are receiving.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Subjects will be randomly assigned to the exenatide study treatment group or to the placebo study treatment group. Subjects will have a 33 percent chance of being assigned to the placebo study treatment group and a 66 percent chance of being assigned to exenatide study treatment. Subjects will not be able to choose the study group to which they will be assigned. All study participants will receive individualized dietary counseling based on food logs. Subjects who receive placebo will be assigned to follow a reduced-calorie diet in addition to study treatment. Subjects will not know whether they are receiving exenatide or placebo, but the unblinded members of the study team will know which they are receiving.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Exenatide</intervention_name>
+    <description>Subjects will inject 5mcg of exenatide subcutaneously 15 minutes before the morning and evening meal for the first 2 weeks of the study. At study week 2, subjects will increase to 10mcg twice daily for the remainder of the study.</description>
+    <arm_group_label>Exenatide</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Subjects will inject 5mcg of identically dispensed placebo subcutaneously 15 minutes before the morning and evening meal for the first 2 weeks of the study. At study week 2, subjects will increase to 10mcg twice daily for the remainder of the study.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Dietary counseling</intervention_name>
+    <description>All subjects will also receive individualized dietary counseling. Subjects in the placebo group will be counseled to follow a hypocaloric diet.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Females age 18-70&#xD;
+&#xD;
+          -  BMI 28-48 kg/m^2&#xD;
+&#xD;
+          -  Stable weight (greater than 3 kg weight gain or loss within 6 months of screening&#xD;
+             visit).&#xD;
+&#xD;
+          -  Ability to give informed consent and follow verbal and written instructions in&#xD;
+             English.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Type 1 or type 2 diabetes mellitus diagnosed according to American Diabetes&#xD;
+             Association criteria&#xD;
+&#xD;
+          -  Unstable heart disease as evidenced by ongoing angina&#xD;
+&#xD;
+          -  Congestive heart failure&#xD;
+&#xD;
+          -  Uncontrolled hypertension (BP greater than 170/100 mmHg on or off antihypertensive&#xD;
+             medication)&#xD;
+&#xD;
+          -  Uncontrolled dyslipidemia (LDL greater than 200 or TG greater than 400 on or off lipid&#xD;
+             lowering medication)&#xD;
+&#xD;
+          -  Tobacco, marijuana, cocaine, or intravenous drug use&#xD;
+&#xD;
+          -  Shift workers (night shift or alternating day/night shifts)&#xD;
+&#xD;
+          -  Gastroparesis&#xD;
+&#xD;
+          -  Inflammatory bowel disease or irritable bowel syndrome&#xD;
+&#xD;
+          -  Malignancy treated with chemotherapy within the past 3 years&#xD;
+&#xD;
+          -  History of pancreatitis&#xD;
+&#xD;
+          -  Depression requiring hospitalization or diagnosis of psychosis&#xD;
+&#xD;
+          -  Renal insufficiency (eGFR less than 50)&#xD;
+&#xD;
+          -  Transaminases greater than 2 times above the normal range&#xD;
+&#xD;
+          -  Pregnancy within 6 months of the screening visit&#xD;
+&#xD;
+          -  Lactation&#xD;
+&#xD;
+          -  Failure to use medically approved contraceptive methods (monophasic oral&#xD;
+             contraception, intra uterine device, surgical sterilization or 2 combined barrier&#xD;
+             methods)&#xD;
+&#xD;
+          -  History of an eating disorder (anorexia, bulimia or laxative abuse)&#xD;
+&#xD;
+          -  Treatment with FDA-approved or over-the-counter weight loss medication within 6&#xD;
+             months, with the exception of Xenical if there was no weight loss&#xD;
+&#xD;
+          -  History of gastric bypass surgery or gastric stapling&#xD;
+&#xD;
+          -  Biochemical evidence of hyper or hypothyroidism, or new diagnosis of hypo or&#xD;
+             hyperthyroidism within 3 months of screening visit&#xD;
+&#xD;
+          -  Previous treatment with exenatide&#xD;
+&#xD;
+          -  Discretion of the PI&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Eleftheria Maratos-Flier, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Beth Israel Deaconess Medical Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Beth Israel Deaconess Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>June 2021</verification_date>
+  <study_first_submitted>February 24, 2012</study_first_submitted>
+  <study_first_submitted_qc>May 2, 2012</study_first_submitted_qc>
+  <study_first_posted type="Estimate">May 3, 2012</study_first_posted>
+  <results_first_submitted>January 3, 2020</results_first_submitted>
+  <results_first_submitted_qc>February 4, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">February 12, 2020</results_first_posted>
+  <last_update_submitted>June 18, 2021</last_update_submitted>
+  <last_update_submitted_qc>June 18, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 23, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Beth Israel Deaconess Medical Center</investigator_affiliation>
+    <investigator_full_name>Jody Dushay</investigator_full_name>
+    <investigator_title>Assistant Professor of Medicine</investigator_title>
+  </responsible_party>
+  <keyword>Obesity</keyword>
+  <keyword>Overweight</keyword>
+  <keyword>Exenatide</keyword>
+  <keyword>Diet</keyword>
+  <keyword>Women</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Weight Loss</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Exenatide</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol, Statistical Analysis Plan, and Informed Consent Form</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>January 9, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/33/NCT01590433/Prot_SAP_ICF_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>249 subjects provided informed consent, 182 were randomized. I am reporting that 249 subjects were enrolled according to our local IRB definition of enrollment. 182 started study treatment. 67 subjects who did not start treatment were either found to be ineligible based on screening labs; withdrew consent; or were lost to followup.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Exenatide</title>
+          <description>Subjects will be randomly assigned to the exenatide study treatment group or to the placebo study treatment group.&#xD;
+Subjects will inject 5mcg of exenatide or identically dispensed placebo subcutaneously 15 minutes before the morning and evening meal for the first 2 weeks of the study. At study week 2, subjects will increase to 10mcg twice daily for the remainder of the study.</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo</title>
+          <description>Subjects will be randomly assigned to the exenatide study treatment group or to the placebo study treatment group. Subjects will inject 5mcg of exenatide or identically dispensed placebo subcutaneously 15 minutes before the morning and evening meal for the first 2 weeks of the study. At study week 2, subjects will increase to 10mcg twice daily for the remainder of the study.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="127"/>
+                <participants group_id="P2" count="55"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="75"/>
+                <participants group_id="P2" count="33"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="52"/>
+                <participants group_id="P2" count="22"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="20"/>
+                <participants group_id="P2" count="8"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="21"/>
+                <participants group_id="P2" count="11"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Adverse Event</title>
+              <participants_list>
+                <participants group_id="P1" count="11"/>
+                <participants group_id="P2" count="3"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Analysis population is the same as baseline population</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Exenatide</title>
+          <description>Subjects will be randomly assigned to the exenatide study treatment group or to the placebo study treatment group.&#xD;
+Exenatide: Subjects will inject 5mcg of exenatide or identically dispensed placebo subcutaneously 15 minutes before the morning and evening meal for the first 2 weeks of the study. At study week 2, subjects will increase to 10mcg twice daily for the remainder of the study.</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo</title>
+          <description>Subjects will be randomly assigned to the exenatide study treatment group or to the placebo study treatment group.&#xD;
+Placebo: Subjects will inject 5mcg of exenatide or identically dispensed placebo subcutaneously 15 minutes before the morning and evening meal for the first 2 weeks of the study. At study week 2, subjects will increase to 10mcg twice daily for the remainder of the study.&#xD;
+Dietary counseling: All subjects will also receive individualized dietary counseling. Subjects may or may not be asked to follow a reduced calorie diet in addition to receiving treatment.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="127"/>
+            <count group_id="B2" value="55"/>
+            <count group_id="B3" value="182"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="43.9" spread="11.9"/>
+                    <measurement group_id="B2" value="44.6" spread="13.7"/>
+                    <measurement group_id="B3" value="44.2" spread="12.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="127"/>
+                    <measurement group_id="B2" value="55"/>
+                    <measurement group_id="B3" value="182"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="18"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="22"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="109"/>
+                    <measurement group_id="B2" value="51"/>
+                    <measurement group_id="B3" value="160"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="33"/>
+                    <measurement group_id="B2" value="11"/>
+                    <measurement group_id="B3" value="44"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="92"/>
+                    <measurement group_id="B2" value="41"/>
+                    <measurement group_id="B3" value="133"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="127"/>
+                    <measurement group_id="B2" value="55"/>
+                    <measurement group_id="B3" value="182"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in Body Weight</title>
+        <description>Change in body weight after 12 weeks of treatment with exenatide or placebo twice daily injections. This outcome compares baseline and 12 week body weight.</description>
+        <time_frame>12 weeks</time_frame>
+        <population>subjects randomized to exenatide or placebo</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Exenatide</title>
+            <description>Subjects will be randomly assigned to the exenatide study treatment group or to the placebo study treatment group.&#xD;
+Exenatide: Subjects will inject 5mcg of exenatide or identically dispensed placebo subcutaneously 15 minutes before the morning and evening meal for the first 2 weeks of the study. At study week 2, subjects will increase to 10mcg twice daily for the remainder of the study.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Subjects will be randomly assigned to the exenatide study treatment group or to the placebo study treatment group.&#xD;
+Placebo: Subjects will inject 5mcg of exenatide or identically dispensed placebo subcutaneously 15 minutes before the morning and evening meal for the first 2 weeks of the study. At study week 2, subjects will increase to 10mcg twice daily for the remainder of the study.&#xD;
+Dietary counseling: All subjects will also receive individualized dietary counseling. Subjects may or may not be asked to follow a reduced calorie diet in addition to receiving treatment.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Body Weight</title>
+          <description>Change in body weight after 12 weeks of treatment with exenatide or placebo twice daily injections. This outcome compares baseline and 12 week body weight.</description>
+          <population>subjects randomized to exenatide or placebo</population>
+          <units>percentage weight loss</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="75"/>
+                <count group_id="O2" value="33"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.5" spread="0.4"/>
+                    <measurement group_id="O2" value="7.5" spread="0.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>&lt;0.05</p_value>
+            <method>t-test, 2 sided</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Entire study duration, up to 1 year</time_frame>
+      <desc>Adverse events and serious adverse events are defined according to clinicaltrials.gov definition. Adverse event information was collected at each study visit, in person.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Exenatide</title>
+          <description>Exenatide: Subjects will inject 5mcg of exenatide or identically dispensed placebo subcutaneously 15 minutes before the morning and evening meal for the first 2 weeks of the study. At study week 2, subjects will increase to 10mcg twice daily for the remainder of the study.</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo</title>
+          <description>Placebo: Subjects will inject 5mcg of exenatide or identically dispensed placebo subcutaneously 15 minutes before the morning and evening meal for the first 2 weeks of the study. At study week 2, subjects will increase to 10mcg twice daily for the remainder of the study.&#xD;
+Dietary counseling: All subjects will also receive individualized dietary counseling. Subjects may or may not be asked to follow a reduced calorie diet in addition to receiving treatment.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="127"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="55"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="127"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="55"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="89" subjects_at_risk="127"/>
+                <counts group_id="E2" subjects_affected="14" subjects_at_risk="55"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>nausea</sub_title>
+                <counts group_id="E1" subjects_affected="89" subjects_at_risk="127"/>
+                <counts group_id="E2" subjects_affected="14" subjects_at_risk="55"/>
+              </event>
+              <event>
+                <sub_title>diarrhea</sub_title>
+                <counts group_id="E1" subjects_affected="24" subjects_at_risk="127"/>
+                <counts group_id="E2" subjects_affected="9" subjects_at_risk="55"/>
+              </event>
+              <event>
+                <sub_title>vomiting</sub_title>
+                <counts group_id="E1" subjects_affected="16" subjects_at_risk="127"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="55"/>
+              </event>
+              <event>
+                <sub_title>reflux</sub_title>
+                <counts group_id="E1" subjects_affected="20" subjects_at_risk="127"/>
+                <counts group_id="E2" subjects_affected="9" subjects_at_risk="55"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>decreased appetite</sub_title>
+                <counts group_id="E1" subjects_affected="52" subjects_at_risk="127"/>
+                <counts group_id="E2" subjects_affected="13" subjects_at_risk="55"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>headache</sub_title>
+                <counts group_id="E1" subjects_affected="34" subjects_at_risk="127"/>
+                <counts group_id="E2" subjects_affected="13" subjects_at_risk="55"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>rash</sub_title>
+                <counts group_id="E1" subjects_affected="14" subjects_at_risk="127"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="55"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Jody Dushay</name_or_title>
+      <organization>Beth Israel Deaconess Medical Center</organization>
+      <phone>617-667-9344</phone>
+      <email>jdushay@bidmc.harvard.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

@@ -1,0 +1,247 @@
+{
+  "FullStudy":{
+    "Rank":479,
+    "Study":{
+      "ProtocolSection":{
+        "IdentificationModule":{
+          "NCTId":"NCT05540314",
+          "OrgStudyIdInfo":{
+            "OrgStudyId":"001.WMP.2022.D"
+          },
+          "Organization":{
+            "OrgFullName":"Methodist Health System",
+            "OrgClass":"OTHER"
+          },
+          "BriefTitle":"Robotic Bariatric Database (RBD) Collaborative",
+          "OfficialTitle":"Robotic Bariatric Database (RBD) Collaborative"
+        },
+        "StatusModule":{
+          "StatusVerifiedDate":"September 2022",
+          "OverallStatus":"Enrolling by invitation",
+          "ExpandedAccessInfo":{
+            "HasExpandedAccess":"No"
+          },
+          "StartDateStruct":{
+            "StartDate":"August 10, 2022",
+            "StartDateType":"Actual"
+          },
+          "PrimaryCompletionDateStruct":{
+            "PrimaryCompletionDate":"August 10, 2023",
+            "PrimaryCompletionDateType":"Anticipated"
+          },
+          "CompletionDateStruct":{
+            "CompletionDate":"August 10, 2023",
+            "CompletionDateType":"Anticipated"
+          },
+          "StudyFirstSubmitDate":"September 12, 2022",
+          "StudyFirstSubmitQCDate":"September 12, 2022",
+          "StudyFirstPostDateStruct":{
+            "StudyFirstPostDate":"September 14, 2022",
+            "StudyFirstPostDateType":"Actual"
+          },
+          "LastUpdateSubmitDate":"September 12, 2022",
+          "LastUpdatePostDateStruct":{
+            "LastUpdatePostDate":"September 14, 2022",
+            "LastUpdatePostDateType":"Actual"
+          }
+        },
+        "SponsorCollaboratorsModule":{
+          "ResponsibleParty":{
+            "ResponsiblePartyType":"Sponsor"
+          },
+          "LeadSponsor":{
+            "LeadSponsorName":"Methodist Health System",
+            "LeadSponsorClass":"OTHER"
+          }
+        },
+        "OversightModule":{
+          "OversightHasDMC":"No",
+          "IsFDARegulatedDrug":"No",
+          "IsFDARegulatedDevice":"No"
+        },
+        "DescriptionModule":{
+          "BriefSummary":"With increased prevalence of obesity in the general population over the past 30 years, researchers have been focused on the development of new treatment options to achieve long-lasting weight loss. In 1991, the National Institutes of Health Conference Statement on Gastrointestinal Surgery for Severe Obesity developed a consensus stating that bariatric surgery was the most effective treatment for obesity since it is associated with good long-term results in terms of weight loss, glycemic control and decreased mortality.\n\nTo collect and store clinical data related to the treatment outcomes of robotic bariatric surgery in order to develop an evidence base such that physicians can provide the best possible care to patients undergoing surgical weight loss interventions.",
+          "DetailedDescription":"With increased prevalence of obesity in the general population over the past 30 years, researchers have been focused on the development of new treatment options to achieve long-lasting weight loss. Cirocchi et al. stated that \"Besides noninvasive conservative treatments (e.g., lifestyle modifications, medical treatment, and behavioral therapy), bariatric surgery is now playing an important role in the treatment for obesity. In 1991, the National Institutes of Health Conference Statement on Gastrointestinal Surgery for Severe Obesity developed a consensus stating that bariatric surgery was the most effective treatment for obesity since it is associated with good long-term results in terms of weight loss, glycemic control and decreased mortality (Cirocchi et al., 2013).\""
+        },
+        "ConditionsModule":{
+          "ConditionList":{
+            "Condition":[
+              "Weight Loss",
+              "Obesity"
+            ]
+          }
+        },
+        "DesignModule":{
+          "StudyType":"Observational",
+          "PatientRegistry":"No",
+          "DesignInfo":{
+            "DesignObservationalModelList":{
+              "DesignObservationalModel":[
+                "Cohort"
+              ]
+            },
+            "DesignTimePerspectiveList":{
+              "DesignTimePerspective":[
+                "Retrospective"
+              ]
+            }
+          },
+          "EnrollmentInfo":{
+            "EnrollmentCount":"100",
+            "EnrollmentType":"Anticipated"
+          }
+        },
+        "ArmsInterventionsModule":{
+          "ArmGroupList":{
+            "ArmGroup":[
+              {
+                "ArmGroupLabel":"Subjects that have undergone robotic bariatric surgery",
+                "ArmGroupDescription":"Subjects that have undergone robotic bariatric surgery between January 2018 and December 2019",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Procedure: robotic bariatric surgery"
+                  ]
+                }
+              }
+            ]
+          },
+          "InterventionList":{
+            "Intervention":[
+              {
+                "InterventionType":"Procedure",
+                "InterventionName":"robotic bariatric surgery",
+                "InterventionDescription":"robotic bariatric surgery",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Subjects that have undergone robotic bariatric surgery"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "OutcomesModule":{
+          "PrimaryOutcomeList":{
+            "PrimaryOutcome":[
+              {
+                "PrimaryOutcomeMeasure":"Date of Birth",
+                "PrimaryOutcomeDescription":"mm/dd/yyyy",
+                "PrimaryOutcomeTimeFrame":"January 2018- December2019"
+              },{
+                "PrimaryOutcomeMeasure":"Principal Operative Procedure is an Initial Primary Metabolic or Bariatric Procedure",
+                "PrimaryOutcomeDescription":"Yes or No",
+                "PrimaryOutcomeTimeFrame":"January 2018- December 2019"
+              },{
+                "PrimaryOutcomeMeasure":"Patient has a history of metabolic or bariatric surgery",
+                "PrimaryOutcomeDescription":"Yes or No",
+                "PrimaryOutcomeTimeFrame":"January 2018- December 2019"
+              }
+            ]
+          }
+        },
+        "EligibilityModule":{
+          "EligibilityCriteria":"Inclusion Criteria:\n\n> 18 years of age\nEligible for or have undergone robotic bariatric surgery per the treating physician\nUndergone robotic bariatric surgery between January 2018 and December 2019\n\nExclusion Criteria:\n\nDo not meet the Study Inclusion Criteria l",
+          "Gender":"All",
+          "MinimumAge":"18 Years",
+          "MaximumAge":"100 Years",
+          "StdAgeList":{
+            "StdAge":[
+              "Adult",
+              "Older Adult"
+            ]
+          },
+          "StudyPopulation":"3. Undergone robotic bariatric surgery between January 2018 and December 2019",
+          "SamplingMethod":"Non-Probability Sample"
+        },
+        "ContactsLocationsModule":{
+          "OverallOfficialList":{
+            "OverallOfficial":[
+              {
+                "OverallOfficialName":"Sachin S . Kukreja, MD",
+                "OverallOfficialAffiliation":"Methodist Health System",
+                "OverallOfficialRole":"Principal Investigator"
+              }
+            ]
+          },
+          "LocationList":{
+            "Location":[
+              {
+                "LocationFacility":"Methodist Charlton Medical Center",
+                "LocationCity":"Dallas",
+                "LocationState":"Texas",
+                "LocationZip":"75237",
+                "LocationCountry":"United States"
+              }
+            ]
+          }
+        },
+        "IPDSharingStatementModule":{
+          "IPDSharing":"No"
+        }
+      },
+      "DerivedSection":{
+        "MiscInfoModule":{
+          "VersionHolder":"September 19, 2022"
+        },
+        "ConditionBrowseModule":{
+          "ConditionMeshList":{
+            "ConditionMesh":[
+              {
+                "ConditionMeshId":"D000015431",
+                "ConditionMeshTerm":"Weight Loss"
+              }
+            ]
+          },
+          "ConditionAncestorList":{
+            "ConditionAncestor":[
+              {
+                "ConditionAncestorId":"D000001836",
+                "ConditionAncestorTerm":"Body Weight Changes"
+              },{
+                "ConditionAncestorId":"D000001835",
+                "ConditionAncestorTerm":"Body Weight"
+              }
+            ]
+          },
+          "ConditionBrowseLeafList":{
+            "ConditionBrowseLeaf":[
+              {
+                "ConditionBrowseLeafId":"M11853",
+                "ConditionBrowseLeafName":"Obesity",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M4266",
+                "ConditionBrowseLeafName":"Body Weight",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M17254",
+                "ConditionBrowseLeafName":"Weight Loss",
+                "ConditionBrowseLeafAsFound":"Weight Loss",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M4267",
+                "ConditionBrowseLeafName":"Body Weight Changes",
+                "ConditionBrowseLeafRelevance":"low"
+              }
+            ]
+          },
+          "ConditionBrowseBranchList":{
+            "ConditionBrowseBranch":[
+              {
+                "ConditionBrowseBranchAbbrev":"BC18",
+                "ConditionBrowseBranchName":"Nutritional and Metabolic Diseases"
+              },{
+                "ConditionBrowseBranchAbbrev":"BC23",
+                "ConditionBrowseBranchName":"Symptoms and General Pathology"
+              },{
+                "ConditionBrowseBranchAbbrev":"All",
+                "ConditionBrowseBranchName":"All Conditions"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+

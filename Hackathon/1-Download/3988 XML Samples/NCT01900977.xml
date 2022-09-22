@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2135">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01900977</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HPTN 071</org_study_id>
+    <secondary_id>11865</secondary_id>
+    <secondary_id>UM1AI068619</secondary_id>
+    <nct_id>NCT01900977</nct_id>
+  </id_info>
+  <brief_title>Population Effects of Antiretroviral Therapy to Reduce HIV Transmission (PopART)</brief_title>
+  <acronym>PopART</acronym>
+  <official_title>Population Effects of Antiretroviral Therapy to Reduce HIV Transmission (PopART): A Cluster-randomized Trial of the Impact of a Combination Prevention Package on Population-level HIV Incidence in Zambia and South Africa</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>HIV Prevention Trials Network</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute of Mental Health (NIMH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Office of the U.S. Global AIDS Coordinator</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The International Initiative for Impact Evaluation (3ie) with support from Bill &amp; Melinda Gates Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>London School of Hygiene and Tropical Medicine</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Imperial College London</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Zambart</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Desmond Tutu TB Centre</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>HIV Prevention Trials Network</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      PopART is a community randomized trial that is investigating whether a community-wide&#xD;
+      combination HIV prevention package including annual home-based HIV testing, active referral&#xD;
+      and the offer of immediate ART for those testing HIV-positive, along with the promotion of&#xD;
+      proven HIV prevention methods (such as voluntary medical male circumcision, prevention of&#xD;
+      mother to child transmission and condom use), will help to prevent transmission and&#xD;
+      substantially reduce new HIV infections. The study is being conducted in 21 communities in&#xD;
+      Zambia and South Africa (randomized into 3 arms, each with 7 communities) with a total&#xD;
+      population of approximately 1.2 million individuals.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      HIV Prevention Trials Network (HPTN) 071 (PopART) will investigate the impact on HIV&#xD;
+      incidence of universal voluntary HIV counseling and testing (with referral to care) provided&#xD;
+      to a community through a house-to-house campaign, in combination with early ART for&#xD;
+      individuals who are HIV-positive, and other proven preventive interventions. The design of&#xD;
+      HPTN 071 (PopART) will allow the study team to distinguish between the impact of universal&#xD;
+      testing with referral for HIV care in accordance with national guidelines, and the impact of&#xD;
+      universal testing with referral for early ART initiation for those with HIV infection. In&#xD;
+      addition, HPTN 071 (PopART) will determine if a program of universal voluntary testing,&#xD;
+      including early ART initiation, is feasible and acceptable when delivered on a large scale to&#xD;
+      entire communities. Evaluating the effectiveness of universal voluntary HIV counseling and&#xD;
+      testing with the offer of early ART is a key global health priority.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 2014</start_date>
+  <completion_date type="Actual">July 7, 2018</completion_date>
+  <primary_completion_date type="Actual">July 7, 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>HIV incidence measured over 3 years in the Population Cohort, with the primary analysis including HIV incidence measured between Months 12 and 36 of the study.</measure>
+    <time_frame>3 years</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>HIV incidence over the first, second, and third years of follow-up</measure>
+    <time_frame>3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ART adherence and viral suppression</measure>
+    <time_frame>24 months</time_frame>
+    <description>HIV viral load at 24 months in HIV-infected members of the Population Cohort who initiated HIV care and ART after commencement of the PopART intervention in the community (if funding available)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Herpes Simplex Virus -2 (HSV-2) incidence</measure>
+    <time_frame>12 months, 24 months, and 36 months</time_frame>
+    <description>Incident HSV-2 infections at 12 months, 24 months, and 36 months for all individuals in the Population Cohort who were HSV-2-uninfected at enrollment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>HIV disease progression, retention in care, and death</measure>
+    <time_frame>3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ART toxicity</measure>
+    <time_frame>3 years</time_frame>
+    <description>ART safety and clinical events among Population Cohort participants initiating ART after commencement of the PopART intervention in the community, measured using routine health center data, and&#xD;
+ART safety and clinical events among health center attendees who initiated ART after commencement of the PopART intervention in the community, measured using routine health center data</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sexual risk behavior</measure>
+    <time_frame>3 years</time_frame>
+    <description>o Self-reported sexual risk behavior at Enrollment, 12 months, 24 months, and 36 months in the Population Cohort</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Case notification rate of tuberculosis (TB)</measure>
+    <time_frame>3 years</time_frame>
+    <description>Case notification rates of bacteriologically-confirmed TB diagnosed among the general population of patients seeking care at health centers as recorded by health centers&#xD;
+TB mortality among TB cases in the community as recorded by health centers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>HIV-related stigma</measure>
+    <time_frame>3 years</time_frame>
+    <description>Self-reported data on stigma indicators at enrollment, 12 months, 24 months, and 36 months in the Population Cohort&#xD;
+Qualitative interviews in selected members of the general population in Arms A, B, and</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Uptake of PMTCT</measure>
+    <time_frame>3 years</time_frame>
+    <description>Self-reported use of services for PMTCT at Enrollment, 12 months, 24 months, and 36 months among HIV-infected women in the Population Cohort who had been pregnant in the prior 12 months&#xD;
+Uptake of PMTCT services at health centers&#xD;
+Uptake of PMTCT as indicated in data collected in households by CHiPs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Uptake of male circumcision</measure>
+    <time_frame>3 years</time_frame>
+    <description>Self-reported circumcision status/uptake at Enrollment, 12 months, 24 months, and 36 months of men in the Population Cohort&#xD;
+Uptake of circumcision in the community as indicated in health center data&#xD;
+Uptake of circumcision as indicated in data collected in households by CHiPs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ART screening and uptake</measure>
+    <time_frame>3 years</time_frame>
+    <description>The proportion of Population Cohort members, identified as HIV-infected who screen for ART eligibility, and who subsequently initiate ART&#xD;
+Proportion of community members, identified as HIV-infected in data from CHiP teams, who screen for ART eligibility, and who subsequently initiate ART, as indicated in health center data</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>HIV testing and retesting</measure>
+    <time_frame>3 years</time_frame>
+    <description>Self-reported recent HIV testing at Enrollment, 12 months, 24 months, and 36 months in the Population Cohort&#xD;
+The number of adults (16 years and older) in the household and the number of HIV tests performed as indicated in data from CHiP teams and health centers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time between HIV diagnosis and initiation of care</measure>
+    <time_frame>3 years</time_frame>
+    <description>The proportion of Population Cohort members initiating HIV care within 3 months of a positive HIV diagnosis&#xD;
+The proportion of community members initiating HIV care within 3 months of HIV diagnosis as indicated in data from CHiP teams (provision of HIV positive result) and health center data (date of care initiation)</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">48540</enrollment>
+  <condition>HIV</condition>
+  <arm_group>
+    <arm_group_label>Arm A Universal Testing w/Immediate ART</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm B ART according to National Guidelines</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard of Care</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Includes:&#xD;
+Strengthening of HIV testing and ART services according to national guidelines at health facilities and other venues; Strengthening of male circumcision and PMTCT services available at health facilities and other venues in the community; and Treatment of STIs and provision of condoms at health facilities and other venues in the community.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Universal Testing with immediate ART</intervention_name>
+    <description>• Combination prevention package including:&#xD;
+o House-to-house deployment of: Universal HIV counseling and testing; Active linkage to care for individuals diagnosed as HIV-infected, with immediate eligibility for ART; Promotion of male circumcision and prevention of mother to child transmission (PMTCT) services; Provision of condoms; Strengthening of HIV testing and services at health facilities and other venues; Strengthening of male circumcision and prevention of mother-to-child transmission of HIV services available in the community; and Treatment of sexually transmitted infections (STIs) and provision of condoms at health units</description>
+    <arm_group_label>Arm A Universal Testing w/Immediate ART</arm_group_label>
+    <other_name>PopART Intervention</other_name>
+    <other_name>UTT</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Universal Testing with ART eligibility according to National Guidelines</intervention_name>
+    <description>Combination prevention package including:&#xD;
+House-to-house deployment of: Universal HIV counseling and testing; Active linkage to care for individuals diagnosed as HIV-infected, with ART eligibility according to national guidelines; Promotion of male circumcision and PMTCT services; Provision of condoms; Strengthening of HIV testing and services at health facilities and other venues; Strengthening of male circumcision and PMTCT services available in the community; and Treatment of STIs and provision of condoms at health units.</description>
+    <arm_group_label>Arm B ART according to National Guidelines</arm_group_label>
+    <other_name>PopART Intervention</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Standard of Care</intervention_name>
+    <arm_group_label>Standard of Care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Population Cohort&#xD;
+&#xD;
+               1. 18 - 44 years of age&#xD;
+&#xD;
+               2. Able and willing to provide informed consent&#xD;
+&#xD;
+               3. Residing within catchment area of a designated local health unit and intending to&#xD;
+                  remain so for the next three years&#xD;
+&#xD;
+               4. Residing in a randomly selected household&#xD;
+&#xD;
+          2. Case-Control Study 1 Inclusion Criteria:&#xD;
+&#xD;
+               1. At least 18 years of age&#xD;
+&#xD;
+               2. Able and willing to provide informed consent&#xD;
+&#xD;
+               3. Resident in the cluster during the first round of testing&#xD;
+&#xD;
+               4. Visited by a CHiP team and offered testing during the first round of home-based&#xD;
+                  testing&#xD;
+&#xD;
+          3. Case-Control Study 2 Inclusion Criteria:&#xD;
+&#xD;
+               1. At least 18 years of age&#xD;
+&#xD;
+               2. Able and willing to provide informed consent&#xD;
+&#xD;
+               3. Resident in the cluster during the first round of testing&#xD;
+&#xD;
+               4. Tested HIV-infected in CHiP home-based testing, or HIV-infected and disclosed&#xD;
+                  that they were previously diagnosed as HIV-infected to CHiP team&#xD;
+&#xD;
+          4. Case-Control Study 3 Inclusion Criteria:&#xD;
+&#xD;
+               1. At least 18 years of age&#xD;
+&#xD;
+               2. Able and willing to provide informed consent&#xD;
+&#xD;
+               3. Resident in the cluster during the second round of testing&#xD;
+&#xD;
+               4. Visited by a CHiP team and offered testing during the second round of home-based&#xD;
+                  testing&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Population Cohort Exclusion Criteria:&#xD;
+&#xD;
+               1. Current or planned enrollment in another HIV treatment, prevention, or&#xD;
+                  Pre-Exposure Prophylaxis (PrEP) study&#xD;
+&#xD;
+               2. Current, planned or prior enrollment in an HIV vaccine study&#xD;
+&#xD;
+               3. Anything that, in the opinion of the investigator, would preclude informed&#xD;
+                  consent, make study participation unsafe, complicate interpretation of study&#xD;
+                  outcome data, or otherwise interfere with achieving the study objectives.&#xD;
+&#xD;
+          2. Case-Control Study 1 Exclusion Criteria:&#xD;
+&#xD;
+               1. Individuals belonging to the Population Cohort or other case-control studies&#xD;
+&#xD;
+               2. Individuals known to be HIV-infected after testing elsewhere.&#xD;
+&#xD;
+          3. Case-Control Study 2 Exclusion Criteria:&#xD;
+&#xD;
+               1. Individuals enrolled in the Population Cohort or other case-control studies&#xD;
+&#xD;
+               2. HIV-infected individuals already on ART before study commences&#xD;
+&#xD;
+          4. Case-Control Study 3 Exclusion Criteria:&#xD;
+&#xD;
+               1. Known HIV infected from CHiP data.&#xD;
+&#xD;
+               2. Individuals belonging to the Population Cohort or other case-control studies&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>44 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Richard Hayes, BSc, MSc, DSc</last_name>
+    <role>Study Chair</role>
+    <affiliation>London School of Hygiene and Tropical Medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Sarah Fidler, MBBS, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Imperial College London</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Helen Ayles, BSc, MBBS, MSc, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>London School of Hygiene and Tropical Medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Nulda Beyers, MBChB, FCP, MSc, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Stellenbosch Univeristy</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Peter Bock, MD, MRCP, MRCGP, MPH, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Stellenbosch</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Desmund Tutu TB Centre at Stellenbosch University</name>
+      <address>
+        <city>Cape Town</city>
+        <state>Western Cape</state>
+        <zip>7505</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambart</name>
+      <address>
+        <city>Lusaka</city>
+        <country>Zambia</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>South Africa</country>
+    <country>Zambia</country>
+  </location_countries>
+  <reference>
+    <citation>Bond V, Hoddinott G, Viljoen L, Simuyaba M, Musheke M, Seeley J. Good Health and Moral Responsibility: Key Concepts Underlying the Interpretation of Treatment as Prevention in South Africa and Zambia Before Rolling Out Universal HIV Testing and Treatment. AIDS Patient Care STDS. 2016 Sep;30(9):425-34. doi: 10.1089/apc.2016.0114. Erratum in: AIDS Patient Care STDS. 2017 Jan;31(1):41.</citation>
+    <PMID>27610464</PMID>
+  </reference>
+  <reference>
+    <citation>Hargreaves JR, Stangl A, Bond V, Hoddinott G, Krishnaratne S, Mathema H, Moyo M, Viljoen L, Brady L, Sievwright K, Horn L, Sabapathy K, Ayles H, Beyers N, Bock P, Fidler S, Griffith S, Seeley J, Hayes R; HPTN 071 (PopART) study team. HIV-related stigma and universal testing and treatment for HIV prevention and care: design of an implementation science evaluation nested in the HPTN 071 (PopART) cluster-randomized trial in Zambia and South Africa. Health Policy Plan. 2016 Dec;31(10):1342-1354. Epub 2016 Jul 3.</citation>
+    <PMID>27375126</PMID>
+  </reference>
+  <reference>
+    <citation>Viljoen L, Thorne M, Thomas A, Bond V, Hoddinott G; HPTN 071 (PopART) team. A narrative analysis positioning HIV relative to personal (sexual) relationship challenges in an agony aunt column in the Western Cape, South Africa - Aunty Mona's &quot;love advice&quot;. AIDS Care. 2016;28 Suppl 3:83-9. doi: 10.1080/09540121.2016.1178957.</citation>
+    <PMID>27421055</PMID>
+  </reference>
+  <reference>
+    <citation>Camlin CS, Seeley J, Viljoen L, Vernooij E, Simwinga M, Reynolds L, Reis R, Plank R, Orne-Gliemann J, McGrath N, Larmarange J, Hoddinott G, Getahun M, Charlebois ED, Bond V. Strengthening universal HIV 'test-and-treat' approaches with social science research. AIDS. 2016 Mar 27;30(6):969-70. doi: 10.1097/QAD.0000000000001008.</citation>
+    <PMID>26959355</PMID>
+  </reference>
+  <reference>
+    <citation>Hayes R, Ayles H, Beyers N, Sabapathy K, Floyd S, Shanaube K, Bock P, Griffith S, Moore A, Watson-Jones D, Fraser C, Vermund SH, Fidler S; HPTN 071 (PopART) Study Team. HPTN 071 (PopART): rationale and design of a cluster-randomised trial of the population impact of an HIV combination prevention intervention including universal testing and treatment - a study protocol for a cluster randomised trial. Trials. 2014 Feb 13;15:57. doi: 10.1186/1745-6215-15-57.</citation>
+    <PMID>24524229</PMID>
+  </reference>
+  <reference>
+    <citation>Cori A, Ayles H, Beyers N, Schaap A, Floyd S, Sabapathy K, Eaton JW, Hauck K, Smith P, Griffith S, Moore A, Donnell D, Vermund SH, Fidler S, Hayes R, Fraser C; HPTN 071 PopART Study Team. HPTN 071 (PopART): a cluster-randomized trial of the population impact of an HIV combination prevention intervention including universal testing and treatment: mathematical model. PLoS One. 2014 Jan 15;9(1):e84511. doi: 10.1371/journal.pone.0084511. eCollection 2014.</citation>
+    <PMID>24454728</PMID>
+  </reference>
+  <reference>
+    <citation>Vermund SH, Fidler SJ, Ayles H, Beyers N, Hayes RJ. Can combination prevention strategies reduce HIV transmission in generalized epidemic settings in Africa? The HPTN 071 (PopART) study plan in South Africa and Zambia. J Acquir Immune Defic Syndr. 2013 Jul;63 Suppl 2:S221-7. doi: 10.1097/QAI.0b013e318299c3f4.</citation>
+    <PMID>23764639</PMID>
+  </reference>
+  <reference>
+    <citation>Vermund SH, Hayes RJ. Combination prevention: new hope for stopping the epidemic. Curr HIV/AIDS Rep. 2013 Jun;10(2):169-86. doi: 10.1007/s11904-013-0155-y. Review.</citation>
+    <PMID>23456730</PMID>
+  </reference>
+  <reference>
+    <citation>Sabapathy K, Van den Bergh R, Fidler S, Hayes R, Ford N. Uptake of home-based voluntary HIV testing in sub-Saharan Africa: a systematic review and meta-analysis. PLoS Med. 2012;9(12):e1001351. doi: 10.1371/journal.pmed.1001351. Epub 2012 Dec 4. Review.</citation>
+    <PMID>23226107</PMID>
+  </reference>
+  <reference>
+    <citation>Hayes R, Sabapathy K, Fidler S. Universal testing and treatment as an HIV prevention strategy: research questions and methods. Curr HIV Res. 2011 Sep;9(6):429-45. Review.</citation>
+    <PMID>21999778</PMID>
+  </reference>
+  <results_reference>
+    <citation>Hoddinott G, Myburgh H, de Villiers L, Ndubani R, Mantantana J, Thomas A, Mbewe M, Ayles H, Bock P, Seeley J, Shanaube K, Hargreaves J, Bond V, Reynolds L; HPTN 071 (PopART) Study Team. Households, fluidity, and HIV service delivery in Zambia and South Africa - an exploratory analysis of longitudinal qualitative data from the HPTN 071 (PopART) trial. J Int AIDS Soc. 2018 Jul;21 Suppl 4:e25135. doi: 10.1002/jia2.25135.</citation>
+    <PMID>30027687</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Bond V, Ngwenya F, Thomas A, Simuyaba M, Hoddinott G, Fidler S, Hayes R, Ayles H, Seeley J; HPTN 071 (PopART) study team. Spinning plates: livelihood mobility, household responsibility and anti-retroviral treatment in an urban Zambian community during the HPTN 071 (PopART) study. J Int AIDS Soc. 2018 Jul;21 Suppl 4:e25117. doi: 10.1002/jia2.25117.</citation>
+    <PMID>30027643</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Floyd S, Ayles H, Schaap A, Shanaube K, MacLeod D, Phiri M, Griffith S, Bock P, Beyers N, Fidler S, Hayes R; HPTN 071 (PopART) Study Team. Towards 90-90: Findings after two years of the HPTN 071 (PopART) cluster-randomized trial of a universal testing-and-treatment intervention in Zambia. PLoS One. 2018 Aug 10;13(8):e0197904. doi: 10.1371/journal.pone.0197904. eCollection 2018.</citation>
+    <PMID>30096139</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Sabapathy K, Mulubwa C, Mathema H, Mubekapi-Musadaidzwa C, Schaap A, Hoddinott G, Hargreaves J, Floyd S, Ayles H, Hayes R; HPTN 071 (PopART) Study Team. Is home-based HIV testing universally acceptable? Findings from a case-control study nested within the HPTN 071 (PopART) trial. Trop Med Int Health. 2018 Jun;23(6):678-690. doi: 10.1111/tmi.13055. Epub 2018 Apr 16.</citation>
+    <PMID>29608231</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Bock P, Fatti G, Ford N, Jennings K, Kruger J, Gunst C, Louis F, Grobbelaar N, Shanaube K, Floyd S, Grimwood A, Hayes R, Ayles H, Fidler S, Beyers N; HPTN 071 (PopART) trial team. Attrition when providing antiretroviral treatment at CD4 counts &gt;500cells/μL at three government clinics included in the HPTN 071 (PopART) trial in South Africa. PLoS One. 2018 Apr 19;13(4):e0195127. doi: 10.1371/journal.pone.0195127. eCollection 2018.</citation>
+    <PMID>29672542</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Bradley J, Floyd S, Piwowar-Manning E, Laeyendecker O, Young A, Bell-Mandla N, Bwalya J, Bock P, Fidler S, Ayles H, Hayes RJ; HPTN 071 (PopART) Study Team. Sexually Transmitted Bedfellows: Exquisite Association Between HIV and Herpes Simplex Virus Type 2 in 21 Communities in Southern Africa in the HIV Prevention Trials Network 071 (PopART) Study. J Infect Dis. 2018 Jul 2;218(3):443-452. doi: 10.1093/infdis/jiy178.</citation>
+    <PMID>29659909</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Hargreaves JR, Krishnaratne S, Mathema H, Lilleston PS, Sievwright K, Mandla N, Mainga T, Vermaak R, Piwowar-Manning E, Schaap A, Donnell D, Ayles H, Hayes RJ, Hoddinott G, Bond V, Stangl A; HPTN 071 (PopART) Study Team. Individual and community-level risk factors for HIV stigma in 21 Zambian and South African communities: analysis of data from the HPTN071 (PopART) study. AIDS. 2018 Mar 27;32(6):783-793. doi: 10.1097/QAD.0000000000001757.</citation>
+    <PMID>29369164</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Bock P, Jennings K, Vermaak R, Cox H, Meintjes G, Fatti G, Kruger J, De Azevedo V, Maschilla L, Louis F, Gunst C, Grobbelaar N, Dunbar R, Limbada M, Floyd S, Grimwood A, Ayles H, Hayes R, Fidler S, Beyers N. Incidence of Tuberculosis Among HIV-Positive Individuals Initiating Antiretroviral Treatment at Higher CD4 Counts in the HPTN 071 (PopART) Trial in South Africa. J Acquir Immune Defic Syndr. 2018 Jan 1;77(1):93-101. doi: 10.1097/QAI.0000000000001560.</citation>
+    <PMID>29016524</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Viljoen L, Ndubani R, Bond V, Seeley J, Reynolds L, Hoddinott G. Community narratives about women and HIV risk in 21 high-burden communities in Zambia and South Africa. Int J Womens Health. 2017 Nov 29;9:861-870. doi: 10.2147/IJWH.S143397. eCollection 2017.</citation>
+    <PMID>29238230</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Sabapathy K, Mubekapi-Musadaidzwa C, Mulubwa C, Schaap A, Hoddinott G, Stangl A, Floyd S, Ayles H, Fidler S, Hayes R; HPTN 071 (PopART) study team. Predictors of timely linkage-to-ART within universal test and treat in the HPTN 071 (PopART) trial in Zambia and South Africa: findings from a nested case-control study. J Int AIDS Soc. 2017 Dec;20(4). doi: 10.1002/jia2.25037.</citation>
+    <PMID>29251433</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Thomas R, Burger R, Harper A, Kanema S, Mwenge L, Vanqa N, Bell-Mandla N, Smith PC, Floyd S, Bock P, Ayles H, Beyers N, Donnell D, Fidler S, Hayes R, Hauck K; HPTN 071 (PopART) Study Team. Differences in health-related quality of life between HIV-positive and HIV-negative people in Zambia and South Africa: a cross-sectional baseline survey of the HPTN 071 (PopART) trial. Lancet Glob Health. 2017 Nov;5(11):e1133-e1141. doi: 10.1016/S2214-109X(17)30367-4. Epub 2017 Sep 27.</citation>
+    <PMID>28964756</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Bock P, Phiri C, Piwowar-Manning E, Kosloff B, Mandla N, Young A, James A, Schaap A, Scheepers M, Donnell D, Griffith S, El-Sadr W, Shanaube K, Beyers N, Hayes R, Fidler S, Ayles H; HPTN 071 (PopART) Study Team. Understanding low sensitivity of community-based HIV rapid testing: experiences from the HPTN 071 (PopART) trial in Zambia and South Africa. J Int AIDS Soc. 2017 Aug 29;20(Suppl 6):21780. doi: 10.7448/IAS.20.7.21780.</citation>
+    <PMID>28872272</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Shanaube K, Schaap A, Chaila MJ, Floyd S, Mackworth-Young C, Hoddinott G, Hayes R, Fidler S, Ayles H; HPTN 071 (PopART) Study Team. Community intervention improves knowledge of HIV status of adolescents in Zambia: findings from HPTN 071-PopART for youth study. AIDS. 2017 Jul 1;31 Suppl 3:S221-S232. doi: 10.1097/QAD.0000000000001530.</citation>
+    <PMID>28665880</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Shanaube K, Schaap A, Floyd S, Phiri M, Griffith S, Chaila J, Bock P, Hayes R, Fidler S, Ayles H; HPTN 071 (PopART) Study Team. What works - reaching universal HIV testing: lessons from HPTN 071 (PopART) trial in Zambia. AIDS. 2017 Jul 17;31(11):1555-1564. doi: 10.1097/QAD.0000000000001514.</citation>
+    <PMID>28471766</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Hayes R, Floyd S, Schaap A, Shanaube K, Bock P, Sabapathy K, Griffith S, Donnell D, Piwowar-Manning E, El-Sadr W, Beyers N, Ayles H, Fidler S; HPTN 071 (PopART) Study Team. A universal testing and treatment intervention to improve HIV control: One-year results from intervention communities in Zambia in the HPTN 071 (PopART) cluster-randomised trial. PLoS Med. 2017 May 2;14(5):e1002292. doi: 10.1371/journal.pmed.1002292. eCollection 2017 May.</citation>
+    <PMID>28464041</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Simwinga M, Bond V, Makola N, Hoddinott G, Belemu S, White R, Shanaube K, Seeley J, Moore A; HPTN 071 (PopART) study team. Implementing Community Engagement for Combination Prevention: Lessons Learnt From the First Year of the HPTN 071 (PopART) Community-Randomized Study. Curr HIV/AIDS Rep. 2016 Aug;13(4):194-201. doi: 10.1007/s11904-016-0322-z. Review.</citation>
+    <PMID>27405816</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Bond V, Chiti B, Hoddinott G, Reynolds L, Schaap A, Simuyaba M, Ndubani R, Viljoen L, Simwinga M, Fidler S, Hayes R, Ayles H, Seeley J; HPTN 071 (PopART) study team. &quot;The difference that makes a difference&quot;: highlighting the role of variable contexts within an HIV Prevention Community Randomised Trial (HPTN 071/PopART) in 21 study communities in Zambia and South Africa. AIDS Care. 2016;28 Suppl 3:99-107. doi: 10.1080/09540121.2016.1178958.</citation>
+    <PMID>27421057</PMID>
+  </results_reference>
+  <verification_date>August 2022</verification_date>
+  <study_first_submitted>July 2, 2013</study_first_submitted>
+  <study_first_submitted_qc>July 16, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">July 17, 2013</study_first_posted>
+  <last_update_submitted>August 25, 2022</last_update_submitted>
+  <last_update_submitted_qc>August 25, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 26, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Universal Test and Treat (UTT)</keyword>
+  <keyword>Combination Prevention</keyword>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Informed Consent Form</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>November 16, 2015</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/77/NCT01900977/Prot_ICF_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

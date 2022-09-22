@@ -1,0 +1,376 @@
+{
+  "FullStudy":{
+    "Rank":475,
+    "Study":{
+      "ProtocolSection":{
+        "IdentificationModule":{
+          "NCTId":"NCT05540366",
+          "OrgStudyIdInfo":{
+            "OrgStudyId":"Flora Dantony"
+          },
+          "Organization":{
+            "OrgFullName":"Universitat Internacional de Catalunya",
+            "OrgClass":"OTHER"
+          },
+          "BriefTitle":"Effects of Aerobic Exercise on Pain in Patients With Myogenic Temporomandibular Disorders",
+          "OfficialTitle":"Effects of Aerobic Exercise on Pain in Patients With Myogenic Temporomandibular Disorders: A Pilot Randomized Controlled Trial"
+        },
+        "StatusModule":{
+          "StatusVerifiedDate":"September 2022",
+          "OverallStatus":"Not yet recruiting",
+          "ExpandedAccessInfo":{
+            "HasExpandedAccess":"No"
+          },
+          "StartDateStruct":{
+            "StartDate":"December 1, 2022",
+            "StartDateType":"Anticipated"
+          },
+          "PrimaryCompletionDateStruct":{
+            "PrimaryCompletionDate":"May 1, 2023",
+            "PrimaryCompletionDateType":"Anticipated"
+          },
+          "CompletionDateStruct":{
+            "CompletionDate":"May 1, 2023",
+            "CompletionDateType":"Anticipated"
+          },
+          "StudyFirstSubmitDate":"September 6, 2022",
+          "StudyFirstSubmitQCDate":"September 9, 2022",
+          "StudyFirstPostDateStruct":{
+            "StudyFirstPostDate":"September 14, 2022",
+            "StudyFirstPostDateType":"Actual"
+          },
+          "LastUpdateSubmitDate":"September 9, 2022",
+          "LastUpdatePostDateStruct":{
+            "LastUpdatePostDate":"September 14, 2022",
+            "LastUpdatePostDateType":"Actual"
+          }
+        },
+        "SponsorCollaboratorsModule":{
+          "ResponsibleParty":{
+            "ResponsiblePartyType":"Principal Investigator",
+            "ResponsiblePartyInvestigatorFullName":"Flora Dantony",
+            "ResponsiblePartyInvestigatorTitle":"Physical therapy department",
+            "ResponsiblePartyInvestigatorAffiliation":"Universitat Internacional de Catalunya"
+          },
+          "LeadSponsor":{
+            "LeadSponsorName":"Universitat Internacional de Catalunya",
+            "LeadSponsorClass":"OTHER"
+          }
+        },
+        "OversightModule":{
+          "IsFDARegulatedDrug":"No",
+          "IsFDARegulatedDevice":"No"
+        },
+        "DescriptionModule":{
+          "BriefSummary":"Temporomandibular disorders are common in the general population, the myogenic subtype being the most frequent. Central sensitization seems to be present in this pathology, with a decreased pain pressure threshold observed in both local and remote areas. The best evidence-based treatment consists in combining education, manual therapy and therapeutic exercise in both temporomandibular and cervical regions. Aerobic exercise showed to be effective in subjects with chronic pain and central sensitization, by inducing an hypoalgesic effect. However, there isn't investigation about the effects of aerobic exercise in subjects with myogenic temporomandibular disorders and central sensitization. Thus, the aim of the pilot study is to determine if adding aerobic exercise to an effective physical therapy programme is more effective than physical therapy alone to improve pain pressure threshold in subjects with myogenic temporomandibular disorders and suspicion of central sensitization."
+        },
+        "ConditionsModule":{
+          "ConditionList":{
+            "Condition":[
+              "Temporomandibular Disorder",
+              "Central Sensitisation",
+              "Myofascial Pain Syndrome",
+              "Endurance Training"
+            ]
+          }
+        },
+        "DesignModule":{
+          "StudyType":"Interventional",
+          "PhaseList":{
+            "Phase":[
+              "Not Applicable"
+            ]
+          },
+          "DesignInfo":{
+            "DesignAllocation":"Randomized",
+            "DesignInterventionModel":"Parallel Assignment",
+            "DesignPrimaryPurpose":"Treatment",
+            "DesignMaskingInfo":{
+              "DesignMasking":"Single",
+              "DesignWhoMaskedList":{
+                "DesignWhoMasked":[
+                  "Outcomes Assessor"
+                ]
+              }
+            }
+          },
+          "EnrollmentInfo":{
+            "EnrollmentCount":"20",
+            "EnrollmentType":"Anticipated"
+          }
+        },
+        "ArmsInterventionsModule":{
+          "ArmGroupList":{
+            "ArmGroup":[
+              {
+                "ArmGroupLabel":"Intervention Group",
+                "ArmGroupType":"Experimental",
+                "ArmGroupDescription":"Myogenic temporomandibular subjects\n\nPhysical therapy combined with aerobic exercise: 30 minutes of physical therapy with education, manual therapy and therapeutic exercise at both temporomandibular and cervical regions, combined with a 30 minutes aerobic exercise programme on a bike.",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Other: Physical therapy combined with aerobic exercise"
+                  ]
+                }
+              },{
+                "ArmGroupLabel":"Control group",
+                "ArmGroupType":"Active Comparator",
+                "ArmGroupDescription":"Myogenic temporomandibular subjects\n\nPhysical Therapy: 30 minutes of physical therapy with education, manual therapy and therapeutic exercise at both temporomandibular and cervical regions (same programme than the intervention group)",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Other: Physical Therapy"
+                  ]
+                }
+              }
+            ]
+          },
+          "InterventionList":{
+            "Intervention":[
+              {
+                "InterventionType":"Other",
+                "InterventionName":"Physical therapy combined with aerobic exercise",
+                "InterventionDescription":"30 minutes of physical therapy with education, manual therapy and therapeutic exercise at both temporomandibular and cervical regions, combined with a 30 minutes aerobic exercise programme on a bike.",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Intervention Group"
+                  ]
+                }
+              },{
+                "InterventionType":"Other",
+                "InterventionName":"Physical Therapy",
+                "InterventionDescription":"30 minutes of physical therapy with education, manual therapy and therapeutic exercise at both temporomandibular and cervical regions (same programme than the intervention group)",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Control group"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "OutcomesModule":{
+          "PrimaryOutcomeList":{
+            "PrimaryOutcome":[
+              {
+                "PrimaryOutcomeMeasure":"Change of baseline in Pain Pressure Threshold at 2 weeks, 1 month (final) and 3 months (post)",
+                "PrimaryOutcomeDescription":"Bilateral measure with digital algometer: TMJ, masseter, temporal, SCOM, achilles Tendon",
+                "PrimaryOutcomeTimeFrame":"Baseline - 2 weeks - 1 month (final) - 3 months"
+              }
+            ]
+          },
+          "SecondaryOutcomeList":{
+            "SecondaryOutcome":[
+              {
+                "SecondaryOutcomeMeasure":"Change of baseline in Central Sensitization at 2 weeks, 1 month (final) and 3 months (post)",
+                "SecondaryOutcomeDescription":"Central Sensitization Index: 25 items, from 0 to 100 (0-29=subclinic; 30-39=mild; 40-59=moderate; 60-100=extrem)",
+                "SecondaryOutcomeTimeFrame":"Baseline - 2 weeks - 1 month (final) - 3 months post"
+              },{
+                "SecondaryOutcomeMeasure":"Change of baseline in Jaw function at 1 month (final) and 3 months (post)",
+                "SecondaryOutcomeDescription":"Helkimo Index: range of movement, pain and function. From 0 to 25 (0=no TMD; 1-9= mild TMD; 10-19= moderate TDM; 20-25=severe TMD)",
+                "SecondaryOutcomeTimeFrame":"Baseline - 1 month (final) - 3 months post"
+              },{
+                "SecondaryOutcomeMeasure":"Change of baseline in Cervical global ROM at 1 month (final) and 3 months (post)",
+                "SecondaryOutcomeDescription":"CROM for global cervical range (flexion, extension, rotations, inclinations)",
+                "SecondaryOutcomeTimeFrame":"Baseline - 1 month (final) - 3 months post"
+              },{
+                "SecondaryOutcomeMeasure":"Change of baseline in Upper cervical ROM at 2 weeks, 1 month (final) and 3 months (post)",
+                "SecondaryOutcomeDescription":"Assessment of upper cervical ROM performing the Flexion Rotation Test with a CROM device",
+                "SecondaryOutcomeTimeFrame":"Baseline - 2 weeks - 1 month (final) - 3 months posts"
+              },{
+                "SecondaryOutcomeMeasure":"Change of baseline in Neck disability at 1 month (final) and 3 months (post)",
+                "SecondaryOutcomeDescription":"Neck Disability Index: from 0 to 50 (0-4= no disability; 5-14=mild; 15-24=moderate; 25-34=severe; 35-50=complete)",
+                "SecondaryOutcomeTimeFrame":"Baseline - 1 month (final) - 3 months posts"
+              },{
+                "SecondaryOutcomeMeasure":"Change of baseline in Anxiety and depression at 1 month (final) and 3 months (post)",
+                "SecondaryOutcomeDescription":"Hospital Anxiety and Depression Scale: 2 subscales, one for anxiety and the other one for depression. Each scale score is from 0 (less) to 21 (worst)",
+                "SecondaryOutcomeTimeFrame":"Baseline - 1 month (final) - 3 months posts"
+              },{
+                "SecondaryOutcomeMeasure":"Change of baseline in Sleep Quality at 1 month (final) and 3 months (post)",
+                "SecondaryOutcomeDescription":"Pittsburgh Sleep Quality Index: maximum score of 21; 5 being the cut-off point.",
+                "SecondaryOutcomeTimeFrame":"Baseline - 1 month (final) - 3 months posts"
+              },{
+                "SecondaryOutcomeMeasure":"Change of baseline in Perceived change at 1 month (final) and 3 months (post)",
+                "SecondaryOutcomeDescription":"Global Rating of Change scale: 15 points, from -7 (worst) to 7 (best)",
+                "SecondaryOutcomeTimeFrame":"Baseline - 1 month (final) - 3 months posts"
+              },{
+                "SecondaryOutcomeMeasure":"Change of baseline in Pain intensity at 2 weeks, 1 month (final) and 3 months (post)",
+                "SecondaryOutcomeDescription":"Visual Analog Scale: 100mm (no pain to worst pain)",
+                "SecondaryOutcomeTimeFrame":"Baseline - 2 weeks - 1 month (final) - 3 months posts"
+              }
+            ]
+          }
+        },
+        "EligibilityModule":{
+          "EligibilityCriteria":"Inclusion Criteria:\n\nDiagnosis of a myogenic temporomandibular disorder (DC/TMD) by an odontologist.\nA minimum score of 30 in the Central Sensitization Index\nPositive FRT\n\nExclusion Criteria:\n\nHistory of trauma, TMJ or cervical fracture the past three months\nHistory of TMJ or cervical surgery\nSystemic, rheumatic, metabolic, neurologic, psychiatric, pulmonary diseases or neoplastic malignant\nHistory of cardiovascular diseases which contraindicate aerobic exercise\nCurrent orthodontic treatment, splints for bruxism\nDrug addiction, alcoholism\nPregnancy\nUse of analgesic medication less than 48 hours before each data collection\nPhysical therapy treatment during the past three months",
+          "HealthyVolunteers":"No",
+          "Gender":"All",
+          "MinimumAge":"18 Years",
+          "StdAgeList":{
+            "StdAge":[
+              "Adult",
+              "Older Adult"
+            ]
+          }
+        },
+        "IPDSharingStatementModule":{
+          "IPDSharing":"No"
+        }
+      },
+      "DerivedSection":{
+        "MiscInfoModule":{
+          "VersionHolder":"September 19, 2022"
+        },
+        "ConditionBrowseModule":{
+          "ConditionMeshList":{
+            "ConditionMesh":[
+              {
+                "ConditionMeshId":"D000013705",
+                "ConditionMeshTerm":"Temporomandibular Joint Disorders"
+              },{
+                "ConditionMeshId":"D000013706",
+                "ConditionMeshTerm":"Temporomandibular Joint Dysfunction Syndrome"
+              },{
+                "ConditionMeshId":"D000009209",
+                "ConditionMeshTerm":"Myofascial Pain Syndromes"
+              },{
+                "ConditionMeshId":"D000005356",
+                "ConditionMeshTerm":"Fibromyalgia"
+              }
+            ]
+          },
+          "ConditionAncestorList":{
+            "ConditionAncestor":[
+              {
+                "ConditionAncestorId":"D000017271",
+                "ConditionAncestorTerm":"Craniomandibular Disorders"
+              },{
+                "ConditionAncestorId":"D000008336",
+                "ConditionAncestorTerm":"Mandibular Diseases"
+              },{
+                "ConditionAncestorId":"D000007571",
+                "ConditionAncestorTerm":"Jaw Diseases"
+              },{
+                "ConditionAncestorId":"D000009140",
+                "ConditionAncestorTerm":"Musculoskeletal Diseases"
+              },{
+                "ConditionAncestorId":"D000007592",
+                "ConditionAncestorTerm":"Joint Diseases"
+              },{
+                "ConditionAncestorId":"D000009135",
+                "ConditionAncestorTerm":"Muscular Diseases"
+              },{
+                "ConditionAncestorId":"D000009057",
+                "ConditionAncestorTerm":"Stomatognathic Diseases"
+              },{
+                "ConditionAncestorId":"D000012216",
+                "ConditionAncestorTerm":"Rheumatic Diseases"
+              },{
+                "ConditionAncestorId":"D000009468",
+                "ConditionAncestorTerm":"Neuromuscular Diseases"
+              },{
+                "ConditionAncestorId":"D000009422",
+                "ConditionAncestorTerm":"Nervous System Diseases"
+              }
+            ]
+          },
+          "ConditionBrowseLeafList":{
+            "ConditionBrowseLeaf":[
+              {
+                "ConditionBrowseLeafId":"M11313",
+                "ConditionBrowseLeafName":"Myofascial Pain Syndromes",
+                "ConditionBrowseLeafAsFound":"Myofascial Pain Syndrome",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M15507",
+                "ConditionBrowseLeafName":"Syndrome",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M7638",
+                "ConditionBrowseLeafName":"Fibromyalgia",
+                "ConditionBrowseLeafAsFound":"Myofascial Pain Syndrome",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M12218",
+                "ConditionBrowseLeafName":"Pain",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M15629",
+                "ConditionBrowseLeafName":"Temporomandibular Joint Disorders",
+                "ConditionBrowseLeafAsFound":"Temporomandibular Disorders",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M15630",
+                "ConditionBrowseLeafName":"Temporomandibular Joint Dysfunction Syndrome",
+                "ConditionBrowseLeafAsFound":"Temporomandibular Disorders",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M9773",
+                "ConditionBrowseLeafName":"Joint Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M18718",
+                "ConditionBrowseLeafName":"Craniomandibular Disorders",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M10479",
+                "ConditionBrowseLeafName":"Mandibular Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M9753",
+                "ConditionBrowseLeafName":"Jaw Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M11249",
+                "ConditionBrowseLeafName":"Musculoskeletal Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M11244",
+                "ConditionBrowseLeafName":"Muscular Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M11169",
+                "ConditionBrowseLeafName":"Stomatognathic Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M14197",
+                "ConditionBrowseLeafName":"Rheumatic Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M5475",
+                "ConditionBrowseLeafName":"Collagen Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M11563",
+                "ConditionBrowseLeafName":"Neuromuscular Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              }
+            ]
+          },
+          "ConditionBrowseBranchList":{
+            "ConditionBrowseBranch":[
+              {
+                "ConditionBrowseBranchAbbrev":"BC05",
+                "ConditionBrowseBranchName":"Musculoskeletal Diseases"
+              },{
+                "ConditionBrowseBranchAbbrev":"All",
+                "ConditionBrowseBranchName":"All Conditions"
+              },{
+                "ConditionBrowseBranchAbbrev":"BC23",
+                "ConditionBrowseBranchName":"Symptoms and General Pathology"
+              },{
+                "ConditionBrowseBranchAbbrev":"BC10",
+                "ConditionBrowseBranchName":"Nervous System Diseases"
+              },{
+                "ConditionBrowseBranchAbbrev":"BC07",
+                "ConditionBrowseBranchName":"Mouth and Tooth Diseases"
+              },{
+                "ConditionBrowseBranchAbbrev":"BC17",
+                "ConditionBrowseBranchName":"Skin and Connective Tissue Diseases"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+

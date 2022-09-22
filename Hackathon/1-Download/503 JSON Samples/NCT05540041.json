@@ -1,0 +1,331 @@
+{
+  "FullStudy":{
+    "Rank":500,
+    "Study":{
+      "ProtocolSection":{
+        "IdentificationModule":{
+          "NCTId":"NCT05540041",
+          "OrgStudyIdInfo":{
+            "OrgStudyId":"IspartaUAS3"
+          },
+          "Organization":{
+            "OrgFullName":"Isparta University of Applied Sciences",
+            "OrgClass":"OTHER"
+          },
+          "BriefTitle":"Reducing Anxiety of Children and Their Parents in the Pre-Operative Process With Therapeutic Play",
+          "OfficialTitle":"The Efficacy of Bubble Breathing Play Therapy and Tell-show-do Play Therapy in the Preoperative Anxiety Children and Their Parent"
+        },
+        "StatusModule":{
+          "StatusVerifiedDate":"September 2022",
+          "OverallStatus":"Not yet recruiting",
+          "ExpandedAccessInfo":{
+            "HasExpandedAccess":"No"
+          },
+          "StartDateStruct":{
+            "StartDate":"September 30, 2022",
+            "StartDateType":"Anticipated"
+          },
+          "PrimaryCompletionDateStruct":{
+            "PrimaryCompletionDate":"October 15, 2022",
+            "PrimaryCompletionDateType":"Anticipated"
+          },
+          "CompletionDateStruct":{
+            "CompletionDate":"March 15, 2023",
+            "CompletionDateType":"Anticipated"
+          },
+          "StudyFirstSubmitDate":"September 9, 2022",
+          "StudyFirstSubmitQCDate":"September 9, 2022",
+          "StudyFirstPostDateStruct":{
+            "StudyFirstPostDate":"September 14, 2022",
+            "StudyFirstPostDateType":"Actual"
+          },
+          "LastUpdateSubmitDate":"September 9, 2022",
+          "LastUpdatePostDateStruct":{
+            "LastUpdatePostDate":"September 14, 2022",
+            "LastUpdatePostDateType":"Actual"
+          }
+        },
+        "SponsorCollaboratorsModule":{
+          "ResponsibleParty":{
+            "ResponsiblePartyType":"Sponsor"
+          },
+          "LeadSponsor":{
+            "LeadSponsorName":"Isparta University of Applied Sciences",
+            "LeadSponsorClass":"OTHER"
+          },
+          "CollaboratorList":{
+            "Collaborator":[
+              {
+                "CollaboratorName":"Akdeniz University",
+                "CollaboratorClass":"OTHER"
+              }
+            ]
+          }
+        },
+        "OversightModule":{
+          "OversightHasDMC":"No",
+          "IsFDARegulatedDrug":"No",
+          "IsFDARegulatedDevice":"No"
+        },
+        "DescriptionModule":{
+          "BriefSummary":"It is emphasized in studies that child and parent anxiety that arises in pediatric surgery should be prevented or reduced. According to previous studies, one way to reduce child and parent anxiety in the preoperative period is therapeutic play interventions. This study was planned to compare the effectiveness of two different therapeutic play interventions (bubble breathing play therapy and tell-show-do play therapy) in reducing preoperative anxiety of children and parents who are scheduled for elective surgery.",
+          "DetailedDescription":"Aim: This study was planned to comparison of the effectiveness of two different therapeutic play interventions (bubble breathing play therapy and tell-show-do play therapy) in reducing preoperative anxiety of children and parents who are scheduled for elective surgery.\n\nMethod: This study was planned as a randomized controlled trial. The sample of the study will consist of 105 children aged 5-12, who will be operated on at Akdeniz University Hospital, and their parents. Randomization result; It was planned to include a total of 105 children and their parents in 3 groups: bubble breathing play therapy group (intervention group 1)= 35, tell-show-do play therapy group (intervention group 2)= 35 , and control group= 35 children and parents.\n\nChild and parent information form will be used to collect data, Modified Yale Preoperative Anxiety Scale will be used to collect data in child sample, and Spielberger State Anxiety Scale will be used to collect data in parent sample.\n\nIntervention and Data Collection: Randomization will be performed after the purpose of the study is explained to the child and parent who agreed to participate in the study and after obtaining consent. Immediately after the pretest (first measurement) is given to the children assigned to intervention group 1 and their parents, attempts to bubble breathing play therapy will be applied for 5-10 minutes. If they wish, the child and parents will be told that they can continue to play with the bubble toys until premedication. Children assigned to intervention group 2 and their parents will be tell-show-do play therapy for 10-15 minutes immediately after the pre-test (first measurement) is done. Participants randomized to the control group will be given routine standard nursing care. The second measurement will be just before premedication (post test). Thus, the effectiveness of the initiatives and their comparison with each other will be evaluated.\n\nThe data of the research will be analyzed using the Statistical Package of Social Science (SPSS) 23.0 software package program. The process of evaluating the data will be carried out with the support of a statistician."
+        },
+        "ConditionsModule":{
+          "ConditionList":{
+            "Condition":[
+              "Preoperative Care",
+              "Child",
+              "Parents",
+              "Anxiety"
+            ]
+          },
+          "KeywordList":{
+            "Keyword":[
+              "Preoperative Care",
+              "Child",
+              "Parents",
+              "Anxiety"
+            ]
+          }
+        },
+        "DesignModule":{
+          "StudyType":"Interventional",
+          "PhaseList":{
+            "Phase":[
+              "Not Applicable"
+            ]
+          },
+          "DesignInfo":{
+            "DesignAllocation":"Randomized",
+            "DesignInterventionModel":"Parallel Assignment",
+            "DesignInterventionModelDescription":"Parallel Assignment",
+            "DesignPrimaryPurpose":"Prevention",
+            "DesignMaskingInfo":{
+              "DesignMasking":"Single",
+              "DesignMaskingDescription":"Single (Participant)",
+              "DesignWhoMaskedList":{
+                "DesignWhoMasked":[
+                  "Participant"
+                ]
+              }
+            }
+          },
+          "EnrollmentInfo":{
+            "EnrollmentCount":"210",
+            "EnrollmentType":"Anticipated"
+          }
+        },
+        "ArmsInterventionsModule":{
+          "ArmGroupList":{
+            "ArmGroup":[
+              {
+                "ArmGroupLabel":"Bubble breathing play therapy",
+                "ArmGroupType":"Experimental",
+                "ArmGroupDescription":"Children in intervention group 2 will be given a bubble breathing play therapy intervention. With this intervention, it is aimed to teach the child and parent to breathe correctly and deeply, to relax them, to reduce their anxiety and fears, to relax, to direct their attention to something other than pain. In the intervention pediatric surgery service, investigative coaching will be applied 30 minutes before premedication. The procedure time is planned to be at least 5-10 minutes. The intervention will be implemented with a ready-made foam bubble toy. The toy will be provided by the researcher and given to the children as a gift.",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Other: Bubble breathing play therapy group"
+                  ]
+                }
+              },{
+                "ArmGroupLabel":"Tell-show-do play therapy",
+                "ArmGroupType":"Experimental",
+                "ArmGroupDescription":"Tell-show-do play therapy initiative will be applied to children included in intervention group 1. The initiative will be applied to children without disturbing the parent-child relationship. The intervention will be applied for 10-15 minutes. The tell-show-do play therapy initiative will be implemented using the directed play therapy method and therapeutic play tools. Amigurumi dolls, medical toys (surgical shirt, movable toy bed) and real medical materials such as stethoscope, patient armband, bone, mask, degree will be used as therapeutic play tools.",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Other: Tell-show-do play therapy group"
+                  ]
+                }
+              },{
+                "ArmGroupLabel":"No intervention",
+                "ArmGroupType":"Other",
+                "ArmGroupDescription":"The participants in the control group will be given routine nursing care.",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Other: No intervention"
+                  ]
+                }
+              }
+            ]
+          },
+          "InterventionList":{
+            "Intervention":[
+              {
+                "InterventionType":"Other",
+                "InterventionName":"Bubble breathing play therapy group",
+                "InterventionDescription":"The efficacy of bubble breathing play therapy in the preoperative anxiety children and their parent.",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Bubble breathing play therapy"
+                  ]
+                }
+              },{
+                "InterventionType":"Other",
+                "InterventionName":"Tell-show-do play therapy group",
+                "InterventionDescription":"The efficacy of tell-show-do play therapy in the preoperative anxiety children and their parent.",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Tell-show-do play therapy"
+                  ]
+                }
+              },{
+                "InterventionType":"Other",
+                "InterventionName":"No intervention",
+                "InterventionDescription":"Routine nursing care",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "No intervention"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "OutcomesModule":{
+          "PrimaryOutcomeList":{
+            "PrimaryOutcome":[
+              {
+                "PrimaryOutcomeMeasure":"Preoperative anxiety of children",
+                "PrimaryOutcomeDescription":"The decrease in anxiety levels of children whose attention is diverted with play dough and kaleidoscope is an outcome measure. This decrease will be measured with the \"Modified Yale Preoperative Anxiety Scale\". Outcome criteria will be evaluated twice in Pediatric Surgery Service, approximately 30 minutes before premedication and just before premedication (pretest-posttest). The scale consists of twenty-two items and five categories. Each category gets one point out of four. The higher the score on the scale, the greater anxiety. In the post-test, it will be evaluated whether there is a decrease according to the pre-test score. If there is a decrease in the \"posttest\" scores compared to the \"pretest\" scores, it can be said that distraction positively affects preoperative anxiety. Statistical significance will be set to p < 0.05.",
+                "PrimaryOutcomeTimeFrame":"Anxiety levels of children will be evaluated twice. The first measurement will be made 30 minutes before the premedication, and the last measurement will be made just before the premedication."
+              },{
+                "PrimaryOutcomeMeasure":"Preoperative anxiety of parent",
+                "PrimaryOutcomeDescription":"The decrease in anxiety levels of parents of children whose attention is diverted with play dough and kaleidoscope is an outcome measure. This decrease will be measured by the \"Spielberger State Anxiety Scale\". Outcome criteria will be evaluated twice in Pediatric Surgery Service, approximately 30 minutes before premedication and just before premedication (pretest-posttest). The 4-point Likert-type scale, consisting of 20 items in total, measures the anxiety of the person at a certain time. For scores above 42 points, it indicates a high level of anxiety. In the post-test, it will be evaluated whether there is a decrease according to the pre-test score. If there is a decrease in the \"posttest\" scores compared to the \"pretest\" scores, it can be said that distraction positively affects preoperative anxiety. Statistical significance will be set to p < 0.05.",
+                "PrimaryOutcomeTimeFrame":"Anxiety levels of parents will be evaluated twice. The first measurement will be made 30 minutes before the premedication, and the last measurement will be made just before the premedication."
+              }
+            ]
+          }
+        },
+        "EligibilityModule":{
+          "EligibilityCriteria":"Inclusion Criteria:\n\nBeing a child between the ages of 5-12 for which a surgical operation is planned\nBeing the parent of a child between the ages of 5 and 12 whose surgical operation is planned\nNot having vision, hearing or speech problems\nNot have a mental or neurological disability\nNot being diagnosed with an anxiety disorder\nChildren and parents who can speak and understand Turkish will be included in the study\n\nExclusion Criteria:\n\nChange in surgical operation date\nUsing another distraction technique",
+          "HealthyVolunteers":"Accepts Healthy Volunteers",
+          "Gender":"All",
+          "MinimumAge":"5 Years",
+          "MaximumAge":"12 Years",
+          "StdAgeList":{
+            "StdAge":[
+              "Child"
+            ]
+          }
+        },
+        "ContactsLocationsModule":{
+          "CentralContactList":{
+            "CentralContact":[
+              {
+                "CentralContactName":"Fahriye RN PAZARCIKCI, PhD",
+                "CentralContactRole":"Contact",
+                "CentralContactPhone":"+902462117014",
+                "CentralContactEMail":"fahriyepazarcikci@isparta.edu.tr"
+              },{
+                "CentralContactName":"Emine RN EFE, Professor",
+                "CentralContactRole":"Contact",
+                "CentralContactPhone":"+902423106103",
+                "CentralContactEMail":"eefe@akdeniz.edu.tr"
+              }
+            ]
+          },
+          "OverallOfficialList":{
+            "OverallOfficial":[
+              {
+                "OverallOfficialName":"Fahriye RN PAZARCIKCI, PhD",
+                "OverallOfficialAffiliation":"Isparta University of Applied Sciences",
+                "OverallOfficialRole":"Study Director"
+              },{
+                "OverallOfficialName":"Emine RN EFE, Professor",
+                "OverallOfficialAffiliation":"Akdeniz University",
+                "OverallOfficialRole":"Study Chair"
+              },{
+                "OverallOfficialName":"Şevkiye DİKMEN",
+                "OverallOfficialAffiliation":"Akdeniz University",
+                "OverallOfficialRole":"Study Chair"
+              },{
+                "OverallOfficialName":"Öznur ARAYAN",
+                "OverallOfficialAffiliation":"Akdeniz University",
+                "OverallOfficialRole":"Study Chair"
+              }
+            ]
+          }
+        },
+        "ReferencesModule":{
+          "ReferenceList":{
+            "Reference":[
+              {
+                "ReferencePMID":"32381795",
+                "ReferenceType":"background",
+                "ReferenceCitation":"Azher U, Srinath SK, Nayak M. Effectiveness of Bubble Breath Play Therapy in the Dental Management of Anxious Children: A Pilot Study. J Contemp Dent Pract. 2020 Jan 1;21(1):17-21."
+              },{
+                "ReferencePMID":"30887592",
+                "ReferenceType":"background",
+                "ReferenceCitation":"Sridhar S, Suprabha BS, Shenoy R, Shwetha KT, Rao A. Effect of a relaxation training exercise on behaviour, anxiety, and pain during buccal infiltration anaesthesia in children: Randomized clinical trial. Int J Paediatr Dent. 2019 Sep;29(5):596-602. doi: 10.1111/ipd.12497. Epub 2019 Apr 8."
+              }
+            ]
+          }
+        }
+      },
+      "DerivedSection":{
+        "MiscInfoModule":{
+          "VersionHolder":"September 19, 2022"
+        },
+        "ConditionBrowseModule":{
+          "ConditionMeshList":{
+            "ConditionMesh":[
+              {
+                "ConditionMeshId":"D000001008",
+                "ConditionMeshTerm":"Anxiety Disorders"
+              }
+            ]
+          },
+          "ConditionAncestorList":{
+            "ConditionAncestor":[
+              {
+                "ConditionAncestorId":"D000001523",
+                "ConditionAncestorTerm":"Mental Disorders"
+              }
+            ]
+          },
+          "ConditionBrowseLeafList":{
+            "ConditionBrowseLeaf":[
+              {
+                "ConditionBrowseLeafId":"M3476",
+                "ConditionBrowseLeafName":"Anxiety Disorders",
+                "ConditionBrowseLeafAsFound":"Anxiety",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M26290",
+                "ConditionBrowseLeafName":"Respiratory Aspiration",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M3967",
+                "ConditionBrowseLeafName":"Mental Disorders",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M13625",
+                "ConditionBrowseLeafName":"Psychotic Disorders",
+                "ConditionBrowseLeafRelevance":"low"
+              }
+            ]
+          },
+          "ConditionBrowseBranchList":{
+            "ConditionBrowseBranch":[
+              {
+                "ConditionBrowseBranchAbbrev":"BXM",
+                "ConditionBrowseBranchName":"Behaviors and Mental Disorders"
+              },{
+                "ConditionBrowseBranchAbbrev":"All",
+                "ConditionBrowseBranchName":"All Conditions"
+              },{
+                "ConditionBrowseBranchAbbrev":"BC08",
+                "ConditionBrowseBranchName":"Respiratory Tract (Lung and Bronchial) Diseases"
+              },{
+                "ConditionBrowseBranchAbbrev":"BC23",
+                "ConditionBrowseBranchName":"Symptoms and General Pathology"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+

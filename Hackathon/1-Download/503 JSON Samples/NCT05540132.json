@@ -1,0 +1,379 @@
+{
+  "FullStudy":{
+    "Rank":493,
+    "Study":{
+      "ProtocolSection":{
+        "IdentificationModule":{
+          "NCTId":"NCT05540132",
+          "OrgStudyIdInfo":{
+            "OrgStudyId":"SS_T1D_2022"
+          },
+          "Organization":{
+            "OrgFullName":"State University of New York at Buffalo",
+            "OrgClass":"OTHER"
+          },
+          "BriefTitle":"Slow Digestible Carbohydrates and Exercise in Adolescents With Type 1 Diabetes",
+          "OfficialTitle":"Slow-digestible Carbohydrates Consumed Prior to Exercise Improve Performance and Decrease Risk of Delayed Hypoglycemia in Adolescents With Type 1 Diabetes"
+        },
+        "StatusModule":{
+          "StatusVerifiedDate":"September 2022",
+          "OverallStatus":"Not yet recruiting",
+          "ExpandedAccessInfo":{
+            "HasExpandedAccess":"No"
+          },
+          "StartDateStruct":{
+            "StartDate":"October 2022",
+            "StartDateType":"Anticipated"
+          },
+          "PrimaryCompletionDateStruct":{
+            "PrimaryCompletionDate":"October 2024",
+            "PrimaryCompletionDateType":"Anticipated"
+          },
+          "CompletionDateStruct":{
+            "CompletionDate":"June 2025",
+            "CompletionDateType":"Anticipated"
+          },
+          "StudyFirstSubmitDate":"September 10, 2022",
+          "StudyFirstSubmitQCDate":"September 10, 2022",
+          "StudyFirstPostDateStruct":{
+            "StudyFirstPostDate":"September 14, 2022",
+            "StudyFirstPostDateType":"Actual"
+          },
+          "LastUpdateSubmitDate":"September 13, 2022",
+          "LastUpdatePostDateStruct":{
+            "LastUpdatePostDate":"September 16, 2022",
+            "LastUpdatePostDateType":"Actual"
+          }
+        },
+        "SponsorCollaboratorsModule":{
+          "ResponsibleParty":{
+            "ResponsiblePartyType":"Principal Investigator",
+            "ResponsiblePartyInvestigatorFullName":"Lucy D Mastrandrea",
+            "ResponsiblePartyInvestigatorTitle":"Professor",
+            "ResponsiblePartyInvestigatorAffiliation":"State University of New York at Buffalo"
+          },
+          "LeadSponsor":{
+            "LeadSponsorName":"State University of New York at Buffalo",
+            "LeadSponsorClass":"OTHER"
+          }
+        },
+        "OversightModule":{
+          "OversightHasDMC":"No",
+          "IsFDARegulatedDrug":"No",
+          "IsFDARegulatedDevice":"No"
+        },
+        "DescriptionModule":{
+          "BriefSummary":"In this within-subject cross-over study, the investigators hypothesize that corn-starch based supplements taken prior to exercise will decrease the risk of delayed hypoglycemia in adolescents with T1D, improve performance during exercise, and decrease glycemic variability during exercise.",
+          "DetailedDescription":"Type 1 diabetes (T1D), one of the most common chronic diseases in adolescents, is caused by the destruction of insulin producing beta cells which are located in the pancreas. There are many factors that impact diabetes control which are insulin administration, intake of food and exercise. When an individual exercises, weight is better managed which allows for a better cardiovascular system. Exercising also improves insulin sensitivity which can increased the risk for delayed hypoglycemia (low blood sugar). Many individuals with T1D do not participate (or under-participate) in exercise due to the fear of hypoglycemia. This study will recruit adolescents with Type 1 diabetes to undergo a maximal exercise test to determine their VO2max. Study participants then will complete 2 exercise performance tests prior to which the participant will be randomized to consume 22 grams of either fast acting carbohydrates or long-acting cornstarch based supplements. Subjects will be asked to bike for 45 minutes (at 50% of VO2max) and then complete a 3.75 mile bike ride as quickly as possible. The investigators will document the time to completion of the bike ride as well as monitor glucose levels via continuous glucose monitoring for 12 hours after completion of the exercise test."
+        },
+        "ConditionsModule":{
+          "ConditionList":{
+            "Condition":[
+              "Type 1 Diabetes",
+              "Hypoglycemia"
+            ]
+          },
+          "KeywordList":{
+            "Keyword":[
+              "adolescent",
+              "exercise",
+              "cgm"
+            ]
+          }
+        },
+        "DesignModule":{
+          "StudyType":"Interventional",
+          "PhaseList":{
+            "Phase":[
+              "Not Applicable"
+            ]
+          },
+          "DesignInfo":{
+            "DesignAllocation":"Randomized",
+            "DesignInterventionModel":"Crossover Assignment",
+            "DesignInterventionModelDescription":"Within subject, randomized cross-over study",
+            "DesignPrimaryPurpose":"Prevention",
+            "DesignMaskingInfo":{
+              "DesignMasking":"Triple",
+              "DesignWhoMaskedList":{
+                "DesignWhoMasked":[
+                  "Participant",
+                  "Care Provider",
+                  "Investigator"
+                ]
+              }
+            }
+          },
+          "EnrollmentInfo":{
+            "EnrollmentCount":"20",
+            "EnrollmentType":"Anticipated"
+          }
+        },
+        "ArmsInterventionsModule":{
+          "ArmGroupList":{
+            "ArmGroup":[
+              {
+                "ArmGroupLabel":"Fast Acting Carbohydrate",
+                "ArmGroupType":"Active Comparator",
+                "ArmGroupDescription":"Prior to exercise performance test, subject will be randomized to consume 22 grams of fast-acting carbohydrate (maltodextrin) or slow-acting cornstarch based supplement",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Dietary Supplement: maltodextrin"
+                  ]
+                }
+              },{
+                "ArmGroupLabel":"Slow-acting cornstarch supplement",
+                "ArmGroupType":"Active Comparator",
+                "ArmGroupDescription":"Prior to exercise performance test, subject will be randomized to consume 22 grams of slow-acting cornstarch based supplement or fast-acting carbohydrate (maltodextrin)",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Dietary Supplement: super starch"
+                  ]
+                }
+              }
+            ]
+          },
+          "InterventionList":{
+            "Intervention":[
+              {
+                "InterventionType":"Dietary Supplement",
+                "InterventionName":"maltodextrin",
+                "InterventionDescription":"Pre-exercise carbohydrate, fast-acting",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Fast Acting Carbohydrate"
+                  ]
+                }
+              },{
+                "InterventionType":"Dietary Supplement",
+                "InterventionName":"super starch",
+                "InterventionDescription":"Pre-exercise carbohydrate, slow-acting",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Slow-acting cornstarch supplement"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "OutcomesModule":{
+          "PrimaryOutcomeList":{
+            "PrimaryOutcome":[
+              {
+                "PrimaryOutcomeMeasure":"Number of hypoglycemic events 12 hours after completion of exercise challenge",
+                "PrimaryOutcomeDescription":"Review of continuous glucose monitoring data",
+                "PrimaryOutcomeTimeFrame":"12 hours after exercise challenge"
+              },{
+                "PrimaryOutcomeMeasure":"Glycemic variability during exercise challenge",
+                "PrimaryOutcomeDescription":"Review of continuous glucose monitoring data",
+                "PrimaryOutcomeTimeFrame":"During exercise challenge"
+              },{
+                "PrimaryOutcomeMeasure":"Time to completion of distance bike challenge",
+                "PrimaryOutcomeDescription":"Number of minutes to complete 3.75 mile bike ride",
+                "PrimaryOutcomeTimeFrame":"During exercise challenge"
+              }
+            ]
+          },
+          "SecondaryOutcomeList":{
+            "SecondaryOutcome":[
+              {
+                "SecondaryOutcomeMeasure":"Percent time spent in hypoglycemia following exercise challenge",
+                "SecondaryOutcomeDescription":"Review of continuous glucose monitoring data",
+                "SecondaryOutcomeTimeFrame":"12 hours after exercise challenge"
+              },{
+                "SecondaryOutcomeMeasure":"Percent time above range, in range, and below range following exercise challenge",
+                "SecondaryOutcomeDescription":"Review of continuous glucose monitoring data",
+                "SecondaryOutcomeTimeFrame":"12 hours after exercise challenge"
+              },{
+                "SecondaryOutcomeMeasure":"Glycemic variability in the 12 hours following the exercise test",
+                "SecondaryOutcomeDescription":"Review of continuous glucose monitoring data",
+                "SecondaryOutcomeTimeFrame":"12 hours after exercise challenge"
+              }
+            ]
+          }
+        },
+        "EligibilityModule":{
+          "EligibilityCriteria":"Inclusion Criteria:\n\nAge 12 - <18 year old male and female subjects with Type 1 diabetes for > 1 year\nHbA1c <10.5%\nBody Mass Index >10th % and <95th%\nNot being treated with sensor-augmented pump therapy\nAbility to participate in exercise activity - biking\nWilling to wear a continuous glucose monitor (CGM) sensor\n\nExclusion Criteria:\n\nSevere hypoglycemia (requiring glucagon or external assistance) in last 6 months\nAdmission for diabetic ketoacidosis in last 3 months\nHistory of chronic lung disease, congenital heart disease or chronic asthma\nFood (including corn)/dye allergies\nOther chronic medical conditions except for well-controlled thyroid disease",
+          "HealthyVolunteers":"No",
+          "Gender":"All",
+          "GenderBased":"Yes",
+          "GenderDescription":"All genders are eligible, patients self-identification of gender will be recorded",
+          "MinimumAge":"12 Years",
+          "MaximumAge":"17 Years",
+          "StdAgeList":{
+            "StdAge":[
+              "Child"
+            ]
+          }
+        },
+        "ContactsLocationsModule":{
+          "CentralContactList":{
+            "CentralContact":[
+              {
+                "CentralContactName":"Lucy D Mastrandrea, MD, PhD",
+                "CentralContactRole":"Contact",
+                "CentralContactPhone":"716 323-0170",
+                "CentralContactEMail":"ldm@buffalo.edu"
+              },{
+                "CentralContactName":"Amanda House, RN,MPH",
+                "CentralContactRole":"Contact",
+                "CentralContactEMail":"ahouse@upa.chob.edu"
+              }
+            ]
+          },
+          "OverallOfficialList":{
+            "OverallOfficial":[
+              {
+                "OverallOfficialName":"Lucy Mastrandrea, MD, PhD",
+                "OverallOfficialAffiliation":"State University of New York at Buffalo",
+                "OverallOfficialRole":"Principal Investigator"
+              }
+            ]
+          },
+          "LocationList":{
+            "Location":[
+              {
+                "LocationFacility":"UB MD Pediatrics Division of Pediatric Endocrinology",
+                "LocationCity":"Buffalo",
+                "LocationState":"New York",
+                "LocationZip":"14203",
+                "LocationCountry":"United States",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactName":"Lucy Mastrandrea, MD, PhD",
+                      "LocationContactRole":"Contact",
+                      "LocationContactPhone":"716-323-0170",
+                      "LocationContactEMail":"ldm@buffalo.edu"
+                    },{
+                      "LocationContactName":"Lucy D Mastrandrea, MD, PhD",
+                      "LocationContactRole":"Principal Investigator"
+                    },{
+                      "LocationContactName":"David Hostler, PhD",
+                      "LocationContactRole":"Sub-Investigator"
+                    },{
+                      "LocationContactName":"Leonard Epstein, PhD",
+                      "LocationContactRole":"Sub-Investigator"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "IPDSharingStatementModule":{
+          "IPDSharing":"Yes",
+          "IPDSharingDescription":"Consent informs subjects as follows:\n\nIf identifiers are removed from your identifiable information, that information could be used for future research studies or distributed to another investigator for future research studies without your additional informed consent. Any future use of the banked data for research outside the scope of this current protocol will be submitted as separate studies to the Institutional Review Board for review and approval, prior to conducting the research",
+          "IPDSharingInfoTypeList":{
+            "IPDSharingInfoType":[
+              "Study Protocol",
+              "Clinical Study Report (CSR)"
+            ]
+          },
+          "IPDSharingTimeFrame":"Data will become available June, 2024 and will be available for 2 years",
+          "IPDSharingAccessCriteria":"Contact with Principal Investigator"
+        }
+      },
+      "DerivedSection":{
+        "MiscInfoModule":{
+          "VersionHolder":"September 19, 2022"
+        },
+        "ConditionBrowseModule":{
+          "ConditionMeshList":{
+            "ConditionMesh":[
+              {
+                "ConditionMeshId":"D000003920",
+                "ConditionMeshTerm":"Diabetes Mellitus"
+              },{
+                "ConditionMeshId":"D000003922",
+                "ConditionMeshTerm":"Diabetes Mellitus, Type 1"
+              },{
+                "ConditionMeshId":"D000007003",
+                "ConditionMeshTerm":"Hypoglycemia"
+              }
+            ]
+          },
+          "ConditionAncestorList":{
+            "ConditionAncestor":[
+              {
+                "ConditionAncestorId":"D000044882",
+                "ConditionAncestorTerm":"Glucose Metabolism Disorders"
+              },{
+                "ConditionAncestorId":"D000008659",
+                "ConditionAncestorTerm":"Metabolic Diseases"
+              },{
+                "ConditionAncestorId":"D000004700",
+                "ConditionAncestorTerm":"Endocrine System Diseases"
+              },{
+                "ConditionAncestorId":"D000001327",
+                "ConditionAncestorTerm":"Autoimmune Diseases"
+              },{
+                "ConditionAncestorId":"D000007154",
+                "ConditionAncestorTerm":"Immune System Diseases"
+              }
+            ]
+          },
+          "ConditionBrowseLeafList":{
+            "ConditionBrowseLeaf":[
+              {
+                "ConditionBrowseLeafId":"M6267",
+                "ConditionBrowseLeafName":"Diabetes Mellitus",
+                "ConditionBrowseLeafAsFound":"Diabetes",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M6269",
+                "ConditionBrowseLeafName":"Diabetes Mellitus, Type 1",
+                "ConditionBrowseLeafAsFound":"Type 1 Diabetes",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M9205",
+                "ConditionBrowseLeafName":"Hypoglycemia",
+                "ConditionBrowseLeafAsFound":"Hypoglycemia",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M10791",
+                "ConditionBrowseLeafName":"Metabolic Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M24556",
+                "ConditionBrowseLeafName":"Glucose Metabolism Disorders",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M7014",
+                "ConditionBrowseLeafName":"Endocrine System Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M3781",
+                "ConditionBrowseLeafName":"Autoimmune Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M9352",
+                "ConditionBrowseLeafName":"Immune System Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              }
+            ]
+          },
+          "ConditionBrowseBranchList":{
+            "ConditionBrowseBranch":[
+              {
+                "ConditionBrowseBranchAbbrev":"BC18",
+                "ConditionBrowseBranchName":"Nutritional and Metabolic Diseases"
+              },{
+                "ConditionBrowseBranchAbbrev":"BC19",
+                "ConditionBrowseBranchName":"Gland and Hormone Related Diseases"
+              },{
+                "ConditionBrowseBranchAbbrev":"All",
+                "ConditionBrowseBranchName":"All Conditions"
+              },{
+                "ConditionBrowseBranchAbbrev":"BC20",
+                "ConditionBrowseBranchName":"Immune System Diseases"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+

@@ -1,0 +1,278 @@
+{
+  "FullStudy":{
+    "Rank":491,
+    "Study":{
+      "ProtocolSection":{
+        "IdentificationModule":{
+          "NCTId":"NCT05540158",
+          "OrgStudyIdInfo":{
+            "OrgStudyId":"STUDY00000126"
+          },
+          "Organization":{
+            "OrgFullName":"University of Massachusetts, Worcester",
+            "OrgClass":"OTHER"
+          },
+          "BriefTitle":"A Mobile Integrated Health Intervention to Manage Congestive Health Failure and Chronic Obstructive Pulmonary Disease",
+          "OfficialTitle":"A Mobile Integrated Health Intervention for the Management of Acute-phase Exacerbation of Congestive Health Failure and Chronic Obstructive Pulmonary Disease"
+        },
+        "StatusModule":{
+          "StatusVerifiedDate":"September 2022",
+          "OverallStatus":"Not yet recruiting",
+          "ExpandedAccessInfo":{
+            "HasExpandedAccess":"No"
+          },
+          "StartDateStruct":{
+            "StartDate":"January 2023",
+            "StartDateType":"Anticipated"
+          },
+          "PrimaryCompletionDateStruct":{
+            "PrimaryCompletionDate":"December 2024",
+            "PrimaryCompletionDateType":"Anticipated"
+          },
+          "CompletionDateStruct":{
+            "CompletionDate":"December 2025",
+            "CompletionDateType":"Anticipated"
+          },
+          "StudyFirstSubmitDate":"September 10, 2022",
+          "StudyFirstSubmitQCDate":"September 10, 2022",
+          "StudyFirstPostDateStruct":{
+            "StudyFirstPostDate":"September 14, 2022",
+            "StudyFirstPostDateType":"Actual"
+          },
+          "LastUpdateSubmitDate":"September 10, 2022",
+          "LastUpdatePostDateStruct":{
+            "LastUpdatePostDate":"September 14, 2022",
+            "LastUpdatePostDateType":"Actual"
+          }
+        },
+        "SponsorCollaboratorsModule":{
+          "ResponsibleParty":{
+            "ResponsiblePartyType":"Principal Investigator",
+            "ResponsiblePartyInvestigatorFullName":"Laurel O'Connor",
+            "ResponsiblePartyInvestigatorTitle":"Assistant Professor",
+            "ResponsiblePartyInvestigatorAffiliation":"University of Massachusetts, Worcester"
+          },
+          "LeadSponsor":{
+            "LeadSponsorName":"University of Massachusetts, Worcester",
+            "LeadSponsorClass":"OTHER"
+          }
+        },
+        "OversightModule":{
+          "OversightHasDMC":"No",
+          "IsFDARegulatedDrug":"No",
+          "IsFDARegulatedDevice":"No"
+        },
+        "DescriptionModule":{
+          "BriefSummary":"Episodic and disjointed medical care for older, community-dwelling adults with chronic obstructive pulmonary disease (COPD) and congestive heart failure (CHF) leave them vulnerable to adverse events such as worsening disease trajectories, frequent emergency department (ED) utilization, and avoidable hospital admissions. It is imperative that an alternative means of health delivery be developed, establishing a coordinated, flexible care model to connect patients with the appropriate resources to address their acute needs and integrate with their medical homes to navigate fraught moments in their disease management.\n\nThe Mobile integrated health (MIH) care delivery model may offer a solution by providing flexible and innovative on-demand care in the comfort of patients' homes. The MIH paradigm expands the use of highly trained paramedics outside of their traditional EMS role, by dispatching them into the community to perform in-home medical evaluations and treatment(s) in consultation with an actively involved, remotely located, supervising physician. These \"community paramedics\" evaluate patients and render care using mobile diagnostics and a variety of medications, allowing patients to remain in place until they can be evaluated definitively on an ambulatory basis.\n\nUtilizing a model of on-demand community paramedic visits paired with a telehealth consultation with a physician, this intervention will manage patients in place until they can access planned ambulatory follow up, decreasing the use of prehospital emergency transport services, emergency department utilizations, and hospital admissions as well as limiting transitions of care and allowing ambulatory providers to maintain longitudinal oversight of disease management\n\nThe objective of this project is to study the feasibility of the refined MIH model for the care of community dwelling patients with congestive heart failure and chronic obstructive pulmonary disease. We will conduct a small pre/post pilot intervention trial enrolling 50 patients into a pilot MIH program. Primary outcomes will include participant satisfaction, patient activation, and subject retention. We will also collect outcomes data including ED visits, hospitalizations, and hospital lengths of stay."
+        },
+        "ConditionsModule":{
+          "ConditionList":{
+            "Condition":[
+              "Congestive Heart Failure",
+              "Copd"
+            ]
+          },
+          "KeywordList":{
+            "Keyword":[
+              "Allied Health Personnel",
+              "Mobile Health Units",
+              "Delivery of Health Care, Integrated"
+            ]
+          }
+        },
+        "DesignModule":{
+          "StudyType":"Observational",
+          "PatientRegistry":"No",
+          "DesignInfo":{
+            "DesignObservationalModelList":{
+              "DesignObservationalModel":[
+                "Cohort"
+              ]
+            },
+            "DesignTimePerspectiveList":{
+              "DesignTimePerspective":[
+                "Prospective"
+              ]
+            }
+          },
+          "EnrollmentInfo":{
+            "EnrollmentCount":"50",
+            "EnrollmentType":"Anticipated"
+          }
+        },
+        "ArmsInterventionsModule":{
+          "InterventionList":{
+            "Intervention":[
+              {
+                "InterventionType":"Other",
+                "InterventionName":"Mobile Integrated Health Intervention",
+                "InterventionDescription":"Subjects will have access to \"on-demand\" mobile integrated health program for acute symptoms. Subjects will be educated on the nature and capabilities of the MIH community paramedics and will be able to call a hotline for unscheduled visits 24 hours a day, 7 days a week if they wish to be evaluated for acute symptoms or changes in their condition. All visits entail focused history and physical exam with community paramedic, portable diagnostics as indicated, and telehealth visit with a physician"
+              }
+            ]
+          }
+        },
+        "OutcomesModule":{
+          "PrimaryOutcomeList":{
+            "PrimaryOutcome":[
+              {
+                "PrimaryOutcomeMeasure":"Subject retention in study",
+                "PrimaryOutcomeDescription":"Subjects who participate in study for entire 1 year duration",
+                "PrimaryOutcomeTimeFrame":"1 year after initial recruitment"
+              },{
+                "PrimaryOutcomeMeasure":"Subject reported acceptability of the MIH program",
+                "PrimaryOutcomeDescription":"Subjects will self report their satisfaction and utilization history with MIH program using 5 point Likert scales evaluating their experiences with the MIH service",
+                "PrimaryOutcomeTimeFrame":"baseline, 6 months and 1 year after initial recruitment"
+              },{
+                "PrimaryOutcomeMeasure":"Patient activation measure",
+                "PrimaryOutcomeDescription":"Measure of a subject's knowledge, skills and confidence to manage their own health and well-being",
+                "PrimaryOutcomeTimeFrame":"baseline, 6 months and 1 year after initial recruitment"
+              },{
+                "PrimaryOutcomeMeasure":"Brief Illness Perception Questionnaire",
+                "PrimaryOutcomeDescription":"Measures subject's self-reported perception of their chronic illness",
+                "PrimaryOutcomeTimeFrame":"baseline, 6 months and 1 year after initial recruitment"
+              },{
+                "PrimaryOutcomeMeasure":"Patient satisfaction questionnaire",
+                "PrimaryOutcomeDescription":"Measures subject's self-reported satisfaction with their health care",
+                "PrimaryOutcomeTimeFrame":"baseline, 6 months and 1 year after initial recruitment"
+              }
+            ]
+          },
+          "SecondaryOutcomeList":{
+            "SecondaryOutcome":[
+              {
+                "SecondaryOutcomeMeasure":"Healthcare Utilizations",
+                "SecondaryOutcomeDescription":"number of MIH, ambulatory, and emergency services utilizations",
+                "SecondaryOutcomeTimeFrame":"1 year prior to, and 6 months and 1 year after initial recruitment"
+              }
+            ]
+          }
+        },
+        "EligibilityModule":{
+          "EligibilityCriteria":"Inclusion Criteria:\n\nCommunity Dwelling\nResiding in the catchment area of Worcester and Shrewsbury Massachusetts\nmember of the UMMHC accountable care organization for at least one year prior to the implementation of the intervention\nCarry a diagnosis of congestive heart failure or chronic obstructive pulmonary disease\nAdult over eighteen\nFluent in English\nAble to participate in a verbal interview either in-person or via zoom video conference\nAble to provide informed consent to participate in the study\n\nExclusion Criteria:\n\nAdults unable to consent\nNon-English-speaking adults\nPrisoners\nPatients under age 18 years\nTrainees, including medical students, resident physicians, and fellows will be excluded from this study.",
+          "HealthyVolunteers":"No",
+          "Gender":"All",
+          "MinimumAge":"18 Years",
+          "StdAgeList":{
+            "StdAge":[
+              "Adult",
+              "Older Adult"
+            ]
+          },
+          "StudyPopulation":"Community dwelling adults in Worcester county Massachusetts who are members of the Umass Memorial accountable care organization who have a diagnosis of chronic obstructive pulmonary disease or congestive heart failure",
+          "SamplingMethod":"Non-Probability Sample"
+        },
+        "ContactsLocationsModule":{
+          "CentralContactList":{
+            "CentralContact":[
+              {
+                "CentralContactName":"Laurel O'Connor, MD",
+                "CentralContactRole":"Contact",
+                "CentralContactPhone":"5084211400",
+                "CentralContactEMail":"laurel.connor@umassmed.edu"
+              }
+            ]
+          }
+        },
+        "IPDSharingStatementModule":{
+          "IPDSharing":"Undecided"
+        }
+      },
+      "DerivedSection":{
+        "MiscInfoModule":{
+          "VersionHolder":"September 19, 2022"
+        },
+        "ConditionBrowseModule":{
+          "ConditionMeshList":{
+            "ConditionMesh":[
+              {
+                "ConditionMeshId":"D000008173",
+                "ConditionMeshTerm":"Lung Diseases, Obstructive"
+              },{
+                "ConditionMeshId":"D000029424",
+                "ConditionMeshTerm":"Pulmonary Disease, Chronic Obstructive"
+              },{
+                "ConditionMeshId":"D000006333",
+                "ConditionMeshTerm":"Heart Failure"
+              }
+            ]
+          },
+          "ConditionAncestorList":{
+            "ConditionAncestor":[
+              {
+                "ConditionAncestorId":"D000006331",
+                "ConditionAncestorTerm":"Heart Diseases"
+              },{
+                "ConditionAncestorId":"D000002318",
+                "ConditionAncestorTerm":"Cardiovascular Diseases"
+              },{
+                "ConditionAncestorId":"D000008171",
+                "ConditionAncestorTerm":"Lung Diseases"
+              },{
+                "ConditionAncestorId":"D000012140",
+                "ConditionAncestorTerm":"Respiratory Tract Diseases"
+              }
+            ]
+          },
+          "ConditionBrowseLeafList":{
+            "ConditionBrowseLeaf":[
+              {
+                "ConditionBrowseLeafId":"M8573",
+                "ConditionBrowseLeafName":"Heart Failure",
+                "ConditionBrowseLeafAsFound":"Congestive Heart Failure",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M10322",
+                "ConditionBrowseLeafName":"Lung Diseases, Obstructive",
+                "ConditionBrowseLeafAsFound":"Obstructive Pulmonary Disease",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M22602",
+                "ConditionBrowseLeafName":"Pulmonary Disease, Chronic Obstructive",
+                "ConditionBrowseLeafAsFound":"Chronic Obstructive Pulmonary Disease",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M10320",
+                "ConditionBrowseLeafName":"Lung Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M8571",
+                "ConditionBrowseLeafName":"Heart Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M14129",
+                "ConditionBrowseLeafName":"Respiratory Tract Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"T1303",
+                "ConditionBrowseLeafName":"Chronic Graft Versus Host Disease",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"T170",
+                "ConditionBrowseLeafName":"Acute Graft Versus Host Disease",
+                "ConditionBrowseLeafRelevance":"low"
+              }
+            ]
+          },
+          "ConditionBrowseBranchList":{
+            "ConditionBrowseBranch":[
+              {
+                "ConditionBrowseBranchAbbrev":"BC14",
+                "ConditionBrowseBranchName":"Heart and Blood Diseases"
+              },{
+                "ConditionBrowseBranchAbbrev":"All",
+                "ConditionBrowseBranchName":"All Conditions"
+              },{
+                "ConditionBrowseBranchAbbrev":"BC08",
+                "ConditionBrowseBranchName":"Respiratory Tract (Lung and Bronchial) Diseases"
+              },{
+                "ConditionBrowseBranchAbbrev":"Rare",
+                "ConditionBrowseBranchName":"Rare Diseases"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+

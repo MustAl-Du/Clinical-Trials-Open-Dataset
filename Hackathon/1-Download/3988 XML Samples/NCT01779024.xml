@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2166">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01779024</url>
+  </required_header>
+  <id_info>
+    <org_study_id>130043</org_study_id>
+    <secondary_id>13-AA-0043</secondary_id>
+    <nct_id>NCT01779024</nct_id>
+  </id_info>
+  <brief_title>Ghrelin for Alcohol Use in Non-Treatment-Seeking Heavy Drinkers</brief_title>
+  <official_title>Effects of Ghrelin on Alcohol Administration in Non-Treatment Seeking Heavy Drinkers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute on Alcohol Abuse and Alcoholism (NIAAA)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institutes of Health Clinical Center (CC)</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Background:&#xD;
+&#xD;
+      - Ghrelin is a hormone in the human body that is mostly produced by the stomach. It makes&#xD;
+      people feel hungry, and also is connected with the desire to drink alcohol. Researchers want&#xD;
+      to test ghrelin to see if it can be used to control alcohol cravings and use. They will&#xD;
+      compare doses of ghrelin with a placebo in people who drink heavily.&#xD;
+&#xD;
+      Objectives:&#xD;
+&#xD;
+      - To study the effects of ghrelin on alcohol craving and use.&#xD;
+&#xD;
+      Eligibility:&#xD;
+&#xD;
+        -  Individuals between 21 and 60 years of age who are heavy drinkers but are not seeking&#xD;
+           treatment for alcohol use.&#xD;
+&#xD;
+        -  Participants must on average have more than 20 drinks per week for men, and more than 15&#xD;
+           drinks per week for women.&#xD;
+&#xD;
+      Design:&#xD;
+&#xD;
+        -  Participants will have a screening visit, four 2-night study visits, and a follow-up&#xD;
+           visit.&#xD;
+&#xD;
+        -  Participants will be screened with a physical exam and medical history. They will&#xD;
+           provide urine and breath samples for drug testing. They will also answer questions about&#xD;
+           mood and physical symptoms, and about alcohol and other cravings.&#xD;
+&#xD;
+        -  At the study visits, participants will stay overnight at the National Institutes of&#xD;
+           Health clinical center. They will spend the night at the center, have tests on the next&#xD;
+           day, and go home on the following morning. At each visit, participants will receive a&#xD;
+           ghrelin or placebo infusion, and will complete a series of tasks.&#xD;
+&#xD;
+        -  For the first and second study visits, participants will have tests of alcohol craving&#xD;
+           and use. They will be able to receive alcohol infusions through a computer program that&#xD;
+           tests response time and craving reactions. At the same time, they will have a ghrelin or&#xD;
+           a placebo infusion. Blood alcohol levels, reaction time, and craving will be studied.&#xD;
+&#xD;
+        -  For the third and fourth study visits, participants will have a magnetic resonance&#xD;
+           imaging (MRI) study. They will have an initial MRI to provide a picture of the brain.&#xD;
+           They will then have a functional MRI during which they will respond to a computer test.&#xD;
+           The test will allow them to win points for snack food or alcohol. This test will look at&#xD;
+           the brain s response time and craving reactions.&#xD;
+&#xD;
+        -  There will be a follow-up visit 1 week after the fourth study visit. Some of the tests&#xD;
+           from the screening visit will be repeated.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Objective:&#xD;
+&#xD;
+      Ghrelin is a 28-amino acid peptide acting as the endogenous ligand for the growth hormone&#xD;
+      secretagogue receptor (GHS-R). Ghrelin stimulates appetite by acting on the hypothalamic&#xD;
+      arcuate nucleus (ARC), a region that controls the intake of food and other substances,&#xD;
+      including alcohol. In addition to the ARC, GHS receptors (GHS-Rs) are also highly expressed&#xD;
+      in the caudal brain stem, the ventral tegmental area (VTA), hippocampus, substantia nigra,&#xD;
+      and dorsal and medial raphe nuclei. The expression of the GHS-R in the mesolimbic dopamine&#xD;
+      (DA) pathway suggests that ghrelin could play a role in reward processing. The role of&#xD;
+      ghrelin in the DA reward processing and the role of the DA reward system in alcoholism&#xD;
+      suggest a role of ghrelin in alcoholism. Consistent with this hypothesis, preclinical studies&#xD;
+      demonstrate that both ghrelin and ethanol activate the cholinergic-dopaminergic reward link,&#xD;
+      implying neurochemical analogies between ghrelin and ethanol. This supports the hypothesis&#xD;
+      that ghrelin is involved in mediating the rewarding properties of ethanol. Additional animal&#xD;
+      experiments demonstrate that the central ghrelin action not only stimulates the reward&#xD;
+      processing but is also required for stimulation of that system by alcohol. Human studies show&#xD;
+      reduced ghrelin levels in actively drinking alcoholics; increased ghrelin levels during&#xD;
+      alcohol abstinence; and a positive correlation between ghrelin level and alcohol craving&#xD;
+      scores. More recently, a study conducted at Brown University by the PI demonstrated the&#xD;
+      safety of the administration IV of human ghrelin to non-treatment seeking alcohol-dependent&#xD;
+      heavy drinking individuals. Furthermore, a preliminary interim analysis shows that IV ghrelin&#xD;
+      administration may lead to a temporary significant increase in alcohol craving. The primary&#xD;
+      objective of this protocol is to investigate whether IV ghrelin, as compared to placebo, will&#xD;
+      increase motivation for alcohol reward, as measured by a progressive ratio (PR) schedule&#xD;
+      paradigm with IV alcohol self-infusion (primary aim). We will also assess a number of&#xD;
+      secondary aims. Specifically, we will also assess whether IV ghrelin, as compared to placebo,&#xD;
+      will also alter urges to drink and the subjective response to IV alcohol. Adverse events will&#xD;
+      also be assessed to ensure the safety of the IV coadministration of ghrelin and alcohol.&#xD;
+      During an fMRI/alcohol clamp session, fMRI will be used to see whether ghrelin affects the&#xD;
+      activation of the ventral striatum induced by acute IV alcohol administration and the&#xD;
+      incentive salience of cues associated with alcohol administration.&#xD;
+&#xD;
+      Study Population:&#xD;
+&#xD;
+      Male and female participants will be non-treatment seeking heavy drinking volunteers.&#xD;
+&#xD;
+      Design:&#xD;
+&#xD;
+      The study is designed as a within-subject, double-blind, placebo-controlled study of ghrelin.&#xD;
+      The first visit will be the initial screening visit. The second and third visits will be PR&#xD;
+      sessions with IV ethanol, during which each participant will also receive IV ghrelin (or&#xD;
+      matched placebo). The fourth and fifth visits will combine an fMRI session with an alcohol&#xD;
+      clamp session (i.e. a fixed dose of alcohol will be administered) and subjects will&#xD;
+      participate in a modified version of the monetary incentive delay (MID) task in which they&#xD;
+      will respond to cues that indicate the opportunity to press a button to gain a reward. On&#xD;
+      some trials the reward will be points that can be exchanged for snack foods while on other&#xD;
+      trials the reward will be points that will determine how much intravenous alcohol a subject&#xD;
+      will be given during the alcohol clamp procedure which will immediately follow the modified&#xD;
+      MID task. After the modified MID task is complete subjects will have a short break and then&#xD;
+      begin the alcohol IV infusion.&#xD;
+&#xD;
+      Outcome measures:&#xD;
+&#xD;
+      The primary measure of this study will be the breakpoint, which is the schedule (number of&#xD;
+      button presses) at which the individual stops to work for more alcohol. Also, the BrAC&#xD;
+      exposure measures will be determined. Alcohol craving in response to ghrelin will be measured&#xD;
+      using the Alcohol Visual Analogue Scale (A-VAS) and the Alcohol Urge Questionnaire (AUQ)&#xD;
+      during the PR sessions. Sensitivity to alcohol will be measured using the Drug Effects&#xD;
+      Questionnaire (DEQ), Biphasic Alcohol Effects Scale (BAES), and the Profile of Mood States&#xD;
+      (POMS), repeatedly during the PR sessions and the CASE Experience Questionnaire (CEQ) at the&#xD;
+      end of all sessions. fMRI BOLD signal in brain areas associated with incentive salience and&#xD;
+      areas associated with reward circuitry (including the ventral striatum) will be measured&#xD;
+      during the fMRI/alcohol clamp session. This study may facilitate the identification of a&#xD;
+      novel neuropharmacological target, thus facilitating the development of novel pharmacological&#xD;
+      treatments for alcoholism.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>December 13, 2012</start_date>
+  <completion_date type="Actual">June 1, 2017</completion_date>
+  <primary_completion_date type="Actual">June 1, 2017</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Alcohol Infusions Self-administered</measure>
+    <time_frame>120 minutes after the start of the infusion</time_frame>
+    <description>The total number of alcohol infusions self-administered.</description>
+  </primary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">17</enrollment>
+  <condition>fMRI</condition>
+  <condition>Alcohol Drinking</condition>
+  <condition>Alcoholism</condition>
+  <arm_group>
+    <arm_group_label>ASA/Ghrelin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Intravenous acyl-ghrelin [a loading dose (3 mcg/kg), followed by a continous infusion (16.9 ng/kg/min)] was administered on the first ASA visit; Intravenous placebo [packed in Dextrose 5% / Water USP 50mL bags and made identical to ghrelin in terms of appearance, texture, and odor] was administered on the second ASA visit.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ASA/Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Intravenous placebo [packed in Dextrose 5% / Water USP 50mL bags and made identical to ghrelin in terms of appearance, texture, and odor] was administered on the first ASA visit; Intravenous acyl-ghrelin [a loading dose (3 mcg/kg), followed by a continous infusion (16.9 ng/kg/min)] was administered on the second ASA visit</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>fMRI/Ghrelin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Intravenous acyl-ghrelin [a loading dose (3 mcg/kg), followed by a continous infusion (16.9 ng/kg/min)] was administered on the first fMRI visit; Intravenous placebo [packed in Dextrose 5% / Water USP 50mL bags and made identical to ghrelin in terms of appearance, texture, and odor] was administered on the second fMRI visit.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>fMRI/Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Intravenous placebo [packed in Dextrose 5% / Water USP 50mL bags and made identical to ghrelin in terms of appearance, texture, and odor] was administered on the first fMRI visit; Intravenous acyl-ghrelin [a loading dose (3 mcg/kg), followed by a continous infusion (16.9 ng/kg/min)] was administered on the second fMRI visit</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ghrelin</intervention_name>
+    <arm_group_label>ASA/Ghrelin</arm_group_label>
+    <arm_group_label>fMRI/Ghrelin</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <arm_group_label>ASA/Placebo</arm_group_label>
+    <arm_group_label>fMRI/Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>fMRI</intervention_name>
+    <arm_group_label>fMRI/Ghrelin</arm_group_label>
+    <arm_group_label>fMRI/Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Alcohol</intervention_name>
+    <arm_group_label>ASA/Ghrelin</arm_group_label>
+    <arm_group_label>ASA/Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        -  INCLUSION CRITERIA:&#xD;
+&#xD;
+        Male and female participants between 21-60 years of age.&#xD;
+&#xD;
+        Good health as determined by medical history, physical exam, ECG and lab tests.&#xD;
+&#xD;
+        Creatinine less than to 2 mg/dl.&#xD;
+&#xD;
+        Female must have a negative urine pregnancy (hCG) test at the start of each study session.&#xD;
+        Females of childbearing potential who are sexually active and have not been surgically&#xD;
+        sterilized must agree to use an adequate method of birth control during the study. Adequate&#xD;
+        methods of contraception for sexually active women are having a male sexual partner(s) who&#xD;
+        is surgically sterilized prior to inclusion; having a sexual partner(s) who is/are&#xD;
+        exclusively female; using oral contraceptives (either combined or progestrogen only) with a&#xD;
+        single-barrier method of contraception consisting of spermicide and condom or diaphragm;&#xD;
+        using double-barrier contraception, specifically, a condom plus spermicide and a female&#xD;
+        diaphragm or cervical cap plus spermicide; or using an approved intrauterine device (IUD)&#xD;
+        with established efficacy.&#xD;
+&#xD;
+        Participants must drink alcohol regularly at a heavy level, on average greater than 20&#xD;
+        drinks per week for men, and greater than 15 drinks per week for women, and not be seeking&#xD;
+        help for alcohol-related problems.&#xD;
+&#xD;
+        Participant must be willing to receive two IV lines.&#xD;
+&#xD;
+        EXCLUSION CRITERIA:&#xD;
+&#xD;
+        Current or prior history of any clinically significant disease, including CNS,&#xD;
+        cardiovascular, respiratory, gastrointestinal, hepatic, renal, endocrine, or reproductive&#xD;
+        disorders.&#xD;
+&#xD;
+        Specific exclusion criteria related to the administration of ghrelin, are chronic&#xD;
+        inflammatory diseases (e.g., Crohn s disease, ulcerative colitis, celiac disease) diabetes,&#xD;
+        obesity (BMI greater than or equal 30 kg/m(2), weight greater than or equal to 120 Kg, high&#xD;
+        triglycerides level (&gt; 350 mg/dL), history of clinically significant hypotension (e.g.:&#xD;
+        history of fainting and/or syncopal attacks) and/or resting systolic BP &lt; 100 mmHg.&#xD;
+&#xD;
+        Positive hepatitis or HIV test at screening.&#xD;
+&#xD;
+        Current clinically significant major depression or anxiety; or prior clinically significant&#xD;
+        psychiatric problems, including eating disorders, schizophrenia, bipolar disorder,&#xD;
+        obsessive compulsive disorder.&#xD;
+&#xD;
+        Current diagnosis of substance dependence (other than alcohol or nicotine).&#xD;
+&#xD;
+        Currently seeking treatment for alcohol use disorder.&#xD;
+&#xD;
+        History of significant withdrawal symptoms or presence of clinically significant withdrawal&#xD;
+        symptoms (Clinical Institute Withdrawal Assessment (CIWA) score &gt; 8) at screening.&#xD;
+&#xD;
+        Non-drinkers (alcohol-naive individuals or current abstainers) or no experience drinking 5&#xD;
+        or more drinks on one occasion.&#xD;
+&#xD;
+        Unable to provide a negative urine drug screen.&#xD;
+&#xD;
+        Pregnancy or intention to become pregnant for women. Female participants will undergo a&#xD;
+        urine beta-hCG test to ensure they are not pregnant.&#xD;
+&#xD;
+        Use of prescription or OTC medications known to interact with alcohol within 2 weeks of the&#xD;
+        study. These include, but may not be limited to: isosorbide, nitroglycerine,&#xD;
+        benzodiazepines, warfarin, anti-depressants such as amitriptyline, clomipramine and&#xD;
+        nefazodone, anti-diabetes medications such as glyburide, metformin and tolbutamide,&#xD;
+        H2-antagonists for heartburn such as cimetidine and ranitidine, muscle relaxants,&#xD;
+        anti-epileptics including phenytoin and Phenobarbital codeine, and narcotics including&#xD;
+        darvocet, percocet and hydrocodone. Drugs known to inhibit or induce enzymes that&#xD;
+        metabolize alcohol should not be used for 4 weeks prior to the study. These include&#xD;
+        chlorzoxazone, isoniazid, metronidazole and disulfiram. Cough-and-cold preparations, which&#xD;
+        contain antihistamines, pain medicines and anti-inflammatories such as aspirin, ibuprofen,&#xD;
+        acetaminophen, celecoxib and naproxen, should be withheld for at least 72 hours prior to&#xD;
+        each study session.&#xD;
+&#xD;
+        Current or prior history of alcohol-induced flushing reactions.&#xD;
+&#xD;
+        Contraindications for MRI scanning, including metal in body that are contraindicated for&#xD;
+        MRI (such as implants, pacemaker, prostheses, shrapnel, irremovable piercings),&#xD;
+        left-handedness, and claustrophobia.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Lorenzo Leggio, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Institute on Alcohol Abuse and Alcoholism (NIAAA)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>National Institutes of Health Clinical Center, 9000 Rockville Pike</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Kojima M, Hosoda H, Date Y, Nakazato M, Matsuo H, Kangawa K. Ghrelin is a growth-hormone-releasing acylated peptide from stomach. Nature. 1999 Dec 9;402(6762):656-60.</citation>
+    <PMID>10604470</PMID>
+  </reference>
+  <reference>
+    <citation>Cummings DE, Naleid AM, Figlewicz Lattemann DP. Ghrelin: a link between energy homeostasis and drug abuse? Addict Biol. 2007 Mar;12(1):1-5.</citation>
+    <PMID>17407491</PMID>
+  </reference>
+  <reference>
+    <citation>Jerlhag E, Egecioglu E, Dickson SL, Andersson M, Svensson L, Engel JA. Ghrelin stimulates locomotor activity and accumbal dopamine-overflow via central cholinergic systems in mice: implications for its involvement in brain reward. Addict Biol. 2006 Mar;11(1):45-54.</citation>
+    <PMID>16759336</PMID>
+  </reference>
+  <reference>
+    <citation>Leggio L, Zywiak WH, Fricchione SR, Edwards SM, de la Monte SM, Swift RM, Kenna GA. Intravenous ghrelin administration increases alcohol craving in alcohol-dependent heavy drinkers: a preliminary investigation. Biol Psychiatry. 2014 Nov 1;76(9):734-41. doi: 10.1016/j.biopsych.2014.03.019. Epub 2014 Mar 25.</citation>
+    <PMID>24775991</PMID>
+  </reference>
+  <reference>
+    <citation>Leggio L, Schwandt ML, Oot EN, Dias AA, Ramchandani VA. Fasting-induced increase in plasma ghrelin is blunted by intravenous alcohol administration: a within-subject placebo-controlled study. Psychoneuroendocrinology. 2013 Dec;38(12):3085-91. doi: 10.1016/j.psyneuen.2013.09.005. Epub 2013 Sep 13.</citation>
+    <PMID>24090583</PMID>
+  </reference>
+  <reference>
+    <citation>Leggio L, Ferrulli A, Cardone S, Nesci A, Miceli A, Malandrino N, Capristo E, Canestrelli B, Monteleone P, Kenna GA, Swift RM, Addolorato G. Ghrelin system in alcohol-dependent subjects: role of plasma ghrelin levels in alcohol drinking and craving. Addict Biol. 2012 Mar;17(2):452-64. doi: 10.1111/j.1369-1600.2010.00308.x. Epub 2011 Mar 11.</citation>
+    <PMID>21392177</PMID>
+  </reference>
+  <reference>
+    <citation>Leggio L. Role of the ghrelin system in alcoholism: Acting on the growth hormone secretagogue receptor to treat alcohol-related diseases. Drug News Perspect. 2010 Apr;23(3):157-66. doi: 10.1358/dnp.2010.23.3.1429490.</citation>
+    <PMID>20440417</PMID>
+  </reference>
+  <results_reference>
+    <citation>Farokhnia M, Grodin EN, Lee MR, Oot EN, Blackburn AN, Stangl BL, Schwandt ML, Farinelli LA, Momenan R, Ramchandani VA, Leggio L. Exogenous ghrelin administration increases alcohol self-administration and modulates brain functional activity in heavy-drinking alcohol-dependent individuals. Mol Psychiatry. 2018 Oct;23(10):2029-2038. doi: 10.1038/mp.2017.226. Epub 2017 Nov 14.</citation>
+    <PMID>29133954</PMID>
+  </results_reference>
+  <verification_date>June 1, 2017</verification_date>
+  <study_first_submitted>January 24, 2013</study_first_submitted>
+  <study_first_submitted_qc>January 24, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">January 29, 2013</study_first_posted>
+  <results_first_submitted>May 23, 2018</results_first_submitted>
+  <results_first_submitted_qc>July 5, 2018</results_first_submitted_qc>
+  <results_first_posted type="Actual">August 3, 2018</results_first_posted>
+  <last_update_submitted>July 5, 2018</last_update_submitted>
+  <last_update_submitted_qc>July 5, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 3, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Addiction</keyword>
+  <keyword>Alcohol</keyword>
+  <keyword>Alcohol Clamp</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alcoholism</mesh_term>
+    <mesh_term>Alcoholic Intoxication</mesh_term>
+    <mesh_term>Alcohol Drinking</mesh_term>
+  </condition_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>June 24, 2016</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/24/NCT01779024/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Ghrelin, Then Placebo</title>
+          <description>Intravenous acyl-ghrelin a loading dose (3 mcg/kg), followed by a continuous infusion (16.9 ng/kg/min)] was administered on the first visit; Intravenous placebo [packed in Dextrose 5% / Water USP 50mL bags and made identical to ghrelin in terms of appearance, texture, and odor] was administered on the second visit.</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo, Then Ghrelin</title>
+          <description>Intravenous placebo packed in Dextrose 5% / Water USP 50mL bags and made identical to ghrelin in terms of appearance, texture, and odor] was administered on the first visit; Intravenous acyl-ghrelin [a loading dose (3 mcg/kg), followed by a continuous infusion (16.9 ng/kg/min)] was administered on the second visit</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>1st Visit - Alcohol Self-Administration</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="8"/>
+                <participants group_id="P2" count="9"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="8"/>
+                <participants group_id="P2" count="9"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+        <period>
+          <title>2nd Visit - Alcohol Self-Administration</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="8"/>
+                <participants group_id="P2" count="9"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="6"/>
+                <participants group_id="P2" count="9"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+        <period>
+          <title>1st Visit - Functional MRI</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="6"/>
+                <participants group_id="P2" count="7"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+                <participants group_id="P2" count="5"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+        <period>
+          <title>2nd Visit - Functional MRI</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="5"/>
+                <participants group_id="P2" count="6"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="5"/>
+                <participants group_id="P2" count="6"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>All Study Participants</title>
+          <description>Participants who were randomized to receive either Ghrelin or Placebo</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="17"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Alcohol Infusions Self-administered</title>
+        <description>The total number of alcohol infusions self-administered.</description>
+        <time_frame>120 minutes after the start of the infusion</time_frame>
+        <population>The analyses included only those subjects who completed all types of infusions (Ghrelin and Placebo) and had alcohol self-administration</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Ghrelin</title>
+            <description>Intravenous acyl-ghrelin a loading dose (3 mcg/kg), followed by a continous infusion (16.9 ng/kg/min)] was administered on the first ASA visit; Intravenous placebo [packed in Dextrose 5% / Water USP 50mL bags and made identical to ghrelin in terms of appearance, texture, and odor] was administered on the second ASA visit.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Intravenous placebo packed in Dextrose 5% / Water USP 50mL bags and made identical to ghrelin in terms of appearance, texture, and odor] was administered on the first ASA visit; Intravenous acyl-ghrelin [a loading dose (3 mcg/kg), followed by a continous infusion (16.9 ng/kg/min)] was administered on the second ASA visit</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Alcohol Infusions Self-administered</title>
+          <description>The total number of alcohol infusions self-administered.</description>
+          <population>The analyses included only those subjects who completed all types of infusions (Ghrelin and Placebo) and had alcohol self-administration</population>
+          <units>Number of alcohol infusions</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="11"/>
+                <count group_id="O2" value="11"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10.45" spread="1.15"/>
+                    <measurement group_id="O2" value="8.80" spread="1.29"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>240 minutes</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Ghrelin</title>
+          <description>Intravenous acyl-ghrelin a loading dose (3 mcg/kg), followed by a continous infusion (16.9 ng/kg/min)] was administered on the first visit; Intravenous placebo [packed in Dextrose 5% / Water USP 50mL bags and made identical to ghrelin in terms of appearance, texture, and odor] was administered on the second visit.</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo</title>
+          <description>Intravenous placebo packed in Dextrose 5% / Water USP 50mL bags and made identical to ghrelin in terms of appearance, texture, and odor] was administered on the first visit; Intravenous acyl-ghrelin [a loading dose (3 mcg/kg), followed by a continous infusion (16.9 ng/kg/min)] was administered on the second visit</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="17"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="17"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="12" subjects_at_risk="17"/>
+                <counts group_id="E2" subjects_affected="7" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="17"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Ear and labyrinth disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Vertigo</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="17"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Abdominal distension</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="17"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="17"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Asthenia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="17"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Decreased appetite</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="17"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="17"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Feeling hot</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="17"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Flushing</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="17"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Hyperhidrosis</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="17"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Increased Appetite</sub_title>
+                <counts group_id="E1" subjects_affected="10" subjects_at_risk="17"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="17"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Memory impairment</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="17"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Somnolence</sub_title>
+                <counts group_id="E1" subjects_affected="7" subjects_at_risk="17"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Euphoric mood</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="17"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Leggio, Lorenzo</name_or_title>
+      <organization>National Institute on Alcohol Abuse and Alcoholism</organization>
+      <phone>+1 301 435 9398</phone>
+      <email>lorenzo.leggio@nih.gov</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

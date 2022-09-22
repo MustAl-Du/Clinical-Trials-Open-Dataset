@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3533">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01931995</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2012p001784</org_study_id>
+    <nct_id>NCT01931995</nct_id>
+  </id_info>
+  <brief_title>Investigation of Brain Network Dynamics in Depression</brief_title>
+  <official_title>Investigation of Cortico-limbic Networks and Their Dynamics in Major Depressive Disorder</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Massachusetts General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Massachusetts General Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This research study is being done to gain a better understanding about brain networks that&#xD;
+      may be involved in depression. The investigators plan to examine how these networks change&#xD;
+      after the brain is stimulated with &quot;Transcranial Magnetic Stimulation&quot; (TMS). TMS is a way of&#xD;
+      stimulating the brain in order to mildly activate or mildly suppress different brain areas,&#xD;
+      and is used to treat some forms of depression. It is hoped that this study will facilitate&#xD;
+      learning more about the structure and function of different brain areas and the ways that&#xD;
+      they are interconnected to form networks, both in depressed people and in people without&#xD;
+      depression. In this research study, the effects of TMS will be measured by obtaining&#xD;
+      &quot;pictures&quot; of the brain with &quot;Magnetic Resonance Imaging&quot; (MRI) and with &quot;Positron Emission&#xD;
+      Tomography&quot; (PET). More specifically, this will be accomplished with a combined MRI and PET&#xD;
+      scanner, which is capable of simultaneously obtaining both MRI and PET images of the brain.&#xD;
+      This scanning paradigm will allow the assessment of local metabolic changes resulting from&#xD;
+      TMS (with PET images) and brain network changes resulting from TMS (with fMRI). Changes&#xD;
+      resulting from TMS between 20 subjects with depression and 20 healthy volunteers will be&#xD;
+      calculated and will form the main outcome measure.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Repetitive transcranial magnetic stimulation (rTMS), when delivered to the dorsolateral&#xD;
+      prefrontal cortex (DLPFC) is a clinically effective treatment for major depressive disorder&#xD;
+      (MDD). Network models of MDD are increasingly gaining acceptance, and functional connectivity&#xD;
+      MRI (fcMRI) has revealed topographically specific aberrations in functional network&#xD;
+      architecture in MDD. And yet, despite hints that the therapeutic effects of rTMS are actuated&#xD;
+      through distributed impacts upon cortical and subcortical limbic centers, the network effects&#xD;
+      of rTMS remain mysterious. This study seeks to investigate the way rTMS to DLPFC modulates&#xD;
+      network functional connectivity between the site of stimulation and a critical limbic region,&#xD;
+      the subgenual cingulate (sgACC), and between the sgACC and other limbic regions. In this&#xD;
+      study, high frequency rTMS will be used to stimulate the left DLPFC (recapitulating the&#xD;
+      therapeutic methodology), specifically, regions of the DLPFC that are functionally correlated&#xD;
+      and anti-correlated with the sgACC. This will be accomplished in a group of patients with&#xD;
+      MDD, and in a group of carefully matched controls. These subjects will be scanned before and&#xD;
+      after rTMS is delivered, as a way of gauging its effects. The feasibility of this design was&#xD;
+      recently demonstrated by our group (Eldaief et al. PNAS 2011). Changes induced by the&#xD;
+      stimulation will be charted with a novel combined MRI-PET (Positron Emission Tomography)&#xD;
+      scanner at the MGH Martinos Center, which is capable of simultaneously recording fcMRI BOLD&#xD;
+      (Blood oxygenation level-dependent) and 18Flurodeoxyglucose (FDG) PET data. This will permit&#xD;
+      cortico-limbic networks to be characterized dynamically through (1) examination of the&#xD;
+      differential effects of stimulating two networks in the DLPFC, and (2) by tracking the&#xD;
+      dynamic interplay between rTMS induced changes in local glucose metabolism at DLPFC and sgACC&#xD;
+      on the one hand, and changes in distributed connectivity between these regions on the other.&#xD;
+      In an exploratory aim, MDD patients will return three months later (after they have undergone&#xD;
+      a non-specific treatment intervention with their psychiatric provider) for the identical&#xD;
+      rTMS/fcMRI/FDG-PET procedures. This aim will establish, as proof of principle, that treatment&#xD;
+      of MDD is associated with changes in cortico-limbic functional network architecture, and in&#xD;
+      cortico-limbic dynamics. Eventually, it is hoped that this work will lead to the emergence of&#xD;
+      aberrant cortical dynamics as a biomarker for MDD. In addition, this work might pollinate&#xD;
+      future studies which use aberrant cortical dynamics as a novel therapeutic target upon which&#xD;
+      neuromodulatory interventions might intervene.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>February 2013</start_date>
+  <completion_date type="Actual">July 2018</completion_date>
+  <primary_completion_date type="Actual">June 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Relative Changes in Corticolimbic Functional Connectivity as a Result of TMS</measure>
+    <time_frame>Assessed immediately following each intervention</time_frame>
+    <description>The primary outcome measure is the relative change in functional connectivity in prefrontal corticolimbic brain networks resulting from TMS stimulation of two nodes in the dorsolateral prefrontal cortex: one which is positively correlated to the subgenual cingulate and one which is negatively correlated to this area. Functional connectivity is a measure of correlation strength which biologically reflects correlations between low-frequency oscillations in the fMRI blood oxygenation level dependent signal. As a correlation, this ranges from -1 to 1. This is then Fisher transformed from an r value to a z value (range -2 to -2).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Local Glucose Metabolism at Corticolimbic Network Nodes</measure>
+    <time_frame>Assessed immediately following each intervention.</time_frame>
+    <description>This outcome measure will employ FDG PET scanning to assess changes in local glucose metabolism resulting from TMS to two dorsolateral prefrontal stimulation targets. More specially, changes in glucose metabolism will be assessed at the stimulation targets, in the subgenual cingulate and in the amygdala. This is measured in whole brain normalized standardized uptake values (wbnSUV).</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">45</enrollment>
+  <condition>Major Depressive Disorder, Recurrent</condition>
+  <arm_group>
+    <arm_group_label>TMS to positively correlated DLPFC</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>High frequency TMS to a target region of dorsolateral prefrontal cortex which is positively correlated with the subgenual cingulate cortex</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>TMS to negatively correlated DLPFC</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>High frequency TMS to a target region of dorsolateral prefrontal cortex which is positively correlated with the subgenual cingulate cortex</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>TMS positively correlated DLPFC</intervention_name>
+    <description>TMS, or transcranial magnetic stimulation, is a technique that is employed to non-invasively activate or suppress targeted regions of the cerebral cortex. One TMS system has been FDA approved to treat certain medically refractory forms of depression.</description>
+    <arm_group_label>TMS to positively correlated DLPFC</arm_group_label>
+    <other_name>This study will employ a TMS system that includes a stimulator, TMS coil and neuronavigation system</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>TMS to negatively correlated DLPFC</intervention_name>
+    <description>TMS, or transcranial magnetic stimulation, is a way of non-invasively activating or suppressing targeted regions of the cerebral cortex. One TMS system has been FDA approved to treat certain medically refractory forms of depression.</description>
+    <arm_group_label>TMS to negatively correlated DLPFC</arm_group_label>
+    <other_name>This study will employ a TMS system that includes a stimulator, TMS coil and neuronavigation system</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Ages 18-50&#xD;
+&#xD;
+          -  Patients with Major Depressive Disorder, as confirmed by a referring provider, DSM-IVR&#xD;
+             criteria, and/or a Structured Clinical Interview (SCID)&#xD;
+&#xD;
+          -  Score of ≥18 on the 24 item version of the Hamilton Depression Rating Scale (HDRS)&#xD;
+&#xD;
+          -  Meeting criteria to safely receive fMRI scanning, PET scanning and rTMS.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any subject who is pregnant or lactating&#xD;
+&#xD;
+          -  Patients with bipolar disorder, schizoaffective disorder, suicidal ideation, or any&#xD;
+             history of psychosis. Concurrent anxiety disorders will be allowed.&#xD;
+&#xD;
+          -  Any serious concurrent medical or neurological illness&#xD;
+&#xD;
+          -  Any contraindication to receiving TMS, fMRI or PET scans including, but not limited to&#xD;
+             having: a pacemaker, metallic implants, implanted pumps, surgical aneurysm clips,&#xD;
+             history of severe head trauma, history of seizures or a first degree relative with&#xD;
+             epilepsy, been involved in a nuclear medicine study in the past 12 months, diabetes&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>50 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mark C Eldaief, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Brigham and Women's Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Martinos Center for Biomedical Imaging/Massachusetts General Hospital</name>
+      <address>
+        <city>Charlestown</city>
+        <state>Massachusetts</state>
+        <zip>02129</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>June 2021</verification_date>
+  <study_first_submitted>August 19, 2013</study_first_submitted>
+  <study_first_submitted_qc>August 27, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">August 30, 2013</study_first_posted>
+  <results_first_submitted>April 6, 2021</results_first_submitted>
+  <results_first_submitted_qc>June 15, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">July 7, 2021</results_first_posted>
+  <last_update_submitted>June 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>June 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 7, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Brigham and Women's Hospital</investigator_affiliation>
+    <investigator_full_name>Mark C. Eldaief, MD</investigator_full_name>
+    <investigator_title>Mark Eldaief, MD, Associate Neurologist</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Depressive Disorder</mesh_term>
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Depressive Disorder, Major</mesh_term>
+  </condition_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>April 6, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/95/NCT01931995/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>April 6, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/95/NCT01931995/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>45 subjects were recruited between February 2013 and June 2016. All subjects were recruited in Boston, Massachusetts.</recruitment_details>
+      <pre_assignment_details>45 subjects were enrolled and 37 subjects completed all three sessions. No randomization was done.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>TMS to Positively Correlated DLPFC</title>
+          <description>Subjects first received High frequency TMS to a target region of dorsolateral prefrontal cortex which is positively correlated with the subgenual cingulate cortex&#xD;
+TMS positively correlated DLPFC: TMS, or transcranial magnetic stimulation, is a technique that is employed to non-invasively activate or suppress targeted regions of the cerebral cortex. One TMS system has been FDA approved to treat certain medically refractory forms of depression.&#xD;
+Following this, there was a washout period of at least 6 days, after which they received TMS to negatively correlated DLPFC.</description>
+        </group>
+        <group group_id="P2">
+          <title>TMS to Negatively Correlated DLPFC</title>
+          <description>Subjects first received high frequency TMS to a target region of dorsolateral prefrontal cortex which is negatively correlated with the subgenual cingulate cortex&#xD;
+TMS to negatively correlated DLPFC: TMS, or transcranial magnetic stimulation, is a way of non-invasively activating or suppressing targeted regions of the cerebral cortex. One TMS system has been FDA approved to treat certain medically refractory forms of depression.&#xD;
+After a washout period of at least 6 days they received stimulation with the other treatment (TMS to positively correlated DLPFC).</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>First Intervention (1 Day)</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="23"/>
+                <participants group_id="P2" count="22"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="19"/>
+                <participants group_id="P2" count="18"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+                <participants group_id="P2" count="4"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Physician Decision</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+        <period>
+          <title>Washout (at Least 6 Days)</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="19"/>
+                <participants group_id="P2" count="18"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="19"/>
+                <participants group_id="P2" count="18"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+        <period>
+          <title>Second Intervention (1 Day)</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="18"/>
+                <participants group_id="P2" count="19"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="18"/>
+                <participants group_id="P2" count="19"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>TMS to Positively Correlated DLPFC</title>
+          <description>High frequency TMS to a target region of dorsolateral prefrontal cortex which is positively correlated with the subgenual cingulate cortex&#xD;
+TMS positively correlated DLPFC: TMS, or transcranial magnetic stimulation, is a technique that is employed to non-invasively activate or suppress targeted regions of the cerebral cortex. One TMS system has been FDA approved to treat certain medically refractory forms of depression.</description>
+        </group>
+        <group group_id="B2">
+          <title>TMS to Negatively Correlated DLPFC</title>
+          <description>High frequency TMS to a target region of dorsolateral prefrontal cortex which is positively correlated with the subgenual cingulate cortex&#xD;
+TMS to negatively correlated DLPFC: TMS, or transcranial magnetic stimulation, is a way of non-invasively activating or suppressing targeted regions of the cerebral cortex. One TMS system has been FDA approved to treat certain medically refractory forms of depression.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="19"/>
+            <count group_id="B2" value="18"/>
+            <count group_id="B3" value="37"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="19"/>
+                    <measurement group_id="B2" value="18"/>
+                    <measurement group_id="B3" value="37"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="24.8" spread="4"/>
+                    <measurement group_id="B2" value="22.7" spread="4"/>
+                    <measurement group_id="B3" value="23.9" spread="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                    <measurement group_id="B2" value="13"/>
+                    <measurement group_id="B3" value="26"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                    <measurement group_id="B2" value="16"/>
+                    <measurement group_id="B3" value="33"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="37"/>
+                    <measurement group_id="B2" value="37"/>
+                    <measurement group_id="B3" value="37"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Relative Changes in Corticolimbic Functional Connectivity as a Result of TMS</title>
+        <description>The primary outcome measure is the relative change in functional connectivity in prefrontal corticolimbic brain networks resulting from TMS stimulation of two nodes in the dorsolateral prefrontal cortex: one which is positively correlated to the subgenual cingulate and one which is negatively correlated to this area. Functional connectivity is a measure of correlation strength which biologically reflects correlations between low-frequency oscillations in the fMRI blood oxygenation level dependent signal. As a correlation, this ranges from -1 to 1. This is then Fisher transformed from an r value to a z value (range -2 to -2).</description>
+        <time_frame>Assessed immediately following each intervention</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>TMS to Positively Correlated DLPFC</title>
+            <description>High frequency TMS to a target region of dorsolateral prefrontal cortex which is positively correlated with the subgenual cingulate cortex&#xD;
+TMS positively correlated DLPFC: TMS, or transcranial magnetic stimulation, is a technique that is employed to non-invasively activate or suppress targeted regions of the cerebral cortex. One TMS system has been FDA approved to treat certain medically refractory forms of depression.</description>
+          </group>
+          <group group_id="O2">
+            <title>TMS to Negatively Correlated DLPFC</title>
+            <description>High frequency TMS to a target region of dorsolateral prefrontal cortex which is positively correlated with the subgenual cingulate cortex&#xD;
+TMS to negatively correlated DLPFC: TMS, or transcranial magnetic stimulation, is a way of non-invasively activating or suppressing targeted regions of the cerebral cortex. One TMS system has been FDA approved to treat certain medically refractory forms of depression.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Relative Changes in Corticolimbic Functional Connectivity as a Result of TMS</title>
+          <description>The primary outcome measure is the relative change in functional connectivity in prefrontal corticolimbic brain networks resulting from TMS stimulation of two nodes in the dorsolateral prefrontal cortex: one which is positively correlated to the subgenual cingulate and one which is negatively correlated to this area. Functional connectivity is a measure of correlation strength which biologically reflects correlations between low-frequency oscillations in the fMRI blood oxygenation level dependent signal. As a correlation, this ranges from -1 to 1. This is then Fisher transformed from an r value to a z value (range -2 to -2).</description>
+          <units>Fisher transformed z values</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="37"/>
+                <count group_id="O2" value="37"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.11" spread="0.14"/>
+                    <measurement group_id="O2" value="-0.19" spread="0.15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Changes in Local Glucose Metabolism at Corticolimbic Network Nodes</title>
+        <description>This outcome measure will employ FDG PET scanning to assess changes in local glucose metabolism resulting from TMS to two dorsolateral prefrontal stimulation targets. More specially, changes in glucose metabolism will be assessed at the stimulation targets, in the subgenual cingulate and in the amygdala. This is measured in whole brain normalized standardized uptake values (wbnSUV).</description>
+        <time_frame>Assessed immediately following each intervention.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>TMS to Positively Correlated DLPFC</title>
+            <description>High frequency TMS to a target region of dorsolateral prefrontal cortex which is positively correlated with the subgenual cingulate cortex&#xD;
+TMS positively correlated DLPFC: TMS, or transcranial magnetic stimulation, is a technique that is employed to non-invasively activate or suppress targeted regions of the cerebral cortex. One TMS system has been FDA approved to treat certain medically refractory forms of depression.</description>
+          </group>
+          <group group_id="O2">
+            <title>TMS to Negatively Correlated DLPFC</title>
+            <description>High frequency TMS to a target region of dorsolateral prefrontal cortex which is positively correlated with the subgenual cingulate cortex&#xD;
+TMS to negatively correlated DLPFC: TMS, or transcranial magnetic stimulation, is a way of non-invasively activating or suppressing targeted regions of the cerebral cortex. One TMS system has been FDA approved to treat certain medically refractory forms of depression.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in Local Glucose Metabolism at Corticolimbic Network Nodes</title>
+          <description>This outcome measure will employ FDG PET scanning to assess changes in local glucose metabolism resulting from TMS to two dorsolateral prefrontal stimulation targets. More specially, changes in glucose metabolism will be assessed at the stimulation targets, in the subgenual cingulate and in the amygdala. This is measured in whole brain normalized standardized uptake values (wbnSUV).</description>
+          <units>whole brain normalized suv values</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="37"/>
+                <count group_id="O2" value="37"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.06" spread="0.02"/>
+                    <measurement group_id="O2" value="0.054" spread="0.02"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>3 years 4 months</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>TMS to Positively Correlated DLPFC</title>
+          <description>High frequency TMS to a target region of dorsolateral prefrontal cortex which is positively correlated with the subgenual cingulate cortex&#xD;
+TMS positively correlated DLPFC: TMS, or transcranial magnetic stimulation, is a technique that is employed to non-invasively activate or suppress targeted regions of the cerebral cortex. One TMS system has been FDA approved to treat certain medically refractory forms of depression.</description>
+        </group>
+        <group group_id="E2">
+          <title>TMS to Negatively Correlated DLPFC</title>
+          <description>High frequency TMS to a target region of dorsolateral prefrontal cortex which is positively correlated with the subgenual cingulate cortex&#xD;
+TMS to negatively correlated DLPFC: TMS, or transcranial magnetic stimulation, is a way of non-invasively activating or suppressing targeted regions of the cerebral cortex. One TMS system has been FDA approved to treat certain medically refractory forms of depression.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="37"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="37"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="37"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="37"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="37"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="37"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Mark Eldaief</name_or_title>
+      <organization>Massachusetts General Hospital</organization>
+      <phone>6177261728</phone>
+      <email>MELDAIEF@PARTNERS.ORG</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

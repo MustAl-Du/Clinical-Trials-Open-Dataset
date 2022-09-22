@@ -1,0 +1,481 @@
+{
+  "FullStudy":{
+    "Rank":489,
+    "Study":{
+      "ProtocolSection":{
+        "IdentificationModule":{
+          "NCTId":"NCT05540184",
+          "OrgStudyIdInfo":{
+            "OrgStudyId":"Allopurinol/Trimetazidine AKI"
+          },
+          "Organization":{
+            "OrgFullName":"Beni-Suef University",
+            "OrgClass":"OTHER"
+          },
+          "BriefTitle":"Allopurinol and Trimetazidine as a Preventive of Acute Kidney Injury in PCI Patients",
+          "OfficialTitle":"Allopurinol and Trimetazidine as a Preventive of Contrast-associated Acute Kidney Injury in Patients Undergoing Percutaneous Coronary Intervention"
+        },
+        "StatusModule":{
+          "StatusVerifiedDate":"September 2022",
+          "OverallStatus":"Not yet recruiting",
+          "ExpandedAccessInfo":{
+            "HasExpandedAccess":"No"
+          },
+          "StartDateStruct":{
+            "StartDate":"September 2022",
+            "StartDateType":"Anticipated"
+          },
+          "PrimaryCompletionDateStruct":{
+            "PrimaryCompletionDate":"September 2025",
+            "PrimaryCompletionDateType":"Anticipated"
+          },
+          "CompletionDateStruct":{
+            "CompletionDate":"September 2025",
+            "CompletionDateType":"Anticipated"
+          },
+          "StudyFirstSubmitDate":"September 5, 2022",
+          "StudyFirstSubmitQCDate":"September 12, 2022",
+          "StudyFirstPostDateStruct":{
+            "StudyFirstPostDate":"September 14, 2022",
+            "StudyFirstPostDateType":"Actual"
+          },
+          "LastUpdateSubmitDate":"September 13, 2022",
+          "LastUpdatePostDateStruct":{
+            "LastUpdatePostDate":"September 15, 2022",
+            "LastUpdatePostDateType":"Actual"
+          }
+        },
+        "SponsorCollaboratorsModule":{
+          "ResponsibleParty":{
+            "ResponsiblePartyType":"Principal Investigator",
+            "ResponsiblePartyInvestigatorFullName":"Mohamed Emam abd Elmobdy",
+            "ResponsiblePartyInvestigatorTitle":"Professor of Clinical Pharmacy, Beni-Suef University",
+            "ResponsiblePartyInvestigatorAffiliation":"Beni-Suef University"
+          },
+          "LeadSponsor":{
+            "LeadSponsorName":"Beni-Suef University",
+            "LeadSponsorClass":"OTHER"
+          },
+          "CollaboratorList":{
+            "Collaborator":[
+              {
+                "CollaboratorName":"Cairo University",
+                "CollaboratorClass":"OTHER"
+              }
+            ]
+          }
+        },
+        "OversightModule":{
+          "IsFDARegulatedDrug":"No",
+          "IsFDARegulatedDevice":"No",
+          "IsUSExport":"No"
+        },
+        "DescriptionModule":{
+          "BriefSummary":"Contrast-associated acute kidney injury (CA-AKI) is a common complication of procedures with intravascular contrast. Generally, CA-AKI is defined as serum creatinine (Scr) ≥ 25 to 50% or Scr rise around 0.3 to 0.5 mg/dl. The initial rise in SCr is typically seen within 48 to 72 h of contrast exposure .CA-AKI has been associated with increased hospital length of stay and excess costs. Therefore, the prevention of CA-AKI is beneficial for minimizing hospital costs, mortality and morbidity. Till now, what is clearly beneficial in CIN is adequate hydration before and after coronary angiography However, further measures are trialed, aiming to reduce more morbidity and mortality. There is a great deal of publications pertaining to the possible therapeutic interventions to avoid the ultimate outcome of complete kidney failure. Accordingly, allopurinol has been suggested as a promising measure for the prevention of acute kidney injury after coronary angiography through protecting the kidney by inhibiting XO activity and blocking the generation of oxygen radicals. However, studies have shown conflicting results. Trimetazidine is cellular anti-ischemic drug which has been shown to protect against free radical damage due to its antioxidant activity. It has been recently shown to decrease the risk of CIN in percutaneous coronary intervention (PCI) in some studies. However, it is worth mentioning that studies evaluating trimetazidine under presented patients with high estimated glomerular filtration rate (eGFR). Accordingly, Aimed to evaluate the combination of trimetazidine with allopurinol versus using trimetazidine alone to define the most effective strategy to be implemented in the clinical setting in patients with diverse risk factors and normal GFR.",
+          "DetailedDescription":"I. Introduction Contrast-associated acute kidney injury (CA-AKI) is a common complication of procedures with intravascular contrast. Generally, CA-AKI is defined as serum creatinine (Scr) ≥ 25 to 50% or Scr rise around 0.3 to 0.5 mg/dl. The initial rise in SCr is typically seen within 48 to 72 h of contrast exposure . The incidence of CA-AKI varies from 3% to 30% depending on the type of contrast media administered, mode of delivery, intra-arterial , intra-venous, and underlying comorbidities . According to contrast induced nephropathy (CIN) Mehran Risk Score, specific factors that increase the risk of developing CA-AKI include hypotension, the use of an intra-aortic balloon pump, chronic heart failure, a serum creatinine level > 1.5 mg/dl, age > 75 years, anemia, diabetes mellitus, estimated glomerular filtration rate less than 60 ml/min and contrast media volume . CA-AKI has been associated with increased hospital length of stay and excess costs Therefore, the prevention of CA-AKI is beneficial for minimizing hospital costs, mortality and morbidity.\n\nTill now, what is clearly beneficial in CIN is adequate hydration before and after coronary angiography However, further measures are trialed, aiming to reduce more morbidity and mortality. There is a great deal of publications pertaining to the causes, risk factors, outcomes, and possible therapeutic interventions to avoid the ultimate outcome of complete kidney failure requiring dialysis. Over the decades many proposed preventative strategies and treatments have failed to produce a reliable outcome One of the targets of antioxidants trialed in the prevention of CIN is to reduce the release of oxygen free radicals which are promoting CIN .\n\nAllopurinol, as an inhibitor of xanthine oxidase (XO), has been widely used to treat gout and hyperuricemia. Studies have demonstrated the presence of a strong association between serum uric acid (SUA) and acute kidney injury (AKI) . In humans, uric acid acts as an antioxidant in the extracellular environment and as a prooxidant in the intracellular environment. For centuries, the biological significance of uric acid is that it crystallizes and in the urinary tract to cause kidney Stones. High SUA has been associated with hypertension, cardiovascular diseases, stroke, diabetic nephropathy, and acute kidney injury (AKI) . Moreover, allopurinol has been shown to decrease the fall in the glomerular filtration rate (GFR) following exposure to contrast media by inhibiting oxygen free radical release, adenine nucleotide degradation, and limiting vasodilator reaction to intra-renal adenosine.\n\nAccordingly, allopurinol has been suggested as a promising measure for the prevention of acute kidney injury after coronary angiography through protecting the kidney by inhibiting XO activity and blocking the generation of oxygen radicals and the production of uric acid However, studies have shown conflicting results Trimetazidine is cellular anti-ischemic drug which has been shown to protect against free radical damage due to its antioxidant activity through inhibiting the excessive release of oxygen-free radicals, shifting energy metabolism from fatty acid oxidation to glucose oxidation preserving adenosine triphosphate stores, diminishing intracellular acidosis, limiting the peroxidation of membrane lipids and inhibiting the infiltration of neutrophils after ischemia-reperfusion. Thus, may attenuate renal ischemic-reperfusion injury. A recent meta-analysis showed that Trimetazidine administration decrease the risk of CIN in patients undergoing coronary angiography (CAG) or percutaneous coronary intervention (PCI) in some studies. However, it is worth mentioning that studies evaluating trimetazidine under presented patients with high estimated glomerular filtration rate (eGFR). Zhang .found that trimetazidine reduced CIN occurrence in patients with moderate and high-risk populations based on Mehran score, but not in low-risk patients . Accordingly, further RCTs are required to confirm whether the effect is demonstrable in patients with normal renal function.\n\nHence, using allopurinol or trimetazidine for the prevention of CIN beside adequate hydration do not have sufficient evidence to justify a recommendation in favor or against in patients with different risk stratification and normal GFR. Moreover, no studies to date evaluated the combined effect of using both agents in preventing CA-AKI. Accordingly, we aimed to evaluate the combination of trimetazidine with allopurinol versus using trimetazidine alone to define the most effective strategy to be implemented in the clinical setting in patients with diverse risk factors II. Aim The aim of this study is to compare trimetazidine alone versus trimetazidine plus allopurinol as a preventive of CA- AKI in patients undergoing elective PCI.\n\nIII. Patients and Methods This study will include about 126 patients undergoing PCI at the angiography unit at Critical Care Medicine Department , Cairo University Hospitals. after obtaining ethical approval from ethics committee.\n\nStudy design Prospective, open-label, randomized controlled study.\n\nPatients will be divided into two Groups compared to control as follows:\n\nGroup 1 (42 patients): Hydration plus Trimetazidine 20 mg thrice daily or 35mg twice daily will be given to patients before the procedure and 24 hours after the procedure .\n\nGroup 2 (42 patients): Hydration plus Trimetazidine 20 mg twice daily or 35mg once daily will be given to patients before the procedure and up to 24 hours after the procedure and allopurinol 300 mg once daily 5 hours before the procedure and next day of the procedure .\n\nControl (42 patients): Hydration only will be given to the patients . Hydration All patients will receive hydration before &after PCI, which will be achieved by the intravenous administration of normal saline at the rate of 1 mL/kg per hour (3 to 4 hrs before the procedure and up to 24 hours post-procedure, maximum 100 ml/hr) Patients with left ventricular (LV) systolic dysfunction will receive IV hydration with normal saline at a rate of 0.5 ml/ kg body weight per hour (maximum 50 ml/hr) .\n\nData collection:\n\nPatient demographics, concomitant medications and comorbidities\nSerum creatinine (SCr), blood urea nitrogen (BUN) and uric acid will be measured before PCI and at 48 hours after it.\nRisk stratification based on Mehran score and ACEF calculator\nVentricular ejection fraction\nVolume of contrast medium during the procedure\nThe glomerular filtration rate (GFR) will be estimated using the Modification of Diet in Renal Disease (MDRD) Study and Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) equations\nKidney function will be classified according to the stages set by the US National Kidney Foundation and defined by the eGFR value as normal kidney function: GFR ≥ 90 ml/minute and no proteinuria, mild kidney damage: GFR of 60-89 ml/minute with evidence of kidney damage.\nCIN will be defined by 25% increase in SCr or the concentrations of > 0.5 mg/dL, 48hr after the procedure.\n\nSample size estimation:\n\nBased on the study of Bodagh (2019), Expect a medium effect size of 0.3 for high and low dose allopurinol versus placebo in the prevention of nephropathy. For a desired power of 0.80 and an alpha error of 0.05, a minimum sample size of 42 subjects per group (total 126 subjects) will be needed. Sample size was estimated using the G*Power© software (Institutfür Experimentelle Psychologie, Heinrich Heine Universität, Düsseldorf, Germany) version 3.1.9.2\n\nStatistical Analysis The continuous variables will be described as mean ± standard deviation (SD), and will be compared between the 3 groups using the 2-way Anova. The categorical variables will be expressed as frequencies and percentages, and will be compared between the mentioned groups using the Chi-square test. A p value of <0.05 will be considered as the significant level."
+        },
+        "ConditionsModule":{
+          "ConditionList":{
+            "Condition":[
+              "AKI - Acute Kidney Injury"
+            ]
+          },
+          "KeywordList":{
+            "Keyword":[
+              "Trimetazidine",
+              "Allopurinol",
+              "acute kidney injury",
+              "PCI"
+            ]
+          }
+        },
+        "DesignModule":{
+          "StudyType":"Interventional",
+          "PhaseList":{
+            "Phase":[
+              "Phase 4"
+            ]
+          },
+          "DesignInfo":{
+            "DesignAllocation":"Randomized",
+            "DesignInterventionModel":"Parallel Assignment",
+            "DesignPrimaryPurpose":"Prevention",
+            "DesignMaskingInfo":{
+              "DesignMasking":"None (Open Label)"
+            }
+          },
+          "EnrollmentInfo":{
+            "EnrollmentCount":"124",
+            "EnrollmentType":"Anticipated"
+          }
+        },
+        "ArmsInterventionsModule":{
+          "ArmGroupList":{
+            "ArmGroup":[
+              {
+                "ArmGroupLabel":"Hydration plus Trimetazidine",
+                "ArmGroupType":"Experimental",
+                "ArmGroupDescription":"Hydration plus Trimetazidine 35mg twice daily will be given to patients before the procedure and 24 hours after the procedure",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Drug: Trimetazidine 35 mg",
+                    "Drug: Normal saline"
+                  ]
+                }
+              },{
+                "ArmGroupLabel":"Hydration ,Trimetazidine & allopurinol",
+                "ArmGroupType":"Experimental",
+                "ArmGroupDescription":"Hydration plus Trimetazidine 35mg once daily will be given to patients before the procedure and up to 24 hours after the procedure and allopurinol 300 mg once daily 5 hours before the procedure and next day of the procedure",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Drug: Trimetazidine 35 mg",
+                    "Drug: Allopurinol 300 MG",
+                    "Drug: Normal saline"
+                  ]
+                }
+              },{
+                "ArmGroupLabel":"Hydration",
+                "ArmGroupType":"Placebo Comparator",
+                "ArmGroupDescription":"Hydration only will be given to the patients normal saline at the rate of 1 mL/kg per hour (3 to 4 hrs before the procedure and up to 24 hours post-procedure, maximum 100 ml/hr)",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Drug: Normal saline"
+                  ]
+                }
+              }
+            ]
+          },
+          "InterventionList":{
+            "Intervention":[
+              {
+                "InterventionType":"Drug",
+                "InterventionName":"Trimetazidine 35 mg",
+                "InterventionDescription":"Trimetazidine 35mg twice daily will be given to patients before the procedure and 24 hours after the procedure",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Hydration ,Trimetazidine & allopurinol",
+                    "Hydration plus Trimetazidine"
+                  ]
+                },
+                "InterventionOtherNameList":{
+                  "InterventionOtherName":[
+                    "Vastarel MR"
+                  ]
+                }
+              },{
+                "InterventionType":"Drug",
+                "InterventionName":"Allopurinol 300 MG",
+                "InterventionDescription":"allopurinol 300 mg once daily 5 hours before the procedure and next day of the procedure",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Hydration ,Trimetazidine & allopurinol"
+                  ]
+                },
+                "InterventionOtherNameList":{
+                  "InterventionOtherName":[
+                    "Zyloric 300mg"
+                  ]
+                }
+              },{
+                "InterventionType":"Drug",
+                "InterventionName":"Normal saline",
+                "InterventionDescription":"rate of 1 mL/kg per hour (3 to 4 hrs before the procedure and up to 24 hours post-procedure, maximum 100 ml/hr)",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Hydration",
+                    "Hydration ,Trimetazidine & allopurinol",
+                    "Hydration plus Trimetazidine"
+                  ]
+                },
+                "InterventionOtherNameList":{
+                  "InterventionOtherName":[
+                    "0.9 NS"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "OutcomesModule":{
+          "PrimaryOutcomeList":{
+            "PrimaryOutcome":[
+              {
+                "PrimaryOutcomeMeasure":"Incidence of CIN",
+                "PrimaryOutcomeDescription":"Incidence of CIN",
+                "PrimaryOutcomeTimeFrame":"48-72 hours after PCI"
+              }
+            ]
+          },
+          "SecondaryOutcomeList":{
+            "SecondaryOutcome":[
+              {
+                "SecondaryOutcomeMeasure":"Change in SCr, within 48 hrs after the procedure",
+                "SecondaryOutcomeDescription":"Change in SCr,within 48 hrs after the procedure",
+                "SecondaryOutcomeTimeFrame":"within 48 hrs after the procedure"
+              },{
+                "SecondaryOutcomeMeasure":"Change in BUN within 48 hrs after the procedure",
+                "SecondaryOutcomeDescription":"Change in BUN within 48 hrs after the procedure",
+                "SecondaryOutcomeTimeFrame":"within 48 hrs after the procedure"
+              },{
+                "SecondaryOutcomeMeasure":"Change in uric acid within 48 hrs after the procedure",
+                "SecondaryOutcomeDescription":"Change in uric acid within 48 hrs after the procedure",
+                "SecondaryOutcomeTimeFrame":"within 48 hrs after the procedure"
+              },{
+                "SecondaryOutcomeMeasure":"Change in eGFR within 48 hrs after the procedure",
+                "SecondaryOutcomeDescription":"Change in eGFR within 48 hrs after the procedure",
+                "SecondaryOutcomeTimeFrame":"within 48 hrs after the procedure"
+              }
+            ]
+          }
+        },
+        "EligibilityModule":{
+          "EligibilityCriteria":"Inclusion Criteria:\n\nAll patients willing to undergo PCI with low, moderate or high risk of CIN based on Mehran risk score (4)\nAge 18 - 80 years\nPatients with GFR > 60 ml/min\n\nExclusion Criteria:\n\nAge <18 or > 80 years\nAcute kidney injury\nRenal insufficiency (eGFR < 60 mL/min)\nGout (serum uric > 10 mg/dL)\nHistory of allopurinol intake.\nHepatic failure.\nPregnancy or lactation,\nHistory of allergy to contrast agents, allopurinol or trimetazidine\nAny nephrotoxic drug intake within 48 hrs. before the procedure\nPulmonary edema, cardiogenic shock and mechanical ventilation.",
+          "HealthyVolunteers":"Accepts Healthy Volunteers",
+          "Gender":"All",
+          "MinimumAge":"18 Years",
+          "MaximumAge":"80 Years",
+          "StdAgeList":{
+            "StdAge":[
+              "Adult",
+              "Older Adult"
+            ]
+          }
+        },
+        "ContactsLocationsModule":{
+          "CentralContactList":{
+            "CentralContact":[
+              {
+                "CentralContactName":"Nourhan Osama Ali Moselhy, BSc",
+                "CentralContactRole":"Contact",
+                "CentralContactPhone":"01117115773",
+                "CentralContactEMail":"norhanossama15@yahoo.com"
+              },{
+                "CentralContactName":"Naglaa Samir Bazan, Assoc. Prof",
+                "CentralContactRole":"Contact",
+                "CentralContactPhone":"01005807504",
+                "CentralContactEMail":"naglaabazan@cu.edu.eg"
+              }
+            ]
+          },
+          "OverallOfficialList":{
+            "OverallOfficial":[
+              {
+                "OverallOfficialName":"Mohamed Emam abd Elmobdy, Professor",
+                "OverallOfficialAffiliation":"clinical pharmacy Beni-Suef university",
+                "OverallOfficialRole":"Study Chair"
+              },{
+                "OverallOfficialName":"Naglaa Samir Bazan, Assoc. Prof",
+                "OverallOfficialAffiliation":"clinical pharmacy critical care medicine, Cairo university",
+                "OverallOfficialRole":"Principal Investigator"
+              },{
+                "OverallOfficialName":"Hatem Hossam Mowafi, Doctor",
+                "OverallOfficialAffiliation":"Lecturer critical care medicine , Cairo university",
+                "OverallOfficialRole":"Principal Investigator"
+              },{
+                "OverallOfficialName":"Hadeer Safwat Hassan Zaki, Doctor",
+                "OverallOfficialAffiliation":"Clinical Pharmacy, Beni-Suef University",
+                "OverallOfficialRole":"Study Director"
+              },{
+                "OverallOfficialName":"Nourhan Osama Ali Moselhy, BSc",
+                "OverallOfficialAffiliation":"Egyptian Drug Authority",
+                "OverallOfficialRole":"Principal Investigator"
+              }
+            ]
+          },
+          "LocationList":{
+            "Location":[
+              {
+                "LocationFacility":"Faculty of Pharmacy, Beni-Suef University",
+                "LocationCity":"Banī Suwayf",
+                "LocationState":"Beni-Suef",
+                "LocationZip":"62511",
+                "LocationCountry":"Egypt"
+              }
+            ]
+          }
+        },
+        "IPDSharingStatementModule":{
+          "IPDSharing":"No"
+        }
+      },
+      "DerivedSection":{
+        "MiscInfoModule":{
+          "VersionHolder":"September 19, 2022"
+        },
+        "ConditionBrowseModule":{
+          "ConditionMeshList":{
+            "ConditionMesh":[
+              {
+                "ConditionMeshId":"D000058186",
+                "ConditionMeshTerm":"Acute Kidney Injury"
+              },{
+                "ConditionMeshId":"D000014947",
+                "ConditionMeshTerm":"Wounds and Injuries"
+              }
+            ]
+          },
+          "ConditionAncestorList":{
+            "ConditionAncestor":[
+              {
+                "ConditionAncestorId":"D000051437",
+                "ConditionAncestorTerm":"Renal Insufficiency"
+              },{
+                "ConditionAncestorId":"D000007674",
+                "ConditionAncestorTerm":"Kidney Diseases"
+              },{
+                "ConditionAncestorId":"D000014570",
+                "ConditionAncestorTerm":"Urologic Diseases"
+              }
+            ]
+          },
+          "ConditionBrowseLeafList":{
+            "ConditionBrowseLeaf":[
+              {
+                "ConditionBrowseLeafId":"M28151",
+                "ConditionBrowseLeafName":"Acute Kidney Injury",
+                "ConditionBrowseLeafAsFound":"Acute Kidney Injury",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M16837",
+                "ConditionBrowseLeafName":"Wounds and Injuries",
+                "ConditionBrowseLeafAsFound":"Injury",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M25871",
+                "ConditionBrowseLeafName":"Renal Insufficiency",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M9850",
+                "ConditionBrowseLeafName":"Kidney Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M16471",
+                "ConditionBrowseLeafName":"Urologic Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"T170",
+                "ConditionBrowseLeafName":"Acute Graft Versus Host Disease",
+                "ConditionBrowseLeafRelevance":"low"
+              }
+            ]
+          },
+          "ConditionBrowseBranchList":{
+            "ConditionBrowseBranch":[
+              {
+                "ConditionBrowseBranchAbbrev":"BXS",
+                "ConditionBrowseBranchName":"Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+              },{
+                "ConditionBrowseBranchAbbrev":"All",
+                "ConditionBrowseBranchName":"All Conditions"
+              },{
+                "ConditionBrowseBranchAbbrev":"BC26",
+                "ConditionBrowseBranchName":"Wounds and Injuries"
+              },{
+                "ConditionBrowseBranchAbbrev":"Rare",
+                "ConditionBrowseBranchName":"Rare Diseases"
+              }
+            ]
+          }
+        },
+        "InterventionBrowseModule":{
+          "InterventionMeshList":{
+            "InterventionMesh":[
+              {
+                "InterventionMeshId":"D000000493",
+                "InterventionMeshTerm":"Allopurinol"
+              },{
+                "InterventionMeshId":"D000014292",
+                "InterventionMeshTerm":"Trimetazidine"
+              }
+            ]
+          },
+          "InterventionAncestorList":{
+            "InterventionAncestor":[
+              {
+                "InterventionAncestorId":"D000000963",
+                "InterventionAncestorTerm":"Antimetabolites"
+              },{
+                "InterventionAncestorId":"D000045504",
+                "InterventionAncestorTerm":"Molecular Mechanisms of Pharmacological Action"
+              },{
+                "InterventionAncestorId":"D000004791",
+                "InterventionAncestorTerm":"Enzyme Inhibitors"
+              },{
+                "InterventionAncestorId":"D000006074",
+                "InterventionAncestorTerm":"Gout Suppressants"
+              },{
+                "InterventionAncestorId":"D000018501",
+                "InterventionAncestorTerm":"Antirheumatic Agents"
+              },{
+                "InterventionAncestorId":"D000016166",
+                "InterventionAncestorTerm":"Free Radical Scavengers"
+              },{
+                "InterventionAncestorId":"D000000975",
+                "InterventionAncestorTerm":"Antioxidants"
+              },{
+                "InterventionAncestorId":"D000020011",
+                "InterventionAncestorTerm":"Protective Agents"
+              },{
+                "InterventionAncestorId":"D000045505",
+                "InterventionAncestorTerm":"Physiological Effects of Drugs"
+              },{
+                "InterventionAncestorId":"D000014665",
+                "InterventionAncestorTerm":"Vasodilator Agents"
+              }
+            ]
+          },
+          "InterventionBrowseLeafList":{
+            "InterventionBrowseLeaf":[
+              {
+                "InterventionBrowseLeafId":"M2986",
+                "InterventionBrowseLeafName":"Allopurinol",
+                "InterventionBrowseLeafAsFound":"Irrigation",
+                "InterventionBrowseLeafRelevance":"high"
+              },{
+                "InterventionBrowseLeafId":"M16196",
+                "InterventionBrowseLeafName":"Trimetazidine",
+                "InterventionBrowseLeafAsFound":"October",
+                "InterventionBrowseLeafRelevance":"high"
+              },{
+                "InterventionBrowseLeafId":"M3433",
+                "InterventionBrowseLeafName":"Antimetabolites",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M19757",
+                "InterventionBrowseLeafName":"Antirheumatic Agents",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M3444",
+                "InterventionBrowseLeafName":"Antioxidants",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M21022",
+                "InterventionBrowseLeafName":"Protective Agents",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M16564",
+                "InterventionBrowseLeafName":"Vasodilator Agents",
+                "InterventionBrowseLeafRelevance":"low"
+              }
+            ]
+          },
+          "InterventionBrowseBranchList":{
+            "InterventionBrowseBranch":[
+              {
+                "InterventionBrowseBranchAbbrev":"ARhu",
+                "InterventionBrowseBranchName":"Antirheumatic Agents"
+              },{
+                "InterventionBrowseBranchAbbrev":"All",
+                "InterventionBrowseBranchName":"All Drugs and Chemicals"
+              },{
+                "InterventionBrowseBranchAbbrev":"VaDiAg",
+                "InterventionBrowseBranchName":"Vasodilator Agents"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+

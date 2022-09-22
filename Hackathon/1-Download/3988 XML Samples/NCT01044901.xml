@@ -1,0 +1,1752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2239">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01044901</url>
+  </required_header>
+  <id_info>
+    <org_study_id>16653A</org_study_id>
+    <nct_id>NCT01044901</nct_id>
+  </id_info>
+  <brief_title>Cardiovascular Complications of Sickle Cell Disease</brief_title>
+  <official_title>Cardiovascular Complications of Sickle Cell Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Chicago</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Chicago</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In this research study, we are using heart imaging exams and blood testing, in order to gain&#xD;
+      an improved understanding of the pulmonary (lung) hypertension and cardiovascular (heart)&#xD;
+      complications that often occur in sickle cell patients. Information gathered from the healthy&#xD;
+      volunteers that participate in this study will be compared to information from the sickle&#xD;
+      cell patients in this study in order to help further our understanding.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Cardiac magnetic resonance (CMR) has gained increasing clinical application in&#xD;
+      cardiopulmonary diseases. Due to its 3-dimensional nature, CMR is considered the&#xD;
+      gold-standard for quantifying left and right ventricular systolic function and size.&#xD;
+      Additionally, its high tissue contrast allows for a detailed characterization of myocardial&#xD;
+      tissue. Specifically, the use of techniques such as late gadolinium enhancement can be used&#xD;
+      to detect the presence of tiny amounts of myocardial scar. Other techniques have been shown&#xD;
+      to correlate strongly with myocardial iron content. Just as importantly, CMR perfusion&#xD;
+      imaging can accurately quantify myocardial blood flow and can provide tremendous insight into&#xD;
+      the function of the microcirculation. CMR's high spatial and temporal resolution, its&#xD;
+      3-dimensional approach, its ability to characterize the tissue, and its ability to evaluate&#xD;
+      the micro- and macro-circulation make it a comprehensive technique for the evaluation of&#xD;
+      heart disease. Recently, one CMR study has already shown the presence of cardiac&#xD;
+      microvascular disease in a subset of adult sickle cell disease (SCD) patients in the absence&#xD;
+      of infarcted myocardium, myocardial iron overload, or coronary artery disease, increasing the&#xD;
+      evidence for the contribution of left heart disease to pulmonary hypertension (PH)&#xD;
+      development in these patients; unfortunately, strong conclusions could not be made because&#xD;
+      the study was underpowered. Thus, this proposal will leverage the advantages offered by CMR&#xD;
+      to better characterize and detect the PH and cardiopulmonary subphenotypes in the SCD patient&#xD;
+      population.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>March 2009</start_date>
+  <completion_date type="Actual">February 2021</completion_date>
+  <primary_completion_date type="Actual">February 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>MRI Parameter - LVEDVi, mL/cm2 (Measured Using Method of Disks, Controls Serve as Normal Ranges)</measure>
+    <time_frame>Parameter measured at baseline.</time_frame>
+    <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>MRI Parameter - LVESVi, mL/cm2 - (Measured Using Method of Disks, Controls Serve as Normal Ranges)</measure>
+    <time_frame>Parameter measured at baseline.</time_frame>
+    <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>MRI Parameter - LV Mass Index, g/cm2, (Measured Using Method of Disks, Controls Serve as Normal Ranges)</measure>
+    <time_frame>Parameter measured at baseline.</time_frame>
+    <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>MRI Parameter - RVEDVi, mL/cm2, (Measured Using Method of Disks, Controls Serve as Normal Ranges)</measure>
+    <time_frame>Parameter measured at baseline.</time_frame>
+    <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>MRI Parameter - RVESVi, mL/cm2, (Measured Using Method of Disks, Controls Serve as Normal Ranges)</measure>
+    <time_frame>Parameter measured at baseline.</time_frame>
+    <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>MRI Parameter - LAi, mL/cm2, (Measured Using Method of Disks, Controls Serve as Normal Ranges)</measure>
+    <time_frame>Parameter measured at baseline.</time_frame>
+    <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>MRI Parameter - RAi, mL/cm2, (Measured Using Method of Disks, Controls Serve as Normal Ranges)</measure>
+    <time_frame>Parameter measured at baseline.</time_frame>
+    <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>MRI Parameter - LVEF, %, (Measured Using Method of Disks, Controls Serve as Normal Ranges)</measure>
+    <time_frame>Parameter measured at baseline.</time_frame>
+    <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>MRI Parameter - RVEF, %, (Measured Using Method of Disks, Controls Serve as Normal Ranges)</measure>
+    <time_frame>Parameter at baseline.</time_frame>
+    <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>MRI Parameter - Late Gadolinium Enhancement, Performed Via Visual Inspection, Normally None Should be Present</measure>
+    <time_frame>Parameter measured at baseline.</time_frame>
+    <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>MRI Parameter - Myocardial T2-star, ms, Performed Using Decay Curves (Normal &gt;20ms)</measure>
+    <time_frame>Parameter measured at baseline.</time_frame>
+    <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>MRI Parameter - Hepatic T2-star, ms, Performed Using Decay Curves, Normal &gt;18ms</measure>
+    <time_frame>Parameter at baseline.</time_frame>
+    <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>MRI Parameter - Myocardial Perfusion Reserve Index, Measured Using Upslope Technique. Control Subjects Available for Normal Ranges</measure>
+    <time_frame>Parameter measured at baseline.</time_frame>
+    <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>MRI Parameter - Diastolic Dysfunction, Determined According to American Society of Echocardiography Guidelines</measure>
+    <time_frame>Parameter measured at baseline.</time_frame>
+    <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>MRI Parameter - Lateral E/e', Measured Using Doppler Echo. Controls Available as Normal Ranges</measure>
+    <time_frame>Parameter measured at baseline.</time_frame>
+    <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>MRI Parameter - Augmentation Pressure, See Controls for Normal Ranges</measure>
+    <time_frame>Parameter measured at baseline.</time_frame>
+    <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>MRI Parameter - Augmentation Index, See Control Subjects for Normal Ranges</measure>
+    <time_frame>Parameter measured at baseline.</time_frame>
+    <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>MRI Parameter - Systemic Systolic Blood Pressure</measure>
+    <time_frame>Parameter measured at baseline.</time_frame>
+    <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>MRI Parameter - Systemic Diastolic Blood Pressure, mm Hg</measure>
+    <time_frame>Parameter measured at baseline.</time_frame>
+    <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Genome-Wide Gene Expression and Targeted Genetic Polymorphisms in SCD Patients Linked to a Quantitative Noninvasive-based PH Phenotype.</measure>
+    <time_frame>median follow up 3 years</time_frame>
+    <description>To detect genome-wide gene expression and targeted genetic polymorphisms in SCD patients linked to a quantitative noninvasive-based PH phenotype.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">51</enrollment>
+  <condition>Sickle Cell Disease</condition>
+  <arm_group>
+    <arm_group_label>Subjects with Sickle Cell Disease (SCD)</arm_group_label>
+    <description>38 clinically stable black patients with Sickle Cell Disease (SCD) (including individuals with hemoglobin SS, SC, and β-thalassemia demonstrated by high-performance liquid chromatographic separation or gel electrophoresis).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy Volunteers</arm_group_label>
+    <description>13 healthy control subjects were frequency matched to patients with SCD on age, sex, and race.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>MRI, Transthoracic Echocardiography, tonometry, EKG</intervention_name>
+    <description>Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+    <arm_group_label>Healthy Volunteers</arm_group_label>
+    <arm_group_label>Subjects with Sickle Cell Disease (SCD)</arm_group_label>
+    <other_name>electrocardiography</other_name>
+    <other_name>Cardiac magnetic resonance</other_name>
+    <other_name>Doppler trans-thoracic echocardiography</other_name>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      We will study blood samples for chemicals related to sickle cell and heart and lung disease,&#xD;
+      and will be evaluating DNA for purposes of the study.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Subjects will be recruited from clinics at the University of Chicago as well as from the&#xD;
+        community via flyers posted at the University of Chicago and a web site posted on the&#xD;
+        University of Chicago Medical Center web site.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients must be 18+&#xD;
+&#xD;
+          -  Patients who were diagnosed with SCD confirmed by high-pressure liquid chromatography&#xD;
+             or hemoglobin electrophoresis will be eligible for the study&#xD;
+&#xD;
+          -  Only patients in stable condition will be included&#xD;
+&#xD;
+          -  Patients receiving transfusions will not be excluded&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with vaso-occlusive crises or an episode of acute chest syndrome within the&#xD;
+             previous four weeks (after 4 weeks have passed, the patients may be re-evaluated for&#xD;
+             eligibility)&#xD;
+&#xD;
+          -  Patients with high degree heart block; active, hemodynamically significant,&#xD;
+             ventricular arrhythmias; unstable coronary syndromes; history of myocardial infarction&#xD;
+             within 1 month of the study.&#xD;
+&#xD;
+          -  Contraindications to gadolinium-enhanced magnetic resonance examination such as severe&#xD;
+             claustrophobia, Pacemaker, defibrillators, cerebral aneurysm clips, or&#xD;
+             neurostimulator.&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  Patients with sinus node dysfunction&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Amit R Patel, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Chicago</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Chicago Medical Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60430</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Desai AA, Patel AR, Ahmad H, Groth JV, Thiruvoipati T, Turner K, Yodwut C, Czobor P, Artz N, Machado RF, Garcia JGN, Lang RM. Mechanistic insights and characterization of sickle cell disease-associated cardiomyopathy. Circ Cardiovasc Imaging. 2014 May;7(3):430-437. doi: 10.1161/CIRCIMAGING.113.001420. Epub 2014 Mar 27.</citation>
+    <PMID>24676783</PMID>
+  </results_reference>
+  <verification_date>February 2022</verification_date>
+  <study_first_submitted>January 6, 2010</study_first_submitted>
+  <study_first_submitted_qc>January 7, 2010</study_first_submitted_qc>
+  <study_first_posted type="Estimate">January 8, 2010</study_first_posted>
+  <results_first_submitted>August 26, 2021</results_first_submitted>
+  <results_first_submitted_qc>August 26, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">September 24, 2021</results_first_posted>
+  <last_update_submitted>February 8, 2022</last_update_submitted>
+  <last_update_submitted_qc>February 8, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 23, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Sickle Cell Disease</keyword>
+  <keyword>Cardiac magnetic resonance imaging</keyword>
+  <keyword>Coronary Disease</keyword>
+  <keyword>Pulmonary Hypertension</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Anemia, Sickle Cell</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol, Statistical Analysis Plan, and Informed Consent Form</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>March 19, 2009</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/01/NCT01044901/Prot_SAP_ICF_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Subjects With Sickle Cell Disease (SCD)</title>
+          <description>38 clinically stable black patients with Sickle Cell Disease (SCD) (including individuals with hemoglobin SS, SC, and β-thalassemia demonstrated by high-performance liquid chromatographic separation or gel electrophoresis).&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+        </group>
+        <group group_id="P2">
+          <title>Healthy Volunteers</title>
+          <description>13 healthy control subjects were frequency matched to patients with SCD on age, sex, and race.&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="38"/>
+                <participants group_id="P2" count="13"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="38"/>
+                <participants group_id="P2" count="13"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Subjects With Sickle Cell Disease (SCD)</title>
+          <description>38 clinically stable black patients with Sickle Cell Disease (SCD) (including individuals with hemoglobin SS, SC, and β-thalassemia demonstrated by high-performance liquid chromatographic separation or gel electrophoresis).&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+        </group>
+        <group group_id="B2">
+          <title>Healthy Volunteers</title>
+          <description>13 healthy control subjects were frequency matched to patients with SCD on age, sex, and race.&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="38"/>
+            <count group_id="B2" value="13"/>
+            <count group_id="B3" value="51"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age, Customized</title>
+          <units>years</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <title>Age</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="32" lower_limit="27" upper_limit="38"/>
+                    <measurement group_id="B2" value="25" lower_limit="23" upper_limit="43"/>
+                    <measurement group_id="B3" value="29" lower_limit="23" upper_limit="43"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="21"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="29"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="22"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="38"/>
+                    <measurement group_id="B2" value="13"/>
+                    <measurement group_id="B3" value="51"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Body Surface Area</title>
+          <units>m^2</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2.0" lower_limit="1.7" upper_limit="2.1"/>
+                    <measurement group_id="B2" value="1.8" lower_limit="1.7" upper_limit="1.9"/>
+                    <measurement group_id="B3" value="2.0" lower_limit="1.7" upper_limit="2.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>MRI Parameter - LVEDVi, mL/cm2 (Measured Using Method of Disks, Controls Serve as Normal Ranges)</title>
+        <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+        <time_frame>Parameter measured at baseline.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Subjects With Sickle Cell Disease (SCD)</title>
+            <description>38 clinically stable black patients with Sickle Cell Disease (SCD) (including individuals with hemoglobin SS, SC, and β-thalassemia demonstrated by high-performance liquid chromatographic separation or gel electrophoresis).&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Volunteers</title>
+            <description>13 healthy control subjects were frequency matched to patients with SCD on age, sex, and race.&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>MRI Parameter - LVEDVi, mL/cm2 (Measured Using Method of Disks, Controls Serve as Normal Ranges)</title>
+          <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+          <units>mL/cm2</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="124.0" spread="26.8"/>
+                    <measurement group_id="O2" value="78.7" spread="11.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Primary outcome was presented at baseline as mean +/- standard deviation based upon the Shapiro-Wilks test of normality, and then analyzed with a Student t-test.</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.0039</p_value>
+            <p_value_desc>P-values are not adjusted for multiple comparisons. Tests were two-tailed, considered statistically significant with a p-value &lt;0.05.</p_value_desc>
+            <method>t-test, 2 sided</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>MRI Parameter - LVESVi, mL/cm2 - (Measured Using Method of Disks, Controls Serve as Normal Ranges)</title>
+        <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+        <time_frame>Parameter measured at baseline.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Subjects With Sickle Cell Disease (SCD)</title>
+            <description>38 clinically stable black patients with Sickle Cell Disease (SCD) (including individuals with hemoglobin SS, SC, and β-thalassemia demonstrated by high-performance liquid chromatographic separation or gel electrophoresis).&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Volunteers</title>
+            <description>13 healthy control subjects were frequency matched to patients with SCD on age, sex, and race.&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>MRI Parameter - LVESVi, mL/cm2 - (Measured Using Method of Disks, Controls Serve as Normal Ranges)</title>
+          <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+          <units>mL/cm2</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="47" lower_limit="39" upper_limit="62"/>
+                    <measurement group_id="O2" value="31" lower_limit="24" upper_limit="37"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Primary outcome was presented at baseline as median (interquartile range) based upon the Shapiro-Wilks test of normality, and then analyzed with a Wilcoxon (Mann-Whitney test).</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>&lt;0.0001</p_value>
+            <p_value_desc>P-values are not adjusted for multiple comparisons. Tests were two-tailed, considered statistically significant with a p-value &lt;0.05.</p_value_desc>
+            <method>Wilcoxon (Mann-Whitney)</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>MRI Parameter - LV Mass Index, g/cm2, (Measured Using Method of Disks, Controls Serve as Normal Ranges)</title>
+        <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+        <time_frame>Parameter measured at baseline.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Subjects With Sickle Cell Disease (SCD)</title>
+            <description>38 clinically stable black patients with Sickle Cell Disease (SCD) (including individuals with hemoglobin SS, SC, and β-thalassemia demonstrated by high-performance liquid chromatographic separation or gel electrophoresis).&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Volunteers</title>
+            <description>13 healthy control subjects were frequency matched to patients with SCD on age, sex, and race.&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>MRI Parameter - LV Mass Index, g/cm2, (Measured Using Method of Disks, Controls Serve as Normal Ranges)</title>
+          <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+          <units>g/cm2</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="77.2" spread="19.2"/>
+                    <measurement group_id="O2" value="51.6" spread="13.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Primary outcome was presented at baseline as mean +/- standard deviation based upon the Shapiro-Wilks test of normality, and then analyzed with a Student t-test.</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.0137</p_value>
+            <method>t-test, 2 sided</method>
+            <method_desc>P-values are not adjusted for multiple comparisons. Tests were two-tailed, considered statistically significant with a p-value &lt;0.05.</method_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>MRI Parameter - RVEDVi, mL/cm2, (Measured Using Method of Disks, Controls Serve as Normal Ranges)</title>
+        <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+        <time_frame>Parameter measured at baseline.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Subjects With Sickle Cell Disease (SCD)</title>
+            <description>38 clinically stable black patients with Sickle Cell Disease (SCD) (including individuals with hemoglobin SS, SC, and β-thalassemia demonstrated by high-performance liquid chromatographic separation or gel electrophoresis).&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Volunteers</title>
+            <description>13 healthy control subjects were frequency matched to patients with SCD on age, sex, and race.&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>MRI Parameter - RVEDVi, mL/cm2, (Measured Using Method of Disks, Controls Serve as Normal Ranges)</title>
+          <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+          <units>mL/cm2</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="126.4" spread="27.7"/>
+                    <measurement group_id="O2" value="83.0" spread="13.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Primary outcome was presented at baseline as mean +/- standard deviation based upon the Shapiro-Wilks test of normality, and then analyzed with a Student t-test.</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.0039</p_value>
+            <p_value_desc>P-values are not adjusted for multiple comparisons. Tests were two-tailed, considered statistically significant with a p-value &lt;0.05.</p_value_desc>
+            <method>t-test, 2 sided</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>MRI Parameter - RVESVi, mL/cm2, (Measured Using Method of Disks, Controls Serve as Normal Ranges)</title>
+        <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+        <time_frame>Parameter measured at baseline.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Subjects With Sickle Cell Disease (SCD)</title>
+            <description>38 clinically stable black patients with Sickle Cell Disease (SCD) (including individuals with hemoglobin SS, SC, and β-thalassemia demonstrated by high-performance liquid chromatographic separation or gel electrophoresis).&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Volunteers</title>
+            <description>13 healthy control subjects were frequency matched to patients with SCD on age, sex, and race.&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>MRI Parameter - RVESVi, mL/cm2, (Measured Using Method of Disks, Controls Serve as Normal Ranges)</title>
+          <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+          <units>mL/cm2</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="56.3" spread="17.1"/>
+                    <measurement group_id="O2" value="37.8" spread="7.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Primary outcome was presented at baseline as mean +/- standard deviation based upon the Shapiro-Wilks test of normality, and then analyzed with a Student t-test.</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.16</p_value>
+            <p_value_desc>P-values are not adjusted for multiple comparisons. Tests were two-tailed, considered statistically significant with a p-value &lt;0.05.</p_value_desc>
+            <method>t-test, 2 sided</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>MRI Parameter - LAi, mL/cm2, (Measured Using Method of Disks, Controls Serve as Normal Ranges)</title>
+        <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+        <time_frame>Parameter measured at baseline.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Subjects With Sickle Cell Disease (SCD)</title>
+            <description>38 clinically stable black patients with Sickle Cell Disease (SCD) (including individuals with hemoglobin SS, SC, and β-thalassemia demonstrated by high-performance liquid chromatographic separation or gel electrophoresis).&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Volunteers</title>
+            <description>13 healthy control subjects were frequency matched to patients with SCD on age, sex, and race.&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>MRI Parameter - LAi, mL/cm2, (Measured Using Method of Disks, Controls Serve as Normal Ranges)</title>
+          <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+          <units>mL/cm2</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="64.8" spread="16.2"/>
+                    <measurement group_id="O2" value="41.1" spread="9.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Primary outcome was presented at baseline as mean +/- standard deviation based upon the Shapiro-Wilks test of normality, and then analyzed with a Student t-test.</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.0039</p_value>
+            <p_value_desc>P-values are not adjusted for multiple comparisons. Tests were two-tailed, considered statistically significant with a p-value &lt;0.05.</p_value_desc>
+            <method>t-test, 2 sided</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>MRI Parameter - RAi, mL/cm2, (Measured Using Method of Disks, Controls Serve as Normal Ranges)</title>
+        <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+        <time_frame>Parameter measured at baseline.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Subjects With Sickle Cell Disease (SCD)</title>
+            <description>38 clinically stable black patients with Sickle Cell Disease (SCD) (including individuals with hemoglobin SS, SC, and β-thalassemia demonstrated by high-performance liquid chromatographic separation or gel electrophoresis).&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Volunteers</title>
+            <description>13 healthy control subjects were frequency matched to patients with SCD on age, sex, and race.&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>MRI Parameter - RAi, mL/cm2, (Measured Using Method of Disks, Controls Serve as Normal Ranges)</title>
+          <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+          <units>mL/cm2</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="76" lower_limit="66" upper_limit="86"/>
+                    <measurement group_id="O2" value="52" lower_limit="48" upper_limit="56"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Primary outcome was presented at baseline as median (interquartile range) based upon the Shapiro-Wilks test of normality, and then analyzed with a Wilcoxon (Mann-Whitney) test.</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.0011</p_value>
+            <p_value_desc>P-values are not adjusted for multiple comparisons. Tests were two-tailed, considered statistically significant with a p-value &lt;0.05.</p_value_desc>
+            <method>Wilcoxon (Mann-Whitney)</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>MRI Parameter - LVEF, %, (Measured Using Method of Disks, Controls Serve as Normal Ranges)</title>
+        <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+        <time_frame>Parameter measured at baseline.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Subjects With Sickle Cell Disease (SCD)</title>
+            <description>38 clinically stable black patients with Sickle Cell Disease (SCD) (including individuals with hemoglobin SS, SC, and β-thalassemia demonstrated by high-performance liquid chromatographic separation or gel electrophoresis).&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Volunteers</title>
+            <description>13 healthy control subjects were frequency matched to patients with SCD on age, sex, and race.&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>MRI Parameter - LVEF, %, (Measured Using Method of Disks, Controls Serve as Normal Ranges)</title>
+          <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+          <units>percentage of ejection fraction</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="58" lower_limit="55" upper_limit="62"/>
+                    <measurement group_id="O2" value="64" lower_limit="56" upper_limit="67"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Primary outcome was presented at baseline as median (interquartile range) based upon the Shapiro-Wilks test of normality, and then analyzed with a Wilcoxon (Mann-Whitney) test.</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.10</p_value>
+            <p_value_desc>P-values are not adjusted for multiple comparisons. Tests were two-tailed, considered statistically significant with a p-value &lt;0.05.</p_value_desc>
+            <method>Wilcoxon (Mann-Whitney)</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>MRI Parameter - RVEF, %, (Measured Using Method of Disks, Controls Serve as Normal Ranges)</title>
+        <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+        <time_frame>Parameter at baseline.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Subjects With Sickle Cell Disease (SCD)</title>
+            <description>38 clinically stable black patients with Sickle Cell Disease (SCD) (including individuals with hemoglobin SS, SC, and β-thalassemia demonstrated by high-performance liquid chromatographic separation or gel electrophoresis).&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Volunteers</title>
+            <description>13 healthy control subjects were frequency matched to patients with SCD on age, sex, and race.&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>MRI Parameter - RVEF, %, (Measured Using Method of Disks, Controls Serve as Normal Ranges)</title>
+          <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+          <units>percentage of ejection fraction</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="56.1" spread="6.4"/>
+                    <measurement group_id="O2" value="55.4" spread="2.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Primary outcome was presented at baseline as mean +/- standard deviation based upon the Shapiro-Wilks test of normality, and then analyzed with a Student t-test.</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.48</p_value>
+            <p_value_desc>P-values are not adjusted for multiple comparisons. Tests were two-tailed, considered statistically significant with a p-value &lt;0.05.</p_value_desc>
+            <method>t-test, 2 sided</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>MRI Parameter - Late Gadolinium Enhancement, Performed Via Visual Inspection, Normally None Should be Present</title>
+        <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+        <time_frame>Parameter measured at baseline.</time_frame>
+        <population>Some parameters were unable to be collected from patients with Sickle Cell Disease.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Subjects With Sickle Cell Disease (SCD)</title>
+            <description>38 clinically stable black patients with Sickle Cell Disease (SCD) (including individuals with hemoglobin SS, SC, and β-thalassemia demonstrated by high-performance liquid chromatographic separation or gel electrophoresis).&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Volunteers</title>
+            <description>13 healthy control subjects were frequency matched to patients with SCD on age, sex, and race.&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>MRI Parameter - Late Gadolinium Enhancement, Performed Via Visual Inspection, Normally None Should be Present</title>
+          <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+          <population>Some parameters were unable to be collected from patients with Sickle Cell Disease.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="32"/>
+                <count group_id="O2" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Primary outcome was presented as frequencies and percentages, and then analyzed with a Fisher exact test.</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.08</p_value>
+            <p_value_desc>P-values are not adjusted for multiple comparisons. Tests were two-tailed, considered statistically significant with a p-value &lt;0.05.</p_value_desc>
+            <method>Fisher Exact</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>MRI Parameter - Myocardial T2-star, ms, Performed Using Decay Curves (Normal &gt;20ms)</title>
+        <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+        <time_frame>Parameter measured at baseline.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Subjects With Sickle Cell Disease (SCD)</title>
+            <description>38 clinically stable black patients with Sickle Cell Disease (SCD) (including individuals with hemoglobin SS, SC, and β-thalassemia demonstrated by high-performance liquid chromatographic separation or gel electrophoresis).&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Volunteers</title>
+            <description>13 healthy control subjects were frequency matched to patients with SCD on age, sex, and race.&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>MRI Parameter - Myocardial T2-star, ms, Performed Using Decay Curves (Normal &gt;20ms)</title>
+          <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+          <units>ms</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="41.6" spread="13.4"/>
+                    <measurement group_id="O2" value="38.4" spread="14.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Primary outcome was presented at baseline as mean +/- standard deviation based upon the Shapiro-Wilks test of normality, and then analyzed with a Student t-test.</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.91</p_value>
+            <p_value_desc>P-values are not adjusted for multiple comparisons. Tests were two-tailed, considered statistically significant with a p-value &lt;0.05.</p_value_desc>
+            <method>t-test, 2 sided</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>MRI Parameter - Hepatic T2-star, ms, Performed Using Decay Curves, Normal &gt;18ms</title>
+        <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+        <time_frame>Parameter at baseline.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Subjects With Sickle Cell Disease (SCD)</title>
+            <description>38 clinically stable black patients with Sickle Cell Disease (SCD) (including individuals with hemoglobin SS, SC, and β-thalassemia demonstrated by high-performance liquid chromatographic separation or gel electrophoresis).&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Volunteers</title>
+            <description>13 healthy control subjects were frequency matched to patients with SCD on age, sex, and race.&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>MRI Parameter - Hepatic T2-star, ms, Performed Using Decay Curves, Normal &gt;18ms</title>
+          <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+          <units>ms</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10" lower_limit="5" upper_limit="27"/>
+                    <measurement group_id="O2" value="30" lower_limit="24" upper_limit="38"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Primary outcome was presented at baseline as median (interquartile range) based upon the Shapiro-Wilks test of normality, and then analyzed with a Wilcoxon (Mann-Whitney) test.</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.0038</p_value>
+            <p_value_desc>P-values are not adjusted for multiple comparisons. Tests were two-tailed, considered statistically significant with a p-value &lt;0.05.</p_value_desc>
+            <method>Wilcoxon (Mann-Whitney)</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>MRI Parameter - Myocardial Perfusion Reserve Index, Measured Using Upslope Technique. Control Subjects Available for Normal Ranges</title>
+        <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+        <time_frame>Parameter measured at baseline.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Subjects With Sickle Cell Disease (SCD)</title>
+            <description>38 clinically stable black patients with Sickle Cell Disease (SCD) (including individuals with hemoglobin SS, SC, and β-thalassemia demonstrated by high-performance liquid chromatographic separation or gel electrophoresis).&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Volunteers</title>
+            <description>13 healthy control subjects were frequency matched to patients with SCD on age, sex, and race.&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>MRI Parameter - Myocardial Perfusion Reserve Index, Measured Using Upslope Technique. Control Subjects Available for Normal Ranges</title>
+          <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+          <units>index</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.4" spread="0.3"/>
+                    <measurement group_id="O2" value="1.87" spread="0.37"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Primary outcome was presented at baseline as mean +/- standard deviation based upon the Shapiro-Wilks test of normality, and then analyzed with a Student t-test.</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.034</p_value>
+            <p_value_desc>P-values are not adjusted for multiple comparisons. Tests were two-tailed, considered statistically significant with a p-value &lt;0.05.</p_value_desc>
+            <method>t-test, 2 sided</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>MRI Parameter - Diastolic Dysfunction, Determined According to American Society of Echocardiography Guidelines</title>
+        <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+        <time_frame>Parameter measured at baseline.</time_frame>
+        <population>The measure was unable to be measured for some patients with Sickle Cell Disease.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Subjects With Sickle Cell Disease (SCD)</title>
+            <description>38 clinically stable black patients with Sickle Cell Disease (SCD) (including individuals with hemoglobin SS, SC, and β-thalassemia demonstrated by high-performance liquid chromatographic separation or gel electrophoresis).&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Volunteers</title>
+            <description>13 healthy control subjects were frequency matched to patients with SCD on age, sex, and race.&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>MRI Parameter - Diastolic Dysfunction, Determined According to American Society of Echocardiography Guidelines</title>
+          <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+          <population>The measure was unable to be measured for some patients with Sickle Cell Disease.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="35"/>
+                <count group_id="O2" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Primary outcome was presented was as frequencies and percentages, and then analyzed with a Fisher exact test.</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.25</p_value>
+            <p_value_desc>P-values are not adjusted for multiple comparisons. Tests were two-tailed, considered statistically significant with a p-value &lt;0.05.</p_value_desc>
+            <method>Fisher Exact</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>MRI Parameter - Lateral E/e', Measured Using Doppler Echo. Controls Available as Normal Ranges</title>
+        <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+        <time_frame>Parameter measured at baseline.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Subjects With Sickle Cell Disease (SCD)</title>
+            <description>38 clinically stable black patients with Sickle Cell Disease (SCD) (including individuals with hemoglobin SS, SC, and β-thalassemia demonstrated by high-performance liquid chromatographic separation or gel electrophoresis).&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Volunteers</title>
+            <description>13 healthy control subjects were frequency matched to patients with SCD on age, sex, and race.&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>MRI Parameter - Lateral E/e', Measured Using Doppler Echo. Controls Available as Normal Ranges</title>
+          <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+          <units>ratio</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7.2" lower_limit="5.9" upper_limit="9.8"/>
+                    <measurement group_id="O2" value="6.0" lower_limit="5.1" upper_limit="6.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Primary outcome was presented at baseline as median (interquartile range) based upon the Shapiro-Wilks test of normality, and then analyzed with a Wilcoxon (Mann-Whitney) test.</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.0288</p_value>
+            <p_value_desc>P-values are not adjusted for multiple comparisons. Tests were two-tailed, considered statistically significant with a p-value &lt;0.05.</p_value_desc>
+            <method>Wilcoxon (Mann-Whitney)</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>MRI Parameter - Augmentation Pressure, See Controls for Normal Ranges</title>
+        <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+        <time_frame>Parameter measured at baseline.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Subjects With Sickle Cell Disease (SCD)</title>
+            <description>38 clinically stable black patients with Sickle Cell Disease (SCD) (including individuals with hemoglobin SS, SC, and β-thalassemia demonstrated by high-performance liquid chromatographic separation or gel electrophoresis).&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Volunteers</title>
+            <description>13 healthy control subjects were frequency matched to patients with SCD on age, sex, and race.&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>MRI Parameter - Augmentation Pressure, See Controls for Normal Ranges</title>
+          <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+          <units>percentage of the pulse pressure</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9.0" lower_limit="4.5" upper_limit="16.8"/>
+                    <measurement group_id="O2" value="2.0" lower_limit="0.3" upper_limit="14.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Primary outcome was presented at baseline as median (interquartile range) based upon the Shapiro-Wilks test of normality, and then analyzed with a Wilcoxon (Mann-Whitney) test.</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.14</p_value>
+            <p_value_desc>P-values are not adjusted for multiple comparisons. Tests were two-tailed, considered statistically significant with a p-value &lt;0.05.</p_value_desc>
+            <method>Wilcoxon (Mann-Whitney)</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>MRI Parameter - Augmentation Index, See Control Subjects for Normal Ranges</title>
+        <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+        <time_frame>Parameter measured at baseline.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Subjects With Sickle Cell Disease (SCD)</title>
+            <description>38 clinically stable black patients with Sickle Cell Disease (SCD) (including individuals with hemoglobin SS, SC, and β-thalassemia demonstrated by high-performance liquid chromatographic separation or gel electrophoresis).&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Volunteers</title>
+            <description>13 healthy control subjects were frequency matched to patients with SCD on age, sex, and race.&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>MRI Parameter - Augmentation Index, See Control Subjects for Normal Ranges</title>
+          <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+          <units>index</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="23.6" spread="16.2"/>
+                    <measurement group_id="O2" value="12.5" spread="20.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Primary outcome was presented at baseline as mean +/- standard deviation based upon the Shapiro-Wilks test of normality, and then analyzed with a Student t-test.</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.13</p_value>
+            <p_value_desc>P-values are not adjusted for multiple comparisons. Tests were two-tailed, considered statistically significant with a p-value &lt;0.05.</p_value_desc>
+            <method>t-test, 2 sided</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>MRI Parameter - Systemic Systolic Blood Pressure</title>
+        <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+        <time_frame>Parameter measured at baseline.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Subjects With Sickle Cell Disease (SCD)</title>
+            <description>38 clinically stable black patients with Sickle Cell Disease (SCD) (including individuals with hemoglobin SS, SC, and β-thalassemia demonstrated by high-performance liquid chromatographic separation or gel electrophoresis).&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Volunteers</title>
+            <description>13 healthy control subjects were frequency matched to patients with SCD on age, sex, and race.&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>MRI Parameter - Systemic Systolic Blood Pressure</title>
+          <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+          <units>mmHg</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="122.3" spread="21.7"/>
+                    <measurement group_id="O2" value="132" spread="17.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Primary outcome was presented at baseline as mean +/- standard deviation based upon the Shapiro-Wilks test of normality, and then analyzed with a Student t-test.</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.81</p_value>
+            <p_value_desc>P-values are not adjusted for multiple comparisons. Tests were two-tailed, considered statistically significant with a p-value &lt;0.05.</p_value_desc>
+            <method>t-test, 2 sided</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>MRI Parameter - Systemic Diastolic Blood Pressure, mm Hg</title>
+        <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+        <time_frame>Parameter measured at baseline.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Subjects With Sickle Cell Disease (SCD)</title>
+            <description>38 clinically stable black patients with Sickle Cell Disease (SCD) (including individuals with hemoglobin SS, SC, and β-thalassemia demonstrated by high-performance liquid chromatographic separation or gel electrophoresis).&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Volunteers</title>
+            <description>13 healthy control subjects were frequency matched to patients with SCD on age, sex, and race.&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>MRI Parameter - Systemic Diastolic Blood Pressure, mm Hg</title>
+          <description>Comprehensively and quantitatively characterized the cardiopulmonary complications of SCD and gained an improved understanding of the pathophysiology of pulmonary hypertension and diastolic dysfunction in patients with Sickle Cell Disease.</description>
+          <units>mmHg</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="68.3" spread="18.1"/>
+                    <measurement group_id="O2" value="74.9" spread="16.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Primary outcome was presented at baseline as mean +/- standard deviation based upon the Shapiro-Wilks test of normality, and then analyzed with a Student t-test.</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.30</p_value>
+            <p_value_desc>P-values are not adjusted for multiple comparisons. Tests were two-tailed, considered statistically significant with a p-value &lt;0.05.</p_value_desc>
+            <method>t-test, 2 sided</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Genome-Wide Gene Expression and Targeted Genetic Polymorphisms in SCD Patients Linked to a Quantitative Noninvasive-based PH Phenotype.</title>
+        <description>To detect genome-wide gene expression and targeted genetic polymorphisms in SCD patients linked to a quantitative noninvasive-based PH phenotype.</description>
+        <time_frame>median follow up 3 years</time_frame>
+        <population>All efforts were taken to gather all possible data but none were obtained for this Outcome Measure.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Subjects With Sickle Cell Disease (SCD)</title>
+            <description>38 clinically stable black patients with Sickle Cell Disease (SCD) (including individuals with hemoglobin SS, SC, and β-thalassemia demonstrated by high-performance liquid chromatographic separation or gel electrophoresis).&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Volunteers</title>
+            <description>13 healthy control subjects were frequency matched to patients with SCD on age, sex, and race.&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Genome-Wide Gene Expression and Targeted Genetic Polymorphisms in SCD Patients Linked to a Quantitative Noninvasive-based PH Phenotype.</title>
+          <description>To detect genome-wide gene expression and targeted genetic polymorphisms in SCD patients linked to a quantitative noninvasive-based PH phenotype.</description>
+          <population>All efforts were taken to gather all possible data but none were obtained for this Outcome Measure.</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+                <count group_id="O2" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Adverse event data was collected over 3 years.</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Subjects With Sickle Cell Disease (SCD)</title>
+          <description>38 clinically stable black patients with Sickle Cell Disease (SCD) (including individuals with hemoglobin SS, SC, and β-thalassemia demonstrated by high-performance liquid chromatographic separation or gel electrophoresis).&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+        </group>
+        <group group_id="E2">
+          <title>Healthy Volunteers</title>
+          <description>13 healthy control subjects were frequency matched to patients with SCD on age, sex, and race.&#xD;
+MRI, Transthoracic Echocardiography, tonometry, EKG: Unless contraindicated, subjects will receive Regadenoson and Gadolinium contrast agent during the Cardiac magnetic resonance. The tonometer, EKG, and echo are non-invasive procedures.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="38"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="13"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="38"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="13"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="38"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="13"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>Due to small sample size, caution should be considered in applying these results to all patients with SCD, in particular to those with genotypes outside of hemoglobin and those with a recent or ongoing crisis. Not all patients had evaluable data sets for all of the cardiovascular tests, due to inadequate venous access, frequently encountered in patients with SCD. Finally, our follow-up period is currently too short to make meaningful comments on outcomes such as mortality and functional status.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Dr. Amit Patel, MD</name_or_title>
+      <organization>The University of Chicago</organization>
+      <phone>773-702-9461</phone>
+      <email>apatel2@medicine.bsd.uchicago.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

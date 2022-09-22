@@ -1,0 +1,2439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2138">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01871545</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GCO 12-0214</org_study_id>
+    <nct_id>NCT01871545</nct_id>
+  </id_info>
+  <brief_title>Evaluation of Liver Cancer With Magnetic Resonance Imaging (MRI)</brief_title>
+  <official_title>Evaluation of HCC Response to Systemic Therapy With Quantitative MRI</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Icahn School of Medicine at Mount Sinai</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Icahn School of Medicine at Mount Sinai</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The incidence of hepatocellular carcinoma (HCC) has recently increased in the United States.&#xD;
+      Although imaging plays a major role in HCC screening and staging, the possibility of&#xD;
+      predicting HCC tumor grade, aggressiveness, angiogenesis and hypoxia with imaging are unmet&#xD;
+      needs. In addition, new antiangiogenic drugs now available to treat advanced HCC necessitate&#xD;
+      the use of new imaging criteria beyond size. The investigators would like to develop and&#xD;
+      validate non-invasive magnetic resonance imaging (MRI) methods based on advanced&#xD;
+      diffusion-weighted imaging (DWI), MR Elastography, BOLD (blood oxygen level dependent) MRI&#xD;
+      and perfusion-weighted imaging (PWI, using gadolinium contrast) to be used as non-invasive&#xD;
+      markers of major histopathologic features of HCC, and to predict and assess early response of&#xD;
+      HCC to systemic therapy. The investigators also would like to develop quality control tools&#xD;
+      to improve the quality and decrease variability of quantitative MRI metrics. These techniques&#xD;
+      combined could represent non-invasive correlates of histologic findings in HCC, could enable&#xD;
+      individualized therapy, and provide prognosis in patients with HCC.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The incidence of hepatocellular carcinoma (HCC) has recently increased in the US mostly due&#xD;
+      to an increase in chronic hepatitis C infection. Angiogenesis is critical for the growth and&#xD;
+      metastatic progression of HCC. With the development of new antiangiogenic drugs such as&#xD;
+      sorafenib, imaging methods to predict and assess therapeutic response beyond changes in size&#xD;
+      become critical. However, validated imaging methods to predict and assess early HCC response&#xD;
+      to targeted agents are lacking.&#xD;
+&#xD;
+      In this study, the investigators would like to develop quantitative MRI methods interrogating&#xD;
+      different features of HCC tumor biology and pathology, including tumor cellularity, grade,&#xD;
+      angiogenesis and hypoxia. The investigators propose a multiparametric approach combining&#xD;
+      advanced DWI (IVIM: intravoxel incoherent motion diffusion measuring perfusion fraction and&#xD;
+      true diffusion coefficient), DCE-MRI (dynamic contrast-enhanced MRI, which measures arterial&#xD;
+      and portal flow, mean transit time, blood volume and distribution volume), and BOLD MRI using&#xD;
+      oxygen or carbogen challenge. This protocol will be performed in patients with HCC undergoing&#xD;
+      hepatic resection. Routine and advanced histopathologic methods will be performed (tumor&#xD;
+      grade, CK19 expression, presence of microvascular invasion, VEGF expression, microvessel&#xD;
+      density, HIF 1-alpha expression). MRI metrics will be correlated with histopathologic&#xD;
+      metrics.&#xD;
+&#xD;
+      The first portion of the proposal involves the development of a QC algorithm assessing MR&#xD;
+      data quality and test-retest. The investigators will propose solutions to improve data&#xD;
+      acquisition and processing. The last 2 years of the study will be dedicated to a prospective&#xD;
+      randomized study comparing Yttrium 90 radioembolization to sorafenib, assessing the role of&#xD;
+      baseline MRI metrics and early changes (at 2 weeks) in these metrics as markers of tumor&#xD;
+      response and time to progression in patients with unresectable HCC.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>June 2013</start_date>
+  <completion_date type="Actual">February 2, 2018</completion_date>
+  <primary_completion_date type="Actual">February 2, 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>SubStudy 1: Apparent Diffusion Coefficient (ADC)</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Tumor diffusion (apparent diffusion coefficient) measured with diffusion-weighted imaging sequence</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SubStudy 1: Total Tumor Perfusion (Ft)</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Perfusion/flow measured with dynamic contrast-enhanced imaging using gadolinium contrast</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SubStudy 1: Tumor Arterial Perfusion Fraction (ART)</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Perfusion/flow measured with dynamic contrast-enhanced imaging using gadolinium contrast</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SubStudy 1: Tumor Mean Transit Time (MTT)</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Tumor mean transit time (MTT) of contrast agent. Perfusion/flow measured with dynamic contrast-enhanced imaging using gadolinium contrast</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SubStudy 1: Tumor Distribution Volume (DV)</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Tumor distribution volume (DV) of contrast agent. Perfusion/flow measured with dynamic contrast-enhanced imaging using gadolinium contrast</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SubStudy 1: Oxygen Uptake</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Oxygen uptake measured with T2* and T1-weighted imaging</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SubStudy 1: Percent Change in Oxygen Uptake</measure>
+    <time_frame>Day 1, pre-oxygen administration and 10 min. post-oxygen administration</time_frame>
+    <description>Oxygen uptake measured with T2* and T1-weighted imaging. Oxygen uptake (% change pre and post O2 administration) calculated by Liver ΔR2*=100 x (R2* post O2-R2* pre O2)/R2* pre O2. The healthy participants breathed 100% medical O2 through a mask for 10 min., and were imaged before and after O2 administration with the MRI methods that are sensitive to oxygen uptake in tumors.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SubStudy 2: ADC</measure>
+    <time_frame>baseline and 6 weeks after Y90</time_frame>
+    <description>Tumor diffusion measured with diffusion-weighted imaging sequence. In diffusion weighted MR imaging (DWI), the signal is proportional to the Brownian motion diffusion of free water protons in tissues. Deposition of collagen in tissue (as in fibrotic disease), or cellularity in tumors act as impediments to free water diffusion. Using different mathematical models, the degree of diffusion can be quantified from the MRI signal, to provide information on diffusion restriction due to disease. From mono exponential fit of diffusion signal, one can obtain the apparent diffusion coefficient (ADC). However, this coefficient reflects free water proton diffusion, as well as transport of water protons in the capillary vessels (capillary perfusion).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SubStudy 2: Diffusion Coefficient D</measure>
+    <time_frame>baseline and 6 weeks after Y90</time_frame>
+    <description>Tumor diffusion measured with diffusion-weighted imaging sequence. To separate the diffusion effect from capillary perfusion, a bi-exponential model is used, which provides 3 coefficients: one is the true diffusion coefficient D, reflecting free water proton diffusion.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SubStudy 2: Pseudodiffusion Coefficient D*</measure>
+    <time_frame>baseline and 6 weeks after Y90</time_frame>
+    <description>Tumor diffusion measured with diffusion-weighted imaging sequence. To separate the diffusion effect from capillary perfusion, a bi-exponential model is used, which provides 3 coefficients: one is the pseudo-diffusion coefficient D*, affected by free diffusion and capillary perfusion.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SubStudy 2: Perfusion Fraction (PF)</measure>
+    <time_frame>baseline and 6 weeks after Y90</time_frame>
+    <description>Tumor diffusion measured with diffusion-weighted imaging sequence. To separate the diffusion effect from capillary perfusion, a bi-exponential model is used, which provides 3 coefficients: one is the perfusion fraction PF, which reflects how much the diffusion-weighted signal is affected by capillary perfusion. PF is a measure of vascularity in the tissue.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>SubStudy 2: Total Tumor Perfusion (Ft)</measure>
+    <time_frame>baseline and 6 weeks after Y90</time_frame>
+    <description>Perfusion/flow measured with dynamic contrast-enhanced imaging using gadolinium contrast</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SubStudy 2: Tumor Arterial Perfusion Fraction (ART)</measure>
+    <time_frame>baseline and 6 weeks after Y90</time_frame>
+    <description>Perfusion/flow measured with dynamic contrast-enhanced imaging using gadolinium contrast</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SubStudy 2: Tumor Mean Transit Time (MTT) of Contrast Agent</measure>
+    <time_frame>baseline and 6 weeks after Y90</time_frame>
+    <description>Perfusion/flow measured with dynamic contrast-enhanced imaging using gadolinium contrast</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SubStudy 2: Extravascular Extracellular Volume ve</measure>
+    <time_frame>baseline and 6 weeks after Y90</time_frame>
+    <description>Perfusion/flow measured with dynamic contrast-enhanced imaging using gadolinium contrast. Extravascular extracellular volume fraction ve (%) - represents the portion of tissue occupied by the extravascular extracellular volume (interstitial space), in which MRI contrast agent can distribute.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Substudy 2: Tumor Stiffness</measure>
+    <time_frame>baseline and 6 weeks after Y90</time_frame>
+    <description>measured with magnetic resonance elastography</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tumor Response</measure>
+    <time_frame>6 weeks and 6-12 months</time_frame>
+    <description>Tumor response to treatment is evaluated clinically by radiologists according to RECIST and modified RECIST criteria, by which the diameter of the tumor portion that enhances (lights up on imaging) after administration of gadolinium contrast agent is measured before and after treatment. The response is not reported as diameter or diameter difference in mm, but rather as a qualitative variable: complete response, partial response, stable disease and progressive disease. Complete response means no enhancing tumor regions after treatment (i.e. complete tumor necrosis, no more vascular regions of the tumor that take up contrast), partial response is a decrease in the diameter of the enhancing region, stable disease is unchanged diameter, and progressive disease is an increase in the diameter of the enhancing region after treatment.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">84</enrollment>
+  <condition>Hepatocellular Carcinoma</condition>
+  <condition>HCC</condition>
+  <arm_group>
+    <arm_group_label>Magnetic Resonance Imaging</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>dynamic contrast-enhanced MRI measuring arterial and portal flow</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy Controls</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Magnetic Resonance Imaging</intervention_name>
+    <description>Magnetic Resonance Imaging is a radiation free non invasive technique using magnetic radiofrequency waves to image the body. In this study, the research team would like to investigate the possibility of providing functional information on aggressiveness, vascularity and oxygen uptake in liver cancer tumors.</description>
+    <arm_group_label>Magnetic Resonance Imaging</arm_group_label>
+    <other_name>MRI</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Study group&#xD;
+&#xD;
+          -  Patients diagnosed with HCC, who will undergo resection or transplantation within 6&#xD;
+             months, as part of routine clinical care and patients diagnosed with unresectable HCC&#xD;
+&#xD;
+          -  18 years of age and older&#xD;
+&#xD;
+          -  Patient is able to give informed consent for this study&#xD;
+&#xD;
+        Control group&#xD;
+&#xD;
+          -  Healthy volunteers 18 years of age and older&#xD;
+&#xD;
+          -  Subject is able to give informed consent for this study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Age less than 18 years&#xD;
+&#xD;
+          -  Unable or unwilling to give informed consent&#xD;
+&#xD;
+          -  Contra-indications to MRI:&#xD;
+&#xD;
+               1. Electrical implants such as cardiac pacemakers or perfusion pumps&#xD;
+&#xD;
+               2. Ferromagnetic implants such as aneurysm clips, surgical clips, prostheses,&#xD;
+                  artificial hearts, valves with steel parts, metal fragments, shrapnel, tattoos&#xD;
+                  near the eye, or steel implants&#xD;
+&#xD;
+               3. Ferromagnetic objects such as jewelry or metal clips in clothing&#xD;
+&#xD;
+               4. Pregnant subjects&#xD;
+&#xD;
+               5. Pre-existing medical conditions including a likelihood of developing seizures or&#xD;
+                  claustrophobic reactions&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bachir Taouli, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Icahn School of Medicine at Mount Sinai</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Icahn School of Medicine at Mount Sinai</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>11103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>June 2020</verification_date>
+  <study_first_submitted>June 4, 2013</study_first_submitted>
+  <study_first_submitted_qc>June 5, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">June 6, 2013</study_first_posted>
+  <results_first_submitted>May 16, 2020</results_first_submitted>
+  <results_first_submitted_qc>June 25, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">July 9, 2020</results_first_posted>
+  <last_update_submitted>June 25, 2020</last_update_submitted>
+  <last_update_submitted_qc>June 25, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 9, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Icahn School of Medicine at Mount Sinai</investigator_affiliation>
+    <investigator_full_name>Bachir Taouli</investigator_full_name>
+    <investigator_title>Professor, Radiology and Medicine</investigator_title>
+  </responsible_party>
+  <keyword>hepatocellular carcinoma</keyword>
+  <keyword>HCC</keyword>
+  <keyword>liver cancer</keyword>
+  <keyword>liver disease</keyword>
+  <keyword>magnetic resonance imaging</keyword>
+  <keyword>MRI</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma, Hepatocellular</mesh_term>
+  </condition_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>May 11, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/45/NCT01871545/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Enrollment from June 2013 through February 2018</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Hepatocellular Carcinoma (HCC)</title>
+          <description>Participant with hepatocellular carcinoma (HCC)</description>
+        </group>
+        <group group_id="P2">
+          <title>Healthy Volunteer</title>
+          <description>Healthy volunteer participant</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="73"/>
+                <participants group_id="P2" count="11"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="56"/>
+                <participants group_id="P2" count="8"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="17"/>
+                <participants group_id="P2" count="3"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Death</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lack of Efficacy</title>
+              <participants_list>
+                <participants group_id="P1" count="11"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Physician Decision</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Hepatocellular Carcinoma (HCC)</title>
+          <description>Participants with hepatocellular carcinoma (HCC)</description>
+        </group>
+        <group group_id="B2">
+          <title>Healthy Participant</title>
+          <description>Healthy control participants</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="56"/>
+            <count group_id="B2" value="8"/>
+            <count group_id="B3" value="64"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="56"/>
+                    <count group_id="B2" value="8"/>
+                    <count group_id="B3" value="64"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="65" lower_limit="23" upper_limit="93"/>
+                    <measurement group_id="B2" value="36" lower_limit="23" upper_limit="55"/>
+                    <measurement group_id="B3" value="62" lower_limit="23" upper_limit="93"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="56"/>
+                    <count group_id="B2" value="8"/>
+                    <count group_id="B3" value="64"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="19"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="44"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="45"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="56"/>
+                    <count group_id="B2" value="8"/>
+                    <count group_id="B3" value="64"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="18"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="36"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="43"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="56"/>
+                    <count group_id="B2" value="8"/>
+                    <count group_id="B3" value="64"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="7"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="18"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="19"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="31"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="35"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>SubStudy 1: Age</title>
+          <population>Data analysis only for a subset of patients with HCC undergoing hepatic resection compared to healthy controls.</population>
+          <units>years</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="32"/>
+                    <count group_id="B2" value="8"/>
+                    <count group_id="B3" value="40"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="59" lower_limit="30" upper_limit="71"/>
+                    <measurement group_id="B2" value="36" lower_limit="23" upper_limit="55"/>
+                    <measurement group_id="B3" value="59" lower_limit="30" upper_limit="71"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>SubStudy 1: Sex</title>
+          <population>Data analysis only for a subset of patients with HCC undergoing hepatic resection compared to healthy controls.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="32"/>
+                    <count group_id="B2" value="8"/>
+                    <count group_id="B3" value="40"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="13"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="26"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="27"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>SubStudy 1: Ethnicity</title>
+          <population>Data analysis only for a subset of patients with HCC undergoing hepatic resection compared to healthy controls.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Hispanic or Latino</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="32"/>
+                    <count group_id="B2" value="8"/>
+                    <count group_id="B3" value="40"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Not Hispanic or Latino</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="32"/>
+                    <count group_id="B2" value="8"/>
+                    <count group_id="B3" value="40"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="24"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="31"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Unknown or Not Reported</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="32"/>
+                    <count group_id="B2" value="8"/>
+                    <count group_id="B3" value="40"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>SubStudy 1: Race</title>
+          <population>Data analysis only for a subset of patients with HCC undergoing hepatic resection compared to healthy controls.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>American Indian or Alaska Native</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="32"/>
+                    <count group_id="B2" value="8"/>
+                    <count group_id="B3" value="40"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Asian</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="32"/>
+                    <count group_id="B2" value="8"/>
+                    <count group_id="B3" value="40"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Native Hawaiian or Other Pacific Islander</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="32"/>
+                    <count group_id="B2" value="8"/>
+                    <count group_id="B3" value="40"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Black or African American</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="32"/>
+                    <count group_id="B2" value="8"/>
+                    <count group_id="B3" value="40"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>White</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="32"/>
+                    <count group_id="B2" value="8"/>
+                    <count group_id="B3" value="40"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="20"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>More than one race</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="32"/>
+                    <count group_id="B2" value="8"/>
+                    <count group_id="B3" value="40"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Unknown or Not Reported</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="32"/>
+                    <count group_id="B2" value="8"/>
+                    <count group_id="B3" value="40"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>SubStudy 2: Age</title>
+          <population>Data results only for patients with unresectable HCC treated with Yttrium 90 radioembolization</population>
+          <units>years</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="24"/>
+                    <count group_id="B2" value="0"/>
+                    <count group_id="B3" value="24"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="68" lower_limit="55" upper_limit="93"/>
+                    <measurement group_id="B3" value="68" lower_limit="55" upper_limit="93"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>SubStudy 2: Sex</title>
+          <population>Data results only for patients with unresectable HCC treated with Yttrium 90 radioembolization</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="24"/>
+                    <count group_id="B2" value="0"/>
+                    <count group_id="B3" value="24"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="18"/>
+                    <measurement group_id="B3" value="18"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>SubStudy 2: Ethnicity</title>
+          <population>Data results only for patients with unresectable HCC treated with Yttrium 90 radioembolization</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Hispanic or Latino</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="24"/>
+                    <count group_id="B2" value="0"/>
+                    <count group_id="B3" value="24"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B3" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Not Hispanic or Latino</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="24"/>
+                    <count group_id="B2" value="0"/>
+                    <count group_id="B3" value="24"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                    <measurement group_id="B3" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Unknown or Not Reported</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="24"/>
+                    <count group_id="B2" value="0"/>
+                    <count group_id="B3" value="24"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>SubStudy 2: Race</title>
+          <population>Data results only for patients with unresectable HCC treated with Yttrium 90 radioembolization</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>American Indian or Alaska Native</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="24"/>
+                    <count group_id="B2" value="0"/>
+                    <count group_id="B3" value="24"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Asian</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="24"/>
+                    <count group_id="B2" value="0"/>
+                    <count group_id="B3" value="24"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Native Hawaiian or Other Pacific Islander</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="24"/>
+                    <count group_id="B2" value="0"/>
+                    <count group_id="B3" value="24"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Black or African American</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="24"/>
+                    <count group_id="B2" value="0"/>
+                    <count group_id="B3" value="24"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>White</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="24"/>
+                    <count group_id="B2" value="0"/>
+                    <count group_id="B3" value="24"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                    <measurement group_id="B3" value="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>More than one race</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="24"/>
+                    <count group_id="B2" value="0"/>
+                    <count group_id="B3" value="24"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Unknown or Not Reported</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="24"/>
+                    <count group_id="B2" value="0"/>
+                    <count group_id="B3" value="24"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>SubStudy 1: Apparent Diffusion Coefficient (ADC)</title>
+        <description>Tumor diffusion (apparent diffusion coefficient) measured with diffusion-weighted imaging sequence</description>
+        <time_frame>Day 1</time_frame>
+        <population>Data analysis only for a subset of patients with HCC undergoing hepatic resection</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Hepatocellular Carcinoma (HCC)</title>
+            <description>Participants with hepatocellular carcinoma (HCC)</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Participant</title>
+            <description>Healthy control participants</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>SubStudy 1: Apparent Diffusion Coefficient (ADC)</title>
+          <description>Tumor diffusion (apparent diffusion coefficient) measured with diffusion-weighted imaging sequence</description>
+          <population>Data analysis only for a subset of patients with HCC undergoing hepatic resection</population>
+          <units>1x10^-3 mm^2/s</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="32"/>
+                <count group_id="O2" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.43" spread="0.68"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>SubStudy 1: Total Tumor Perfusion (Ft)</title>
+        <description>Perfusion/flow measured with dynamic contrast-enhanced imaging using gadolinium contrast</description>
+        <time_frame>Day 1</time_frame>
+        <population>Data analysis only for a subset of patients with HCC undergoing hepatic resection</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Hepatocellular Carcinoma (HCC)</title>
+            <description>Participants with hepatocellular carcinoma (HCC)</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Participant</title>
+            <description>Healthy control participants</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>SubStudy 1: Total Tumor Perfusion (Ft)</title>
+          <description>Perfusion/flow measured with dynamic contrast-enhanced imaging using gadolinium contrast</description>
+          <population>Data analysis only for a subset of patients with HCC undergoing hepatic resection</population>
+          <units>ml/min/100g</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="32"/>
+                <count group_id="O2" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="358" spread="337"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>SubStudy 1: Tumor Arterial Perfusion Fraction (ART)</title>
+        <description>Perfusion/flow measured with dynamic contrast-enhanced imaging using gadolinium contrast</description>
+        <time_frame>Day 1</time_frame>
+        <population>Data analysis only for a subset of patients with HCC undergoing hepatic resection</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Hepatocellular Carcinoma (HCC)</title>
+            <description>Participants with hepatocellular carcinoma (HCC)</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Participant</title>
+            <description>Healthy control participants</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>SubStudy 1: Tumor Arterial Perfusion Fraction (ART)</title>
+          <description>Perfusion/flow measured with dynamic contrast-enhanced imaging using gadolinium contrast</description>
+          <population>Data analysis only for a subset of patients with HCC undergoing hepatic resection</population>
+          <units>percent of perfusion</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="32"/>
+                <count group_id="O2" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="78.9" spread="21.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>SubStudy 1: Tumor Mean Transit Time (MTT)</title>
+        <description>Tumor mean transit time (MTT) of contrast agent. Perfusion/flow measured with dynamic contrast-enhanced imaging using gadolinium contrast</description>
+        <time_frame>Day 1</time_frame>
+        <population>Data analysis only for a subset of patients with HCC undergoing hepatic resection</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Hepatocellular Carcinoma (HCC)</title>
+            <description>Participants with hepatocellular carcinoma (HCC)</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Participant</title>
+            <description>Healthy control participants</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>SubStudy 1: Tumor Mean Transit Time (MTT)</title>
+          <description>Tumor mean transit time (MTT) of contrast agent. Perfusion/flow measured with dynamic contrast-enhanced imaging using gadolinium contrast</description>
+          <population>Data analysis only for a subset of patients with HCC undergoing hepatic resection</population>
+          <units>sec</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="32"/>
+                <count group_id="O2" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="21.2" spread="15.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>SubStudy 1: Tumor Distribution Volume (DV)</title>
+        <description>Tumor distribution volume (DV) of contrast agent. Perfusion/flow measured with dynamic contrast-enhanced imaging using gadolinium contrast</description>
+        <time_frame>Day 1</time_frame>
+        <population>Data analysis only for a subset of patients with HCC undergoing hepatic resection</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Hepatocellular Carcinoma (HCC)</title>
+            <description>Participants with hepatocellular carcinoma (HCC)</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Participant</title>
+            <description>Healthy control participants</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>SubStudy 1: Tumor Distribution Volume (DV)</title>
+          <description>Tumor distribution volume (DV) of contrast agent. Perfusion/flow measured with dynamic contrast-enhanced imaging using gadolinium contrast</description>
+          <population>Data analysis only for a subset of patients with HCC undergoing hepatic resection</population>
+          <units>percent</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="32"/>
+                <count group_id="O2" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="34.6" spread="24.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>SubStudy 1: Oxygen Uptake</title>
+        <description>Oxygen uptake measured with T2* and T1-weighted imaging</description>
+        <time_frame>Day 1</time_frame>
+        <population>Data analysis only for a subset of patients with HCC undergoing hepatic resection compared to healthy controls. Oxygen uptake for HCCs is reported in patients, and oxygen uptake for the liver is reported in volunteers. R1 measurements method in the volunteers proved unreliable - therefore no data available for T1/R1 in the healthy participant arm.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Hepatocellular Carcinoma (HCC)</title>
+            <description>Participants with hepatocellular carcinoma (HCC)</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Participant</title>
+            <description>Healthy control participants</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>SubStudy 1: Oxygen Uptake</title>
+          <description>Oxygen uptake measured with T2* and T1-weighted imaging</description>
+          <population>Data analysis only for a subset of patients with HCC undergoing hepatic resection compared to healthy controls. Oxygen uptake for HCCs is reported in patients, and oxygen uptake for the liver is reported in volunteers. R1 measurements method in the volunteers proved unreliable - therefore no data available for T1/R1 in the healthy participant arm.</population>
+          <units>s-1</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="32"/>
+                <count group_id="O2" value="8"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>R2*(=1/T2*) pre oxygen (O2) administration</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="32"/>
+                    <count group_id="O2" value="8"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="34.6" spread="24.7"/>
+                    <measurement group_id="O2" value="33.2" spread="5.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>R2* post O2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="32"/>
+                    <count group_id="O2" value="8"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="33.7" spread="14.5"/>
+                    <measurement group_id="O2" value="30.7" spread="5.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>ΔR2*=R2* post O2-R2* pre O2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="32"/>
+                    <count group_id="O2" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.78" spread="8.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>R1(=1/T1) pre oxygen (O2) administration</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="32"/>
+                    <count group_id="O2" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.67" spread="0.94"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>R1 post O2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="32"/>
+                    <count group_id="O2" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.90" spread="1.79"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>ΔR1=R1 post O2-R1 pre O2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="32"/>
+                    <count group_id="O2" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.23" spread="1.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>SubStudy 1: Percent Change in Oxygen Uptake</title>
+        <description>Oxygen uptake measured with T2* and T1-weighted imaging. Oxygen uptake (% change pre and post O2 administration) calculated by Liver ΔR2*=100 x (R2* post O2-R2* pre O2)/R2* pre O2. The healthy participants breathed 100% medical O2 through a mask for 10 min., and were imaged before and after O2 administration with the MRI methods that are sensitive to oxygen uptake in tumors.</description>
+        <time_frame>Day 1, pre-oxygen administration and 10 min. post-oxygen administration</time_frame>
+        <population>Healthy Participants only</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Hepatocellular Carcinoma (HCC)</title>
+            <description>Participants with hepatocellular carcinoma (HCC)</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Participant</title>
+            <description>Healthy control participants</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>SubStudy 1: Percent Change in Oxygen Uptake</title>
+          <description>Oxygen uptake measured with T2* and T1-weighted imaging. Oxygen uptake (% change pre and post O2 administration) calculated by Liver ΔR2*=100 x (R2* post O2-R2* pre O2)/R2* pre O2. The healthy participants breathed 100% medical O2 through a mask for 10 min., and were imaged before and after O2 administration with the MRI methods that are sensitive to oxygen uptake in tumors.</description>
+          <population>Healthy Participants only</population>
+          <units>percent of oxygen uptake</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+                <count group_id="O2" value="8"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O2" value="7.2" spread="7.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>SubStudy 2: ADC</title>
+        <description>Tumor diffusion measured with diffusion-weighted imaging sequence. In diffusion weighted MR imaging (DWI), the signal is proportional to the Brownian motion diffusion of free water protons in tissues. Deposition of collagen in tissue (as in fibrotic disease), or cellularity in tumors act as impediments to free water diffusion. Using different mathematical models, the degree of diffusion can be quantified from the MRI signal, to provide information on diffusion restriction due to disease. From mono exponential fit of diffusion signal, one can obtain the apparent diffusion coefficient (ADC). However, this coefficient reflects free water proton diffusion, as well as transport of water protons in the capillary vessels (capillary perfusion).</description>
+        <time_frame>baseline and 6 weeks after Y90</time_frame>
+        <population>Data results only for patients with unresectable HCC treated with Yttrium 90 radioembolization</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Hepatocellular Carcinoma (HCC)</title>
+            <description>Participants with hepatocellular carcinoma (HCC)</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Participant</title>
+            <description>Healthy control participants</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>SubStudy 2: ADC</title>
+          <description>Tumor diffusion measured with diffusion-weighted imaging sequence. In diffusion weighted MR imaging (DWI), the signal is proportional to the Brownian motion diffusion of free water protons in tissues. Deposition of collagen in tissue (as in fibrotic disease), or cellularity in tumors act as impediments to free water diffusion. Using different mathematical models, the degree of diffusion can be quantified from the MRI signal, to provide information on diffusion restriction due to disease. From mono exponential fit of diffusion signal, one can obtain the apparent diffusion coefficient (ADC). However, this coefficient reflects free water proton diffusion, as well as transport of water protons in the capillary vessels (capillary perfusion).</description>
+          <population>Data results only for patients with unresectable HCC treated with Yttrium 90 radioembolization</population>
+          <units>1x10^-3 mm^2/s</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="24"/>
+                <count group_id="O2" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.28" spread="0.22"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>6 weeks post y90</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.62" spread="0.24"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>SubStudy 2: Diffusion Coefficient D</title>
+        <description>Tumor diffusion measured with diffusion-weighted imaging sequence. To separate the diffusion effect from capillary perfusion, a bi-exponential model is used, which provides 3 coefficients: one is the true diffusion coefficient D, reflecting free water proton diffusion.</description>
+        <time_frame>baseline and 6 weeks after Y90</time_frame>
+        <population>Data results only for patients with unresectable HCC treated with Yttrium 90 radioembolization</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Hepatocellular Carcinoma (HCC)</title>
+            <description>Participants with hepatocellular carcinoma (HCC)</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Participant</title>
+            <description>Healthy control participants</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>SubStudy 2: Diffusion Coefficient D</title>
+          <description>Tumor diffusion measured with diffusion-weighted imaging sequence. To separate the diffusion effect from capillary perfusion, a bi-exponential model is used, which provides 3 coefficients: one is the true diffusion coefficient D, reflecting free water proton diffusion.</description>
+          <population>Data results only for patients with unresectable HCC treated with Yttrium 90 radioembolization</population>
+          <units>1x10^-3 mm^2/s</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="24"/>
+                <count group_id="O2" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.12" spread="0.19"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>6 weeks post y90</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.33" spread="0.23"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>SubStudy 2: Pseudodiffusion Coefficient D*</title>
+        <description>Tumor diffusion measured with diffusion-weighted imaging sequence. To separate the diffusion effect from capillary perfusion, a bi-exponential model is used, which provides 3 coefficients: one is the pseudo-diffusion coefficient D*, affected by free diffusion and capillary perfusion.</description>
+        <time_frame>baseline and 6 weeks after Y90</time_frame>
+        <population>Data results only for patients with unresectable HCC treated with Yttrium 90 radioembolization</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Hepatocellular Carcinoma (HCC)</title>
+            <description>Participants with hepatocellular carcinoma (HCC)</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Participant</title>
+            <description>Healthy control participants</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>SubStudy 2: Pseudodiffusion Coefficient D*</title>
+          <description>Tumor diffusion measured with diffusion-weighted imaging sequence. To separate the diffusion effect from capillary perfusion, a bi-exponential model is used, which provides 3 coefficients: one is the pseudo-diffusion coefficient D*, affected by free diffusion and capillary perfusion.</description>
+          <population>Data results only for patients with unresectable HCC treated with Yttrium 90 radioembolization</population>
+          <units>1x10^-3 mm^2/s</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="24"/>
+                <count group_id="O2" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="41.16" spread="35.73"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>6 weeks post y90</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="30.1" spread="14.99"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>SubStudy 2: Perfusion Fraction (PF)</title>
+        <description>Tumor diffusion measured with diffusion-weighted imaging sequence. To separate the diffusion effect from capillary perfusion, a bi-exponential model is used, which provides 3 coefficients: one is the perfusion fraction PF, which reflects how much the diffusion-weighted signal is affected by capillary perfusion. PF is a measure of vascularity in the tissue.</description>
+        <time_frame>baseline and 6 weeks after Y90</time_frame>
+        <population>Data results only for patients with unresectable HCC treated with Yttrium 90 radioembolization</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Hepatocellular Carcinoma (HCC)</title>
+            <description>Participants with hepatocellular carcinoma (HCC)</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Participant</title>
+            <description>Healthy control participants</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>SubStudy 2: Perfusion Fraction (PF)</title>
+          <description>Tumor diffusion measured with diffusion-weighted imaging sequence. To separate the diffusion effect from capillary perfusion, a bi-exponential model is used, which provides 3 coefficients: one is the perfusion fraction PF, which reflects how much the diffusion-weighted signal is affected by capillary perfusion. PF is a measure of vascularity in the tissue.</description>
+          <population>Data results only for patients with unresectable HCC treated with Yttrium 90 radioembolization</population>
+          <units>1x10^-3 mm^2/s</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="24"/>
+                <count group_id="O2" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="22.9" spread="11.57"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>6 weeks post y90</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="21.9" spread="9.43"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>SubStudy 2: Total Tumor Perfusion (Ft)</title>
+        <description>Perfusion/flow measured with dynamic contrast-enhanced imaging using gadolinium contrast</description>
+        <time_frame>baseline and 6 weeks after Y90</time_frame>
+        <population>Data results only for patients with unresectable HCC treated with Yttrium 90 radioembolization</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Hepatocellular Carcinoma (HCC)</title>
+            <description>Participants with hepatocellular carcinoma (HCC)</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Participant</title>
+            <description>Healthy control participants</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>SubStudy 2: Total Tumor Perfusion (Ft)</title>
+          <description>Perfusion/flow measured with dynamic contrast-enhanced imaging using gadolinium contrast</description>
+          <population>Data results only for patients with unresectable HCC treated with Yttrium 90 radioembolization</population>
+          <units>ml/min/100g tissue</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="24"/>
+                <count group_id="O2" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="24"/>
+                    <count group_id="O2" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="64.44" spread="52.77"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>6 weeks post y90</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="21"/>
+                    <count group_id="O2" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="49.12" spread="58.59"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>SubStudy 2: Tumor Arterial Perfusion Fraction (ART)</title>
+        <description>Perfusion/flow measured with dynamic contrast-enhanced imaging using gadolinium contrast</description>
+        <time_frame>baseline and 6 weeks after Y90</time_frame>
+        <population>Data results only for patients with unresectable HCC treated with Yttrium 90 radioembolization</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Hepatocellular Carcinoma (HCC)</title>
+            <description>Participants with hepatocellular carcinoma (HCC)</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Participant</title>
+            <description>Healthy control participants</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>SubStudy 2: Tumor Arterial Perfusion Fraction (ART)</title>
+          <description>Perfusion/flow measured with dynamic contrast-enhanced imaging using gadolinium contrast</description>
+          <population>Data results only for patients with unresectable HCC treated with Yttrium 90 radioembolization</population>
+          <units>percent of perfusion</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="24"/>
+                <count group_id="O2" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="24"/>
+                    <count group_id="O2" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="76.92" spread="16.87"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>6 weeks post y90</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="21"/>
+                    <count group_id="O2" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="52.17" spread="24.53"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>SubStudy 2: Tumor Mean Transit Time (MTT) of Contrast Agent</title>
+        <description>Perfusion/flow measured with dynamic contrast-enhanced imaging using gadolinium contrast</description>
+        <time_frame>baseline and 6 weeks after Y90</time_frame>
+        <population>Data results only for patients with unresectable HCC treated with Yttrium 90 radioembolization</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Hepatocellular Carcinoma (HCC)</title>
+            <description>Participants with hepatocellular carcinoma (HCC)</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Participant</title>
+            <description>Healthy control participants</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>SubStudy 2: Tumor Mean Transit Time (MTT) of Contrast Agent</title>
+          <description>Perfusion/flow measured with dynamic contrast-enhanced imaging using gadolinium contrast</description>
+          <population>Data results only for patients with unresectable HCC treated with Yttrium 90 radioembolization</population>
+          <units>sec</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="24"/>
+                <count group_id="O2" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="24"/>
+                    <count group_id="O2" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="27" spread="13.01"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>6 weeks post y90</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="21"/>
+                    <count group_id="O2" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="27.86" spread="12.05"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>SubStudy 2: Extravascular Extracellular Volume ve</title>
+        <description>Perfusion/flow measured with dynamic contrast-enhanced imaging using gadolinium contrast. Extravascular extracellular volume fraction ve (%) - represents the portion of tissue occupied by the extravascular extracellular volume (interstitial space), in which MRI contrast agent can distribute.</description>
+        <time_frame>baseline and 6 weeks after Y90</time_frame>
+        <population>Data results only for patients with unresectable HCC treated with Yttrium 90 radioembolization</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Hepatocellular Carcinoma (HCC)</title>
+            <description>Participants with hepatocellular carcinoma (HCC)</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Participant</title>
+            <description>Healthy control participants</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>SubStudy 2: Extravascular Extracellular Volume ve</title>
+          <description>Perfusion/flow measured with dynamic contrast-enhanced imaging using gadolinium contrast. Extravascular extracellular volume fraction ve (%) - represents the portion of tissue occupied by the extravascular extracellular volume (interstitial space), in which MRI contrast agent can distribute.</description>
+          <population>Data results only for patients with unresectable HCC treated with Yttrium 90 radioembolization</population>
+          <units>percent of perfusion</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="24"/>
+                <count group_id="O2" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="24"/>
+                    <count group_id="O2" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="16.77" spread="6.44"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>6 weeks post y90</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="21"/>
+                    <count group_id="O2" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10.27" spread="7.39"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Substudy 2: Tumor Stiffness</title>
+        <description>measured with magnetic resonance elastography</description>
+        <time_frame>baseline and 6 weeks after Y90</time_frame>
+        <population>Data results only for patients with unresectable HCC treated with Yttrium 90 radioembolization. Excluded: 3 treated with other therapies, 2 deceased before 6 weeks follow-up.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Hepatocellular Carcinoma (HCC)</title>
+            <description>Participants with hepatocellular carcinoma (HCC)</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Participant</title>
+            <description>Healthy control participants</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Substudy 2: Tumor Stiffness</title>
+          <description>measured with magnetic resonance elastography</description>
+          <population>Data results only for patients with unresectable HCC treated with Yttrium 90 radioembolization. Excluded: 3 treated with other therapies, 2 deceased before 6 weeks follow-up.</population>
+          <units>kilo Pascals (kPa)</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="24"/>
+                <count group_id="O2" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="24"/>
+                    <count group_id="O2" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.0" spread="2.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>6 weeks post y90</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="19"/>
+                    <count group_id="O2" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7.0" spread="3.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Tumor Response</title>
+        <description>Tumor response to treatment is evaluated clinically by radiologists according to RECIST and modified RECIST criteria, by which the diameter of the tumor portion that enhances (lights up on imaging) after administration of gadolinium contrast agent is measured before and after treatment. The response is not reported as diameter or diameter difference in mm, but rather as a qualitative variable: complete response, partial response, stable disease and progressive disease. Complete response means no enhancing tumor regions after treatment (i.e. complete tumor necrosis, no more vascular regions of the tumor that take up contrast), partial response is a decrease in the diameter of the enhancing region, stable disease is unchanged diameter, and progressive disease is an increase in the diameter of the enhancing region after treatment.</description>
+        <time_frame>6 weeks and 6-12 months</time_frame>
+        <population>Data results only for patients with unresectable HCC treated with Yttrium 90 radioembolization.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Hepatocellular Carcinoma (HCC) at 6 Weeks</title>
+            <description>Participants with hepatocellular carcinoma (HCC) looking at 25 lesions</description>
+          </group>
+          <group group_id="O2">
+            <title>Hepatocellular Carcinoma (HCC) at 6-12 Months</title>
+            <description>Participants with hepatocellular carcinoma (HCC) looking at 18 lesions</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Tumor Response</title>
+          <description>Tumor response to treatment is evaluated clinically by radiologists according to RECIST and modified RECIST criteria, by which the diameter of the tumor portion that enhances (lights up on imaging) after administration of gadolinium contrast agent is measured before and after treatment. The response is not reported as diameter or diameter difference in mm, but rather as a qualitative variable: complete response, partial response, stable disease and progressive disease. Complete response means no enhancing tumor regions after treatment (i.e. complete tumor necrosis, no more vascular regions of the tumor that take up contrast), partial response is a decrease in the diameter of the enhancing region, stable disease is unchanged diameter, and progressive disease is an increase in the diameter of the enhancing region after treatment.</description>
+          <population>Data results only for patients with unresectable HCC treated with Yttrium 90 radioembolization.</population>
+          <units>lesions</units>
+          <param>Number</param>
+          <units_analyzed>lesions</units_analyzed>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="24"/>
+                <count group_id="O2" value="7"/>
+              </count_list>
+            </analyzed>
+            <analyzed>
+              <units>lesions</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="25"/>
+                <count group_id="O2" value="18"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Stable Disease</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Partial Response</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                    <measurement group_id="O2" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Complete Response</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="11"/>
+                    <measurement group_id="O2" value="14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>6 weeks</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Healthy Participant</title>
+          <description>Healthy control participants</description>
+        </group>
+        <group group_id="E2">
+          <title>SubStudy 1</title>
+          <description>Data analysis only for a subset of patients with HCC undergoing hepatic resection compared to healthy controls</description>
+        </group>
+        <group group_id="E3">
+          <title>SubStudy 2</title>
+          <description>Data results only for patients with unresectable HCC treated with Yttrium 90 radioembolization</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="8"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="32"/>
+                <counts group_id="E3" subjects_affected="6" subjects_at_risk="24"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="8"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="32"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="24"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_vocab>MedDRA (10.0)</default_vocab>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="8"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="32"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="24"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Eye disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Left eye pain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="8"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="32"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="24"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Mild contrast reaction</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="8"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="32"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="24"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Product Issues</title>
+            <event_list>
+              <event>
+                <sub_title>Unable to tolerate carbogen</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="8"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="32"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="24"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Bachir Taouli</name_or_title>
+      <organization>Icahn School of Medicine at Mount Sinai</organization>
+      <phone>212-824-8475</phone>
+      <email>bachir.taouli@mountsinai.org</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

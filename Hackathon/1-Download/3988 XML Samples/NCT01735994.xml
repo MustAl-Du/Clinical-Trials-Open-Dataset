@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3942">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01735994</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PBRC 11032</org_study_id>
+    <secondary_id>R01MH094448</secondary_id>
+    <nct_id>NCT01735994</nct_id>
+  </id_info>
+  <brief_title>Efficacy of the Female Athlete Body Project (FAB)</brief_title>
+  <acronym>FAB</acronym>
+  <official_title>Healthy Weight Intervention in Female Athletes: A Randomized Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pennington Biomedical Research Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Mental Health (NIMH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Pennington Biomedical Research Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Given the cost of treating eating disorders and the substantial morbidity and mortality&#xD;
+      associated with these disorders, prevention of eating disorders has considerable public&#xD;
+      health significance. Female athletes represent an important population for prevention due to&#xD;
+      their risk for the Female Athlete Triad, which includes inadequate energy intake, irregular&#xD;
+      or cessation of menses, and osteoporosis. The proposed randomized controlled trial will&#xD;
+      provide important information regarding the efficacy, acceptability, and feasibility of&#xD;
+      implementing a brief eating disorder prevention and healthy living program within an existing&#xD;
+      social system of female athletes.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Research supports the use of a Healthy Weight (HW) program targeting small lifestyle&#xD;
+      modifications in the prevention of ED onset and in reducing ED risk factors. Studies show&#xD;
+      that HW can be tailored for specific social systems (e.g., sororities) which can facilitate&#xD;
+      dissemination and that undergraduate peer-leaders can implement these programs. Interventions&#xD;
+      that can be administered affordably by endogenous providers are more likely to be&#xD;
+      disseminated, as indicated by the large scale dissemination of a peer-led ED prevention&#xD;
+      program by a national sorority. Another target social system for dissemination of ED&#xD;
+      prevention is collegiate athletics. Research suggests that disordered eating among female&#xD;
+      athletes is prevalent, and that this group is at greater, or at least equal, risk for&#xD;
+      developing EDs as non-athlete females. Disordered eating is especially dangerous in female&#xD;
+      athletes because it increases risk for the Female Athlete Triad (i.e., low energy&#xD;
+      availability/disordered eating, menstrual disorders, and decreased bone mineral&#xD;
+      density/osteoporosis) and subsequent injury. Moreover, the triad puts athletes at risk for&#xD;
+      serious long-term health consequences, such as osteoporosis, reproductive disorders, and&#xD;
+      cardiovascular disease. Despite this, efforts aimed at prevention of EDs among this group&#xD;
+      remain surprisingly limited. A pilot study with female athletes suggests that a modified&#xD;
+      version of HW can be successfully implemented by peer-leaders within the constraints of a&#xD;
+      competitive athletics program with positive effects at 12 month follow-up. The proposed study&#xD;
+      is to evaluate a randomized controlled trial of the HW intervention among female athletes.&#xD;
+      500 female collegiate athletes from three sites will be randomized to either the HW&#xD;
+      prevention program or a brochure waitlist control condition using group (cluster)&#xD;
+      randomization based on teams. Participants will complete surveys and telephone interviews at&#xD;
+      pretest, posttest, and at 6 and 12 month follow-ups. The investigators will examine; (1) the&#xD;
+      efficacy of HW in reducing empirically supported ED risk factors relative to a waitlist&#xD;
+      brochure control condition at one year, (2) whether HW impacts secondary outcomes, including&#xD;
+      knowledge and identification of the female athlete triad, treatment seeking for the triad,&#xD;
+      affect, and health care utilization, and (3) whether positive effects for HW replicate the&#xD;
+      effects from the pilot study at one year and 18 months for the HW condition only. Based on&#xD;
+      previous promising findings, the department of athletics involved in the study have chosen to&#xD;
+      implement HW to all athletics teams on a mandatory basis on a staggered schedule. Given that&#xD;
+      it is unethical to require human subjects to participate in research, the proposed study&#xD;
+      (i.e., the study) must be separated from the program (i.e., the athlete prevention program)&#xD;
+      it aims to assess. Thus, the overall study will evaluate (via assessment measures) the&#xD;
+      program that the departments of athletics deliver at three sites, i.e. LSU, TU/IW, and AU.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>November 2012</start_date>
+  <completion_date type="Actual">December 2018</completion_date>
+  <primary_completion_date type="Actual">December 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Eating Disorder Examination Questionnaire (EDE-Q)</measure>
+    <time_frame>18 months</time_frame>
+    <description>The Eating Disorder Examination Questionnaire (EDE-Q) assesses eating disorder behaviors through a self-report questionnaire. There are four subscales of the EDE-Q--Restraint, Eating Concern, Shape Concern, and Weight Concern--with scores for each ranging from 0-6. Overall scores also range from 0-6. Higher scores reflect greater severity of eating disorder psychopathology. Subscales are averaged to compute a total score.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Subjective and Objective Binge Episodes as Measured by the Eating Disorder Examination Questionnaire (EDE-Q)</measure>
+    <time_frame>18 months</time_frame>
+    <description>Frequency of subjective and objective binge episodes is reported.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Secondary Outcomes</measure>
+    <time_frame>18 months</time_frame>
+    <description>Internalization of the Sport-Specific Thin-Ideal (ISTI) measures thin-ideal internalization specific to athletes (average of items from 1-5; higher scores mean worse outcome).&#xD;
+Teammate Relationship Health (TRH) measures relational health with teammates (scores from 8-40; higher scores mean better outcome).&#xD;
+Ideal-Body Stereotype Scale - Revised (IBSS-R) assesses internalization of the traditional thin-ideal (scores from 1-10, higher scores mean worse outcome).&#xD;
+Positive and Negative Affect Scale - Revised (PANAS-X) assesses negative affect (average of items from 1-5; higher scores mean worse outcome).&#xD;
+Intervention Suitability Expectations (ISE) assesses perceived suitability and expectations of the intervention (average of total scores from 4-46; higher scores mean better outcome).&#xD;
+Knowledge of the Female Athlete Triad (KFAT) measures participant understanding of the Female Athlete Triad (each correct answer = 1, scores from 0-10; higher scores mean better outcome).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Secondary Outcomes - BMI</measure>
+    <time_frame>18 months</time_frame>
+    <description>Body Mass Index (BMI) (self-reported) is a measure of kg/m^2.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">481</enrollment>
+  <condition>Eating Disorders</condition>
+  <condition>Female Athlete Triad</condition>
+  <arm_group>
+    <arm_group_label>Healthy Weight Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Eating Disorder Prevention Program</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Brochure wait list</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Brochure wait list control group</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Healthy Weight</intervention_name>
+    <description>Eating Disorder Prevention Program for Athletes</description>
+    <arm_group_label>Healthy Weight Intervention</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Brochure</intervention_name>
+    <description>Brochure on the Female athlete triad</description>
+    <arm_group_label>Brochure wait list</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Female&#xD;
+&#xD;
+          -  Member of a University-sponsored athletic team,&#xD;
+&#xD;
+          -  Are willing and able to provide informed consent, attend all study visits, and comply&#xD;
+             with the study protocol&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  None&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Tiffany M Stewart, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Pennington Biomedical</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Pennington Biomedical Research Center</name>
+      <address>
+        <city>Baton Rouge</city>
+        <state>Louisiana</state>
+        <zip>70808</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Stewart TM, Pollard T, Hildebrandt T, Beyl R, Wesley N, Kilpela LS, Becker CB. The Female Athlete Body (FAB) study: Rationale, design, and baseline characteristics. Contemp Clin Trials. 2017 Sep;60:63-71. doi: 10.1016/j.cct.2017.06.005. Epub 2017 Jun 10.</citation>
+    <PMID>28611008</PMID>
+  </reference>
+  <reference>
+    <citation>Stewart TM, Pollard T, Hildebrandt T, Wesley NY, Kilpela LS, Becker CB. The Female Athlete Body project study: 18-month outcomes in eating disorder symptoms and risk factors. Int J Eat Disord. 2019 Nov;52(11):1291-1300. doi: 10.1002/eat.23145. Epub 2019 Jul 27.</citation>
+    <PMID>31350934</PMID>
+  </reference>
+  <verification_date>November 2019</verification_date>
+  <study_first_submitted>November 14, 2012</study_first_submitted>
+  <study_first_submitted_qc>November 27, 2012</study_first_submitted_qc>
+  <study_first_posted type="Estimate">November 28, 2012</study_first_posted>
+  <results_first_submitted>April 23, 2019</results_first_submitted>
+  <results_first_submitted_qc>November 12, 2019</results_first_submitted_qc>
+  <results_first_posted type="Actual">December 4, 2019</results_first_posted>
+  <last_update_submitted>November 12, 2019</last_update_submitted>
+  <last_update_submitted_qc>November 12, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 4, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Pennington Biomedical Research Center</investigator_affiliation>
+    <investigator_full_name>Tiffany Stewart</investigator_full_name>
+    <investigator_title>Director, Behavior Technology Laboratory</investigator_title>
+  </responsible_party>
+  <keyword>Eating disorders</keyword>
+  <keyword>body image</keyword>
+  <keyword>female athletes</keyword>
+  <keyword>female athlete triad</keyword>
+  <keyword>eating disorder prevention</keyword>
+  <keyword>cluster randomization</keyword>
+  <keyword>risk factors</keyword>
+  <keyword>prevention</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Feeding and Eating Disorders</mesh_term>
+    <mesh_term>Female Athlete Triad Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>July 10, 2013</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/94/NCT01735994/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>July 10, 2013</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/94/NCT01735994/ICF_001.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>September 4, 2019</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/94/NCT01735994/SAP_002.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Study enrollment began at the schools in August 2012 and completed in October 2014.</recruitment_details>
+      <pre_assignment_details>Only one athlete decided to participate in the prevention program without participating in the study.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Healthy Weight Intervention</title>
+          <description>Eating Disorder Prevention Program&#xD;
+Healthy Weight: Eating Disorder Prevention Program for Athletes</description>
+        </group>
+        <group group_id="P2">
+          <title>Brochure Wait List</title>
+          <description>Brochure wait list control group&#xD;
+Brochure: Brochure on the Female athlete triad</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="263"/>
+                <participants group_id="P2" count="218"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Post Intervention (3 Weeks)</title>
+              <participants_list>
+                <participants group_id="P1" count="239"/>
+                <participants group_id="P2" count="198"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Follow-Up #1 (6 Months)</title>
+              <participants_list>
+                <participants group_id="P1" count="213"/>
+                <participants group_id="P2" count="163"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Follow-Up #2 (12 Months)</title>
+              <participants_list>
+                <participants group_id="P1" count="212"/>
+                <participants group_id="P2" count="174"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="200"/>
+                <participants group_id="P2" count="152"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="63"/>
+                <participants group_id="P2" count="66"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="6"/>
+                <participants group_id="P2" count="4"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Injury</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Kicked off team</title>
+              <participants_list>
+                <participants group_id="P1" count="5"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="50"/>
+                <participants group_id="P2" count="62"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Healthy Weight Intervention</title>
+          <description>Eating Disorder Prevention Program&#xD;
+Healthy Weight: Eating Disorder Prevention Program for Athletes</description>
+        </group>
+        <group group_id="B2">
+          <title>Brochure Wait List</title>
+          <description>Brochure wait list control group&#xD;
+Brochure: Brochure on the Female athlete triad</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="263"/>
+            <count group_id="B2" value="218"/>
+            <count group_id="B3" value="481"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="19.29" spread="1.25"/>
+                    <measurement group_id="B2" value="19.42" spread="1.18"/>
+                    <measurement group_id="B3" value="19.35" spread="1.22"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="263"/>
+                    <measurement group_id="B2" value="218"/>
+                    <measurement group_id="B3" value="481"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="37"/>
+                    <measurement group_id="B2" value="27"/>
+                    <measurement group_id="B3" value="64"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="205"/>
+                    <measurement group_id="B2" value="183"/>
+                    <measurement group_id="B3" value="388"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="21"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="29"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="9"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="43"/>
+                    <measurement group_id="B2" value="28"/>
+                    <measurement group_id="B3" value="71"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="193"/>
+                    <measurement group_id="B2" value="171"/>
+                    <measurement group_id="B3" value="364"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                    <measurement group_id="B2" value="11"/>
+                    <measurement group_id="B3" value="26"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Height (inches)</title>
+          <units>inches</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="65.95" spread="3.39"/>
+                    <measurement group_id="B2" value="66.18" spread="4.00"/>
+                    <measurement group_id="B3" value="66.05" spread="3.68"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Weight (pounds)</title>
+          <description>Self-reported</description>
+          <units>pounds</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="140.80" spread="22.47"/>
+                    <measurement group_id="B2" value="138.80" spread="23.72"/>
+                    <measurement group_id="B3" value="139.90" spread="23.04"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>BMI</title>
+          <units>kg/m^2</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="22.74" spread="3.01"/>
+                    <measurement group_id="B2" value="22.23" spread="2.65"/>
+                    <measurement group_id="B3" value="22.50" spread="2.86"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Eating Disorder Examination Questionnaire (EDE-Q)</title>
+        <description>The Eating Disorder Examination Questionnaire (EDE-Q) assesses eating disorder behaviors through a self-report questionnaire. There are four subscales of the EDE-Q--Restraint, Eating Concern, Shape Concern, and Weight Concern--with scores for each ranging from 0-6. Overall scores also range from 0-6. Higher scores reflect greater severity of eating disorder psychopathology. Subscales are averaged to compute a total score.</description>
+        <time_frame>18 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Healthy Weight Intervention</title>
+            <description>Eating Disorder Prevention Program&#xD;
+Healthy Weight: Eating Disorder Prevention Program for Athletes</description>
+          </group>
+          <group group_id="O2">
+            <title>Brochure Wait List</title>
+            <description>Brochure wait list control group&#xD;
+Brochure: Brochure on the Female athlete triad</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Eating Disorder Examination Questionnaire (EDE-Q)</title>
+          <description>The Eating Disorder Examination Questionnaire (EDE-Q) assesses eating disorder behaviors through a self-report questionnaire. There are four subscales of the EDE-Q--Restraint, Eating Concern, Shape Concern, and Weight Concern--with scores for each ranging from 0-6. Overall scores also range from 0-6. Higher scores reflect greater severity of eating disorder psychopathology. Subscales are averaged to compute a total score.</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="263"/>
+                <count group_id="O2" value="218"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Global</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value=".98" spread=".17"/>
+                    <measurement group_id="O2" value="1.24" spread=".16"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Restraint</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value=".54" spread=".11"/>
+                    <measurement group_id="O2" value=".84" spread=".18"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Shape Concern</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.13" spread=".21"/>
+                    <measurement group_id="O2" value="1.46" spread=".28"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Weight Concern</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.03" spread=".26"/>
+                    <measurement group_id="O2" value="1.17" spread=".24"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Eating Concern</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value=".49" spread=".16"/>
+                    <measurement group_id="O2" value=".55" spread=".15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Secondary Outcomes</title>
+        <description>Internalization of the Sport-Specific Thin-Ideal (ISTI) measures thin-ideal internalization specific to athletes (average of items from 1-5; higher scores mean worse outcome).&#xD;
+Teammate Relationship Health (TRH) measures relational health with teammates (scores from 8-40; higher scores mean better outcome).&#xD;
+Ideal-Body Stereotype Scale - Revised (IBSS-R) assesses internalization of the traditional thin-ideal (scores from 1-10, higher scores mean worse outcome).&#xD;
+Positive and Negative Affect Scale - Revised (PANAS-X) assesses negative affect (average of items from 1-5; higher scores mean worse outcome).&#xD;
+Intervention Suitability Expectations (ISE) assesses perceived suitability and expectations of the intervention (average of total scores from 4-46; higher scores mean better outcome).&#xD;
+Knowledge of the Female Athlete Triad (KFAT) measures participant understanding of the Female Athlete Triad (each correct answer = 1, scores from 0-10; higher scores mean better outcome).</description>
+        <time_frame>18 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Healthy Weight Intervention</title>
+            <description>Eating Disorder Prevention Program&#xD;
+Healthy Weight: Eating Disorder Prevention Program for Athletes</description>
+          </group>
+          <group group_id="O2">
+            <title>Brochure Wait List</title>
+            <description>Brochure wait list control group&#xD;
+Brochure: Brochure on the Female athlete triad</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Secondary Outcomes</title>
+          <description>Internalization of the Sport-Specific Thin-Ideal (ISTI) measures thin-ideal internalization specific to athletes (average of items from 1-5; higher scores mean worse outcome).&#xD;
+Teammate Relationship Health (TRH) measures relational health with teammates (scores from 8-40; higher scores mean better outcome).&#xD;
+Ideal-Body Stereotype Scale - Revised (IBSS-R) assesses internalization of the traditional thin-ideal (scores from 1-10, higher scores mean worse outcome).&#xD;
+Positive and Negative Affect Scale - Revised (PANAS-X) assesses negative affect (average of items from 1-5; higher scores mean worse outcome).&#xD;
+Intervention Suitability Expectations (ISE) assesses perceived suitability and expectations of the intervention (average of total scores from 4-46; higher scores mean better outcome).&#xD;
+Knowledge of the Female Athlete Triad (KFAT) measures participant understanding of the Female Athlete Triad (each correct answer = 1, scores from 0-10; higher scores mean better outcome).</description>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="263"/>
+                <count group_id="O2" value="218"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Internalization of the Sport-Specific Thin-Ideal</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.46" spread=".18"/>
+                    <measurement group_id="O2" value="2.71" spread=".31"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Teammate Relationship Health (TRH)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="30.28" spread=".65"/>
+                    <measurement group_id="O2" value="29.87" spread=".85"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Ideal-Body Stereotype Scale - Revised (IBSSR)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.20" spread=".06"/>
+                    <measurement group_id="O2" value="3.43" spread=".05"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Positive and Negative Affect Scale - Revised</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.50" spread=".04"/>
+                    <measurement group_id="O2" value="1.59" spread=".06"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Intervention Suitability Expectations (ISE)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="29.92" spread="7.80"/>
+                    <measurement group_id="O2" value="26.50" spread="8.52"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Knowledge of the Female Athlete Triad</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8.54" spread=".37"/>
+                    <measurement group_id="O2" value="8.58" spread=".30"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Subjective and Objective Binge Episodes as Measured by the Eating Disorder Examination Questionnaire (EDE-Q)</title>
+        <description>Frequency of subjective and objective binge episodes is reported.</description>
+        <time_frame>18 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Healthy Weight Intervention</title>
+            <description>Eating Disorder Prevention Program&#xD;
+Healthy Weight: Eating Disorder Prevention Program for Athletes</description>
+          </group>
+          <group group_id="O2">
+            <title>Brochure Wait List</title>
+            <description>Brochure wait list control group&#xD;
+Brochure: Brochure on the Female athlete triad</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Subjective and Objective Binge Episodes as Measured by the Eating Disorder Examination Questionnaire (EDE-Q)</title>
+          <description>Frequency of subjective and objective binge episodes is reported.</description>
+          <units>episodes</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="263"/>
+                <count group_id="O2" value="218"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Objective Binge Episode Frequency</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value=".35" spread="1.56"/>
+                    <measurement group_id="O2" value=".63" spread="1.75"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Subjective Binge Episode Frequency</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value=".49" spread="1.94"/>
+                    <measurement group_id="O2" value=".57" spread="3.52"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Secondary Outcomes - BMI</title>
+        <description>Body Mass Index (BMI) (self-reported) is a measure of kg/m^2.</description>
+        <time_frame>18 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Healthy Weight Intervention</title>
+            <description>Eating Disorder Prevention Program&#xD;
+Healthy Weight: Eating Disorder Prevention Program for Athletes</description>
+          </group>
+          <group group_id="O2">
+            <title>Brochure Wait List</title>
+            <description>Brochure wait list control group&#xD;
+Brochure: Brochure on the Female athlete triad</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Secondary Outcomes - BMI</title>
+          <description>Body Mass Index (BMI) (self-reported) is a measure of kg/m^2.</description>
+          <units>kg/m^2</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="263"/>
+                <count group_id="O2" value="218"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="25.09" spread="1.12"/>
+                    <measurement group_id="O2" value="24.22" spread=".90"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Adverse event data was collected over a period of 18 months.</time_frame>
+      <desc>Because this study involved the evaluation of an athlete prevention program via assessment measures, with oversight by the school athletic department, minimal risk was anticipated in this remote study. Adverse events related to the study (questionnaires) were monitored. Participants were also monitored by the school athletic department based on their previously established protocols.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Healthy Weight Intervention</title>
+          <description>Eating Disorder Prevention Program&#xD;
+Healthy Weight: Eating Disorder Prevention Program for Athletes</description>
+        </group>
+        <group group_id="E2">
+          <title>Brochure Wait List</title>
+          <description>Brochure wait list control group&#xD;
+Brochure: Brochure on the Female athlete triad</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="263"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="218"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="263"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="218"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="263"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="218"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>The cluster randomized control trial design by team reduced statistical power. We could not control for team-based variability. Selective attrition may have occurred by the intervention of school athletic medical staff.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Dr. Tiffany Stewart, Director, Behavior Technology Laboratory</name_or_title>
+      <organization>Pennington Biomedical Research Center</organization>
+      <phone>2257632554</phone>
+      <email>tiffany.stewart@pbrc.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

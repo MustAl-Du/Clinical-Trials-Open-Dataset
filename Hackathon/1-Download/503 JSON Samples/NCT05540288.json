@@ -1,0 +1,566 @@
+{
+  "FullStudy":{
+    "Rank":481,
+    "Study":{
+      "ProtocolSection":{
+        "IdentificationModule":{
+          "NCTId":"NCT05540288",
+          "OrgStudyIdInfo":{
+            "OrgStudyId":"RC21_0336"
+          },
+          "Organization":{
+            "OrgFullName":"Nantes University Hospital",
+            "OrgClass":"OTHER"
+          },
+          "BriefTitle":"NAlmefene Versus Placebo in Addition to Treatment as Usual on Craving in Behavioural Addictions",
+          "OfficialTitle":"NAlmefene Versus Placebo in Addition to Treatment as Usual on Craving in Behavioural Addictions",
+          "Acronym":"NABAb"
+        },
+        "StatusModule":{
+          "StatusVerifiedDate":"September 2022",
+          "OverallStatus":"Not yet recruiting",
+          "ExpandedAccessInfo":{
+            "HasExpandedAccess":"No"
+          },
+          "StartDateStruct":{
+            "StartDate":"November 2022",
+            "StartDateType":"Anticipated"
+          },
+          "PrimaryCompletionDateStruct":{
+            "PrimaryCompletionDate":"February 2025",
+            "PrimaryCompletionDateType":"Anticipated"
+          },
+          "CompletionDateStruct":{
+            "CompletionDate":"February 2025",
+            "CompletionDateType":"Anticipated"
+          },
+          "StudyFirstSubmitDate":"September 6, 2022",
+          "StudyFirstSubmitQCDate":"September 9, 2022",
+          "StudyFirstPostDateStruct":{
+            "StudyFirstPostDate":"September 14, 2022",
+            "StudyFirstPostDateType":"Actual"
+          },
+          "LastUpdateSubmitDate":"September 9, 2022",
+          "LastUpdatePostDateStruct":{
+            "LastUpdatePostDate":"September 14, 2022",
+            "LastUpdatePostDateType":"Actual"
+          }
+        },
+        "SponsorCollaboratorsModule":{
+          "ResponsibleParty":{
+            "ResponsiblePartyType":"Sponsor"
+          },
+          "LeadSponsor":{
+            "LeadSponsorName":"Nantes University Hospital",
+            "LeadSponsorClass":"OTHER"
+          }
+        },
+        "OversightModule":{
+          "OversightHasDMC":"Yes",
+          "IsFDARegulatedDrug":"No",
+          "IsFDARegulatedDevice":"No"
+        },
+        "DescriptionModule":{
+          "BriefSummary":"Behavioural addictions (BAs) [gambling disorder (GD), food addiction (FA), sexual addiction (SA)] may lead to disastrous consequences. They are often associated with other addictive or psychiatric disorders, and high rates of suicide attempts. Epidemiological studies report prevalence reaching 2.7% for GD, 5% for SA, and up to 7.9% for FA.\n\nMany similarities have been highlighted between BAs, as well as with substance use disorders. One core clinical similarity between those disorders is craving (uncontrollable urge to engage in rewarding behaviours), which has been consistently associated with diminished control over the behaviour and relapse.\n\nAt present, no pharmacological treatment has been approved for BAs, but several medications have been tested. Among them, two opioid receptor antagonists - naltrexone and nalmefene - appear the most promising. By decreasing dopamine neurotransmission in the reward circuitry, they reduce both excitement for rewarding behaviours and craving.\n\nCompared to naltrexone, nalmefene seems to have a better safety. To date, no study investigated the efficacy of nalmefene as a pan-addiction treatment for BAs. Two clinical trials have demonstrated its efficacy for the treatment of GD, but no clinical trial was conducted for FA and SA.\n\nThe investigators hypothesise that nalmefene (36 mg/d), compared to a placebo, can have a therapeutic effect as an add-on to usual treatment for decreasing craving in several BAs."
+        },
+        "ConditionsModule":{
+          "ConditionList":{
+            "Condition":[
+              "Behavioural Addiction"
+            ]
+          },
+          "KeywordList":{
+            "Keyword":[
+              "Nalmefene",
+              "Craving",
+              "Behavioural addiction",
+              "Gambling disorder",
+              "Food addiction",
+              "Sexual addiction"
+            ]
+          }
+        },
+        "DesignModule":{
+          "StudyType":"Interventional",
+          "PhaseList":{
+            "Phase":[
+              "Phase 3"
+            ]
+          },
+          "DesignInfo":{
+            "DesignAllocation":"Randomized",
+            "DesignInterventionModel":"Parallel Assignment",
+            "DesignPrimaryPurpose":"Treatment",
+            "DesignMaskingInfo":{
+              "DesignMasking":"Quadruple",
+              "DesignWhoMaskedList":{
+                "DesignWhoMasked":[
+                  "Participant",
+                  "Care Provider",
+                  "Investigator",
+                  "Outcomes Assessor"
+                ]
+              }
+            }
+          },
+          "EnrollmentInfo":{
+            "EnrollmentCount":"266",
+            "EnrollmentType":"Anticipated"
+          }
+        },
+        "ArmsInterventionsModule":{
+          "ArmGroupList":{
+            "ArmGroup":[
+              {
+                "ArmGroupLabel":"Nalmefene",
+                "ArmGroupType":"Experimental",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Drug: Nalmefene"
+                  ]
+                }
+              },{
+                "ArmGroupLabel":"Placebo",
+                "ArmGroupType":"Placebo Comparator",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Drug: Placebo"
+                  ]
+                }
+              }
+            ]
+          },
+          "InterventionList":{
+            "Intervention":[
+              {
+                "InterventionType":"Drug",
+                "InterventionName":"Nalmefene",
+                "InterventionDescription":"Week 1: 18 mg/d\n\nWeek 2:\n\nIn the absence of ARs or in the presence of grade 1 or 2 ARs, 36 mg/d\nIn the presence of grade 3 ARs, 18 mg/d\nIn the presence of grade 4 ARs, treatment will be stopped immediately.\n\nWeek 3 to week 5:\n\nIn case of acceptable safety profile at the 18mg/d dosage during week 2, the treatment will be maintained at the same dosage\nIn the presence of sustained grade 3 ARs at the 18mg/d dosage during week 2, the treatment will be stopped.\nIn case of acceptable safety profile at the 36mg/d dosage during week 2, the treatment will be maintained at the same dosage\nIn the presence of grade 3 ARs at the 36mg/d dosage during week 2, the treatment dosage will be decreased at 18mg/d\nWhatever the dosage during week 2, in the presence of grade 4 ARs, the treatment will be stopped immediately.",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Nalmefene"
+                  ]
+                }
+              },{
+                "InterventionType":"Drug",
+                "InterventionName":"Placebo",
+                "InterventionDescription":"Week 1: 1 tablet/d\n\nWeek 2:\n\nIn the absence of ARs or in the presence of grade 1 or 2 ARs, 2 tablets/d\nIn the presence of grade 3 ARs, 1 tablet/d\nIn the presence of grade 4 ARs, the treatment will be stopped immediately.\n\nWeek 3 to week 5:\n\nIn case of acceptable safety profile at the dosage of 1 tablet/d during week 2, the treatment will be maintained at the same dosage\nIn the presence of sustained grade 3 ARs at the dosage of 1 tablet/d during week 2, the treatment will be stopped.\nIn case of acceptable safety profile at the dosage of 2 tablets/d during week 2, the treatment will be maintained at the same dosage\nIn the presence of grade 3 ARs at the dosage of 2 tablets/d during week 2, the treatment dosage will be decreased at 1 tablet/d\nWhatever the dosage during week 2, in the presence of grade 4 ARs, the treatment will be stopped immediately.",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Placebo"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "OutcomesModule":{
+          "PrimaryOutcomeList":{
+            "PrimaryOutcome":[
+              {
+                "PrimaryOutcomeMeasure":"Variation of averaged intensity of craving episodes between start and end of treatment.",
+                "PrimaryOutcomeDescription":"Variation of averaged intensity of craving episodes between start (during the week preceding initiation of treatment) and end (during the week preceding end of treatment) of treatment. Each craving episode will be reported by the patient on a weekly diary, with intensity assessed through a Numerical Rating Scale (NRS) form 0 to 10 (0=lowest intensity and 10= highest intensity).",
+                "PrimaryOutcomeTimeFrame":"5 weeks"
+              }
+            ]
+          },
+          "SecondaryOutcomeList":{
+            "SecondaryOutcome":[
+              {
+                "SecondaryOutcomeMeasure":"Variation of averaged weekly frequency (number of episodes) of craving episodes between start and end of treatment.",
+                "SecondaryOutcomeTimeFrame":"5 weeks"
+              },{
+                "SecondaryOutcomeMeasure":"Variation of averaged weekly duration (cumulative duration of all episodes) of craving episodes between start and end of treatment.",
+                "SecondaryOutcomeTimeFrame":"5 weeks"
+              },{
+                "SecondaryOutcomeMeasure":"Variation of averaged weekly intensity, frequency and duration of craving episodes between start of treatment and 4 weeks after the end of treatment.",
+                "SecondaryOutcomeTimeFrame":"9 weeks (5 weeks of treatment +4 weeks of follow up after treatment)"
+              },{
+                "SecondaryOutcomeMeasure":"Variation of averaged weekly frequency of the BA episodes: (i) between start and end of treatment and (ii) between start of treatment and 4 weeks after the end of treatment.",
+                "SecondaryOutcomeTimeFrame":"9 weeks"
+              },{
+                "SecondaryOutcomeMeasure":"Variation of averaged weekly duration of the BA episodes: (i) between start and end of treatment and (ii) between start of treatment and 4 weeks after the end of treatment.",
+                "SecondaryOutcomeTimeFrame":"9 weeks"
+              },{
+                "SecondaryOutcomeMeasure":"Variation of averaged weekly intensity of the BA episodes: (i) between start and end of treatment and (ii) between start of treatment and 4 weeks after the end of treatment.",
+                "SecondaryOutcomeDescription":"Assessed through a Numerical Rating Scale (NRS) form 0 (lowest intensity) to 10 (highest intensity)",
+                "SecondaryOutcomeTimeFrame":"9 weeks"
+              },{
+                "SecondaryOutcomeMeasure":"Overall clinical improvement, assessed though the Clinical Global Impression - Improvement (CGI-I) scale.",
+                "SecondaryOutcomeTimeFrame":"9 weeks"
+              },{
+                "SecondaryOutcomeMeasure":"Overall clinical improvement, assessed though the GGI - Efficacy Index (CGI-EI).",
+                "SecondaryOutcomeTimeFrame":"9 weeks"
+              },{
+                "SecondaryOutcomeMeasure":"Variation of averaged weekly use of psychoactive substances (including nicotine) and daily life behaviors of interest (gambling, sex, food) between start of treatment and 4 weeks after the end of treatment",
+                "SecondaryOutcomeTimeFrame":"9 weeks"
+              },{
+                "SecondaryOutcomeMeasure":"Number, type and severity of self-reported adverse side effects, during either weeks of treatment at a dosage of 18 mg/d or 36 mg/d.",
+                "SecondaryOutcomeTimeFrame":"9 weeks"
+              },{
+                "SecondaryOutcomeMeasure":"Mutation(s) associated with non-response to nalmefene treatment",
+                "SecondaryOutcomeTimeFrame":"9 weeks"
+              },{
+                "SecondaryOutcomeMeasure":"Sociodemographic, medical and clinical data, especially psychiatric and addictive co-morbidities assessed with the Mini International Neuropsychiatric Interview - Simplified (MINI-S) and the age of the BA",
+                "SecondaryOutcomeTimeFrame":"1 week"
+              }
+            ]
+          }
+        },
+        "EligibilityModule":{
+          "EligibilityCriteria":"Pre-inclusion Criteria:\n\nMales and females ≥ 18 years old\n\nPatient already in care or newly initiating care in Addictology departments for a beharioural addiction, diagnosed with current:\n\nGambling disorder [NORC DSM Screen for Gambling Problems (NODS), revised for DSM-5]\nFood addiction [Yale Food Addiction Scale (YFAS), revised for DSM-5]\nOr Sexual addiction [interview adapted from the NODS to explore the diagnostic criteria proposed by Carnes et al. (2012): NODS-SA]\nAble to regularly assess and report their craving episodes on a weekly diary\nWho provide their written informed consent\nAffiliated with French social security system or beneficiary from such system\n\nInclusion Criteria:\n\nHaving presented at least one episode of craving with an intensity ≥ 4/10 at the NRS during the week prior to inclusion\n\nWomen must meet one of the following criteria at the time of inclusion:\n\nuse adequate contraceptive measures as recommended by the CTFG (Recommendations related to contraception and pregnancy testing in clinical trials v1.1), and have a negative pregnancy test (urine test) prior to receiving the first dose of study drug;\nor be post-menopausal (over 50 years of age with amenorrhea for at least 12 months after discontinuation of all exogenous hormonal therapy)\nor (if under 50 years of age) have been amenorrheic for at least 12 months after discontinuation of exogenous hormonal therapy and with luteinizing hormone (LH) and follicle stimulating hormone (FSH) levels corresponding to post-menopausal levels\nor have undergone irreversible surgical sterilization by hysterectomy, bilateral oophorectomy or bilateral salpingectomy (this operation must be documented).\n\nExclusion Criteria:\n\nBeing currently treated by another anti-craving drug that have been already tested for craving reduction in BAs (naltrexone, acamprosate, baclofène, topiramate, bupropion, N-acetyl-cystéine, disulfiram, etc.);\n\nPresenting a contraindication for the use of nalmefene (listed in the SmPC):\n\nKnown hypersensitivity to the active substance or to any of the excipients. In particular, intolerance to galactose or deficiency in Lapp lactase or glucose-galactose malabsorption (rare hereditary diseases);\nTreatment by opioid agonists (full or partial) (opioid pain relievers, opioid substitution drugs);\nRecent history of opioid dependence or current opioid dependence;\nCurrent symptoms of the acute opioid withdrawal syndrome;\nSuspected recent consumption of opioid (necessity to consider the half-life);\nSevere hepatic impairment (Child-Pugh stage B or C);\nSevere renal impairment (estimated glomerular filtration rate [TFGe] <30 mL/min/1.73 m2);\nHistory of recent acute alcohol withdrawal syndrome (including hallucinations, convulsions and delirium tremens).\nPredictable opioid treatment during the study period;\nUnstable psychiatric disorders (meaning disorders for which the treatment was modified since less than a month (corresponding to the instauration of a new treatment, or the increase in dosage of a treatment already being taken)), including severe risk of suicide (i.e. necessity to engage specific medication or hospitalization; psychotropic medication engaged since less than 1 month; absence of improvement after one month of medication) (because nalmefene has not been studied in patients with unstable psychiatric disorders);\nAnorexia nervosa-restricting type (because food addiction concept is poorly established among patients with AN-R, who do not have binge eating episodes induced by craving);\nExtreme leanness (body mass index < 16.5) (because loss of appetite and/or weight loss are frequent adverse effects of nalmefene);\nCurrent treatment with potent inhibitor drugs of the UGT2B7 (UDP-Glucuronosyltransferase-2B7); for example: diclofenac, fluconazole, medroxyprogesterone acetate, meclofenamic acid;\nCurrent treatment with UGT inducing drugs; for example: dexamethasone, phenobarbital, rifampicin, omeprazole;\nInability to indicate the time of day of the most intense craving episode (because this information will determine the time of day the treatment should be taken);\nPregnancy (attested by a pregnancy urinary test for women of childbearing age) or breastfeeding woman;\nPatient refusing contraceptive measures;\nTrusteeship;\nMajor cognitive impairment;\nNot fluent in French;\nParticipation to another interventional study during the last month or expected participation to another interventional study during participation to the NABAB study.",
+          "HealthyVolunteers":"No",
+          "Gender":"All",
+          "MinimumAge":"18 Years",
+          "StdAgeList":{
+            "StdAge":[
+              "Adult",
+              "Older Adult"
+            ]
+          }
+        },
+        "ContactsLocationsModule":{
+          "CentralContactList":{
+            "CentralContact":[
+              {
+                "CentralContactName":"Marie GRALL-BRONNEC",
+                "CentralContactRole":"Contact",
+                "CentralContactPhone":"+33240847620",
+                "CentralContactEMail":"marie.bronnec@chu-nantes.fr"
+              }
+            ]
+          },
+          "OverallOfficialList":{
+            "OverallOfficial":[
+              {
+                "OverallOfficialName":"Marie GRALL-BRONNEC",
+                "OverallOfficialAffiliation":"CHU de Nantes",
+                "OverallOfficialRole":"Principal Investigator"
+              }
+            ]
+          },
+          "LocationList":{
+            "Location":[
+              {
+                "LocationFacility":"CHU de Bordeaux",
+                "LocationCity":"Bordeaux",
+                "LocationZip":"33000",
+                "LocationCountry":"France",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactName":"Mélina FATSEAS-LOPEZ",
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"melina.fatseas@chu-bordeaux.fr"
+                    },{
+                      "LocationContactName":"Mélina FATSEAS-LOPEZ",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"CHRU de Brest",
+                "LocationCity":"Brest",
+                "LocationZip":"29200",
+                "LocationCountry":"France",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactName":"Morgane GUILLOU-LANDREAT",
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"morgane.guillou@chu-brest.fr"
+                    },{
+                      "LocationContactName":"Morgane GUILLOU-LANDREAT",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"CHU de Clermont Ferrand",
+                "LocationCity":"Clermont-Ferrand",
+                "LocationZip":"63000",
+                "LocationCountry":"France",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactName":"Georges BROUSSE",
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"gbrousse@chu-clermontferrand.fr"
+                    },{
+                      "LocationContactName":"Georges BROUSSE",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"CH de La Rochelle",
+                "LocationCity":"La Rochelle",
+                "LocationZip":"17000",
+                "LocationCountry":"France",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactName":"Patrick BENDIMERAD",
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"patrick.bendimerad@ght-atlantique17.fr"
+                    },{
+                      "LocationContactName":"Patrick BENDIMERAD",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"CHRU de Lille",
+                "LocationCity":"Lille",
+                "LocationZip":"59000",
+                "LocationCountry":"France",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactName":"Abdalla MOSSAD",
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"abdalla.mossad@chru-lille.fr"
+                    },{
+                      "LocationContactName":"Abdalla MOSSAD",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Hospices Civils de Lyon",
+                "LocationCity":"Lyon",
+                "LocationZip":"69000",
+                "LocationCountry":"France",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactName":"Véronique FONTEILLE",
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"veronique.fonteille@chu-lyon.fr"
+                    },{
+                      "LocationContactName":"Véronique FONTEILLE",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"CHU de Nantes",
+                "LocationCity":"Nantes",
+                "LocationCountry":"France",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactName":"Marie GRALL-BRONNEC",
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"marie.bronnec@chu-nantes.fr"
+                    },{
+                      "LocationContactName":"Marie GRALL-BRONNEC",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"CHU de Nîmes",
+                "LocationCity":"Nîmes",
+                "LocationZip":"30000",
+                "LocationCountry":"France",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactName":"Amandine LUQUIENS",
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"amandineluquiens@gmail.com"
+                    },{
+                      "LocationContactName":"Amandine LUQUIENS",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Hôpitaux Universitaires de Strasbourg",
+                "LocationCity":"Strasbourg",
+                "LocationZip":"67000",
+                "LocationCountry":"France",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactName":"Louis-Marie D'USSEL",
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"louis-marie.dussel@chru-strasbourg.fr"
+                    },{
+                      "LocationContactName":"Louis-Marie D'USSEL",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"CHRU de Tours",
+                "LocationCity":"Tours",
+                "LocationZip":"37000",
+                "LocationCountry":"France",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactName":"Paul BRUNAULT",
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"paul.brunault@univ-tours.fr"
+                    },{
+                      "LocationContactName":"Paul BRUNAULT",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Hôpital Paul Brousse",
+                "LocationCity":"Villejuif",
+                "LocationZip":"94800",
+                "LocationCountry":"France",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactName":"Amine BENYAMINA",
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"amine.benyamina@aphp.fr"
+                    },{
+                      "LocationContactName":"Amine BENYAMINA",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "IPDSharingStatementModule":{
+          "IPDSharing":"Undecided"
+        }
+      },
+      "DerivedSection":{
+        "MiscInfoModule":{
+          "VersionHolder":"September 19, 2022"
+        },
+        "ConditionBrowseModule":{
+          "ConditionMeshList":{
+            "ConditionMesh":[
+              {
+                "ConditionMeshId":"D000016739",
+                "ConditionMeshTerm":"Behavior, Addictive"
+              }
+            ]
+          },
+          "ConditionAncestorList":{
+            "ConditionAncestor":[
+              {
+                "ConditionAncestorId":"D000003192",
+                "ConditionAncestorTerm":"Compulsive Behavior"
+              },{
+                "ConditionAncestorId":"D000007175",
+                "ConditionAncestorTerm":"Impulsive Behavior"
+              }
+            ]
+          },
+          "ConditionBrowseLeafList":{
+            "ConditionBrowseLeaf":[
+              {
+                "ConditionBrowseLeafId":"M18252",
+                "ConditionBrowseLeafName":"Behavior, Addictive",
+                "ConditionBrowseLeafAsFound":"Addiction",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M7984",
+                "ConditionBrowseLeafName":"Gambling",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M1260",
+                "ConditionBrowseLeafName":"Food Addiction",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M5570",
+                "ConditionBrowseLeafName":"Compulsive Behavior",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M9372",
+                "ConditionBrowseLeafName":"Impulsive Behavior",
+                "ConditionBrowseLeafRelevance":"low"
+              }
+            ]
+          },
+          "ConditionBrowseBranchList":{
+            "ConditionBrowseBranch":[
+              {
+                "ConditionBrowseBranchAbbrev":"BXM",
+                "ConditionBrowseBranchName":"Behaviors and Mental Disorders"
+              },{
+                "ConditionBrowseBranchAbbrev":"All",
+                "ConditionBrowseBranchName":"All Conditions"
+              }
+            ]
+          }
+        },
+        "InterventionBrowseModule":{
+          "InterventionMeshList":{
+            "InterventionMesh":[
+              {
+                "InterventionMeshId":"C000038981",
+                "InterventionMeshTerm":"Nalmefene"
+              }
+            ]
+          },
+          "InterventionAncestorList":{
+            "InterventionAncestor":[
+              {
+                "InterventionAncestorId":"D000009292",
+                "InterventionAncestorTerm":"Narcotic Antagonists"
+              },{
+                "InterventionAncestorId":"D000045505",
+                "InterventionAncestorTerm":"Physiological Effects of Drugs"
+              },{
+                "InterventionAncestorId":"D000018689",
+                "InterventionAncestorTerm":"Sensory System Agents"
+              },{
+                "InterventionAncestorId":"D000018373",
+                "InterventionAncestorTerm":"Peripheral Nervous System Agents"
+              }
+            ]
+          },
+          "InterventionBrowseLeafList":{
+            "InterventionBrowseLeaf":[
+              {
+                "InterventionBrowseLeafId":"M246152",
+                "InterventionBrowseLeafName":"Nalmefene",
+                "InterventionBrowseLeafAsFound":"Work in",
+                "InterventionBrowseLeafRelevance":"high"
+              },{
+                "InterventionBrowseLeafId":"M11397",
+                "InterventionBrowseLeafName":"Narcotics",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M11395",
+                "InterventionBrowseLeafName":"Narcotic Antagonists",
+                "InterventionBrowseLeafRelevance":"low"
+              }
+            ]
+          },
+          "InterventionBrowseBranchList":{
+            "InterventionBrowseBranch":[
+              {
+                "InterventionBrowseBranchAbbrev":"NarcAntag",
+                "InterventionBrowseBranchName":"Narcotic Antagonists"
+              },{
+                "InterventionBrowseBranchAbbrev":"All",
+                "InterventionBrowseBranchName":"All Drugs and Chemicals"
+              },{
+                "InterventionBrowseBranchAbbrev":"Analg",
+                "InterventionBrowseBranchName":"Analgesics"
+              },{
+                "InterventionBrowseBranchAbbrev":"CNSDep",
+                "InterventionBrowseBranchName":"Central Nervous System Depressants"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+

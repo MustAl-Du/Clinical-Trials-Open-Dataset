@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2220">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01415440</url>
+  </required_header>
+  <id_info>
+    <org_study_id>6235/7261R</org_study_id>
+    <nct_id>NCT01415440</nct_id>
+  </id_info>
+  <brief_title>Imaging the Effects of Stimulant Medication on Emotional Lability in Patients With ADHD</brief_title>
+  <official_title>Examining the Effects of Stimulant Medication on Emotional Lability in Patients With Attention Deficit Hyperactivity Disorder (ADHD)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>New York State Psychiatric Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Shire</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>New York State Psychiatric Institute</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of this study is to examine the mechanisms by which stimulant medications reduce&#xD;
+      symptoms in patients with Attention Deficit Hyperactivity Disorder (ADHD). Using Magnetic&#xD;
+      Resonance Imaging (MRI), the investigators have found that the volumes of certain brain&#xD;
+      regions are reduced in patients with ADHD. The reduced volumes were much less pronounced if&#xD;
+      patients had been treated with stimulant medications, suggesting that stimulants may reduce&#xD;
+      the symptoms of ADHD by reversing these volume reductions. In a second and related study, the&#xD;
+      investigators found that in patients with ADHD, emotional processing was normalized when&#xD;
+      patients were taking stimulant medications. Both studies point to possible mechanisms by&#xD;
+      which stimulants are effective; however, a significant limitation of these findings is that&#xD;
+      they were derived from cross-sectional studies.&#xD;
+&#xD;
+      In this current study, the investigators hope to replicate these treatment effects of&#xD;
+      stimulants in a prospective, controlled manner. The investigators plan to measure ADHD&#xD;
+      symptom severity in patients before and after 12-weeks of controlled treatment with either a&#xD;
+      stimulant medication or placebo while utilizing structural and functional MRI. Combining&#xD;
+      imaging with a randomized controlled trial will allow us to better assess the effects of&#xD;
+      stimulants on brain function and structure.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A cohort of 100 patients with ADHD will be recruited for a 12 week, double-blind, parallel,&#xD;
+      randomized controlled trial of Lisdexamfetamine (Vyvanse) versus placebo, with 50 patients&#xD;
+      randomized to Lisdexamfetamine and the other 50 patients to placebo. The investigators will&#xD;
+      acquire high-resolution, anatomical and functional MRI images at baseline and after 12 weeks&#xD;
+      of treatment.&#xD;
+&#xD;
+      In addition, 75 age- and sex-matched healthy control subjects will be imaged at baseline.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">August 2011</start_date>
+  <completion_date type="Actual">June 2018</completion_date>
+  <primary_completion_date type="Actual">June 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Two treatment arms plus sample of healthy controls, who were assessed at one time point</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Brain Structure Volume</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Brain structure volume measured in mm^3</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">117</enrollment>
+  <condition>Attention Deficit Hyperactivity Disorder</condition>
+  <arm_group>
+    <arm_group_label>Psychostimulant</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>30-70 mg capsule of Lisdexamfetamine once daily for 12 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>30-70 mg capsule of placebo (sugar pill) once daily for 12 weeks</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lisdexamfetamine</intervention_name>
+    <description>During the first 4 weeks of treatment, the dosage of Lisdexamfetamine will be adjusted based on the patient's response to the medication. The patient will then be maintained at the lowest effective dose for the remaining 8 weeks of treatment.</description>
+    <arm_group_label>Psychostimulant</arm_group_label>
+    <other_name>Vyvanse</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo dosing will parallel that of Lisdexamfetamine.</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <other_name>Sugar pill</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        ADHD Participants: Meets Diagnostic and Statistical Manual of Mental Disorders, 4th&#xD;
+        Edition, Text Revision (DSM-IV-TR) criteria for a primary diagnosis of ADHD, any subtype.&#xD;
+&#xD;
+        Healthy Control Participants: No current DSM-IV-TR Axis I psychiatric diagnosis.&#xD;
+&#xD;
+        All Participants:&#xD;
+&#xD;
+          1. Male or female, 6 - 25 years of age, and in good physical health&#xD;
+&#xD;
+          2. English-speaking&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Current comorbid DSM-IV-TR Axis I psychiatric diagnosis or other symptomatic&#xD;
+             manifestations that, in the opinion of the examining physician, will contraindicate&#xD;
+             Lisdexamfetamine treatment or confound safety assessments&#xD;
+&#xD;
+          2. Meets DSM-IV-TR criteria for active substance abuse and/or dependence&#xD;
+&#xD;
+          3. Lifetime history of cocaine or stimulant abuse or dependence&#xD;
+&#xD;
+          4. Actively suicidal&#xD;
+&#xD;
+          5. Children and adolescents: Prior treatment with psychostimulants for longer than 1&#xD;
+             month duration and/or treatment with psychostimulants within the past 4 months Adults:&#xD;
+             Treatment with psychostimulants within the past 12 months.&#xD;
+&#xD;
+          6. Documented allergy or intolerance to Lisdexamfetamine or other stimulant medications.&#xD;
+&#xD;
+          7. Taking other medications with central nervous system effects.&#xD;
+&#xD;
+          8. History of seizure (other than febrile seizure)&#xD;
+&#xD;
+          9. Diagnosis of hyperthyroidism, glaucoma, or other serious medical illness.&#xD;
+&#xD;
+         10. Personal or family history of medical conditions, such as cardiovascular disease, that&#xD;
+             may interfere with study participation, or for which treatment with Lisdexamfetamine&#xD;
+             may pose a risk&#xD;
+&#xD;
+         11. Pregnant or lactating&#xD;
+&#xD;
+         12. MRI contraindications such as pacemaker, braces, etc.&#xD;
+&#xD;
+         13. Full scale intelligence quotient (FSIQ) less than 70&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>6 Years</minimum_age>
+    <maximum_age>25 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jonathan Posner, M.D</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>NYSPI</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>New York State Psychiatric Institute</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>July 2022</verification_date>
+  <study_first_submitted>July 26, 2011</study_first_submitted>
+  <study_first_submitted_qc>August 11, 2011</study_first_submitted_qc>
+  <study_first_posted type="Estimate">August 12, 2011</study_first_posted>
+  <results_first_submitted>July 5, 2019</results_first_submitted>
+  <results_first_submitted_qc>August 19, 2019</results_first_submitted_qc>
+  <results_first_posted type="Actual">September 11, 2019</results_first_posted>
+  <last_update_submitted>July 29, 2022</last_update_submitted>
+  <last_update_submitted_qc>July 29, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 2, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>New York State Psychiatric Institute</investigator_affiliation>
+    <investigator_full_name>Jonathan Posner</investigator_full_name>
+    <investigator_title>Psychiatrist</investigator_title>
+  </responsible_party>
+  <keyword>ADHD</keyword>
+  <keyword>Vyvanse</keyword>
+  <keyword>stimulant medication</keyword>
+  <keyword>ADD</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hyperkinesis</mesh_term>
+    <mesh_term>Attention Deficit Disorder with Hyperactivity</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lisdexamfetamine Dimesylate</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>August 19, 2019</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/40/NCT01415440/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Recruitment started in 2011 and ended in 2018. Participants were primarily recruited from the community through advertisements in local newspapers and flyers posted in local establishments. Participants were also recruited from other research studies and doctor's offices.</recruitment_details>
+      <pre_assignment_details>18 ADHD participants withdrew or were excluded from the study prior to randomization and thus are not included. Participants who withdrew were no longer interested in treatment or were lost to follow-up. Participants were excluded due to subthreshold ADHD symptoms, comorbid psychiatric conditions, &amp; MRI contraindications.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Healthy Control</title>
+          <description>Baseline evaluation only</description>
+        </group>
+        <group group_id="P2">
+          <title>ADHD - Placebo</title>
+          <description>ADHD participants randomized to receive placebo for 12 weeks of treatment</description>
+        </group>
+        <group group_id="P3">
+          <title>ADHD - Vyvanse</title>
+          <description>ADHD participants randomized to receive 12 weeks of medication treatment with Vyvanse</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="41"/>
+                <participants group_id="P2" count="29"/>
+                <participants group_id="P3" count="29"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="37"/>
+                <participants group_id="P2" count="28"/>
+                <participants group_id="P3" count="27"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+                <participants group_id="P2" count="1"/>
+                <participants group_id="P3" count="2"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+                <participants group_id="P3" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Physician Decision</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Analysis population includes participants who completed the study.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Healthy Control</title>
+          <description>Baseline evaluation only</description>
+        </group>
+        <group group_id="B2">
+          <title>ADHD - Placebo</title>
+          <description>ADHD participants randomized to receive placebo for 12 weeks of treatment</description>
+        </group>
+        <group group_id="B3">
+          <title>ADHD - Vyvanse</title>
+          <description>ADHD participants randomized to receive 12 weeks of medication treatment with Vyvanse</description>
+        </group>
+        <group group_id="B4">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="37"/>
+            <count group_id="B2" value="28"/>
+            <count group_id="B3" value="27"/>
+            <count group_id="B4" value="92"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <population>Analysis population includes participants who completed the study.</population>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16.54" spread="6.03"/>
+                    <measurement group_id="B2" value="11.93" spread="5.72"/>
+                    <measurement group_id="B3" value="12.85" spread="5.68"/>
+                    <measurement group_id="B4" value="14.16" spread="6.15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="9"/>
+                    <measurement group_id="B4" value="33"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="22"/>
+                    <measurement group_id="B2" value="19"/>
+                    <measurement group_id="B3" value="18"/>
+                    <measurement group_id="B4" value="59"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Race/Ethnicity</title>
+              <category_list>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="21"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="9"/>
+                    <measurement group_id="B4" value="36"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="11"/>
+                    <measurement group_id="B3" value="4"/>
+                    <measurement group_id="B4" value="21"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Hispanic</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="10"/>
+                    <measurement group_id="B4" value="24"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian or Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="2"/>
+                    <measurement group_id="B4" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>American Indian/Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Other or Unknown</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="2"/>
+                    <measurement group_id="B4" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Brain Structure Volume</title>
+          <population>Analysis population includes participants who completed the study.</population>
+          <units>mm^3</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <title>Left Hippocampal Volume</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4182.87" spread="418.83"/>
+                    <measurement group_id="B2" value="3933.96" spread="433.45"/>
+                    <measurement group_id="B3" value="4121.96" spread="392.76"/>
+                    <measurement group_id="B4" value="4090.25" spread="424.92"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Left Amygdala Volume</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1504.81" spread="217.54"/>
+                    <measurement group_id="B2" value="1423.08" spread="199.23"/>
+                    <measurement group_id="B3" value="1489.02" spread="235.93"/>
+                    <measurement group_id="B4" value="1475.62" spread="218.31"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Right Hippocampal Volume</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4288.01" spread="358.26"/>
+                    <measurement group_id="B2" value="4011.48" spread="413.65"/>
+                    <measurement group_id="B3" value="4185.40" spread="379.97"/>
+                    <measurement group_id="B4" value="4174.96" spread="395.07"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Right Amygdala Volume</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1695.09" spread="187.81"/>
+                    <measurement group_id="B2" value="1577.34" spread="204.15"/>
+                    <measurement group_id="B3" value="1665.87" spread="234.17"/>
+                    <measurement group_id="B4" value="1651.16" spread="210.79"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Brain Structure Volume</title>
+        <description>Brain structure volume measured in mm^3</description>
+        <time_frame>12 weeks</time_frame>
+        <population>ADHD participants who completed 12 weeks of treatment.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>ADHD - Placebo</title>
+            <description>ADHD participants randomized to receive placebo for 12 weeks of treatment</description>
+          </group>
+          <group group_id="O2">
+            <title>ADHD - Vyvanse</title>
+            <description>ADHD participants randomized to receive 12 weeks of medication treatment with Vyvanse</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Brain Structure Volume</title>
+          <description>Brain structure volume measured in mm^3</description>
+          <population>ADHD participants who completed 12 weeks of treatment.</population>
+          <units>mm^3</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="27"/>
+                <count group_id="O2" value="28"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Left Hippocampal Volume</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3909.85" spread="535.35"/>
+                    <measurement group_id="O2" value="4069.72" spread="426.46"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Left Amygdala Volume</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1431.31" spread="245.40"/>
+                    <measurement group_id="O2" value="1485.05" spread="235.17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Right Hippocampal Volume</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4048.10" spread="454.37"/>
+                    <measurement group_id="O2" value="4206.41" spread="413.38"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Right Amygdala Volume</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1573.57" spread="240.03"/>
+                    <measurement group_id="O2" value="1641.88" spread="207.45"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Adverse event data were collected through study completion, an average of 12 weeks.</time_frame>
+      <desc>Adverse events were routinely collected from ADHD participants receiving treatment using the Pittsburgh Side Effects Rating Scale. A physician met with participants in person approximately once per week during treatment. The physician was also available by phone between visits.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Healthy Control</title>
+          <description>Baseline evaluation only</description>
+        </group>
+        <group group_id="E2">
+          <title>ADHD - Placebo</title>
+          <description>ADHD participants randomized to receive placebo for 12 weeks of treatment</description>
+        </group>
+        <group group_id="E3">
+          <title>ADHD - Vyvanse</title>
+          <description>ADHD participants randomized to receive 12 weeks of medication treatment with Vyvanse</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="41"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="29"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="29"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="41"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="29"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="29"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="41"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="29"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="29"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Jonathan Posner, MD</name_or_title>
+      <organization>NYSPI</organization>
+      <phone>6467745735</phone>
+      <email>jonathan.posner@nyspi.columbia.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

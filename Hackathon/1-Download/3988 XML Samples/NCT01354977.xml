@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2222">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01354977</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2007-534</org_study_id>
+    <nct_id>NCT01354977</nct_id>
+  </id_info>
+  <brief_title>Effect of Resveratrol on Age-related Insulin Resistance and Inflammation in Humans</brief_title>
+  <official_title>Effect of Resveratrol on Age-related Insulin Resistance and Inflammation in Humans</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Albert Einstein College of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Albert Einstein College of Medicine</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Resveratrol is a natural polyphenol (a compound containing a phenol functional group) that&#xD;
+      can be found in many plants. The purpose of this research is to study the effects of&#xD;
+      resveratrol on the action of insulin (a hormone produced in the body by the pancreas that&#xD;
+      regulates the amount of sugar in the blood), fat accumulation, and inflammation in the body.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Participants will meet with the study team to discuss dietary recommendations. Each&#xD;
+      participant will be instructed to follow a standardized diet plan and to avoid vigorous&#xD;
+      exercise before beginning the study. Participants will be given a 28 day supply of&#xD;
+      resveratrol capsules (Two 500 mg capsules taken twice a day). A comprehensive study of&#xD;
+      whole-body insulin action called a pancreatic clamp will be done and small samples of fat and&#xD;
+      muscle will be taken before and after the administration of resveratrol.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 2008</start_date>
+  <completion_date type="Actual">September 15, 2017</completion_date>
+  <primary_completion_date type="Actual">September 15, 2017</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Peripheral Insulin Sensitivity (RD) Measured by the Change in Glucose Rates of Disappearance With Resveratrol or Placebo at Baseline and at 4 Weeks.</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>We will measure peripheral insulin sensitivity by determining the rate of glucose uptake (RD).&#xD;
+RD will be measured using a 6 hours stepped pancreatic clamp study procedure under various treatment conditions (eg, resveratrol or placebo). by monitoring changes in the level of a non-radioactive, naturally occurring form of glucose (sugar).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Endogenous Glucose Production (EGP), With Resveratrol or Placebo at Baseline and at 4 Weeks.</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Endogenous glucose production will be used to determine hepatic insulin sensitivity.&#xD;
+Rates of EGP (a measure of the body's production of sugar) will be measured using a 6 hour stepped pancreatic clamp procedure under various treatment conditions (eg, resveratrol or placebo), by monitoring changes in the level of a non-radioactive, naturally occurring form of glucose (sugar).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Effects of Resveratrol on Skeletal Muscle Mitochondrial Numbers</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Skeletal muscle mitochondria numbers were calculated under EM on subjects pre- and post- treatment of either Resveratrol or placebo intervention.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Gene Expression in Whole Fat Tissue , Before and After 4 Weeks' Resveratrol and Placebo. Ratio From Baseline Versus at 4 Weeks</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Changes of relative copy number of gene inflammatory markers in whole fat tissue were studied by quantitative, real-time RT-PCR, resveratrol vs. placebo</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Muscle Mitochondrial Area</measure>
+    <time_frame>4 Weeks</time_frame>
+    <description>Skeletal Muscle Mitochondria Area Before and After 4 Weeks of Resveratrol/Placebo Treatment</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">20</enrollment>
+  <condition>Type 2 Diabetes Mellitus</condition>
+  <condition>Insulin Resistance</condition>
+  <arm_group>
+    <arm_group_label>Resveratrol</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Each participant will receive a 28 days' supply of resveratrol capsules on day 0.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Resveratrol</intervention_name>
+    <description>1,000mg twice daily for 28 days</description>
+    <arm_group_label>Resveratrol</arm_group_label>
+    <other_name>3,5,4'-trihydroxy-trans-stilbene</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  BMI: 26-35&#xD;
+&#xD;
+          -  Non-smoker&#xD;
+&#xD;
+          -  Normal screening labs (CMC, chemistry, LFTs PT/PTT)&#xD;
+&#xD;
+          -  No CAD&#xD;
+&#xD;
+          -  Good IV access&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  High cholesterol&#xD;
+&#xD;
+          -  &lt;4 week history of participation in another drug trial&#xD;
+&#xD;
+          -  Severe hypertension&#xD;
+&#xD;
+          -  Heart disease&#xD;
+&#xD;
+          -  Liver disease of liver abnormalities&#xD;
+&#xD;
+          -  Cerebrovascular disease, i.e. stroke&#xD;
+&#xD;
+          -  CVD&#xD;
+&#xD;
+          -  Seizures&#xD;
+&#xD;
+          -  Bleeding disorders&#xD;
+&#xD;
+          -  Muscle disease&#xD;
+&#xD;
+          -  Cancer&#xD;
+&#xD;
+          -  HIV&#xD;
+&#xD;
+          -  Hepatitis (all types)&#xD;
+&#xD;
+          -  Mentally disabled persons&#xD;
+&#xD;
+          -  Pregnant women&#xD;
+&#xD;
+          -  Allergies to Novocaine, Lidocaine, Benzocaine&#xD;
+&#xD;
+          -  Subjects on the following medications:&#xD;
+&#xD;
+               -  Anticoagulant and antiplatelet drugs&#xD;
+&#xD;
+               -  Anti-epileptic drugs&#xD;
+&#xD;
+               -  Mexiletene&#xD;
+&#xD;
+               -  Quinidine&#xD;
+&#xD;
+               -  Cyclosporine&#xD;
+&#xD;
+               -  Tacrolimus&#xD;
+&#xD;
+               -  HIV protease inhibitors&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>45 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Meredith A Hawkins, M.D., M.S.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Albert Einstein College of Medicine</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Albert Einstein College of Medicine</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2022</verification_date>
+  <study_first_submitted>May 12, 2011</study_first_submitted>
+  <study_first_submitted_qc>May 16, 2011</study_first_submitted_qc>
+  <study_first_posted type="Estimate">May 17, 2011</study_first_posted>
+  <results_first_submitted>July 19, 2021</results_first_submitted>
+  <results_first_submitted_qc>February 10, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">March 8, 2022</results_first_posted>
+  <last_update_submitted>February 10, 2022</last_update_submitted>
+  <last_update_submitted_qc>February 10, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 8, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Albert Einstein College of Medicine</investigator_affiliation>
+    <investigator_full_name>Meredith Hawkins</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Diabetes Mellitus, Type 2</keyword>
+  <keyword>Glucose Metabolism Disorders</keyword>
+  <keyword>Metabolic Diseases</keyword>
+  <keyword>Diabetes Mellitus</keyword>
+  <keyword>Endocrine System Diseases</keyword>
+  <keyword>Resveratrol</keyword>
+  <keyword>Therapeutic Uses</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 2</mesh_term>
+    <mesh_term>Insulin Resistance</mesh_term>
+    <mesh_term>Inflammation</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Resveratrol</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>April 30, 2015</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/77/NCT01354977/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Resveratrol</title>
+          <description>Each participant received resveratrol, 1,000mg twice daily for 28 days in a randomized, double blinded placebo-controlled fashion.&#xD;
+The investigators used a research procedure called a &quot;pancreatic clamp&quot; study to study the effects of Resveratrol. During the clamp procedure, glucose (a sugar) and insulin (a hormone that regulates the amount of glucose in the blood) are infused with an intravenous catheter, and blood samples are collected periodically throughout the procedure to measure blood sugar levels and the levels of several hormones that are found in the body and are related to glucose metabolism.</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo</title>
+          <description>Each participant received a supply of placebo (similar in taste and appearance to Resveratrol) twice daily for 28 days in a randomized, double blinded placebo-controlled fashion.&#xD;
+The investigators used a research procedure called a &quot;pancreatic clamp&quot; study to study the effects of Resveratrol. During the clamp procedure, glucose (a sugar) and insulin (a hormone that regulates the amount of glucose in the blood) are infused with an intravenous catheter, and blood samples are collected periodically throughout the procedure to measure blood sugar levels and the levels of several hormones that are found in the body and are related to glucose metabolism.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="12"/>
+                <participants group_id="P2" count="8"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="12"/>
+                <participants group_id="P2" count="8"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>We administered a dose of 2 gm/day Resveratrol (RV) or placebo (PL) for 28 days in a randomized, double-blinded study to total of 20 non-diabetic subjects.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Resveratrol</title>
+          <description>Each participant received a supply of resveratrol (1,000mg) twice daily for 28 days</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo</title>
+          <description>Each participant received a supply of placebo (similar in taste and appearance to Resveratrol) twice daily for 28 days</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="12"/>
+            <count group_id="B2" value="8"/>
+            <count group_id="B3" value="20"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="50.75" spread="10.50"/>
+                    <measurement group_id="B2" value="52.88" spread="5.44"/>
+                    <measurement group_id="B3" value="51.6" spread="8.71"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Ethnicity</title>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="17"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="20"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Peripheral Insulin Sensitivity (RD) Measured by the Change in Glucose Rates of Disappearance With Resveratrol or Placebo at Baseline and at 4 Weeks.</title>
+        <description>We will measure peripheral insulin sensitivity by determining the rate of glucose uptake (RD).&#xD;
+RD will be measured using a 6 hours stepped pancreatic clamp study procedure under various treatment conditions (eg, resveratrol or placebo). by monitoring changes in the level of a non-radioactive, naturally occurring form of glucose (sugar).</description>
+        <time_frame>4 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Resveratrol</title>
+            <description>Each participant received a supply of resveratrol (1,000mg) twice daily for 28 days.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Each participant received a supply of placebo (similar in taste and appearance to Resveratrol) twice daily for 28 days.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Peripheral Insulin Sensitivity (RD) Measured by the Change in Glucose Rates of Disappearance With Resveratrol or Placebo at Baseline and at 4 Weeks.</title>
+          <description>We will measure peripheral insulin sensitivity by determining the rate of glucose uptake (RD).&#xD;
+RD will be measured using a 6 hours stepped pancreatic clamp study procedure under various treatment conditions (eg, resveratrol or placebo). by monitoring changes in the level of a non-radioactive, naturally occurring form of glucose (sugar).</description>
+          <units>mg/kg/min</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+                <count group_id="O2" value="8"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>RD at baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.573" spread="1.709"/>
+                    <measurement group_id="O2" value="7.272" spread="2.810"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>RD at 4 weeks</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8.445" spread="3.616"/>
+                    <measurement group_id="O2" value="7.419" spread="2.785"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Endogenous Glucose Production (EGP), With Resveratrol or Placebo at Baseline and at 4 Weeks.</title>
+        <description>Endogenous glucose production will be used to determine hepatic insulin sensitivity.&#xD;
+Rates of EGP (a measure of the body's production of sugar) will be measured using a 6 hour stepped pancreatic clamp procedure under various treatment conditions (eg, resveratrol or placebo), by monitoring changes in the level of a non-radioactive, naturally occurring form of glucose (sugar).</description>
+        <time_frame>4 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Resveratrol</title>
+            <description>Each participant received a supply of resveratrol (1,000mg) twice daily for 28 days.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Each participant received a supply of placebo (similar in taste and appearance to Resveratrol) twice daily for 28 days.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Endogenous Glucose Production (EGP), With Resveratrol or Placebo at Baseline and at 4 Weeks.</title>
+          <description>Endogenous glucose production will be used to determine hepatic insulin sensitivity.&#xD;
+Rates of EGP (a measure of the body's production of sugar) will be measured using a 6 hour stepped pancreatic clamp procedure under various treatment conditions (eg, resveratrol or placebo), by monitoring changes in the level of a non-radioactive, naturally occurring form of glucose (sugar).</description>
+          <units>mg/kg/min</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+                <count group_id="O2" value="8"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>EGP at baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.014" spread="0.353"/>
+                    <measurement group_id="O2" value="0.903" spread="0.436"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>EGP at 4 weeks</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.140" spread="0.525"/>
+                    <measurement group_id="O2" value="1.552" spread="0.962"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Effects of Resveratrol on Skeletal Muscle Mitochondrial Numbers</title>
+        <description>Skeletal muscle mitochondria numbers were calculated under EM on subjects pre- and post- treatment of either Resveratrol or placebo intervention.</description>
+        <time_frame>4 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Resveratrol</title>
+            <description>Each participant received a supply of resveratrol (1,000mg) twice daily for 28 days.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Each participant received a supply of placebo (similar in taste and appearance to Resveratrol) twice daily for 28 days.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Effects of Resveratrol on Skeletal Muscle Mitochondrial Numbers</title>
+          <description>Skeletal muscle mitochondria numbers were calculated under EM on subjects pre- and post- treatment of either Resveratrol or placebo intervention.</description>
+          <units>mitochondria number</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+                <count group_id="O2" value="8"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline_mitochondria number</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="48.489" spread="13.180"/>
+                    <measurement group_id="O2" value="41.275" spread="10.826"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>4 weeks_mitochondria number</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="46.622" spread="18.895"/>
+                    <measurement group_id="O2" value="48.850" spread="14.632"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Gene Expression in Whole Fat Tissue , Before and After 4 Weeks' Resveratrol and Placebo. Ratio From Baseline Versus at 4 Weeks</title>
+        <description>Changes of relative copy number of gene inflammatory markers in whole fat tissue were studied by quantitative, real-time RT-PCR, resveratrol vs. placebo</description>
+        <time_frame>4 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Resveratrol</title>
+            <description>Each participant received a supply of resveratrol (1,000mg) twice daily for 28 days.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Each participant received a supply of placebo (similar in taste and appearance to Resveratrol) twice daily for 28 days.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Gene Expression in Whole Fat Tissue , Before and After 4 Weeks' Resveratrol and Placebo. Ratio From Baseline Versus at 4 Weeks</title>
+          <description>Changes of relative copy number of gene inflammatory markers in whole fat tissue were studied by quantitative, real-time RT-PCR, resveratrol vs. placebo</description>
+          <units>Ratio</units>
+          <param>Geometric Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+                <count group_id="O2" value="8"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>TNFa_Whole adipose tissue</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.47" spread="0.21"/>
+                    <measurement group_id="O2" value="1.4" spread="0.82"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>IL6_Whole adipose tissue</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.84" spread="3.59"/>
+                    <measurement group_id="O2" value="1.68" spread="1.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>PAI-1_Whole adipose tissue</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.56" spread="0.16"/>
+                    <measurement group_id="O2" value="0.76" spread="0.25"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Muscle Mitochondrial Area</title>
+        <description>Skeletal Muscle Mitochondria Area Before and After 4 Weeks of Resveratrol/Placebo Treatment</description>
+        <time_frame>4 Weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Resveratrol</title>
+            <description>Each participant received a supply of resveratrol (1,000mg) twice daily for 28 days.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Each participant received a supply of placebo (similar in taste and appearance to Resveratrol) twice daily for 28 days.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Muscle Mitochondrial Area</title>
+          <description>Skeletal Muscle Mitochondria Area Before and After 4 Weeks of Resveratrol/Placebo Treatment</description>
+          <units>µm²</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+                <count group_id="O2" value="8"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline_mitochondria area</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.070" spread="0.021"/>
+                    <measurement group_id="O2" value="0.080" spread="0.026"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>4 weeks_mitochondria area</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.098" spread="0.039"/>
+                    <measurement group_id="O2" value="0.102" spread="0.020"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Through study completion, an average of 4 weeks.</time_frame>
+      <desc>Not reported</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Resveratrol</title>
+          <description>Each participant received a supply of resveratrol (1,000mg) twice daily for 28 days.</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo</title>
+          <description>Each participant received a supply of placebo (similar in taste and appearance to Resveratrol) twice daily for 28 days.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Nausea and vomiting</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Diaphoresis, nausea and lightheadedness</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Vasovagal reflex</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Meredith Hawkins</name_or_title>
+      <organization>Albert Einstein College of Medicine</organization>
+      <phone>7184302903 ext 2903</phone>
+      <email>meredith.hawkins@einstein.yu.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

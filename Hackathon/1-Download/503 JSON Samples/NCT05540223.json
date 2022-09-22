@@ -1,0 +1,489 @@
+{
+  "FullStudy":{
+    "Rank":486,
+    "Study":{
+      "ProtocolSection":{
+        "IdentificationModule":{
+          "NCTId":"NCT05540223",
+          "OrgStudyIdInfo":{
+            "OrgStudyId":"C1801"
+          },
+          "Organization":{
+            "OrgFullName":"Biotronik, Inc.",
+            "OrgClass":"INDUSTRY"
+          },
+          "BriefTitle":"Safety and Clinical Performance of the DREAMS 3G Resorbable Magnesium Scaffold System",
+          "OfficialTitle":"BIOTRONIK - Safety and Clinical Performance of the Drug Eluting Resorbable Coronary MAGnesium Scaffold System (DREAMS 3G) in the Treatment of Subjects With de Novo Lesions in Native Coronary Arteries: BIOMAG-II: A Randomized Controlled Trial",
+          "Acronym":"BIOMAG-II"
+        },
+        "StatusModule":{
+          "StatusVerifiedDate":"September 2022",
+          "OverallStatus":"Not yet recruiting",
+          "ExpandedAccessInfo":{
+            "HasExpandedAccess":"No"
+          },
+          "StartDateStruct":{
+            "StartDate":"June 2023",
+            "StartDateType":"Anticipated"
+          },
+          "PrimaryCompletionDateStruct":{
+            "PrimaryCompletionDate":"March 2026",
+            "PrimaryCompletionDateType":"Anticipated"
+          },
+          "CompletionDateStruct":{
+            "CompletionDate":"March 2030",
+            "CompletionDateType":"Anticipated"
+          },
+          "StudyFirstSubmitDate":"September 9, 2022",
+          "StudyFirstSubmitQCDate":"September 12, 2022",
+          "StudyFirstPostDateStruct":{
+            "StudyFirstPostDate":"September 14, 2022",
+            "StudyFirstPostDateType":"Actual"
+          },
+          "LastUpdateSubmitDate":"September 12, 2022",
+          "LastUpdatePostDateStruct":{
+            "LastUpdatePostDate":"September 14, 2022",
+            "LastUpdatePostDateType":"Actual"
+          }
+        },
+        "SponsorCollaboratorsModule":{
+          "ResponsibleParty":{
+            "ResponsiblePartyType":"Sponsor"
+          },
+          "LeadSponsor":{
+            "LeadSponsorName":"Biotronik, Inc.",
+            "LeadSponsorClass":"INDUSTRY"
+          },
+          "CollaboratorList":{
+            "Collaborator":[
+              {
+                "CollaboratorName":"Biotronik AG",
+                "CollaboratorClass":"INDUSTRY"
+              },{
+                "CollaboratorName":"Biotronik Japan, Inc.",
+                "CollaboratorClass":"INDUSTRY"
+              }
+            ]
+          }
+        },
+        "OversightModule":{
+          "OversightHasDMC":"Yes",
+          "IsFDARegulatedDrug":"No",
+          "IsFDARegulatedDevice":"Yes",
+          "IsUnapprovedDevice":"Yes",
+          "IsUSExport":"No"
+        },
+        "DescriptionModule":{
+          "BriefSummary":"The objective of this study is to assess the safety and efficacy of the DREAMS 3G in the treatment of subjects with up to two de novo lesions in native coronary arteries compared to a contemporary drug eluting stent (DES).",
+          "DetailedDescription":"The Biotronik BIOMAG-II clinical trial is a prospective, international, multi-center, randomized controlled, non-inferiority trial to compare the BIOTRONIK Sirolimus Eluting Resorbable Magnesium Scaffold System (DREAMS 3G RMS) with the Xience Everolimus Eluting Stent System (Xience DES) with respect to Target Lesion Failure (TLF) rate at 12 months. A total of 1728 subjects will be enrolled at approximately 120 study sites worldwide. Subjects will be randomized in a 2:1 ratio to DREAMS 3G or Xience.\n\nClinical follow-up visits will take place at 1, 6, 12 and 18 months and at 2-, 3-, 4- and 5-years post procedure."
+        },
+        "ConditionsModule":{
+          "ConditionList":{
+            "Condition":[
+              "Coronary Artery Disease",
+              "Atherosclerosis, Coronary",
+              "Myocardial Ischemia",
+              "Ischemic Heart Disease",
+              "Acute Coronary Syndrome",
+              "Angina Pectoris"
+            ]
+          },
+          "KeywordList":{
+            "Keyword":[
+              "Resorbable Magnesium Scaffold",
+              "Sirolimus",
+              "RMS",
+              "Drug eluting absorbable metal scaffold"
+            ]
+          }
+        },
+        "DesignModule":{
+          "StudyType":"Interventional",
+          "PhaseList":{
+            "Phase":[
+              "Not Applicable"
+            ]
+          },
+          "DesignInfo":{
+            "DesignAllocation":"Randomized",
+            "DesignInterventionModel":"Parallel Assignment",
+            "DesignPrimaryPurpose":"Treatment",
+            "DesignMaskingInfo":{
+              "DesignMasking":"Single",
+              "DesignWhoMaskedList":{
+                "DesignWhoMasked":[
+                  "Outcomes Assessor"
+                ]
+              }
+            }
+          },
+          "EnrollmentInfo":{
+            "EnrollmentCount":"1728",
+            "EnrollmentType":"Anticipated"
+          }
+        },
+        "ArmsInterventionsModule":{
+          "ArmGroupList":{
+            "ArmGroup":[
+              {
+                "ArmGroupLabel":"DREAMS 3G RMS",
+                "ArmGroupType":"Experimental",
+                "ArmGroupDescription":"Intervention with a DREAMS 3G Sirolimus Eluting Resorbable Coronary Magnesium Scaffold System",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Device: DREAMS 3G RMS"
+                  ]
+                }
+              },{
+                "ArmGroupLabel":"Xience DES",
+                "ArmGroupType":"Active Comparator",
+                "ArmGroupDescription":"Intervention with a Xience Everolimus Eluting Stent System",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Device: Xience DES"
+                  ]
+                }
+              }
+            ]
+          },
+          "InterventionList":{
+            "Intervention":[
+              {
+                "InterventionType":"Device",
+                "InterventionName":"DREAMS 3G RMS",
+                "InterventionDescription":"Subject undergoes implantation of DREAMS 3G RMS",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "DREAMS 3G RMS"
+                  ]
+                },
+                "InterventionOtherNameList":{
+                  "InterventionOtherName":[
+                    "DREAMS 3G Sirolimus Eluting Resorbable Coronary Magnesium Scaffold System"
+                  ]
+                }
+              },{
+                "InterventionType":"Device",
+                "InterventionName":"Xience DES",
+                "InterventionDescription":"Subject undergoes implantation of Xience DES",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Xience DES"
+                  ]
+                },
+                "InterventionOtherNameList":{
+                  "InterventionOtherName":[
+                    "Xience Everolimus Eluting Stent System"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "OutcomesModule":{
+          "PrimaryOutcomeList":{
+            "PrimaryOutcome":[
+              {
+                "PrimaryOutcomeMeasure":"Percentage of Participants With Target Lesion Failure (TLF) at 12 Months Post-Index Procedure",
+                "PrimaryOutcomeDescription":"The primary endpoint will be Target Lesion Failure (TLF) at 12 months. TLF is a composite of Cardiac Death, Target Vessel Q-wave or non-Q wave MI, or clinically driven Target Lesion Revascularization (TLR).",
+                "PrimaryOutcomeTimeFrame":"12 Months"
+              }
+            ]
+          }
+        },
+        "EligibilityModule":{
+          "EligibilityCriteria":"Clinical Inclusion Criteria:\n\nSubject is > 18 years and < 80 years of age\nSubject has provided written informed consent as approved by the Ethical Committee (EC) or Institutional Review Committee (IRB) of the respective clinical site prior to the study related procedures\nSubject is eligible for PCI according to the applicable guidelines on myocardial revascularization\nSubject is an acceptable candidate for coronary artery bypass surgery\nSubjects with stable or unstable angina pectoris, documented silent ischemia or hemodynamically stable non-ST elevation myocardial infarction (NSTEMI) patients without angiographic evidence of thrombus at target lesion Note: Subjects with acute ST elevation myocardial infarction (STEMI) cannot be included in the study (see clinical exclusion criteria 2)\nSubject is not contraindicated for Dual Antiplatelet Therapy (DAPT) with aspirin plus either clopidogrel, prasugrel, ticagrelor or ticlopidine.\nDocumented left ventricular ejection fraction (LVEF) ≥ 30% within 6 months prior to or during the procedure (prior to randomization)\n\nAngiographic Inclusion Criteria:\n\nSubjects with a maximum of two single de novo target lesions in up to two separate native coronary arteries\nTarget vessel must have a reference diameter between 2.5-4.2 mm by operator visual estimate or by Quantitative Coronary Angiography (QCA) / Intravascular Ultrasound (IVUS) / Optical Coherence Tomography (OCT)\nTarget lesion must be ≤36 mm in length by operator visual estimate, and can be treated with one study device (only one scaffold/stent allowed per lesion)\nTarget lesion stenosis > 50% and < 100% by visual estimation, assisted by QCA or / IVUS. If the target lesion is < 70% stenosed, there should be clinical evidence of ischemia such as a positive functional study (e.g. exercise treadmill test, thallium stress test, SPECT, or stress echo), cardiac computed tomography (CT), electrocardiography, fractional flow reserve, or post infarct angina.\nTarget lesion must have a Thrombolysis In Myocardial Infarction (TIMI) flow ≥1\n\nClinical Exclusion Criteria:\n\nSubject is pregnant and/or breastfeeding or intends to become pregnant during the duration of the study\nSubject has clinical symptoms and/or electrocardiogram (ECG) changes consistent with STEMI within 72 hours prior to the index procedure. Note: Hemodynamically stable non-STEMI (NSTEMI) subjects are eligible for study enrollment Note: After 72 hours, any lesion other than the one causing the acute STEMI (culprit lesion) in any other epicardial vessel, may be treated if the subject and lesion meet inclusion and no exclusion criteria\nSubject has undergone prior PCI within the target vessel during the last 12 months prior to the index procedure. Prior PCI within a non-target vessel or any peripheral intervention is acceptable if performed anytime > 30 days before the index procedure\nSubject requires future peripheral interventions < 30 days after the index procedure unless DAPT regimen can be maintained.\nSubject is on dialysis or impaired renal function (serum creatinine > 2.5 mg/dl or 221 μmol/L, determined within 72 hours prior to the index procedure)\nAllergic reaction, hypersensitivity or contraindication to aspirin; or to clopidogrel, prasugrel, ticagrelor or ticlopidine; or to heparin and bivalirudin; contrast media that cannot be resolved with pre-medication; sirolimus, everolimus, or similar limus drugs; poly L-lactide, or the scaffold material (magnesium, aluminum) or Xience stent (cobalt, chromium, tungsten, nickel, fluorinated copolymer).\nSubject is receiving oral or intravenous immunosuppressive therapy (e.g., inhaled steroids are not excluded) or has known life-limiting immunosuppressive or autoimmune disease (e.g., human immunodeficiency virus, systemic lupus erythematosus, but not including diabetes mellitus)\nLife expectancy less than 1 year\nPlanned surgery or dental surgical procedure within 6 months after index procedure, unless DAPT can be maintained\nIn the investigator's opinion subject will not be able to comply with the follow-up requirements\nSubjects under oral anticoagulation therapy (OAC) prior to index procedure unless DAPT + OAC (i.e. triple therapy) can be maintained for a minimum of 6 months If a subject requires OAC after the index procedure, DAPT should be maintained until 6 months after the index procedure. Afterwards DAPT can be limited to either aspirin or clopidogrel (or prasugrel, ticagrelor or ticlopidine) alone together with OAC for the remaining time up to 12 months. After this, OAC monotherapy can be prescribed if still required.\n\nAngiographic Exclusion Criteria:\n\nTarget vessel has been previously treated and the target lesion is within 5 mm proximal or distal to the previously treated lesion\nLeft main coronary artery disease\nTarget lesion is totally occluded (100% stenosis)\nThrombus in target vessel\nSubject is currently participating in another study with an investigational device or an investigational drug and has not reached the primary endpoint yet\nFuture planned staged PCI either in target or non-target vessel\nOstial target lesion (within 5.0 mm of vessel origin)\nTarget lesion involves a side branch that requires a 2-device strategy\nTarget lesion is located in or supplied by an arterial or venous bypass graft\nThe target lesion requires treatment with a device other than the pre-dilatation balloon or scoring balloon prior to scaffold/stent placement (including but not limited to drug-coated balloons, atherectomy devices, intravascular lithotripsy, etc.)\nTarget vessel was treated with brachytherapy any time prior to the index procedure\nUnsuccessful pre-dilatation, defined as residual stenosis rate more than 20% (by visual estimation) and / or angiographic complications (e.g. distal embolization, side branch closure, flow-limiting dissections)\nStenosis located proximal or distal to the target lesion that might require future revascularization or impede run off detected during diagnostic angiography",
+          "HealthyVolunteers":"No",
+          "Gender":"All",
+          "MinimumAge":"18 Years",
+          "MaximumAge":"80 Years",
+          "StdAgeList":{
+            "StdAge":[
+              "Adult",
+              "Older Adult"
+            ]
+          }
+        },
+        "IPDSharingStatementModule":{
+          "IPDSharing":"No",
+          "IPDSharingDescription":"An IPD plan is being developed."
+        }
+      },
+      "DerivedSection":{
+        "MiscInfoModule":{
+          "VersionHolder":"September 19, 2022"
+        },
+        "ConditionBrowseModule":{
+          "ConditionMeshList":{
+            "ConditionMesh":[
+              {
+                "ConditionMeshId":"D000003324",
+                "ConditionMeshTerm":"Coronary Artery Disease"
+              },{
+                "ConditionMeshId":"D000017202",
+                "ConditionMeshTerm":"Myocardial Ischemia"
+              },{
+                "ConditionMeshId":"D000006331",
+                "ConditionMeshTerm":"Heart Diseases"
+              },{
+                "ConditionMeshId":"D000054058",
+                "ConditionMeshTerm":"Acute Coronary Syndrome"
+              },{
+                "ConditionMeshId":"D000050197",
+                "ConditionMeshTerm":"Atherosclerosis"
+              },{
+                "ConditionMeshId":"D000000787",
+                "ConditionMeshTerm":"Angina Pectoris"
+              },{
+                "ConditionMeshId":"D000007511",
+                "ConditionMeshTerm":"Ischemia"
+              }
+            ]
+          },
+          "ConditionAncestorList":{
+            "ConditionAncestor":[
+              {
+                "ConditionAncestorId":"D000003327",
+                "ConditionAncestorTerm":"Coronary Disease"
+              },{
+                "ConditionAncestorId":"D000002318",
+                "ConditionAncestorTerm":"Cardiovascular Diseases"
+              },{
+                "ConditionAncestorId":"D000001161",
+                "ConditionAncestorTerm":"Arteriosclerosis"
+              },{
+                "ConditionAncestorId":"D000001157",
+                "ConditionAncestorTerm":"Arterial Occlusive Diseases"
+              },{
+                "ConditionAncestorId":"D000014652",
+                "ConditionAncestorTerm":"Vascular Diseases"
+              },{
+                "ConditionAncestorId":"D000010335",
+                "ConditionAncestorTerm":"Pathologic Processes"
+              },{
+                "ConditionAncestorId":"D000002637",
+                "ConditionAncestorTerm":"Chest Pain"
+              },{
+                "ConditionAncestorId":"D000010146",
+                "ConditionAncestorTerm":"Pain"
+              },{
+                "ConditionAncestorId":"D000009461",
+                "ConditionAncestorTerm":"Neurologic Manifestations"
+              }
+            ]
+          },
+          "ConditionBrowseLeafList":{
+            "ConditionBrowseLeaf":[
+              {
+                "ConditionBrowseLeafId":"M8571",
+                "ConditionBrowseLeafName":"Heart Diseases",
+                "ConditionBrowseLeafAsFound":"Heart Disease",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M15507",
+                "ConditionBrowseLeafName":"Syndrome",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M5698",
+                "ConditionBrowseLeafName":"Coronary Artery Disease",
+                "ConditionBrowseLeafAsFound":"Atherosclerosis, Coronary",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M18658",
+                "ConditionBrowseLeafName":"Myocardial Ischemia",
+                "ConditionBrowseLeafAsFound":"Myocardial Ischemia",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M26698",
+                "ConditionBrowseLeafName":"Acute Coronary Syndrome",
+                "ConditionBrowseLeafAsFound":"Acute Coronary Syndrome",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M25341",
+                "ConditionBrowseLeafName":"Atherosclerosis",
+                "ConditionBrowseLeafAsFound":"Atherosclerosis",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M3269",
+                "ConditionBrowseLeafName":"Angina Pectoris",
+                "ConditionBrowseLeafAsFound":"Angina Pectoris",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M9695",
+                "ConditionBrowseLeafName":"Ischemia",
+                "ConditionBrowseLeafAsFound":"Ischemia",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M5701",
+                "ConditionBrowseLeafName":"Coronary Disease",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M3621",
+                "ConditionBrowseLeafName":"Arteriosclerosis",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M3617",
+                "ConditionBrowseLeafName":"Arterial Occlusive Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M16552",
+                "ConditionBrowseLeafName":"Vascular Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M12218",
+                "ConditionBrowseLeafName":"Pain",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M5034",
+                "ConditionBrowseLeafName":"Chest Pain",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M11556",
+                "ConditionBrowseLeafName":"Neurologic Manifestations",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"T170",
+                "ConditionBrowseLeafName":"Acute Graft Versus Host Disease",
+                "ConditionBrowseLeafRelevance":"low"
+              }
+            ]
+          },
+          "ConditionBrowseBranchList":{
+            "ConditionBrowseBranch":[
+              {
+                "ConditionBrowseBranchAbbrev":"BC14",
+                "ConditionBrowseBranchName":"Heart and Blood Diseases"
+              },{
+                "ConditionBrowseBranchAbbrev":"All",
+                "ConditionBrowseBranchName":"All Conditions"
+              },{
+                "ConditionBrowseBranchAbbrev":"BC23",
+                "ConditionBrowseBranchName":"Symptoms and General Pathology"
+              },{
+                "ConditionBrowseBranchAbbrev":"BC10",
+                "ConditionBrowseBranchName":"Nervous System Diseases"
+              },{
+                "ConditionBrowseBranchAbbrev":"Rare",
+                "ConditionBrowseBranchName":"Rare Diseases"
+              }
+            ]
+          }
+        },
+        "InterventionBrowseModule":{
+          "InterventionMeshList":{
+            "InterventionMesh":[
+              {
+                "InterventionMeshId":"D000020123",
+                "InterventionMeshTerm":"Sirolimus"
+              },{
+                "InterventionMeshId":"D000068338",
+                "InterventionMeshTerm":"Everolimus"
+              }
+            ]
+          },
+          "InterventionAncestorList":{
+            "InterventionAncestor":[
+              {
+                "InterventionAncestorId":"D000000970",
+                "InterventionAncestorTerm":"Antineoplastic Agents"
+              },{
+                "InterventionAncestorId":"D000007166",
+                "InterventionAncestorTerm":"Immunosuppressive Agents"
+              },{
+                "InterventionAncestorId":"D000007155",
+                "InterventionAncestorTerm":"Immunologic Factors"
+              },{
+                "InterventionAncestorId":"D000045505",
+                "InterventionAncestorTerm":"Physiological Effects of Drugs"
+              },{
+                "InterventionAncestorId":"D000000900",
+                "InterventionAncestorTerm":"Anti-Bacterial Agents"
+              },{
+                "InterventionAncestorId":"D000000890",
+                "InterventionAncestorTerm":"Anti-Infective Agents"
+              },{
+                "InterventionAncestorId":"D000000903",
+                "InterventionAncestorTerm":"Antibiotics, Antineoplastic"
+              },{
+                "InterventionAncestorId":"D000000935",
+                "InterventionAncestorTerm":"Antifungal Agents"
+              }
+            ]
+          },
+          "InterventionBrowseLeafList":{
+            "InterventionBrowseLeaf":[
+              {
+                "InterventionBrowseLeafId":"M21113",
+                "InterventionBrowseLeafName":"Sirolimus",
+                "InterventionBrowseLeafAsFound":"Performance",
+                "InterventionBrowseLeafRelevance":"high"
+              },{
+                "InterventionBrowseLeafId":"M255",
+                "InterventionBrowseLeafName":"Everolimus",
+                "InterventionBrowseLeafAsFound":"6 weeks",
+                "InterventionBrowseLeafRelevance":"high"
+              },{
+                "InterventionBrowseLeafId":"M11134",
+                "InterventionBrowseLeafName":"Morphine",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M9364",
+                "InterventionBrowseLeafName":"Immunosuppressive Agents",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M9353",
+                "InterventionBrowseLeafName":"Immunologic Factors",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M3374",
+                "InterventionBrowseLeafName":"Anti-Bacterial Agents",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M3366",
+                "InterventionBrowseLeafName":"Anti-Infective Agents",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M3376",
+                "InterventionBrowseLeafName":"Antibiotics, Antitubercular",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M3406",
+                "InterventionBrowseLeafName":"Antifungal Agents",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M5404",
+                "InterventionBrowseLeafName":"Clotrimazole",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M10948",
+                "InterventionBrowseLeafName":"Miconazole",
+                "InterventionBrowseLeafRelevance":"low"
+              }
+            ]
+          },
+          "InterventionBrowseBranchList":{
+            "InterventionBrowseBranch":[
+              {
+                "InterventionBrowseBranchAbbrev":"Infe",
+                "InterventionBrowseBranchName":"Anti-Infective Agents"
+              },{
+                "InterventionBrowseBranchAbbrev":"ANeo",
+                "InterventionBrowseBranchName":"Antineoplastic Agents"
+              },{
+                "InterventionBrowseBranchAbbrev":"All",
+                "InterventionBrowseBranchName":"All Drugs and Chemicals"
+              },{
+                "InterventionBrowseBranchAbbrev":"Analg",
+                "InterventionBrowseBranchName":"Analgesics"
+              },{
+                "InterventionBrowseBranchAbbrev":"CNSDep",
+                "InterventionBrowseBranchName":"Central Nervous System Depressants"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+

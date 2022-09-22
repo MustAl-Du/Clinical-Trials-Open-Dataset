@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2155">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01816061</url>
+  </required_header>
+  <id_info>
+    <org_study_id>D0637-R</org_study_id>
+    <nct_id>NCT01816061</nct_id>
+  </id_info>
+  <brief_title>Executive Functioning in TBI From Rehabilitation to Social Reintegration: COMPASS</brief_title>
+  <acronym>COMPASS</acronym>
+  <official_title>Executive Functioning in TBI From Rehabilitation to Social Reintegration: COMPASS</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>VA Office of Research and Development</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>VA Office of Research and Development</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Interventional, controlled clinical trial with two arms, 110 Veterans with TBI and PTSD&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The COMPASS (Community Participation through Self-Efficacy Skills Development) program aims&#xD;
+      at developing and testing a novel patient-centered intervention framework that can be&#xD;
+      utilized as a platform for VA community re-integration comparative effectiveness research.&#xD;
+      The COMPASSgoal intervention will be developed and implemented to meet these needs.&#xD;
+      COMPASSgoal will integrate principles and best practices of goal self-management. Goal&#xD;
+      setting is a core skill in self-management training by which persons with chronic health&#xD;
+      conditions learn to improve their status and decrease symptom impact.3F One important&#xD;
+      mechanism of action of this program appears to be its positive effect on self-efficacy, or&#xD;
+      confidence in one's ability to attain goals and solve problems.4F&#xD;
+&#xD;
+      The study goal is to gather data on the efficacy of a novel approach to psychosocial&#xD;
+      rehabilitation for Veterans with executive function impairment due to traumatic brain injury&#xD;
+      (TBI), and to explore over time, through relevant measures, Veteran responsiveness to&#xD;
+      intervention. Veterans with mild TBI will be randomized into two groups: the COMPASS&#xD;
+      (Community Participation through Self-Efficacy Skills Development) goal-management&#xD;
+      intervention group and the supported discharge group.&#xD;
+&#xD;
+      110 participants with residual deficits in executive function due to TBI will be recruited at&#xD;
+      a minimum of 3 months post-injury from the TBI program at the DC VAMC over the three-year&#xD;
+      period of the study. The operational definition of executive dysfunction/ inclusion into the&#xD;
+      study is based on both clinical diagnosis by a study physician and a standardized executive&#xD;
+      dysfunction measure, the Frontal Systems Rating Scale (FrSBe score), such that a total score&#xD;
+      or any of the 3 subscale scores &lt; 1 SD compared to the normative score would indicate&#xD;
+      executive dysfunction sufficient to include in the study. The treatment phase for the&#xD;
+      Veterans enrolled in the intervention group will continue for two consecutive months (8&#xD;
+      weekly sessions).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 12, 2014</start_date>
+  <completion_date type="Actual">March 31, 2018</completion_date>
+  <primary_completion_date type="Actual">March 6, 2017</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change From Baseline in Community Reintegration for Injured Service Members at 2 Months</measure>
+    <time_frame>Baseline and 2 months</time_frame>
+    <description>Change from Baseline in Community Reintegration for Injured Service Members (CRIS) at 2 months. The investigators used in the report CRIS subscale - Extent of Participation, CRIS with the score range 28.0-64.0. Higher scores mean a better outcome for the Extent of Participation, Community Reintegration for Injured Service Members (CRIS)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change From Baseline in Frontal Systems Behavior Scale at 2 Months</measure>
+    <time_frame>Baseline and 2 months</time_frame>
+    <description>Change from Baseline in Frontal Systems Behavior Scale (FrSBe) at 2 months. Minimum value =21, Maximum value=158, Higher score correlates with worse outcome.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">91</enrollment>
+  <condition>Traumatic Brain Injury</condition>
+  <condition>Post-Traumatic Stress Disorder</condition>
+  <arm_group>
+    <arm_group_label>Experimental - COMPASS</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Goal-setting sessions</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control - COMPASS</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Informative phone calls</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Experimental - COMPASS</intervention_name>
+    <description>Controlled randomized clinical trial. Fifty-five participants in the intervention group will receive eight goal self-management sessions over a period of approximately ten weeks.</description>
+    <arm_group_label>Experimental - COMPASS</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Control - COMPASS</intervention_name>
+    <description>Increased hours of patient-provider interactions Group.</description>
+    <arm_group_label>Control - COMPASS</arm_group_label>
+    <other_name>Supported discharge group</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  TBI of at least mild severity using criteria related to disturbance of consciousness&#xD;
+             (VHA TBI Comprehensive Evaluation screening tool).&#xD;
+&#xD;
+          -  Obtained informed consent.&#xD;
+&#xD;
+          -  Males or females of working age, between the ages of 18 and 55.&#xD;
+&#xD;
+          -  Medically stable with physician approval to participate&#xD;
+&#xD;
+          -  Ability to comprehend and communicate in English at a 6th grade level&#xD;
+&#xD;
+          -  Executive dysfunction as identified by Frontal Systems Rating Scale (FrSBe) and/or&#xD;
+             other study assessments&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Unable to provide informed consent and no proxy available.&#xD;
+&#xD;
+          -  Severe impairment of language or day- to-day memory that would preclude participation&#xD;
+             in a verbally-based therapy.&#xD;
+&#xD;
+          -  Life expectancy of less than 36 months.&#xD;
+&#xD;
+          -  Severe multiple trauma (as judged by the attending physicians and/or investigators&#xD;
+             that is too severe to participate in this study) such as:&#xD;
+&#xD;
+               -  severe burns&#xD;
+&#xD;
+               -  serious organ damage&#xD;
+&#xD;
+               -  amputations&#xD;
+&#xD;
+               -  multiple fractures&#xD;
+&#xD;
+          -  History of substance abuse severe enough to cause neurologic damage, pre-morbid&#xD;
+             history of neurologic disease (e.g., stroke).&#xD;
+&#xD;
+          -  Prior history of known bipolar disorder or schizophrenia or severe psychiatric illness&#xD;
+             as determined by medical history.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Joel Scholten, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>DCVAMC</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Washington DC VA Medical Center, Washington, DC</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20422</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.ncbi.nlm.nih.gov/pubmed/28206800</url>
+    <description>Libin, Scholten et al. Perspectives of veterans with mild traumatic brain injury on community reintegration</description>
+  </link>
+  <link>
+    <url>https://www.ncbi.nlm.nih.gov/pubmed/26664736</url>
+    <description>Libin, Scholten et al. Executive functioning in TBI from rehabilitation to social reintegration</description>
+  </link>
+  <results_reference>
+    <citation>Libin AV, Scholten J, Schladen MM, Danford E, Shara N, Penk W, Grafman J, Resnik L, Bruner D, Cichon S, Philmon M, Tsai B, Blackman M, Dromerick A. Executive functioning in TBI from rehabilitation to social reintegration: COMPASS (goal,) a randomized controlled trial (grant: 1I01RX000637-01A3 by the VA ORD RR&amp;D, 2013-2016). Mil Med Res. 2015 Nov 30;2:32. doi: 10.1186/s40779-015-0061-2. eCollection 2015.</citation>
+    <PMID>26664736</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Libin AV, Schladen MM, Danford E, Cichon S, Bruner D, Scholten J, Llorente M, Zapata S, Dromerick AW, Blackman MR, Magruder KM. Perspectives of veterans with mild traumatic brain injury on community reintegration: Making sense of unplanned separation from service. Am J Orthopsychiatry. 2017;87(2):129-138. doi: 10.1037/ort0000253.</citation>
+    <PMID>28206800</PMID>
+  </results_reference>
+  <verification_date>September 2019</verification_date>
+  <study_first_submitted>March 19, 2013</study_first_submitted>
+  <study_first_submitted_qc>March 19, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">March 21, 2013</study_first_posted>
+  <results_first_submitted>January 22, 2019</results_first_submitted>
+  <results_first_submitted_qc>July 31, 2019</results_first_submitted_qc>
+  <results_first_posted type="Actual">September 11, 2019</results_first_posted>
+  <last_update_submitted>September 11, 2019</last_update_submitted>
+  <last_update_submitted_qc>September 11, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 25, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Veterans Health</keyword>
+  <keyword>Social Adjustment</keyword>
+  <keyword>Traumatic Brain Injury (TBI)</keyword>
+  <keyword>Post-Traumatic Stress Disorder (PTSD)</keyword>
+  <keyword>Independent Living</keyword>
+  <keyword>Goals</keyword>
+  <keyword>Education</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Brain Injuries</mesh_term>
+    <mesh_term>Brain Injuries, Traumatic</mesh_term>
+    <mesh_term>Stress Disorders, Traumatic</mesh_term>
+    <mesh_term>Stress Disorders, Post-Traumatic</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>August 7, 2015</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/61/NCT01816061/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Arm 1: Experimental</title>
+          <description>The COMPASS (Community Participation through Self-Efficacy Skills Development) program aims at developing and testing a novel patient-centered intervention framework that can be utilized as a platform for VA community re-integration comparative effectiveness research.&#xD;
+Experimental - COMPASS: Controlled randomized clinical trial. Fifty-five participants in the intervention group will receive eight goal self-management sessions over a period of approximately ten weeks.</description>
+        </group>
+        <group group_id="P2">
+          <title>Arm 1: Control</title>
+          <description>Fifty-five participants in the supported discharge, or control, group will not receive the intervention, but will receive phone calls to answer a short questionnaire and check in on their status.&#xD;
+Control&#xD;
+Control - COMPASS: Increased hours of patient-provider interactions Group.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="40"/>
+                <participants group_id="P2" count="51"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="27"/>
+                <participants group_id="P2" count="27"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="13"/>
+                <participants group_id="P2" count="24"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="13"/>
+                <participants group_id="P2" count="24"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Experimental - COMPASS</title>
+          <description>The COMPASS (Community Participation through Self-Efficacy Skills Development) program aims at developing and testing a novel patient-centered intervention framework that can be utilized as a platform for VA community re-integration comparative effectiveness research.&#xD;
+Experimental - COMPASS: Controlled randomized clinical trial. Fifty-five participants in the intervention group will receive eight goal self-management sessions over a period of approximately ten weeks.</description>
+        </group>
+        <group group_id="B2">
+          <title>Control - COMMPASS</title>
+          <description>Fifty-five participants in the supported discharge, or control, group will not receive the intervention, but will receive phone calls to answer a short questionnaire and check in on their status.&#xD;
+Control&#xD;
+Control - COMPASS: Increased hours of patient-provider interactions Group.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="27"/>
+            <count group_id="B2" value="27"/>
+            <count group_id="B3" value="54"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="27"/>
+                    <measurement group_id="B2" value="27"/>
+                    <measurement group_id="B3" value="54"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="39.7" spread="8.3"/>
+                    <measurement group_id="B2" value="39.6" spread="6.9"/>
+                    <measurement group_id="B3" value="39.7" spread="7.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="9"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="22"/>
+                    <measurement group_id="B2" value="23"/>
+                    <measurement group_id="B3" value="45"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="27"/>
+                    <measurement group_id="B2" value="27"/>
+                    <measurement group_id="B3" value="54"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="27"/>
+                    <measurement group_id="B2" value="27"/>
+                    <measurement group_id="B3" value="54"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change From Baseline in Community Reintegration for Injured Service Members at 2 Months</title>
+        <description>Change from Baseline in Community Reintegration for Injured Service Members (CRIS) at 2 months. The investigators used in the report CRIS subscale - Extent of Participation, CRIS with the score range 28.0-64.0. Higher scores mean a better outcome for the Extent of Participation, Community Reintegration for Injured Service Members (CRIS)</description>
+        <time_frame>Baseline and 2 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Arm 1: Experimental</title>
+            <description>The COMPASS (Community Participation through Self-Efficacy Skills Development) program aims at developing and testing a novel patient-centered intervention framework that can be utilized as a platform for VA community re-integration comparative effectiveness research.&#xD;
+Experimental - COMPASS: Controlled randomized clinical trial. Fifty-five participants in the intervention group will receive eight goal self-management sessions over a period of approximately ten weeks.</description>
+          </group>
+          <group group_id="O2">
+            <title>Arm 1: Control</title>
+            <description>Fifty-five participants in the supported discharge, or control, group will not receive the intervention, but will receive phone calls to answer a short questionnaire and check in on their status.&#xD;
+Control&#xD;
+Control - COMPASS: Increased hours of patient-provider interactions Group.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Community Reintegration for Injured Service Members at 2 Months</title>
+          <description>Change from Baseline in Community Reintegration for Injured Service Members (CRIS) at 2 months. The investigators used in the report CRIS subscale - Extent of Participation, CRIS with the score range 28.0-64.0. Higher scores mean a better outcome for the Extent of Participation, Community Reintegration for Injured Service Members (CRIS)</description>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="27"/>
+                <count group_id="O2" value="27"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="40.22" spread="5.56"/>
+                    <measurement group_id="O2" value="37.79" spread="6.04"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Change From Baseline in Frontal Systems Behavior Scale at 2 Months</title>
+        <description>Change from Baseline in Frontal Systems Behavior Scale (FrSBe) at 2 months. Minimum value =21, Maximum value=158, Higher score correlates with worse outcome.</description>
+        <time_frame>Baseline and 2 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Arm 1: Experimental</title>
+            <description>The COMPASS (Community Participation through Self-Efficacy Skills Development) program aims at developing and testing a novel patient-centered intervention framework that can be utilized as a platform for VA community re-integration comparative effectiveness research.&#xD;
+Experimental - COMPASS: Controlled randomized clinical trial. Fifty-five participants in the intervention group will receive eight goal self-management sessions over a period of approximately ten weeks.</description>
+          </group>
+          <group group_id="O2">
+            <title>Arm 1: Control</title>
+            <description>Fifty-five participants in the supported discharge, or control, group will not receive the intervention, but will receive phone calls to answer a short questionnaire and check in on their status.&#xD;
+Control&#xD;
+Control - COMPASS: Increased hours of patient-provider interactions Group.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Frontal Systems Behavior Scale at 2 Months</title>
+          <description>Change from Baseline in Frontal Systems Behavior Scale (FrSBe) at 2 months. Minimum value =21, Maximum value=158, Higher score correlates with worse outcome.</description>
+          <units>score on a scale</units>
+          <param>Median</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="27"/>
+                <count group_id="O2" value="27"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="85.4" spread="12.2"/>
+                    <measurement group_id="O2" value="84.3" spread="13.12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>4 years</time_frame>
+      <desc>Veterans were contacted per protocol, both those in the study arm and the control arm. In addition study participants continued to receive clinical care from the Polytrauma team at the Washington DC VA Medical Center where they were routinely assessed for their reported clinical concerns.&#xD;
+during the study period no adverse events were reported</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Arm 1: Experimental</title>
+          <description>The COMPASS (Community Participation through Self-Efficacy Skills Development) program aims at developing and testing a novel patient-centered intervention framework that can be utilized as a platform for VA community re-integration comparative effectiveness research.&#xD;
+Experimental - COMPASS: Controlled randomized clinical trial. Fifty-five participants in the intervention group will receive eight goal self-management sessions over a period of approximately ten weeks.</description>
+        </group>
+        <group group_id="E2">
+          <title>Arm 1: Control</title>
+          <description>Fifty-five participants in the supported discharge, or control, group will not receive the intervention, but will receive phone calls to answer a short questionnaire and check in on their status.&#xD;
+Control&#xD;
+Control - COMPASS: Increased hours of patient-provider interactions Group.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="40"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="51"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="40"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="51"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="40"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="51"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr.Joel Scholten</name_or_title>
+      <organization>DCVAMC</organization>
+      <phone>2027458000 ext 55099</phone>
+      <email>joel.scholten@va.gov</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

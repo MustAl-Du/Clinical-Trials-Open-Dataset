@@ -1,0 +1,1614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3672">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01436357</url>
+  </required_header>
+  <id_info>
+    <org_study_id>10-0069</org_study_id>
+    <nct_id>NCT01436357</nct_id>
+  </id_info>
+  <brief_title>Staged Phase I/II Hepatitis C Prophylactic Vaccine</brief_title>
+  <official_title>A Staged Phase I/II Study, to Assess Safety, Efficacy and Immunogenicity of a New Hepatitis C Prophylactic Vaccine Based on Sequential Use of AdCh3NSmut1 and MVA-NSmut</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A two stage, phase I/II, double-blinded, randomized, placebo-controlled study of hepatitis C&#xD;
+      virus (HCV)uninfected male and female injection drug users (IDU) aged 18 to 45. AdCh3NSmut1&#xD;
+      and MVA-NSMut HCV vaccine will be administered to 68 (+/-4) volunteers in stage 1. A planned&#xD;
+      interim analysis of safety and immunogenicity will be conducted. If no safety signal is&#xD;
+      detected and there is evidence of a measurable immune response to HCV then 472 (+/-4)&#xD;
+      volunteers will be enrolled in stage 2. Primary objectives are to 1) assess the safety of&#xD;
+      AdCh3NSmut1 and MVA-NSmut compared to placebo when administered to HCV-uninfected IDUs and 2)&#xD;
+      determine if AdCh3NSmut1 and MVA-NSmut HCV vaccines will reduce incidence of chronic HCV&#xD;
+      infection compared to placebo among HCV-uninfected IDUs. Planned study duration is approx 63&#xD;
+      months (accrual time, 2 months vaccination, 18 months follow-up, and 9 months extended&#xD;
+      observation for subjects becoming viremic in the last month of follow-up).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A two stage, phase I/II, double-blinded, randomized, placebo-controlled study of hepatitis C&#xD;
+      virus (HCV)uninfected male and female injection drug users (IDU) aged 18 to 45. In this&#xD;
+      clinical trial AdCh3NSmut1 and MVA-NSMut HCV vaccine will be administered intramuscularly to&#xD;
+      68 (+/-4) evaluable volunteers in stage 1. A planned interim analysis of safety and&#xD;
+      immunogenicity will be conducted based on data through 1 week after receipt of the second&#xD;
+      vaccination. If no safety signal is detected and there is evidence of a measurable immune&#xD;
+      response to HCV then an additional 472 (+/-4) volunteers will be enrolled in stage 2. The&#xD;
+      primary objectives of this study will be 1) to assess the safety of the new candidate&#xD;
+      hepatitis C virus vaccines, AdCh3NSmut1 and MVA-NSmut, compared to placebo when administered&#xD;
+      to HCV-uninfected injection drug users (IDUs) and 2) to determine if AdCh3NSmut1 and&#xD;
+      MVA-NSmut HCV vaccines will reduce incidence of chronic HCV infection compared to placebo&#xD;
+      among HCV-uninfected IDUs. The secondary objective of this study will be to evaluate the&#xD;
+      immunogenicity of the new candidate hepatitis C virus vaccines, AdCh3NSmut1 and MVA-NSmut,&#xD;
+      compared to placebo when administered to HCV-uninfected IDUs.The planned duration of the&#xD;
+      study is approximately 63 months total including accrual time for subjects (assuming 31&#xD;
+      months of screening/enrollments, plus 3 months of halted enrollment for the first interim&#xD;
+      analysis), 2 months vaccination, 18 months follow-up of each enrolled subject, and 9 months&#xD;
+      extended observation (monthly), from the time of infection, for subjects becoming viremic in&#xD;
+      the last month of follow-up.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 6, 2012</start_date>
+  <completion_date type="Actual">May 25, 2018</completion_date>
+  <primary_completion_date type="Actual">May 25, 2018</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants With Chronic Hepatitis C Virus (HCV) Infection at 6 Months</measure>
+    <time_frame>6 months</time_frame>
+    <description>Chronic hepatitis C virus (HCV) infection was defined by persistent viremia over a period of 6 months after initial detection of primary infection.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With Clinical Safety Laboratory Adverse Events (AEs) at 1 Month After First Vaccination</measure>
+    <time_frame>1 month after first vaccination</time_frame>
+    <description>Blood was collected at baseline and 1 month after each vaccination for assessment of alanine transferase (ALT) (SGPT), creatinine, hemoglobin, platelets, and white blood cells (WBC). A laboratory AE was defined for ALT as greater than 1.25 times the upper limit of normal. A laboratory AE was defined for creatinine as greater than or equal to 1.2 times the upper limit of normal (as appropriate for age and sex). A laboratory AE was defined for hemoglobin as less that or equal to 12.4 g/dl for males and less than or equal to 10.8 g/dl for females. A laboratory AE was defined for platelets as less than or equal to 117,000 per cumm. A laboratory AE was defined for WBC as less than or equal to 2.9 thou/mcl or greater than or equal to 11.9 thou/mcl.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With Clinical Safety Laboratory Adverse Events (AEs) at 1 Month After Second Vaccination</measure>
+    <time_frame>1 month after second vaccination</time_frame>
+    <description>Blood was collected at baseline and 1 month after each vaccination for assessment of alanine transferase (ALT) (SGPT), creatinine, hemoglobin, platelets, and white blood cells (WBC). A laboratory AE was defined for ALT as greater than 1.25 times the upper limit of normal. A laboratory AE was defined for creatinine as greater than or equal to 1.2 times the upper limit of normal (as appropriate for age and sex). A laboratory AE was defined for hemoglobin as less that or equal to 12.4 g/dl for males and less than or equal to 10.8 g/dl for females. A laboratory AE was defined for platelets as less than or equal to 117,000 per cumm. A laboratory AE was defined for WBC as less than or equal to 2.9 thou/mcl or greater than or equal to 11.9 thou/mcl.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With Severe Local and/or Systemic Solicited Reactogenicity Signs and Symptoms in the 8 Days (Day 0-7) After First Vaccination</measure>
+    <time_frame>7 days after first vaccination</time_frame>
+    <description>Participants recorded temperature and the presence and intensity of post-vaccination reactogenicity events daily on an 8-day memory aid. Local solicited reactogenicity events included pain, tenderness, erythema, induration and warmth at the injection site. Systemic solicited reactogenicity events included fever, chills, arthralgia/joint pain, malaise/fatigue, myalgia/body aches, headache, nausea, vomiting, abdominal pain. Severe was defined as &quot;events interrupt a subject's usual daily activity and may require systemic drug therapy or other treatment. Severe events are usually incapacitating.&quot; Measured erythema and induration of &gt;50 mm and oral temperature &gt;40.0 degrees Celsius were considered severe.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Occurrence of Vaccine-related Serious Adverse Events (SAEs) From the Time of First Vaccination Through the Entire Study Period</measure>
+    <time_frame>Day 0 to 29 months</time_frame>
+    <description>The occurrence of SAEs was assessed at every study visit. The occurrence of SAEs may also have come to the attention of the investigator by secondary contacts of the participant when they did not present for study visits. Relationship to vaccine was assessed by the site investigator.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With Severe Local and/or Systemic Solicited Reactogenicity Signs and Symptoms in the 8 Days (Day 0-7) After Second Vaccination</measure>
+    <time_frame>7 days after second vaccination</time_frame>
+    <description>Participants recorded temperature and the presence and intensity of post-vaccination reactogenicity events daily on an 8-day memory aid. Local solicited reactogenicity events included pain, tenderness, erythema, induration and warmth at the injection site. Systemic solicited reactogenicity events included fever, chills, arthralgia/joint pain, malaise/fatigue, myalgia/body aches, headache, nausea, vomiting, abdominal pain. Severe was defined as &quot;events interrupt a subject's usual daily activity and may require systemic drug therapy or other treatment. Severe events are usually incapacitating.&quot; Measured erythema and induration of &gt;50 mm and oral temperature &gt;40.0 degrees Celsius were considered severe.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With Positive Cell Mediated Immune Response</measure>
+    <time_frame>Within 14 days after the last vaccination (Day 56)</time_frame>
+    <description>Cell mediated immune response was measured by interferon gamma (IFN-gamma) production by T-cells against each of the six HCV genotype 1b peptide pools in the vaccine. Positivity was defined as i) more than 48 spot forming cells per million PBMC; and ii) at least three times the mean background spots per million PBMC found in ELISpot wells containing cells and peptide diluent (DMSO). A participant was considered a responder if a positive response to at least one in 6 mixtures (pools) of peptides was detected.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">548</enrollment>
+  <condition>Hepatitis C</condition>
+  <arm_group>
+    <arm_group_label>Arm A (Stage I and II)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Receive AdCh3NSmut1 at 2.5 x 10^10 total virus particles (vp)/dose at day 0 followed by 1 dose of MVA-NSmut intramuscularly 56 days later at the dosage 1.8 x10^8 plaque forming units (pfu): 34 (+/-2) subjects Stage I, then 191 (+/-2) subjects at Stage II.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm B (Stage I and II)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Two doses of placebo intramuscularly, 1 at day 0 and 1 at day 56: 34 (+/-2) subjects Stage I, then 191 (+/-2) subjects at Stage II.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>AdCh3NSmut1</intervention_name>
+    <description>Stages I and II: Receive AdCh3NSmut1 at 2.5 x 10^10 total virus particles (vp)/dose, intramuscularly on day 0.</description>
+    <arm_group_label>Arm A (Stage I and II)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>MVA-NSmut</intervention_name>
+    <description>Stages I and II: 1 dose of MVA-NSmut at the dosage 1.8 x10^8 plaque forming units (pfu) intramuscularly on day 56.</description>
+    <arm_group_label>Arm A (Stage I and II)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Stages I and II: Two doses of placebo intramuscularly, 1 at day 0 and 1 at day 56.</description>
+    <arm_group_label>Arm B (Stage I and II)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        - Comprehension of informed consent. - 18-45 year old men or women with acknowledged active&#xD;
+        IDU in the past 90 days and have no travel plans that would interfere with ability to meet&#xD;
+        the study visit schedule. - In good general health as determined by a participating study&#xD;
+        physician and results within acceptable ranges for clinical laboratory evaluations as&#xD;
+        detailed in Appendix A. - Negative for antibodies to hepatitis C virus (anti-HCV). -&#xD;
+        Negative for HCV RNA. - Negative antibodies to HIV. - Negative for HBsAg. - Able and&#xD;
+        willing (in the Investigator's opinion) to comply with all study requirements. - Willing to&#xD;
+        allow the investigators access to their medical records. - Willingness to practice&#xD;
+        continuous effective contraception from the screening visit through 90 days after the last&#xD;
+        vaccination (males and females). - Among females, a negative pregnancy test within 24 hours&#xD;
+        prior to vaccination. - Agreement to refrain from blood donation during the course of the&#xD;
+        study or after the study. - Provide written informed consent prior to initiation of any&#xD;
+        study procedures. - Willing to provide contact information for study follow-up activities,&#xD;
+        including the address, name and contact information of three people who can be contacted to&#xD;
+        facilitate follow-up compliance.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        - The subject is currently participating in a study that involves an experimental agent&#xD;
+        (vaccine, drug, biologic device, blood product, or medication) or has received an&#xD;
+        experimental agent within 30 days prior to enrollment in this study, or expects to receive&#xD;
+        another experimental agent during participation in this study. - Prior receipt of a&#xD;
+        recombinant simian or human adenoviral vaccine or MVA vaccine. - Administration of&#xD;
+        immunoglobulins and/or any blood products within the 90 days preceding the planned&#xD;
+        administration of the vaccine candidate. - Any confirmed or suspected immunosuppressive or&#xD;
+        immunodeficient state, including: HIV infection; asplenia; recurrent, severe infections. -&#xD;
+        History of allergic disease or reactions likely to be exacerbated by any component of the&#xD;
+        vaccine (i.e., known hypersensitivity to aminoglycosideantibiotics or to egg proteins). -&#xD;
+        History of clinically significant contact dermatitis or other significant dermatological&#xD;
+        conditions such as psoriasis. - Any history of anaphylaxis in reaction to vaccination. -&#xD;
+        Pregnancy, lactation or willingness/intention to become pregnant during the study. -&#xD;
+        History of cancer (except for successfully treated basal cell carcinoma of the skin and&#xD;
+        cervical carcinoma in situ). - History of severe psychiatric illness, including severe&#xD;
+        depression, history of suicidal ideation, suicidal attempts, or psychosis requiring&#xD;
+        medication. The subject has a diagnosis of schizophrenia, bi-polar disease, or other severe&#xD;
+        (disabling) chronic psychiatric diagnosis that is uncontrolled and would interfere with the&#xD;
+        ability to adhere to the protocol. - Any other serious chronic illness requiring hospital&#xD;
+        specialist supervision. - Suspected or known current alcohol abuse as defined by a score of&#xD;
+        10 or more on the Alcohol Use Disorders Identification Test (AUDIT) C test (a standardized&#xD;
+        screening tool used to identify hazardous drinkers or those with active alcohol use&#xD;
+        disorders, including abuse or dependence). - At high risk of HIV infection by the following&#xD;
+        criteria (adapted from HIV Network for Prevention Trials (HIVNET) behavioral criteria for&#xD;
+        high risk of HIV): (1) sexually active male who has sex with men (MSM), defined as (i) male&#xD;
+        who has had anal sex with male sexual partner or partners in the past year or (ii) a male&#xD;
+        who exchanged sex with male partner(s) for money or drugs in the past year; and (2) female&#xD;
+        and in a current relationship with a high risk male (active MSM, HIV positive male). - Any&#xD;
+        other significant disease, disorder or finding, which, in the opinion of the Investigator,&#xD;
+        may put the subject at risk because of participation in the study, may influence the result&#xD;
+        of the study, or may influence the subject's ability to participate in the study. - History&#xD;
+        of or current diagnosis of Diabetes mellitus. - History of or current diagnosis of&#xD;
+        autoimmune disease. - History of or current cardiac disease including history of myocardial&#xD;
+        infarction or arrhythmia. - Current diagnosis of active liver disease. - History of seizure&#xD;
+        disorder or currently taking anti-convulsant therapy that would interfere with safety&#xD;
+        evaluation. - Uncontrolled hypertension (defined as systolic blood pressure being greater&#xD;
+        than 140mm Hg or diastolic blood pressure being greater than 90mm Hg). - History of&#xD;
+        splenectomy. - Long term immunosuppressive use (defined as taken for 14 days or more in&#xD;
+        total at any time during the past 180 days) of high dose oral or parenteral glucocorticoids&#xD;
+        (high dose defined as prednisone &gt;/=20 mg total daily dose, or equivalent dose of other&#xD;
+        glucocorticoids); or high-dose inhaled steroids (high dose defined as &gt;800 mcg/day of&#xD;
+        beclomethasone dipropionate or equ ivalent); or any use of hepatotoxic or non-FDA approved&#xD;
+        medication. - Have an acute illness, including an oral temperature greater than or equal to&#xD;
+        100.4 degrees Fahrenheit, within 7 days prior to the first vaccination. - Immunization&#xD;
+        against another pathogen within 14 days of planned injection. Second vaccination exclusion&#xD;
+        criteria: The following events associated with vaccine immunization constitute absolute&#xD;
+        contraindications to further administration of vaccine. The subject will not receive&#xD;
+        additional vaccination, but will continue with scheduled follow-up procedures except&#xD;
+        vaccination. 1. Anaphylactic reaction following administration of vaccine. 2. Pregnancy. If&#xD;
+        a woman reports having a positive home urine pregnancy test or a positive in clinic urine&#xD;
+        pregnancy test prior to a scheduled second vaccination, she is not eligible to receive the&#xD;
+        study vaccine. If she later returns to clinic and reports having a negative home urine&#xD;
+        pregnancy test and this is confirmed by a negative in clinic urine pregnancy test and a&#xD;
+        negative blood pregnancy test she may be eligible for the second vaccination if she is&#xD;
+        still within the vaccination window and no other exclusion criteria are met. The following&#xD;
+        adverse events constitute contraindications to administration of vaccine at that point in&#xD;
+        time. If any one of these adverse events occurs at the time scheduled for vaccination, the&#xD;
+        subject may be vaccinated at a later date (within 28 days of scheduled administration) or&#xD;
+        withdrawn at the discretion of the investigator. The subject will not receive additional&#xD;
+        vaccination, but will continue with all scheduled follow-up procedures except vaccination.&#xD;
+        3. Acute disease at the time of vaccination (acute disease is defined as the presence of a&#xD;
+        moderate or severe illness with or without fever). The vaccine dose can be administered to&#xD;
+        persons with a minor illness such as diarrhea, mild upper respiratory infection with or&#xD;
+        without low-grade febrile illness, i.e., temperature of &lt;38°C (100.4°F). 4. Temperature of&#xD;
+        &gt;38°C (100.4°F) at the time of vaccination. 5. Immunization against another pathogen within&#xD;
+        14 days of vaccination&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>University of California San Francisco - Tenderloin Clinical Research Center</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94102-4012</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCSF Community Research Center</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zuckerberg San Francisco General Hospital Unit 5B</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins School of Public Health - Wood Clinic</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21205-2400</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of New Mexico - Truman Health Services</name>
+      <address>
+        <city>Albuquerque</city>
+        <state>New Mexico</state>
+        <zip>87102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 5, 2017</verification_date>
+  <study_first_submitted>September 15, 2011</study_first_submitted>
+  <study_first_submitted_qc>September 15, 2011</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 19, 2011</study_first_posted>
+  <results_first_submitted>May 24, 2019</results_first_submitted>
+  <results_first_submitted_qc>July 2, 2019</results_first_submitted_qc>
+  <results_first_posted type="Actual">July 22, 2019</results_first_posted>
+  <last_update_submitted>November 7, 2019</last_update_submitted>
+  <last_update_submitted_qc>November 7, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 19, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>AdCh3NSmut1</keyword>
+  <keyword>Hepatitis C</keyword>
+  <keyword>MVA-NSmut</keyword>
+  <keyword>vaccine</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hepatitis A</mesh_term>
+    <mesh_term>Hepatitis C</mesh_term>
+    <mesh_term>Hepatitis</mesh_term>
+  </condition_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>October 6, 2015</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/57/NCT01436357/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>July 30, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/57/NCT01436357/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>People who are actively injecting drugs who are at high risk for HCV infection, negative for HCV antibodies and HCV RNA at screening, were recruited at 3 clinical sites experienced in recruiting and retaining people who inject drugs in prospective studies. Participants were enrolled between 19MAR2012 and 28OCT2016.</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>AdCh3NSmut1 and MVA-NSmut</title>
+          <description>One dose of AdCh3NSmut1 at 2.5 x 10^10 total virus particles (vp)/dose at day 0 followed by 1 dose of MVA-NSmut intramuscularly 56 days later at the dosage 1.8 x10^8 plaque forming units (pfu).</description>
+        </group>
+        <group group_id="P2">
+          <title>Sodium Chloride Placebo</title>
+          <description>Two doses of sodium chloride placebo intramuscularly, 1 at day 0 and 1 at day 56.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="274"/>
+                <participants group_id="P2" count="274"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Stage 1</title>
+              <participants_list>
+                <participants group_id="P1" count="49"/>
+                <participants group_id="P2" count="48"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Stage 2</title>
+              <participants_list>
+                <participants group_id="P1" count="225"/>
+                <participants group_id="P2" count="226"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="152"/>
+                <participants group_id="P2" count="146"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="122"/>
+                <participants group_id="P2" count="128"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Death</title>
+              <participants_list>
+                <participants group_id="P1" count="5"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Enrolled but not vaccinated</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Incarceration</title>
+              <participants_list>
+                <participants group_id="P1" count="18"/>
+                <participants group_id="P2" count="20"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="67"/>
+                <participants group_id="P2" count="61"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Protocol Violation</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="26"/>
+                <participants group_id="P2" count="38"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Physician Decision</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="4"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Moved out of area</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Subject in rehab</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>AdCh3NSmut1 and MVA-NSmut</title>
+          <description>One dose of AdCh3NSmut1 at 2.5 x 10^10 total virus particles (vp)/dose at day 0 followed by 1 dose of MVA-NSmut intramuscularly 56 days later at the dosage 1.8 x10^8 plaque forming units (pfu).</description>
+        </group>
+        <group group_id="B2">
+          <title>Sodium Chloride Placebo</title>
+          <description>Two doses of sodium chloride placebo intramuscularly, 1 at day 0 and 1 at day 56.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="274"/>
+            <count group_id="B2" value="274"/>
+            <count group_id="B3" value="548"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="274"/>
+                    <measurement group_id="B2" value="274"/>
+                    <measurement group_id="B3" value="548"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="31.3" spread="7.3"/>
+                    <measurement group_id="B2" value="30.4" spread="7.2"/>
+                    <measurement group_id="B3" value="30.9" spread="7.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="60"/>
+                    <measurement group_id="B2" value="62"/>
+                    <measurement group_id="B3" value="122"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="214"/>
+                    <measurement group_id="B2" value="212"/>
+                    <measurement group_id="B3" value="426"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="40"/>
+                    <measurement group_id="B2" value="39"/>
+                    <measurement group_id="B3" value="79"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="234"/>
+                    <measurement group_id="B2" value="235"/>
+                    <measurement group_id="B3" value="469"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="9"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="62"/>
+                    <measurement group_id="B2" value="51"/>
+                    <measurement group_id="B3" value="113"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="159"/>
+                    <measurement group_id="B2" value="175"/>
+                    <measurement group_id="B3" value="334"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="33"/>
+                    <measurement group_id="B2" value="30"/>
+                    <measurement group_id="B3" value="63"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="12"/>
+                    <measurement group_id="B3" value="21"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="274"/>
+                    <measurement group_id="B2" value="274"/>
+                    <measurement group_id="B3" value="548"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>IL28B Status</title>
+          <description>The IL28B gene is involved in the immune response to certain viruses, including hepatitis C. There are three IL28B subtypes (called genotypes): CC, CT, and TT. People with the CC genotype have a more potent immune response to HCV infection than people with the CT or TT genotypes (called non-CC genotypes). This immune response makes people who have a CC genotype more likely to clear HCV without treatment (called spontaneous viral clearance), within months of becoming infected. Given the impact of this gene, subjects were stratified based on having CC on non-CC genotypes.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>CC</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="111"/>
+                    <measurement group_id="B2" value="111"/>
+                    <measurement group_id="B3" value="222"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>CT/TT</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="163"/>
+                    <measurement group_id="B2" value="163"/>
+                    <measurement group_id="B3" value="326"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With Chronic Hepatitis C Virus (HCV) Infection at 6 Months</title>
+        <description>Chronic hepatitis C virus (HCV) infection was defined by persistent viremia over a period of 6 months after initial detection of primary infection.</description>
+        <time_frame>6 months</time_frame>
+        <population>All randomized are included as treated (one participant randomized to placebo received vaccine) with the following censoring criteria applied: did not receive both vaccinations, HCV infected at baseline, did not have sufficient follow-up to be evaluable for efficacy, or had major protocol deviations compromising the assessment of vaccine efficacy.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>AdCh3NSmut1 and MVA-NSmut</title>
+            <description>One dose of AdCh3NSmut1 at 2.5 x 10^10 total virus particles (vp)/dose at day 0 followed by 1 dose of MVA-NSmut intramuscularly 56 days later at the dosage 1.8 x10^8 plaque forming units (pfu).</description>
+          </group>
+          <group group_id="O2">
+            <title>Sodium Chloride Placebo</title>
+            <description>Two doses of sodium chloride placebo intramuscularly, 1 at day 0 and 1 at day 56.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Chronic Hepatitis C Virus (HCV) Infection at 6 Months</title>
+          <description>Chronic hepatitis C virus (HCV) infection was defined by persistent viremia over a period of 6 months after initial detection of primary infection.</description>
+          <population>All randomized are included as treated (one participant randomized to placebo received vaccine) with the following censoring criteria applied: did not receive both vaccinations, HCV infected at baseline, did not have sufficient follow-up to be evaluable for efficacy, or had major protocol deviations compromising the assessment of vaccine efficacy.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="275"/>
+                <count group_id="O2" value="273"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="14"/>
+                    <measurement group_id="O2" value="14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.317</p_value>
+            <method>Regression, Cox</method>
+            <param_type>Hazard Ratio (HR)</param_type>
+            <param_value>1.529</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.661</ci_lower_limit>
+            <ci_upper_limit>3.535</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With Clinical Safety Laboratory Adverse Events (AEs) at 1 Month After First Vaccination</title>
+        <description>Blood was collected at baseline and 1 month after each vaccination for assessment of alanine transferase (ALT) (SGPT), creatinine, hemoglobin, platelets, and white blood cells (WBC). A laboratory AE was defined for ALT as greater than 1.25 times the upper limit of normal. A laboratory AE was defined for creatinine as greater than or equal to 1.2 times the upper limit of normal (as appropriate for age and sex). A laboratory AE was defined for hemoglobin as less that or equal to 12.4 g/dl for males and less than or equal to 10.8 g/dl for females. A laboratory AE was defined for platelets as less than or equal to 117,000 per cumm. A laboratory AE was defined for WBC as less than or equal to 2.9 thou/mcl or greater than or equal to 11.9 thou/mcl.</description>
+        <time_frame>1 month after first vaccination</time_frame>
+        <population>The safety analysis population includes all participants with blood collected at the timepoint summarized. Participants are analyzed as treated.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>AdCh3NSmut1 and MVA-NSmut</title>
+            <description>One dose of AdCh3NSmut1 at 2.5 x 10^10 total virus particles (vp)/dose at day 0 followed by 1 dose of MVA-NSmut intramuscularly 56 days later at the dosage 1.8 x10^8 plaque forming units (pfu).</description>
+          </group>
+          <group group_id="O2">
+            <title>Sodium Chloride Placebo</title>
+            <description>Two doses of sodium chloride placebo intramuscularly, 1 at day 0 and 1 at day 56.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Clinical Safety Laboratory Adverse Events (AEs) at 1 Month After First Vaccination</title>
+          <description>Blood was collected at baseline and 1 month after each vaccination for assessment of alanine transferase (ALT) (SGPT), creatinine, hemoglobin, platelets, and white blood cells (WBC). A laboratory AE was defined for ALT as greater than 1.25 times the upper limit of normal. A laboratory AE was defined for creatinine as greater than or equal to 1.2 times the upper limit of normal (as appropriate for age and sex). A laboratory AE was defined for hemoglobin as less that or equal to 12.4 g/dl for males and less than or equal to 10.8 g/dl for females. A laboratory AE was defined for platelets as less than or equal to 117,000 per cumm. A laboratory AE was defined for WBC as less than or equal to 2.9 thou/mcl or greater than or equal to 11.9 thou/mcl.</description>
+          <population>The safety analysis population includes all participants with blood collected at the timepoint summarized. Participants are analyzed as treated.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="274"/>
+                <count group_id="O2" value="272"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="70"/>
+                    <measurement group_id="O2" value="48"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.029</p_value>
+            <method>Fisher Exact</method>
+            <param_type>Risk Difference (RD)</param_type>
+            <param_value>0.08</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-0.01</ci_lower_limit>
+            <ci_upper_limit>0.16</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With Clinical Safety Laboratory Adverse Events (AEs) at 1 Month After Second Vaccination</title>
+        <description>Blood was collected at baseline and 1 month after each vaccination for assessment of alanine transferase (ALT) (SGPT), creatinine, hemoglobin, platelets, and white blood cells (WBC). A laboratory AE was defined for ALT as greater than 1.25 times the upper limit of normal. A laboratory AE was defined for creatinine as greater than or equal to 1.2 times the upper limit of normal (as appropriate for age and sex). A laboratory AE was defined for hemoglobin as less that or equal to 12.4 g/dl for males and less than or equal to 10.8 g/dl for females. A laboratory AE was defined for platelets as less than or equal to 117,000 per cumm. A laboratory AE was defined for WBC as less than or equal to 2.9 thou/mcl or greater than or equal to 11.9 thou/mcl.</description>
+        <time_frame>1 month after second vaccination</time_frame>
+        <population>The safety analysis population includes all participants with blood collected at the timepoint summarized. Participants are analyzed as treated.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>AdCh3NSmut1 and MVA-NSmut</title>
+            <description>One dose of AdCh3NSmut1 at 2.5 x 10^10 total virus particles (vp)/dose at day 0 followed by 1 dose of MVA-NSmut intramuscularly 56 days later at the dosage 1.8 x10^8 plaque forming units (pfu).</description>
+          </group>
+          <group group_id="O2">
+            <title>Sodium Chloride Placebo</title>
+            <description>Two doses of sodium chloride placebo intramuscularly, 1 at day 0 and 1 at day 56.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Clinical Safety Laboratory Adverse Events (AEs) at 1 Month After Second Vaccination</title>
+          <description>Blood was collected at baseline and 1 month after each vaccination for assessment of alanine transferase (ALT) (SGPT), creatinine, hemoglobin, platelets, and white blood cells (WBC). A laboratory AE was defined for ALT as greater than 1.25 times the upper limit of normal. A laboratory AE was defined for creatinine as greater than or equal to 1.2 times the upper limit of normal (as appropriate for age and sex). A laboratory AE was defined for hemoglobin as less that or equal to 12.4 g/dl for males and less than or equal to 10.8 g/dl for females. A laboratory AE was defined for platelets as less than or equal to 117,000 per cumm. A laboratory AE was defined for WBC as less than or equal to 2.9 thou/mcl or greater than or equal to 11.9 thou/mcl.</description>
+          <population>The safety analysis population includes all participants with blood collected at the timepoint summarized. Participants are analyzed as treated.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="228"/>
+                <count group_id="O2" value="227"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="73"/>
+                    <measurement group_id="O2" value="49"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.015</p_value>
+            <method>Fisher Exact</method>
+            <param_type>Risk Difference (RD)</param_type>
+            <param_value>0.10</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.01</ci_lower_limit>
+            <ci_upper_limit>0.20</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With Severe Local and/or Systemic Solicited Reactogenicity Signs and Symptoms in the 8 Days (Day 0-7) After First Vaccination</title>
+        <description>Participants recorded temperature and the presence and intensity of post-vaccination reactogenicity events daily on an 8-day memory aid. Local solicited reactogenicity events included pain, tenderness, erythema, induration and warmth at the injection site. Systemic solicited reactogenicity events included fever, chills, arthralgia/joint pain, malaise/fatigue, myalgia/body aches, headache, nausea, vomiting, abdominal pain. Severe was defined as &quot;events interrupt a subject's usual daily activity and may require systemic drug therapy or other treatment. Severe events are usually incapacitating.&quot; Measured erythema and induration of &gt;50 mm and oral temperature &gt;40.0 degrees Celsius were considered severe.</description>
+        <time_frame>7 days after first vaccination</time_frame>
+        <population>The safety analysis population includes all participants receiving the vaccination for whom data were available. Participants are analyzed as treated.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>AdCh3NSmut1 and MVA-NSmut</title>
+            <description>One dose of AdCh3NSmut1 at 2.5 x 10^10 total virus particles (vp)/dose at day 0 followed by 1 dose of MVA-NSmut intramuscularly 56 days later at the dosage 1.8 x10^8 plaque forming units (pfu).</description>
+          </group>
+          <group group_id="O2">
+            <title>Sodium Chloride Placebo</title>
+            <description>Two doses of sodium chloride placebo intramuscularly, 1 at day 0 and 1 at day 56.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Severe Local and/or Systemic Solicited Reactogenicity Signs and Symptoms in the 8 Days (Day 0-7) After First Vaccination</title>
+          <description>Participants recorded temperature and the presence and intensity of post-vaccination reactogenicity events daily on an 8-day memory aid. Local solicited reactogenicity events included pain, tenderness, erythema, induration and warmth at the injection site. Systemic solicited reactogenicity events included fever, chills, arthralgia/joint pain, malaise/fatigue, myalgia/body aches, headache, nausea, vomiting, abdominal pain. Severe was defined as &quot;events interrupt a subject's usual daily activity and may require systemic drug therapy or other treatment. Severe events are usually incapacitating.&quot; Measured erythema and induration of &gt;50 mm and oral temperature &gt;40.0 degrees Celsius were considered severe.</description>
+          <population>The safety analysis population includes all participants receiving the vaccination for whom data were available. Participants are analyzed as treated.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="274"/>
+                <count group_id="O2" value="272"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.00</p_value>
+            <method>Fisher Exact</method>
+            <param_type>Risk Difference (RD)</param_type>
+            <param_value>0.0</param_value>
+            <ci_n_sides>2-Sided</ci_n_sides>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Occurrence of Vaccine-related Serious Adverse Events (SAEs) From the Time of First Vaccination Through the Entire Study Period</title>
+        <description>The occurrence of SAEs was assessed at every study visit. The occurrence of SAEs may also have come to the attention of the investigator by secondary contacts of the participant when they did not present for study visits. Relationship to vaccine was assessed by the site investigator.</description>
+        <time_frame>Day 0 to 29 months</time_frame>
+        <population>The safety analysis population excludes 1 participant who was not vaccinated. Participants are analyzed as treated.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>AdCh3NSmut1 and MVA-NSmut</title>
+            <description>One dose of AdCh3NSmut1 at 2.5 x 10^10 total virus particles (vp)/dose at day 0 followed by 1 dose of MVA-NSmut intramuscularly 56 days later at the dosage 1.8 x10^8 plaque forming units (pfu).</description>
+          </group>
+          <group group_id="O2">
+            <title>Sodium Chloride Placebo</title>
+            <description>Two doses of sodium chloride placebo intramuscularly, 1 at day 0 and 1 at day 56.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Occurrence of Vaccine-related Serious Adverse Events (SAEs) From the Time of First Vaccination Through the Entire Study Period</title>
+          <description>The occurrence of SAEs was assessed at every study visit. The occurrence of SAEs may also have come to the attention of the investigator by secondary contacts of the participant when they did not present for study visits. Relationship to vaccine was assessed by the site investigator.</description>
+          <population>The safety analysis population excludes 1 participant who was not vaccinated. Participants are analyzed as treated.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="274"/>
+                <count group_id="O2" value="272"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With Severe Local and/or Systemic Solicited Reactogenicity Signs and Symptoms in the 8 Days (Day 0-7) After Second Vaccination</title>
+        <description>Participants recorded temperature and the presence and intensity of post-vaccination reactogenicity events daily on an 8-day memory aid. Local solicited reactogenicity events included pain, tenderness, erythema, induration and warmth at the injection site. Systemic solicited reactogenicity events included fever, chills, arthralgia/joint pain, malaise/fatigue, myalgia/body aches, headache, nausea, vomiting, abdominal pain. Severe was defined as &quot;events interrupt a subject's usual daily activity and may require systemic drug therapy or other treatment. Severe events are usually incapacitating.&quot; Measured erythema and induration of &gt;50 mm and oral temperature &gt;40.0 degrees Celsius were considered severe.</description>
+        <time_frame>7 days after second vaccination</time_frame>
+        <population>The safety analysis population includes all participants receiving the vaccination for whom data were available. Participants are analyzed as treated.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>AdCh3NSmut1 and MVA-NSmut</title>
+            <description>One dose of AdCh3NSmut1 at 2.5 x 10^10 total virus particles (vp)/dose at day 0 followed by 1 dose of MVA-NSmut intramuscularly 56 days later at the dosage 1.8 x10^8 plaque forming units (pfu).</description>
+          </group>
+          <group group_id="O2">
+            <title>Sodium Chloride Placebo</title>
+            <description>Two doses of sodium chloride placebo intramuscularly, 1 at day 0 and 1 at day 56.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Severe Local and/or Systemic Solicited Reactogenicity Signs and Symptoms in the 8 Days (Day 0-7) After Second Vaccination</title>
+          <description>Participants recorded temperature and the presence and intensity of post-vaccination reactogenicity events daily on an 8-day memory aid. Local solicited reactogenicity events included pain, tenderness, erythema, induration and warmth at the injection site. Systemic solicited reactogenicity events included fever, chills, arthralgia/joint pain, malaise/fatigue, myalgia/body aches, headache, nausea, vomiting, abdominal pain. Severe was defined as &quot;events interrupt a subject's usual daily activity and may require systemic drug therapy or other treatment. Severe events are usually incapacitating.&quot; Measured erythema and induration of &gt;50 mm and oral temperature &gt;40.0 degrees Celsius were considered severe.</description>
+          <population>The safety analysis population includes all participants receiving the vaccination for whom data were available. Participants are analyzed as treated.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="228"/>
+                <count group_id="O2" value="227"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.499</p_value>
+            <method>Fisher Exact</method>
+            <param_type>Risk Difference (RD)</param_type>
+            <param_value>0.01</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-0.08</ci_lower_limit>
+            <ci_upper_limit>0.10</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants With Positive Cell Mediated Immune Response</title>
+        <description>Cell mediated immune response was measured by interferon gamma (IFN-gamma) production by T-cells against each of the six HCV genotype 1b peptide pools in the vaccine. Positivity was defined as i) more than 48 spot forming cells per million PBMC; and ii) at least three times the mean background spots per million PBMC found in ELISpot wells containing cells and peptide diluent (DMSO). A participant was considered a responder if a positive response to at least one in 6 mixtures (pools) of peptides was detected.</description>
+        <time_frame>Within 14 days after the last vaccination (Day 56)</time_frame>
+        <population>The population for this outcome included all participants who received both vaccinations and had immunogenicity data available. Participants are analyzed as treated. Data collected post-HCV infection were excluded from this analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>AdCh3NSmut1 and MVA-NSmut</title>
+            <description>One dose of AdCh3NSmut1 at 2.5 x 10^10 total virus particles (vp)/dose at day 0 followed by 1 dose of MVA-NSmut intramuscularly 56 days later at the dosage 1.8 x10^8 plaque forming units (pfu).</description>
+          </group>
+          <group group_id="O2">
+            <title>Sodium Chloride Placebo</title>
+            <description>Two doses of sodium chloride placebo intramuscularly, 1 at day 0 and 1 at day 56.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Positive Cell Mediated Immune Response</title>
+          <description>Cell mediated immune response was measured by interferon gamma (IFN-gamma) production by T-cells against each of the six HCV genotype 1b peptide pools in the vaccine. Positivity was defined as i) more than 48 spot forming cells per million PBMC; and ii) at least three times the mean background spots per million PBMC found in ELISpot wells containing cells and peptide diluent (DMSO). A participant was considered a responder if a positive response to at least one in 6 mixtures (pools) of peptides was detected.</description>
+          <population>The population for this outcome included all participants who received both vaccinations and had immunogenicity data available. Participants are analyzed as treated. Data collected post-HCV infection were excluded from this analysis.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="125"/>
+                <count group_id="O2" value="122"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="97"/>
+                    <measurement group_id="O2" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Solicited reactogenicity symptoms were collected before vaccination, and then daily for 8 days post-vaccination (Day 0-7) after each vaccination on a memory aid. Unsolicited adverse events were collected through Day 90. At visits following Day 90 up to Day 140, only SAE's were collected.</time_frame>
+      <desc>For events solicited on the memory aid, a participant was considered to have 1 event if it was reported as experienced at any time in the 8 day period after a vaccination. Participants are analyzed as treated, one participant randomized to placebo received vaccine.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>AdCh3NSmut1 and MVA-NSmut</title>
+          <description>One dose of AdCh3NSmut1 at 2.5 x 10^10 total virus particles (vp)/dose at day 0 followed by 1 dose of MVA-NSmut intramuscularly 56 days later at the dosage 1.8 x10^8 plaque forming units (pfu).</description>
+        </group>
+        <group group_id="E2">
+          <title>Sodium Chloride Placebo</title>
+          <description>Two doses of sodium chloride placebo intramuscularly, 1 at day 0 and 1 at day 56.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedDRA (20.1)</default_vocab>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="274"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="40" subjects_at_risk="274"/>
+                <counts group_id="E2" subjects_affected="25" subjects_at_risk="272"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Colitis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="274"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Pancreatitis</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="274"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="272"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Hepatobiliary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cholecystitis Acute</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="274"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Hepatitis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="274"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Liver Injury</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="274"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="272"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Abscess</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="274"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Abscess Limb</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="274"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Abscess Neck</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="274"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Arthritis Bacterial</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="274"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Bursitis Infective</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="274"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Cellulitis</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="274"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Clostridium Difficile Colitis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="274"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Endocarditis</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="274"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Gangrene</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="274"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>HIV Infection</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="274"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Osteomyelitis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="274"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="274"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Psoas Abscess</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="274"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Staphylococcal Bacteraemia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="274"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Subcutaneous Abscess</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="274"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Tooth Abscess</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="274"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Urosepsis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="274"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="272"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Facial Bones Fracture</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="274"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Head Injury</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="274"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Hip Fracture</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="274"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Injury</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="274"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Lower Limb Fracture</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="274"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Multiple Fractures</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="274"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Overdose</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="5" subjects_at_risk="274"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Subdural Haematoma</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="274"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Toxicity To Various Agents</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="274"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Traumatic Liver Injury</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="274"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Uterine Rupture</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="274"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="272"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Foetal Monitoring</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="274"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="272"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Type 1 Diabetes Mellitus</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="274"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="272"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Compartment Syndrome</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="274"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="272"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Neoplasms benign, malignant and unspecified (incl cysts and polyps)</title>
+            <event_list>
+              <event>
+                <sub_title>Transitional Cell Carcinoma</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="274"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="272"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypoxic-Ischaemic Encephalopathy</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="274"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Seizure</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="274"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="272"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Pregnancy, puerperium and perinatal conditions</title>
+            <event_list>
+              <event>
+                <sub_title>Foetal Death</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="274"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="272"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Affective Disorder</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="274"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Completed Suicide</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="274"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Depression</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="274"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Mental Status Changes</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="274"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Psychotic Disorder</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="274"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Schizoaffective Disorder</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="274"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Suicidal Ideation</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="274"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Suicide Attempt</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="274"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="272"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Asthma</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="274"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Pulmonary Embolism</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="274"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="272"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_vocab>MedDRA (20.1)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="229" subjects_at_risk="274"/>
+                <counts group_id="E2" subjects_affected="172" subjects_at_risk="272"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" events="64" subjects_affected="51" subjects_at_risk="274"/>
+                <counts group_id="E2" events="54" subjects_affected="48" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" events="28" subjects_affected="26" subjects_at_risk="274"/>
+                <counts group_id="E2" events="29" subjects_affected="26" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Abdominal pain</sub_title>
+                <counts group_id="E1" events="57" subjects_affected="45" subjects_at_risk="274"/>
+                <counts group_id="E2" events="38" subjects_affected="34" subjects_at_risk="272"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Injection site pain</sub_title>
+                <description>Solicited as &quot;Pain&quot;</description>
+                <counts group_id="E1" events="176" subjects_affected="140" subjects_at_risk="274"/>
+                <counts group_id="E2" events="21" subjects_affected="21" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Injection site pain</sub_title>
+                <description>Solicited as &quot;Tenderness&quot;</description>
+                <counts group_id="E1" events="247" subjects_affected="178" subjects_at_risk="274"/>
+                <counts group_id="E2" events="46" subjects_affected="43" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Injection site warmth</sub_title>
+                <counts group_id="E1" events="62" subjects_affected="52" subjects_at_risk="274"/>
+                <counts group_id="E2" events="21" subjects_affected="19" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Injection site erythema</sub_title>
+                <counts group_id="E1" events="126" subjects_affected="95" subjects_at_risk="274"/>
+                <counts group_id="E2" events="77" subjects_affected="61" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Injection site induration</sub_title>
+                <counts group_id="E1" events="98" subjects_affected="79" subjects_at_risk="274"/>
+                <counts group_id="E2" events="33" subjects_affected="29" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Malaise</sub_title>
+                <counts group_id="E1" events="147" subjects_affected="114" subjects_at_risk="274"/>
+                <counts group_id="E2" events="120" subjects_affected="99" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Chills</sub_title>
+                <counts group_id="E1" events="60" subjects_affected="51" subjects_at_risk="274"/>
+                <counts group_id="E2" events="40" subjects_affected="35" subjects_at_risk="272"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Body temperature increase</sub_title>
+                <counts group_id="E1" events="29" subjects_affected="28" subjects_at_risk="274"/>
+                <counts group_id="E2" events="9" subjects_affected="8" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Aspartate aminotransferase increased</sub_title>
+                <assessment>Non-systematic Assessment</assessment>
+                <counts group_id="E1" events="30" subjects_affected="29" subjects_at_risk="274"/>
+                <counts group_id="E2" events="31" subjects_affected="29" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Blood alkaline phosphatase increased</sub_title>
+                <counts group_id="E1" events="15" subjects_affected="15" subjects_at_risk="274"/>
+                <counts group_id="E2" events="11" subjects_affected="11" subjects_at_risk="272"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Myalgia</sub_title>
+                <counts group_id="E1" events="138" subjects_affected="112" subjects_at_risk="274"/>
+                <counts group_id="E2" events="80" subjects_affected="69" subjects_at_risk="272"/>
+              </event>
+              <event>
+                <sub_title>Arthralgia</sub_title>
+                <counts group_id="E1" events="78" subjects_affected="63" subjects_at_risk="274"/>
+                <counts group_id="E2" events="45" subjects_affected="37" subjects_at_risk="272"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" events="114" subjects_affected="95" subjects_at_risk="274"/>
+                <counts group_id="E2" events="74" subjects_affected="64" subjects_at_risk="272"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>The only disclosure restriction on the PI is that the sponsor can review results communications prior to public release and can embargo communications regarding trial results for a period that is less than or equal to 60 days. The sponsor cannot require changes to the communication and cannot extend the embargo.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Kimberly Page, Ph.D., M.P.H. and Andrea Cox, M.D., Ph.D.</name_or_title>
+      <organization>University of New Mexico and Johns Hopkins University</organization>
+      <phone>505-272-2520, 410-502-2715</phone>
+      <email>pagek@salud.unm.edu, acox@jhmi.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

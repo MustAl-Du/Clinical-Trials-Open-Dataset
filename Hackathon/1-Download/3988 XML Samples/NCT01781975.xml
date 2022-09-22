@@ -1,0 +1,1471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2165">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01781975</url>
+  </required_header>
+  <id_info>
+    <org_study_id>17-2013-6</org_study_id>
+    <nct_id>NCT01781975</nct_id>
+  </id_info>
+  <brief_title>Imatinib Treatment in Recent Onset Type 1 Diabetes Mellitus</brief_title>
+  <official_title>Safety and Efficacy of Imatinib for Preserving Beta-Cell Function in New-Onset Type 1 Diabetes Mellitus</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, San Francisco</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Juvenile Diabetes Research Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of California, San Francisco</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Type 1 diabetes mellitus (T1DM) results from the autoimmune destruction of insulin-producing&#xD;
+      ß cells. Although exogenous insulin is widely available, it is not possible for affected&#xD;
+      individuals to consistently achieve euglycemia with current technology, and thus they are at&#xD;
+      risk for devastating long-term complications. This phase II study is designed to evaluate the&#xD;
+      safety and efficacy of imatinib mesylate as a novel therapy for new-onset T1DM. Imatinib is a&#xD;
+      first-in-class tyrosine kinase inhibitor.&#xD;
+&#xD;
+      This study will explore the potential role of short-term therapy with imatinib to induce&#xD;
+      tolerance and possibly lead to a durable long-term remission of T1DM.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Eligible participants will be randomized to receive either imatinib mesylate or placebo&#xD;
+      daily.&#xD;
+&#xD;
+      All participants randomized into this study will be seen at a study site for a follow-up&#xD;
+      evaluation, 2 weeks and 4 weeks after randomization, and every month month thereafter for the&#xD;
+      first year. Participants will come in for a visit ever 6 months for the second year.&#xD;
+&#xD;
+      At the study visits, participants will undergo assessments of their insulin production,&#xD;
+      immunologic status, and overall health. Subjects will be followed until the conclusion of the&#xD;
+      study. The trial is expected to last approximately 2-4 years or until the required amount of&#xD;
+      information is gathered.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 2014</start_date>
+  <completion_date type="Actual">May 2018</completion_date>
+  <primary_completion_date type="Actual">May 2017</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Area Under the Stimulated C-peptide Curve (AUC) Mean Over the First 2 Hours of a 4 Hour Mixed Meal Tolerance Test at the 1 Year Visit</measure>
+    <time_frame>Visit 9 (Week 52) at 0, 15, 30, 60, 90, 120 minutes post-dose</time_frame>
+    <description>The primary outcome of each participant is the area under the stimulated c-peptide curve (AUC) mean based on data collected at time 0 to 2 hours of a 4-hour mixed meal tolerance test (MMTT) conducted at the primary endpoint visit. The timed measurements are done at: 0, 15, 30, 60, 90, and 120 minutes. The term &quot;AUC mean&quot; comes from the mean value theorem in calculus. It is the value on the scale of the y-axis that is equal to the AUC divided by the range on the x-axis (in this case 120 minutes).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Area Under the Stimulated C-peptide Curve (AUC) Mean Over 4 Hours at 24 Months</measure>
+    <time_frame>Visit 13 (Week 104)</time_frame>
+    <description>Area under the MMTT-stimulated peak, 4 hour C-peptide AUC mean at week 104. The units are reported as nano-moles/Liter because this is AUC mean (the AUC is divided by the time internal so that the units return to the c-peptide units of measure).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in HbA1c Levels Over Time</measure>
+    <time_frame>Visit 9 (Week 52) and Visit 13 (Week 104)</time_frame>
+    <description>Change in HbA1c levels from Week 52 to Week 104</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Insulin Dose (Units/kg) Over Time</measure>
+    <time_frame>Visit 9 (Week 52) and Visit 13 (Week 104)</time_frame>
+    <description>Assess insulin use in units per kilogram body weight per day at weeks 52 and 104.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Severe Hypoglycemic Events</measure>
+    <time_frame>Visit 0 (Week 0), Visit 9 (Week 52), and Visit 13 (Week 104)</time_frame>
+    <description>Major hypoglycemic events occurring from randomization at weeks 0, 52 and 104.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Adverse Events</measure>
+    <time_frame>Adverse Events will be assessed at Visit 0 (week 0), Visit 1 (Week 2), Visit 2 (Week 4), and every month thereafter.</time_frame>
+    <description>Number of adverse events that were reported throughout the study.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">67</enrollment>
+  <condition>Diabetes Mellitus, Type I</condition>
+  <condition>Diabetes Mellitus, Insulin-Dependent, 1</condition>
+  <condition>Type 1 Diabetes Mellitus</condition>
+  <condition>Insulin-Dependent Diabetes Mellitus 1</condition>
+  <condition>IDDM</condition>
+  <arm_group>
+    <arm_group_label>Imatinib Mesylate</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>400 mg imatinib given once daily basis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo given once daily basis.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Imatinib Mesylate</intervention_name>
+    <arm_group_label>Imatinib Mesylate</arm_group_label>
+    <other_name>GLEEVEC</other_name>
+    <other_name>Glivec</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo (For imatinib mesylate)</intervention_name>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Males and females age 12-45 years of age who meet the ADA standard T1DM criteria1.&#xD;
+             Positive for at least one islet cell autoantibody. Initial enrollment will be for&#xD;
+             subjects ages 18-45, with the goal to lower the age down to 12 upon acceptable safety&#xD;
+             review and prospect of benefit for this initial older cohort.&#xD;
+&#xD;
+          -  Diagnosis of T1DM within 100 days of Visit 0.&#xD;
+&#xD;
+          -  Peak stimulated C-peptide level &gt;0.2 pmol/mL following an MMTT.&#xD;
+&#xD;
+          -  Participants of childbearing age who are sexually active must agree to use an&#xD;
+             effective form of birth control (e.g., barrier method, oral contraception, or&#xD;
+             surgery). For females, these contraceptive measures must be maintained throughout the&#xD;
+             study; for males these measures must be followed for a minimum of 3 months after&#xD;
+             discontinuation of imatinib therapy.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Prior history of any significant cardiac disease such as congestive heart failure,&#xD;
+             myocardial infarction, arrhythmia, or structural defects or suspicion thereof.&#xD;
+&#xD;
+          -  Leukopenia (&lt;3,000 leukocytes/μL), neutropenia (&lt;1,500 neutrophils/μL), or&#xD;
+             thrombocytopenia (&lt;125,000 platelets/μL).&#xD;
+&#xD;
+          -  Low Hemoglobin (baseline hemoglobin below lower limit of normal)&#xD;
+&#xD;
+          -  Prior history of anaphylaxis, angioedema or serious cutaneous drug reactions&#xD;
+&#xD;
+          -  Any sign of significant chronic active infection (e.g., hepatitis, tuberculosis, EBV,&#xD;
+             CMV, or toxoplasmosis), or screening laboratory evidence consistent with a significant&#xD;
+             chronic active infection (such as positive for HIV, PPD, or HBSAg). Significant acute&#xD;
+             infections must be resolved before treatment may commence, e.g., acute respiratory&#xD;
+             tract, urinary tract, or gastrointestinal tract infections.&#xD;
+&#xD;
+          -  Anticipated ongoing use of diabetes medications other than insulin that affect glucose&#xD;
+             homeostasis, such as metformin, sulfonylureas, thiazolidinediones, glucagon-like&#xD;
+             peptide 1 (GLP-1) mimetics, dipeptidyl peptidase IV (DPP-IV) inhibitors, or amylin.&#xD;
+&#xD;
+          -  Prior or current treatment that is known to cause a significant, ongoing change in the&#xD;
+             course of T1DM or immunologic status, including high-dose inhaled, extensive topical&#xD;
+             or systemic glucocorticoids.&#xD;
+&#xD;
+          -  Evidence of liver dysfunction, with alanine aminotransferase (ALT) or aspartate&#xD;
+             aminotransferase (AST) &gt;2.0 times the upper limit of normal persistent for 1 week or&#xD;
+             greater.&#xD;
+&#xD;
+          -  Evidence of renal insufficiency as indicated by serum creatinine &gt; 1.2 times the upper&#xD;
+             limit of normal and confirmed in a repeat test at least one week apart. Evidence of&#xD;
+             clinically significant metabolic bone disease (except adequately treated rickets).&#xD;
+&#xD;
+          -  Females who are pregnant at the time of screening or unwilling to defer pregnancy&#xD;
+             during the 24-month study period.&#xD;
+&#xD;
+          -  Prior treatment with imatinib or related tyrosine kinase inhibitor.&#xD;
+&#xD;
+          -  Unable to avoid medications that affect CYP3A4: either inducers that may decrease&#xD;
+             imatinib levels, or inhibitors that may increase drug concentrations. (Refer to&#xD;
+             section 1.5.1.12 for a complete list of inducers and inhibitors.)&#xD;
+&#xD;
+          -  Height standard deviation score ≥2 standard deviations below mean&#xD;
+&#xD;
+          -  Any sign of QT prolongation on Visit -1 noted on ECG (&gt; 450 ms in males and &gt; 470 ms&#xD;
+             in females)&#xD;
+&#xD;
+          -  Known coagulation disorders or use of anticoagulants&#xD;
+&#xD;
+          -  Current and anticipated on-going treatment with drugs that may increase or decrease&#xD;
+             imatinib plasma concentrations (CYP3A4 family inhibitors or inducers) or drugs that&#xD;
+             may have their plasma concentration altered by imatinib (drugs metabolized by CYP3A4/5&#xD;
+             and CYP2D6).&#xD;
+&#xD;
+          -  Any condition that, in the investigator's opinion, may compromise study participation&#xD;
+             or may confound the interpretation of the study results.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Stephen E Gitelman, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of California, San Francisco</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of California-San Francisco</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Barbara Davis Center</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Emory University</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Indiana University</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Iowa</name>
+      <address>
+        <city>Iowa City</city>
+        <state>Iowa</state>
+        <zip>52242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Joslin Diabetes Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Philadelphia</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Southwestern</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Walter and Eliza Hall Institute of Medical Research</name>
+      <address>
+        <city>Melbourne</city>
+        <state>Victoria</state>
+        <zip>3050</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2020</verification_date>
+  <study_first_submitted>January 17, 2013</study_first_submitted>
+  <study_first_submitted_qc>January 30, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">February 1, 2013</study_first_posted>
+  <results_first_submitted>May 25, 2018</results_first_submitted>
+  <results_first_submitted_qc>July 11, 2018</results_first_submitted_qc>
+  <results_first_posted type="Actual">August 8, 2018</results_first_posted>
+  <last_update_submitted>February 10, 2020</last_update_submitted>
+  <last_update_submitted_qc>February 10, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 11, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of California, San Francisco</investigator_affiliation>
+    <investigator_full_name>Stephen E. Gitelman</investigator_full_name>
+    <investigator_title>Director, Pediatric Diabetes Program</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 1</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Imatinib Mesylate</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>August 23, 2016</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/75/NCT01781975/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Recruitment Period: March 2013 to May 2016 at 9 clinical sites (8 US, 1 Australia)</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Imatinib Mesylate</title>
+          <description>400 mg imatinib given once daily basis.&#xD;
+Imatinib Mesylate</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo</title>
+          <description>Placebo given once daily basis.&#xD;
+Placebo (For imatinib mesylate)</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="45"/>
+                <participants group_id="P2" count="22"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Treatment Period</title>
+              <participants_list>
+                <participants group_id="P1" count="44"/>
+                <participants group_id="P2" count="22"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Follow-Up Period</title>
+              <participants_list>
+                <participants group_id="P1" count="43"/>
+                <participants group_id="P2" count="21"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="43"/>
+                <participants group_id="P2" count="21"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Death</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Imatinib Mesylate</title>
+          <description>400 mg imatinib given once daily basis.&#xD;
+Imatinib Mesylate</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo</title>
+          <description>Placebo given once daily basis.&#xD;
+Placebo (For imatinib mesylate)</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="45"/>
+            <count group_id="B2" value="22"/>
+            <count group_id="B3" value="67"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="45"/>
+                    <measurement group_id="B2" value="22"/>
+                    <measurement group_id="B3" value="67"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="28.2" spread="7.2"/>
+                    <measurement group_id="B2" value="26.2" spread="6.6"/>
+                    <measurement group_id="B3" value="27" spread="7.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="18"/>
+                    <measurement group_id="B2" value="12"/>
+                    <measurement group_id="B3" value="30"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="27"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="37"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="43"/>
+                    <measurement group_id="B2" value="19"/>
+                    <measurement group_id="B3" value="62"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="44"/>
+                    <measurement group_id="B2" value="21"/>
+                    <measurement group_id="B3" value="65"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="36"/>
+                    <measurement group_id="B2" value="18"/>
+                    <measurement group_id="B3" value="54"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Australia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Number of Autoantibodies Positive</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>1</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="12"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>2</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="12"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>3</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="13"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>4</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="14"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>5</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="16"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Area Under the Stimulated C-peptide Curve (AUC) Mean Over the First 2 Hours of a 4 Hour Mixed Meal Tolerance Test at the 1 Year Visit</title>
+        <description>The primary outcome of each participant is the area under the stimulated c-peptide curve (AUC) mean based on data collected at time 0 to 2 hours of a 4-hour mixed meal tolerance test (MMTT) conducted at the primary endpoint visit. The timed measurements are done at: 0, 15, 30, 60, 90, and 120 minutes. The term &quot;AUC mean&quot; comes from the mean value theorem in calculus. It is the value on the scale of the y-axis that is equal to the AUC divided by the range on the x-axis (in this case 120 minutes).</description>
+        <time_frame>Visit 9 (Week 52) at 0, 15, 30, 60, 90, 120 minutes post-dose</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Imatinib Mesylate</title>
+            <description>400 mg imatinib given once daily basis.&#xD;
+Imatinib Mesylate</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo given once daily basis.&#xD;
+Placebo (For imatinib mesylate)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Area Under the Stimulated C-peptide Curve (AUC) Mean Over the First 2 Hours of a 4 Hour Mixed Meal Tolerance Test at the 1 Year Visit</title>
+          <description>The primary outcome of each participant is the area under the stimulated c-peptide curve (AUC) mean based on data collected at time 0 to 2 hours of a 4-hour mixed meal tolerance test (MMTT) conducted at the primary endpoint visit. The timed measurements are done at: 0, 15, 30, 60, 90, and 120 minutes. The term &quot;AUC mean&quot; comes from the mean value theorem in calculus. It is the value on the scale of the y-axis that is equal to the AUC divided by the range on the x-axis (in this case 120 minutes).</description>
+          <units>nmol/L</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="45"/>
+                <count group_id="O2" value="22"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.834" spread="0.446"/>
+                    <measurement group_id="O2" value="0.775" spread="0.278"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.048</p_value>
+            <method>ANCOVA</method>
+            <param_type>ANCOVA</param_type>
+            <param_value>0.0616</param_value>
+            <dispersion_type>Standard Error of the Mean</dispersion_type>
+            <dispersion_value>0.0364</dispersion_value>
+            <ci_percent>90</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.00176</ci_lower_limit>
+            <ci_upper_limit>0.121</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Area Under the Stimulated C-peptide Curve (AUC) Mean Over 4 Hours at 24 Months</title>
+        <description>Area under the MMTT-stimulated peak, 4 hour C-peptide AUC mean at week 104. The units are reported as nano-moles/Liter because this is AUC mean (the AUC is divided by the time internal so that the units return to the c-peptide units of measure).</description>
+        <time_frame>Visit 13 (Week 104)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Imatinib Mesylate</title>
+            <description>400 mg imatinib given once daily basis.&#xD;
+Imatinib Mesylate</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo given once daily basis.&#xD;
+Placebo (For imatinib mesylate)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Area Under the Stimulated C-peptide Curve (AUC) Mean Over 4 Hours at 24 Months</title>
+          <description>Area under the MMTT-stimulated peak, 4 hour C-peptide AUC mean at week 104. The units are reported as nano-moles/Liter because this is AUC mean (the AUC is divided by the time internal so that the units return to the c-peptide units of measure).</description>
+          <units>nmol/L</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="45"/>
+                <count group_id="O2" value="22"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.472" lower_limit="0.355" upper_limit="0.599"/>
+                    <measurement group_id="O2" value="0.389" lower_limit="0.255" upper_limit="0.538"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in HbA1c Levels Over Time</title>
+        <description>Change in HbA1c levels from Week 52 to Week 104</description>
+        <time_frame>Visit 9 (Week 52) and Visit 13 (Week 104)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Imatinib Mesylate</title>
+            <description>400 mg imatinib given once daily basis.&#xD;
+Imatinib Mesylate</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo given once daily basis.&#xD;
+Placebo (For imatinib mesylate)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in HbA1c Levels Over Time</title>
+          <description>Change in HbA1c levels from Week 52 to Week 104</description>
+          <units>percentage of HbA1c level</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="45"/>
+                <count group_id="O2" value="22"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Week 52</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.33" lower_limit="6.02" upper_limit="6.66"/>
+                    <measurement group_id="O2" value="6.51" lower_limit="6.03" upper_limit="7.02"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 104</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.44" lower_limit="6.09" upper_limit="6.81"/>
+                    <measurement group_id="O2" value="7.03" lower_limit="6.42" upper_limit="7.69"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Insulin Dose (Units/kg) Over Time</title>
+        <description>Assess insulin use in units per kilogram body weight per day at weeks 52 and 104.</description>
+        <time_frame>Visit 9 (Week 52) and Visit 13 (Week 104)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Imatinib Mesylate</title>
+            <description>400 mg imatinib given once daily basis.&#xD;
+Imatinib Mesylate</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo given once daily basis.&#xD;
+Placebo (For imatinib mesylate)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Insulin Dose (Units/kg) Over Time</title>
+          <description>Assess insulin use in units per kilogram body weight per day at weeks 52 and 104.</description>
+          <units>Units per Kg</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="45"/>
+                <count group_id="O2" value="22"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Week 52</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.307" lower_limit="0.24" upper_limit="0.379"/>
+                    <measurement group_id="O2" value="0.413" lower_limit="0.279" upper_limit="0.56"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 104</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.389" lower_limit="0.315" upper_limit="0.467"/>
+                    <measurement group_id="O2" value="0.488" lower_limit="0.353" upper_limit="0.637"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Severe Hypoglycemic Events</title>
+        <description>Major hypoglycemic events occurring from randomization at weeks 0, 52 and 104.</description>
+        <time_frame>Visit 0 (Week 0), Visit 9 (Week 52), and Visit 13 (Week 104)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Imatinib Mesylate</title>
+            <description>400 mg imatinib given once daily basis.&#xD;
+Imatinib Mesylate</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo given once daily basis.&#xD;
+Placebo (For imatinib mesylate)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Severe Hypoglycemic Events</title>
+          <description>Major hypoglycemic events occurring from randomization at weeks 0, 52 and 104.</description>
+          <units>events</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="45"/>
+                <count group_id="O2" value="22"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Adverse Events</title>
+        <description>Number of adverse events that were reported throughout the study.</description>
+        <time_frame>Adverse Events will be assessed at Visit 0 (week 0), Visit 1 (Week 2), Visit 2 (Week 4), and every month thereafter.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Imatinib Mesylate</title>
+            <description>400 mg imatinib given once daily basis.&#xD;
+Imatinib Mesylate</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo given once daily basis.&#xD;
+Placebo (For imatinib mesylate)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Adverse Events</title>
+          <description>Number of adverse events that were reported throughout the study.</description>
+          <units>events</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="45"/>
+                <count group_id="O2" value="22"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="172"/>
+                    <measurement group_id="O2" value="28"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>2 years</time_frame>
+      <desc>Adverse events that were not considered Serious Adverse Events (SAE) were monitored/assessed without regard to the specific Adverse Event Term so the categories they belong to are provided below.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Imatinib Mesylate</title>
+          <description>400 mg imatinib given once daily basis.&#xD;
+Imatinib Mesylate</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo</title>
+          <description>Placebo given once daily basis.&#xD;
+Placebo (For imatinib mesylate)</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>CTCAE (4.0)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="45"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="22"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="45"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Wolff-Parkinson-White Syndrome</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="45"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Endocrine disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Diabetes ketoacidosis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="45"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Axillary Abscess</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="45"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Aspartate Aminotransferase Increased</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="45"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypoglycemia</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="2" subjects_at_risk="45"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="22"/>
+              </event>
+              <event>
+                <sub_title>Hypophosphatemia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="45"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Myalgia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="45"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Pregnancy, puerperium and perinatal conditions</title>
+            <event_list>
+              <event>
+                <sub_title>Fluid in Lungs</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="45"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Suicide Attempt</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="1" subjects_at_risk="45"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="22"/>
+              </event>
+              <event>
+                <sub_title>Anxiety</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="45"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Wheezing</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="45"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="22"/>
+              </event>
+              <event>
+                <sub_title>Respiratory - Other</sub_title>
+                <description>Respiratory Acidosis, Likely secondary to hypo ventilation in setting of severe lethargy</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="45"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Folliculitis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="45"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="22"/>
+              </event>
+              <event>
+                <sub_title>Prutitus</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="45"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="22"/>
+              </event>
+              <event>
+                <sub_title>Rash maculo papular</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="45"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_vocab>CTCAE (4.0)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="23" subjects_at_risk="45"/>
+                <counts group_id="E2" subjects_affected="12" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Blood and lymphatic system disorders</sub_title>
+                <counts group_id="E1" events="7" subjects_affected="4" subjects_at_risk="45"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cardiac disorders</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="4" subjects_at_risk="45"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Ear and labyrinth disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Ear and labyrinth disorders</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="45"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Endocrine disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Endocrine disorders</sub_title>
+                <counts group_id="E1" events="45" subjects_affected="4" subjects_at_risk="45"/>
+                <counts group_id="E2" events="2" subjects_affected="1" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Eye disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Eye disorders</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="45"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Gastrointestinal disorders</sub_title>
+                <counts group_id="E1" events="13" subjects_affected="6" subjects_at_risk="45"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>General disorders &amp; administration site condt'ns</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="45"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Hepatobiliary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hepatobiliary disorders</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="3" subjects_at_risk="45"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Immune system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Immune system disorders</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="45"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Infections and infestations</sub_title>
+                <counts group_id="E1" events="26" subjects_affected="12" subjects_at_risk="45"/>
+                <counts group_id="E2" events="9" subjects_affected="4" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Injury, poisoning and procedural complications</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="2" subjects_at_risk="45"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Investigations</sub_title>
+                <counts group_id="E1" events="18" subjects_affected="10" subjects_at_risk="45"/>
+                <counts group_id="E2" events="4" subjects_affected="2" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Metabolism and nutrition disorders</sub_title>
+                <counts group_id="E1" events="11" subjects_affected="5" subjects_at_risk="45"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Musculoskeletal and connective tissue disorders</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="3" subjects_at_risk="45"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Nervous system disorders</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="45"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Pregnancy, puerperium and perinatal conditions</title>
+            <event_list>
+              <event>
+                <sub_title>Pregnancy, puerperium and perinatal conditions</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="45"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Psychiatric disorders</sub_title>
+                <counts group_id="E1" events="9" subjects_affected="5" subjects_at_risk="45"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Renal and urinary disorders</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="1" subjects_at_risk="45"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Reproductive system and breast disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Reproductive system and breast disorders</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="45"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Respiratory, thoracic and mediastinal disorders</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="6" subjects_at_risk="45"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Skin and subcutaneous tissue disorders</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="5" subjects_at_risk="45"/>
+                <counts group_id="E2" events="3" subjects_affected="2" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Surgical and medical procedures</title>
+            <event_list>
+              <event>
+                <sub_title>Surgical and medical procedures</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="45"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>The only disclosure restriction on the PI is that the sponsor can review results communications prior to public release and can embargo communications regarding trial results for a period that is less than or equal to 60 days. The sponsor cannot require changes to the communication and cannot extend the embargo.</restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>FDA did not approve for hold on enrollment of pediatric population to be lifted; only adult population was recruited.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Melissa Parker</name_or_title>
+      <organization>University of South Florida</organization>
+      <phone>8133969378</phone>
+      <email>MELISSA.PARKER@EPI.USF.EDU</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

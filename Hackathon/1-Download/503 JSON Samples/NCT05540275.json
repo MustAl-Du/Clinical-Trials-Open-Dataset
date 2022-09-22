@@ -1,0 +1,440 @@
+{
+  "FullStudy":{
+    "Rank":482,
+    "Study":{
+      "ProtocolSection":{
+        "IdentificationModule":{
+          "NCTId":"NCT05540275",
+          "OrgStudyIdInfo":{
+            "OrgStudyId":"HenanPPH-Recurrent GBM"
+          },
+          "Organization":{
+            "OrgFullName":"Henan Provincial People's Hospital",
+            "OrgClass":"OTHER"
+          },
+          "BriefTitle":"Sintilimab (One Anti-PD-1 Antibody) Plus Low-dose Bevacizumab for Bevacizumab Refractory Recurrent Glioblastoma",
+          "OfficialTitle":"Phase 2 Study to Evaluate the Clinical Efficacy and Safety of Sintilimab Plus Low-dose Bevacizumab in Bevacizumab Refractory Recurrent Glioblastoma With PTEN or TERT Gene Mutations"
+        },
+        "StatusModule":{
+          "StatusVerifiedDate":"September 2022",
+          "OverallStatus":"Recruiting",
+          "ExpandedAccessInfo":{
+            "HasExpandedAccess":"No"
+          },
+          "StartDateStruct":{
+            "StartDate":"January 1, 2020",
+            "StartDateType":"Actual"
+          },
+          "PrimaryCompletionDateStruct":{
+            "PrimaryCompletionDate":"December 2023",
+            "PrimaryCompletionDateType":"Anticipated"
+          },
+          "CompletionDateStruct":{
+            "CompletionDate":"December 2026",
+            "CompletionDateType":"Anticipated"
+          },
+          "StudyFirstSubmitDate":"September 11, 2022",
+          "StudyFirstSubmitQCDate":"September 11, 2022",
+          "StudyFirstPostDateStruct":{
+            "StudyFirstPostDate":"September 14, 2022",
+            "StudyFirstPostDateType":"Actual"
+          },
+          "LastUpdateSubmitDate":"September 11, 2022",
+          "LastUpdatePostDateStruct":{
+            "LastUpdatePostDate":"September 14, 2022",
+            "LastUpdatePostDateType":"Actual"
+          }
+        },
+        "SponsorCollaboratorsModule":{
+          "ResponsibleParty":{
+            "ResponsiblePartyType":"Sponsor"
+          },
+          "LeadSponsor":{
+            "LeadSponsorName":"Henan Provincial People's Hospital",
+            "LeadSponsorClass":"OTHER"
+          }
+        },
+        "OversightModule":{
+          "OversightHasDMC":"No",
+          "IsFDARegulatedDrug":"No",
+          "IsFDARegulatedDevice":"No"
+        },
+        "DescriptionModule":{
+          "BriefSummary":"The purpose of this study is to evaluate the clinical efficacy and safety of sintilimab (one anti-PD-1 antibody same as nivolumab approved in China) in combination with bevacizumab in patients with recurrent or progressive glioblastoma (GBM) who have progressed on bevacizumab with or without PTEN or TERT gene mutations."
+        },
+        "ConditionsModule":{
+          "ConditionList":{
+            "Condition":[
+              "Recurrent Glioblastoma"
+            ]
+          }
+        },
+        "DesignModule":{
+          "StudyType":"Interventional",
+          "PhaseList":{
+            "Phase":[
+              "Phase 2"
+            ]
+          },
+          "DesignInfo":{
+            "DesignAllocation":"Non-Randomized",
+            "DesignInterventionModel":"Parallel Assignment",
+            "DesignPrimaryPurpose":"Treatment",
+            "DesignMaskingInfo":{
+              "DesignMasking":"None (Open Label)"
+            }
+          },
+          "EnrollmentInfo":{
+            "EnrollmentCount":"30",
+            "EnrollmentType":"Anticipated"
+          }
+        },
+        "ArmsInterventionsModule":{
+          "ArmGroupList":{
+            "ArmGroup":[
+              {
+                "ArmGroupLabel":"Cohort 1",
+                "ArmGroupType":"Experimental",
+                "ArmGroupDescription":"Patients with bevacizumab-refractory recurrent glioma with PTEN or TERT gene mutations,determined according to the dynamics of TISF ctDNA.",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Drug: Tislelizumab plus Bevacizumab"
+                  ]
+                }
+              },{
+                "ArmGroupLabel":"Cohort 2",
+                "ArmGroupType":"Experimental",
+                "ArmGroupDescription":"Patients with bevacizumab-refractory recurrent glioma without PTEN or TERT gene mutations,determined according to the dynamics of TISF ctDNA.",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Drug: Tislelizumab plus Bevacizumab"
+                  ]
+                }
+              }
+            ]
+          },
+          "InterventionList":{
+            "Intervention":[
+              {
+                "InterventionType":"Drug",
+                "InterventionName":"Tislelizumab plus Bevacizumab",
+                "InterventionDescription":"200mg sintilimab plus 3mg/kg bevacizumab every 3 weeks",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Cohort 1",
+                    "Cohort 2"
+                  ]
+                },
+                "InterventionOtherNameList":{
+                  "InterventionOtherName":[
+                    "TYVYT®"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "OutcomesModule":{
+          "PrimaryOutcomeList":{
+            "PrimaryOutcome":[
+              {
+                "PrimaryOutcomeMeasure":"Overall response rate",
+                "PrimaryOutcomeDescription":"Proportion of participants in the analysis population who have complete response (CR) or partial response (PR) using RANO criteria. Participants without efficacy evalaluation data or survival data censored at day 1. Participants without measurable disease will not be included.",
+                "PrimaryOutcomeTimeFrame":"Up to 2 years after beginning treatment"
+              },{
+                "PrimaryOutcomeMeasure":"Duration of response",
+                "PrimaryOutcomeDescription":"Time from first RANO response to disease progression in participants who achieve a PR or better.",
+                "PrimaryOutcomeTimeFrame":"Up to 2 years after beginning treatment"
+              },{
+                "PrimaryOutcomeMeasure":"Number of participants with treatment-emergent adverse events",
+                "PrimaryOutcomeDescription":"Toxicity is graded in accordance with the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE), version 4.03. Adverse events (AEs) are reported based on clinical laboratory tests, vital sign and weight measurements, physical examinations, performance status evaluations, magnetic resonance imaging, and any other medically indicated assessments, including subject interviews, from the time informed consent is signed through 90 days after the last dose of durvalumab. AEs are considered to be treatment emergent if they occur or worsen in severity after the first dose of study treatment.",
+                "PrimaryOutcomeTimeFrame":"Up to 3 months after beginning therapy"
+              }
+            ]
+          },
+          "SecondaryOutcomeList":{
+            "SecondaryOutcome":[
+              {
+                "SecondaryOutcomeMeasure":"Overall survival",
+                "SecondaryOutcomeDescription":"overall survival, as defined as time from beginning of treatment to death.",
+                "SecondaryOutcomeTimeFrame":"Up to 2 years after beginning treatment"
+              }
+            ]
+          }
+        },
+        "EligibilityModule":{
+          "EligibilityCriteria":"Inclusion Criteria:\n\nWritten informed consent and HIPAA authorization obtained from the subject/legal representative prior to performing any protocol-related procedures, including screening evaluations\nSubjects must be willing and able to comply with scheduled visits, treatment schedule, laboratory testing, and other requirements of thestudy, including disease assessment by MRI and tumor in situ fluid (TISF) collection\nHistologically confirmed diagnosis of glioma\nResection surgery done at the study center (Henan Provincial People'sHospital), with an reservoir intraoperatively implanted connecting the surgical cavity and the subscalp for postoperative noninvasive TISF collection\nAn interval of > 28 days and full recovery (i.e., no ongoing safety issues) from surgical resection prior to grouping\nKarnofsky performance status (KPS) of 70 or higher\nLife expectancy > 12 weeks\n\nExclusion Criteria:\n\nMore than two recurrences of GBM\nPresence of extracranial metastatic, significant leptomeningeal disease or tumors primarily localized to the brainstem or spinal cord\nAny serious or uncontrolled medical disorder that, in the opinion of the investigator, may increase the risk associated with study participation or study drug administration, impair the ability of the subject to receive protocol therapy, or interfere with the interpretation of study results\nSubjects with active, known or suspected autoimmune disease. Subjects with vitiligo, type I diabetes mellitus, residual hypothyroidism due to autoimmune condition only requiring hormone replacement, psoriasis not requiring chronic and systemic immunosuppressive treatment, or conditions not expected to recur in the absence of an external trigger are permitted to enroll. Subjects have any other condition requiring systemic treatment with corticosteroids or other immunosuppressive agents within 14 days. Inhaled or topical steroids and adrenal replacement doses >10mg daily prednisone equivalent are permitted in absence of active autoimmune disease\nPrevious radiation therapy with anything other than standard radiation therapy (i.e., focally directed radiation) administered as first line therapy\nPrevious treatment with carmustine wafer except when administered as first line treatment and at least 6 months prior to randomization\nPrevious bevacizumab or other VEGF or anti-angiogenic treatment\nPrevious treatment with a PD-1, PD-L1 or CTLA-4 targeted therapy\nEvidence of > Grade 1 CNS hemorrhage on the baseline MRI scan\nInadequately controlled hypertension (defined as systolic blood pressure ≥160 mmHg and /or diastolic blood pressure ≥100 mmHg) within 7 days of first study treatment\nPrior history of hypertensive crisis, hypertensive encephalopathy, reversible posterior leukoencephalopathy syndrome (RPLS)\nPrior history of gastrointestinal diverticulitis, perforation, or abscess\nClinically significant (i.e., active) cardiovascular disease, for example cerebrovascular accidents ≤ 6 months prior to study enrollment, myocardial infarction ≤ 6 months prior to study enrollment, unstable angina, New York Heart Association (NYHA) Grade II or greater congestive heart failure (CHF), or serious cardiac arrhythmia uncontrolled by medication or potentially interfering with protocol treatment\nSignificant vascular disease (e.g., aortic aneurysm requiring surgical repair or recent arterial thrombosis) within 6 months prior to start of study treatment. Any previous venous thromboembolism ≥ NCI CTCAE Grade 3 within 3 months prior to start of study treatment\nHistory of pulmonary hemorrhage/hemoptysis ≥ grade 2 (defined as ≥ 2.5 mL bright red blood per episode) within 1 month prior to randomization\nHistory or evidence of inherited bleeding diathesis or significant coagulopathy at risk of bleeding (i.e., in the absence of therapeutic anticoagulation)\nCurrent or recent (within 10 days of study enrollment) use of anticoagulants that, in the opinion of the investigator, would place the subject at significant risk for bleeding. Prophylactic use of anticoagulants is allowed\nSurgical procedure (including open biopsy, surgical resection, wound revision, or any other major surgery involving entry into a body cavity) or significant traumatic injury within 28 days prior to first study treatment, or anticipation of need for major surgical procedure during the course of the study\nMinor surgical procedure (e.g., stereotactic biopsy within 7 days of first study treatment; placement of a vascular access device within 2 days of first study treatment)\nHistory of intracranial abscess within 6 months prior to randomization\nHistory of active gastrointestinal bleeding within 6 months prior to randomization",
+          "HealthyVolunteers":"No",
+          "Gender":"All",
+          "MinimumAge":"18 Years",
+          "StdAgeList":{
+            "StdAge":[
+              "Adult",
+              "Older Adult"
+            ]
+          }
+        },
+        "ContactsLocationsModule":{
+          "CentralContactList":{
+            "CentralContact":[
+              {
+                "CentralContactName":"Xingyao Bu, MD, PhD",
+                "CentralContactRole":"Contact",
+                "CentralContactPhone":"+86037165580295",
+                "CentralContactEMail":"xingyaob@zzu.edu.cn"
+              }
+            ]
+          },
+          "OverallOfficialList":{
+            "OverallOfficial":[
+              {
+                "OverallOfficialName":"Xingyao Bu, MD, PhD",
+                "OverallOfficialAffiliation":"Henan Provincial People's Hospita",
+                "OverallOfficialRole":"Study Director"
+              }
+            ]
+          },
+          "LocationList":{
+            "Location":[
+              {
+                "LocationFacility":"Henan Provincial People's Hospital",
+                "LocationStatus":"Recruiting",
+                "LocationCity":"Zhengzhou",
+                "LocationState":"Henan",
+                "LocationZip":"450003",
+                "LocationCountry":"China",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactName":"Xingyao Bu",
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"xingyaob@zzu.edu.cn"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "IPDSharingStatementModule":{
+          "IPDSharing":"No"
+        }
+      },
+      "DerivedSection":{
+        "MiscInfoModule":{
+          "VersionHolder":"September 19, 2022"
+        },
+        "ConditionBrowseModule":{
+          "ConditionMeshList":{
+            "ConditionMesh":[
+              {
+                "ConditionMeshId":"D000005909",
+                "ConditionMeshTerm":"Glioblastoma"
+              },{
+                "ConditionMeshId":"D000012008",
+                "ConditionMeshTerm":"Recurrence"
+              }
+            ]
+          },
+          "ConditionAncestorList":{
+            "ConditionAncestor":[
+              {
+                "ConditionAncestorId":"D000020969",
+                "ConditionAncestorTerm":"Disease Attributes"
+              },{
+                "ConditionAncestorId":"D000010335",
+                "ConditionAncestorTerm":"Pathologic Processes"
+              },{
+                "ConditionAncestorId":"D000001254",
+                "ConditionAncestorTerm":"Astrocytoma"
+              },{
+                "ConditionAncestorId":"D000005910",
+                "ConditionAncestorTerm":"Glioma"
+              },{
+                "ConditionAncestorId":"D000018302",
+                "ConditionAncestorTerm":"Neoplasms, Neuroepithelial"
+              },{
+                "ConditionAncestorId":"D000017599",
+                "ConditionAncestorTerm":"Neuroectodermal Tumors"
+              },{
+                "ConditionAncestorId":"D000009373",
+                "ConditionAncestorTerm":"Neoplasms, Germ Cell and Embryonal"
+              },{
+                "ConditionAncestorId":"D000009370",
+                "ConditionAncestorTerm":"Neoplasms by Histologic Type"
+              },{
+                "ConditionAncestorId":"D000009369",
+                "ConditionAncestorTerm":"Neoplasms"
+              },{
+                "ConditionAncestorId":"D000009375",
+                "ConditionAncestorTerm":"Neoplasms, Glandular and Epithelial"
+              },{
+                "ConditionAncestorId":"D000009380",
+                "ConditionAncestorTerm":"Neoplasms, Nerve Tissue"
+              }
+            ]
+          },
+          "ConditionBrowseLeafList":{
+            "ConditionBrowseLeaf":[
+              {
+                "ConditionBrowseLeafId":"M14002",
+                "ConditionBrowseLeafName":"Recurrence",
+                "ConditionBrowseLeafAsFound":"Recurrent",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M8171",
+                "ConditionBrowseLeafName":"Glioblastoma",
+                "ConditionBrowseLeafAsFound":"Glioblastoma",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M21853",
+                "ConditionBrowseLeafName":"Disease Attributes",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M3713",
+                "ConditionBrowseLeafName":"Astrocytoma",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M8172",
+                "ConditionBrowseLeafName":"Glioma",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M19599",
+                "ConditionBrowseLeafName":"Neoplasms, Neuroepithelial",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M18997",
+                "ConditionBrowseLeafName":"Neuroectodermal Tumors",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M19540",
+                "ConditionBrowseLeafName":"Neuroectodermal Tumors, Primitive",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M11470",
+                "ConditionBrowseLeafName":"Neoplasms, Germ Cell and Embryonal",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M11467",
+                "ConditionBrowseLeafName":"Neoplasms by Histologic Type",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M11472",
+                "ConditionBrowseLeafName":"Neoplasms, Glandular and Epithelial",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M11477",
+                "ConditionBrowseLeafName":"Neoplasms, Nerve Tissue",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"T2518",
+                "ConditionBrowseLeafName":"Glioblastoma",
+                "ConditionBrowseLeafAsFound":"Glioblastoma",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"T2519",
+                "ConditionBrowseLeafName":"Glioma",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"T4092",
+                "ConditionBrowseLeafName":"Neuroepithelioma",
+                "ConditionBrowseLeafRelevance":"low"
+              }
+            ]
+          },
+          "ConditionBrowseBranchList":{
+            "ConditionBrowseBranch":[
+              {
+                "ConditionBrowseBranchAbbrev":"BC23",
+                "ConditionBrowseBranchName":"Symptoms and General Pathology"
+              },{
+                "ConditionBrowseBranchAbbrev":"All",
+                "ConditionBrowseBranchName":"All Conditions"
+              },{
+                "ConditionBrowseBranchAbbrev":"BC04",
+                "ConditionBrowseBranchName":"Neoplasms"
+              },{
+                "ConditionBrowseBranchAbbrev":"Rare",
+                "ConditionBrowseBranchName":"Rare Diseases"
+              }
+            ]
+          }
+        },
+        "InterventionBrowseModule":{
+          "InterventionMeshList":{
+            "InterventionMesh":[
+              {
+                "InterventionMeshId":"D000068258",
+                "InterventionMeshTerm":"Bevacizumab"
+              }
+            ]
+          },
+          "InterventionAncestorList":{
+            "InterventionAncestor":[
+              {
+                "InterventionAncestorId":"D000074322",
+                "InterventionAncestorTerm":"Antineoplastic Agents, Immunological"
+              },{
+                "InterventionAncestorId":"D000000970",
+                "InterventionAncestorTerm":"Antineoplastic Agents"
+              },{
+                "InterventionAncestorId":"D000020533",
+                "InterventionAncestorTerm":"Angiogenesis Inhibitors"
+              },{
+                "InterventionAncestorId":"D000043924",
+                "InterventionAncestorTerm":"Angiogenesis Modulating Agents"
+              },{
+                "InterventionAncestorId":"D000006133",
+                "InterventionAncestorTerm":"Growth Substances"
+              },{
+                "InterventionAncestorId":"D000045505",
+                "InterventionAncestorTerm":"Physiological Effects of Drugs"
+              },{
+                "InterventionAncestorId":"D000006131",
+                "InterventionAncestorTerm":"Growth Inhibitors"
+              }
+            ]
+          },
+          "InterventionBrowseLeafList":{
+            "InterventionBrowseLeaf":[
+              {
+                "InterventionBrowseLeafId":"M3377",
+                "InterventionBrowseLeafName":"Antibodies",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M246",
+                "InterventionBrowseLeafName":"Bevacizumab",
+                "InterventionBrowseLeafAsFound":"Hours",
+                "InterventionBrowseLeafRelevance":"high"
+              },{
+                "InterventionBrowseLeafId":"M9336",
+                "InterventionBrowseLeafName":"Immunoglobulins",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M1346",
+                "InterventionBrowseLeafName":"Antineoplastic Agents, Immunological",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M21471",
+                "InterventionBrowseLeafName":"Angiogenesis Inhibitors",
+                "InterventionBrowseLeafRelevance":"low"
+              }
+            ]
+          },
+          "InterventionBrowseBranchList":{
+            "InterventionBrowseBranch":[
+              {
+                "InterventionBrowseBranchAbbrev":"All",
+                "InterventionBrowseBranchName":"All Drugs and Chemicals"
+              },{
+                "InterventionBrowseBranchAbbrev":"ANeo",
+                "InterventionBrowseBranchName":"Antineoplastic Agents"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+

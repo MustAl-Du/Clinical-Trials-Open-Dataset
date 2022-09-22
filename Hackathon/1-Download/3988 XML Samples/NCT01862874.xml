@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2141">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01862874</url>
+  </required_header>
+  <id_info>
+    <org_study_id>V501-122</org_study_id>
+    <secondary_id>132237</secondary_id>
+    <secondary_id>2015-002931-16</secondary_id>
+    <secondary_id>V501-122</secondary_id>
+    <nct_id>NCT01862874</nct_id>
+  </id_info>
+  <brief_title>Efficacy and Tolerability Study of V501 in Japanese Males (V501-122)</brief_title>
+  <official_title>A Phase III Placebo-controlled Clinical Trial to Study the Tolerability, Immunogenicity and Efficacy of V501 in 16- to 26-year-old Japanese Men</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Merck Sharp &amp; Dohme LLC</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Merck Sharp &amp; Dohme LLC</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A study to evaluate the efficacy and tolerability of V501 (quadrivalent Human Papilloma Virus&#xD;
+      [HPV] [Type 6, 11, 16 and 18] L1 Virus-Like Particle vaccine, GARDASIL™) in healthy, 16- to&#xD;
+      26-year old Japanese males. The hypotheses tested are: 1) V501 reduces the combined incidence&#xD;
+      of HPV 6-, 11-, 16-, or 18-related persistent infection compared with placebo, and 2) V501&#xD;
+      reduces the combined incidence of HPV 6-, 11-, 16-, or 18-related persistent infection,&#xD;
+      condyloma acuminata, penile/perianal/perineal intraepithelial neoplasia, or penile, perianal,&#xD;
+      or perineal cancer compared with placebo.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">June 27, 2013</start_date>
+  <completion_date type="Actual">August 30, 2017</completion_date>
+  <primary_completion_date type="Actual">August 30, 2017</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Combined Incidence of HPV Type 6, 11, 16, or 18-related Persistent Infection</measure>
+    <time_frame>Up to Month 36</time_frame>
+    <description>Persistent infection was defined as 1) polymerase chain reaction (PCR) positive to HPV Type 6, 11, 16, or 18 in 2 consecutive anogenital or biopsy samples collected ≥4 months apart, or 2) Pathology Panel consensus diagnosis of condyloma acuminate, penile/perianal/perineal intraepithelial neoplasia (PIN), penile, perianal, or perineal cancer and PCR detection of HPV Type 6, 11, 16, or 18 in an adjacent section and PCR positive for the same HPV type at a separate adjacent visit. The combined incidence of HPV Type 6, 11, 16, or 18 persistent infection detected in samples from ≥2 consecutive visits ≥6 months apart was assessed.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants With Maximum Temperature ≥37.5°C Reported on the Vaccination Report Card</measure>
+    <time_frame>Up to 5 days after any vaccination</time_frame>
+    <description>Body temperature (oral or oral equivalent) was recorded on the Vaccination Report Card (VRC). The percentage of participants with a maximum temperature ≥37.5°C was summarized.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants With an Injection-site Adverse Event Prompted on the Vaccination Report Card</measure>
+    <time_frame>Up to 5 days after any vaccination</time_frame>
+    <description>An adverse event (AE) is defined as any untoward medical occurrence in a participant which does not necessarily have a causal relationship with study drug. An AE can therefore be any unfavourable and unintended sign, symptom, or disease temporally associated with the use of study drug or a protocol-specified procedure, whether or not considered related to the study drug or protocol-specified procedure. Any worsening of a preexisting condition that is temporally associated with the study drug or protocol-specified procedure is also an AE. The percentage of participants with an injection-site AE prompted on the VRC (erythema, pain, and swelling) was summarized.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants With a Systemic Adverse Event</measure>
+    <time_frame>Up to 15 days after any vaccination</time_frame>
+    <description>An adverse event (AE) is defined as any untoward medical occurrence in a participant which does not necessarily have a causal relationship with study drug. An AE can therefore be any unfavourable and unintended sign, symptom, or disease temporally associated with the use of study drug or a protocol-specified procedure, whether or not considered related to the study drug or protocol-specified procedure. Any worsening of a preexisting condition that is temporally associated with the study drug or protocol-specified procedure is also an AE. The percentage of participants with a systemic AE was summarized.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants With a Vaccine-related Systemic Adverse Event</measure>
+    <time_frame>Up to 15 days after any vaccination</time_frame>
+    <description>An adverse event (AE) is defined as any untoward medical occurrence in a participant which does not necessarily have a causal relationship with study drug. An AE can therefore be any unfavourable and unintended sign, symptom, or disease temporally associated with the use of study drug or a protocol-specified procedure, whether or not considered related to the study drug or protocol-specified procedure. Any worsening of a preexisting condition that is temporally associated with the study drug or protocol-specified procedure is also an AE. Vaccine-related AEs are those that were deemed possibly, probably, or definitely related to vaccine administration by the investigator. The percentage of participants with a vaccine-related systemic AE was summarized.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Combined Incidence of HPV Type 6, 11, 16, or 18-related Persistent Infection or Disease</measure>
+    <time_frame>Up to Month 36</time_frame>
+    <description>Persistent infection was defined as 1) polymerase chain reaction (PCR) positive to HPV Type 6, 11, 16, or 18 in 2 consecutive anogenital or biopsy samples collected ≥4 months apart, or 2) Pathology Panel consensus diagnosis of condyloma acuminate, penile/perianal/perineal intraepithelial neoplasia (PIN), penile, perianal, or perineal cancer and PCR detection of HPV Type 6, 11, 16, or 18 in an adjacent section and PCR positive for the same HPV type at a separate adjacent visit. The incidence of persistent infection detected in samples from ≥2 consecutive visits ≥6 months apart was assessed. Disease was defined as HPV Type 6, 11, 16, or 18-related condyloma acuminate, PIN, penile, perianal, or perineal cancer. The combined incidence of HPV Type 6, 11, 16, or 18 persistent infection or disease was assessed.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">1124</enrollment>
+  <condition>Anogenital Human Papilloma Virus Infection</condition>
+  <condition>Condyloma Acuminata</condition>
+  <arm_group>
+    <arm_group_label>V501</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants received V501 0.5 mL intramuscular injection at Day 1, Month 2, and Month 6. Follow-up was up to Month 36.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants received placebo 0.5 mL intramuscular injection at Day 1, Month 2, and Month 6. Follow-up was up to Month 36.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>V501</intervention_name>
+    <description>Formulated with aluminum hydroxyphosphate sulfate (AAHS) adjuvant</description>
+    <arm_group_label>V501</arm_group_label>
+    <other_name>GARDASIL™</other_name>
+    <other_name>Quadrivalent HPV (Type 6, 11, 16 and 18) L1 Virus-Like Particle vaccine</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Formulated with AAHS adjuvant</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Japanese&#xD;
+&#xD;
+          -  No clinical evidence of gross genital lesion suggesting sexually-transmitted disease&#xD;
+             and no clinically present external genital warts&#xD;
+&#xD;
+          -  Other inclusion criteria will be discussed with the investigator during screening&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of known prior vaccination with an HPV vaccine or plans to receive one outside&#xD;
+             the study&#xD;
+&#xD;
+          -  History of external genital warts&#xD;
+&#xD;
+          -  History of severe allergic reaction that required medical intervention&#xD;
+&#xD;
+          -  Received immune globulin or blood-derived products in the past 6 months or plan to&#xD;
+             receive any before Month 7 of the study&#xD;
+&#xD;
+          -  History of splenectomy, is currently immunocompromised, or has been diagnosed with&#xD;
+             immunodeficiency, Human Immunodeficiency Virus (HIV), lymphoma, leukemia, systemic&#xD;
+             lupus erythematosus, rheumatoid arthritis, juvenile rheumatoid arthritis, inflammatory&#xD;
+             bowel disease, or other autoimmune condition&#xD;
+&#xD;
+          -  Received immunosuppressive therapy in the past year, excluding inhaled, nasal, or&#xD;
+             topical corticosteroids and certain regimens of systemic corticosteroids&#xD;
+&#xD;
+          -  Known thrombocytopenia or coagulation disorder that would contraindicate intramuscular&#xD;
+             injections&#xD;
+&#xD;
+          -  Ongoing alcohol or drug abuse within the past 12 months&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>26 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Medical Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Merck Sharp &amp; Dohme LLC</affiliation>
+  </overall_official>
+  <removed_countries>
+    <country>Japan</country>
+  </removed_countries>
+  <results_reference>
+    <citation>Mikamo H, Yamagishi Y, Murata S, Yokokawa R, Han SR, Wakana A, Sawata M, Tanaka Y. Efficacy, safety, and immunogenicity of a quadrivalent HPV vaccine in Japanese men: A randomized, Phase 3, placebo-controlled study. Vaccine. 2019 Mar 14;37(12):1651-1658. doi: 10.1016/j.vaccine.2019.01.069. Epub 2019 Feb 20.</citation>
+    <PMID>30797638</PMID>
+  </results_reference>
+  <verification_date>March 2019</verification_date>
+  <study_first_submitted>May 22, 2013</study_first_submitted>
+  <study_first_submitted_qc>May 22, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">May 27, 2013</study_first_posted>
+  <results_first_submitted>July 30, 2018</results_first_submitted>
+  <results_first_submitted_qc>July 30, 2018</results_first_submitted_qc>
+  <results_first_posted type="Actual">August 31, 2018</results_first_posted>
+  <last_update_submitted>March 25, 2019</last_update_submitted>
+  <last_update_submitted_qc>March 25, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 2, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Papillomavirus Infections</mesh_term>
+    <mesh_term>Papilloma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>http://engagezone.msd.com/doc/ProcedureAccessClinicalTrialData.pdf</ipd_description>
+    <ipd_url>http://engagezone.msd.com/ds_documentation.php</ipd_url>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>April 4, 2013</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/74/NCT01862874/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>A total of 1129 participants were screened and 1124 were randomized.</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>V501</title>
+          <description>Participants received V501 0.5 mL intramuscular injection at Day 1, Month 2, and Month 6. Follow-up was up to Month 36.</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo</title>
+          <description>Participants received placebo 0.5 mL intramuscular injection at Day 1, Month 2, and Month 6. Follow-up was up to Month 36.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="562">Randomized participants</participants>
+                <participants group_id="P2" count="562">Randomized participants</participants>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Vaccination 1</title>
+              <participants_list>
+                <participants group_id="P1" count="561"/>
+                <participants group_id="P2" count="562"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Vaccination 2</title>
+              <participants_list>
+                <participants group_id="P1" count="539"/>
+                <participants group_id="P2" count="542"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Vaccination 3</title>
+              <participants_list>
+                <participants group_id="P1" count="530"/>
+                <participants group_id="P2" count="532"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="483"/>
+                <participants group_id="P2" count="485"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="79"/>
+                <participants group_id="P2" count="77"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Randomized not treated</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Adverse Event</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="3"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="26"/>
+                <participants group_id="P2" count="29"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Physician Decision</title>
+              <participants_list>
+                <participants group_id="P1" count="5"/>
+                <participants group_id="P2" count="3"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawn by parent/guardian</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="46"/>
+                <participants group_id="P2" count="40"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Death</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>V501</title>
+          <description>Participants received V501 0.5 mL intramuscular injection at Day 1, Month 2, and Month 6. Follow-up was up to Month 36.</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo</title>
+          <description>Participants received placebo 0.5 mL intramuscular injection at Day 1, Month 2, and Month 6. Follow-up was up to Month 36.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="562"/>
+            <count group_id="B2" value="562"/>
+            <count group_id="B3" value="1124"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="22.6" spread="2.1"/>
+                    <measurement group_id="B2" value="22.6" spread="2.0"/>
+                    <measurement group_id="B3" value="22.6" spread="2.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="562"/>
+                    <measurement group_id="B2" value="562"/>
+                    <measurement group_id="B3" value="1124"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="562"/>
+                    <measurement group_id="B2" value="562"/>
+                    <measurement group_id="B3" value="1124"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Combined Incidence of HPV Type 6, 11, 16, or 18-related Persistent Infection</title>
+        <description>Persistent infection was defined as 1) polymerase chain reaction (PCR) positive to HPV Type 6, 11, 16, or 18 in 2 consecutive anogenital or biopsy samples collected ≥4 months apart, or 2) Pathology Panel consensus diagnosis of condyloma acuminate, penile/perianal/perineal intraepithelial neoplasia (PIN), penile, perianal, or perineal cancer and PCR detection of HPV Type 6, 11, 16, or 18 in an adjacent section and PCR positive for the same HPV type at a separate adjacent visit. The combined incidence of HPV Type 6, 11, 16, or 18 persistent infection detected in samples from ≥2 consecutive visits ≥6 months apart was assessed.</description>
+        <time_frame>Up to Month 36</time_frame>
+        <population>Participants who were seronegative at Day 1 and PCR negative from Day 1 through Month 7 to the relevant HPV type, received all 3 vaccinations, did not deviate from the study protocol in ways that might interfere with vaccine efficacy, and had ≥1 follow-up visit after Month 7.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>V501</title>
+            <description>Participants received V501 0.5 mL intramuscular injection at Day 1, Month 2, and Month 6. Follow-up was up to Month 36.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants received placebo 0.5 mL intramuscular injection at Day 1, Month 2, and Month 6. Follow-up was up to Month 36.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Combined Incidence of HPV Type 6, 11, 16, or 18-related Persistent Infection</title>
+          <description>Persistent infection was defined as 1) polymerase chain reaction (PCR) positive to HPV Type 6, 11, 16, or 18 in 2 consecutive anogenital or biopsy samples collected ≥4 months apart, or 2) Pathology Panel consensus diagnosis of condyloma acuminate, penile/perianal/perineal intraepithelial neoplasia (PIN), penile, perianal, or perineal cancer and PCR detection of HPV Type 6, 11, 16, or 18 in an adjacent section and PCR positive for the same HPV type at a separate adjacent visit. The combined incidence of HPV Type 6, 11, 16, or 18 persistent infection detected in samples from ≥2 consecutive visits ≥6 months apart was assessed.</description>
+          <population>Participants who were seronegative at Day 1 and PCR negative from Day 1 through Month 7 to the relevant HPV type, received all 3 vaccinations, did not deviate from the study protocol in ways that might interfere with vaccine efficacy, and had ≥1 follow-up visit after Month 7.</population>
+          <units>Cases per 100 person-years of follow-up</units>
+          <param>Number</param>
+          <units_analyzed>Person-years follow-up</units_analyzed>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="497"/>
+                <count group_id="O2" value="498"/>
+              </count_list>
+            </analyzed>
+            <analyzed>
+              <units>Person-years follow-up</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="1137"/>
+                <count group_id="O2" value="1123"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.3"/>
+                    <measurement group_id="O2" value="1.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>&lt;0.001</p_value>
+            <method>One-sided exact test</method>
+            <param_type>Vaccine Efficacy</param_type>
+            <param_value>85.9</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>52.7</ci_lower_limit>
+            <ci_upper_limit>97.3</ci_upper_limit>
+            <estimate_desc>Vaccine efficacy is defined as the percentage reduction in relative risk for the V501 group versus the placebo group.</estimate_desc>
+            <other_analysis_desc>If the lower bound of the 95% confidence interval for vaccine efficacy excludes 0%, then superiority of the V501 group is demonstrated.</other_analysis_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Percentage of Participants With Maximum Temperature ≥37.5°C Reported on the Vaccination Report Card</title>
+        <description>Body temperature (oral or oral equivalent) was recorded on the Vaccination Report Card (VRC). The percentage of participants with a maximum temperature ≥37.5°C was summarized.</description>
+        <time_frame>Up to 5 days after any vaccination</time_frame>
+        <population>Participants who received ≥1 study vaccination and had follow-up data available.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>V501</title>
+            <description>Participants received V501 0.5 mL intramuscular injection at Day 1, Month 2, and Month 6. Follow-up was up to Month 36.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants received placebo 0.5 mL intramuscular injection at Day 1, Month 2, and Month 6. Follow-up was up to Month 36.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants With Maximum Temperature ≥37.5°C Reported on the Vaccination Report Card</title>
+          <description>Body temperature (oral or oral equivalent) was recorded on the Vaccination Report Card (VRC). The percentage of participants with a maximum temperature ≥37.5°C was summarized.</description>
+          <population>Participants who received ≥1 study vaccination and had follow-up data available.</population>
+          <units>Percentage of participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="551"/>
+                <count group_id="O2" value="557"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.7"/>
+                    <measurement group_id="O2" value="3.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <non_inferiority_desc>Statistical testing of no difference in incidence of maximum temperature ≥37.5°C</non_inferiority_desc>
+            <p_value>0.256</p_value>
+            <method>Miettinen &amp; Nurminen</method>
+            <param_type>Risk Difference (RD)</param_type>
+            <param_value>-1.2</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-3.5</ci_lower_limit>
+            <ci_upper_limit>0.9</ci_upper_limit>
+            <estimate_desc>Risk difference (V501 - placebo) was estimated using the Miettinen &amp; Nurminen method.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Percentage of Participants With an Injection-site Adverse Event Prompted on the Vaccination Report Card</title>
+        <description>An adverse event (AE) is defined as any untoward medical occurrence in a participant which does not necessarily have a causal relationship with study drug. An AE can therefore be any unfavourable and unintended sign, symptom, or disease temporally associated with the use of study drug or a protocol-specified procedure, whether or not considered related to the study drug or protocol-specified procedure. Any worsening of a preexisting condition that is temporally associated with the study drug or protocol-specified procedure is also an AE. The percentage of participants with an injection-site AE prompted on the VRC (erythema, pain, and swelling) was summarized.</description>
+        <time_frame>Up to 5 days after any vaccination</time_frame>
+        <population>Participants who received ≥1 study vaccination and had follow-up data available.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>V501</title>
+            <description>Participants received V501 0.5 mL intramuscular injection at Day 1, Month 2, and Month 6. Follow-up was up to Month 36.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants received placebo 0.5 mL intramuscular injection at Day 1, Month 2, and Month 6. Follow-up was up to Month 36.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants With an Injection-site Adverse Event Prompted on the Vaccination Report Card</title>
+          <description>An adverse event (AE) is defined as any untoward medical occurrence in a participant which does not necessarily have a causal relationship with study drug. An AE can therefore be any unfavourable and unintended sign, symptom, or disease temporally associated with the use of study drug or a protocol-specified procedure, whether or not considered related to the study drug or protocol-specified procedure. Any worsening of a preexisting condition that is temporally associated with the study drug or protocol-specified procedure is also an AE. The percentage of participants with an injection-site AE prompted on the VRC (erythema, pain, and swelling) was summarized.</description>
+          <population>Participants who received ≥1 study vaccination and had follow-up data available.</population>
+          <units>Percentage of participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="554"/>
+                <count group_id="O2" value="559"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Injection-site erythema</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="24.5"/>
+                    <measurement group_id="O2" value="21.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Injection-site pain</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="54.9"/>
+                    <measurement group_id="O2" value="48.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Injection-site swelling</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="21.3"/>
+                    <measurement group_id="O2" value="14.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Injection-site erythema</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <non_inferiority_desc>Statistical testing of no difference in incidence of injection-site erythema</non_inferiority_desc>
+            <p_value>0.251</p_value>
+            <method>Miettinen &amp; Nurminen</method>
+            <param_type>Risk Difference (RD)</param_type>
+            <param_value>2.9</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-2.1</ci_lower_limit>
+            <ci_upper_limit>7.9</ci_upper_limit>
+            <estimate_desc>Risk difference (V501 - placebo) was estimated using the Miettinen &amp; Nurminen method.</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Injection-site pain</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <non_inferiority_desc>Statistical testing of no difference in incidence of injection-site pain</non_inferiority_desc>
+            <p_value>0.033</p_value>
+            <method>Miettinen &amp; Nurminen</method>
+            <param_type>Risk Difference (RD)</param_type>
+            <param_value>6.4</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.5</ci_lower_limit>
+            <ci_upper_limit>12.2</ci_upper_limit>
+            <estimate_desc>Risk difference (V501 - placebo) was estimated using the Miettinen &amp; Nurminen method.</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Injection-site swelling</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <non_inferiority_desc>Statistical testing of no difference in incidence of injection-site swelling</non_inferiority_desc>
+            <p_value>0.003</p_value>
+            <method>Miettinen &amp; Nurminen</method>
+            <param_type>Risk Difference (RD)</param_type>
+            <param_value>6.8</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>2.3</ci_lower_limit>
+            <ci_upper_limit>11.3</ci_upper_limit>
+            <estimate_desc>Risk difference (V501 - placebo) was estimated using the Miettinen &amp; Nurminen method.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Percentage of Participants With a Systemic Adverse Event</title>
+        <description>An adverse event (AE) is defined as any untoward medical occurrence in a participant which does not necessarily have a causal relationship with study drug. An AE can therefore be any unfavourable and unintended sign, symptom, or disease temporally associated with the use of study drug or a protocol-specified procedure, whether or not considered related to the study drug or protocol-specified procedure. Any worsening of a preexisting condition that is temporally associated with the study drug or protocol-specified procedure is also an AE. The percentage of participants with a systemic AE was summarized.</description>
+        <time_frame>Up to 15 days after any vaccination</time_frame>
+        <population>Participants who received ≥1 study vaccination and had follow-up data available.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>V501</title>
+            <description>Participants received V501 0.5 mL intramuscular injection at Day 1, Month 2, and Month 6. Follow-up was up to Month 36.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants received placebo 0.5 mL intramuscular injection at Day 1, Month 2, and Month 6. Follow-up was up to Month 36.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants With a Systemic Adverse Event</title>
+          <description>An adverse event (AE) is defined as any untoward medical occurrence in a participant which does not necessarily have a causal relationship with study drug. An AE can therefore be any unfavourable and unintended sign, symptom, or disease temporally associated with the use of study drug or a protocol-specified procedure, whether or not considered related to the study drug or protocol-specified procedure. Any worsening of a preexisting condition that is temporally associated with the study drug or protocol-specified procedure is also an AE. The percentage of participants with a systemic AE was summarized.</description>
+          <population>Participants who received ≥1 study vaccination and had follow-up data available.</population>
+          <units>Percentage of participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="554"/>
+                <count group_id="O2" value="559"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="14.4"/>
+                    <measurement group_id="O2" value="15.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <non_inferiority_desc>Statistical testing of no difference in incidence of systemic AEs</non_inferiority_desc>
+            <param_type>Risk Difference (RD)</param_type>
+            <param_value>-0.9</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-5.2</ci_lower_limit>
+            <ci_upper_limit>3.3</ci_upper_limit>
+            <estimate_desc>Risk difference (V501 - placebo) was estimated using the Miettinen &amp; Nurminen method.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Percentage of Participants With a Vaccine-related Systemic Adverse Event</title>
+        <description>An adverse event (AE) is defined as any untoward medical occurrence in a participant which does not necessarily have a causal relationship with study drug. An AE can therefore be any unfavourable and unintended sign, symptom, or disease temporally associated with the use of study drug or a protocol-specified procedure, whether or not considered related to the study drug or protocol-specified procedure. Any worsening of a preexisting condition that is temporally associated with the study drug or protocol-specified procedure is also an AE. Vaccine-related AEs are those that were deemed possibly, probably, or definitely related to vaccine administration by the investigator. The percentage of participants with a vaccine-related systemic AE was summarized.</description>
+        <time_frame>Up to 15 days after any vaccination</time_frame>
+        <population>Participants who received ≥1 study vaccination and had follow-up data available.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>V501</title>
+            <description>Participants received V501 0.5 mL intramuscular injection at Day 1, Month 2, and Month 6. Follow-up was up to Month 36.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants received placebo 0.5 mL intramuscular injection at Day 1, Month 2, and Month 6. Follow-up was up to Month 36.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants With a Vaccine-related Systemic Adverse Event</title>
+          <description>An adverse event (AE) is defined as any untoward medical occurrence in a participant which does not necessarily have a causal relationship with study drug. An AE can therefore be any unfavourable and unintended sign, symptom, or disease temporally associated with the use of study drug or a protocol-specified procedure, whether or not considered related to the study drug or protocol-specified procedure. Any worsening of a preexisting condition that is temporally associated with the study drug or protocol-specified procedure is also an AE. Vaccine-related AEs are those that were deemed possibly, probably, or definitely related to vaccine administration by the investigator. The percentage of participants with a vaccine-related systemic AE was summarized.</description>
+          <population>Participants who received ≥1 study vaccination and had follow-up data available.</population>
+          <units>Percentage of participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="554"/>
+                <count group_id="O2" value="559"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.4"/>
+                    <measurement group_id="O2" value="5.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <non_inferiority_desc>Statistical testing of no difference in incidence of vaccine-related systemic AEs</non_inferiority_desc>
+            <param_type>Risk Difference (RD)</param_type>
+            <param_value>-1.6</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-4.1</ci_lower_limit>
+            <ci_upper_limit>0.8</ci_upper_limit>
+            <estimate_desc>Risk difference (V501 - placebo) was estimated using the Miettinen &amp; Nurminen method.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Combined Incidence of HPV Type 6, 11, 16, or 18-related Persistent Infection or Disease</title>
+        <description>Persistent infection was defined as 1) polymerase chain reaction (PCR) positive to HPV Type 6, 11, 16, or 18 in 2 consecutive anogenital or biopsy samples collected ≥4 months apart, or 2) Pathology Panel consensus diagnosis of condyloma acuminate, penile/perianal/perineal intraepithelial neoplasia (PIN), penile, perianal, or perineal cancer and PCR detection of HPV Type 6, 11, 16, or 18 in an adjacent section and PCR positive for the same HPV type at a separate adjacent visit. The incidence of persistent infection detected in samples from ≥2 consecutive visits ≥6 months apart was assessed. Disease was defined as HPV Type 6, 11, 16, or 18-related condyloma acuminate, PIN, penile, perianal, or perineal cancer. The combined incidence of HPV Type 6, 11, 16, or 18 persistent infection or disease was assessed.</description>
+        <time_frame>Up to Month 36</time_frame>
+        <population>Participants who were seronegative at Day 1 and PCR negative from Day 1 through Month 7 to the relevant HPV type, received all 3 vaccinations, did not deviate from the study protocol in ways that might interfere with vaccine efficacy, and had ≥1 follow-up visit after Month 7.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>V501</title>
+            <description>Participants received V501 0.5 mL intramuscular injection at Day 1, Month 2, and Month 6. Follow-up was up to Month 36.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants received placebo 0.5 mL intramuscular injection at Day 1, Month 2, and Month 6. Follow-up was up to Month 36.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Combined Incidence of HPV Type 6, 11, 16, or 18-related Persistent Infection or Disease</title>
+          <description>Persistent infection was defined as 1) polymerase chain reaction (PCR) positive to HPV Type 6, 11, 16, or 18 in 2 consecutive anogenital or biopsy samples collected ≥4 months apart, or 2) Pathology Panel consensus diagnosis of condyloma acuminate, penile/perianal/perineal intraepithelial neoplasia (PIN), penile, perianal, or perineal cancer and PCR detection of HPV Type 6, 11, 16, or 18 in an adjacent section and PCR positive for the same HPV type at a separate adjacent visit. The incidence of persistent infection detected in samples from ≥2 consecutive visits ≥6 months apart was assessed. Disease was defined as HPV Type 6, 11, 16, or 18-related condyloma acuminate, PIN, penile, perianal, or perineal cancer. The combined incidence of HPV Type 6, 11, 16, or 18 persistent infection or disease was assessed.</description>
+          <population>Participants who were seronegative at Day 1 and PCR negative from Day 1 through Month 7 to the relevant HPV type, received all 3 vaccinations, did not deviate from the study protocol in ways that might interfere with vaccine efficacy, and had ≥1 follow-up visit after Month 7.</population>
+          <units>Cases per 100 person-years at risk</units>
+          <param>Number</param>
+          <units_analyzed>Person-years follow-up</units_analyzed>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="498"/>
+                <count group_id="O2" value="498"/>
+              </count_list>
+            </analyzed>
+            <analyzed>
+              <units>Person-years follow-up</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="1148"/>
+                <count group_id="O2" value="1132"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.3"/>
+                    <measurement group_id="O2" value="1.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>&lt;0.001</p_value>
+            <method>One-sided exact test</method>
+            <param_type>Vaccine Efficacy</param_type>
+            <param_value>86.5</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>55.2</ci_lower_limit>
+            <ci_upper_limit>97.4</ci_upper_limit>
+            <estimate_desc>Vaccine efficacy is defined as the percentage reduction in relative risk for the V501 versus the placebo group.</estimate_desc>
+            <other_analysis_desc>If the lower bound of the 95% confidence interval for vaccine efficacy excludes 0%, superiority of the V501 group is demonstrated.</other_analysis_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Up to 36 months</time_frame>
+      <desc>The at-risk population was participants who received ≥1 study vaccination and had follow-up data available</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>V501</title>
+          <description>Participants received V501 0.5 mL intramuscular injection at Day 1, Month 2, and Month 6. Follow-up was up to Month 36.</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo</title>
+          <description>Participants received placebo 0.5 mL intramuscular injection at Day 1, Month 2, and Month 6. Follow-up was up to Month 36.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedDRA version 20.1</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="554"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="559"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="554"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="559"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Completed suicide</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="554"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="559"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_vocab>MedDRA version 20.1</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="329" subjects_at_risk="554"/>
+                <counts group_id="E2" subjects_affected="303" subjects_at_risk="559"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Injection-site erythema</sub_title>
+                <counts group_id="E1" events="217" subjects_affected="137" subjects_at_risk="554"/>
+                <counts group_id="E2" events="179" subjects_affected="122" subjects_at_risk="559"/>
+              </event>
+              <event>
+                <sub_title>Injection-site pain</sub_title>
+                <counts group_id="E1" events="563" subjects_affected="304" subjects_at_risk="554"/>
+                <counts group_id="E2" events="480" subjects_affected="271" subjects_at_risk="559"/>
+              </event>
+              <event>
+                <sub_title>Injection-site swelling</sub_title>
+                <counts group_id="E1" events="181" subjects_affected="118" subjects_at_risk="554"/>
+                <counts group_id="E2" events="121" subjects_affected="82" subjects_at_risk="559"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>The Sponsor must have the opportunity to review all proposed abstracts, manuscripts or presentations regarding this trial 45 days prior to submission for publication/presentation. Any information identified by the Sponsor as confidential must be deleted prior to submission; this confidentiality does not include efficacy and safety results.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Senior Vice President, Global Clinical Development</name_or_title>
+      <organization>Merck Sharp &amp; Dohme Corp.</organization>
+      <phone>1-800-672-6372</phone>
+      <email>ClinicalTrialsDisclosure@merck.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

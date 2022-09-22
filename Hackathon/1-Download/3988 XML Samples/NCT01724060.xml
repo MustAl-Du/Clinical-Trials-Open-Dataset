@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2173">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01724060</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FPS</org_study_id>
+    <nct_id>NCT01724060</nct_id>
+  </id_info>
+  <brief_title>Effects of Obesity Treatments on Food Preferences and Metabolism</brief_title>
+  <acronym>FPS</acronym>
+  <official_title>The Effects of Current Treatments of Obesity on Food Preferences, Gut Hormones, Bile Acids and Hepatic Glucose Output in Humans.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Imperial College London</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Imperial College London</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Obesity and Type 2 Diabetes Mellitus are major health problems which are becoming a burden&#xD;
+      both for patients and health systems alike. The surgical and medical treatments available for&#xD;
+      these conditions have improved significantly in the last two decades. The investigators do&#xD;
+      not however know how these treatments compare to each other and how they act in the body to&#xD;
+      cause weight loss and diabetes improvements. The studies of this experiment are complementary&#xD;
+      to each other. They aim to answer related questions and will allow us to study how these&#xD;
+      treatments work and eventually develop safer and more effective therapies for obesity and&#xD;
+      diabetes.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The objective of this study is to investigate the effects of obesity surgical procedures and&#xD;
+      incretin therapies on food preferences, satiety, gut hormones, bile acids and hepatic glucose&#xD;
+      output in overweight and obese patients.&#xD;
+&#xD;
+      As part of routine care these patients will be seen by a dietician/diabetes specialist nurse&#xD;
+      (DSN) before and after intervention. Patients will be asked to prospectively complete food&#xD;
+      diaries on three consecutive days which are representative of their usual dietary intake. The&#xD;
+      first food diary will be completed three months to two weeks pre intervention. Another four&#xD;
+      food diaries will be completed post intervention: at one, three months, 6 months and one&#xD;
+      year. Total energy intake and macronutrient composition comparisons pre and post intervention&#xD;
+      will form the basis of our analysis.&#xD;
+&#xD;
+      20 patients in each group will undergo more detailed measurements of food intake, hunger,&#xD;
+      satiety, gut hormones and bile acids. The research protocol will be the similar to that&#xD;
+      previously published by the Department of Metabolic Medicine, Imperial College, London.&#xD;
+      Participants will be fasted for 12 hours overnight and will attend for the study on 5&#xD;
+      occasions. On each occasion venous blood samples will be taken and visual analogue scores&#xD;
+      will be measured over a 3 hour period using previously published methodology Samples or&#xD;
+      sample containers will be anonymised before collection but will be traceable back to the&#xD;
+      individual patients. Urine will be collected once. A qualified medical doctor will insert a&#xD;
+      venepuncture cannula into the arm of the patient and 5ml blood will be withdrawn at baseline,&#xD;
+      15, 30, 60, 90, 120, 150 and 180 minutes following ingestion of a standard 400kcal meal as&#xD;
+      below.&#xD;
+&#xD;
+      Ten patients in each group (different from those taking part in the meal studies) will&#xD;
+      undergo measurements of hepatic glucose output/insulin resistance through euglycaemic&#xD;
+      hyperinsulinaemic clamps (Metabolic Study). To ensure that acute caloric restriction does not&#xD;
+      affect insulin sensitivity, patients will be on a low calorie liquid diet for 4-14 days and&#xD;
+      3-7 days after intervention to ensure that their weight is stable throughout the study. This&#xD;
+      diet is nutritious and contains all appropriate macronutrients. Such diets are frequently&#xD;
+      used as part of pre-obesity interventions to reduce weight and risk. Patients will provide&#xD;
+      the investigators with a detailed food diary of their food consumption for this period.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 2012</start_date>
+  <completion_date type="Actual">October 2017</completion_date>
+  <primary_completion_date type="Actual">October 2017</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Energy Intake From Baseline</measure>
+    <time_frame>Change at 12 months</time_frame>
+    <description>The difference in total calories consumption between baseline and 12 months</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Appetite Ratings From Baseline</measure>
+    <time_frame>Change 12 months</time_frame>
+    <description>Visual Analogues difference between baseline and follow up</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Metabolites From Baseline</measure>
+    <time_frame>Change at 12 months</time_frame>
+    <description>Blood samples difference between baseline and follow up</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Hepatic Insulin Resistance From Baseline</measure>
+    <time_frame>Change at 1 week after intervention</time_frame>
+    <description>Insulin clamps difference between baseline and follow up</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Macronutrient Composition From Baseline</measure>
+    <time_frame>Change at 12 months</time_frame>
+    <description>Macronutrients difference between baseline and follow up</description>
+  </secondary_outcome>
+  <number_of_groups>8</number_of_groups>
+  <enrollment type="Actual">80</enrollment>
+  <condition>Obesity</condition>
+  <condition>Type 2 Diabetes Mellitus</condition>
+  <arm_group>
+    <arm_group_label>Gastric bypass</arm_group_label>
+    <description>Patients due for gastric bypass surgery</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Gastric banding</arm_group_label>
+    <description>Patients due for gastric banding</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sleeve gastrectomy</arm_group_label>
+    <description>Patients due for sleeve gastrectomy</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Endobarrier</arm_group_label>
+    <description>Patients due to undergo endoscopic Endobarrier insertion</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Exenatide</arm_group_label>
+    <description>Patients due to be commenced on Exenatide</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Liraglutide</arm_group_label>
+    <description>Patients due to be commenced on Liraglutide</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Lifestyle</arm_group_label>
+    <description>Patients due to be commenced on a lifestyle intervention programme</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Elective surgery or endoscopy</arm_group_label>
+    <description>Patients due to have non bariatric surgery (i.e. cholecystectomy) or an elective diagnostic endoscopy</description>
+  </arm_group>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Human plasma&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients from the community or hospital care&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult patients with overweight and/or obesity (BMI ≥30 Kg/m2) who are eligible for&#xD;
+             obesity treatment based on NICE guidance or that are having non bariatric surgery or&#xD;
+             endoscopy.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  None&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Carel W le Roux, MRCP PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Imperial College London</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Royal Surrey County Hospital</name>
+      <address>
+        <city>Guildford</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Imperial Weight Centre</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>March 2020</verification_date>
+  <study_first_submitted>October 16, 2012</study_first_submitted>
+  <study_first_submitted_qc>November 8, 2012</study_first_submitted_qc>
+  <study_first_posted type="Estimate">November 9, 2012</study_first_posted>
+  <results_first_submitted>February 17, 2020</results_first_submitted>
+  <results_first_submitted_qc>March 19, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">March 31, 2020</results_first_posted>
+  <last_update_submitted>March 19, 2020</last_update_submitted>
+  <last_update_submitted_qc>March 19, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 31, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Obesity</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 2</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>June 12, 2013</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/60/NCT01724060/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>There were no pre assignments requirements</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Gastric Bypass</title>
+          <description>Patients due for gastric bypass surgery</description>
+        </group>
+        <group group_id="P2">
+          <title>Gastric Banding</title>
+          <description>Patients due for gastric banding</description>
+        </group>
+        <group group_id="P3">
+          <title>Sleeve Gastrectomy</title>
+          <description>Patients due for sleeve gastrectomy</description>
+        </group>
+        <group group_id="P4">
+          <title>Endobarrier</title>
+          <description>Patients due to undergo endoscopic Endobarrier insertion</description>
+        </group>
+        <group group_id="P5">
+          <title>Exenatide</title>
+          <description>Patients due to be commenced on Exenatide</description>
+        </group>
+        <group group_id="P6">
+          <title>Liraglutide</title>
+          <description>Patients due to be commenced on Liraglutide</description>
+        </group>
+        <group group_id="P7">
+          <title>Lifestyle</title>
+          <description>Patients due to be commenced on a lifestyle intervention programme</description>
+        </group>
+        <group group_id="P8">
+          <title>Elective Surgery or Endoscopy</title>
+          <description>Patients due to have non bariatric surgery (i.e. cholecystectomy) or an elective diagnostic endoscopy</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="10"/>
+                <participants group_id="P2" count="10"/>
+                <participants group_id="P3" count="10"/>
+                <participants group_id="P4" count="10"/>
+                <participants group_id="P5" count="10"/>
+                <participants group_id="P6" count="10"/>
+                <participants group_id="P7" count="10"/>
+                <participants group_id="P8" count="10"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="10"/>
+                <participants group_id="P2" count="10"/>
+                <participants group_id="P3" count="10"/>
+                <participants group_id="P4" count="10"/>
+                <participants group_id="P5" count="10"/>
+                <participants group_id="P6" count="10"/>
+                <participants group_id="P7" count="10"/>
+                <participants group_id="P8" count="10"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+                <participants group_id="P5" count="0"/>
+                <participants group_id="P6" count="0"/>
+                <participants group_id="P7" count="0"/>
+                <participants group_id="P8" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Patients attending obesity clinic from living in a multinational city such as London.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Gastric Bypass</title>
+          <description>Patients due for gastric bypass surgery</description>
+        </group>
+        <group group_id="B2">
+          <title>Gastric Banding</title>
+          <description>Patients due for gastric banding</description>
+        </group>
+        <group group_id="B3">
+          <title>Sleeve Gastrectomy</title>
+          <description>Patients due for sleeve gastrectomy</description>
+        </group>
+        <group group_id="B4">
+          <title>Endobarrier</title>
+          <description>Patients due to undergo endoscopic Endobarrier insertion</description>
+        </group>
+        <group group_id="B5">
+          <title>Exenatide</title>
+          <description>Patients due to be commenced on Exenatide</description>
+        </group>
+        <group group_id="B6">
+          <title>Liraglutide</title>
+          <description>Patients due to be commenced on Liraglutide</description>
+        </group>
+        <group group_id="B7">
+          <title>Lifestyle</title>
+          <description>Patients due to be commenced on a lifestyle intervention programme</description>
+        </group>
+        <group group_id="B8">
+          <title>Elective Surgery or Endoscopy</title>
+          <description>Patients due to have non bariatric surgery (i.e. cholecystectomy) or an elective diagnostic endoscopy</description>
+        </group>
+        <group group_id="B9">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="10"/>
+            <count group_id="B2" value="10"/>
+            <count group_id="B3" value="10"/>
+            <count group_id="B4" value="10"/>
+            <count group_id="B5" value="10"/>
+            <count group_id="B6" value="10"/>
+            <count group_id="B7" value="10"/>
+            <count group_id="B8" value="10"/>
+            <count group_id="B9" value="80"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="0"/>
+                    <measurement group_id="B8" value="0"/>
+                    <measurement group_id="B9" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="10"/>
+                    <measurement group_id="B4" value="10"/>
+                    <measurement group_id="B5" value="10"/>
+                    <measurement group_id="B6" value="10"/>
+                    <measurement group_id="B7" value="10"/>
+                    <measurement group_id="B8" value="10"/>
+                    <measurement group_id="B9" value="80"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="0"/>
+                    <measurement group_id="B8" value="0"/>
+                    <measurement group_id="B9" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>year</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="42" spread="12"/>
+                    <measurement group_id="B2" value="40" spread="14"/>
+                    <measurement group_id="B3" value="44" spread="9"/>
+                    <measurement group_id="B4" value="43" spread="7"/>
+                    <measurement group_id="B5" value="44" spread="8"/>
+                    <measurement group_id="B6" value="41" spread="7"/>
+                    <measurement group_id="B7" value="43" spread="13"/>
+                    <measurement group_id="B8" value="40" spread="15"/>
+                    <measurement group_id="B9" value="42" spread="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="6"/>
+                    <measurement group_id="B4" value="4"/>
+                    <measurement group_id="B5" value="7"/>
+                    <measurement group_id="B6" value="6"/>
+                    <measurement group_id="B7" value="3"/>
+                    <measurement group_id="B8" value="5"/>
+                    <measurement group_id="B9" value="41"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="4"/>
+                    <measurement group_id="B4" value="6"/>
+                    <measurement group_id="B5" value="3"/>
+                    <measurement group_id="B6" value="4"/>
+                    <measurement group_id="B7" value="7"/>
+                    <measurement group_id="B8" value="5"/>
+                    <measurement group_id="B9" value="39"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="0"/>
+                    <measurement group_id="B8" value="0"/>
+                    <measurement group_id="B9" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="0"/>
+                    <measurement group_id="B8" value="0"/>
+                    <measurement group_id="B9" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="10"/>
+                    <measurement group_id="B4" value="10"/>
+                    <measurement group_id="B5" value="10"/>
+                    <measurement group_id="B6" value="10"/>
+                    <measurement group_id="B7" value="10"/>
+                    <measurement group_id="B8" value="10"/>
+                    <measurement group_id="B9" value="80"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United Kingdom</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="10"/>
+                    <measurement group_id="B4" value="10"/>
+                    <measurement group_id="B5" value="10"/>
+                    <measurement group_id="B6" value="10"/>
+                    <measurement group_id="B7" value="10"/>
+                    <measurement group_id="B8" value="10"/>
+                    <measurement group_id="B9" value="80"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Food Intake</title>
+          <units>kcal</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1505" spread="205"/>
+                    <measurement group_id="B2" value="1490" spread="218"/>
+                    <measurement group_id="B3" value="1482" spread="162"/>
+                    <measurement group_id="B4" value="1511" spread="197"/>
+                    <measurement group_id="B5" value="1503" spread="222"/>
+                    <measurement group_id="B6" value="1420" spread="183"/>
+                    <measurement group_id="B7" value="1471" spread="193"/>
+                    <measurement group_id="B8" value="1453" spread="211"/>
+                    <measurement group_id="B9" value="1503" spread="198"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in Energy Intake From Baseline</title>
+        <description>The difference in total calories consumption between baseline and 12 months</description>
+        <time_frame>Change at 12 months</time_frame>
+        <population>Patients that had specific obesity interventions.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Gastric Bypass</title>
+            <description>Patients due for gastric bypass surgery</description>
+          </group>
+          <group group_id="O2">
+            <title>Gastric Banding</title>
+            <description>Patients due for gastric banding</description>
+          </group>
+          <group group_id="O3">
+            <title>Sleeve Gastrectomy</title>
+            <description>Patients due for sleeve gastrectomy</description>
+          </group>
+          <group group_id="O4">
+            <title>Endobarrier</title>
+            <description>Patients due to undergo endoscopic Endobarrier insertion</description>
+          </group>
+          <group group_id="O5">
+            <title>Exenatide</title>
+            <description>Patients due to be commenced on Exenatide</description>
+          </group>
+          <group group_id="O6">
+            <title>Liraglutide</title>
+            <description>Patients due to be commenced on Liraglutide</description>
+          </group>
+          <group group_id="O7">
+            <title>Lifestyle</title>
+            <description>Patients due to be commenced on a lifestyle intervention programme</description>
+          </group>
+          <group group_id="O8">
+            <title>Elective Surgery or Endoscopy</title>
+            <description>Patients due to have non bariatric surgery (i.e. cholecystectomy) or an elective diagnostic endoscopy</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Energy Intake From Baseline</title>
+          <description>The difference in total calories consumption between baseline and 12 months</description>
+          <population>Patients that had specific obesity interventions.</population>
+          <units>kcal</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="10"/>
+                <count group_id="O3" value="10"/>
+                <count group_id="O4" value="10"/>
+                <count group_id="O5" value="10"/>
+                <count group_id="O6" value="10"/>
+                <count group_id="O7" value="10"/>
+                <count group_id="O8" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="500" spread="55"/>
+                    <measurement group_id="O2" value="310" spread="76"/>
+                    <measurement group_id="O3" value="482" spread="69"/>
+                    <measurement group_id="O4" value="5" spread="105"/>
+                    <measurement group_id="O5" value="27" spread="92"/>
+                    <measurement group_id="O6" value="103" spread="74"/>
+                    <measurement group_id="O7" value="11" spread="129"/>
+                    <measurement group_id="O8" value="15" spread="114"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Appetite Ratings From Baseline</title>
+        <description>Visual Analogues difference between baseline and follow up</description>
+        <time_frame>Change 12 months</time_frame>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Metabolites From Baseline</title>
+        <description>Blood samples difference between baseline and follow up</description>
+        <time_frame>Change at 12 months</time_frame>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Hepatic Insulin Resistance From Baseline</title>
+        <description>Insulin clamps difference between baseline and follow up</description>
+        <time_frame>Change at 1 week after intervention</time_frame>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Macronutrient Composition From Baseline</title>
+        <description>Macronutrients difference between baseline and follow up</description>
+        <time_frame>Change at 12 months</time_frame>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>1 year</time_frame>
+      <desc>No difference</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Gastric Bypass</title>
+          <description>Patients due for gastric bypass surgery.</description>
+        </group>
+        <group group_id="E2">
+          <title>Gastric Banding</title>
+          <description>Patients due for gastric banding.</description>
+        </group>
+        <group group_id="E3">
+          <title>Sleeve Gastrectomy</title>
+          <description>Patients due for sleeve gastrectomy.</description>
+        </group>
+        <group group_id="E4">
+          <title>EndoBarrier</title>
+          <description>Patients due to undergo endoscopic Endobarrier insertion.</description>
+        </group>
+        <group group_id="E5">
+          <title>Exenatide</title>
+          <description>Patients due to be commenced on Exenatide.</description>
+        </group>
+        <group group_id="E6">
+          <title>Liraglutide</title>
+          <description>Patients due to be commenced on Liraglutide.</description>
+        </group>
+        <group group_id="E7">
+          <title>Lifestyle</title>
+          <description>Patients due to be commenced on a lifestyle intervention programme.</description>
+        </group>
+        <group group_id="E8">
+          <title>Elective Surgery or Endoscopy</title>
+          <description>Patients due to have non bariatric surgery (i.e. cholecystectomy) or an elective diagnostic endoscopy. No adverse events recorded.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="10"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="10"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E7" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E8" subjects_affected="0" subjects_at_risk="10"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>The study was limited by different treatment modalities being compared such as endobarrier, gastric bypass and medication</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Carel le Roux</name_or_title>
+      <organization>Imperial College</organization>
+      <phone>07970719453</phone>
+      <email>c.leroux@imperial.ac.uk</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2188">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01640288</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00037791</org_study_id>
+    <nct_id>NCT01640288</nct_id>
+  </id_info>
+  <brief_title>Imaging Regional Lung Defect Severity</brief_title>
+  <acronym>DIAL1001004</acronym>
+  <official_title>Human Lung Regional Ventilation Defect Severity Measured by Fluorine-19 Gas MRI</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hal C Charles</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Duke University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to develop and evaluate the usefulness of magnetic resonance&#xD;
+      imaging (MRI) using inert perfluorinated gases mixed with oxygen for regional assessment of&#xD;
+      pulmonary function. The proposed study seeks to determine regional qualitative and&#xD;
+      quantitative lung function information in the context of the clinical trajectory of chronic&#xD;
+      obstructive pulmonary disease (COPD) defined by the cross sectional cohort component. In the&#xD;
+      case of these perfluorinated (PFx)/oxygen mixtures, the availability of multi-liter&#xD;
+      quantities allows for wash-in/wash-out image acquisition and analysis allowing direct&#xD;
+      measures of gas trapping in a manner not easily achieved with any existing modality.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Recently, The Center for Disease Control and Prevention (CDC) announced that chronic&#xD;
+      obstructive pulmonary disease (COPD) had escalated to the 3rd leading cause of death in this&#xD;
+      country. John Walsh (President, COPD Foundation) remarked that &quot;It's unacceptable that COPD&#xD;
+      has gone from the fourth leading cause to the third twelve years sooner than what was&#xD;
+      originally projected. This wakeup call intensifies our declaration of war on COPD and points&#xD;
+      to the importance of improved awareness, prevention, detection and treatment to decrease the&#xD;
+      burden of COPD&quot;. Although there have been significant advances in care, the COPD epidemic&#xD;
+      persists, leading to approximately 137,082 deaths/yr. in the US alone. COPD represents the&#xD;
+      only disease in the top ten causes of death that has consistently increased in frequency over&#xD;
+      the past 4 decades only showing a slight decrease (~4%) in the preliminary data for deaths in&#xD;
+      2009 recently released. The economic burden of COPD in the US in 2010 is estimated at 29.5&#xD;
+      billion dollars in direct costs (an increase of 63% from 2002) and another 20.5 billion in&#xD;
+      productivity loss. Consequently COPD represents one of the largest uncontrolled disease&#xD;
+      epidemics in the U.S.; it currently includes 15-20 million diagnosed cases with perhaps a&#xD;
+      similar number undiagnosed. In the U.S., there are approximately 90 million current or former&#xD;
+      smokers thus; a huge population is at risk of developing COPD.&#xD;
+&#xD;
+      COPD is defined by the Global Initiative for Chronic Obstructive Lung Disease (GOLD) as a&#xD;
+      disease state characterized by airflow limitation that is not fully reversible. There is&#xD;
+      clear recognition that COPD includes both emphysema and small airway disease; however, there&#xD;
+      is little appreciation of how to identify COPD early - before there is significant airflow&#xD;
+      obstruction and clinical impairment.&#xD;
+&#xD;
+      It has long been appreciated that better characterization of pulmonary disease requires&#xD;
+      assessing the lung regionally. To this end computed tomography (CT) is gaining prominence by&#xD;
+      distinguishing airways-predominant vs. emphysema-predominant COPD. CT can also add functional&#xD;
+      information regarding perfusion or ventilation, but concern is increasing regarding radiation&#xD;
+      dose and increased cancer risk. The introduction of 3-Helium (3He) MRI enables longitudinal&#xD;
+      and sensitive imaging of ventilation, while adding contrast like the apparent diffusion&#xD;
+      coefficient (ADC) to reveal emphysema. Unfortunately the world supply of 3He is miniscule,&#xD;
+      and 3He ADC has failed to measure disease progression. Thus, attention has turned to&#xD;
+      129-Xenon (129Xe) MRI and the Duke group has now shown clinical 129Xe MRI with similar&#xD;
+      quality to 3He, including ADC contrast. Ultimately, however, the dissemination of the&#xD;
+      hyperpolarization technology required to acquire these scans remains problematic and acts as&#xD;
+      a hindrance in using it in clinical trials. Consequently another imaging biomarker is&#xD;
+      required, and hence perfluoropropane/oxygen mixtures are being considered.&#xD;
+&#xD;
+      To treat patients, or to develop new therapies for a disease, requires the ability to&#xD;
+      phenotype the condition, monitor progression/response, and to do so non-invasively and&#xD;
+      longitudinally. Improved measurements will be critical to drive progress in treating chronic&#xD;
+      diseases such as COPD that affect over 15 million US patients, but progress slowly and&#xD;
+      respond to therapy slowly. Clinical trials of treatments of lung airway disease often require&#xD;
+      very large numbers of subjects due to the limited sensitivity of global ventilation&#xD;
+      assessment or other clinical measures (e.g. number of exacerbations per year).&#xD;
+&#xD;
+      The question of regional ventilation in disorders such as COPD is becoming increasingly&#xD;
+      important. An editorial in the New England Journal of Medicine (NEJM) addressed the concerns&#xD;
+      of using changes in Forced Expiratory Volume in 1 second (FEV1) as an endpoint in treatment&#xD;
+      trials. The comments were related to the Understanding Potential Long-Term Impacts on&#xD;
+      Function with Tiotropium trial (tiotropium vs. placebo (UPLIFT). In this study, reported in&#xD;
+      the same issue, patients using standard respiratory medications (except inhaled&#xD;
+      anticholinergic drugs) were randomized to their existing treatment with either tiotropium or&#xD;
+      placebo and followed for a 4-year period. While the treatment group using tiotropium had&#xD;
+      improvements in lung function, quality of life (QOL) and fewer exacerbations in the 4-year&#xD;
+      study, there was no significant change in the rate of decline in FEV1 either before of after&#xD;
+      bronchodilator administration. In a separate study called Towards a Revolution in COPD Health&#xD;
+      (TORCH), trial patients were randomized to a combination treatment (fluticasone and&#xD;
+      salmeterol), each of the agents alone or placebo. TORCH patients were followed for a 3-year&#xD;
+      period where the primary outcome was death from any cause. The reduction in mortality did not&#xD;
+      reach statistical validity although there were benefits in secondary outcomes (e.g. frequency&#xD;
+      of exacerbations, spirometric values). The difference in FEV1 for the dual agent arm versus&#xD;
+      placebo was 0.092 liters (95% confidence interval (CI) 0.075 - 0.108, p&lt;0.001) although the&#xD;
+      mean baseline FEV1 for the treated and placebo group was 1.24 and 1.26 liters respectively&#xD;
+      yielding a 7% difference in the FEV1, a difference not generally considered clinically&#xD;
+      relevant. The dominant question in the editorial and one facing studies of COPD is the&#xD;
+      heterogeneity of the disorder and the current lack of a good diagnostic tool for&#xD;
+      stratification/screening of potential subjects for a treatment study. Potentially&#xD;
+      radiographic or non-radiographic imaging may become a tool to assist in such screenings or&#xD;
+      even serve as an endpoint. Avoiding such failures requires developing measurements with&#xD;
+      greater sensitivity and specificity.&#xD;
+&#xD;
+      Clearly, COPD is a major health issue in this country and current treatment strategies are&#xD;
+      limited. The limits of global pulmonary function testing are recognized as a stumbling block&#xD;
+      in the development and evaluation of new therapeutic tools for these diseases. These new&#xD;
+      imaging biomarkers (PFx's) for evaluation of regional ventilation should be an important step&#xD;
+      in decreasing the impact of these diseases in the US and perhaps worldwide.&#xD;
+&#xD;
+      The central hypothesis and current observation is that PFx gases, when used as contrast&#xD;
+      agents, provide functional images of the lung airways including important regional&#xD;
+      ventilation information such as ventilation defect severity and gas trapping. We will test&#xD;
+      the central hypothesis and accomplish the overall objective by addressing the following&#xD;
+      specific aims:&#xD;
+&#xD;
+      Primary Study Aims/Secondary Aims Aim 1: Determine quantitative measures of lung ventilation&#xD;
+      performance in terms of direct measures of gas trapping measured during washout of the&#xD;
+      perfluorinated gas mixture.&#xD;
+&#xD;
+      Sub-aim 1.1: Compare gas trapping from AIM 1 with air trapping by high-resolution computed&#xD;
+      tomography (HRCT) using conventional analysis procedures.&#xD;
+&#xD;
+      Sub-aim 1.2: We will accomplish this aim (as well as Aim 2) in a well-characterized cohort of&#xD;
+      subjects with COPD and subjects with normal global pulmonary function tests (non-, ex- and&#xD;
+      current smokers). This cohort will provide the basis for the cross sectional evaluation of&#xD;
+      the imaging markers in all aims with respect to disease severity (e.g. GOLD status) and risk&#xD;
+      factors (e.g. smoking)&#xD;
+&#xD;
+      Aim 2: Determine ventilation defect severity by comparing regional gas signal during wash-in&#xD;
+      of the perfluorinated gas mixture to steady state in the same cohort.&#xD;
+&#xD;
+      The outcomes of the work proposed in the aims is expected to demonstrate a novel quantitative&#xD;
+      approach for ventilation defect and gas trapping evaluation of regional lung function in&#xD;
+      humans that would be easily deployed for multi-center studies. It should also provide a set&#xD;
+      of biomarkers that could better inform evaluation of new treatments.&#xD;
+&#xD;
+      In each of these 250 subjects, after obtaining informed consent, an array of clinical,&#xD;
+      physiologic, imaging, and disease impact data will be collected on dedicated computerized&#xD;
+      case report forms. The goal is to categorize the disease from structural, functional, and&#xD;
+      clinical perspectives. The specific data to be collected have been shown in multiple studies&#xD;
+      to be useful in describing clinical phenotypes and helped characterize subjects. They can&#xD;
+      predict functional status and can also demonstrate and predict responders to various&#xD;
+      therapeutic interventions.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>January 2013</start_date>
+  <completion_date type="Actual">August 10, 2018</completion_date>
+  <primary_completion_date type="Actual">August 10, 2018</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Gas Trapping Measured During Washout of the Perfluorinated Gas Mixture.</measure>
+    <time_frame>Study Duration: &lt; 1hr for MRI (Magnetic Resonance Imaging), &lt; 1 Hr for HRCT (High Resolution Computed Tomography), &lt; 1 hr for PFT's (Pulmonary Function Tests)</time_frame>
+    <description>Determine quantitative measures of lung ventilation performance in terms of direct measures of gas trapping measured during washout of the perfluorinated gas mixture. Measurement of 'gas trapping' was accomplished using fractional lung volume fast and slow filling compartments. Fractional lung volumes are derived from the MRI (lung volume with fast or slow filling/total MR volume elements in the lung field defined by the gas imaging). All data is normalized per subject to the total lung volume of each subject to eliminate bias due to gender, race, age as is required in global pulmonary function tests.&#xD;
+Subaim 2:&#xD;
+Compare global pulmonary function tests (PFT's) with gas mean wash-in and washout time constants.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Ventilation Defect Severity During wash-in of the Perfluorinated Gas Mixture</measure>
+    <time_frame>≤ One hour</time_frame>
+    <description>Determine ventilation defect severity (VDS) by comparing regional gas signal during wash-in of the perfluorinated gas mixture to steady state in the same cohort.&#xD;
+VDS is described as follows. The signal intensity is evaluated at the pixel level at the first image frame (computed from the modeled data) and normalized to the steady state signal intensity (peak signal from the modeled data). This yields a normalized score ranging from 0 to 1. The mean VDS is computed from all pixels in the lung field for each subject in each arm. The two arms are compared</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Subaim 1.1: Compare Gas Trapping With Air Trapping by HRCT</measure>
+    <time_frame>&lt; 1hr</time_frame>
+    <description>Compare gas trapping with air trapping by HRCT quantitatively with % lung volume with normal, functional or persistent status determined by thresholds of Hounsfield units.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">171</enrollment>
+  <condition>COPD</condition>
+  <arm_group>
+    <arm_group_label>Normal Subjects</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Subjects with Normal Lung Function by Pulmonary Function Tests (e.g. Spirometry) with or without smoking as a risk factor (non-smokers, ex-smokers, current smokers)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Subjects with COPD</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Subjects diagnosed with COPD by GOLD criteria.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Perfluorinated Gas/Oxygen Mixture</intervention_name>
+    <description>19-Fluorine (19F) MRI of the lungs with 21%/79% Oxygen/Perfluorinated Gas, ≤ 25 liters, gas, single visit, &lt; 1 hour</description>
+    <arm_group_label>Normal Subjects</arm_group_label>
+    <arm_group_label>Subjects with COPD</arm_group_label>
+    <other_name>Perfluorinated Propane Imaging</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>High Resolution CT of the Chest</intervention_name>
+    <description>High Resolution CT of the Chest, single visit</description>
+    <arm_group_label>Normal Subjects</arm_group_label>
+    <arm_group_label>Subjects with COPD</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        COPD Subjects: All subjects will be adults (age &gt;18) with spirometrically confirmed COPD&#xD;
+        (GOLD stages I-IV) recruited from the greater Durham, North Carolina community. We&#xD;
+        anticipate 52% female and 14% minority based on community demographics and previous COPD&#xD;
+        study recruitment (see below). No subject will be excluded from the study on the basis of&#xD;
+        gender or ethnicity. Female subjects of childbearing potential will undergo pregnancy&#xD;
+        testing at study entry, and before each procedure. Informed consent will be obtained before&#xD;
+        a subject begins any study.&#xD;
+&#xD;
+        Definition of COPD: We will define COPD in accordance with the World Health Organization&#xD;
+        definition as a lung disease characterized by chronic obstruction of lung airflow that&#xD;
+        interferes with normal breathing and is not fully reversible. Furthermore, we will classify&#xD;
+        COPD severity using post bronchodilator GOLD spirometry criteria:&#xD;
+&#xD;
+        forced expiratory volume in 1 second (FEV1)/forced vital capacity (FVC) &lt; 0.70 and Mild&#xD;
+        (GOLD I): FEV1 &gt;80% predicted Moderate (GOLD II): FEV1 50-80% predicted Severe (GOLD III):&#xD;
+        FEV1 30-50% predicted Very Severe (GOLD IV): FEV1 &lt;30% predicted&#xD;
+&#xD;
+        Inclusion criteria,&#xD;
+&#xD;
+          -  Outpatients of either gender, age &gt; 18.&#xD;
+&#xD;
+          -  Willing and able to give informed consent and adhere to visit/protocol schedules.&#xD;
+             (Consent must be given before any study procedures are performed.)&#xD;
+&#xD;
+          -  Women of childbearing potential must have a negative serum pregnancy test. This will&#xD;
+             be confirmed before participation in this investigational protocol.&#xD;
+&#xD;
+          -  Clinical diagnosis of COPD confirmed by spirometry demonstrating FEV1/FVC &lt; 0.70&#xD;
+&#xD;
+        Exclusion criteria&#xD;
+&#xD;
+          -  Recent exacerbation (within 30 days) defined by the need for antibiotics and/or&#xD;
+             systemic steroids&#xD;
+&#xD;
+          -  Abuse of alcohol or illicit substances&#xD;
+&#xD;
+          -  Medical conditions, which, in the opinion of the investigator, will significantly&#xD;
+             affect five-year survival.&#xD;
+&#xD;
+          -  Medical or psychological conditions which, in the opinion of the investigator, might&#xD;
+             create undue risk to the subject or interfere with the subject's ability to comply&#xD;
+             with the protocol requirements&#xD;
+&#xD;
+          -  Conditions that will prohibit MRI scanning (metal in eye, claustrophobia, inability to&#xD;
+             lie supine, renal insufficiency with epidermal growth factor receptor (eGFR) &lt; 60&#xD;
+             mL/min/1.73 m2)&#xD;
+&#xD;
+        Continued therapy with the patient's prescribed COPD regimen will be permitted. Similarly,&#xD;
+        all other prescribed medications will be allowed.&#xD;
+&#xD;
+        Normal Subjects: All subjects will be adults (age &gt;18) with normal pulmonary function tests&#xD;
+        (spirometrically confirmed) recruited from the greater Durham, North Carolina community. We&#xD;
+        anticipate 52% female and 14% minority based on community demographics (see below). No&#xD;
+        subject will be excluded from the study on the basis of gender or ethnicity. Female&#xD;
+        subjects of childbearing potential will undergo pregnancy testing at study entry, and&#xD;
+        before each procedure. Informed consent will be obtained before a subject begins any study.&#xD;
+&#xD;
+        Inclusion criteria,&#xD;
+&#xD;
+          -  Outpatients of either gender, age &gt; 18.&#xD;
+&#xD;
+          -  Willing and able to give informed consent and adhere to visit/protocol schedules.&#xD;
+             (Consent must be given before any study procedures are performed.)&#xD;
+&#xD;
+          -  Women of childbearing potential must have a negative serum pregnancy test. This will&#xD;
+             be confirmed before participation in this investigational protocol.&#xD;
+&#xD;
+          -  Normal pulmonary function testing (PFT) determined by spirometry.&#xD;
+&#xD;
+        Exclusion criteria&#xD;
+&#xD;
+          -  Abuse of alcohol or illicit substances&#xD;
+&#xD;
+          -  Conditions that will prohibit MRI scanning (metal in eye, claustrophobia, inability to&#xD;
+             lie supine)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Cecil Charles, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Duke University Medical Center, Department of Radiology</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Duke Image Analysis Laboratory</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>June 2020</verification_date>
+  <study_first_submitted>July 10, 2012</study_first_submitted>
+  <study_first_submitted_qc>July 11, 2012</study_first_submitted_qc>
+  <study_first_posted type="Estimate">July 13, 2012</study_first_posted>
+  <results_first_submitted>August 9, 2019</results_first_submitted>
+  <results_first_submitted_qc>June 8, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">June 17, 2020</results_first_posted>
+  <last_update_submitted>June 8, 2020</last_update_submitted>
+  <last_update_submitted_qc>June 8, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 17, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Duke University</investigator_affiliation>
+    <investigator_full_name>Hal C Charles</investigator_full_name>
+    <investigator_title>Associate Professor of Radiology</investigator_title>
+  </responsible_party>
+  <keyword>COPD</keyword>
+  <keyword>Pulmonary Function Testing</keyword>
+  <keyword>MRI</keyword>
+  <keyword>Normal Lung Function</keyword>
+  <keyword>Current Smoker</keyword>
+  <keyword>Non Smoker</keyword>
+  <keyword>Ex Smoker</keyword>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>June 7, 2016</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/88/NCT01640288/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>An open label study in subjects with normal lung function and subjects diagnosed with chronic obstructive pulmonary disease (COPD) over five years. We recruited 100 normal subjects (non-, ex- and current smokers with normal PFT's) and 71 subjects with COPD (varies stages of GOLD I-IV (Global Initiative for Obstructive Lung Disease).</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Normal Subjects</title>
+          <description>Subjects with Normal Lung Function by Pulmonary Function Tests (e.g. Spirometry) with or without smoking as a risk factor (non-smokers, ex-smokers, current smokers)&#xD;
+Perfluorinated Gas/Oxygen Mixture: 19-Fluorine (19F) MRI of the lungs with 21%/79% Oxygen/Perfluorinated Gas, ≤ 25 liters, gas, single visit, &lt; 1 hour&#xD;
+High Resolution CT of the Chest: High Resolution CT of the Chest, single visit</description>
+        </group>
+        <group group_id="P2">
+          <title>Subjects With COPD</title>
+          <description>Subjects diagnosed with COPD by GOLD criteria.&#xD;
+Perfluorinated Gas/Oxygen Mixture: 19-Fluorine (19F) MRI of the lungs with 21%/79% Oxygen/Perfluorinated Gas, ≤ 25 liters, gas, single visit, &lt; 1 hour&#xD;
+High Resolution CT of the Chest: High Resolution CT of the Chest, single visit</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="100"/>
+                <participants group_id="P2" count="71"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Received Allocated Intervention</title>
+              <participants_list>
+                <participants group_id="P1" count="70">74 rec'd the gas (inc. 4 images were not obtained due to equipment failure = 70)</participants>
+                <participants group_id="P2" count="48">53 rec'd the gas (exc. 1 images not obtained due to equipment failure, 4 poor images = 48 )</participants>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Did Not Receive Allocated Intervention</title>
+              <participants_list>
+                <participants group_id="P1" count="26"/>
+                <participants group_id="P2" count="18"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="70">One subject was lost to followup but rec'd the gas and images were obtained</participants>
+                <participants group_id="P2" count="48"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="30"/>
+                <participants group_id="P2" count="23"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Equipment Failure or Poor Image Quality</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+                <participants group_id="P2" count="5"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Screen Failure</title>
+              <participants_list>
+                <participants group_id="P1" count="20"/>
+                <participants group_id="P2" count="18"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawn by PI</title>
+              <participants_list>
+                <participants group_id="P1" count="5"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>In the baseline (screened) subjects 94 were male, 77 were female</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Normal Subjects</title>
+          <description>Subjects with Normal Lung Function by Pulmonary Function Tests (e.g. Spirometry) with or without smoking as a risk factor (non-smokers, ex-smokers, current smokers)&#xD;
+Perfluorinated Gas/Oxygen Mixture: 19-Fluorine (19F) MRI of the lungs with 21%/79% Oxygen/Perfluorinated Gas, ≤ 25 liters, gas, single visit, &lt; 1 hour&#xD;
+High Resolution CT of the Chest: High Resolution CT of the Chest, single visit</description>
+        </group>
+        <group group_id="B2">
+          <title>Subjects With COPD</title>
+          <description>Subjects diagnosed with COPD by GOLD criteria.&#xD;
+Perfluorinated Gas/Oxygen Mixture: 19-Fluorine (19F) MRI of the lungs with 21%/79% Oxygen/Perfluorinated Gas, ≤ 25 liters, gas, single visit, &lt; 1 hour&#xD;
+High Resolution CT of the Chest: High Resolution CT of the Chest, single visit</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="100"/>
+            <count group_id="B2" value="71"/>
+            <count group_id="B3" value="171"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age, Customized</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <title>Age</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="42.9" spread="14.97"/>
+                    <measurement group_id="B2" value="67.7" spread="8.54"/>
+                    <measurement group_id="B3" value="53.2" spread="17.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="47"/>
+                    <measurement group_id="B2" value="30"/>
+                    <measurement group_id="B3" value="77"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="53"/>
+                    <measurement group_id="B2" value="41"/>
+                    <measurement group_id="B3" value="94"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="96"/>
+                    <measurement group_id="B2" value="71"/>
+                    <measurement group_id="B3" value="167"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="40"/>
+                    <measurement group_id="B2" value="15"/>
+                    <measurement group_id="B3" value="55"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="52"/>
+                    <measurement group_id="B2" value="55"/>
+                    <measurement group_id="B3" value="107"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Gas Trapping Measured During Washout of the Perfluorinated Gas Mixture.</title>
+        <description>Determine quantitative measures of lung ventilation performance in terms of direct measures of gas trapping measured during washout of the perfluorinated gas mixture. Measurement of 'gas trapping' was accomplished using fractional lung volume fast and slow filling compartments. Fractional lung volumes are derived from the MRI (lung volume with fast or slow filling/total MR volume elements in the lung field defined by the gas imaging). All data is normalized per subject to the total lung volume of each subject to eliminate bias due to gender, race, age as is required in global pulmonary function tests.&#xD;
+Subaim 2:&#xD;
+Compare global pulmonary function tests (PFT's) with gas mean wash-in and washout time constants.</description>
+        <time_frame>Study Duration: &lt; 1hr for MRI (Magnetic Resonance Imaging), &lt; 1 Hr for HRCT (High Resolution Computed Tomography), &lt; 1 hr for PFT's (Pulmonary Function Tests)</time_frame>
+        <population>118 subjects successfully received the perfluorinated gas/oxygen imaging agent with acceptable images</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Normal Subjects</title>
+            <description>Subjects with Normal Lung Function by Pulmonary Function Tests (e.g. Spirometry) with or without smoking as a risk factor (non-smokers, ex-smokers, current smokers)&#xD;
+Perfluorinated Gas/Oxygen Mixture: 19-Fluorine (19F) MRI of the lungs with 21%/79% Oxygen/Perfluorinated Gas, ≤ 25 liters, gas, single visit, &lt; 1 hour&#xD;
+High Resolution CT of the Chest: High Resolution CT of the Chest, single visit</description>
+          </group>
+          <group group_id="O2">
+            <title>Subjects With COPD</title>
+            <description>Subjects diagnosed with COPD by GOLD criteria, specifically FEV1/FVC.&#xD;
+Perfluorinated Gas/Oxygen Mixture: 19-Fluorine (19F) MRI of the lungs with 21%/79% Oxygen/Perfluorinated Gas, ≤ 25 liters, gas, single visit, &lt; 1 hour&#xD;
+High Resolution CT of the Chest: High Resolution CT of the Chest, single visit</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Gas Trapping Measured During Washout of the Perfluorinated Gas Mixture.</title>
+          <description>Determine quantitative measures of lung ventilation performance in terms of direct measures of gas trapping measured during washout of the perfluorinated gas mixture. Measurement of 'gas trapping' was accomplished using fractional lung volume fast and slow filling compartments. Fractional lung volumes are derived from the MRI (lung volume with fast or slow filling/total MR volume elements in the lung field defined by the gas imaging). All data is normalized per subject to the total lung volume of each subject to eliminate bias due to gender, race, age as is required in global pulmonary function tests.&#xD;
+Subaim 2:&#xD;
+Compare global pulmonary function tests (PFT's) with gas mean wash-in and washout time constants.</description>
+          <population>118 subjects successfully received the perfluorinated gas/oxygen imaging agent with acceptable images</population>
+          <units>percentage of total lung volume</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="70"/>
+                <count group_id="O2" value="48"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Fractional Lung Volume Fast Component 19F MRI</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.718" spread="0.024"/>
+                    <measurement group_id="O2" value="0.541" spread="0.216"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Fractional Lung Volume Slow 19F MRI</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.308" spread="0.022"/>
+                    <measurement group_id="O2" value="0.451" spread="0.026"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <non_inferiority_desc>t-test</non_inferiority_desc>
+            <p_value>&lt;0.0001</p_value>
+            <p_value_desc>Not adjusted for multiple comparisons</p_value_desc>
+            <method>t-test, 2 sided</method>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>-0.145</param_value>
+            <dispersion_type>Standard Error of the Mean</dispersion_type>
+            <dispersion_value>0.0349</dispersion_value>
+            <ci_n_sides>2-Sided</ci_n_sides>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Ventilation Defect Severity During wash-in of the Perfluorinated Gas Mixture</title>
+        <description>Determine ventilation defect severity (VDS) by comparing regional gas signal during wash-in of the perfluorinated gas mixture to steady state in the same cohort.&#xD;
+VDS is described as follows. The signal intensity is evaluated at the pixel level at the first image frame (computed from the modeled data) and normalized to the steady state signal intensity (peak signal from the modeled data). This yields a normalized score ranging from 0 to 1. The mean VDS is computed from all pixels in the lung field for each subject in each arm. The two arms are compared</description>
+        <time_frame>≤ One hour</time_frame>
+        <population>Of the baseline participants,118 subjects received the intervention, imaging lung function with the perfluorinated gas/oxygen agent.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Normal Subjects</title>
+            <description>Subjects with Normal Lung Function by Pulmonary Function Tests (e.g. Spirometry) with or without smoking as a risk factor (non-smokers, ex-smokers, current smokers)&#xD;
+Perfluorinated Gas/Oxygen Mixture: 19-Fluorine (19F) MRI of the lungs with 21%/79% Oxygen/Perfluorinated Gas, ≤ 25 liters, gas, single visit, &lt; 1 hour&#xD;
+High Resolution CT of the Chest: High Resolution CT of the Chest, single visit</description>
+          </group>
+          <group group_id="O2">
+            <title>Subjects With COPD</title>
+            <description>Subjects diagnosed with COPD by GOLD criteria.&#xD;
+Perfluorinated Gas/Oxygen Mixture: 19-Fluorine (19F) MRI of the lungs with 21%/79% Oxygen/Perfluorinated Gas, ≤ 25 liters, gas, single visit, &lt; 1 hour&#xD;
+High Resolution CT of the Chest: High Resolution CT of the Chest, single visit</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Ventilation Defect Severity During wash-in of the Perfluorinated Gas Mixture</title>
+          <description>Determine ventilation defect severity (VDS) by comparing regional gas signal during wash-in of the perfluorinated gas mixture to steady state in the same cohort.&#xD;
+VDS is described as follows. The signal intensity is evaluated at the pixel level at the first image frame (computed from the modeled data) and normalized to the steady state signal intensity (peak signal from the modeled data). This yields a normalized score ranging from 0 to 1. The mean VDS is computed from all pixels in the lung field for each subject in each arm. The two arms are compared</description>
+          <population>Of the baseline participants,118 subjects received the intervention, imaging lung function with the perfluorinated gas/oxygen agent.</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="70"/>
+                <count group_id="O2" value="48"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.388" spread="0.014"/>
+                    <measurement group_id="O2" value="0.504" spread="0.017"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <non_inferiority_desc>t-test</non_inferiority_desc>
+            <p_value>&lt;0.0001</p_value>
+            <method>t-test, 2 sided</method>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>0.178</param_value>
+            <dispersion_type>Standard Error of the Mean</dispersion_type>
+            <dispersion_value>0.037</dispersion_value>
+            <ci_n_sides>2-Sided</ci_n_sides>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Subaim 1.1: Compare Gas Trapping With Air Trapping by HRCT</title>
+        <description>Compare gas trapping with air trapping by HRCT quantitatively with % lung volume with normal, functional or persistent status determined by thresholds of Hounsfield units.</description>
+        <time_frame>&lt; 1hr</time_frame>
+        <population>5 CT datasets could not be analyzed with the IMBIO software and were excluded from further analysis for this subaim.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Normal Subjects</title>
+            <description>Subjects with Normal Lung Function by Pulmonary Function Tests (e.g. Spirometry) with or without smoking as a risk factor (non-smokers, ex-smokers, current smokers)&#xD;
+Perfluorinated Gas/Oxygen Mixture: 19-Fluorine (19F) MRI of the lungs with 21%/79% Oxygen/Perfluorinated Gas, ≤ 25 liters, gas, single visit, &lt; 1 hour&#xD;
+High Resolution CT of the Chest: High Resolution CT of the Chest, single visit</description>
+          </group>
+          <group group_id="O2">
+            <title>Subjects With COPD</title>
+            <description>Subjects diagnosed with COPD by GOLD criteria.&#xD;
+Perfluorinated Gas/Oxygen Mixture: 19-Fluorine (19F) MRI of the lungs with 21%/79% Oxygen/Perfluorinated Gas, ≤ 25 liters, gas, single visit, &lt; 1 hour&#xD;
+High Resolution CT of the Chest: High Resolution CT of the Chest, single visit</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Subaim 1.1: Compare Gas Trapping With Air Trapping by HRCT</title>
+          <description>Compare gas trapping with air trapping by HRCT quantitatively with % lung volume with normal, functional or persistent status determined by thresholds of Hounsfield units.</description>
+          <population>5 CT datasets could not be analyzed with the IMBIO software and were excluded from further analysis for this subaim.</population>
+          <units>percentage of Lung volume at CT density</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="64"/>
+                <count group_id="O2" value="49"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Normal Lung Density</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="90.7" spread="2.68"/>
+                    <measurement group_id="O2" value="64.2" spread="3.07"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Functional Lung Density</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8.97" spread="2.25"/>
+                    <measurement group_id="O2" value="28.07" spread="2.57"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Persistent Lung Density</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.102" spread="0.95"/>
+                    <measurement group_id="O2" value="7.4" spread="1.09"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>24 hours</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Normal Subjects</title>
+          <description>Subjects with Normal Lung Function by Pulmonary Function Tests (e.g. Spirometry) with or without smoking as a risk factor (non-smokers, ex-smokers, current smokers)&#xD;
+Perfluorinated Gas/Oxygen Mixture: 19-Fluorine (19F) MRI of the lungs with 21%/79% Oxygen/Perfluorinated Gas, ≤ 25 liters, gas, single visit, &lt; 1 hour&#xD;
+High Resolution CT of the Chest: High Resolution CT of the Chest, single visit</description>
+        </group>
+        <group group_id="E2">
+          <title>Subjects With COPD</title>
+          <description>Subjects diagnosed with COPD by GOLD criteria.&#xD;
+Perfluorinated Gas/Oxygen Mixture: 19-Fluorine (19F) MRI of the lungs with 21%/79% Oxygen/Perfluorinated Gas, ≤ 25 liters, gas, single visit, &lt; 1 hour&#xD;
+High Resolution CT of the Chest: High Resolution CT of the Chest, single visit</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="74"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="53"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="74"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="53"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="74"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="53"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>H. Cecil Charles, Ph.D.</name_or_title>
+      <organization>Duke University School of Medicine, Department of Radiology</organization>
+      <phone>919-684-7921</phone>
+      <email>cecil.charles@duke.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

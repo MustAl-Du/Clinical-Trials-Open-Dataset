@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2126">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01925339</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HUM00070747</org_study_id>
+    <nct_id>NCT01925339</nct_id>
+  </id_info>
+  <brief_title>Esthetic Outcomes of Immediately Placed Implants Receiving Immediate Provisionalization and Delayed Restoration</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Michigan</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Michigan</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to compare two different timings of restoring dental implants&#xD;
+      that are placed right after tooth extraction: The test group will have the provisional crown&#xD;
+      placed at the time of implant placement. The control group will have the tooth removed and&#xD;
+      the implant placed at the same appointment but restorations placed after 4 months. Both&#xD;
+      procedures currently are accepted methods for replacing missing teeth but direct comparisons&#xD;
+      of the two procedures are lacking. The results of this study should aid clinicians in&#xD;
+      selecting the best timing for restoring implants for their patients. The hypothesis is that&#xD;
+      immediate restoration might increase aesthetic outcomes, e.g. less mucosal recession.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A single center, randomized controlled, parallel-arm study is planned to investigate esthetic&#xD;
+      outcomes after immediate placement and restoration in the esthetic zone. Forty adult patients&#xD;
+      who have a hopeless maxillary anterior or premolar tooth, with intact adjacent teeth will be&#xD;
+      enrolled. A signed written informed consent will be obtained after he or she has been given&#xD;
+      verbal and written information describing the nature and duration of the study. Subjects will&#xD;
+      not be screened or treated until an informed consent has been obtained. Patient information&#xD;
+      will be protected according to the privacy regulations of the Federal Health Insurance&#xD;
+      Portability and Accountability Act of 1996 (HIPAA).&#xD;
+&#xD;
+      The enrolled patients will be randomly placed into one of two treatment groups, immediate&#xD;
+      implant placement (IIP) and restoration group (IR) or the IIP + delayed restoration group&#xD;
+      (DR). For all patients, the hopeless tooth will be extracted atraumatically and an implant&#xD;
+      placed immediately. The decision will be made randomly to either restoring the implant&#xD;
+      immediately (Test group) with a provisional crown or restoring the implant at 4 months after&#xD;
+      implant placement (Control group). Outcome analyses will be performed until approximately&#xD;
+      1-year after the implant surgery and primarily evaluate clinical and radiographic parameters&#xD;
+      to determine the esthetic outcomes of immediately restored IIP implants, in comparison to&#xD;
+      those immediately placed but restored in a delayed approach.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>December 2015</start_date>
+  <completion_date type="Actual">March 15, 2018</completion_date>
+  <primary_completion_date type="Actual">March 15, 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mucosal Recession Change</measure>
+    <time_frame>Baseline, 1 year</time_frame>
+    <description>Mucosal level change from baseline to one year was primarily determined by an imaginary line connecting the gingival margin of the adjacent teeth. This was measured in millimeters.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Radiographic Marginal Bone Level Change</measure>
+    <time_frame>Baseline, 1 year</time_frame>
+    <description>Mean of mesial and distal marginal bone level changes measured by standard radiographs using customized device. This was measured in millimeters.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">40</enrollment>
+  <condition>Tooth Diseases</condition>
+  <condition>Tooth Extraction</condition>
+  <condition>Dental Implant</condition>
+  <arm_group>
+    <arm_group_label>Test (immediate restoration)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Test (immediate restoration): immediate restoration will be placed on immediately placed implants.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control: delayed restoration</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Control: delayed restoration: immediate placed implants will be restored at 4 months.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Test (immediate restoration)</intervention_name>
+    <description>Test (immediate restoration)</description>
+    <arm_group_label>Test (immediate restoration)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Control: delayed restoration</intervention_name>
+    <description>Control: delayed restoration</description>
+    <arm_group_label>Control: delayed restoration</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male or female, aged 21 or older&#xD;
+&#xD;
+          -  A minimum dentition of 20 permanent teeth (including natural rooted teeth or dental&#xD;
+             implants; pontic of a fixed bridge is not considered a tooth)&#xD;
+&#xD;
+          -  A maxillary premolar, canine, lateral incisor or central incisor with a hopeless&#xD;
+             prognosis&#xD;
+&#xD;
+          -  Presence of adjacent teeth and enough clearance for an implant crown&#xD;
+&#xD;
+          -  Presence of sufficient bone apical to the root apex of the hopeless tooth&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Systemic criteria:&#xD;
+&#xD;
+          -  Current heavy smokers (&gt;10 cigarettes per day) or heavy smokers who quitted less than&#xD;
+             1 year&#xD;
+&#xD;
+          -  Pregnant or plan to get pregnant or lactating mothers&#xD;
+&#xD;
+          -  Diseases of the immune system or any medical condition that may influence the outcome&#xD;
+             (uncontrolled diabetes (HbA1c &gt;7), neurologic or psychiatric disorders, systemic&#xD;
+             infections, …)&#xD;
+&#xD;
+          -  Radiation therapy in the head and neck area within 3 years&#xD;
+&#xD;
+          -  Current use of oral bisphosphonates for &gt;3 years&#xD;
+&#xD;
+          -  History of IV bisphosphonates use&#xD;
+&#xD;
+          -  Other medical conditions that may contradict an implant surgery&#xD;
+&#xD;
+        Intraoral criteria:&#xD;
+&#xD;
+          -  Area of study is adjacent to an existing implant&#xD;
+&#xD;
+          -  Acute infection at/or adjacent to the extraction site (e.g., sinus tract, swelling,&#xD;
+             etc.)&#xD;
+&#xD;
+          -  Observable gingival changes due to use of medications such as calcium antagonists,&#xD;
+             anticonvulsives, immunosuppressives, anti-inflammatory medications, etc.)&#xD;
+&#xD;
+          -  Untreated deep carious lesions or defective restorations that can potentially&#xD;
+             exacerbate during the course of the experiment&#xD;
+&#xD;
+          -  Uncontrolled periodontal disease&#xD;
+&#xD;
+          -  Poor oral hygiene (&gt;20% FMPS)&#xD;
+&#xD;
+        CBCT criteria:&#xD;
+&#xD;
+        • More than 4 mm of buccal plate dehiscence is present on CBCT scans&#xD;
+&#xD;
+        Intraoperative criteria:&#xD;
+&#xD;
+        • More than 4 mm of buccal plate dehiscence is present once the tooth is extracted&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Hom-Lay Wang, DDS, MSD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Michigan</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Michigan School of Dentistry</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2019</verification_date>
+  <study_first_submitted>August 15, 2013</study_first_submitted>
+  <study_first_submitted_qc>August 15, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">August 19, 2013</study_first_posted>
+  <results_first_submitted>January 25, 2019</results_first_submitted>
+  <results_first_submitted_qc>February 12, 2019</results_first_submitted_qc>
+  <results_first_posted type="Actual">February 18, 2019</results_first_posted>
+  <last_update_submitted>February 12, 2019</last_update_submitted>
+  <last_update_submitted_qc>February 12, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 18, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Michigan</investigator_affiliation>
+    <investigator_full_name>Hom-Lay Wang, DDS, MSD, Ph D</investigator_full_name>
+    <investigator_title>Collegiate Professor of Periodontics and Professor of Dentistry</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Tooth Diseases</mesh_term>
+  </condition_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>August 23, 2017</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/39/NCT01925339/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Test (Immediate Restoration)</title>
+          <description>Test (immediate restoration): immediate restoration will be placed on immediately placed implants.&#xD;
+Test (immediate restoration): Test (immediate restoration)</description>
+        </group>
+        <group group_id="P2">
+          <title>Control: Delayed Restoration</title>
+          <description>Control: delayed restoration: immediate placed implants will be restored at 4 months.&#xD;
+Control: delayed restoration: Control: delayed restoration</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="20"/>
+                <participants group_id="P2" count="20"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="18"/>
+                <participants group_id="P2" count="20"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Adverse Event</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Test (Immediate Restoration)</title>
+          <description>Test (immediate restoration): immediate restoration will be placed on immediately placed implants.&#xD;
+Test (immediate restoration): Test (immediate restoration)</description>
+        </group>
+        <group group_id="B2">
+          <title>Control: Delayed Restoration</title>
+          <description>Control: delayed restoration: immediate placed implants will be restored at 4 months.&#xD;
+Control: delayed restoration: Control: delayed restoration</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="20"/>
+            <count group_id="B2" value="20"/>
+            <count group_id="B3" value="40"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="61.8" spread="12.4"/>
+                    <measurement group_id="B2" value="57.9" spread="15.0"/>
+                    <measurement group_id="B3" value="59.1" spread="13.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="21"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="19"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="20"/>
+                    <measurement group_id="B2" value="20"/>
+                    <measurement group_id="B3" value="40"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="20"/>
+                    <measurement group_id="B2" value="20"/>
+                    <measurement group_id="B3" value="40"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="20"/>
+                    <measurement group_id="B2" value="20"/>
+                    <measurement group_id="B3" value="40"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Mucosal Recession Change</title>
+        <description>Mucosal level change from baseline to one year was primarily determined by an imaginary line connecting the gingival margin of the adjacent teeth. This was measured in millimeters.</description>
+        <time_frame>Baseline, 1 year</time_frame>
+        <population>Two subjects withdrew from the study prior to the 1 year time point. Therefore, no data was analyzed for these two subjects.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Test (Immediate Restoration)</title>
+            <description>Test (immediate restoration): immediate restoration will be placed on immediately placed implants.&#xD;
+Test (immediate restoration): Test (immediate restoration)</description>
+          </group>
+          <group group_id="O2">
+            <title>Control: Delayed Restoration</title>
+            <description>Control: delayed restoration: immediate placed implants will be restored at 4 months.&#xD;
+Control: delayed restoration: Control: delayed restoration</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Mucosal Recession Change</title>
+          <description>Mucosal level change from baseline to one year was primarily determined by an imaginary line connecting the gingival margin of the adjacent teeth. This was measured in millimeters.</description>
+          <population>Two subjects withdrew from the study prior to the 1 year time point. Therefore, no data was analyzed for these two subjects.</population>
+          <units>milimeters</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="18"/>
+                <count group_id="O2" value="20"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.1" spread="0.9"/>
+                    <measurement group_id="O2" value="0.1" spread="0.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Radiographic Marginal Bone Level Change</title>
+        <description>Mean of mesial and distal marginal bone level changes measured by standard radiographs using customized device. This was measured in millimeters.</description>
+        <time_frame>Baseline, 1 year</time_frame>
+        <population>Two subjects withdrew from the study prior to the 1 year time point. Therefore, no data was analyzed for these two subjects.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Test (Immediate Restoration)</title>
+            <description>Test (immediate restoration): immediate restoration will be placed on immediately placed implants.&#xD;
+Test (immediate restoration): Test (immediate restoration)</description>
+          </group>
+          <group group_id="O2">
+            <title>Control: Delayed Restoration</title>
+            <description>Control: delayed restoration: immediate placed implants will be restored at 4 months.&#xD;
+Control: delayed restoration: Control: delayed restoration</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Radiographic Marginal Bone Level Change</title>
+          <description>Mean of mesial and distal marginal bone level changes measured by standard radiographs using customized device. This was measured in millimeters.</description>
+          <population>Two subjects withdrew from the study prior to the 1 year time point. Therefore, no data was analyzed for these two subjects.</population>
+          <units>milimeters</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="18"/>
+                <count group_id="O2" value="20"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.8" spread="0.7"/>
+                    <measurement group_id="O2" value="0.8" spread="0.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Fifteen months for each subject.</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Test (Immediate Restoration)</title>
+          <description>Test (immediate restoration): immediate restoration will be placed on immediately placed implants.&#xD;
+Test (immediate restoration): Test (immediate restoration)</description>
+        </group>
+        <group group_id="E2">
+          <title>Control: Delayed Restoration</title>
+          <description>Control: delayed restoration: immediate placed implants will be restored at 4 months.&#xD;
+Control: delayed restoration: Control: delayed restoration</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="20"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="20"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="20"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="13" subjects_at_risk="20"/>
+                <counts group_id="E2" subjects_affected="12" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Blood disorder</sub_title>
+                <description>One subject reported going to a doctor to be tested for a blood disorder.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="20"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="20"/>
+              </event>
+              <event>
+                <sub_title>Deep vein thrombosis</sub_title>
+                <description>One subject reported being treated for a deep vein thrombosis.</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="20"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="20"/>
+              </event>
+              <event>
+                <sub_title>Swelling</sub_title>
+                <description>One subject reported being treated for swelling in her hands and feet.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="20"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Atrial fibrillation</sub_title>
+                <description>One subject was treated for atrial fibrillation.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="20"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Gastrointestinal problems</sub_title>
+                <description>One subject reported being treated for diarrhea. One subject reported being treated for diverticulitis.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="20"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Issues related to tooth #30</sub_title>
+                <description>One subject had the crown on tooth #30 come off.</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="20"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="20"/>
+              </event>
+              <event>
+                <sub_title>Bad taste in mouth</sub_title>
+                <description>Two subjects reported having a bad taste in her mouth.</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="20"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="20"/>
+              </event>
+              <event>
+                <sub_title>Bone grafting material at implant site</sub_title>
+                <assessment>Systematic Assessment</assessment>
+                <description>One subject had extra bone grafting particles at implant site.</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="20"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="20"/>
+              </event>
+              <event>
+                <sub_title>Dental cavity</sub_title>
+                <description>Two subjects reported having to have dental cavity fixed.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="20"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="20"/>
+              </event>
+              <event>
+                <sub_title>Falls</sub_title>
+                <description>Two subjects reported accidentally falling and having to see their primary care physicians.</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="20"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="20"/>
+              </event>
+              <event>
+                <sub_title>Dehydration</sub_title>
+                <description>One subject reported being treated for dehydration.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="20"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="20"/>
+              </event>
+              <event>
+                <sub_title>Tooth sensitivity</sub_title>
+                <description>Two subjects reported having dental sensitivity around non-study teeth.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="20"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="20"/>
+              </event>
+              <event>
+                <sub_title>Tooth abscess</sub_title>
+                <assessment>Systematic Assessment</assessment>
+                <description>One subject had a tooth abscess on a non-study tooth.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="20"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="20"/>
+              </event>
+              <event>
+                <sub_title>Exudate at implant site</sub_title>
+                <assessment>Systematic Assessment</assessment>
+                <description>Exudate (pus) was noted at implant site.</description>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="20"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="20"/>
+              </event>
+              <event>
+                <sub_title>Gum tissue tenderness</sub_title>
+                <description>Two subjects reported having gum tissue tenderness.</description>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="20"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="20"/>
+              </event>
+              <event>
+                <sub_title>Healing abutment</sub_title>
+                <assessment>Systematic Assessment</assessment>
+                <description>Healing abutment screw became loose.</description>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="20"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="20"/>
+              </event>
+              <event>
+                <sub_title>Exposed implant</sub_title>
+                <assessment>Systematic Assessment</assessment>
+                <description>One subject's implant perforated the buccal plate.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="20"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="20"/>
+              </event>
+              <event>
+                <sub_title>Flu-like symptoms</sub_title>
+                <description>One subject reported having multiple flu-like symptoms.</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="20"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="20"/>
+              </event>
+              <event>
+                <sub_title>Gum tissue inflammation</sub_title>
+                <assessment>Systematic Assessment</assessment>
+                <description>One subject had a lot of gum tissue inflammation at the site of the implant.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="20"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="20"/>
+              </event>
+              <event>
+                <sub_title>Issues with temporary crown</sub_title>
+                <assessment>Systematic Assessment</assessment>
+                <description>Two subjects had minor issues with their temporary crowns.</description>
+                <counts group_id="E1" events="3" subjects_affected="2" subjects_at_risk="20"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="20"/>
+              </event>
+              <event>
+                <sub_title>Tissue impingement</sub_title>
+                <assessment>Systematic Assessment</assessment>
+                <description>One subject's healing abutment was impinging on the adjacent tissue.</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="20"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="20"/>
+              </event>
+              <event>
+                <sub_title>Broken tooth</sub_title>
+                <description>One subject reported having a broken non-study tooth.</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="20"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="20"/>
+              </event>
+              <event>
+                <sub_title>Tissue trauma</sub_title>
+                <assessment>Systematic Assessment</assessment>
+                <description>One subject had tissue trauma from eating at the site of the implant.</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="20"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Immune system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Shingles</sub_title>
+                <description>One subject reported being treated for shingles.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="20"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Shoulder pain</sub_title>
+                <description>One subject reported seeing her primary care physician for sports-related shoulder pain.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="20"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="20"/>
+              </event>
+              <event>
+                <sub_title>Twisted ankle</sub_title>
+                <description>Two subjects reported twisting their ankles and needing to be seen by their physicians.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="20"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Kidney stone</sub_title>
+                <description>One subject was treated for a kidney stone.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="20"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="20"/>
+              </event>
+              <event>
+                <sub_title>Urinary track infection</sub_title>
+                <description>Two subjects reported being treated for urinary track infections.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="20"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Asthma attack</sub_title>
+                <description>One subject reported being treated by her primary care physician for asthma-related symptoms.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="20"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="20"/>
+              </event>
+              <event>
+                <sub_title>Sinus infection</sub_title>
+                <description>One subject reported being treated for a sinus infection.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="20"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Poison ivy</sub_title>
+                <description>One subject reported being treated for poison ivy.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="20"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Surgical and medical procedures</title>
+            <event_list>
+              <event>
+                <sub_title>Appendix removed</sub_title>
+                <description>One subject had his appendix surgically removed.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="20"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="20"/>
+              </event>
+              <event>
+                <sub_title>Ingrown toe nail</sub_title>
+                <description>One subject had an ingrown toe nail surgically removed.</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="20"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Hom-Lay Wang</name_or_title>
+      <organization>University of Michigan</organization>
+      <phone>734-763-3383</phone>
+      <email>homlay@umich.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

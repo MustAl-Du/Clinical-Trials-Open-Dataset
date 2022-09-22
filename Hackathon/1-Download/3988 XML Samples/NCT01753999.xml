@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3594">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01753999</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2012002164</org_study_id>
+    <secondary_id>1U01OH010415-01</secondary_id>
+    <nct_id>NCT01753999</nct_id>
+  </id_info>
+  <brief_title>Obstructive Sleep Apnea in World Trade Center Responders</brief_title>
+  <official_title>Obstructive Sleep Apnea in WTC Responders: Role of Nasal Pathology</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rutgers, The State University of New Jersey</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>NYU Langone Health</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Rutgers, The State University of New Jersey</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of the study is to examine the possible underlying causes of sleep apnea (a disorder&#xD;
+      in which there are problems with breathing during sleep) in World Trade Center Responders.&#xD;
+      The study will look at the relationship between sleep apnea and various nose and throat&#xD;
+      conditions. Specifically, the study will look at upper airway disease (problems with the nose&#xD;
+      and throat), nasal inflammation, and nasal resistance (the amount of airflow through the&#xD;
+      nose). Subjects will have a physical exam and answer questions about nasal symptoms and&#xD;
+      sleeping problems. Nasal lavage (washing the inner nasal passages) will be performed on the&#xD;
+      subjects and markers of inflammation will be measured in the lavage fluid. Rhinomanometry&#xD;
+      (measuring the airflow through the nose) will also be performed to measure the degree of&#xD;
+      airflow obstruction. All subjects will be asked to perform in-home sleep apnea monitoring.&#xD;
+      Those subjects who are diagnosed with sleep apnea will test two treatment methods. Sleep&#xD;
+      apnea is treated by using a CPAP (continuous positive airway pressure) device. This device&#xD;
+      blows air into a mask worn by the patient during sleep. The two treatment methods that will&#xD;
+      be tested are the fixed pressure CPAP (pressure is constant during use) and CPAP-flex&#xD;
+      (pressure decreases when the subject exhales). Patients will be randomly assigned to one&#xD;
+      treatment method for one month then crossed to the other treatment method for the next month.&#xD;
+      The investigators will determine if patients with certain nasal conditions (high nasal&#xD;
+      resistance) are more likely to use CPAP-flex rather than CPAP.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Following the World Trade Center (WTC) disaster, an estimated 40,000 individuals were exposed&#xD;
+      to significant amounts of dust while working in rescue, recovery and debris removal. A&#xD;
+      significant number of these responders have reported least one new or worsened upper airway&#xD;
+      respiratory symptom when examined in 2004 with 50% of responders continuing to have symptoms&#xD;
+      of chronic rhino-sinusitis or upper airway disease (UAD) in 2007. In addition, about 50% of&#xD;
+      those with UAD referred to our sleep center reported new onset snoring on their&#xD;
+      questionnaires immediately following their exposure and had unusually high prevalence of&#xD;
+      obstructive sleep apnea (OSA) that did not appear to be related to obesity, which is the&#xD;
+      usual risk factor for OSA. This suggests to us that mechanisms other than obesity may be&#xD;
+      important in the pathogenesis of OSA in these subjects. Given their chronic nasal symptoms&#xD;
+      they also provide a unique opportunity to examine the relationship between nasal pathology&#xD;
+      and OSA and test if nasal symptoms reported by the subjects in the WTC Health Program (WTCHP)&#xD;
+      are an indicator of increased nasal resistance due to nasal inflammation resulting from&#xD;
+      exposure to the WTC dust. Positive Airway Pressure (CPAP) is the standard therapy for OSA but&#xD;
+      despite its efficacy has poor adherence. Subjects with high nasal resistance (such as&#xD;
+      responders with UAD and OSA) may experience additional pressure during expiration at the&#xD;
+      upper airway resulting in greater difficulty in tolerating CPAP therapy than those who do not&#xD;
+      have high nasal resistance. Reduction of excess expiratory positive pressure by the modality&#xD;
+      known as Cflex™ during CPAP therapy (CPAPFlex) may improve comfort and adherence in these&#xD;
+      subjects without compromising CPAP efficacy. In the present proposal we will study responders&#xD;
+      enrolled at the Environmental and Occupational Health Sciences Institute of Robert Wood&#xD;
+      Johnson Medical School (RWJMS) and the NYU School of Medicine Clinical Center of Excellence&#xD;
+      at Bellevue Hospital&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">December 2012</start_date>
+  <completion_date type="Actual">March 2017</completion_date>
+  <primary_completion_date type="Actual">March 2017</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Adherence to CPAP Pre-crossover</measure>
+    <time_frame>5 weeks after initiation of treatment</time_frame>
+    <description>The use (number of hours per night) will be compared between standard CPAP and CPAP flex. Results are based on the first treatment period only (pre-crossover).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Adherence to CPAP Overall Study</measure>
+    <time_frame>9 weeks after initiation of treatment</time_frame>
+    <description>The use (number of hours per night) will be compared between standard CPAP and CPAP flex. Results are based on both periods.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>CPAP Efficacy</measure>
+    <time_frame>5 weeks after initiation of treatment</time_frame>
+    <description>Efficacy will be evaluated by measuring the residual apnea and hypopnea index (AHI) while on treatment. The efficacy of standard CPAP and CPAP-flex will be compared. Results are based on the first treatment period only (pre-crossover).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CPAP Efficacy</measure>
+    <time_frame>9 weeks after initiation of treatment</time_frame>
+    <description>Efficacy will be evaluated by measuring the residual apnea and hypopnea index (AHI) while on treatment. The efficacy of standard CPAP and CPAP-flex will be compared. Results are based on both treatment periods.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Adherence to CPAP Overall Study, Subjects With High Nasal Resistance</measure>
+    <time_frame>9 weeks after initiation of treatment</time_frame>
+    <description>The use (number of hours per night) will be compared between standard CPAP and CPAP flex for subjects with high total nasal resistance (logTNR&gt;0.8). The analysis is based on both periods.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Adherence to CPAP Overall Study, Subjects With Low Nasal Resistance</measure>
+    <time_frame>9 weeks after initiation of treatment</time_frame>
+    <description>The use (number of hours per night) will be compared between standard CPAP and CPAP flex for subjects with low total nasal resistance (logTNR&lt;=0.8). The analysis is based on both periods.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">317</enrollment>
+  <condition>Obstructive Sleep Apnea</condition>
+  <arm_group>
+    <arm_group_label>Standard CPAP</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Use of a standard CPAP (continuous positive airway pressure) device with constant pressure for 4 weeks to improve breathing during sleep</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CPAP - Flex</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Use of CPAP-Flex (continuous positive airway pressure) device with decreased pressure during expiration for 4 weeks to improve breathing during sleep</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Standard CPAP</intervention_name>
+    <description>Use of the REMstar Auto A-Flex in standard CPAP therapy mode</description>
+    <arm_group_label>Standard CPAP</arm_group_label>
+    <other_name>Philips Respironics REMstar Auto A-Flex</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>CPAP - Flex</intervention_name>
+    <description>Use of Philips Respironics REMstar Auto A-Flex in C-Flex mode</description>
+    <arm_group_label>CPAP - Flex</arm_group_label>
+    <other_name>Philips Respironics REMstar Auto A-Flex</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Member of the World Trade Center Health Program at either the Environmental and&#xD;
+             Occupational Healthy Sciences Institute at Robert Wood Johnson Medical School in&#xD;
+             Piscataway, NJ, the New York University School of Medicine Clinical Center of&#xD;
+             Excellence at Bellevue Hospital in New York, NY, or the Icahn School of Medicine at&#xD;
+             Mount Sinai.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Gross skeletal alterations affecting the upper airway (nose and throat)&#xD;
+&#xD;
+          -  Unstable chronic medical conditions known to affect Obstructive Sleep Apnea&#xD;
+             (congestive heart failure, stroke)&#xD;
+&#xD;
+          -  Pregnancy or intent to become pregnant&#xD;
+&#xD;
+          -  Habitual snoring or diagnosis of obstructive sleep apnea prior to 9/11/2001.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jag Sunderram, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Rutgers RWJMS</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Indu Ayappa, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>NYUMC</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Environmental and Occupational Health Sciences Institute</name>
+      <address>
+        <city>Piscataway</city>
+        <state>New Jersey</state>
+        <zip>08854</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>New York University School of Medicine Clinical Center of Excellence</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mount Sinai School of Medicine</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>December 17, 2012</study_first_submitted>
+  <study_first_submitted_qc>December 17, 2012</study_first_submitted_qc>
+  <study_first_posted type="Estimate">December 21, 2012</study_first_posted>
+  <results_first_submitted>June 25, 2018</results_first_submitted>
+  <results_first_submitted_qc>June 25, 2018</results_first_submitted_qc>
+  <results_first_posted type="Actual">July 20, 2018</results_first_posted>
+  <last_update_submitted>October 10, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 10, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 4, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Rutgers, The State University of New Jersey</investigator_affiliation>
+    <investigator_full_name>Jag Sunderram, MD</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>World Trade Center (WTC)</keyword>
+  <keyword>nasal symptoms</keyword>
+  <keyword>nasal inflammation</keyword>
+  <keyword>CPAP</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Apnea</mesh_term>
+    <mesh_term>Sleep Apnea Syndromes</mesh_term>
+    <mesh_term>Sleep Apnea, Obstructive</mesh_term>
+  </condition_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>May 18, 2016</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/99/NCT01753999/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>January 3, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/99/NCT01753999/SAP_002.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Subjects were recruited between January 2013 and December 2016 at three World Trade Center Health Program Clinical Centers of Excellence (Rutgers University, Icahn School of Medicine at Mount Sinai, and New York University School of Medicine).</recruitment_details>
+      <pre_assignment_details>Subjects without OSA were excluded from the trial.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Standard CPAP Followed by CPAP-Flex</title>
+          <description>Participants were first treated with standard CPAP (continuous positive airway pressure with constant pressure) using a REMstar Auto A-flex in standard CPAP therapy mode for 4 weeks. The therapy mode was then switched to CPAP-Flex for 4 weeks. CPAP-Flex provides a decrease in pressure during expiration.</description>
+        </group>
+        <group group_id="P2">
+          <title>CPAP-Flex Followed by Standard CPAP</title>
+          <description>Participants were treated with CPAP-Flex (continuous positive airway pressure with a decrease in pressure during expiration) using a REMstar Auto A-flex in C-Flex mode for 4 weeks. The therapy mode was then switched to standard CPAP for 4 weeks. Standard CPAP provides a constant pressure (no decrease after expiration).</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Period 1 - Initial Assignment</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="155"/>
+                <participants group_id="P2" count="162"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Received Intervention</title>
+              <participants_list>
+                <participants group_id="P1" count="144"/>
+                <participants group_id="P2" count="146"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="116"/>
+                <participants group_id="P2" count="112"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="39"/>
+                <participants group_id="P2" count="50"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Physician Decision</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="3"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="19"/>
+                <participants group_id="P2" count="20"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="18"/>
+                <participants group_id="P2" count="27"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+        <period>
+          <title>Period 2 -Cross to Alternate Arm</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="116"/>
+                <participants group_id="P2" count="112"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Received Intervention</title>
+              <participants_list>
+                <participants group_id="P1" count="103"/>
+                <participants group_id="P2" count="95"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="99"/>
+                <participants group_id="P2" count="89"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="17"/>
+                <participants group_id="P2" count="23"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="13"/>
+                <participants group_id="P2" count="17"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="5"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Physician Decision</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Participants assigned to the treatment arm.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>All Study Participants</title>
+          <description>Participants who were randomized to receive either standard CPAP or CPAP-Flex.</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="317"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="317"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="288"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="29"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="317"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="53.29" spread="8.23"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="317"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="35"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="282"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="317"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="45"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="264"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="317"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="32"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="227"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="33"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Apnea and Hypopnea Index (AHI4%)</title>
+          <description>Apneas were scored when there was a reduction in airflow to less than 10% of baseline. Hypopneas4% were scored for &gt;30% reduction in airflow associated with 4% or more decrease in oxygen saturation. AHI4% was calculated as apneas+hypopneas4% divided by total valid recording time.</description>
+          <units>Events/hour</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="317"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17.01" spread="14.42"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Total Nasal Resistance</title>
+          <description>Awake nasal resistance was measured using 4-phase-rhinomanometery (RhinoLab GmbH, Rendsburg, Germany) Total nasal resistance was calculated 1/[1/Rleft + 1/Rright] and then log transformed. Total nasal resistance (TNR) measured supine was used to stratify resistance using the median value of log[TNR]=0.8.</description>
+          <population>TNR measurement was missing for 16 subjects at baseline.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="301"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>High Nasal Resistance (LogTNR&gt;0.8)</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="132"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Low Nasal Resistance (LogTNR&lt;=0.8)</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="169"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Adherence to CPAP Pre-crossover</title>
+        <description>The use (number of hours per night) will be compared between standard CPAP and CPAP flex. Results are based on the first treatment period only (pre-crossover).</description>
+        <time_frame>5 weeks after initiation of treatment</time_frame>
+        <population>Subjects who received the allocated treatment (i.e., turned on the PAP device). The difference between the number allocated and the number of analyzed is the result of some subjects (n=11 in CPAP and n=16 in C-Flex) who did not turn on the device despite taking it home. These were assumed to have NOT received the allocated treatment.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Standard CPAP</title>
+            <description>Use of a standard CPAP (continuous positive airway pressure) device with constant pressure for 4 weeks to improve breathing during sleep&#xD;
+Standard CPAP: Use of the REMstar Auto A-Flex in standard CPAP therapy mode</description>
+          </group>
+          <group group_id="O2">
+            <title>CPAP-Flex</title>
+            <description>Use of CPAP-Flex (continuous positive airway pressure) device with decreased pressure during expiration for 4 weeks to improve breathing during sleep&#xD;
+CPAP - Flex: Use of Philips Respironics REMstar Auto A-Flex in C-Flex mode</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Adherence to CPAP Pre-crossover</title>
+          <description>The use (number of hours per night) will be compared between standard CPAP and CPAP flex. Results are based on the first treatment period only (pre-crossover).</description>
+          <population>Subjects who received the allocated treatment (i.e., turned on the PAP device). The difference between the number allocated and the number of analyzed is the result of some subjects (n=11 in CPAP and n=16 in C-Flex) who did not turn on the device despite taking it home. These were assumed to have NOT received the allocated treatment.</population>
+          <units>Hours/night</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="144"/>
+                <count group_id="O2" value="146"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1" lower_limit="0" upper_limit="3.32"/>
+                    <measurement group_id="O2" value="0.89" lower_limit="0" upper_limit="3.17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Adherence to CPAP Overall Study</title>
+        <description>The use (number of hours per night) will be compared between standard CPAP and CPAP flex. Results are based on both periods.</description>
+        <time_frame>9 weeks after initiation of treatment</time_frame>
+        <population>Subjects who received the allocated treatment (i.e., turned on the PAP device) in either the first treatment period or the second treatment period.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Standard CPAP</title>
+            <description>Use of a standard CPAP (continuous positive airway pressure) device with constant pressure for 4 weeks to improve breathing during sleep&#xD;
+Standard CPAP: Use of the REMstar Auto A-Flex in standard CPAP therapy mode</description>
+          </group>
+          <group group_id="O2">
+            <title>CPAP-Flex</title>
+            <description>Use of CPAP-Flex (continuous positive airway pressure) device with decreased pressure during expiration for 4 weeks to improve breathing during sleep&#xD;
+CPAP - Flex: Use of Philips Respironics REMstar Auto A-Flex in C-Flex mode</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Adherence to CPAP Overall Study</title>
+          <description>The use (number of hours per night) will be compared between standard CPAP and CPAP flex. Results are based on both periods.</description>
+          <population>Subjects who received the allocated treatment (i.e., turned on the PAP device) in either the first treatment period or the second treatment period.</population>
+          <units>Hours/night</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="239"/>
+                <count group_id="O2" value="249"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.03" lower_limit="0" upper_limit="3.33"/>
+                    <measurement group_id="O2" value="0.8" lower_limit="0" upper_limit="2.86"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>CPAP Efficacy</title>
+        <description>Efficacy will be evaluated by measuring the residual apnea and hypopnea index (AHI) while on treatment. The efficacy of standard CPAP and CPAP-flex will be compared. Results are based on the first treatment period only (pre-crossover).</description>
+        <time_frame>5 weeks after initiation of treatment</time_frame>
+        <population>Subjects who received treatment (turned on the PAP device). An additional 48 subjects on CPAP and 53 on CPAP-FLex were not analyzed as an AHI could not be generated during the analysis period due to insufficient use.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Standard CPAP</title>
+            <description>Use of a standard CPAP (continuous positive airway pressure) device with constant pressure for 4 weeks to improve breathing during sleep&#xD;
+Standard CPAP: Use of the REMstar Auto A-Flex in standard CPAP therapy mode</description>
+          </group>
+          <group group_id="O2">
+            <title>CPAP - Flex</title>
+            <description>Use of CPAP-Flex (continuous positive airway pressure) device with decreased pressure during expiration for 4 weeks to improve breathing during sleep&#xD;
+CPAP - Flex: Use of Philips Respironics REMstar Auto A-Flex in C-Flex mode</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>CPAP Efficacy</title>
+          <description>Efficacy will be evaluated by measuring the residual apnea and hypopnea index (AHI) while on treatment. The efficacy of standard CPAP and CPAP-flex will be compared. Results are based on the first treatment period only (pre-crossover).</description>
+          <population>Subjects who received treatment (turned on the PAP device). An additional 48 subjects on CPAP and 53 on CPAP-FLex were not analyzed as an AHI could not be generated during the analysis period due to insufficient use.</population>
+          <units>Events/hour</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="96"/>
+                <count group_id="O2" value="93"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.89" spread="3.06"/>
+                    <measurement group_id="O2" value="3.12" spread="2.95"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>CPAP Efficacy</title>
+        <description>Efficacy will be evaluated by measuring the residual apnea and hypopnea index (AHI) while on treatment. The efficacy of standard CPAP and CPAP-flex will be compared. Results are based on both treatment periods.</description>
+        <time_frame>9 weeks after initiation of treatment</time_frame>
+        <population>Subjects who received the allocated treatment (i.e., turned on the PAP device; N=239 for CPAP and N=249 for CPAP Flex). An additional 82 subjects on CPAP and 102 subjects on CPAP-Flex were not analyzed as an AHI could not be generated during the analysis period due to insufficient use.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Standard CPAP</title>
+            <description>Use of a standard CPAP (continuous positive airway pressure) device with constant pressure for 4 weeks to improve breathing during sleep&#xD;
+Standard CPAP: Use of the REMstar Auto A-Flex in standard CPAP therapy mode</description>
+          </group>
+          <group group_id="O2">
+            <title>CPAP-Flex</title>
+            <description>Use of CPAP-Flex (continuous positive airway pressure) device with decreased pressure during expiration for 4 weeks to improve breathing during sleep&#xD;
+CPAP - Flex: Use of Philips Respironics REMstar Auto A-Flex in C-Flex mode</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>CPAP Efficacy</title>
+          <description>Efficacy will be evaluated by measuring the residual apnea and hypopnea index (AHI) while on treatment. The efficacy of standard CPAP and CPAP-flex will be compared. Results are based on both treatment periods.</description>
+          <population>Subjects who received the allocated treatment (i.e., turned on the PAP device; N=239 for CPAP and N=249 for CPAP Flex). An additional 82 subjects on CPAP and 102 subjects on CPAP-Flex were not analyzed as an AHI could not be generated during the analysis period due to insufficient use.</population>
+          <units>events/hour</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="157"/>
+                <count group_id="O2" value="147"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.71" spread="2.76"/>
+                    <measurement group_id="O2" value="2.94" spread="2.65"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Adherence to CPAP Overall Study, Subjects With High Nasal Resistance</title>
+        <description>The use (number of hours per night) will be compared between standard CPAP and CPAP flex for subjects with high total nasal resistance (logTNR&gt;0.8). The analysis is based on both periods.</description>
+        <time_frame>9 weeks after initiation of treatment</time_frame>
+        <population>Subjects with high total nasal resistance who received the allocated treatment (i.e., turned on the PAP device) in either the first treatment period or in the second treatment period.Total nasal resistance data are missing for 8 subjects.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Standard CPAP</title>
+            <description>Participants were first treated with standard CPAP (continuous positive airway pressure with constant pressure) using a REMstar Auto A-flex in standard CPAP therapy either in the first treatment period or in the second treatment period.</description>
+          </group>
+          <group group_id="O2">
+            <title>CPAP-Flex</title>
+            <description>Participants were treated with CPAP-Flex (continuous positive airway pressure with a decrease in pressure during expiration) using a REMstar Auto A-flex in C-Flex either in the first treatment period or in the second treatment period.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Adherence to CPAP Overall Study, Subjects With High Nasal Resistance</title>
+          <description>The use (number of hours per night) will be compared between standard CPAP and CPAP flex for subjects with high total nasal resistance (logTNR&gt;0.8). The analysis is based on both periods.</description>
+          <population>Subjects with high total nasal resistance who received the allocated treatment (i.e., turned on the PAP device) in either the first treatment period or in the second treatment period.Total nasal resistance data are missing for 8 subjects.</population>
+          <units>Hours/night</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="105"/>
+                <count group_id="O2" value="110"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.08" lower_limit="1.60" upper_limit="2.55"/>
+                    <measurement group_id="O2" value="1.75" lower_limit="1.31" upper_limit="2.20"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Adherence to CPAP Overall Study, Subjects With Low Nasal Resistance</title>
+        <description>The use (number of hours per night) will be compared between standard CPAP and CPAP flex for subjects with low total nasal resistance (logTNR&lt;=0.8). The analysis is based on both periods.</description>
+        <time_frame>9 weeks after initiation of treatment</time_frame>
+        <population>Subjects with low total nasal resistance who received the allocated treatment (i.e., turned on the PAP device) in either the first treatment period or in the second treatment period. Total nasal resistance data are missing for 8 subjects.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Standard CPAP</title>
+            <description>Participants were treated with standard CPAP (continuous positive airway pressure with constant pressure) using a REMstar Auto A-flex in standard CPAP therapy either in the first treatment period or in the second treatment period.</description>
+          </group>
+          <group group_id="O2">
+            <title>CPAP - Flex</title>
+            <description>Participants were treated with CPAP-Flex (continuous airway pressure with a decrease in pressure during expiration) using a REMstar Auto A-flex in C-Flex either in the first treatment period or in the second treatment period.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Adherence to CPAP Overall Study, Subjects With Low Nasal Resistance</title>
+          <description>The use (number of hours per night) will be compared between standard CPAP and CPAP flex for subjects with low total nasal resistance (logTNR&lt;=0.8). The analysis is based on both periods.</description>
+          <population>Subjects with low total nasal resistance who received the allocated treatment (i.e., turned on the PAP device) in either the first treatment period or in the second treatment period. Total nasal resistance data are missing for 8 subjects.</population>
+          <units>Hours/night</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="126"/>
+                <count group_id="O2" value="131"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.81" lower_limit="1.44" upper_limit="2.18"/>
+                    <measurement group_id="O2" value="1.55" lower_limit="1.22" upper_limit="1.88"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Adverse event data were collected for 2 months after the start of the trial.</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Standard CPAP</title>
+          <description>Use of a standard CPAP (continuous positive airway pressure) device with constant pressure for 4 weeks to improve breathing during sleep&#xD;
+Standard CPAP: Use of the REMstar Auto A-Flex in standard CPAP therapy mode</description>
+        </group>
+        <group group_id="E2">
+          <title>CPAP - Flex</title>
+          <description>Use of CPAP-Flex (continuous positive airway pressure) device with decreased pressure during expiration for 4 weeks to improve breathing during sleep&#xD;
+CPAP - Flex: Use of Philips Respironics REMstar Auto A-Flex in C-Flex mode</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="267"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="278"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="267"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="278"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="267"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="278"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Jag Sunderram</name_or_title>
+      <organization>Rutgers Robert Wood Johnson Medical School</organization>
+      <phone>732-235-7038</phone>
+      <email>sunderja@rwjms.rutgers.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

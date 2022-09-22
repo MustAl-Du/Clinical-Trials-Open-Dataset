@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2146">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01847027</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2012-162</org_study_id>
+    <nct_id>NCT01847027</nct_id>
+  </id_info>
+  <brief_title>Exercise and NutraStem (NT-020): Effects on Stem Cells</brief_title>
+  <official_title>Phase 2 Study of the Effect of a Nutritional Supplement and Exercise on Human Stem Cells</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of North Texas Health Science Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of South Florida</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of North Texas Health Science Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to see if an investigational supplement called NutraStem® will&#xD;
+      increase the amount of stem cells in human blood at rest and after exercise. The ingredients&#xD;
+      found in NutraStem® can be found in nutrition or vitamin shops/stores.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A randomized double blinded placebo controlled trial of a nutraceutical preparation. Up to 60&#xD;
+      men and women between the ages of 50 and 70, and generally healthy will participate in this&#xD;
+      study. . Up to 30 participants will receive the nutritional supplement and up to 30 will&#xD;
+      receive placebo.&#xD;
+&#xD;
+      Potential participants will be screened by telephone and have the study explained to them in&#xD;
+      detail. If they qualify and choose to participate they will come in for the first of three&#xD;
+      visits. Informed consent will be obtained and demographic information collected. Information&#xD;
+      requested on the demographic form includes ethnicity, income, education, marital status,&#xD;
+      smoking and alcohol use, and exercise habits. Next they will have blood pressure checked and&#xD;
+      if not within parameters they will be dropped from the study and informed that they need to&#xD;
+      follow up the abnormal result with their health care provider. Those that pass these&#xD;
+      screening tests will have 15 to 25 cc's of peripheral blood (serum) collected by the study&#xD;
+      coordinator via venipuncture while at rest. They will then stretch for 2 minutes (60 seconds&#xD;
+      marching in place followed by 10 toe touches) followed by accelerating treadmill walking&#xD;
+      exercise. The exercise intervention will consist of a 15 minute period of walking on a&#xD;
+      treadmill. The treadmill will not be inclined during the intervention. The participants&#xD;
+      target heart rate will be determined by deducting their age from 220. They will start walking&#xD;
+      on the treadmill at a speed of 1.7 mph and the speed will be titrated as indicated to keep&#xD;
+      their heart rate at 50 to 90% of target. Heart rate will be monitored via the pulse oximetry&#xD;
+      feature of the Welch Allyn vital signs monitor. Blood pressure will be measured every 3&#xD;
+      minutes during the exercise intervention and until they have returned to baseline (within 10&#xD;
+      points) following cessation of the exercise protocol. The test will be stopped for any&#xD;
+      participant complaint of chest pain, excess fatigue, difficulty breathing, a blood pressure&#xD;
+      reading of more than 180/94, or a participant request. If symptoms increase or do not&#xD;
+      completely resolve with 15 minutes of rest the study coordinator will call 911 (through&#xD;
+      campus police) to activate the EMS response. If symptoms resolve completely within 15 minutes&#xD;
+      participants will be withdrawn from the study and advised to follow up with their health care&#xD;
+      provider. Any participant unable to complete the exercise intervention for any reason will be&#xD;
+      withdrawn from the study.&#xD;
+&#xD;
+      Five to fifteen minutes after the exercise intervention has been completed blood will again&#xD;
+      be collected in exactly the same manner as the resting sample. Participants will then receive&#xD;
+      a 2 week supply of either NutraStem or placebo and will be advised to take one tablet every&#xD;
+      morning and evening before meals for the next 2 weeks. If the participant is unable to&#xD;
+      complete any portion of the visit activities at any visit they will be withdrawn from the&#xD;
+      study due to their inability to complete the study. All visit activities will be recorded in&#xD;
+      detail on the visit session record.&#xD;
+&#xD;
+      The second visit will occur 2 weeks later and include a blood pressure check, an at rest&#xD;
+      blood draw, the exercise intervention, and then a repeat blood draw five to fifteen minutes&#xD;
+      after completion of the intervention. Participants will then receive a 2 week supply of&#xD;
+      either NutraStem or placebo and will be advised to take one tablet every morning and evening&#xD;
+      before meals for the next 2 weeks. I Participants will be advised to bring their empty pill&#xD;
+      containers to their next session so we can confirm they are taking the supplement as&#xD;
+      required. If the blood pressure is outside of the specified range they will be dropped from&#xD;
+      the study and no blood collection or study intervention will take place.&#xD;
+&#xD;
+      The third visit will be the same as the second visit.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 2013</start_date>
+  <completion_date type="Actual">July 17, 2017</completion_date>
+  <primary_completion_date type="Actual">July 17, 2017</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of CD133+ Cells</measure>
+    <time_frame>Baseline, 2 weeks, 4 weeks</time_frame>
+    <description>The percentage of CD133+ cells detected in blood samples</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percent of CD34+ Cells</measure>
+    <time_frame>Baseline, 2 weeks, 4 weeks</time_frame>
+    <description>Percent of CD34+ cells detected in blood samples</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Markers of Oxidative Stress</measure>
+    <time_frame>Baseline, 4 weeks</time_frame>
+    <description>Blood levels of C reactive protein</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">23</enrollment>
+  <condition>Adult Stem Cell Proliferation</condition>
+  <arm_group>
+    <arm_group_label>Active supplement</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>NutraStem, 2 tablets daily, Vitamin D3 (2000 IU), BioVin® (40 mg) and the proprietary blend (900mg).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sugar pill</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>The placebo is identical in appearance to the NutraStem® supplement and contains the following ingredients in a Vegi Capsule:&#xD;
+MCC200 DICALCIUM PHOSPHATE BROWN LAKE BLEND (SENSIENT # 09127 ) RED DYE DB-088 (COLORCON) MAGNESIUM STEARATE BLUE #1 ALUM LAKE (POWDER)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>NutraStem</intervention_name>
+    <description>Determine whether NutraStem® in combination with an exercise stimulus will cause increased human peripheral blood sample levels of CD34+ and CD133+ adult stem cells and whether these stem cells display more protection against oxidative stress.&#xD;
+Determine whether NutraStem® in combination with an exercise stimulus will cause increased human peripheral blood sample levels of CD34+ and CD133+ adult stem cells and whether these stem cells display more protection against oxidative stress.</description>
+    <arm_group_label>Active supplement</arm_group_label>
+    <other_name>NT-020</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Determine whether NutraStem® in combination with an exercise stimulus will cause increased human peripheral blood sample levels of CD34+ and CD133+ adult stem cells and whether these stem cells display more protection against oxidative stress.</description>
+    <arm_group_label>Sugar pill</arm_group_label>
+    <other_name>Sugar pill</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Healthy men and women&#xD;
+&#xD;
+          -  Age 50 to 70 years old&#xD;
+&#xD;
+          -  Ability to walk on a treadmill for 15 minutes.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Age less than 50 or greater than 70 years of age.&#xD;
+&#xD;
+          -  A history of difficult veins/difficulty obtaining blood samples&#xD;
+&#xD;
+          -  Unwilling to follow the procedures of the trial&#xD;
+&#xD;
+          -  Participated in more than 2 sessions per week of strenuous exercise in the last month&#xD;
+&#xD;
+          -  Unable to tolerate the ingredients in NutraStem® or placebo, or have food allergies&#xD;
+&#xD;
+          -  Intentionally lost or gained 10 or more pounds of body weight in the last 3 months&#xD;
+&#xD;
+          -  Acute illness&#xD;
+&#xD;
+          -  Severe co-morbid disease&#xD;
+&#xD;
+          -  Use of any prescription or non-prescription products for antioxidant regimen or stem&#xD;
+             cell supplement within the past 4 weeks&#xD;
+&#xD;
+          -  Diabetic&#xD;
+&#xD;
+          -  Uncontrolled hypertension&#xD;
+&#xD;
+          -  Recent cardiovascular event (past 36 months), or a family history of sudden death or&#xD;
+             heart attacks before the age of 55&#xD;
+&#xD;
+          -  Body Mass Index (BMI) of less than 20 or greater than 35 m/kg2;&#xD;
+&#xD;
+          -  Participated in a clinical trial in the past 4 weeks&#xD;
+&#xD;
+          -  Take methadone, insulin, anticoagulants (blood thinners), MAO's or similar medications&#xD;
+&#xD;
+          -  Anticipate the need for surgery of any type during the entire study;&#xD;
+&#xD;
+          -  Plan to donate blood or blood products during the study or for thirty (30) days&#xD;
+             following the study&#xD;
+&#xD;
+          -  Active peptic ulcer disease or reliable history of gastrointestinal bleeding within&#xD;
+             the past five (5) years&#xD;
+&#xD;
+          -  Recurrent or a history of intestinal disorders that may interfere with the absorption&#xD;
+             of the product&#xD;
+&#xD;
+          -  Any disease or condition that in the investigator's opinion compromises the integrity&#xD;
+             of the clinical trial or the safety of the subject&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Meharvan Singh, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of North Texas Health Science Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of North Texas Health Science Center - Center for Biohealth</name>
+      <address>
+        <city>Fort Worth</city>
+        <state>Texas</state>
+        <zip>76107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2019</verification_date>
+  <study_first_submitted>May 1, 2013</study_first_submitted>
+  <study_first_submitted_qc>May 3, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">May 6, 2013</study_first_posted>
+  <results_first_submitted>December 21, 2018</results_first_submitted>
+  <results_first_submitted_qc>May 8, 2019</results_first_submitted_qc>
+  <results_first_posted type="Actual">May 29, 2019</results_first_posted>
+  <last_update_submitted>May 8, 2019</last_update_submitted>
+  <last_update_submitted_qc>May 8, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 29, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of North Texas Health Science Center</investigator_affiliation>
+    <investigator_full_name>Meharvan Singh</investigator_full_name>
+    <investigator_title>Professor, Department of Pharmacology and Neuroscience</investigator_title>
+  </responsible_party>
+  <keyword>Healthy</keyword>
+  <keyword>Stem cells</keyword>
+  <keyword>Aging</keyword>
+  <keyword>Increase stem cell replacement</keyword>
+  <keyword>decreased stem cell proliferation</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol, Statistical Analysis Plan, and Informed Consent Form</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>January 4, 2013</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/27/NCT01847027/Prot_SAP_ICF_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Active Supplement</title>
+          <description>NutraStem, 2 tablets daily, Vitamin D3 (2000 IU), BioVin® (40 mg) and the proprietary blend (900mg).&#xD;
+NutraStem: Determine whether NutraStem® in combination with an exercise stimulus will cause increased human peripheral blood sample levels of CD34+ and CD133+ adult stem cells and whether these stem cells display more protection against oxidative stress.&#xD;
+Determine whether NutraStem® in combination with an exercise stimulus will cause increased human peripheral blood sample levels of CD34+ and CD133+ adult stem cells and whether these stem cells display more protection against oxidative stress.</description>
+        </group>
+        <group group_id="P2">
+          <title>Sugar Pill</title>
+          <description>The placebo is identical in appearance to the NutraStem® supplement and contains the following ingredients in a Vegi Capsule:&#xD;
+MCC200 DICALCIUM PHOSPHATE BROWN LAKE BLEND (SENSIENT # 09127 ) RED DYE DB-088 (COLORCON) MAGNESIUM STEARATE BLUE #1 ALUM LAKE (POWDER)&#xD;
+Placebo: Determine whether NutraStem® in combination with an exercise stimulus will cause increased human peripheral blood sample levels of CD34+ and CD133+ adult stem cells and whether these stem cells display more protection against oxidative stress.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="11"/>
+                <participants group_id="P2" count="12"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="10"/>
+                <participants group_id="P2" count="10"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Active Supplement</title>
+          <description>NutraStem, 2 tablets daily, Vitamin D3 (2000 IU), BioVin® (40 mg) and the proprietary blend (900mg).&#xD;
+NutraStem: Determine whether NutraStem® in combination with an exercise stimulus will cause increased human peripheral blood sample levels of CD34+ and CD133+ adult stem cells and whether these stem cells display more protection against oxidative stress.&#xD;
+Determine whether NutraStem® in combination with an exercise stimulus will cause increased human peripheral blood sample levels of CD34+ and CD133+ adult stem cells and whether these stem cells display more protection against oxidative stress.</description>
+        </group>
+        <group group_id="B2">
+          <title>Sugar Pill</title>
+          <description>The placebo is identical in appearance to the NutraStem® supplement and contains the following ingredients in a Vegi Capsule:&#xD;
+MCC200 DICALCIUM PHOSPHATE BROWN LAKE BLEND (SENSIENT # 09127 ) RED DYE DB-088 (COLORCON) MAGNESIUM STEARATE BLUE #1 ALUM LAKE (POWDER)&#xD;
+Placebo: Determine whether NutraStem® in combination with an exercise stimulus will cause increased human peripheral blood sample levels of CD34+ and CD133+ adult stem cells and whether these stem cells display more protection against oxidative stress.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="11"/>
+            <count group_id="B2" value="12"/>
+            <count group_id="B3" value="23"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="18"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="58.5" spread="6.3"/>
+                    <measurement group_id="B2" value="59.5" spread="6.1"/>
+                    <measurement group_id="B3" value="59.0" spread="6.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="14"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="11"/>
+                    <measurement group_id="B3" value="21"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="19"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="12"/>
+                    <measurement group_id="B3" value="23"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Percentage of CD133+ Cells</title>
+        <description>The percentage of CD133+ cells detected in blood samples</description>
+        <time_frame>Baseline, 2 weeks, 4 weeks</time_frame>
+        <population>subjects who completed all three visits and from whom blood draws were obtained</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Active Supplement</title>
+            <description>NutraStem, 2 tablets daily, Vitamin D3 (2000 IU), BioVin® (40 mg) and the proprietary blend (900mg).&#xD;
+NutraStem: Determine whether NutraStem® in combination with an exercise stimulus will cause increased human peripheral blood sample levels of CD34+ and CD133+ adult stem cells and whether these stem cells display more protection against oxidative stress.&#xD;
+Determine whether NutraStem® in combination with an exercise stimulus will cause increased human peripheral blood sample levels of CD34+ and CD133+ adult stem cells and whether these stem cells display more protection against oxidative stress.</description>
+          </group>
+          <group group_id="O2">
+            <title>Sugar Pill</title>
+            <description>The placebo is identical in appearance to the NutraStem® supplement and contains the following ingredients in a Vegi Capsule:&#xD;
+MCC200 DICALCIUM PHOSPHATE BROWN LAKE BLEND (SENSIENT # 09127 ) RED DYE DB-088 (COLORCON) MAGNESIUM STEARATE BLUE #1 ALUM LAKE (POWDER)&#xD;
+Placebo: Determine whether NutraStem® in combination with an exercise stimulus will cause increased human peripheral blood sample levels of CD34+ and CD133+ adult stem cells and whether these stem cells display more protection against oxidative stress.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of CD133+ Cells</title>
+          <description>The percentage of CD133+ cells detected in blood samples</description>
+          <population>subjects who completed all three visits and from whom blood draws were obtained</population>
+          <units>percent of total</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline (visit 1)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.50" spread="0.39"/>
+                    <measurement group_id="O2" value="0.28" spread="0.15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>2 weeks (visit 2)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.54" spread="0.49"/>
+                    <measurement group_id="O2" value="0.47" spread="0.54"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>4 weeks (visit 3)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.37" spread="0.25"/>
+                    <measurement group_id="O2" value="0.35" spread="0.27"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Percent of CD34+ Cells</title>
+        <description>Percent of CD34+ cells detected in blood samples</description>
+        <time_frame>Baseline, 2 weeks, 4 weeks</time_frame>
+        <population>Subjects who completed all three visit and from whom blood draws were successful</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Active Supplement</title>
+            <description>NutraStem, 2 tablets daily, Vitamin D3 (2000 IU), BioVin® (40 mg) and the proprietary blend (900mg).&#xD;
+NutraStem: Determine whether NutraStem® in combination with an exercise stimulus will cause increased human peripheral blood sample levels of CD34+ and CD133+ adult stem cells and whether these stem cells display more protection against oxidative stress.&#xD;
+Determine whether NutraStem® in combination with an exercise stimulus will cause increased human peripheral blood sample levels of CD34+ and CD133+ adult stem cells and whether these stem cells display more protection against oxidative stress.</description>
+          </group>
+          <group group_id="O2">
+            <title>Sugar Pill</title>
+            <description>The placebo is identical in appearance to the NutraStem® supplement and contains the following ingredients in a Vegi Capsule:&#xD;
+MCC200 DICALCIUM PHOSPHATE BROWN LAKE BLEND (SENSIENT # 09127 ) RED DYE DB-088 (COLORCON) MAGNESIUM STEARATE BLUE #1 ALUM LAKE (POWDER)&#xD;
+Placebo: Determine whether NutraStem® in combination with an exercise stimulus will cause increased human peripheral blood sample levels of CD34+ and CD133+ adult stem cells and whether these stem cells display more protection against oxidative stress.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percent of CD34+ Cells</title>
+          <description>Percent of CD34+ cells detected in blood samples</description>
+          <population>Subjects who completed all three visit and from whom blood draws were successful</population>
+          <units>percent of total</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline (visit 1)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9.46" spread="6.98"/>
+                    <measurement group_id="O2" value="14.31" spread="7.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>2 weeks (visit 2)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7.64" spread="8.29"/>
+                    <measurement group_id="O2" value="7.13" spread="3.97"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>4 weeks (visit 3)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7.29" spread="6.08"/>
+                    <measurement group_id="O2" value="8.49" spread="5.95"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Markers of Oxidative Stress</title>
+        <description>Blood levels of C reactive protein</description>
+        <time_frame>Baseline, 4 weeks</time_frame>
+        <population>Subjects who completed all three visits</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Active Supplement</title>
+            <description>NutraStem, 2 tablets daily, Vitamin D3 (2000 IU), BioVin® (40 mg) and the proprietary blend (900mg).&#xD;
+NutraStem: Determine whether NutraStem® in combination with an exercise stimulus will cause increased human peripheral blood sample levels of CD34+ and CD133+ adult stem cells and whether these stem cells display more protection against oxidative stress.&#xD;
+Determine whether NutraStem® in combination with an exercise stimulus will cause increased human peripheral blood sample levels of CD34+ and CD133+ adult stem cells and whether these stem cells display more protection against oxidative stress.</description>
+          </group>
+          <group group_id="O2">
+            <title>Sugar Pill</title>
+            <description>The placebo is identical in appearance to the NutraStem® supplement and contains the following ingredients in a Vegi Capsule:&#xD;
+MCC200 DICALCIUM PHOSPHATE BROWN LAKE BLEND (SENSIENT # 09127 ) RED DYE DB-088 (COLORCON) MAGNESIUM STEARATE BLUE #1 ALUM LAKE (POWDER)&#xD;
+Placebo: Determine whether NutraStem® in combination with an exercise stimulus will cause increased human peripheral blood sample levels of CD34+ and CD133+ adult stem cells and whether these stem cells display more protection against oxidative stress.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Markers of Oxidative Stress</title>
+          <description>Blood levels of C reactive protein</description>
+          <population>Subjects who completed all three visits</population>
+          <units>ng/L</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline (visit 1)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1695848.62" spread="2084023.54"/>
+                    <measurement group_id="O2" value="1843643.43" spread="1391654.22"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>4 weeks (visit 3)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="873777.84" spread="647730.33"/>
+                    <measurement group_id="O2" value="1935423.36" spread="1096810.43"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>4 weeks</time_frame>
+      <desc>Blood pressure is monitored in individuals while exercising (treadmill walking).</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Active Supplement</title>
+          <description>NutraStem, 2 tablets daily, Vitamin D3 (2000 IU), BioVin® (40 mg) and the proprietary blend (900mg).&#xD;
+NutraStem: Determine whether NutraStem® in combination with an exercise stimulus will cause increased human peripheral blood sample levels of CD34+ and CD133+ adult stem cells and whether these stem cells display more protection against oxidative stress.&#xD;
+Determine whether NutraStem® in combination with an exercise stimulus will cause increased human peripheral blood sample levels of CD34+ and CD133+ adult stem cells and whether these stem cells display more protection against oxidative stress.</description>
+        </group>
+        <group group_id="E2">
+          <title>Sugar Pill</title>
+          <description>The placebo is identical in appearance to the NutraStem® supplement and contains the following ingredients in a Vegi Capsule:&#xD;
+MCC200 DICALCIUM PHOSPHATE BROWN LAKE BLEND (SENSIENT # 09127 ) RED DYE DB-088 (COLORCON) MAGNESIUM STEARATE BLUE #1 ALUM LAKE (POWDER)&#xD;
+Placebo: Determine whether NutraStem® in combination with an exercise stimulus will cause increased human peripheral blood sample levels of CD34+ and CD133+ adult stem cells and whether these stem cells display more protection against oxidative stress.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="12"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>vasovagal response</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="12"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Meharvan Singh, PhD</name_or_title>
+      <organization>University of North Texas Health Science Center</organization>
+      <phone>8177355429</phone>
+      <email>meharvan.singh@unthsc.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

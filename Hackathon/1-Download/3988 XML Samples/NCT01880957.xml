@@ -1,0 +1,1104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3548">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01880957</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2012-1826-F</org_study_id>
+    <secondary_id>7R01MH090276-03</secondary_id>
+    <nct_id>NCT01880957</nct_id>
+  </id_info>
+  <brief_title>PET and MRI Brain Imaging of Bipolar Disorder</brief_title>
+  <official_title>Pathophysiology and Treatment of Bipolar Disorder as Assessed by in Vivo Imaging</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stony Brook University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Mental Health (NIMH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The Dana Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Stony Brook University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary aims of this study are to:&#xD;
+&#xD;
+        1. Quantify serotonin transporter (5-HTT) binding potential (BP) in vivo in bipolar&#xD;
+           disorder patients (BPD) during a major depressive episode (MDE).&#xD;
+&#xD;
+        2. Assess the effect of lithium treatment of bipolar disorder on 5-HTT.&#xD;
+&#xD;
+        3. Assess the effect of lithium treatment of bipolar disorder on 5-HT1A BP.&#xD;
+&#xD;
+        4. Assess the effect of lamotrigine treatment of bipolar disorder on 5-HTT and 5-HT1A BP.&#xD;
+&#xD;
+        5. Assess the effect of lithium treatment of unipolar depression on 5-HTT BP.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PET and MRI imaging will be used to investigate the aims described above in patients who have&#xD;
+      bipolar disorder or unipolar depression and are currently experiencing a depressive episode.&#xD;
+      Both healthy controls and depressed participants with bipolar disorder or unipolar depression&#xD;
+      will be recruited. Patients who are on medication before enrolling in the study will have a&#xD;
+      three week washout. At baseline, healthy controls and patients will have an MRI consisting of&#xD;
+      both structural and functional sequences. Psychological measures will also be obtained at&#xD;
+      baseline. Within one week of the MRI, both patients and healthy controls will have one CUMI&#xD;
+      and one DASB PET scan.&#xD;
+&#xD;
+      Following the baseline PET scans, patient participants will begin medication treatment with&#xD;
+      either lithium or lamotrigine, based on the clinical judgement of the treating psychiatrist.&#xD;
+      Psychological measures will be obtained every 2 weeks. After 6 weeks of medication treatment&#xD;
+      at a therapeutic dose, patients will be assessed for remission (defined as a 50% decrease in&#xD;
+      the HDRS score from baseline). If this criteria is met, patient participants will then have&#xD;
+      follow-up PET scans (one CUMI and one DASB). If this criteria is not met, the patient will be&#xD;
+      switched to the other medication under study and will be reevaluated after an additional 4&#xD;
+      weeks of medication treatment. Patients who still do not demonstrate a 50% decrease in their&#xD;
+      HDRS will be considered non-responders and will have repeat CUMI and DASB scans.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">November 8, 2011</start_date>
+  <completion_date type="Actual">June 23, 2017</completion_date>
+  <primary_completion_date type="Actual">June 23, 2017</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Post-Lithium Treatment Hamilton Depression Rating Scale (HDRS)</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Patients will have a Hamilton Depression Rating Scale-24 (HDRS) score obtained at baseline. Minimum score 0, maximum possible score 75; the higher the score on the scale, the more severe the degree of depression. Participants must have an HDRS score of at least 15 to be eligible. After eight weeks of medication treatment, the HDRS score will be reevaluated with the HDRS-24 (and rescanned with PET and MRI). Participants who have a 50% or greater decrease in their HDRS-24 score will be considered responders (to Lithium treatment).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Prediction of Treatment Response</measure>
+    <time_frame>8 Weeks</time_frame>
+    <description>Outcome measures were generated following LASSO linear regression analysis using pretreament HDRS-24 AND..&#xD;
+pre-treatment 5-HTT OR&#xD;
+pretreatment 5-HT1A OR&#xD;
+the combination of both 5-HTT and 5-HT1A binding potential&#xD;
+to predict post-treatment response defined by a dichotomous remission status variable (remitter vs. non-remitter, where remitter is defined a priori by HDRS-24 &lt;10 post-treatment and a reduction of greater than or equal to 50% in HDRS-24 pre-to-post treatment). Outcome measure is reported as percent accuracy, sensitivity, or specificity in predicting remitter status outcomes.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Group Differences in 5-HTT Binding Potential</measure>
+    <time_frame>8 Weeks</time_frame>
+    <description>Differences in mean of 5-HTT binding potential between patients with depression pre-treatment, post-treatment, compared to healthy volunteers. Broadly, binding potential is defined as the ratio of the tracer concentration in tissue to the free plasma concentration. It is a measure of the density of &quot;available&quot; targets (e.g. 5-HTT) &amp; the affinity of the ligand (tracer) to that target.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Group Differences in 5-HT1A Binding Potential</measure>
+    <time_frame>8 Weeks</time_frame>
+    <description>Differences in mean of 5-HT1A binding potential between patients with depression pre-treatment, post-treatment, compared to healthy volunteers. Broadly, binding potential is defined as the ratio of the tracer concentration in tissue to the free plasma concentration. It is a measure of the density of &quot;available&quot; targets (e.g. 5-HT1A) &amp; the affinity of the ligand (tracer) to that target.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Relationship Between Change in 5-HTT or 5-HT1A Binding Potential Pre- to Post Treatment and Lithium Treatment Response</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Linear regression &amp; correlation to assess the relationship between between change in binding potential pre- to post treatment vs. treatment response</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">76</enrollment>
+  <condition>Bipolar Disorder</condition>
+  <condition>Bipolar Depression</condition>
+  <condition>Unipolar Depression</condition>
+  <arm_group>
+    <arm_group_label>Lithium</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Patients in this condition will receive lithium administered as follows: Day 1, 2 and 3, 300 mg bid; Days 4-7 lithium 300 qam and 600 qhs. Lithium level will be checked as close to Day 7 as possible and titrated to a therapeutic plasma level of 0.8-1.2 mEq/l. Subjects will not undergo lithium monotherapy if they have a documented history of at least two failed trials of lithium of at least 4 weeks duration with therapeutic blood levels for a major depressive episode</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Lamotrigine</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Patients who have not respond to adequate prior lithium treatment while depressed, or who refuse lithium, will be given lamotrigine. Lamotrigine will be started at 25 mg bid and increased to 50 mg bid after 2 weeks and again increased to 100 mg bid after an additional 2 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lithium</intervention_name>
+    <arm_group_label>Lithium</arm_group_label>
+    <other_name>lithium carbonate</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lamotrigine</intervention_name>
+    <arm_group_label>Lamotrigine</arm_group_label>
+    <other_name>Lamictal</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        PATIENTS&#xD;
+&#xD;
+        BIPOLAR&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Bipolar patients suffering from a major depressive episode currently or recently (in&#xD;
+             the month prior to scanning). Patients on psychiatric medication will have failed&#xD;
+             their current regimen for the treatment of their depression: they will meet criteria&#xD;
+             for depression, be seeking treatment for it, and have been on an adequate dose of&#xD;
+             antidepressant or mood stabilizer (as defined by the Antidepressant Treatment Form-see&#xD;
+             Oquendo et al., 2003) for 4 weeks or more.&#xD;
+&#xD;
+          -  Of sufficient severity to score at least 15 on the first 17 items of the Hamilton&#xD;
+             Depression Rating Scale or a score of 10 to 14 on the first 17 items of the Hamilton&#xD;
+             Depression Scale in conjunction with a score of at least 29 on the Beck Depression&#xD;
+             Inventory.&#xD;
+&#xD;
+          -  Age range 18-65 years.&#xD;
+&#xD;
+          -  Off all psychotropic and other types of drugs likely to interact with serotonin&#xD;
+             transporters and 5-HT1A receptors for at least 21 days. Allowed short-acting&#xD;
+             benzodiazepines for distressing anxiety or insomnia (up to 24 hours prior to each PET&#xD;
+             scan). Patients will be off neuroleptics for 3 weeks and off fluoxetine for 6 weeks&#xD;
+             prior to study. Off serotonin depleting drugs such as reserpine for 3 months. Patient&#xD;
+             will also be off anti-coagulant/anti-platelet treatment such as coumadin, with the&#xD;
+             exception of aspirin for 10 days.&#xD;
+&#xD;
+          -  Willing to travel for PET scanning&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Other major psychiatric disorders such as schizophrenia, schizoaffective illness;&#xD;
+             current drug or alcohol abuse (within past 2 months), or drug or alcohol dependence&#xD;
+             &lt;6mos ago; anorexia nervosa or bulimia nervosa in the past year; IV drug use or&#xD;
+             ecstasy use more than two times.&#xD;
+&#xD;
+          -  A first-degree family history of schizophrenia if the subject is less than 33 years&#xD;
+             old (mean age of onset for schizophrenia plus two standard deviations).&#xD;
+&#xD;
+          -  Significant active physical illness particularly those that may affect the brain or&#xD;
+             serotonergic system including blood dyscrasias lymphomas, hypersplenism,&#xD;
+             endocrinopathies, renal failure or chronic obstructive lung disease, autonomic&#xD;
+             neuropathies, peripheral vascular disease, diabetes, low hemoglobin and malignancy,&#xD;
+             significant anemic disease or blood loss and the lab parameters platelet count &lt;&#xD;
+             80,000.&#xD;
+&#xD;
+          -  Lacks capacity to consent.&#xD;
+&#xD;
+          -  Actively suicidal-begins expressing a plan for suicide during the washout phase or&#xD;
+             develop suicidal ideation that warrants admission or requires medication or treatment&#xD;
+             intervention.&#xD;
+&#xD;
+          -  Electroconvulsive therapy (ECT) within the past 6 months.&#xD;
+&#xD;
+          -  Pregnancy, currently lactating; planning to conceive during the course of study&#xD;
+             participation or abortion in the past two months.&#xD;
+&#xD;
+          -  Metal implants, pacemaker or metal prostheses or orthodontic appliances, the presence&#xD;
+             of shrapnel&#xD;
+&#xD;
+          -  Current, past or anticipated exposure to radiation, that may include: being badged for&#xD;
+             radiation exposure in the workplace, participation in nuclear medicine procedures,&#xD;
+             including research protocols in the last year.&#xD;
+&#xD;
+          -  A neurological disease or loss of consciousness for more than a few minutes&#xD;
+&#xD;
+          -  Medicinal Patch (participants will be asked to remove before MRI)&#xD;
+&#xD;
+          -  Patients who are responding satisfactorily to psychiatric medications, because they&#xD;
+             will not be washed-out for purposes of this study&#xD;
+&#xD;
+          -  A documented history of a lack of response to a trial of adequate dose and duration of&#xD;
+             both lithium and lamotrigine defined as minimal clinical response to lamotrigine 200&#xD;
+             mgs for at least 4 weeks or lithium serum levels of at least 0.8 (or dose &gt;= 900 mgs)&#xD;
+             for at least 4 weeks.&#xD;
+&#xD;
+          -  Patient is unlikely to be able to tolerate medication washout&#xD;
+&#xD;
+          -  Claustrophobia&#xD;
+&#xD;
+          -  Blood donation within 8 weeks of the start of the study.&#xD;
+&#xD;
+          -  History of bleeding disorder or are currently taking anticoagulants.&#xD;
+&#xD;
+        UNIPOLAR&#xD;
+&#xD;
+        Inclusion:&#xD;
+&#xD;
+          -  Unipolar patients suffering from a major depressive episode currently or recently (in&#xD;
+             the month prior to scanning). Patients on psychiatric medication will have failed&#xD;
+             their current regimen for the treatment of their depression: they will meet criteria&#xD;
+             for depression, be seeking treatment for it, and have been on an adequate dose of&#xD;
+             antidepressant or mood stabilizer (as defined by the Antidepressant Treatment Form-see&#xD;
+             Oquendo et al., 2003) for 4 weeks or more.&#xD;
+&#xD;
+          -  Of sufficient severity to score at least 15 on the first 17 items of the Hamilton&#xD;
+             Depression Rating Scale or a score of 10 to 14 on the first 17 items of the Hamilton&#xD;
+             Depression Scale in conjunction with a score of at least 29 on the Beck Depression&#xD;
+             Inventory.&#xD;
+&#xD;
+          -  Age range 18-65 years.&#xD;
+&#xD;
+          -  Off all psychotropic and other types of drugs likely to interact with serotonin&#xD;
+             transporters and 5-HT1A receptors for at least 21 days. Allowed short-acting&#xD;
+             benzodiazepines for distressing anxiety or insomnia (up to 24 hours prior to each PET&#xD;
+             scan). Patients will be off neuroleptics for 3 weeks and off fluoxetine for 6 weeks&#xD;
+             prior to study. Off serotonin depleting drugs such as reserpine for 3 months. Patient&#xD;
+             will also be off anti-coagulant/anti-platelet treatment such as coumadin, with the&#xD;
+             exception of aspirin for 10 days.&#xD;
+&#xD;
+          -  Willing to travel for PET scanning&#xD;
+&#xD;
+        Exclusion:&#xD;
+&#xD;
+          -  Other major psychiatric disorders such as schizophrenia, schizoaffective illness;&#xD;
+             current drug or alcohol abuse (within past 2 months), or drug or alcohol dependence&#xD;
+             &lt;6mos ago; anorexia nervosa or bulimia nervosa in the past year; IV drug use or&#xD;
+             ecstasy use more than two times.&#xD;
+&#xD;
+          -  A first-degree family history of schizophrenia if the subject is less than 33 years&#xD;
+             old (mean age of onset for schizophrenia plus two standard deviations).&#xD;
+&#xD;
+          -  Significant active physical illness particularly those that may affect the brain or&#xD;
+             serotonergic system including blood dyscrasias lymphomas, hypersplenism,&#xD;
+             endocrinopathies, renal failure or chronic obstructive lung disease, autonomic&#xD;
+             neuropathies, peripheral vascular disease, diabetes, low hemoglobin and malignancy,&#xD;
+             significant anemic disease or blood loss and the lab parameters platelet count &lt;&#xD;
+             80,000.&#xD;
+&#xD;
+          -  Lacks capacity to consent.&#xD;
+&#xD;
+          -  Actively suicidal-begins expressing a plan for suicide during the washout phase or&#xD;
+             develop suicidal ideation that warrants admission or requires medication or treatment&#xD;
+             intervention.&#xD;
+&#xD;
+          -  Electroconvulsive therapy (ECT) within the past 6 months.&#xD;
+&#xD;
+          -  Pregnancy, currently lactating; planning to conceive during the course of study&#xD;
+             participation or abortion in the past two months.&#xD;
+&#xD;
+          -  Metal implants, pacemaker or metal prostheses or orthodontic appliances, the presence&#xD;
+             of shrapnel&#xD;
+&#xD;
+          -  Current, past or anticipated exposure to radiation, that may include: being badged for&#xD;
+             radiation exposure in the workplace, participation in nuclear medicine procedures,&#xD;
+             including research protocols in the last year.&#xD;
+&#xD;
+          -  A neurological disease or loss of consciousness for more than a few minutes&#xD;
+&#xD;
+          -  Medicinal Patch (participants will be asked to remove before MRI)&#xD;
+&#xD;
+          -  Patients who are responding satisfactorily to psychiatric medications, because they&#xD;
+             will not be washed-out for purposes of this study&#xD;
+&#xD;
+          -  A documented history of a lack of response to a trial of adequate dose and duration of&#xD;
+             both lithium and lamotrigine defined as minimal clinical response to lamotrigine 200&#xD;
+             mgs for at least 4 weeks or lithium serum levels of at least 0.8 (or dose &gt;= 900 mgs)&#xD;
+             for at least 4 weeks.&#xD;
+&#xD;
+          -  Patient is unlikely to be able to tolerate medication washout&#xD;
+&#xD;
+          -  Claustrophobia&#xD;
+&#xD;
+          -  Blood donation within 8 weeks of the start of the study.&#xD;
+&#xD;
+          -  History of bleeding disorder or are currently taking anticoagulants.&#xD;
+&#xD;
+          -  Past unsuccessful treatment of Lithium of adequate dose and duration.&#xD;
+&#xD;
+        HEALTHY CONTROLS&#xD;
+&#xD;
+        Inclusion:&#xD;
+&#xD;
+          -  No lifetime history of Axis I disorders&#xD;
+&#xD;
+          -  Age range 18-65 years.&#xD;
+&#xD;
+          -  Willing to travel for PET scanning.&#xD;
+&#xD;
+        Exclusion:&#xD;
+&#xD;
+          -  Past or present alcohol/substance abuse or dependence; IV drug use or ecstasy use more&#xD;
+             than two times.&#xD;
+&#xD;
+          -  A first-degree relative with history of major depression, schizophrenia,&#xD;
+             schizoaffective disorder, or suicide attempt; two or more first degree relatives with&#xD;
+             a history of substance dependence.&#xD;
+&#xD;
+          -  Significant active physical illness particularly those that may affect the brain or&#xD;
+             serotonergic system including blood dyscrasias lymphomas, hypersplenism,&#xD;
+             endocrinopathies, renal failure or chronic obstructive lung disease, autonomic&#xD;
+             neuropathies, peripheral vascular disease, diabetes, low hemoglobin and malignancy,&#xD;
+             significant anemic disease or blood loss, and the following lab parameters: platelet&#xD;
+             count &lt; 80,000&#xD;
+&#xD;
+          -  Lacks capacity to consent&#xD;
+&#xD;
+          -  Pregnancy, currently lactating; planning to conceive during the course of study&#xD;
+             participation or abortion in the past two months&#xD;
+&#xD;
+          -  Metal implants, pacemaker or metal prostheses or orthodontic appliances, the presence&#xD;
+             of shrapnel&#xD;
+&#xD;
+          -  Current, past or anticipated exposure to radiation, that may include: being badged for&#xD;
+             radiation exposure in the workplace, participation in nuclear medicine procedures,&#xD;
+             including research protocols in the last year.&#xD;
+&#xD;
+          -  A neurological disease or loss of consciousness for more than a few minutes&#xD;
+&#xD;
+          -  Medicinal Patch (participants will be asked to remove before MRI)&#xD;
+&#xD;
+          -  Subjects on drugs or medication that affect the serotonin system&#xD;
+&#xD;
+          -  Claustrophobia&#xD;
+&#xD;
+          -  Blood donation within 8 weeks of the start of the study.&#xD;
+&#xD;
+          -  History of bleeding disorder or are currently taking anticoagulants.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ramin Parsey, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Stony Brook University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Stony Brook University Hospital</name>
+      <address>
+        <city>Stony Brook</city>
+        <state>New York</state>
+        <zip>11794</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>July 2022</verification_date>
+  <study_first_submitted>June 17, 2013</study_first_submitted>
+  <study_first_submitted_qc>June 18, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">June 19, 2013</study_first_posted>
+  <results_first_submitted>March 23, 2022</results_first_submitted>
+  <results_first_submitted_qc>June 3, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">June 29, 2022</results_first_posted>
+  <last_update_submitted>July 11, 2022</last_update_submitted>
+  <last_update_submitted_qc>July 11, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 20, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Stony Brook University</investigator_affiliation>
+    <investigator_full_name>Ramin Parsey</investigator_full_name>
+    <investigator_title>Professor and Chair of the Department of Psychiatry and Director of Positron Emission Tomography (PET) Research</investigator_title>
+  </responsible_party>
+  <keyword>bipolar disorder</keyword>
+  <keyword>bipolar depression</keyword>
+  <keyword>serotonin transporter</keyword>
+  <keyword>serotonin receptors</keyword>
+  <keyword>binding potential</keyword>
+  <keyword>brain imaging</keyword>
+  <keyword>unipolar depression</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Disease</mesh_term>
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Depressive Disorder</mesh_term>
+    <mesh_term>Bipolar Disorder</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lamotrigine</mesh_term>
+    <mesh_term>Lithium Carbonate</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>December 13, 2019</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/57/NCT01880957/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>December 14, 2017</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/57/NCT01880957/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Dates of Recruitment: 11/2011 - 05/2017 Location: University Medical Centers (Columbia, Stony Brook University)</recruitment_details>
+      <pre_assignment_details>Inclusion/Exclusion Criteria must be met prior to beginning study protocols.&#xD;
+Wash-out Period: For participants in the patient group, all were required to be 3 weeks medication free before beginning the study.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Patients With Depression</title>
+          <description>Patients in this condition will receive lithium administered as follows: Day 1, 2 and 3, 300 mg bid; Days 4-7 lithium 300 qam and 600 qhs. Lithium level will be checked as close to Day 7 as possible and titrated to a therapeutic plasma level of 0.8-1.2 mEq/l. Subjects will not undergo lithium monotherapy if they have a documented history of at least two failed trials of lithium of at least 4 weeks duration with therapeutic blood levels for a major depressive episode&#xD;
+Lithium</description>
+        </group>
+        <group group_id="P2">
+          <title>Healthy Volunteers</title>
+          <description>Participants in this group underwent baseline assessment for Hamilton Depression Rating Scale and Baseline PET and MRI Imaging. No treatment was provided for this group.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="47"/>
+                <participants group_id="P2" count="29"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="19"/>
+                <participants group_id="P2" count="29"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="28"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Diagnosis: Unipolar Depression</title>
+              <participants_list>
+                <participants group_id="P1" count="12"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="11"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Poor Tolerance to Lithium/Declined Treatment</title>
+              <participants_list>
+                <participants group_id="P1" count="5"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>The number of participants reflected in each group are those that were available for both PET and HDRS-24 baseline measures that also met quality control standards for the imaging data. This number differs slightly from total participants enrolled.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Patients With Depression</title>
+          <description>Patients with Bipolar depression will receive lithium administered as follows: Day 1, 2 and 3, 300 mg bid; Days 4-7 lithium 300 qam and 600 qhs. Lithium level will be checked as close to Day 7 as possible and titrated to a therapeutic plasma level of 0.8-1.2 mEq/l. Subjects will not undergo lithium monotherapy if they have a documented history of at least two failed trials of lithium of at least 4 weeks duration with therapeutic blood levels for a major depressive episode&#xD;
+Lithium</description>
+        </group>
+        <group group_id="B2">
+          <title>Healthy Volunteers</title>
+          <description>Participants in this group underwent baseline assessment for Hamilton Depression Rating Scale and Baseline PET and MRI Imaging. No treatment was provided for this group.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="31"/>
+            <count group_id="B2" value="23"/>
+            <count group_id="B3" value="54"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="31"/>
+                    <measurement group_id="B2" value="23"/>
+                    <measurement group_id="B3" value="54"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                    <measurement group_id="B2" value="12"/>
+                    <measurement group_id="B3" value="27"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16"/>
+                    <measurement group_id="B2" value="11"/>
+                    <measurement group_id="B3" value="27"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="9"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="23"/>
+                    <measurement group_id="B2" value="16"/>
+                    <measurement group_id="B3" value="39"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Hamilton Depression Rating Sale</title>
+          <description>Patients will have a Hamilton Depression Rating Scale-24 (HDRS) score obtained at baseline. Minimum score 0, maximum possible score 75; the higher the score on the scale, the more severe the degree of depression. Participants must have an HDRS score of at least 15 to be eligible.</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="26.19" spread="5.86"/>
+                    <measurement group_id="B2" value="1.62" spread="2.10"/>
+                    <measurement group_id="B3" value="16.71" spread="13.27"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Post-Lithium Treatment Hamilton Depression Rating Scale (HDRS)</title>
+        <description>Patients will have a Hamilton Depression Rating Scale-24 (HDRS) score obtained at baseline. Minimum score 0, maximum possible score 75; the higher the score on the scale, the more severe the degree of depression. Participants must have an HDRS score of at least 15 to be eligible. After eight weeks of medication treatment, the HDRS score will be reevaluated with the HDRS-24 (and rescanned with PET and MRI). Participants who have a 50% or greater decrease in their HDRS-24 score will be considered responders (to Lithium treatment).</description>
+        <time_frame>8 weeks</time_frame>
+        <population>Pre-to-Post lithium treatment change in HDRS Score</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Patients With BPD</title>
+            <description>Participants in this group included patients with bipolar depression who were subsequently treated with Lithium. Following baseline PET and MRI scans, treatment was initiated with lithium monotherapy. In brief: days 1-3: 300mg 2x/day, days 4-7: 300mg every morning and 600mg every night; titration to a therapeutic plasma level of 0.8-1.2 mEq/l. Following eight weeks of treatment, patients were rescanned with PET and MRI and reassessed with the HDRS-24.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Post-Lithium Treatment Hamilton Depression Rating Scale (HDRS)</title>
+          <description>Patients will have a Hamilton Depression Rating Scale-24 (HDRS) score obtained at baseline. Minimum score 0, maximum possible score 75; the higher the score on the scale, the more severe the degree of depression. Participants must have an HDRS score of at least 15 to be eligible. After eight weeks of medication treatment, the HDRS score will be reevaluated with the HDRS-24 (and rescanned with PET and MRI). Participants who have a 50% or greater decrease in their HDRS-24 score will be considered responders (to Lithium treatment).</description>
+          <population>Pre-to-Post lithium treatment change in HDRS Score</population>
+          <units>Percent Change in HDRS-24 Score</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="19"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-44.49" spread="34.17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Prediction of Treatment Response</title>
+        <description>Outcome measures were generated following LASSO linear regression analysis using pretreament HDRS-24 AND..&#xD;
+pre-treatment 5-HTT OR&#xD;
+pretreatment 5-HT1A OR&#xD;
+the combination of both 5-HTT and 5-HT1A binding potential&#xD;
+to predict post-treatment response defined by a dichotomous remission status variable (remitter vs. non-remitter, where remitter is defined a priori by HDRS-24 &lt;10 post-treatment and a reduction of greater than or equal to 50% in HDRS-24 pre-to-post treatment). Outcome measure is reported as percent accuracy, sensitivity, or specificity in predicting remitter status outcomes.</description>
+        <time_frame>8 Weeks</time_frame>
+        <population>Remission status prediction by groups: accuracy, specificity, and sensitivity. The analyzed population here must have completed both pre- and post-treatment scans for BOTH 5-HTT and 5-HT1A and have 8 weeks of HDRS-24 followup so the predictive power of each individual tracer could be assessed as well as the combination of the two tracers. This is a smaller population that each tracer individually or the outcome of the HDRS-24 scale alone.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Prediction by Pre-treatment 5-HTT</title>
+            <description>Data analysis to determine whether pre-treatment 5-HTT binding potential along with pre-treatment HDRS-24 predicted treatment response (remission status).</description>
+          </group>
+          <group group_id="O2">
+            <title>Prediction by Pre-treatment 5-HT1A</title>
+            <description>Data analysis to determine whether pre-treatment 5-HT1A binding potential along with pre-treatment HDRS-24 predicted treatment response (remission status).</description>
+          </group>
+          <group group_id="O3">
+            <title>Combinatorial Prediction Using Pre-Treatment 5-HTT &amp; 5-HT1A</title>
+            <description>Data analysis to determine whether pre-treatment 5-HTT &amp; 5-HT1A binding potential along with pre-treatment HDRS-24 predicted treatment response (remission status).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Prediction of Treatment Response</title>
+          <description>Outcome measures were generated following LASSO linear regression analysis using pretreament HDRS-24 AND..&#xD;
+pre-treatment 5-HTT OR&#xD;
+pretreatment 5-HT1A OR&#xD;
+the combination of both 5-HTT and 5-HT1A binding potential&#xD;
+to predict post-treatment response defined by a dichotomous remission status variable (remitter vs. non-remitter, where remitter is defined a priori by HDRS-24 &lt;10 post-treatment and a reduction of greater than or equal to 50% in HDRS-24 pre-to-post treatment). Outcome measure is reported as percent accuracy, sensitivity, or specificity in predicting remitter status outcomes.</description>
+          <population>Remission status prediction by groups: accuracy, specificity, and sensitivity. The analyzed population here must have completed both pre- and post-treatment scans for BOTH 5-HTT and 5-HT1A and have 8 weeks of HDRS-24 followup so the predictive power of each individual tracer could be assessed as well as the combination of the two tracers. This is a smaller population that each tracer individually or the outcome of the HDRS-24 scale alone.</population>
+          <units>Percentage</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="14"/>
+                <count group_id="O2" value="14"/>
+                <count group_id="O3" value="14"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Prediction Accuracy = True positive + negative divided by the sum of true + false positive/negative</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="71.4"/>
+                    <measurement group_id="O2" value="85.7"/>
+                    <measurement group_id="O3" value="84.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Prediction Specificity = True negatives divided by the sum of true negative and false positive</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="77.8"/>
+                    <measurement group_id="O2" value="87.5"/>
+                    <measurement group_id="O3" value="87.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Prediction Sensitivity= True positives divided by the sum of true positive and false negative</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="60"/>
+                    <measurement group_id="O2" value="80"/>
+                    <measurement group_id="O3" value="60"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Group Differences in 5-HTT Binding Potential</title>
+        <description>Differences in mean of 5-HTT binding potential between patients with depression pre-treatment, post-treatment, compared to healthy volunteers. Broadly, binding potential is defined as the ratio of the tracer concentration in tissue to the free plasma concentration. It is a measure of the density of &quot;available&quot; targets (e.g. 5-HTT) &amp; the affinity of the ligand (tracer) to that target.</description>
+        <time_frame>8 Weeks</time_frame>
+        <population>Comparison of mean binding potential across patients pre-treatment, post-treatment, and controls.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Healthy Volunteers</title>
+            <description>Control participants for baseline measures</description>
+          </group>
+          <group group_id="O2">
+            <title>Pre-treatment 5-HTT Binding Potential (Baseline)</title>
+            <description>Participants that presented with Bipolar depression upon enrollment into the study</description>
+          </group>
+          <group group_id="O3">
+            <title>Post-treatment 5-HTT Binding Potential (8 Weeks)</title>
+            <description>Participants that presented with Bipolar depression and were treated with Lithium for 8 weeks.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Group Differences in 5-HTT Binding Potential</title>
+          <description>Differences in mean of 5-HTT binding potential between patients with depression pre-treatment, post-treatment, compared to healthy volunteers. Broadly, binding potential is defined as the ratio of the tracer concentration in tissue to the free plasma concentration. It is a measure of the density of &quot;available&quot; targets (e.g. 5-HTT) &amp; the affinity of the ligand (tracer) to that target.</description>
+          <population>Comparison of mean binding potential across patients pre-treatment, post-treatment, and controls.</population>
+          <units>Weighted Mean Binding Potential</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="23"/>
+                <count group_id="O2" value="19"/>
+                <count group_id="O3" value="14"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Grey Matter of Cerebellum</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="93.27" spread="17.86"/>
+                    <measurement group_id="O2" value="88" spread="1.87"/>
+                    <measurement group_id="O3" value="88.70" spread="21.71"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Midbrain</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="264.82" spread="32.47"/>
+                    <measurement group_id="O2" value="81.73" spread="18.59"/>
+                    <measurement group_id="O3" value="181.13" spread="90.20"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Anterior Cingulate</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="131.80" spread="26.99"/>
+                    <measurement group_id="O2" value="187.48" spread="60.73"/>
+                    <measurement group_id="O3" value="130.04" spread="30.73"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Amygdala</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="198.56" spread="27.64"/>
+                    <measurement group_id="O2" value="116.94" spread="28.73"/>
+                    <measurement group_id="O3" value="166.73" spread="61.75"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Group Differences in 5-HT1A Binding Potential</title>
+        <description>Differences in mean of 5-HT1A binding potential between patients with depression pre-treatment, post-treatment, compared to healthy volunteers. Broadly, binding potential is defined as the ratio of the tracer concentration in tissue to the free plasma concentration. It is a measure of the density of &quot;available&quot; targets (e.g. 5-HT1A) &amp; the affinity of the ligand (tracer) to that target.</description>
+        <time_frame>8 Weeks</time_frame>
+        <population>Comparison of mean binding potential across patients pre-treatment, post-treatment, and controls.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Healthy Volunteers</title>
+            <description>Control participants for baseline measures</description>
+          </group>
+          <group group_id="O2">
+            <title>Pre-treatment 5-HT1A Binding Potential (Baseline)</title>
+            <description>Participants that presented with Bipolar depression upon enrollment into the study</description>
+          </group>
+          <group group_id="O3">
+            <title>Post-treatment 5-HT1A Binding Potential (8 Weeks)</title>
+            <description>Participants that presented with Bipolar depression and were treated with Lithium for 8 weeks.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Group Differences in 5-HT1A Binding Potential</title>
+          <description>Differences in mean of 5-HT1A binding potential between patients with depression pre-treatment, post-treatment, compared to healthy volunteers. Broadly, binding potential is defined as the ratio of the tracer concentration in tissue to the free plasma concentration. It is a measure of the density of &quot;available&quot; targets (e.g. 5-HT1A) &amp; the affinity of the ligand (tracer) to that target.</description>
+          <population>Comparison of mean binding potential across patients pre-treatment, post-treatment, and controls.</population>
+          <units>Weighted Mean Binding Potential</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="23"/>
+                <count group_id="O2" value="17"/>
+                <count group_id="O3" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Raphe Nucleus</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8.91" spread="3.15"/>
+                    <measurement group_id="O2" value="9.62" spread="1.79"/>
+                    <measurement group_id="O3" value="8.57" spread="2.58"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Parahippocampal Gyrus</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12.48" spread="2.41"/>
+                    <measurement group_id="O2" value="14.88" spread="3.13"/>
+                    <measurement group_id="O3" value="15.79" spread="3.75"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Amygdala</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="20.8" spread="5.26"/>
+                    <measurement group_id="O2" value="17.86" spread="4.39"/>
+                    <measurement group_id="O3" value="14.01" spread="3.41"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hippocampus</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="27.06" spread="8.40"/>
+                    <measurement group_id="O2" value="30.17" spread="7.84"/>
+                    <measurement group_id="O3" value="28.39" spread="7.73"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Relationship Between Change in 5-HTT or 5-HT1A Binding Potential Pre- to Post Treatment and Lithium Treatment Response</title>
+        <description>Linear regression &amp; correlation to assess the relationship between between change in binding potential pre- to post treatment vs. treatment response</description>
+        <time_frame>8 weeks</time_frame>
+        <population>Linear regression between change in PET binding potential pre and post treatment and treatment response.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Change in 5-HTT Binding Potential vs. Treatment Response</title>
+            <description>Data analysis to determine whether there is relationship between the change in 5-HTT binding potential and treatment response.</description>
+          </group>
+          <group group_id="O2">
+            <title>Change in 5-HT1A Binding Potential and Treatment Response</title>
+            <description>Data analysis to determine whether there is relationship between the change in 5-HTT binding potential and treatment response.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Relationship Between Change in 5-HTT or 5-HT1A Binding Potential Pre- to Post Treatment and Lithium Treatment Response</title>
+          <description>Linear regression &amp; correlation to assess the relationship between between change in binding potential pre- to post treatment vs. treatment response</description>
+          <population>Linear regression between change in PET binding potential pre and post treatment and treatment response.</population>
+          <units>Percent Change in Binding Potential</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="14"/>
+                <count group_id="O2" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>R-Squared: 5-HTT Midbrain</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.061"/>
+                    <measurement group_id="O2" value="NA">Region not analyzed for this tracer due to lack of target.</measurement>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>R-Squared: 5-HT1A Raphe</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="NA">Region not analyzed for this tracer due to lack of target.</measurement>
+                    <measurement group_id="O2" value="0.086"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>R-Squared: 5-HT1A Hippocampus</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="NA">Region not analyzed for this tracer due to lack of target.</measurement>
+                    <measurement group_id="O2" value="0.073"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Full study duration for participants: enrollment through final data collection (approximately 6 months)</time_frame>
+      <desc>Definitions for adverse event and/or serious adverse event used to collect adverse event information matches clinicaltrials.gov.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Patients With Depression</title>
+          <description>Bipolar patients with this condition will receive lithium administered as follows: Day 1, 2 and 3, 300 mg bid; Days 4-7 lithium 300 qam and 600 qhs. Lithium level will be checked as close to Day 7 as possible and titrated to a therapeutic plasma level of 0.8-1.2 mEq/l. Subjects will not undergo lithium monotherapy if they have a documented history of at least two failed trials of lithium of at least 4 weeks duration with therapeutic blood levels for a major depressive episode&#xD;
+Lithium</description>
+        </group>
+        <group group_id="E2">
+          <title>Healthy Volunteers</title>
+          <description>Participants in this group underwent baseline assessment for Hamilton Depression Rating Scale and Baseline PET and MRI Imaging. No treatment was provided for this group.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="47"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="29"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="47"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="29"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="47"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="29"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>Limitations include: 1. a small sample size, which precludes investigation into interaction factors (e.g. sex/BPD subtype); 2. a short washout duration (3 weeks for ethical reasons), which may not be sufficient to abate treatment effects; 3. scans for both patients and controls conducted across multiple sites, though, importantly, all pre- and post-treatment scans within-participant were conducted at the same site.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Dr. Christine DeLorenzo</name_or_title>
+      <organization>Stony Brook University</organization>
+      <phone>(631) 638-1523</phone>
+      <email>Christine.Delorenzo@stonybrookmedicine.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

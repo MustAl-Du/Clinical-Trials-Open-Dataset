@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2209">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01547780</url>
+  </required_header>
+  <id_info>
+    <org_study_id>120063</org_study_id>
+    <secondary_id>12-M-0063</secondary_id>
+    <nct_id>NCT01547780</nct_id>
+  </id_info>
+  <brief_title>Translocator Protein and Inflammation After Traumatic Brain Injury</brief_title>
+  <official_title>PET Imaging of Translocator Protein in Subjects With Traumatic Brain Injury</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Mental Health (NIMH)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Suburban Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Uniformed Services University of the Health Sciences</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institutes of Health Clinical Center (CC)</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Background:&#xD;
+&#xD;
+      - People with traumatic brain injury (TBI) often have inflammation in the brain. A protein&#xD;
+      called the translocator protein (TSPO) is often present with inflammation. Researchers want&#xD;
+      to see if a radioactive chemical known as [11C]PBR28 can be used to study TSPO and&#xD;
+      inflammation in the brain of people with TBI.&#xD;
+&#xD;
+      Objectives:&#xD;
+&#xD;
+      - To test whether [11C]PBR28 can be used to study changes in the brain after a traumatic&#xD;
+      brain injury.&#xD;
+&#xD;
+      Eligibility:&#xD;
+&#xD;
+        -  Individuals at least 18 years of age who have had TBI and have had a brain scan that&#xD;
+           shows signs of inflammation.&#xD;
+&#xD;
+        -  Healthy volunteers at least 18 years of age.&#xD;
+&#xD;
+      Design:&#xD;
+&#xD;
+        -  Participants will be screened with a physical exam and medical history. Blood and urine&#xD;
+           samples will be collected.&#xD;
+&#xD;
+        -  All participants will have two brain scans during an outpatient visit. A magnetic&#xD;
+           resonance imaging scan will study brain activity. A positron emission tomography (PET)&#xD;
+           scan will use [11C]PBR28 to look for signs of TSPO and brain inflammation.&#xD;
+&#xD;
+        -  Participants with TBI will have two PET scans within 10 days of the head injury, and a&#xD;
+           PET scan around 90 days after the injury. They may also have MRI scans under this or&#xD;
+           another study. Tests of thinking, memory, and concentration will be used to study the&#xD;
+           effects of the injury and inflammation&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Objective:&#xD;
+&#xD;
+      Brain damage following traumatic injury (TBI) results from both direct (e.g., mechanical&#xD;
+      injury to the brain and vasculature) and indirect mechanisms (e.g., secondary mechanisms such&#xD;
+      as inflammation). While CT and MRI can help visualize the result of inflammatory processes in&#xD;
+      the brain for instance, the development of cerebral edema neither method can be used to&#xD;
+      document active inflammation itself. The translocator protein (TSPO), which is highly&#xD;
+      expressed in microglia and reactive astrocytes, has been used as a biomarker in positron&#xD;
+      emission tomography (PET) to identify active inflammatory processes. Recently, our laboratory&#xD;
+      developed PBR28, a new PET ligand that images TSPO with high levels of specific binding. We&#xD;
+      have successfully used PBR28 to investigate a number of brain disorders such as epilepsy,&#xD;
+      multiple sclerosis, and HIV infection with minor cognitive motor disorder, and are detecting&#xD;
+      neuroinflammation. The current protocol aims to explore whether PBR28 PET imaging can show&#xD;
+      changes in subjects with TBI who have shown MRI abnormalities in the acute phase and also in&#xD;
+      those who are in the chronic phase of TBI.&#xD;
+&#xD;
+      Study population: The following three groups will be studied:&#xD;
+&#xD;
+      TBI subjects who had brain injury within approximately 3 months and have exhibited MRI&#xD;
+      abnormalities consistent with TBI and who are enrolled in &quot;Evaluation, Pathogenesis, and&#xD;
+      Outcome of Subjects with or Suspected Traumatic Brain Injury&quot; (10-N-N122, PI Latour),&#xD;
+      &quot;Evaluation and Diagnosis of Potential Research Subjects with Traumatic Brain Injury (TBI),&#xD;
+      (11-N-0084, PI: Lawrence Latour), or other CNRM protocols. N = 20&#xD;
+&#xD;
+      TBI subjects who had brain injury more than approximately 5 month ago, are enrolled in&#xD;
+      11-N-0084, and meet criteria of TBI established by CNRM. N = 20&#xD;
+&#xD;
+      Healthy age-matched volunteers. N = 20.&#xD;
+&#xD;
+      Design:&#xD;
+&#xD;
+      This is an exploratory study to determine whether PBR28 can detect the increased TSPO&#xD;
+      associated with neuroinflammation by scanning subjects who have shown MRI abnormalities in&#xD;
+      the acute phase. We also investigate whether PBR28 detects changes in the chronic phase as&#xD;
+      recently reported using an old ligand, PK 11195. Two groups of TBI subjects will be studied&#xD;
+      depending on their availability relative to the time of injury. To investigate changes in&#xD;
+      TSPO in the areas of MRI abnormalities in the acute phase, one group of TBI subjects (n = 20)&#xD;
+      will be studied who have shown TBI- related MRI abnormalities. These participants will have&#xD;
+      up to four PBR28 PET scans; one to two PET scans within approximately 10 days of head injury,&#xD;
+      a third PET scan approximately three months after injury, and a fourth scan approximately one&#xD;
+      year after the scan at ~three months. To study changes in TSPO in the chronic phase, another&#xD;
+      group of TBI subjects will be enrolled who had brain injury more than approximately 5 months&#xD;
+      but within 5 years ago and meet the criteria of TBI by CNRM. This separate group is included&#xD;
+      because some TBI subjects are being recruited by CNRM only sometime after the injury. The&#xD;
+      participants at the chronic phase will have one PET and one MRI scan. In addition to MRI&#xD;
+      data, for all TBI subjects, clinical information obtained in 10-N-N122 (only the acute phase)&#xD;
+      and 11-N-0084 (both acute and chronic phase) will be used to evaluate the utility of the PET&#xD;
+      data in order to better understand the pathology of TBI.&#xD;
+&#xD;
+      Outcome Measures:&#xD;
+&#xD;
+      In this exploratory study to investigate the ability of PBR28 PET to detect increases in&#xD;
+      TSPO, the primary goal will be to measure the magnitude and variance of any increases&#xD;
+      observed in PBR28 binding in areas of inflammation following TBI. Those data may be used to&#xD;
+      design future studies with a larger sample size.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>January 20, 2012</start_date>
+  <completion_date type="Actual">September 28, 2017</completion_date>
+  <primary_completion_date type="Actual">September 28, 2017</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Receptor Binding (Vt)</measure>
+    <time_frame>120 minutes from the start of the PET scan</time_frame>
+    <description>To determine total distribution volume of [C-11]PBR28 in the whole brain using PET and arterial input function (concentration of radioligand in arterial plasma over time).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Receptor Binding Corrected for Plasma (Vt/fp)</measure>
+    <time_frame>120 minutes from the start of the PET scan</time_frame>
+    <description>Total distribution volume divided by plasma free fraction (fp) of [C-11]PBR28. Measured with PET and arterial input function (concentration of radioligand in arterial plasma over time).</description>
+  </primary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">52</enrollment>
+  <condition>Traumatic Brain Injury (TBI)</condition>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>Baseline brain PET in acute TBI patient</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single intravenous injection of [C-11]PBR28, ~10-20 mCi, prior to baseline brain positron emission tomography (PET) scan in Acute (&lt; 5 months post-injury) traumatic brain injury (TBI) patients.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Repeat brain PET in acute TBI patient</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single intravenous injection of [C-11]PBR28, ~10-20 mCi, prior to repeat brain positron emission tomography (PET) scan in Acute (&lt; 5 months post-injury) traumatic brain injury (TBI) patients.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Single brain PET in Chronic TBI patient</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single intravenous injection of [C-11]PBR28, ~10-20 mCi, prior to brain positron emission tomography (PET) scan in Chronic (5 months - 5 years post-injury) traumatic brain injury (TBI) patients.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Single brain PET in healthy subjects</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single intravenous injection of [C-11]PBR28, ~10-20 mCi, prior to brain positron emission tomography (PET) scan in Healthy Subjects.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>[11C]PBR28 and Positron Emission Tomography (PET)</intervention_name>
+    <description>Brain PET with [11C]PBR28. 11C]PBR28 is a new PET ligand that images TSPO with high levels of specific binding.</description>
+    <arm_group_label>Baseline brain PET in acute TBI patient</arm_group_label>
+    <arm_group_label>Repeat brain PET in acute TBI patient</arm_group_label>
+    <arm_group_label>Single brain PET in Chronic TBI patient</arm_group_label>
+    <arm_group_label>Single brain PET in healthy subjects</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        -INCLUSION CRITERIA:&#xD;
+&#xD;
+        Subjects with TBI:&#xD;
+&#xD;
+        Subjects with TBI eligible for participation in this research study must meet the following&#xD;
+        inclusion criteria. Depending on the timing of the availability of the subjects the&#xD;
+        following two groups will be studied. No subject will be enrolled in both group 1 and 2.&#xD;
+&#xD;
+        Group 1 Acute/subacute phase (n = 20)&#xD;
+&#xD;
+          -  Diagnosis of non-penetrating TBI caused by a head injury within approximately 5&#xD;
+             months.&#xD;
+&#xD;
+          -  Ambulatory.&#xD;
+&#xD;
+          -  Able to provide self consent without a legally-authorized representative based on the&#xD;
+             assessment of the Decision-Making Capacity (DMC) by the Human Subjects Protection Unit&#xD;
+             (HSPU).&#xD;
+&#xD;
+          -  Show abnormal MRI findings consistent with TBI in protocol 10-N-N122 or in the image&#xD;
+             database of the CNRM Image Processing Core if the subject is recruited from CNRM&#xD;
+             Recruitment Core protocol 11-N-0084 or another CNRM protocol that allows referrals to&#xD;
+             other studies.&#xD;
+&#xD;
+          -  Age 18 or older.&#xD;
+&#xD;
+        Group 2 Chronic phase (n = 20)&#xD;
+&#xD;
+          -  A head injury approximately 5 months 5 years ago.&#xD;
+&#xD;
+          -  Enrolled in CNRM Recruitment Core protocol 11-N-0084 or another CNRM protocol that&#xD;
+             allows referral to other studies.&#xD;
+&#xD;
+          -  Meet at least one of the criteria of Probable or Definite TBI established by CNRM.&#xD;
+&#xD;
+          -  Ambulatory.&#xD;
+&#xD;
+          -  Able to provide self consent without a legally-authorized representative based on the&#xD;
+             assessment of the Decision-Making Capacity (DMC) by the Human Subjects Protection Unit&#xD;
+             (HSPU).&#xD;
+&#xD;
+          -  Age 18 or older.&#xD;
+&#xD;
+        Group 3 Healthy subjects.&#xD;
+&#xD;
+          -  Healthy without past or present history of brain disease.&#xD;
+&#xD;
+          -  Age 18 or older.&#xD;
+&#xD;
+        EXCLUSION CRITERIA:&#xD;
+&#xD;
+        Subjects with TBI for both groups 1 and 2 are not eligible for participation in this&#xD;
+        research study if any of the following conditions exist:&#xD;
+&#xD;
+          1. Present or past history of brain disease other than TBI.&#xD;
+&#xD;
+          2. Subjects with abnormal MRI findings that suggest a diagnosis other than TBI or a&#xD;
+             second lesion such as brain tumor in addition to the changes consistent with TBI.&#xD;
+&#xD;
+          3. Serious medical conditions, which make study procedures of the current study unsafe.&#xD;
+             Such serious medical conditions include uncontrolled epilepsy and multiple serious&#xD;
+             injuries. The Medical Advisory Investigator of this protocol will determine whether&#xD;
+             the subject needs to be excluded.&#xD;
+&#xD;
+          4. Contraindication to MRI scanning including certain metal implants or devices such as:&#xD;
+             cardiac pacemaker, insulin infusion pump, implanted drug infusion device, cochlear,&#xD;
+             otologic, or ear implant, transdermal medication patch (Nitroglycerine) that cannot be&#xD;
+             removed for the study, body piercing(s), bone/joint pin, screw, nail, plate, wire&#xD;
+             sutures or surgical staples, shunts, cerebral aneurysms clips, shrapnel or other metal&#xD;
+             imbedded in a subject's body (such as from war wounds or accidents or previous work in&#xD;
+             metal fields or machines that may have left any metallic fragments in or near the&#xD;
+             subject's eyes).&#xD;
+&#xD;
+          5. Conditions precluding entry into the scanners (e.g. morbid obesity, claustrophobia,&#xD;
+             etc.).&#xD;
+&#xD;
+          6. In female subjects, pregnancy or breastfeeding.&#xD;
+&#xD;
+          7. Exposure to research related radiation in the past year that, when combined with this&#xD;
+             study, would place subjects above the allowable limits.&#xD;
+&#xD;
+        HEALTHY SUBJECTS ARE NOT ELIGIBLE FOR PARTICIPATION IN THIS RESEARCH IF ANY OF THE&#xD;
+        FOLLOWING CONDITIONS EXIST:&#xD;
+&#xD;
+          1. Any past or present history of DSM Axis I disorder, with the exception of substance&#xD;
+             abuse that ended over 6 months prior to enrollment.&#xD;
+&#xD;
+          2. Contraindication to MRI scanning including certain metal implants or devices such as:&#xD;
+             cardiac pacemaker, insulin infusion pump, implanted drug infusion device, cochlear,&#xD;
+             otologic, or ear implant, transdermal medication patch (Nitroglycerine) that cannot be&#xD;
+             removed for the study, body piercing(s), bone/joint pin, screw, nail, plate, wire&#xD;
+             sutures or surgical staples, shunts, cerebral aneurysms clips, shrapnel or other metal&#xD;
+             imbedded in a subject's body (such as from war wounds or accidents or previous work in&#xD;
+             metal fields or machines that may have left any metallic fragments in or near the&#xD;
+             subject's eyes).&#xD;
+&#xD;
+          3. Conditions precluding entry into the scanners (e.g. morbid obesity, claustrophobia,&#xD;
+             etc.).&#xD;
+&#xD;
+          4. In female subjects, pregnancy or breastfeeding.&#xD;
+&#xD;
+          5. Clinically significant laboratory abnormalities, as defined as laboratory values that&#xD;
+             are out of normal range or require clinical workup and/or treatment.&#xD;
+&#xD;
+          6. Exposure to research related radiation in the past year that, when combined with this&#xD;
+             study, would place subjects above the allowable limits.&#xD;
+&#xD;
+          7. Previously determined as a low-affinity binder in another study on TSPO.&#xD;
+&#xD;
+          8. Positive results of urine drug screen on enrollment.&#xD;
+&#xD;
+        HIV positive subjects are considered healthy as long as he/she does not show neurological&#xD;
+        or psychiatric symptoms based on history and physical exams. Results of HIV test in both&#xD;
+        TBI subjects and healthy controls may help interpretation of the PET results. Statistical&#xD;
+        analysis: Analysis of date/study outcomes. Results of urine drug screen and history of&#xD;
+        using drugs of abuse may also help interpretation of the PET results. In addition,&#xD;
+        inclusion of TBI subjects who show positive for urine drug screen may improve recruitment&#xD;
+        of TBI subjects.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Robert Innis, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Institute of Mental Health (NIMH)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>National Institutes of Health Clinical Center, 9000 Rockville Pike</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Brown AK, Fujita M, Fujimura Y, Liow JS, Stabin M, Ryu YH, Imaizumi M, Hong J, Pike VW, Innis RB. Radiation dosimetry and biodistribution in monkey and man of 11C-PBR28: a PET radioligand to image inflammation. J Nucl Med. 2007 Dec;48(12):2072-9. Epub 2007 Nov 15.</citation>
+    <PMID>18006619</PMID>
+  </reference>
+  <reference>
+    <citation>Cernak I, O'Connor C, Vink R. Activation of cyclo-oxygenase-2 contributes to motor and cognitive dysfunction following diffuse traumatic brain injury in rats. Clin Exp Pharmacol Physiol. 2001 Nov;28(11):922-5.</citation>
+    <PMID>11703397</PMID>
+  </reference>
+  <reference>
+    <citation>Conzen M, Ebel H, Swart E, Skreczek W, Dette M, Oppel F. Long-term neuropsychological outcome after severe head injury with good recovery. Brain Inj. 1992 Jan-Feb;6(1):45-52.</citation>
+    <PMID>1739852</PMID>
+  </reference>
+  <verification_date>September 28, 2017</verification_date>
+  <study_first_submitted>March 6, 2012</study_first_submitted>
+  <study_first_submitted_qc>March 6, 2012</study_first_submitted_qc>
+  <study_first_posted type="Estimate">March 8, 2012</study_first_posted>
+  <results_first_submitted>July 12, 2021</results_first_submitted>
+  <results_first_submitted_qc>July 12, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">July 30, 2021</results_first_posted>
+  <last_update_submitted>July 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>July 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 30, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Positron Emission Tomography (PET)</keyword>
+  <keyword>Inflammation</keyword>
+  <keyword>Microglial Activation</keyword>
+  <keyword>Traumatic Brain Injury</keyword>
+  <keyword>TBI</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Brain Injuries</mesh_term>
+    <mesh_term>Brain Injuries, Traumatic</mesh_term>
+    <mesh_term>Wounds and Injuries</mesh_term>
+  </condition_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>January 10, 2017</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/80/NCT01547780/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>52 subjects were consented but two subjects withdrew after consent/lost to follow up.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Baseline Brain PET in Acute TBI Patient</title>
+          <description>One ~10-20 mCi intravenous injection of [C-11]PBR28 prior to baseline brain positron emission tomography (PET) scan in Acute (&lt; 5 months post-injury) traumatic brain injury (TBI) patients.</description>
+        </group>
+        <group group_id="P2">
+          <title>Repeat Brain PET in Acute TBI Patient</title>
+          <description>Single intravenous injection of [C-11]PBR28, ~10-20 mCi, prior to repeat brain positron emission tomography (PET) scan in Acute (&lt; 5 months post-injury) traumatic brain injury (TBI) patients.</description>
+        </group>
+        <group group_id="P3">
+          <title>Single Brain PET in Chronic TBI Patient</title>
+          <description>One ~10-20 mCi intravenous injection of [C-11]PBR28 prior to brain positron emission tomography (PET) scan in Chronic (5 months - 5 years post-injury) traumatic brain injury (TBI) patients.</description>
+        </group>
+        <group group_id="P4">
+          <title>Single Brain PET in Healthy Subjects</title>
+          <description>One ~10-20 mCi intravenous injection of [C-11]PBR28 prior to brain positron emission tomography (PET) scan in Healthy Subjects.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Baseline PET Scan</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="12"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="19"/>
+                <participants group_id="P4" count="19"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="9"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="17"/>
+                <participants group_id="P4" count="19"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="2"/>
+                <participants group_id="P4" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Physician Decision</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="1"/>
+                <participants group_id="P4" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="1"/>
+                <participants group_id="P4" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+        <period>
+          <title>Repeat PET Scan</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="4"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="4"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Baseline Brain PET in Acute TBI Patient</title>
+          <description>Single intravenous injection of [C-11]PBR28, ~10-20 mCi, prior to baseline brain positron emission tomography (PET) scan in Acute (&lt; 5 months post-injury) traumatic brain injury (TBI) patients.</description>
+        </group>
+        <group group_id="B2">
+          <title>Single Brain PET in Chronic TBI Patient</title>
+          <description>Single intravenous injection of [C-11]PBR28, ~10-20 mCi, prior to brain positron emission tomography (PET) scan in Chronic (5 months - 5 years post-injury) traumatic brain injury (TBI) patients.</description>
+        </group>
+        <group group_id="B3">
+          <title>Single Brain PET in Healthy Subjects</title>
+          <description>Single intravenous injection of [C-11]PBR28, ~10-20 mCi, prior to brain positron emission tomography (PET) scan in Healthy Subjects.</description>
+        </group>
+        <group group_id="B4">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="12"/>
+            <count group_id="B2" value="19"/>
+            <count group_id="B3" value="19"/>
+            <count group_id="B4" value="50"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="17"/>
+                    <measurement group_id="B3" value="16"/>
+                    <measurement group_id="B4" value="40"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="3"/>
+                    <measurement group_id="B4" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="7"/>
+                    <measurement group_id="B4" value="14"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="13"/>
+                    <measurement group_id="B3" value="12"/>
+                    <measurement group_id="B4" value="36"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="2"/>
+                    <measurement group_id="B4" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="17"/>
+                    <measurement group_id="B3" value="17"/>
+                    <measurement group_id="B4" value="44"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="4"/>
+                    <measurement group_id="B4" value="13"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="14"/>
+                    <measurement group_id="B3" value="14"/>
+                    <measurement group_id="B4" value="33"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Receptor Binding (Vt)</title>
+        <description>To determine total distribution volume of [C-11]PBR28 in the whole brain using PET and arterial input function (concentration of radioligand in arterial plasma over time).</description>
+        <time_frame>120 minutes from the start of the PET scan</time_frame>
+        <population>The analyses only included subjects who completed the brain [C-11]PBR28 PET scan</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Baseline Brain PET in Acute TBI Patient</title>
+            <description>One ~10-20 mCi intravenous injection of [C-11]PBR28 prior to baseline brain positron emission tomography (PET) scan in Acute (&lt; 5 months post-injury) traumatic brain injury (TBI) patients.</description>
+          </group>
+          <group group_id="O2">
+            <title>Repeat Brain PET in Acute TBI Patient</title>
+            <description>Single intravenous injection of [C-11]PBR28, ~10-20 mCi, prior to repeat brain positron emission tomography (PET) scan in Acute (&lt; 5 months post-injury) traumatic brain injury (TBI) patients.</description>
+          </group>
+          <group group_id="O3">
+            <title>Single Brain PET in Chronic TBI Patient</title>
+            <description>One ~10-20 mCi intravenous injection of [C-11]PBR28 prior to brain positron emission tomography (PET) scan in Chronic (5 months - 5 years post-injury) traumatic brain injury (TBI) patients.</description>
+          </group>
+          <group group_id="O4">
+            <title>Single Brain PET in Healthy Subjects</title>
+            <description>One ~10-20 mCi intravenous injection of [C-11]PBR28 prior to brain positron emission tomography (PET) scan in Healthy Subjects.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Receptor Binding (Vt)</title>
+          <description>To determine total distribution volume of [C-11]PBR28 in the whole brain using PET and arterial input function (concentration of radioligand in arterial plasma over time).</description>
+          <population>The analyses only included subjects who completed the brain [C-11]PBR28 PET scan</population>
+          <units>mL/cm^3</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="7"/>
+                <count group_id="O2" value="3"/>
+                <count group_id="O3" value="16"/>
+                <count group_id="O4" value="16"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.53" spread="0.50"/>
+                    <measurement group_id="O2" value="2.21" spread="0.49"/>
+                    <measurement group_id="O3" value="3.21" spread="1.04"/>
+                    <measurement group_id="O4" value="3.22" spread="0.81"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Receptor Binding Corrected for Plasma (Vt/fp)</title>
+        <description>Total distribution volume divided by plasma free fraction (fp) of [C-11]PBR28. Measured with PET and arterial input function (concentration of radioligand in arterial plasma over time).</description>
+        <time_frame>120 minutes from the start of the PET scan</time_frame>
+        <population>The analyses only included subjects who completed the brain [C-11]PBR28 PET scan</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Baseline Brain PET in Acute TBI Patient</title>
+            <description>One ~10-20 mCi intravenous injection of [C-11]PBR28 prior to baseline brain positron emission tomography (PET) scan in Acute (&lt; 5 months post-injury) traumatic brain injury (TBI) patients.</description>
+          </group>
+          <group group_id="O2">
+            <title>Repeat Brain PET in Acute TBI Patient</title>
+            <description>Single intravenous injection of [C-11]PBR28, ~10-20 mCi, prior to repeat brain positron emission tomography (PET) scan in Acute (&lt; 5 months post-injury) traumatic brain injury (TBI) patients.</description>
+          </group>
+          <group group_id="O3">
+            <title>Single Brain PET in Chronic TBI Patient</title>
+            <description>One ~10-20 mCi intravenous injection of [C-11]PBR28 prior to brain positron emission tomography (PET) scan in Chronic (5 months - 5 years post-injury) traumatic brain injury (TBI) patients.</description>
+          </group>
+          <group group_id="O4">
+            <title>Single Brain PET in Healthy Subjects</title>
+            <description>One ~10-20 mCi intravenous injection of [C-11]PBR28 prior to brain positron emission tomography (PET) scan in Healthy Subjects.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Receptor Binding Corrected for Plasma (Vt/fp)</title>
+          <description>Total distribution volume divided by plasma free fraction (fp) of [C-11]PBR28. Measured with PET and arterial input function (concentration of radioligand in arterial plasma over time).</description>
+          <population>The analyses only included subjects who completed the brain [C-11]PBR28 PET scan</population>
+          <units>mL/cm^3</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="7"/>
+                <count group_id="O2" value="3"/>
+                <count group_id="O3" value="16"/>
+                <count group_id="O4" value="16"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="93.72" spread="20.83"/>
+                    <measurement group_id="O2" value="80.32" spread="10.35"/>
+                    <measurement group_id="O3" value="118.73" spread="37.98"/>
+                    <measurement group_id="O4" value="103.99" spread="29.52"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>24 hours</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Baseline Brain PET in Acute TBI Patient</title>
+          <description>Single intravenous injection of [C-11]PBR28, ~10-20 mCi, prior to baseline brain positron emission tomography (PET) scan in Acute (&lt; 5 months post-injury) traumatic brain injury (TBI) patients.</description>
+        </group>
+        <group group_id="E2">
+          <title>Repeat Brain PET in Acute TBI Patient</title>
+          <description>Single intravenous injection of [C-11]PBR28, ~10-20 mCi, prior to repeat brain positron emission tomography (PET) scan in Acute (&lt; 5 months post-injury) traumatic brain injury (TBI) patients.</description>
+        </group>
+        <group group_id="E3">
+          <title>Single Brain PET in Chronic TBI Patient</title>
+          <description>Single intravenous injection of [C-11]PBR28, ~10-20 mCi, prior to brain positron emission tomography (PET) scan in Chronic (5 months - 5 years post-injury) traumatic brain injury (TBI) patients.</description>
+        </group>
+        <group group_id="E4">
+          <title>Single Brain PET in Healthy Subjects</title>
+          <description>Single intravenous injection of [C-11]PBR28, ~10-20 mCi, prior to brain positron emission tomography (PET) scan in Healthy Subjects.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="4"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="19"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="19"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="4"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="19"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="19"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="4"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="19"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="19"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Robert Innis</name_or_title>
+      <organization>National Institute of Mental Health</organization>
+      <phone>+1 301 594 1368</phone>
+      <email>innisr@mail.nih.gov</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

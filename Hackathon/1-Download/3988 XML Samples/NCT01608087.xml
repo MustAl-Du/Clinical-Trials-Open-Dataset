@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3632">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01608087</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1302.1</org_study_id>
+    <nct_id>NCT01608087</nct_id>
+  </id_info>
+  <brief_title>Pharmacokinetics and Safety Study of BI 695502 in Healthy Subjects</brief_title>
+  <official_title>Pharmacokinetics and Safety of BI 695502 in Healthy Subjects: a Randomized, Single-blind, Single-dose, Parallel-arm, Active-comparator Clinical Phase I Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Boehringer Ingelheim</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Boehringer Ingelheim</source>
+  <brief_summary>
+    <textblock>
+      This trial will investigate the pharmacokinetics and safety of BI 695502 and to establish&#xD;
+      pharmacokinetic biosimilarity of BI 695502 compared to bevacizumab.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 1, 2012</start_date>
+  <completion_date type="Actual">November 1, 2012</completion_date>
+  <primary_completion_date type="Actual">November 1, 2012</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Area Under the Concentration-time Curve of the Analyte in Plasma Over the Time Interval From 0 Extrapolated to Infinity (AUC0-∞).</measure>
+    <time_frame>Pharmacokinetic samples were collected predose, just before the end of the infusion, 2, 4, and 8 hours after the start of the infusion</time_frame>
+    <description>Area under the concentration-time curve of the analyte in plasma over the time interval from 0 extrapolated to infinity (AUC0-∞) is presented as adjusted geometric mean (gMean) and geometric coefficient of variation (%) (gCV%). Adjustment were made for treatment effect and weight.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Area Under the Concentration-time Curve of the Analyte in Plasma Over the Time Interval From 0 to the Time of the Last Quantifiable Data Point (AUC0-tz)</measure>
+    <time_frame>Pharmacokinetic samples were collected predose, just before the end of the infusion, 2, 4, and 8 hours after the start of the infusion</time_frame>
+    <description>Area under the concentration-time curve of the analyte in plasma over the time interval from 0 to the time of the last quantifiable data point is presented as adjusted geometric mean (gMean) and geometric coefficient of variation (%) (gCV%). Adjustment was made for treatment effect and weight.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum Measured Concentration of the Analyte in Plasma (Cmax)</measure>
+    <time_frame>Pharmacokinetic samples were collected predose, just before the end of the infusion, 2, 4, and 8 hours after the start of the infusion.</time_frame>
+    <description>Maximum measured concentration of the analyte in plasma (Cmax) is presented as adjusted geometric mean (gMean) and geometric coefficient of variation (%) (gCV%). Adjustment was made for treatment effect and weight.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">91</enrollment>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>BI 695502</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subject to receive one intravenous (i.v.) infusion of BI 695502</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>bevacizumab A</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Subject to receive one i.v. infusion of bevacizumab</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>bevacizumab B</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Subject to receive one i.v. infusion of bevacizumab</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BI 695502</intervention_name>
+    <description>BI 695502 single i.v. infusion</description>
+    <arm_group_label>BI 695502</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>bevacizumab</intervention_name>
+    <description>bevacizumab single i.v. infusion</description>
+    <arm_group_label>bevacizumab B</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>bevacizumab</intervention_name>
+    <description>bevacizumab single i.v. infusion</description>
+    <arm_group_label>bevacizumab A</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria:&#xD;
+&#xD;
+          1. Healthy males.&#xD;
+&#xD;
+          2. Complete medical history, including physical examination, vital signs, 12-lead&#xD;
+             electrocardiogram (ECG), and clinical laboratory tests.&#xD;
+&#xD;
+          3. Aged 21 to 50 years.&#xD;
+&#xD;
+          4. Body mass index below or equal to 30.&#xD;
+&#xD;
+          5. Body weight 65 to 95 kg, inclusive.&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          1. Any finding of the medical examination (including blood pressure, pulse rate and ECG)&#xD;
+             deviating from normal and of clinical relevance.&#xD;
+&#xD;
+          2. Any evidence of a clinically relevant concomitant disease, as judged by the&#xD;
+             investigator.&#xD;
+&#xD;
+          3. History of relevant orthostatic hypotension, fainting spells, or blackouts.&#xD;
+&#xD;
+          4. Chronic or relevant acute infections.&#xD;
+&#xD;
+          5. History of relevant allergy/hypersensitivity (including allergy to the study&#xD;
+             medications or its excipients).&#xD;
+&#xD;
+          6. Intake of prescribed or over-the-counter drugs within less than 6 half-lives of the&#xD;
+             respective drug prior to study drug administration or during the trial.&#xD;
+&#xD;
+          7. Participation in another trial with a study medication within two months prior to&#xD;
+             administration or during the trial (six half-lives).&#xD;
+&#xD;
+          8. Smoker (&gt; 10 cigarettes or &gt; 3 cigars or &gt; 3 pipes/day).&#xD;
+&#xD;
+          9. Inability to refrain from smoking during days of confinement at the study center.&#xD;
+&#xD;
+         10. Current alcohol abuse as judged by the investigator.&#xD;
+&#xD;
+         11. Current drug abuse, as judged by the investigator.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>50 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Boehringer Ingelheim</last_name>
+    <role>Study Chair</role>
+    <affiliation>Boehringer Ingelheim</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>1302.1.002 Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Auckland NZ</city>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>1302.1.001 Boehringer Ingelheim Investigational Site</name>
+      <address>
+        <city>Christchurch</city>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>New Zealand</country>
+  </location_countries>
+  <link>
+    <url>http://trials.boehringer-ingelheim.com/</url>
+    <description>Related Info</description>
+  </link>
+  <verification_date>October 2019</verification_date>
+  <study_first_submitted>May 22, 2012</study_first_submitted>
+  <study_first_submitted_qc>May 25, 2012</study_first_submitted_qc>
+  <study_first_posted type="Estimate">May 30, 2012</study_first_posted>
+  <results_first_submitted>October 21, 2019</results_first_submitted>
+  <results_first_submitted_qc>October 21, 2019</results_first_submitted_qc>
+  <results_first_posted type="Actual">November 8, 2019</results_first_posted>
+  <last_update_submitted>October 21, 2019</last_update_submitted>
+  <last_update_submitted_qc>October 21, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 8, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Bevacizumab</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>January 11, 2013</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/87/NCT01608087/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>December 13, 2012</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/87/NCT01608087/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>This was a randomized, single-blind, single-dose, parallel-arm, active comparator, Phase I clinical trial. The trial was planned to be conducted in two stages and subjects were to be randomly allocated in each stage. Based on the interim analysis finalized on 18 February 2013, the trial was closed after Stage 1, and Stage 2 was not conducted.</recruitment_details>
+      <pre_assignment_details>Subjects were randomized in a 1:1:1 ratio to receive BI 695502, United States (US)-licensed Avastin® or European Union (EU)-approved Avastin®.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>BI 695502 (T)</title>
+          <description>Subjects were administered a single dose of 25 milligram per millilitre (mg/mL) BI 695502 concentrate for solution for infusion.</description>
+        </group>
+        <group group_id="P2">
+          <title>United States (US)-Licensed Avastin® (R1)</title>
+          <description>Subjects were administered a single dose of 25 milligram per millilitre (mg/mL) US-licensed Avastin® solution for intravenous infusion.</description>
+        </group>
+        <group group_id="P3">
+          <title>European Union (EU)-Approved Avastin® (R2)</title>
+          <description>Subjects were administered a single dose of 25 microgram per millilitre (mg/mL) EU-approved Avastin® concentrate for solution for infusion.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="30"/>
+                <participants group_id="P2" count="30"/>
+                <participants group_id="P3" count="31"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="30"/>
+                <participants group_id="P2" count="28"/>
+                <participants group_id="P3" count="31"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="2"/>
+                <participants group_id="P3" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+                <participants group_id="P3" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Other Reason</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+                <participants group_id="P3" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Treated Set: All subjects who received at least one administration of trial medication were included in the safety evaluation.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>BI 695502 (T)</title>
+          <description>Subjects were administered a single dose of 25 milligram per millilitre (mg/mL) BI 695502 concentrate for solution for infusion.</description>
+        </group>
+        <group group_id="B2">
+          <title>United States (US)-Licensed Avastin® (R1)</title>
+          <description>Subjects were administered a single dose of 25 milligram per millilitre (mg/mL) US-licensed Avastin® solution for intravenous infusion.</description>
+        </group>
+        <group group_id="B3">
+          <title>European Union (EU)-Approved Avastin® (R2)</title>
+          <description>Subjects were administered a single dose of 25 microgram per millilitre (mg/mL) EU-approved Avastin® concentrate for solution for infusion.</description>
+        </group>
+        <group group_id="B4">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="30"/>
+            <count group_id="B2" value="30"/>
+            <count group_id="B3" value="31"/>
+            <count group_id="B4" value="91"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="26.8" spread="6.5"/>
+                    <measurement group_id="B2" value="28.8" spread="8.1"/>
+                    <measurement group_id="B3" value="26.6" spread="5.4"/>
+                    <measurement group_id="B4" value="27.4" spread="6.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="30"/>
+                    <measurement group_id="B2" value="30"/>
+                    <measurement group_id="B3" value="31"/>
+                    <measurement group_id="B4" value="91"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="7"/>
+                    <measurement group_id="B4" value="15"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="2"/>
+                    <measurement group_id="B4" value="7"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="23"/>
+                    <measurement group_id="B2" value="22"/>
+                    <measurement group_id="B3" value="22"/>
+                    <measurement group_id="B4" value="67"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Area Under the Concentration-time Curve of the Analyte in Plasma Over the Time Interval From 0 Extrapolated to Infinity (AUC0-∞).</title>
+        <description>Area under the concentration-time curve of the analyte in plasma over the time interval from 0 extrapolated to infinity (AUC0-∞) is presented as adjusted geometric mean (gMean) and geometric coefficient of variation (%) (gCV%). Adjustment were made for treatment effect and weight.</description>
+        <time_frame>Pharmacokinetic samples were collected predose, just before the end of the infusion, 2, 4, and 8 hours after the start of the infusion</time_frame>
+        <population>Pharmacokinetic (PK) set: The PK set included all subjects in the treated set (subjects who received at least one administration of trial medication) who provided at least one evaluable observation of a PK endpoint and had no important protocol violations relevant to the evaluation of PK biosimilarity.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>BI 695502 (T)</title>
+            <description>Subjects were administered a single dose of 25 milligram per millilitre (mg/mL) BI 695502 concentrate for solution for infusion.</description>
+          </group>
+          <group group_id="O2">
+            <title>United States (US)-Licensed Avastin® (R1)</title>
+            <description>Subjects were administered a single dose of 25 milligram per millilitre (mg/mL) US-licensed Avastin® solution for intravenous infusion.</description>
+          </group>
+          <group group_id="O3">
+            <title>European Union (EU)-Approved Avastin® (R2)</title>
+            <description>Subjects were administered a single dose of 25 microgram per millilitre (mg/mL) EU-approved Avastin® concentrate for solution for infusion.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Area Under the Concentration-time Curve of the Analyte in Plasma Over the Time Interval From 0 Extrapolated to Infinity (AUC0-∞).</title>
+          <description>Area under the concentration-time curve of the analyte in plasma over the time interval from 0 extrapolated to infinity (AUC0-∞) is presented as adjusted geometric mean (gMean) and geometric coefficient of variation (%) (gCV%). Adjustment were made for treatment effect and weight.</description>
+          <population>Pharmacokinetic (PK) set: The PK set included all subjects in the treated set (subjects who received at least one administration of trial medication) who provided at least one evaluable observation of a PK endpoint and had no important protocol violations relevant to the evaluation of PK biosimilarity.</population>
+          <units>microgram*hour/milliliter</units>
+          <param>Geometric Mean</param>
+          <dispersion>Geometric Coefficient of Variation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="30"/>
+                <count group_id="O2" value="30"/>
+                <count group_id="O3" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7013.010" spread="19.52"/>
+                    <measurement group_id="O2" value="7261.119" spread="15.57"/>
+                    <measurement group_id="O3" value="7649.491" spread="18.29"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Equivalence</non_inferiority_type>
+            <non_inferiority_desc>Commonly applied acceptance range for bioequivalence/biosimilarity is 80% to 125%.</non_inferiority_desc>
+            <param_type>gMean ratio</param_type>
+            <param_value>96.58</param_value>
+            <ci_percent>93.93</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>88.54</ci_lower_limit>
+            <ci_upper_limit>105.35</ci_upper_limit>
+            <estimate_desc>(T/R1) * 100</estimate_desc>
+            <other_analysis_desc>Least squares estimates of log-transformed PK endpoint for T and R1 were back transformed to original scale to get adjusted point estimator and interval estimates for the ratio of the geometric means for treatments.</other_analysis_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O3</group_id>
+            </group_id_list>
+            <non_inferiority_type>Equivalence</non_inferiority_type>
+            <non_inferiority_desc>Commonly applied acceptance range for bioequivalence/biosimilarity is 80% to 125%.</non_inferiority_desc>
+            <param_type>gMean ratio</param_type>
+            <param_value>91.68</param_value>
+            <ci_percent>93.93</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>83.50</ci_lower_limit>
+            <ci_upper_limit>100.65</ci_upper_limit>
+            <estimate_desc>(T/R2) * 100</estimate_desc>
+            <other_analysis_desc>Least squares estimates of log-transformed PK endpoint for T and R1 were back transformed to original scale to get adjusted point estimator and interval estimates for the ratio of the geometric means for treatments.</other_analysis_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O2</group_id>
+              <group_id>O3</group_id>
+            </group_id_list>
+            <non_inferiority_type>Equivalence</non_inferiority_type>
+            <non_inferiority_desc>Commonly applied acceptance range for bioequivalence/biosimilarity is 80% to 125%.</non_inferiority_desc>
+            <param_type>gMean ratio</param_type>
+            <param_value>94.92</param_value>
+            <ci_percent>93.93</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>87.14</ci_lower_limit>
+            <ci_upper_limit>103.40</ci_upper_limit>
+            <estimate_desc>(R1/R2) * 100</estimate_desc>
+            <other_analysis_desc>Least squares estimates of log-transformed PK endpoint for T and R1 were back transformed to original scale to get adjusted point estimator and interval estimates for the ratio of the geometric means for treatments.</other_analysis_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Area Under the Concentration-time Curve of the Analyte in Plasma Over the Time Interval From 0 to the Time of the Last Quantifiable Data Point (AUC0-tz)</title>
+        <description>Area under the concentration-time curve of the analyte in plasma over the time interval from 0 to the time of the last quantifiable data point is presented as adjusted geometric mean (gMean) and geometric coefficient of variation (%) (gCV%). Adjustment was made for treatment effect and weight.</description>
+        <time_frame>Pharmacokinetic samples were collected predose, just before the end of the infusion, 2, 4, and 8 hours after the start of the infusion</time_frame>
+        <population>Pharmacokinetic (PK) set: The PK set included all subjects in the treated set (subjects who received at least one administration of trial medication) who provided at least one evaluable observation of a PK endpoint and had no important protocol violations relevant to the evaluation of PK biosimilarity.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>BI 695502 (T)</title>
+            <description>Subjects were administered a single dose of 25 milligram per millilitre (mg/mL) BI 695502 concentrate for solution for infusion.</description>
+          </group>
+          <group group_id="O2">
+            <title>United States (US)-Licensed Avastin® (R1)</title>
+            <description>Subjects were administered a single dose of 25 milligram per millilitre (mg/mL) US-licensed Avastin® solution for intravenous infusion.</description>
+          </group>
+          <group group_id="O3">
+            <title>European Union (EU)-Approved Avastin® (R2)</title>
+            <description>Subjects were administered a single dose of 25 microgram per millilitre (mg/mL) EU-approved Avastin® concentrate for solution for infusion.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Area Under the Concentration-time Curve of the Analyte in Plasma Over the Time Interval From 0 to the Time of the Last Quantifiable Data Point (AUC0-tz)</title>
+          <description>Area under the concentration-time curve of the analyte in plasma over the time interval from 0 to the time of the last quantifiable data point is presented as adjusted geometric mean (gMean) and geometric coefficient of variation (%) (gCV%). Adjustment was made for treatment effect and weight.</description>
+          <population>Pharmacokinetic (PK) set: The PK set included all subjects in the treated set (subjects who received at least one administration of trial medication) who provided at least one evaluable observation of a PK endpoint and had no important protocol violations relevant to the evaluation of PK biosimilarity.</population>
+          <units>microgram*hour/milliliter</units>
+          <param>Geometric Mean</param>
+          <dispersion>Geometric Coefficient of Variation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="30"/>
+                <count group_id="O2" value="30"/>
+                <count group_id="O3" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6570.047" spread="20.68"/>
+                    <measurement group_id="O2" value="6639.315" spread="18.46"/>
+                    <measurement group_id="O3" value="7167.313" spread="19.72"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Equivalence</non_inferiority_type>
+            <non_inferiority_desc>Commonly applied acceptance range for bioequivalence/biosimilarity is 80% to 125%.</non_inferiority_desc>
+            <param_type>gMean ratio</param_type>
+            <param_value>98.96</param_value>
+            <ci_percent>90</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>90.97</ci_lower_limit>
+            <ci_upper_limit>107.64</ci_upper_limit>
+            <estimate_desc>(T/R1) * 100</estimate_desc>
+            <other_analysis_desc>Least squares estimates of log-transformed PK endpoint for T and R1 were back transformed to original scale to get adjusted point estimator and interval estimates for the ratio of the geometric means for treatments.</other_analysis_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O3</group_id>
+            </group_id_list>
+            <non_inferiority_type>Equivalence</non_inferiority_type>
+            <non_inferiority_desc>Commonly applied acceptance range for bioequivalence/biosimilarity is 80% to 125%.</non_inferiority_desc>
+            <param_type>gMean ratio</param_type>
+            <param_value>91.67</param_value>
+            <ci_percent>90</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>84.02</ci_lower_limit>
+            <ci_upper_limit>100.01</ci_upper_limit>
+            <estimate_desc>(T/R2) * 100</estimate_desc>
+            <other_analysis_desc>Least squares estimates of log-transformed PK endpoint for T and R1 were back transformed to original scale to get adjusted point estimator and interval estimates for the ratio of the geometric means for treatments.</other_analysis_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O2</group_id>
+              <group_id>O3</group_id>
+            </group_id_list>
+            <non_inferiority_type>Equivalence</non_inferiority_type>
+            <non_inferiority_desc>Commonly applied acceptance range for bioequivalence/biosimilarity is 80% to 125%.</non_inferiority_desc>
+            <param_type>gMean ratio</param_type>
+            <param_value>92.63</param_value>
+            <ci_percent>90</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>85.18</ci_lower_limit>
+            <ci_upper_limit>100.74</ci_upper_limit>
+            <estimate_desc>(R1/R2) * 100</estimate_desc>
+            <other_analysis_desc>Least squares estimates of log-transformed PK endpoint for T and R1 were back transformed to original scale to get adjusted point estimator and interval estimates for the ratio of the geometric means for treatments.</other_analysis_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Maximum Measured Concentration of the Analyte in Plasma (Cmax)</title>
+        <description>Maximum measured concentration of the analyte in plasma (Cmax) is presented as adjusted geometric mean (gMean) and geometric coefficient of variation (%) (gCV%). Adjustment was made for treatment effect and weight.</description>
+        <time_frame>Pharmacokinetic samples were collected predose, just before the end of the infusion, 2, 4, and 8 hours after the start of the infusion.</time_frame>
+        <population>Pharmacokinetic (PK) set: The PK set included all subjects in the treated set (subjects who received at least one administration of trial medication) who provided at least one evaluable observation of a PK endpoint and had no important protocol violations relevant to the evaluation of PK biosimilarity.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>BI 695502 (T)</title>
+            <description>Subjects were administered a single dose of 25 milligram per millilitre (mg/mL) BI 695502 concentrate for solution for infusion.</description>
+          </group>
+          <group group_id="O2">
+            <title>United States (US)-Licensed Avastin® (R1)</title>
+            <description>Subjects were administered a single dose of 25 milligram per millilitre (mg/mL) US-licensed Avastin® solution for intravenous infusion.</description>
+          </group>
+          <group group_id="O3">
+            <title>European Union (EU)-Approved Avastin® (R2)</title>
+            <description>Subjects were administered a single dose of 25 microgram per millilitre (mg/mL) EU-approved Avastin® concentrate for solution for infusion.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Maximum Measured Concentration of the Analyte in Plasma (Cmax)</title>
+          <description>Maximum measured concentration of the analyte in plasma (Cmax) is presented as adjusted geometric mean (gMean) and geometric coefficient of variation (%) (gCV%). Adjustment was made for treatment effect and weight.</description>
+          <population>Pharmacokinetic (PK) set: The PK set included all subjects in the treated set (subjects who received at least one administration of trial medication) who provided at least one evaluable observation of a PK endpoint and had no important protocol violations relevant to the evaluation of PK biosimilarity.</population>
+          <units>microgram/milliliter</units>
+          <param>Geometric Mean</param>
+          <dispersion>Geometric Coefficient of Variation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="30"/>
+                <count group_id="O2" value="30"/>
+                <count group_id="O3" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="23.783" spread="16.11"/>
+                    <measurement group_id="O2" value="23.425" spread="25.15"/>
+                    <measurement group_id="O3" value="25.505" spread="15.18"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Equivalence</non_inferiority_type>
+            <non_inferiority_desc>Commonly applied acceptance range for bioequivalence/biosimilarity is 80% to 125%.</non_inferiority_desc>
+            <param_type>gMean ratio</param_type>
+            <param_value>101.53</param_value>
+            <ci_percent>90</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>92.74</ci_lower_limit>
+            <ci_upper_limit>111.14</ci_upper_limit>
+            <estimate_desc>(T/R1) * 100</estimate_desc>
+            <other_analysis_desc>Least squares estimates of log-transformed PK endpoint for T and R1 were back transformed to original scale to get adjusted point estimator and interval estimates for the ratio of the geometric means for treatments.</other_analysis_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O3</group_id>
+            </group_id_list>
+            <non_inferiority_type>Equivalence</non_inferiority_type>
+            <non_inferiority_desc>Commonly applied acceptance range for bioequivalence/biosimilarity is 80% to 125%.</non_inferiority_desc>
+            <param_type>gMean ratio</param_type>
+            <param_value>93.25</param_value>
+            <ci_percent>90</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>87.12</ci_lower_limit>
+            <ci_upper_limit>99.81</ci_upper_limit>
+            <estimate_desc>(T/R2) * 100</estimate_desc>
+            <other_analysis_desc>Least squares estimates of log-transformed PK endpoint for T and R1 were back transformed to original scale to get adjusted point estimator and interval estimates for the ratio of the geometric means for treatments.</other_analysis_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O2</group_id>
+              <group_id>O3</group_id>
+            </group_id_list>
+            <non_inferiority_type>Equivalence</non_inferiority_type>
+            <non_inferiority_desc>Commonly applied acceptance range for bioequivalence/biosimilarity is 80% to 125%.</non_inferiority_desc>
+            <param_type>gMean ratio</param_type>
+            <param_value>91.85</param_value>
+            <ci_percent>90</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>83.91</ci_lower_limit>
+            <ci_upper_limit>100.54</ci_upper_limit>
+            <estimate_desc>(R1/R2) * 100</estimate_desc>
+            <other_analysis_desc>Least square estimates of log-transformed PK endpoint for R1 and R2 were back transformed to original scale to get adjusted point estimator and interval estimates for the inter-subject ratio of the geometric means for treatments.</other_analysis_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>From first drug administration to end of trial; up to 99 days.</time_frame>
+      <desc>Any untoward medical occurrence, including an exacerbation of a pre-existing condition, in a subject in a clinical investigation who received a pharmaceutical product. The recorded Adverse Event may not have had a causal relationship with this treatment.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>BI 695502 (T)</title>
+          <description>Subjects were administered a single dose of 25 milligram per millilitre (mg/mL) BI 695502 concentrate for solution for infusion.</description>
+        </group>
+        <group group_id="E2">
+          <title>United States (US)-Licensed Avastin® (R1)</title>
+          <description>Subjects were administered a single dose of 25 milligram per millilitre (mg/mL) US-licensed Avastin® solution for intravenous infusion.</description>
+        </group>
+        <group group_id="E3">
+          <title>European Union (EU)-Approved Avastin® (R2)</title>
+          <description>Subjects were administered a single dose of 25 microgram per millilitre(mg/mL) EU-approved Avastin® concentrate for solution for infusion.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="30"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="30"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="31"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="30"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="30"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="31"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_vocab>MedDRA 15.1</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="25" subjects_at_risk="30"/>
+                <counts group_id="E2" subjects_affected="19" subjects_at_risk="30"/>
+                <counts group_id="E3" subjects_affected="21" subjects_at_risk="31"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Toothache</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="30"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="30"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="31"/>
+              </event>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="30"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="30"/>
+                <counts group_id="E3" subjects_affected="2" subjects_at_risk="31"/>
+              </event>
+              <event>
+                <sub_title>Gastrooesophageal reflux disease</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="30"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="30"/>
+                <counts group_id="E3" subjects_affected="2" subjects_at_risk="31"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="30"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="30"/>
+                <counts group_id="E3" subjects_affected="2" subjects_at_risk="31"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Upper respiratory tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="11" subjects_at_risk="30"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="30"/>
+                <counts group_id="E3" subjects_affected="13" subjects_at_risk="31"/>
+              </event>
+              <event>
+                <sub_title>Respiratory tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="30"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="30"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="31"/>
+              </event>
+              <event>
+                <sub_title>Gastroenteritis</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="30"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="30"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="31"/>
+              </event>
+              <event>
+                <sub_title>Rhinitis</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="30"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="30"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="31"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Thermal burn</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="30"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="30"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="31"/>
+              </event>
+              <event>
+                <sub_title>Laceration</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="30"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="30"/>
+                <counts group_id="E3" subjects_affected="3" subjects_at_risk="31"/>
+              </event>
+              <event>
+                <sub_title>Contusion</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="30"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="30"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="31"/>
+              </event>
+              <event>
+                <sub_title>Muscle strain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="30"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="30"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="31"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Back pain</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="30"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="30"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="31"/>
+              </event>
+              <event>
+                <sub_title>Musculoskeletal pain</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="30"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="30"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="31"/>
+              </event>
+              <event>
+                <sub_title>Myalgia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="30"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="30"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="31"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="30"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="30"/>
+                <counts group_id="E3" subjects_affected="4" subjects_at_risk="31"/>
+              </event>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="30"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="30"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="31"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Orthostatic hypotension</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="30"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="30"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="31"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>Boehringer Ingelheim (BI) acknowledges that investigators have the right to publish the study results. Investigators shall provide BI with a copy of any publication or presentation for review prior to any submission. Such review will be done with regard to proprietary information, information related to patentable inventions, medical, scientific, and statistical accuracy within 60 days. BI may request a delay of the publication in order to protect BI's intellectual property rights.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Boehringer Ingelheim, Call Center</name_or_title>
+      <organization>Boehringer Ingelheim</organization>
+      <phone>1-800-243-0127</phone>
+      <email>clintriage.rdg@boehringer-ingelheim.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

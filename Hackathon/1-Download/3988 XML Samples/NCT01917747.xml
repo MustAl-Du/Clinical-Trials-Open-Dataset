@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2129">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01917747</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MLB-001-KL2TR000116</org_study_id>
+    <secondary_id>KL2TR000116</secondary_id>
+    <secondary_id>K23DC014074</secondary_id>
+    <nct_id>NCT01917747</nct_id>
+  </id_info>
+  <brief_title>Promoting Early Diagnosis of Congenital Hearing Loss With Patient Navigators</brief_title>
+  <official_title>Promoting Early Diagnosis of Congenital Hearing Loss With Patient Navigators</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Matthew Bush, MD</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Deafness and Other Communication Disorders (NIDCD)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institutes of Health (NIH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Kentucky</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Hearing loss is the most common sensory congenital disorder and this condition is diagnosable&#xD;
+      and treatable. Children that are born with hearing loss have to undergo several hearing tests&#xD;
+      to diagnose the condition and many families are delayed in receiving this testing or never&#xD;
+      obtain the needed testing. This research employs a new method for helping children with&#xD;
+      hearing loss receive timely care by using a patient navigator, who is someone who teaches and&#xD;
+      provides emotional/social support for the families of these children. The hypothesis of this&#xD;
+      study is that a patient navigator will hasten the timing of pediatric audiological testing,&#xD;
+      improve compliance with scheduled appointments, and expand parental knowledge of pediatric&#xD;
+      hearing loss.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Parents of children who fail infant hearing screening at birth at the University of Kentucky&#xD;
+      or other hospitals in the area that are receiving follow up diagnostic testing at UK&#xD;
+      Audiology or the Commission for Children with Special Health Care Needs will be enrolled in&#xD;
+      the first part of the study and randomized into either a patient navigator group or the&#xD;
+      standard practice group. We will compare the failure to follow-up for testing rates between&#xD;
+      groups. Of those enrolled subjects, the age of the children when they obtain diagnostic&#xD;
+      testing will be assessed and compared between the patient navigator group and the standard&#xD;
+      practice group. This arm will further quantify the effect of the navigator on diagnostic&#xD;
+      testing timing.&#xD;
+&#xD;
+      The second arm strives to continue and build upon the first assessment by evaluating hearing&#xD;
+      follow up in children up to six months of age who are diagnosed with hearing loss. Parents of&#xD;
+      children born at the University of Kentucky and at other hospitals who are following up as&#xD;
+      outpatients at UK who are diagnosed with hearing loss will be approached for enrollment.&#xD;
+      Parents of children in this arm of the study that did not participate in Arm 1 or did&#xD;
+      participate in Arm 1 but that were randomized to the control group are randomized from the&#xD;
+      age of enrollment until one year old to a patient navigator group or standard practice group.&#xD;
+      Parents of children that participated in Arm 1 that were randomized to patient navigation&#xD;
+      that enroll in Arm 2 will not be randomized and will continue to receive patient navigation.&#xD;
+      This group of subjects will be assessed to find what follow up is conducted once the child is&#xD;
+      diagnosed with hearing loss. As in the first arm, the navigator group will have regular phone&#xD;
+      follow ups with the patient navigator and the standard practice group will not have contact.&#xD;
+      Both groups will be given or mailed questionnaires, asking them about where they obtained&#xD;
+      services for the child with regard to hearing follow up and intervention. This will assess&#xD;
+      the effect of a navigator on parental education and support, timing of diagnostic services,&#xD;
+      and implementation of interventions with regard to pediatric hearing loss.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 1, 2014</start_date>
+  <completion_date type="Actual">January 1, 2020</completion_date>
+  <primary_completion_date type="Actual">September 30, 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants Who do Not Receive Diagnostic Audiological Testing (Aim 1)</measure>
+    <time_frame>3 months after birth</time_frame>
+    <description>This outcome is the number of participants who do not follow-up for diagnostic audiologic testing after a failed newborn hearing screening from the date of randomization to 3 months after birth.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants Who do Not Receive Hearing Intervention by Six Months of Age (Aim 2)</measure>
+    <time_frame>From the date of hearing loss diagnosis up to 6 months after birth</time_frame>
+    <description>This outcome is the number of participants who do not follow-up for therapeutic audiological intervention after a diagnosis of infant hearing loss is made from the date of randomization to 6 months after birth.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Weeks Between Birth and Date of Diagnostic Audiological Testing (Aim 1)</measure>
+    <time_frame>From date of randomization to first audiological diagnostic test up to 12 months of age</time_frame>
+    <description>This outcome is the timing of diagnostic audiological testing after failed newborn hearing screening from the date of randomization until the date of first documented diagnostic audiological testing, assessed up to 12 months after birth.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Weeks Between Date of Hearing Loss Diagnosis and Intervention (Aim 2)</measure>
+    <time_frame>From the date of hearing loss diagnosis until up to one year</time_frame>
+    <description>This outcome is the timing of hearing loss intervention from the date of hearing loss diagnosis until the date of documented hearing loss intervention, assessed up to 12 months.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">106</enrollment>
+  <condition>Congenital Hearing Loss</condition>
+  <arm_group>
+    <arm_group_label>Standard scheduling and follow-up</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The subjects will have access to discuss any questions or concerns with our office or audiology staff, as is the standard of care practice. They will not be contacted by study personnel or the patient navigator after discharge from the hospital and before the initial diagnostic test or before and after any subsequent auditory brainstem response test. The patients may contact and be contacted by our clinic staff regarding scheduling or rescheduling of the hearing test and any other follow up, as is standard practice.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Patient Navigator Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The patient navigator group will involve regular phone contact with the patient navigator. The patient navigator will contact the participant by phone to conduct an interview and provide education on infant hearing and diagnostic hearing services. The timing of the subject child's appointment and the instructions of the outpatient auditory brainstem response test are discussed.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Patient Navigator</intervention_name>
+    <description>The patient navigator group will involve regular phone contact with the patient navigator. The patient navigator will contact the participant by phone to conduct an interview and provide education on infant hearing and diagnostic hearing services. The timing of the subject child's appointment and the instructions of the outpatient auditory brainstem response test are discussed. In the second part of the study, further educational tools are given to parent(s) and discussion of additional follow up mechanisms, including community hearing services and types of interventions for pediatric hearing loss is imparted.</description>
+    <arm_group_label>Patient Navigator Group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Standard scheduling and follow-up</intervention_name>
+    <description>The subjects will have access to discuss any questions or concerns with our office or audiology staff, as is the standard of care practice. They will not be contacted by study personnel or the patient navigator after discharge from the hospital and before the initial diagnostic test or before any subsequent auditory brainstem response test. The patients may contact and be contacted by our clinic staff regarding scheduling or rescheduling of the hearing test, as is standard practice.</description>
+    <arm_group_label>Standard scheduling and follow-up</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria (Arm 1):&#xD;
+&#xD;
+          1. Parents of children who are born at University of Kentucky Medical Center in the&#xD;
+             postpartum ward whose children are born after 34 weeks gestation and fail hearing&#xD;
+             screening in one or both ears&#xD;
+&#xD;
+          2. Parents whose children are receiving follow up testing (due to referral after&#xD;
+             mandatory newborn hearing screening) at UK Audiology or the Commission for Children&#xD;
+             with Special Health Care Needs&#xD;
+&#xD;
+          3. Parents who are willing to be contacted by study coordinators and/or navigator to&#xD;
+             monitor progress and testing outcomes&#xD;
+&#xD;
+          4. Parents who are able to speak English or Spanish as the patient navigator will be&#xD;
+             speaking one of these languages and this will be the primary means of communication&#xD;
+             over the phone.&#xD;
+&#xD;
+        Exclusion Criteria (Arm 1):&#xD;
+&#xD;
+          1. Parents of newborns who are hospitalized past 30 days after birth or who are born&#xD;
+             prior to 34 weeks gestation (as this may inherently delay diagnostic work-up)&#xD;
+&#xD;
+          2. Children and parents live outside Kentucky or who will be moving out of Kentucky&#xD;
+             within the first year of life (they will not be able to be followed closely at our&#xD;
+             institution)&#xD;
+&#xD;
+          3. Parents of wards of the state and cases of adoption will be excluded&#xD;
+&#xD;
+        Inclusion Criteria (Arm 2):&#xD;
+&#xD;
+          1. Children who are 6 months old or less and have been diagnosed with hearing loss in one&#xD;
+             or both ears through two separate ABR tests.&#xD;
+&#xD;
+          2. Parents who are willing to be contacted by study coordinators and/or navigator to&#xD;
+             monitor progress and testing outcomes&#xD;
+&#xD;
+          3. Parents who are able to speak English or Spanish as the patient navigator will be&#xD;
+             speaking one of these languages and this will be the primary means of communication&#xD;
+             over the phone.&#xD;
+&#xD;
+        Exclusion Criteria (Arm 2):&#xD;
+&#xD;
+          1. Parents of newborns who are hospitalized past 30 days after birth or who are born&#xD;
+             prior to 34 weeks gestation (as this may inherently delay diagnostic work-up)&#xD;
+&#xD;
+          2. Children and parents live outside Kentucky or who will be moving out of Kentucky&#xD;
+             within the first year of life (they will not be able to be followed closely at our&#xD;
+             institution)&#xD;
+&#xD;
+          3. Parents of wards of the state and cases of adoption will be excluded&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Matthew L Bush, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Kentucky</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Kentucky</name>
+      <address>
+        <city>Lexington</city>
+        <state>Kentucky</state>
+        <zip>40536</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Commission for Children with Special Health Care Needs</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40222</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2020</verification_date>
+  <study_first_submitted>August 2, 2013</study_first_submitted>
+  <study_first_submitted_qc>August 6, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">August 7, 2013</study_first_posted>
+  <results_first_submitted>September 26, 2019</results_first_submitted>
+  <results_first_submitted_qc>December 23, 2019</results_first_submitted_qc>
+  <results_first_posted type="Actual">December 24, 2019</results_first_posted>
+  <last_update_submitted>March 18, 2020</last_update_submitted>
+  <last_update_submitted_qc>March 18, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 31, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Kentucky</investigator_affiliation>
+    <investigator_full_name>Matthew Bush, MD</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <keyword>Infant hearing screening</keyword>
+  <keyword>Patient Navigator</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hearing Loss</mesh_term>
+    <mesh_term>Deafness</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>March 4, 2015</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/47/NCT01917747/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Standard Scheduling and Follow-up</title>
+          <description>The subjects will have access to discuss any questions or concerns with our office or audiology staff, as is the standard of care practice. They will not be contacted by study personnel or the patient navigator after discharge from the hospital and before the initial diagnostic test or before and after any subsequent auditory brainstem response test. The patients may contact and be contacted by our clinic staff regarding scheduling or rescheduling of the hearing test and any other follow up, as is standard practice. The subjects will have access to discuss any questions or concerns with our office or audiology staff, as is the standard of care practice. They will not be contacted by study personnel or the patient navigator after discharge from the hospital and before the initial diagnostic test or before any subsequent auditory brainstem response test.</description>
+        </group>
+        <group group_id="P2">
+          <title>Patient Navigator Group</title>
+          <description>The patient navigator group will involve regular phone contact with the patient navigator. The patient navigator will contact the participant by phone to conduct an interview and provide education on infant hearing and diagnostic hearing services. The timing of the subject child's appointment and the instructions of the outpatient auditory brainstem response test are discussed. The patient navigator group will involve regular phone contact with the patient navigator. The patient navigator will contact the participant by phone to conduct an interview and provide education on infant hearing and diagnostic hearing services. The timing of the subject child's appointment and the instructions of the outpatient auditory brainstem response test are discussed. In the second part of the study, further educational tools are given to parent(s) and discussion of additional follow up mechanisms, including community hearing services and types of interventions for pediatric hearing loss is imparted.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="60"/>
+                <participants group_id="P2" count="46"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="41"/>
+                <participants group_id="P2" count="35"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="19"/>
+                <participants group_id="P2" count="11"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="18"/>
+                <participants group_id="P2" count="9"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>There is no difference between the number of baseline participants and those that entered each arm of the study.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Standard Scheduling and Follow-up</title>
+          <description>The subjects will have access to discuss any questions or concerns with our office or audiology staff, as is the standard of care practice. They will not be contacted by study personnel or the patient navigator after discharge from the hospital and before the initial diagnostic test or before and after any subsequent auditory brainstem response test. The patients may contact and be contacted by our clinic staff regarding scheduling or rescheduling of the hearing test and any other follow up, as is standard practice.&#xD;
+Standard scheduling and follow-up: The subjects will have access to discuss any questions or concerns with our office or audiology staff, as is the standard of care practice. They will not be contacted by study personnel or the patient navigator after discharge from the hospital and before the initial diagnostic test or before any subsequent auditory brainstem response test. The patients may contact and be contacted by our clinic staff regarding scheduling.</description>
+        </group>
+        <group group_id="B2">
+          <title>Patient Navigator Group</title>
+          <description>The patient navigator group will involve regular phone contact with the patient navigator. The patient navigator will contact the participant by phone to conduct an interview and provide education on infant hearing and diagnostic hearing services. The timing of the subject child's appointment and the instructions of the outpatient auditory brainstem response test are discussed.&#xD;
+Patient Navigator: The patient navigator group will involve regular phone contact with the patient navigator. The patient navigator will contact the participant by phone to conduct an interview and provide education on infant hearing and diagnostic hearing services. The timing of the subject child's appointment and the instructions of the outpatient auditory brainstem response test are discussed. In the second part of the study, further educational tools are given to parent(s) and discussion of additional follow up mechanisms, including community hearing services and types of interventions for pediatrics.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="60"/>
+            <count group_id="B2" value="46"/>
+            <count group_id="B3" value="106"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="60"/>
+                    <measurement group_id="B2" value="46"/>
+                    <measurement group_id="B3" value="106"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>Years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="31" spread="5.4"/>
+                    <measurement group_id="B2" value="31" spread="5.3"/>
+                    <measurement group_id="B3" value="31" spread="5.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="56"/>
+                    <measurement group_id="B2" value="44"/>
+                    <measurement group_id="B3" value="100"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Race/Ethnicity</title>
+              <category_list>
+                <category>
+                  <title>White/Caucasian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="37"/>
+                    <measurement group_id="B2" value="23"/>
+                    <measurement group_id="B3" value="60"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black/African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="14"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Hispanic/Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="12"/>
+                    <measurement group_id="B3" value="22"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Other</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <description>BEALE Code; which is a numerical description of recruitment area by region. The region of interest in this study is the Appalachian Region, which is primarily represented by BEAL codes 7,8, and 9</description>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="60"/>
+                    <measurement group_id="B2" value="46"/>
+                    <measurement group_id="B3" value="106"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants Who do Not Receive Diagnostic Audiological Testing (Aim 1)</title>
+        <description>This outcome is the number of participants who do not follow-up for diagnostic audiologic testing after a failed newborn hearing screening from the date of randomization to 3 months after birth.</description>
+        <time_frame>3 months after birth</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Standard Scheduling and Follow-up</title>
+            <description>The subjects will have access to discuss any questions or concerns with our office or audiology staff, as is the standard of care practice. They will not be contacted by study personnel or the patient navigator after discharge from the hospital and before the initial diagnostic test or before and after any subsequent auditory brainstem response test. The patients may contact and be contacted by our clinic staff regarding scheduling or rescheduling of the hearing test and any other follow up, as is standard practice.&#xD;
+Standard scheduling and follow-up: The subjects will have access to discuss any questions or concerns with our office or audiology staff, as is the standard of care practice. They will not be contacted by study personnel or the patient navigator after discharge from the hospital and before the initial diagnostic test or before any subsequent auditory brainstem response test. The patients may contact and be contacted by our clinic staff regarding scheduling.</description>
+          </group>
+          <group group_id="O2">
+            <title>Patient Navigator Group</title>
+            <description>The patient navigator group will involve regular phone contact with the patient navigator. The patient navigator will contact the participant by phone to conduct an interview and provide education on infant hearing and diagnostic hearing services. The timing of the subject child's appointment and the instructions of the outpatient auditory brainstem response test are discussed.&#xD;
+Patient Navigator: The patient navigator group will involve regular phone contact with the patient navigator. The patient navigator will contact the participant by phone to conduct an interview and provide education on infant hearing and diagnostic hearing services. The timing of the subject child's appointment and the instructions of the outpatient auditory brainstem response test are discussed. In the second part of the study, further educational tools are given to parent(s) and discussion of additional follow up mechanisms, including community hearing services and types of interventions for pediatrics.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Who do Not Receive Diagnostic Audiological Testing (Aim 1)</title>
+          <description>This outcome is the number of participants who do not follow-up for diagnostic audiologic testing after a failed newborn hearing screening from the date of randomization to 3 months after birth.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="41"/>
+                <count group_id="O2" value="35"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="15"/>
+                    <measurement group_id="O2" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants Who do Not Receive Hearing Intervention by Six Months of Age (Aim 2)</title>
+        <description>This outcome is the number of participants who do not follow-up for therapeutic audiological intervention after a diagnosis of infant hearing loss is made from the date of randomization to 6 months after birth.</description>
+        <time_frame>From the date of hearing loss diagnosis up to 6 months after birth</time_frame>
+        <population>No data was collected because no patients were recruited into this Aim of the study. None of the study participants (N=106) were found to have hearing loss thus there were not eligible to receive hearing loss treatment and thus not eligible for aim 2.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Standard Scheduling and Follow-up</title>
+            <description>Standard scheduling and follow-up: The subjects will have access to discuss any questions or concerns with our office or audiology staff, as is the standard of care practice. They will not be contacted by study personnel or the patient navigator after discharge from the hospital and before the initial diagnostic test or before any subsequent auditory brainstem response test.</description>
+          </group>
+          <group group_id="O2">
+            <title>Patient Navigator Group</title>
+            <description>Patient Navigator: The patient navigator group will involve regular phone contact with the patient navigator. The patient navigator will contact the participant by phone to conduct an interview and provide education on infant hearing and diagnostic hearing services. The timing of the subject child's appointment and the instructions of the outpatient auditory brainstem response test are discussed. In the second part of the study, further educational tools are given to parent(s) and discussion of additional follow up mechanisms, including community hearing services and types of interventions for pediatric hearing.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Who do Not Receive Hearing Intervention by Six Months of Age (Aim 2)</title>
+          <description>This outcome is the number of participants who do not follow-up for therapeutic audiological intervention after a diagnosis of infant hearing loss is made from the date of randomization to 6 months after birth.</description>
+          <population>No data was collected because no patients were recruited into this Aim of the study. None of the study participants (N=106) were found to have hearing loss thus there were not eligible to receive hearing loss treatment and thus not eligible for aim 2.</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+                <count group_id="O2" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Weeks Between Birth and Date of Diagnostic Audiological Testing (Aim 1)</title>
+        <description>This outcome is the timing of diagnostic audiological testing after failed newborn hearing screening from the date of randomization until the date of first documented diagnostic audiological testing, assessed up to 12 months after birth.</description>
+        <time_frame>From date of randomization to first audiological diagnostic test up to 12 months of age</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Standard Scheduling and Follow-up</title>
+            <description>The subjects will have access to discuss any questions or concerns with our office or audiology staff, as is the standard of care practice. They will not be contacted by study personnel or the patient navigator after discharge from the hospital and before the initial diagnostic test or before and after any subsequent auditory brainstem response test. The patients may contact and be contacted by our clinic staff regarding scheduling or rescheduling of the hearing test and any other follow up, as is standard practice. The subjects will have access to discuss any questions or concerns with our office or audiology staff, as is the standard of care practice. They will not be contacted by study personnel or the patient navigator after discharge from the hospital and before the initial diagnostic test or before any subsequent auditory brainstem response test.</description>
+          </group>
+          <group group_id="O2">
+            <title>Patient Navigator Group</title>
+            <description>The patient navigator group will involve regular phone contact with the patient navigator. The patient navigator will contact the participant by phone to conduct an interview and provide education on infant hearing and diagnostic hearing services. The timing of the subject child's appointment and the instructions of the outpatient auditory brainstem response test are discussed. The patient navigator group will involve regular phone contact with the patient navigator. The patient navigator will contact the participant by phone to conduct an interview and provide education on infant hearing and diagnostic hearing services. The timing of the subject child's appointment and the instructions of the outpatient auditory brainstem response test are discussed. In the second part of the study, further educational tools are given to parent(s) and discussion of additional follow up mechanisms, including community hearing services and types of interventions for pediatric hearing loss is imparted.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Weeks Between Birth and Date of Diagnostic Audiological Testing (Aim 1)</title>
+          <description>This outcome is the timing of diagnostic audiological testing after failed newborn hearing screening from the date of randomization until the date of first documented diagnostic audiological testing, assessed up to 12 months after birth.</description>
+          <units>weeks</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="31"/>
+                <count group_id="O2" value="31"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7.13" spread="6.02"/>
+                    <measurement group_id="O2" value="6.19" spread="3.49"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Weeks Between Date of Hearing Loss Diagnosis and Intervention (Aim 2)</title>
+        <description>This outcome is the timing of hearing loss intervention from the date of hearing loss diagnosis until the date of documented hearing loss intervention, assessed up to 12 months.</description>
+        <time_frame>From the date of hearing loss diagnosis until up to one year</time_frame>
+        <population>No data was collected because no patients were recruited into this Aim of the study. None of the study participants (N=106) were found to have hearing loss thus there were not eligible to receive hearing loss treatment and thus not eligible for aim 2.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Standard Scheduling and Follow-up</title>
+            <description>Standard scheduling and follow-up: The subjects will have access to discuss any questions or concerns with our office or audiology staff, as is the standard of care practice. They will not be contacted by study personnel or the patient navigator after discharge from the hospital and before the initial diagnostic test or before any subsequent auditory brainstem response test.</description>
+          </group>
+          <group group_id="O2">
+            <title>Patient Navigator Group</title>
+            <description>Patient Navigator: The patient navigator group will involve regular phone contact with the patient navigator. The patient navigator will contact the participant by phone to conduct an interview and provide education on infant hearing and diagnostic hearing services. The timing of the subject child's appointment and the instructions of the outpatient auditory brainstem response test are discussed. In the second part of the study, further educational tools are given to parent(s) and discussion of additional follow up mechanisms, including community hearing services and types of interventions for pediatric hearing.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Weeks Between Date of Hearing Loss Diagnosis and Intervention (Aim 2)</title>
+          <description>This outcome is the timing of hearing loss intervention from the date of hearing loss diagnosis until the date of documented hearing loss intervention, assessed up to 12 months.</description>
+          <population>No data was collected because no patients were recruited into this Aim of the study. None of the study participants (N=106) were found to have hearing loss thus there were not eligible to receive hearing loss treatment and thus not eligible for aim 2.</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+                <count group_id="O2" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Each subject was assessed for testing compliance at three months for the purpose of securing a diagnosis, and then observed for any intervention at 6 months.</time_frame>
+      <desc>No difference</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Standard Scheduling and Follow-up</title>
+          <description>The subjects will have access to discuss any questions or concerns with our office or audiology staff, as is the standard of care practice. They will not be contacted by study personnel or the patient navigator after discharge from the hospital and before the initial diagnostic test or before and after any subsequent auditory brainstem response test. The patients may contact and be contacted by our clinic staff regarding scheduling or rescheduling of the hearing test and any other follow up, as is standard practice.&#xD;
+Standard scheduling and follow-up: The subjects will have access to discuss any questions or concerns with our office or audiology staff, as is the standard of care practice. They will not be contacted by study personnel or the patient navigator after discharge from the hospital and before the initial diagnostic test or before any subsequent auditory brainstem response test. The patients may contact and be contacted by our clinic staff regarding scheduling.</description>
+        </group>
+        <group group_id="E2">
+          <title>Patient Navigator Group</title>
+          <description>The patient navigator group will involve regular phone contact with the patient navigator. The patient navigator will contact the participant by phone to conduct an interview and provide education on infant hearing and diagnostic hearing services. The timing of the subject child's appointment and the instructions of the outpatient auditory brainstem response test are discussed.&#xD;
+Patient Navigator: The patient navigator group will involve regular phone contact with the patient navigator. The patient navigator will contact the participant by phone to conduct an interview and provide education on infant hearing and diagnostic hearing services. The timing of the subject child's appointment and the instructions of the outpatient auditory brainstem response test are discussed. In the second part of the study, further educational tools are given to parent(s) and discussion of additional follow up mechanisms, including community hearing services and types of interventions for pediatrics.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="60"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="46"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="60"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="46"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="60"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="46"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Matthew L. Bush</name_or_title>
+      <organization>UK Dept. of Otolaryngology Head and Neck Surgery</organization>
+      <phone>859-218-2168</phone>
+      <email>matthew.bush@uky.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

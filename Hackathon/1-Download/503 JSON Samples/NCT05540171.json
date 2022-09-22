@@ -1,0 +1,370 @@
+{
+  "FullStudy":{
+    "Rank":490,
+    "Study":{
+      "ProtocolSection":{
+        "IdentificationModule":{
+          "NCTId":"NCT05540171",
+          "OrgStudyIdInfo":{
+            "OrgStudyId":"NHREC/17/03/2018"
+          },
+          "SecondaryIdInfoList":{
+            "SecondaryIdInfo":[
+              {
+                "SecondaryId":"2D43TW010543-06",
+                "SecondaryIdType":"U.S. NIH Grant/Contract",
+                "SecondaryIdLink":"https://reporter.nih.gov/quickSearch/2D43TW010543-06"
+              }
+            ]
+          },
+          "Organization":{
+            "OrgFullName":"Aminu Kano Teaching Hospital",
+            "OrgClass":"OTHER"
+          },
+          "BriefTitle":"An Educational Intervention Program to Improve the Oral Health of HIV-Positive Children in Kano, Nigeria.",
+          "OfficialTitle":"An Educational Intervention Program to Improve the Oral Health of HIV-Positive Children in Kano, Nigeria."
+        },
+        "StatusModule":{
+          "StatusVerifiedDate":"September 2022",
+          "OverallStatus":"Not yet recruiting",
+          "ExpandedAccessInfo":{
+            "HasExpandedAccess":"No"
+          },
+          "StartDateStruct":{
+            "StartDate":"September 26, 2022",
+            "StartDateType":"Anticipated"
+          },
+          "PrimaryCompletionDateStruct":{
+            "PrimaryCompletionDate":"April 1, 2023",
+            "PrimaryCompletionDateType":"Anticipated"
+          },
+          "CompletionDateStruct":{
+            "CompletionDate":"April 1, 2023",
+            "CompletionDateType":"Anticipated"
+          },
+          "StudyFirstSubmitDate":"September 9, 2022",
+          "StudyFirstSubmitQCDate":"September 12, 2022",
+          "StudyFirstPostDateStruct":{
+            "StudyFirstPostDate":"September 14, 2022",
+            "StudyFirstPostDateType":"Actual"
+          },
+          "LastUpdateSubmitDate":"September 12, 2022",
+          "LastUpdatePostDateStruct":{
+            "LastUpdatePostDate":"September 14, 2022",
+            "LastUpdatePostDateType":"Actual"
+          }
+        },
+        "SponsorCollaboratorsModule":{
+          "ResponsibleParty":{
+            "ResponsiblePartyType":"Principal Investigator",
+            "ResponsiblePartyInvestigatorFullName":"Yewande Isabella Adeyemo",
+            "ResponsiblePartyInvestigatorTitle":"Dr.",
+            "ResponsiblePartyInvestigatorAffiliation":"Aminu Kano Teaching Hospital"
+          },
+          "LeadSponsor":{
+            "LeadSponsorName":"Aminu Kano Teaching Hospital",
+            "LeadSponsorClass":"OTHER"
+          },
+          "CollaboratorList":{
+            "Collaborator":[
+              {
+                "CollaboratorName":"NIH Office of AIDS Research (OAR)",
+                "CollaboratorClass":"NIH"
+              },{
+                "CollaboratorName":"Fogarty International Center of the National Institute of Health",
+                "CollaboratorClass":"NIH"
+              }
+            ]
+          }
+        },
+        "OversightModule":{
+          "OversightHasDMC":"No",
+          "IsFDARegulatedDrug":"No",
+          "IsFDARegulatedDevice":"No"
+        },
+        "DescriptionModule":{
+          "BriefSummary":"The aim of this 2- arm randomized-control study is to determine the effect of an oral hygiene self care intervention on the oral health status and oral health-related quality of life (OHRQoL) of HIV-positive children (age: 8-16 years, n=170) presenting to five pediatric HIV clinics in Kano, Nigeria.\n\nThe intervention will comprise oral health education and instructions on oral self-care.\n\nData on oral health status and OHRQoL will be obtained at baseline and at 1, 3 and 6 months.\n\nStudy findings will help inform policies to improve the oral health and OHRQoL of HIV-positive Nigerian children and guide the integration of oral health care services into HIV programs.",
+          "DetailedDescription":"Eligible children will be randomized to intervention (oral health education and demonstration of how to perform oral self-care) arm and control (no intervention) arms.\n\nHypothesis: There will be a mean difference of 0.5 in children's oral hygiene scores between intervention and control arms at 6 months post-intervention.\n\nBased on reported oral hygiene score standard deviation=0.96, desired power=0.90, Type I error rate=0.05, we need 77 participants/arm to detect a clinically meaningful mean difference of 0.5 in oral hygiene score between intervention and control arms at 6 months post-intervention.\n\nTo account for possible loss to follow-up over 6 months, the participants' total sample size was increased to 170 (85 participants/arm).\n\nEthical Approval: Has been obtained from Aminu Kano Teaching Hospital (AKTH) and Kano State research ethics committees.\n\nStudy instrument/measures:\n\nSocio-demographic/clinical information: Age, gender, family size, household income, caregiver occupation/education, birth history, caregiver self-reported HIV-status (if known), child's antiretroviral treatment (ART) regimen, comorbidities, recent viral load, helper T cells (CD4+) count.\nOHRQoL: The child perception questionnaire (CPQ) captures global ratings of child's oral health; four domains: oral symptoms, functional limitations, emotional and social well-being; Likert scale ('never'=0 to everyday/ almost every day'=4). The questionnaire will be translated into Hausa.\n\nOral health status:\n\ni. Decayed, Missing, and Filled Teeth (DMFT/dmft) index, scored: D/d, M/m, F/f.\n\nii. International Caries Detection and Assessment System, (ICDAS) (caries severity) (0=sound tooth- 6=distinctly cavitated tooth).\n\niii. Pulp (visible), Ulceration (oral mucosa), Fistula and Abscess due to caries (PUFA/pufa) index scored: P/p, U/u, F/f, A/a.\n\niv. Oral Hygiene Index-Simplified (OHI-S): comprising Debris index (DI) and Calculus index (CI), each scored 0-3. OHI-S scored: good (0.0-1.2) to poor oral hygiene (3.1-6.0).\n\nv. Gingival index (GI): 0=normal gingiva, 3=severely inflamed gingiva/spontaneous bleeding.\n\nvi. HIV-associated oral lesions.\n\nStudy Procedures/Data collection:\n\nOne trained research assistant (RA) per site will be hired (minimum kappa score: 0.8). Consented primary caregivers of eligible children will be contacted by RAs.\n\nBaseline data will be extracted from participants' clinic charts. OHRQoL will be assessed for each participant. Baseline oral health status will be assessed and scored per established guidelines following intra-oral clinical examination.\n\nParticipants will be randomly assigned 1:1 to intervention and control arms by a computerized algorithm.\n\nIntervention: Trained instructor will give 45-minute oral health education and instructions/training for self-oral care to each child and primary caregiver.\n\nThe intervention will include oral hygiene instructions and motivation for oral self-care (dietary counseling; post-meal rinsing; flossing; brushing frequency, time, and method; tongue cleaning; toothbrush type/care; toothpaste quantity/type; dental visits). Audiovisual aids and flyers reinforcing the oral health education will be provided.\n\nControl arm: will not receive oral health intervention.\n\nParticipants with findings that require treatment will be linked to appropriate services; they will be financially responsible for such care. All participants will receive toothbrushes and toothpastes as incentive.\n\nAfter baseline measurement and intervention to the intervention group, data collection for both groups will be done at 1 month, 3 months and 6, months."
+        },
+        "ConditionsModule":{
+          "ConditionList":{
+            "Condition":[
+              "HIV",
+              "Dental Caries",
+              "Quality of Life",
+              "Oral Disease",
+              "Oral Infection",
+              "Oral Manifestations"
+            ]
+          },
+          "KeywordList":{
+            "Keyword":[
+              "HIV",
+              "Children",
+              "Oral Health Status",
+              "Oral Health Related Quality of Life",
+              "Kano",
+              "Self oral care",
+              "Oral health education",
+              "Randomized control study"
+            ]
+          }
+        },
+        "DesignModule":{
+          "StudyType":"Interventional",
+          "PhaseList":{
+            "Phase":[
+              "Not Applicable"
+            ]
+          },
+          "DesignInfo":{
+            "DesignAllocation":"Randomized",
+            "DesignInterventionModel":"Parallel Assignment",
+            "DesignInterventionModelDescription":"A 2-arm randomized control study which involves two groups of participants who will be randomly assigned into the intervention arm and the control arm. The randomization process will be through a computerized algorithm which will generate the sequence that will be implemented.",
+            "DesignPrimaryPurpose":"Supportive Care",
+            "DesignMaskingInfo":{
+              "DesignMasking":"Single",
+              "DesignMaskingDescription":"The participants will not be aware of the sequence and so also, the main members of the research team.",
+              "DesignWhoMaskedList":{
+                "DesignWhoMasked":[
+                  "Outcomes Assessor"
+                ]
+              }
+            }
+          },
+          "EnrollmentInfo":{
+            "EnrollmentCount":"170",
+            "EnrollmentType":"Anticipated"
+          }
+        },
+        "ArmsInterventionsModule":{
+          "ArmGroupList":{
+            "ArmGroup":[
+              {
+                "ArmGroupLabel":"Education intervention (Oral health education and instructions/training for self-oral care)",
+                "ArmGroupType":"Experimental",
+                "ArmGroupDescription":"The intervention arm will be given a 45 minute oral health education which will include oral hygiene instructions and motivation/training for oral self-care (dietary counselling; snacking during and not mealtimes; post-meal rinsing; flossing; brushing frequency, time, and method; tongue cleaning; toothbrush type/care; toothpaste quantity/type; dental visits). Audio-visual aids and leaflets reinforcing the oral health education will also be provided.",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Other: Oral health education and instructions/training for self-oral care"
+                  ]
+                }
+              },{
+                "ArmGroupLabel":"No intervention (Control)",
+                "ArmGroupType":"No Intervention",
+                "ArmGroupDescription":"The control arm/group will receive no intervention."
+              }
+            ]
+          },
+          "InterventionList":{
+            "Intervention":[
+              {
+                "InterventionType":"Other",
+                "InterventionName":"Oral health education and instructions/training for self-oral care",
+                "InterventionDescription":"Education intervention",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Education intervention (Oral health education and instructions/training for self-oral care)"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "OutcomesModule":{
+          "PrimaryOutcomeList":{
+            "PrimaryOutcome":[
+              {
+                "PrimaryOutcomeMeasure":"Oral Health Status",
+                "PrimaryOutcomeDescription":"Oral Hygiene Index-Simplified (OHI-S) score",
+                "PrimaryOutcomeTimeFrame":"6 months"
+              },{
+                "PrimaryOutcomeMeasure":"Gingival Health Status",
+                "PrimaryOutcomeDescription":"Modified Gingival Index (MGI) score",
+                "PrimaryOutcomeTimeFrame":"6 months"
+              },{
+                "PrimaryOutcomeMeasure":"Oral Health Related Quality of Life (OHRQoL)",
+                "PrimaryOutcomeDescription":"Child Perception Questionnaire for varying ages 8 to 10 and 11 to 14 and upward (CPQ8-10, CPQ11-14)",
+                "PrimaryOutcomeTimeFrame":"6 months"
+              }
+            ]
+          },
+          "SecondaryOutcomeList":{
+            "SecondaryOutcome":[
+              {
+                "SecondaryOutcomeMeasure":"Dental Caries Status",
+                "SecondaryOutcomeDescription":"Decayed, Missing, and Filled (DMFT/dmft) index",
+                "SecondaryOutcomeTimeFrame":"One month"
+              },{
+                "SecondaryOutcomeMeasure":"Dental Caries Sequelae",
+                "SecondaryOutcomeDescription":"Pulp which is visible, Ulcerated oral mucosa, Fistula due to caries, Abscess due to caries (PUFA/pufa) index",
+                "SecondaryOutcomeTimeFrame":"6 months"
+              },{
+                "SecondaryOutcomeMeasure":"Dental Caries Status",
+                "SecondaryOutcomeDescription":"International Caries Detection and Assessment System (ICDAS)",
+                "SecondaryOutcomeTimeFrame":"6 months"
+              },{
+                "SecondaryOutcomeMeasure":"HIV-associated oral lesions",
+                "SecondaryOutcomeDescription":"Oral lesions that are associated with HIV",
+                "SecondaryOutcomeTimeFrame":"One month"
+              },{
+                "SecondaryOutcomeMeasure":"Other dental problems",
+                "SecondaryOutcomeDescription":"Malocclusion, Molar-Incisor Hypomineralization (MIH), Trauma",
+                "SecondaryOutcomeTimeFrame":"One month"
+              }
+            ]
+          }
+        },
+        "EligibilityModule":{
+          "EligibilityCriteria":"Inclusion Criteria:\n\nHIV-infected children aged 8-16 years (who can self-implement the oral health intervention with minimal caregiver supervision) attending selected clinics. HIV status will be based on clinic records.\nPrimary caregiver consent; assent from child.\nOn ART for ≥3 months.\n\nExclusion Criteria: Children who\n\nHave special health care needs.\nDo not meet inclusion criteria.\nDecline assent or lack caregiver consent.",
+          "HealthyVolunteers":"Accepts Healthy Volunteers",
+          "Gender":"All",
+          "MinimumAge":"8 Years",
+          "MaximumAge":"16 Years",
+          "StdAgeList":{
+            "StdAge":[
+              "Child"
+            ]
+          }
+        },
+        "ContactsLocationsModule":{
+          "CentralContactList":{
+            "CentralContact":[
+              {
+                "CentralContactName":"Yewande I ADEYEMO, BDS",
+                "CentralContactRole":"Contact",
+                "CentralContactPhone":"08032223062",
+                "CentralContactEMail":"wendiepee@gmail.com"
+              }
+            ]
+          },
+          "OverallOfficialList":{
+            "OverallOfficial":[
+              {
+                "OverallOfficialName":"Yewande I ADEYEMO, BDS",
+                "OverallOfficialAffiliation":"Bayero University, Kano/ Aminu Kano Teaching Hospital",
+                "OverallOfficialRole":"Principal Investigator"
+              }
+            ]
+          }
+        }
+      },
+      "DerivedSection":{
+        "MiscInfoModule":{
+          "VersionHolder":"September 19, 2022"
+        },
+        "ConditionBrowseModule":{
+          "ConditionMeshList":{
+            "ConditionMesh":[
+              {
+                "ConditionMeshId":"D000003731",
+                "ConditionMeshTerm":"Dental Caries"
+              },{
+                "ConditionMeshId":"D000009059",
+                "ConditionMeshTerm":"Mouth Diseases"
+              },{
+                "ConditionMeshId":"D000009912",
+                "ConditionMeshTerm":"Oral Manifestations"
+              }
+            ]
+          },
+          "ConditionAncestorList":{
+            "ConditionAncestor":[
+              {
+                "ConditionAncestorId":"D000017001",
+                "ConditionAncestorTerm":"Tooth Demineralization"
+              },{
+                "ConditionAncestorId":"D000014076",
+                "ConditionAncestorTerm":"Tooth Diseases"
+              },{
+                "ConditionAncestorId":"D000009057",
+                "ConditionAncestorTerm":"Stomatognathic Diseases"
+              }
+            ]
+          },
+          "ConditionBrowseLeafList":{
+            "ConditionBrowseLeaf":[
+              {
+                "ConditionBrowseLeafId":"M6080",
+                "ConditionBrowseLeafName":"Dental Caries",
+                "ConditionBrowseLeafAsFound":"Dental Caries",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M9435",
+                "ConditionBrowseLeafName":"Infections",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M5520",
+                "ConditionBrowseLeafName":"Communicable Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M2674",
+                "ConditionBrowseLeafName":"Acquired Immunodeficiency Syndrome",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M17402",
+                "ConditionBrowseLeafName":"HIV Infections",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M11171",
+                "ConditionBrowseLeafName":"Mouth Diseases",
+                "ConditionBrowseLeafAsFound":"Oral Disease",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M11993",
+                "ConditionBrowseLeafName":"Oral Manifestations",
+                "ConditionBrowseLeafAsFound":"Oral Manifestations",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M8894",
+                "ConditionBrowseLeafName":"HIV Seropositivity",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M18491",
+                "ConditionBrowseLeafName":"Tooth Demineralization",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M15983",
+                "ConditionBrowseLeafName":"Tooth Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M11169",
+                "ConditionBrowseLeafName":"Stomatognathic Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"T6034",
+                "ConditionBrowseLeafName":"Quality of Life",
+                "ConditionBrowseLeafAsFound":"Quality of Life",
+                "ConditionBrowseLeafRelevance":"high"
+              }
+            ]
+          },
+          "ConditionBrowseBranchList":{
+            "ConditionBrowseBranch":[
+              {
+                "ConditionBrowseBranchAbbrev":"BC07",
+                "ConditionBrowseBranchName":"Mouth and Tooth Diseases"
+              },{
+                "ConditionBrowseBranchAbbrev":"All",
+                "ConditionBrowseBranchName":"All Conditions"
+              },{
+                "ConditionBrowseBranchAbbrev":"BC01",
+                "ConditionBrowseBranchName":"Infections"
+              },{
+                "ConditionBrowseBranchAbbrev":"BC23",
+                "ConditionBrowseBranchName":"Symptoms and General Pathology"
+              },{
+                "ConditionBrowseBranchAbbrev":"BC20",
+                "ConditionBrowseBranchName":"Immune System Diseases"
+              },{
+                "ConditionBrowseBranchAbbrev":"BXM",
+                "ConditionBrowseBranchName":"Behaviors and Mental Disorders"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+

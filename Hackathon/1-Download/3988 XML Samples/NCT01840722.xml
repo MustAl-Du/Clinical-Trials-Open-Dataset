@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2148">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01840722</url>
+  </required_header>
+  <id_info>
+    <org_study_id>5R01DA033866-02</org_study_id>
+    <secondary_id>5R01DA033866-02</secondary_id>
+    <nct_id>NCT01840722</nct_id>
+  </id_info>
+  <brief_title>Brief Intervention for Rural Women at High Risk for HIV/HCV</brief_title>
+  <acronym>WISH</acronym>
+  <official_title>Brief Intervention for Rural Women at High Risk for HIV/HCV</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Michele Staton</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Kentucky</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The overall aim of this study is to reduce risk behaviors and increase health and behavioral&#xD;
+      health service utilization among disadvantaged, drug-using rural women at high risk for HIV&#xD;
+      and HCV. This project has potential to make a significant contribution to science by&#xD;
+      providing knowledge about the health, risk behaviors, and service utilization of a vulnerable&#xD;
+      and understudied group of women during a time of emerging and significant public health risk&#xD;
+      in a rural Appalachian setting. Successful completion of the aims of this project will&#xD;
+      advance the delivery of a low-cost, potentially high impact intervention with implications&#xD;
+      for a number of other real world settings (such as criminal justice venues) where other&#xD;
+      disadvantaged high-risk drug users can be identified and targeted for intervention.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Specific Aim 1: Compare the effectiveness of an evidence-based HIV risk reduction&#xD;
+      intervention (MI-HIV) to HIV Education (NIDA Standard) in reducing sex risk behaviors,&#xD;
+      injection practices, and drug use among a culturally unique sample of disadvantaged,&#xD;
+      drug-using rural women at high-risk for HIV and HCV. This aim will be accomplished through&#xD;
+      the random selection of high-risk rural women drug users from rural jails, screening and&#xD;
+      assessment for high-risk behavior, and random assignment to the HIV-Ed or MI-HIV intervention&#xD;
+      conditions. Follow-up interviews at 3, 6, and 12 months in the community post-release will&#xD;
+      examine changes in high-risk behavior. It is expected that MI-HIV participants will report&#xD;
+      significantly greater reductions in risky injection drug use practices, other drug use, and&#xD;
+      sex risk behaviors than women who participate in the HIV-Ed condition.&#xD;
+&#xD;
+      Specific Aim 2: Examine MI-HIV Intervention engagement as a predictor of community health and&#xD;
+      behavioral health service utilization (including drug treatment and mental health) at&#xD;
+      follow-up among disadvantaged, drug-using rural women at high risk for HIV and HCV. This aim&#xD;
+      will focus on community service utilization during the follow-up period by the intervention&#xD;
+      and education comparison group, and how health and behavioral health service utilization&#xD;
+      relates to patterns of HIV/HCV risk behavior. It is expected that MI-HIV participants will&#xD;
+      utilize more services due to increased motivation for treatment and treatment planning&#xD;
+      following the brief intervention.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">December 2012</start_date>
+  <completion_date type="Actual">May 2019</completion_date>
+  <primary_completion_date type="Actual">May 2019</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants Having Unprotected Casual Sex</measure>
+    <time_frame>6 months</time_frame>
+    <description>Had unprotected sex with a casual partner or when trading sex for money, drugs, etc in the past 6 months</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants Exchanging Sex</measure>
+    <time_frame>6 months</time_frame>
+    <description>Sex with a Partner in Exchange for Money, Drugs, Food, Shelter, Transportation, etc. in the past 6 months</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants Recently Receiving Physical or Behavioral Health Treatment</measure>
+    <time_frame>6 months</time_frame>
+    <description>Is currently being treated for a physical or mental health problem OR has been in a substance use treatment program in the last 6 months</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">400</enrollment>
+  <condition>Acquired Immune Deficiency Syndrome Virus</condition>
+  <condition>Hepatitis C</condition>
+  <condition>Drug Abuse</condition>
+  <arm_group>
+    <arm_group_label>NIDA Standard HIV Education</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>NIDA Standard HIV Education Participants in this condition will be given HIV education using NIDA standard pre and post-test counseling, HIV and HCV rapid testing, and an information packet on existing community drug abuse and HIV/HCV resources</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>MI-based HIV Risk Reduction</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>MI-based HIV Risk Reduction -- In addition to what is received in the HIV-Ed group, participants in this condition will also receive a CDC evidence-based brief intervention for high-risk women focused on an individualized plan for enhancing motivation to reduce risk behaviors and to use health and behavioral health services in the community.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>MI-based HIV Risk Reduction</intervention_name>
+    <description>As the only MI-based intervention identified by the CDC as a best-practice model, the MI-HIV intervention has been shown to demonstrate positive outcomes for criminal justice-involved women randomly assigned to the intervention group for risky sexual activity and drug use with sustained behaviors through 9 months.</description>
+    <arm_group_label>MI-based HIV Risk Reduction</arm_group_label>
+    <other_name>Motivational Interviewing for HIV Risk Reduction</other_name>
+    <other_name>Portland Women's Health Program</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  ASSIST score of 4+&#xD;
+&#xD;
+          -  engagement in at least one sex risk behavior in the past 3 months&#xD;
+&#xD;
+          -  willingness to participate in brief intervention sessions&#xD;
+&#xD;
+          -  no evidence of cognitive impairment&#xD;
+&#xD;
+          -  no evidence of active psychosis (currently experiencing hallucinations)&#xD;
+&#xD;
+          -  no self-reported current symptoms of physical withdrawal from a recent episode of drug&#xD;
+             use&#xD;
+&#xD;
+          -  incarceration period of 1 week - 3 months in order to complete intervention sessions&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  ASSIST score of &lt;4&#xD;
+&#xD;
+          -  no engagement in at least one sex risk behavior in the past 3 months&#xD;
+&#xD;
+          -  not willing to participate in brief intervention sessions&#xD;
+&#xD;
+          -  evidence of cognitive impairment&#xD;
+&#xD;
+          -  evidence of active psychosis (currently experiencing hallucinations)&#xD;
+&#xD;
+          -  self-reported current symptoms of physical withdrawal from a recent episode of drug&#xD;
+             use&#xD;
+&#xD;
+          -  incarceration period of less than 1 week or greater than 3 months in order to complete&#xD;
+             intervention sessions&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michele Tindall, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Kentucky</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Rural Appalachian Research Center</name>
+      <address>
+        <city>Hazard</city>
+        <state>Kentucky</state>
+        <zip>41071</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2019</verification_date>
+  <study_first_submitted>April 19, 2013</study_first_submitted>
+  <study_first_submitted_qc>April 23, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 26, 2013</study_first_posted>
+  <results_first_submitted>August 27, 2019</results_first_submitted>
+  <results_first_submitted_qc>September 17, 2019</results_first_submitted_qc>
+  <results_first_posted type="Actual">October 8, 2019</results_first_posted>
+  <last_update_submitted>September 17, 2019</last_update_submitted>
+  <last_update_submitted_qc>September 17, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 8, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Kentucky</investigator_affiliation>
+    <investigator_full_name>Michele Staton</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>HIV</keyword>
+  <keyword>HCV</keyword>
+  <keyword>Substance abuse</keyword>
+  <keyword>women</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hepatitis C</mesh_term>
+    <mesh_term>Acquired Immunodeficiency Syndrome</mesh_term>
+    <mesh_term>HIV Infections</mesh_term>
+    <mesh_term>Immunologic Deficiency Syndromes</mesh_term>
+    <mesh_term>Substance-Related Disorders</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>N/A, individual participant data will not be made available.</ipd_description>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>March 5, 2014</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/22/NCT01840722/Prot_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Adult women were randomly selected from three rural jails in Appalachia, screened, and interviewed face-to-face in a private room in the jail. Study eligibility included: 1) moderate risk of substance abuse based on the NIDA-ASSIST score of 4+ for any drug; 2) residing in Appalachia before incarceration; and 3) willingness to participate.</recruitment_details>
+      <pre_assignment_details>Of the 688 screened, 248 (36%) did not meet eligibility criteria due to: not being released during time frame (n=203), not engaging in risky sexual practices (n=15), not being from Appalachian (n=21), and not meeting NM-ASSIST criteria (n=9). 440 (64%) met criteria, but 40 were released prior to completing the baseline. The final N=400.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>NIDA Standard HIV Education</title>
+          <description>NIDA Standard HIV Education Participants in this condition will be given HIV education using NIDA standard pre and post-test counseling, HIV and HCV rapid testing, and an information packet on existing community drug abuse and HIV/HCV resources</description>
+        </group>
+        <group group_id="P2">
+          <title>MI-based HIV Risk Reduction</title>
+          <description>MI-based HIV Risk Reduction -- In addition to what is received in the HIV-Ed group, participants in this condition will also receive a CDC evidence-based brief intervention for high-risk women focused on an individualized plan for enhancing motivation to reduce risk behaviors and to use health and behavioral health services in the community.&#xD;
+MI-based HIV Risk Reduction: As the only MI-based intervention identified by the CDC as a best-practice model, the MI-HIV intervention has been shown to demonstrate positive outcomes for criminal justice-involved women randomly assigned to the intervention group for risky sexual activity and drug use with sustained behaviors through 9 months.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="201"/>
+                <participants group_id="P2" count="199"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="201"/>
+                <participants group_id="P2" count="130"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="69"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>NIDA Standard HIV Education</title>
+          <description>NIDA Standard HIV Education Participants in this condition will be given HIV education using NIDA standard pre and post-test counseling, HIV and HCV rapid testing, and an information packet on existing community drug abuse and HIV/HCV resources</description>
+        </group>
+        <group group_id="B2">
+          <title>MI-based HIV Risk Reduction</title>
+          <description>MI-based HIV Risk Reduction -- In addition to what is received in the HIV-Ed group, participants in this condition will also receive a CDC evidence-based brief intervention for high-risk women focused on an individualized plan for enhancing motivation to reduce risk behaviors and to use health and behavioral health services in the community.&#xD;
+MI-based HIV Risk Reduction: As the only MI-based intervention identified by the CDC as a best-practice model, the MI-HIV intervention has been shown to demonstrate positive outcomes for criminal justice-involved women randomly assigned to the intervention group for risky sexual activity and drug use with sustained behaviors through 9 months.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="201"/>
+            <count group_id="B2" value="199"/>
+            <count group_id="B3" value="400"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="201"/>
+                    <measurement group_id="B2" value="199"/>
+                    <measurement group_id="B3" value="400"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="32.5" spread="8.4"/>
+                    <measurement group_id="B2" value="33.1" spread="8.1"/>
+                    <measurement group_id="B3" value="32.8" spread="8.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="201"/>
+                    <measurement group_id="B2" value="199"/>
+                    <measurement group_id="B3" value="400"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="200"/>
+                    <measurement group_id="B2" value="197"/>
+                    <measurement group_id="B3" value="397"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="201"/>
+                    <measurement group_id="B2" value="199"/>
+                    <measurement group_id="B3" value="400"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Risky Sexual Behavior</title>
+          <description>Ever Had Sex with a Partner in Exchange for Money, Drugs, Food, Shelter, Transportation, etc</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="84"/>
+                    <measurement group_id="B2" value="90"/>
+                    <measurement group_id="B3" value="174"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants Having Unprotected Casual Sex</title>
+        <description>Had unprotected sex with a casual partner or when trading sex for money, drugs, etc in the past 6 months</description>
+        <time_frame>6 months</time_frame>
+        <population>Participants were lost to study attrition</population>
+        <group_list>
+          <group group_id="O1">
+            <title>NIDA Standard HIV Education</title>
+            <description>NIDA Standard HIV Education Participants in this condition will be given HIV education using NIDA standard pre and post-test counseling, HIV and HCV rapid testing, and an information packet on existing community drug abuse and HIV/HCV resources</description>
+          </group>
+          <group group_id="O2">
+            <title>MI-based HIV Risk Reduction</title>
+            <description>MI-based HIV Risk Reduction -- In addition to what is received in the HIV-Ed group, participants in this condition will also receive a CDC evidence-based brief intervention for high-risk women focused on an individualized plan for enhancing motivation to reduce risk behaviors and to use health and behavioral health services in the community.&#xD;
+MI-based HIV Risk Reduction: As the only MI-based intervention identified by the CDC as a best-practice model, the MI-HIV intervention has been shown to demonstrate positive outcomes for criminal justice-involved women randomly assigned to the intervention group for risky sexual activity and drug use with sustained behaviors through 9 months.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Having Unprotected Casual Sex</title>
+          <description>Had unprotected sex with a casual partner or when trading sex for money, drugs, etc in the past 6 months</description>
+          <population>Participants were lost to study attrition</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="181"/>
+                <count group_id="O2" value="184"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="27"/>
+                    <measurement group_id="O2" value="25"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants Exchanging Sex</title>
+        <description>Sex with a Partner in Exchange for Money, Drugs, Food, Shelter, Transportation, etc. in the past 6 months</description>
+        <time_frame>6 months</time_frame>
+        <population>Participants were lost to attrition.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>NIDA Standard HIV Education</title>
+            <description>NIDA Standard HIV Education Participants in this condition will be given HIV education using NIDA standard pre and post-test counseling, HIV and HCV rapid testing, and an information packet on existing community drug abuse and HIV/HCV resources</description>
+          </group>
+          <group group_id="O2">
+            <title>MI-based HIV Risk Reduction</title>
+            <description>MI-based HIV Risk Reduction -- In addition to what is received in the HIV-Ed group, participants in this condition will also receive a CDC evidence-based brief intervention for high-risk women focused on an individualized plan for enhancing motivation to reduce risk behaviors and to use health and behavioral health services in the community.&#xD;
+MI-based HIV Risk Reduction: As the only MI-based intervention identified by the CDC as a best-practice model, the MI-HIV intervention has been shown to demonstrate positive outcomes for criminal justice-involved women randomly assigned to the intervention group for risky sexual activity and drug use with sustained behaviors through 9 months.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Exchanging Sex</title>
+          <description>Sex with a Partner in Exchange for Money, Drugs, Food, Shelter, Transportation, etc. in the past 6 months</description>
+          <population>Participants were lost to attrition.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="181"/>
+                <count group_id="O2" value="184"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                    <measurement group_id="O2" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants Recently Receiving Physical or Behavioral Health Treatment</title>
+        <description>Is currently being treated for a physical or mental health problem OR has been in a substance use treatment program in the last 6 months</description>
+        <time_frame>6 months</time_frame>
+        <population>Participants were lost to study attrition.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>NIDA Standard HIV Education</title>
+            <description>NIDA Standard HIV Education Participants in this condition will be given HIV education using NIDA standard pre and post-test counseling, HIV and HCV rapid testing, and an information packet on existing community drug abuse and HIV/HCV resources</description>
+          </group>
+          <group group_id="O2">
+            <title>MI-based HIV Risk Reduction</title>
+            <description>MI-based HIV Risk Reduction -- In addition to what is received in the HIV-Ed group, participants in this condition will also receive a CDC evidence-based brief intervention for high-risk women focused on an individualized plan for enhancing motivation to reduce risk behaviors and to use health and behavioral health services in the community.&#xD;
+MI-based HIV Risk Reduction: As the only MI-based intervention identified by the CDC as a best-practice model, the MI-HIV intervention has been shown to demonstrate positive outcomes for criminal justice-involved women randomly assigned to the intervention group for risky sexual activity and drug use with sustained behaviors through 9 months.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Recently Receiving Physical or Behavioral Health Treatment</title>
+          <description>Is currently being treated for a physical or mental health problem OR has been in a substance use treatment program in the last 6 months</description>
+          <population>Participants were lost to study attrition.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="181"/>
+                <count group_id="O2" value="184"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="83"/>
+                    <measurement group_id="O2" value="84"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Adverse event data was collected for one year post-study enrollment.</time_frame>
+      <desc>The definitions of adverse events in this study do not differ from clinicaltrials.gov definitions.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>NIDA Standard HIV Education</title>
+          <description>NIDA Standard HIV Education Participants in this condition will be given HIV education using NIDA standard pre and post-test counseling, HIV and HCV rapid testing, and an information packet on existing community drug abuse and HIV/HCV resources</description>
+        </group>
+        <group group_id="E2">
+          <title>MI-based HIV Risk Reduction</title>
+          <description>MI-based HIV Risk Reduction -- In addition to what is received in the HIV-Ed group, participants in this condition will also receive a CDC evidence-based brief intervention for high-risk women focused on an individualized plan for enhancing motivation to reduce risk behaviors and to use health and behavioral health services in the community.&#xD;
+MI-based HIV Risk Reduction: As the only MI-based intervention identified by the CDC as a best-practice model, the MI-HIV intervention has been shown to demonstrate positive outcomes for criminal justice-involved women randomly assigned to the intervention group for risky sexual activity and drug use with sustained behaviors through 9 months.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="201"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="199"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="201"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="199"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Participant death</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="201"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="199"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="201"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="199"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Michele Staton, Associate Professor</name_or_title>
+      <organization>University of Kentucky</organization>
+      <phone>859-257-2483</phone>
+      <email>mstaton@uky.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

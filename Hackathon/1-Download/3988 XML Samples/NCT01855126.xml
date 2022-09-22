@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3756">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01855126</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R01AG042602</org_study_id>
+    <nct_id>NCT01855126</nct_id>
+  </id_info>
+  <brief_title>Individually Tailored Lighting System to Improve Sleep in Older Adults</brief_title>
+  <official_title>Individually Tailored Lighting System to Improve Sleep in Older Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rensselaer Polytechnic Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of North Carolina</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Rensselaer Polytechnic Institute</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In conjunction with investigators at the Cecil G. Sheps Center for Health Services Research,&#xD;
+      University of North Carolina (UNC) at Chapel Hill, we propose to develop and evaluate a&#xD;
+      low-cost, minimally obtrusive device that delivers individualized light therapy to adults&#xD;
+      with early-awakening insomnia - the most common sleep disturbance in older adults, and a&#xD;
+      significant problem because of its relationship to daytime sleepiness, use of potentially&#xD;
+      hazardous sleep medication, and reduced quality of life. The proposed device will measure&#xD;
+      light/dark exposure data over 24 hours, estimate optimum timing for light delivery, and&#xD;
+      deliver an individualized light dosage while subjects are asleep. Light applied through&#xD;
+      closed eyelids in the early part of the night will delay the dim light melatonin onset, a&#xD;
+      marker of the circadian clock, and help those with early sleep onset to fall asleep later&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      We will recruit 50 subjects who report going to bed early and desiring later bedtimes and&#xD;
+      will ask them to wear an active and an inactive light mask for 8 consecutive weeks each. A&#xD;
+      2-week washout period between active and inactive conditions will be applied. Outcome&#xD;
+      measures will be collected periodically throughout the 8 weeks. Baseline (no intervention)&#xD;
+      will be collected prior to the active and inactive lighting interventions.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>March 2013</start_date>
+  <completion_date type="Actual">April 2017</completion_date>
+  <primary_completion_date type="Actual">April 2017</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>Enrolled participants will be randomized to receive either the active intervention or placebo intervention and then crossed over to receive the opposite intervention. The study consisted of two intervention periods of 8 weeks separated by a two week washout period.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Sleep Disturbance</measure>
+    <time_frame>Baseline (week 0) and week 8 of lighting intervention</time_frame>
+    <description>Pittsburgh Sleep Quality Index. Score range 0 - 21. A score over 5 is indicative of sleep disturbance.&#xD;
+Change in score from baseline to intervention is reported. A larger difference indicates a better outcome.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total Sleep Time</measure>
+    <time_frame>baseline week (week 0) and the last week of intervention (week 8)</time_frame>
+    <description>The change in total amount of minutes spent sleeping at night from baseline week to the last week of intervention. A higher number is an improved outcome</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Sleep Efficiency</measure>
+    <time_frame>baseline week (week 0) and the last week of intervention (week 8)</time_frame>
+    <description>The change in sleep efficiency from baseline to last week of intervention. A higher number is a better outcome. Sleep efficiency is the percentage of time spent in bed sleeping. Scored total sleep time divided by interval duration minus total invalid time (sleep/wake) of the given rest interval multiplied by 100. This data was collected using actigraphy data.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Sleep Start Time</measure>
+    <time_frame>baseline week (week 0) and the last week of intervention (week 8)</time_frame>
+    <description>Change in sleep start time, in minutes, from baseline week to the last week of intervention. A higher number is a better outcome. Based on actigraph data</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">46</enrollment>
+  <condition>Sleep Disturbances</condition>
+  <arm_group>
+    <arm_group_label>Blue light</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The study protocol consisted of two 8-week intervention/control periods in which each participant wore either the intervention (blue light) or control (red light) mask every night, with the order of presentation of the two conditions randomized by the study's biostatistician. A light mask housing two blue Light Emitting Diodes (LED) arrays delivered a train of blue or red light pulses of 2 second duration that were presented every 30 s for no longer than 2 hr, resulting in a maximum total of approximately 240 pulses per night. the blue light mask was worn nightly for 8 weeks. There will be a two week washout period between each intervention</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Red light</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>The study protocol consisted of two 8-week intervention/control periods in which each participant wore either the intervention (blue light) or control (red light) mask every night, with the order of presentation of the two conditions randomized by the study's biostatistician. A light mask housing two red Light Emitting Diodes (LED) arrays delivered a train of blue or red light pulses of 2 second duration that were presented every 30 s for no longer than 2 hr, resulting in a maximum total of approximately 240 pulses per night. the red light mask was worn nightly for 8 weeks, with a two week washout period between each intervention</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Blue light</intervention_name>
+    <description>After a two week baseline collection period, half of the subjects will initially be given light masks that deliver blue light through the closed eyelids, while subjects are sleeping. The light mask will always be turned on 120 min before estimated core body temperature minimum (CBTmin); it is expected that blue light exposure will delay the timing of the CBTmin.</description>
+    <arm_group_label>Blue light</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Red light</intervention_name>
+    <description>After a two week baseline collection period, half of the subjects will initially be given light masks that deliver red light through the closed eyelids, while subjects are sleeping. The light mask will always be turned on 120 min before estimated core body temperature minimum (CBTmin); it is expected that red light exposure will have no effect on the timing of the CBTmin.</description>
+    <arm_group_label>Red light</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  age 65 or older&#xD;
+&#xD;
+          -  cognitively capable&#xD;
+&#xD;
+          -  able to respond to study staff verbally and in English&#xD;
+&#xD;
+          -  score greater than 6 using the Pittsburgh Sleepiness Quality Index&#xD;
+&#xD;
+          -  suffer from insomnia&#xD;
+&#xD;
+          -  suffer from excessive daytime sleepiness&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Severe sleep apnea&#xD;
+&#xD;
+          -  Severe restless leg syndrome (RLS)&#xD;
+&#xD;
+          -  Significant cognitive impairment&#xD;
+&#xD;
+          -  History of severe photosensitivity dermatitis&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mariana G Figueiro, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Rensselaer Polytechnic Institute</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Rensselaer Polytechnic Institute</name>
+      <address>
+        <city>Troy</city>
+        <state>New York</state>
+        <zip>12180</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Figueiro MG, Plitnick B, Rea MS. Pulsing blue light through closed eyelids: effects on acute melatonin suppression and phase shifting of dim light melatonin onset. Nat Sci Sleep. 2014 Dec 2;6:149-56. doi: 10.2147/NSS.S73856. eCollection 2014.</citation>
+    <PMID>25506253</PMID>
+  </reference>
+  <reference>
+    <citation>Figueiro MG, Bierman A, Rea MS. A train of blue light pulses delivered through closed eyelids suppresses melatonin and phase shifts the human circadian system. Nat Sci Sleep. 2013 Oct 4;5:133-41. doi: 10.2147/NSS.S52203. eCollection 2013.</citation>
+    <PMID>24124400</PMID>
+  </reference>
+  <verification_date>January 2019</verification_date>
+  <study_first_submitted>May 9, 2013</study_first_submitted>
+  <study_first_submitted_qc>May 15, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">May 16, 2013</study_first_posted>
+  <results_first_submitted>October 1, 2018</results_first_submitted>
+  <results_first_submitted_qc>January 7, 2019</results_first_submitted_qc>
+  <results_first_posted type="Actual">January 29, 2019</results_first_posted>
+  <last_update_submitted>January 7, 2019</last_update_submitted>
+  <last_update_submitted_qc>January 7, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 29, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Rensselaer Polytechnic Institute</investigator_affiliation>
+    <investigator_full_name>Mariana G Figueiro</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>light</keyword>
+  <keyword>circadian rhythms</keyword>
+  <keyword>dim light melatonin onset</keyword>
+  <keyword>sleep</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dyssomnias</mesh_term>
+    <mesh_term>Parasomnias</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>November 5, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/26/NCT01855126/SAP_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>November 5, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/26/NCT01855126/Prot_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>46 participants were enrolled into the study. These participants were randomized to begin the study with the active intervention, or the placebo intervention. After a 2 week washout period, participants were exposed to the opposite intervention.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Active Intervention, Then Placebo</title>
+          <description>Participants started the study wearing the blue mask for 8 weeks. After a 2 week washout period, they wore the red mask for 8 weeks</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo Intervention, Then Active</title>
+          <description>Participants started the study wearing the red mask every night for 8 weeks. After a 2 week washout period, they wore the blue mask every night for 8 weeks.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>First Intervention (8 Weeks)</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="24"/>
+                <participants group_id="P2" count="22"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="20"/>
+                <participants group_id="P2" count="16"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+                <participants group_id="P2" count="6"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+                <participants group_id="P2" count="6"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+        <period>
+          <title>Washout Period (2 Weeks)</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="20"/>
+                <participants group_id="P2" count="16"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="20"/>
+                <participants group_id="P2" count="16"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+        <period>
+          <title>Second Intervention (8 Weeks)</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="20"/>
+                <participants group_id="P2" count="16"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="18"/>
+                <participants group_id="P2" count="14"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Active Intervention, Then Placebo Intervention</title>
+          <description>Participants started the study by wearing the blue mask every night for 8 weeks. After a washout period of 2 weeks, participants wore the red mask every night for 8 weeks</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo Intervention, Then Active Intervention</title>
+          <description>Participants started the study by wearing the red mask every night for 8 weeks. After a washout period of 2 weeks, participants wore the blue mask every night for 8 weeks.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="24"/>
+            <count group_id="B2" value="22"/>
+            <count group_id="B3" value="46"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="18"/>
+                    <measurement group_id="B2" value="18"/>
+                    <measurement group_id="B3" value="36"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16"/>
+                    <measurement group_id="B2" value="14"/>
+                    <measurement group_id="B3" value="30"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="16"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="14"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                    <measurement group_id="B2" value="15"/>
+                    <measurement group_id="B3" value="32"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="26"/>
+                    <measurement group_id="B2" value="24"/>
+                    <measurement group_id="B3" value="50"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>early awakening insomnia</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="24"/>
+                    <measurement group_id="B2" value="22"/>
+                    <measurement group_id="B3" value="46"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Sleep Disturbance</title>
+        <description>Pittsburgh Sleep Quality Index. Score range 0 - 21. A score over 5 is indicative of sleep disturbance.&#xD;
+Change in score from baseline to intervention is reported. A larger difference indicates a better outcome.</description>
+        <time_frame>Baseline (week 0) and week 8 of lighting intervention</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Blue Light Mask</title>
+            <description>Participants wore the blue mask every night for 8 weeks.</description>
+          </group>
+          <group group_id="O2">
+            <title>Red Light Mask</title>
+            <description>Participants wore the red mask every night for 8 weeks.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Sleep Disturbance</title>
+          <description>Pittsburgh Sleep Quality Index. Score range 0 - 21. A score over 5 is indicative of sleep disturbance.&#xD;
+Change in score from baseline to intervention is reported. A larger difference indicates a better outcome.</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="34"/>
+                <count group_id="O2" value="34"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-1.9" spread="0.5"/>
+                    <measurement group_id="O2" value="-1.3" spread="0.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Total Sleep Time</title>
+        <description>The change in total amount of minutes spent sleeping at night from baseline week to the last week of intervention. A higher number is an improved outcome</description>
+        <time_frame>baseline week (week 0) and the last week of intervention (week 8)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Blue Light Mask</title>
+            <description>Participants started the study wearing the blue light mask every night for 8 weeks.</description>
+          </group>
+          <group group_id="O2">
+            <title>Red Light Mask</title>
+            <description>Participants started the study wearing the red light mask for 8 weeks.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Total Sleep Time</title>
+          <description>The change in total amount of minutes spent sleeping at night from baseline week to the last week of intervention. A higher number is an improved outcome</description>
+          <units>minutes</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="34"/>
+                <count group_id="O2" value="34"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4" spread="22"/>
+                    <measurement group_id="O2" value="1" spread="19"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Sleep Efficiency</title>
+        <description>The change in sleep efficiency from baseline to last week of intervention. A higher number is a better outcome. Sleep efficiency is the percentage of time spent in bed sleeping. Scored total sleep time divided by interval duration minus total invalid time (sleep/wake) of the given rest interval multiplied by 100. This data was collected using actigraphy data.</description>
+        <time_frame>baseline week (week 0) and the last week of intervention (week 8)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Blue Light Mask</title>
+            <description>Participants started the study wearing the blue mask for 8 weeks.</description>
+          </group>
+          <group group_id="O2">
+            <title>Red Light Mask</title>
+            <description>Participants started the study wearing the red mask every night for 8 weeks.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Sleep Efficiency</title>
+          <description>The change in sleep efficiency from baseline to last week of intervention. A higher number is a better outcome. Sleep efficiency is the percentage of time spent in bed sleeping. Scored total sleep time divided by interval duration minus total invalid time (sleep/wake) of the given rest interval multiplied by 100. This data was collected using actigraphy data.</description>
+          <units>percentage of sleep</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="34"/>
+                <count group_id="O2" value="34"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.3" spread="2.9"/>
+                    <measurement group_id="O2" value="-0.6" spread="4.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Sleep Start Time</title>
+        <description>Change in sleep start time, in minutes, from baseline week to the last week of intervention. A higher number is a better outcome. Based on actigraph data</description>
+        <time_frame>baseline week (week 0) and the last week of intervention (week 8)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Blue Light Mask</title>
+            <description>Participants started the study wearing the blue mask for 8 weeks.</description>
+          </group>
+          <group group_id="O2">
+            <title>Red Light Mask</title>
+            <description>Participants started the study wearing the red mask every night for 8 weeks.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Sleep Start Time</title>
+          <description>Change in sleep start time, in minutes, from baseline week to the last week of intervention. A higher number is a better outcome. Based on actigraph data</description>
+          <units>minutes</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="34"/>
+                <count group_id="O2" value="34"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9" spread="21"/>
+                    <measurement group_id="O2" value="1" spread="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>20 weeks</time_frame>
+      <desc>data was collected weekly during each 8 week intervention period</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Blue Light</title>
+          <description>This within-subjects, randomized, two-treatment crossover design study consists of two 8-week periods in which each participant wore either the intervention (blue light) or control (red light) mask every night. Subjects will use each condition for eight weeks, with the intervention order counterbalanced across subjects, and a two-week washout period between the two study conditions. The blue mask delivered a flashing blue light for two hours beginning 1 hour after bedtime designed to result in a phase delay of the circadian response curve.</description>
+        </group>
+        <group group_id="E2">
+          <title>Red Light</title>
+          <description>This within-subjects, randomized, two-treatment crossover design study consists of two 8-week periods in which each participant wore either the intervention (blue light) or control (red light) mask every night. Subjects will use each condition for eight weeks, with the intervention order counterbalanced across subjects, and a two-week washout period between the two study conditions. The red mask delivered a flashing red light for two hours beginning 1 hour after bedtime designed to have no effect on the circadian response curve.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="34"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="34"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="13" subjects_at_risk="34"/>
+                <counts group_id="E2" subjects_affected="12" subjects_at_risk="34"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Eye disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Eye Burning</sub_title>
+                <counts group_id="E1" subjects_affected="13" subjects_at_risk="34"/>
+                <counts group_id="E2" subjects_affected="12" subjects_at_risk="34"/>
+              </event>
+              <event>
+                <sub_title>Eye Redness</sub_title>
+                <counts group_id="E1" subjects_affected="10" subjects_at_risk="34"/>
+                <counts group_id="E2" subjects_affected="10" subjects_at_risk="34"/>
+              </event>
+              <event>
+                <sub_title>Eye strain</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="34"/>
+                <counts group_id="E2" subjects_affected="8" subjects_at_risk="34"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" subjects_affected="13" subjects_at_risk="34"/>
+                <counts group_id="E2" subjects_affected="12" subjects_at_risk="34"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>We did not collect circadian marker data (e.g., DLMO) in this field study, it is not known whether any circadian phase shifting resulted. We did not control light during the day which could have counteracted the intervention.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Mariana Figueiro</name_or_title>
+      <organization>Rensselaer Polytechnic Institute</organization>
+      <phone>(518)687-7142</phone>
+      <email>figuem@rpi.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

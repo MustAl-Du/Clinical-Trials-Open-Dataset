@@ -1,0 +1,3335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3543">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01900899</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MENACWY-TT-102</org_study_id>
+    <secondary_id>C0921001</secondary_id>
+    <secondary_id>2012-005816-25</secondary_id>
+    <secondary_id>200088</secondary_id>
+    <nct_id>NCT01900899</nct_id>
+  </id_info>
+  <brief_title>Persistence of Antibodies After Meningococcal Vaccine PF-06866681 in Healthy Children</brief_title>
+  <official_title>A PHASE III, OPEN, MULTI-CENTRE, CONTROLLED STUDY TO EVALUATE THE LONG-TERM ANTIBODY PERSISTENCE AT 2, 3, 4, 5 AND 6 YEARS AFTER A BOOSTER DOSE OF MENINGOCOCCAL SEROGROUP A, C, W-135, Y- TETANUS TOXOID CONJUGATE VACCINE (MENACWY-TT) OR MENINGITEC (REGISTERED) ADMINISTERED IN HEALTHY 5-YEAR-OLD CHILDREN IN STUDY MENACWY-TT-048 EXT: 039 Y2, 3, 4, 5 (112036), WHO WERE PRIMED WITH THE SAME VACCINE IN STUDY MENACWY-TT-039 (109670) AT 12 THROUGH 23 MONTHS OF AGE.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Pfizer</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the long-term antibody persistence as well as safety&#xD;
+      of GSK Biologicals' MenACWY-TT vaccine versus Meningitec up to 6 years after booster&#xD;
+      vaccination administered in healthy 5 year old children in the study MENACWY-TT-048 EXT: 039&#xD;
+      Y2, 3, 4, 5 (NCT00955682), who were primed with the same vaccine in the study MENACWY-TT-039&#xD;
+      (NCT00474266) at 12 through 23 months of age.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The subjects in this study will be allocated to the same groups as in study MENACWY-TT-048&#xD;
+      EXT: 039 Y2, 3, 4, 5 (NCT00955682). No vaccine will be administered during this long-term&#xD;
+      persistence study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">July 2013</start_date>
+  <completion_date type="Actual">November 2017</completion_date>
+  <primary_completion_date type="Actual">November 2017</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of Participants With rSBA-Antibody Titers Greater Than or Equal to (&gt;=) 1:8 For Each of the 4 Serogroups at 24 Months After Booster Vaccination</measure>
+    <time_frame>24 months after booster Vaccination</time_frame>
+    <description>Serogroups included MenA, MenC, MenW-135 and MenY.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants With rSBA-Antibody Titers &gt;= 1:8 For Each of the 4 Serogroups at 36 Months After Booster Vaccination</measure>
+    <time_frame>36 months after booster Vaccination</time_frame>
+    <description>Serogroups included MenA, MenC, MenW-135 and MenY.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants With rSBA-Antibody Titers &gt;=1:8 For Each of the 4 Serogroups at 48 Months After Booster Vaccination</measure>
+    <time_frame>48 months after booster Vaccination</time_frame>
+    <description>Serogroups included MenA, MenC, MenW-135 and MenY.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants With rSBA-Antibody Titers &gt;=1:8 For Each of the 4 Serogroups at 60 Months After Booster Vaccination</measure>
+    <time_frame>60 months after booster Vaccination</time_frame>
+    <description>Serogroups included MenA, MenC, MenW-135 and MenY.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants With rSBA-Antibody Titers &gt;=1:8 For Each of the 4 Serogroups at 72 Months After Booster Vaccination</measure>
+    <time_frame>72 months after booster Vaccination</time_frame>
+    <description>Serogroups included MenA, MenC, MenW-135 and MenY.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants With Serum Bactericidal Assay Using rSBA-Antibody Titers &gt;=1:128 for Each of the 4 Serogroups</measure>
+    <time_frame>24, 36, 48, 60 and 72 months after booster Vaccination</time_frame>
+    <description>Serogroups included MenA, MenC, MenW-135 and MenY.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum Bactericidal Assay Using rSBA Geometric Mean Titers (GMTs) for Each of the 4 Serogroups</measure>
+    <time_frame>24, 36, 48, 60 and 72 months after booster Vaccination</time_frame>
+    <description>Serogroups included MenA, MenC, MenW-135 and MenY.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With Treatment Emergent Serious Adverse Events (SAEs)</measure>
+    <time_frame>Baseline up to the Month 72 after booster vaccination (up to 6 years)</time_frame>
+    <description>An AE was any untoward medical occurrence in a participant who received study drug without regard to possibility of causal relationship. SAE was an AE resulting in any of the following outcomes or deemed significant for any other reason: death; initial or prolonged inpatient hospitalization; life-threatening experience (immediate risk of dying); persistent or significant disability/incapacity; congenital anomaly. Treatment-emergent are events between first dose of study drug and up to 72 months after last dose of study drug that were absent before treatment or that worsened relative to pretreatment state.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants With Serum Bactericidal Assay Using hSBA-Antibody Titers &gt;=1:4 and &gt;=1:8 for Each of the 4 Serogroups</measure>
+    <time_frame>24, 36, 48, 60 and 72 months after booster Vaccination</time_frame>
+    <description>Serogroups included MenA, MenC, MenW-135 and MenY.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum Bactericidal Assay Using hSBA Geometric Mean Titers (GMTs) for Each of the 4 Serogroups</measure>
+    <time_frame>24, 36, 48, 60 and 72 months after booster Vaccination</time_frame>
+    <description>Serogroups included MenA, MenC, MenW-135 and MenY.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">184</enrollment>
+  <condition>Infections, Meningococcal</condition>
+  <arm_group>
+    <arm_group_label>ACWY-TT group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects primed and boosted with the MenACWY-TT vaccine.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>MenCCRM group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Subjects primed and boosted with the Meningitec vaccine.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Blood Sampling</intervention_name>
+    <description>At 2, 3, 4, 5, 6 years after booster vaccination.</description>
+    <arm_group_label>ACWY-TT group</arm_group_label>
+    <arm_group_label>MenCCRM group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        All subjects must satisfy ALL the following criteria at study entry:&#xD;
+&#xD;
+          -  Subjects' parent(s)/Legally Acceptable Representative(s) [LAR(s)] who, in the opinion&#xD;
+             of the investigator, can and will comply with the requirements of the protocol.&#xD;
+&#xD;
+          -  A male or female who has received primary and booster vaccination with the MenACWY-TT&#xD;
+             or Meningitec vaccines in studies MENACWY-TT-039 (109670) and MENACWY-TT-048 EXT: 039&#xD;
+             Y2, 3, 4, 5 (112036), respectively.&#xD;
+&#xD;
+          -  Written informed consent obtained from the parent(s)/LAR(s) of the subject.&#xD;
+&#xD;
+          -  Healthy subjects as established by medical history and clinical examination before&#xD;
+             entering into the study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        The following criteria should be checked at the time of study entry. If ANY exclusion&#xD;
+        criterion applies, the subject must not be included in the study:&#xD;
+&#xD;
+          -  Child in care.&#xD;
+&#xD;
+          -  History of meningococcal disease.&#xD;
+&#xD;
+          -  Administration of a meningococcal polysaccharide or a meningococcal polysaccharide&#xD;
+             conjugate vaccine outside of studies MENACWY-TT-039 (109670) and MENACWY-TT-048 EXT:&#xD;
+             039 Y2, 3, 4, 5 (112036).&#xD;
+&#xD;
+          -  Any confirmed or suspected immunosuppressive or immunodeficient condition, based on&#xD;
+             medical history and physical examination.&#xD;
+&#xD;
+          -  Bleeding disorders, such as thrombocytopenia, or subjects on anti-coagulant therapy.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>Pfizer</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Espoo Vaccine Research Clinic</name>
+      <address>
+        <city>Espoo</city>
+        <zip>02230</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tampereen yliopisto/ Etela-Helsingin rokotetutkimusklinikka</name>
+      <address>
+        <city>Helsinki</city>
+        <zip>00100</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Helsinki East Vaccine Research Clinic</name>
+      <address>
+        <city>Helsinki</city>
+        <zip>00930</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tampereen Yliopisto/ Jarvenpaan rokotetutkimusklinikka</name>
+      <address>
+        <city>Jarvenpaa</city>
+        <zip>60100</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tampereen yliopisto/ Oulun rokotetutkimusklinikka</name>
+      <address>
+        <city>Oulu</city>
+        <zip>90220</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tampereen yliopisto/ Porin rokotetutkimusklinikka</name>
+      <address>
+        <city>Pori</city>
+        <zip>28100</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Seinajoki Vaccine Research Clinic</name>
+      <address>
+        <city>Seinajoki</city>
+        <zip>60100</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tampere Vaccine Research Clinic</name>
+      <address>
+        <city>Tampere</city>
+        <zip>33100</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tampereen yliopisto/ Turun rokotetutkimusklinikka</name>
+      <address>
+        <city>Turku</city>
+        <zip>20520</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tampereen yliopisto/ Ita-Vantaan rokotetutkimusklinikka</name>
+      <address>
+        <city>Vantaa</city>
+        <zip>01300</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Finland</country>
+  </location_countries>
+  <verification_date>March 2019</verification_date>
+  <study_first_submitted>June 27, 2013</study_first_submitted>
+  <study_first_submitted_qc>July 12, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">July 17, 2013</study_first_posted>
+  <results_first_submitted>April 30, 2018</results_first_submitted>
+  <results_first_submitted_qc>March 13, 2019</results_first_submitted_qc>
+  <results_first_posted type="Actual">June 17, 2019</results_first_posted>
+  <last_update_submitted>March 13, 2019</last_update_submitted>
+  <last_update_submitted_qc>March 13, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 17, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Healthy</keyword>
+  <keyword>Immunogenicity</keyword>
+  <keyword>Children</keyword>
+  <keyword>Neisseria meningitidis</keyword>
+  <keyword>Long-term antibody persistence</keyword>
+  <keyword>Safety</keyword>
+  <keyword>Serogroups A, C, W-135, and Y</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Meningococcal Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Pfizer will provide access to individual de-identified participant data and related study documents (e.g. protocol, Statistical Analysis Plan (SAP), Clinical Study Report (CSR)) upon request from qualified researchers, and subject to certain criteria, conditions, and exceptions. Further details on Pfizer's data sharing criteria and process for requesting access can be found at: https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests.</ipd_description>
+    <ipd_url>https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests</ipd_url>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>January 4, 2016</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/99/NCT01900899/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>February 15, 2016</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/99/NCT01900899/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>In this study, participants from the study MENACWY-TT-039 (NCT01900899) and MENACWY-TT-048 EXT (NCT01900899) were followed up for persistence of immune response and safety for a maximum duration of 6 years.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>MenACWY-TT Vaccine</title>
+          <description>Participants who received single 0.5 milliliter (mL) dose of meningococcal A, C, W-135, Y-tetanus toxoid conjugate (MenACWY-TT) vaccine as primary vaccination in study MENACWY-TT-039 and as booster dose in study MENACWY-TT-048 EXT, intramuscularly with a follow up period of 4 years, were observed in this study for a maximum duration of 6 years.</description>
+        </group>
+        <group group_id="P2">
+          <title>MenCCRM Vaccine</title>
+          <description>Participants who received single 0.5 mL dose of meningococcal serogroup C CRM197 conjugated (MenCCRM) vaccine as primary vaccination in study MENACWY-TT-039 and as booster dose in study MENACWY-TT-048 EXT, intramuscularly with a follow up period of 4 years, were observed in this study for a maximum duration of 6 years.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="159"/>
+                <participants group_id="P2" count="25"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="150"/>
+                <participants group_id="P2" count="24"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="9"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="7"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Migrated from study area</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>All eligible participants who received primary and booster vaccination with MenACWY-TT or Meningitec vaccine in studies MENACWY-TT-039 and MENACWY-TT-048 EXT and had available assay results for at least 1 tested antigen.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>MenACWY-TT Vaccine</title>
+          <description>Participants who received single 0.5 mL dose of meningococcal A, C, W-135, Y-tetanus toxoid conjugate (MenACWY-TT) vaccine as primary vaccination in study MENACWY-TT-039 and as booster dose in study MENACWY-TT-048 EXT, intramuscularly with a follow up period of 4 years, were observed in this study for a maximum duration of 6 years.</description>
+        </group>
+        <group group_id="B2">
+          <title>MenCCRM Vaccine</title>
+          <description>Participants who received single 0.5 mL dose of meningococcal serogroup C CRM197 conjugated (MenCCRM) vaccine as primary vaccination in study MENACWY-TT-039 and as booster dose in study MENACWY-TT-048 EXT, intramuscularly with a follow up period of 4 years, were observed in this study for a maximum duration of 6 years.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="159"/>
+            <count group_id="B2" value="25"/>
+            <count group_id="B3" value="184"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>months</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="90.2" spread="6.06"/>
+                    <measurement group_id="B2" value="89.6" spread="5.56"/>
+                    <measurement group_id="B3" value="90.1" spread="5.99"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="74"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="84"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="85"/>
+                    <measurement group_id="B2" value="15"/>
+                    <measurement group_id="B3" value="100"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Race: White-Caucasian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="158"/>
+                    <measurement group_id="B2" value="24"/>
+                    <measurement group_id="B3" value="182"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Race: Other</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Ethnicity: American hispanic</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Ethnicity: Non American hispanic</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="159"/>
+                    <measurement group_id="B2" value="24"/>
+                    <measurement group_id="B3" value="183"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Percentage of Participants With rSBA-Antibody Titers Greater Than or Equal to (&gt;=) 1:8 For Each of the 4 Serogroups at 24 Months After Booster Vaccination</title>
+        <description>Serogroups included MenA, MenC, MenW-135 and MenY.</description>
+        <time_frame>24 months after booster Vaccination</time_frame>
+        <population>All eligible participants who received primary and booster vaccination with MenACWY-TT or Meningitec vaccine in studies MENACWY-TT-039 and MENACWY-TT-048 EXT and had available assay results for at least 1 tested antigen. N (overall number of participants analyzed)=number of participants evaluable for this outcome measure.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>MenACWY-TT Vaccine</title>
+            <description>Participants who received single 0.5 mL dose of meningococcal A, C, W-135, Y-tetanus toxoid conjugate (MenACWY-TT) vaccine as primary vaccination in study MENACWY-TT-039 and as booster dose in study MENACWY-TT-048 EXT, intramuscularly with a follow up period of 4 years, were observed in this study for a maximum duration of 6 years.</description>
+          </group>
+          <group group_id="O2">
+            <title>MenCCRM Vaccine</title>
+            <description>Participants who received single 0.5 mL dose of meningococcal serogroup C CRM197 conjugated (MenCCRM) vaccine as primary vaccination in study MENACWY-TT-039 and as booster dose in study MENACWY-TT-048 EXT, intramuscularly with a follow up period of 4 years, were observed in this study for a maximum duration of 6 years.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants With rSBA-Antibody Titers Greater Than or Equal to (&gt;=) 1:8 For Each of the 4 Serogroups at 24 Months After Booster Vaccination</title>
+          <description>Serogroups included MenA, MenC, MenW-135 and MenY.</description>
+          <population>All eligible participants who received primary and booster vaccination with MenACWY-TT or Meningitec vaccine in studies MENACWY-TT-039 and MENACWY-TT-048 EXT and had available assay results for at least 1 tested antigen. N (overall number of participants analyzed)=number of participants evaluable for this outcome measure.</population>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="123"/>
+                <count group_id="O2" value="21"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>rSBA-MenA</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="98.4" lower_limit="94.2" upper_limit="99.8"/>
+                    <measurement group_id="O2" value="23.8" lower_limit="8.2" upper_limit="47.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>rSBA-MenC</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="97.6" lower_limit="93.0" upper_limit="99.5"/>
+                    <measurement group_id="O2" value="100.0" lower_limit="83.9" upper_limit="100.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>rSBA-MenW-135</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="96.7" lower_limit="91.9" upper_limit="99.1"/>
+                    <measurement group_id="O2" value="9.5" lower_limit="1.2" upper_limit="30.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>rSBA-MenY</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="100.0" lower_limit="97.0" upper_limit="100.0"/>
+                    <measurement group_id="O2" value="33.3" lower_limit="14.6" upper_limit="57.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Percentage of Participants With rSBA-Antibody Titers &gt;= 1:8 For Each of the 4 Serogroups at 36 Months After Booster Vaccination</title>
+        <description>Serogroups included MenA, MenC, MenW-135 and MenY.</description>
+        <time_frame>36 months after booster Vaccination</time_frame>
+        <population>All eligible participants who received primary and booster vaccination with MenACWY-TT or Meningitec vaccine in studies MENACWY-TT-039 and MENACWY-TT-048 EXT and had available assay results for at least 1 tested antigen. Here, N signifies number of participants evaluable for this outcome measure.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>MenACWY-TT Vaccine</title>
+            <description>Participants who received single 0.5 mL dose of meningococcal A, C, W-135, Y-tetanus toxoid conjugate (MenACWY-TT) vaccine as primary vaccination in study MENACWY-TT-039 and as booster dose in study MENACWY-TT-048 EXT, intramuscularly with a follow up period of 4 years, were observed in this study for a maximum duration of 6 years.</description>
+          </group>
+          <group group_id="O2">
+            <title>MenCCRM Vaccine</title>
+            <description>Participants who received single 0.5 mL dose of meningococcal serogroup C CRM197 conjugated (MenCCRM) vaccine as primary vaccination in study MENACWY-TT-039 and as booster dose in study MENACWY-TT-048 EXT, intramuscularly with a follow up period of 4 years, were observed in this study for a maximum duration of 6 years.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants With rSBA-Antibody Titers &gt;= 1:8 For Each of the 4 Serogroups at 36 Months After Booster Vaccination</title>
+          <description>Serogroups included MenA, MenC, MenW-135 and MenY.</description>
+          <population>All eligible participants who received primary and booster vaccination with MenACWY-TT or Meningitec vaccine in studies MENACWY-TT-039 and MENACWY-TT-048 EXT and had available assay results for at least 1 tested antigen. Here, N signifies number of participants evaluable for this outcome measure.</population>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="135"/>
+                <count group_id="O2" value="22"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>rSBA-MenA</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="95.6" lower_limit="90.6" upper_limit="98.4"/>
+                    <measurement group_id="O2" value="18.2" lower_limit="5.2" upper_limit="40.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>rSBA-MenC</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="88.1" lower_limit="81.5" upper_limit="93.1"/>
+                    <measurement group_id="O2" value="77.3" lower_limit="54.6" upper_limit="92.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>rSBA-MenW-135</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="97.8" lower_limit="93.6" upper_limit="99.5"/>
+                    <measurement group_id="O2" value="9.1" lower_limit="1.1" upper_limit="29.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>rSBA-MenY</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="94.8" lower_limit="89.6" upper_limit="97.9"/>
+                    <measurement group_id="O2" value="36.4" lower_limit="17.2" upper_limit="59.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Percentage of Participants With rSBA-Antibody Titers &gt;=1:8 For Each of the 4 Serogroups at 48 Months After Booster Vaccination</title>
+        <description>Serogroups included MenA, MenC, MenW-135 and MenY.</description>
+        <time_frame>48 months after booster Vaccination</time_frame>
+        <population>All eligible participants who received primary and booster vaccination with MenACWY-TT/ Meningitec vaccine in studies MENACWY-TT-039 and MENACWY-TT-048 EXT and had available assay results for at least 1 tested antigen. Here, N=number of participants evaluable for this outcome measure.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>MenACWY-TT Vaccine</title>
+            <description>Participants who received single 0.5 mL dose of meningococcal A, C, W-135, Y-tetanus toxoid conjugate (MenACWY-TT) vaccine as primary vaccination in study MENACWY-TT-039 and as booster dose in study MENACWY-TT-048 EXT, intramuscularly with a follow up period of 4 years, were observed in this study for a maximum duration of 6 years.</description>
+          </group>
+          <group group_id="O2">
+            <title>MenCCRM Vaccine</title>
+            <description>Participants who received single 0.5 mL dose of meningococcal serogroup C CRM197 conjugated (MenCCRM) vaccine as primary vaccination in study MENACWY-TT-039 and as booster dose in study MENACWY-TT-048 EXT, intramuscularly with a follow up period of 4 years, were observed in this study for a maximum duration of 6 years.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants With rSBA-Antibody Titers &gt;=1:8 For Each of the 4 Serogroups at 48 Months After Booster Vaccination</title>
+          <description>Serogroups included MenA, MenC, MenW-135 and MenY.</description>
+          <population>All eligible participants who received primary and booster vaccination with MenACWY-TT/ Meningitec vaccine in studies MENACWY-TT-039 and MENACWY-TT-048 EXT and had available assay results for at least 1 tested antigen. Here, N=number of participants evaluable for this outcome measure.</population>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="139"/>
+                <count group_id="O2" value="23"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>rSBA-MenA</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="139"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="95.0" lower_limit="89.9" upper_limit="98.0"/>
+                    <measurement group_id="O2" value="26.1" lower_limit="10.2" upper_limit="48.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>rSBA-MenC</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="139"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="88.5" lower_limit="82.0" upper_limit="93.3"/>
+                    <measurement group_id="O2" value="100.0" lower_limit="85.2" upper_limit="100.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>rSBA-MenW-135</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="138"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="87.0" lower_limit="80.2" upper_limit="92.1"/>
+                    <measurement group_id="O2" value="17.4" lower_limit="5.0" upper_limit="38.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>rSBA-MenY</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="139"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="95.0" lower_limit="89.9" upper_limit="98.0"/>
+                    <measurement group_id="O2" value="43.5" lower_limit="23.2" upper_limit="65.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Percentage of Participants With rSBA-Antibody Titers &gt;=1:8 For Each of the 4 Serogroups at 60 Months After Booster Vaccination</title>
+        <description>Serogroups included MenA, MenC, MenW-135 and MenY.</description>
+        <time_frame>60 months after booster Vaccination</time_frame>
+        <population>All eligible participants who received primary and booster vaccination with MenACWY-TT/ Meningitec vaccine in studies MENACWY-TT-039 and MENACWY-TT-048 EXT and had available assay results for at least 1 tested antigen. Here, N=number of participants evaluable for this outcome measure.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>MenACWY-TT Vaccine</title>
+            <description>Participants who received single 0.5 mL dose of meningococcal A, C, W-135, Y-tetanus toxoid conjugate (MenACWY-TT) vaccine as primary vaccination in study MENACWY-TT-039 and as booster dose in study MENACWY-TT-048 EXT, intramuscularly with a follow up period of 4 years, were observed in this study for a maximum duration of 6 years.</description>
+          </group>
+          <group group_id="O2">
+            <title>MenCCRM Vaccine</title>
+            <description>Participants who received single 0.5 mL dose of meningococcal serogroup C CRM197 conjugated (MenCCRM) vaccine as primary vaccination in study MENACWY-TT-039 and as booster dose in study MENACWY-TT-048 EXT, intramuscularly with a follow up period of 4 years, were observed in this study for a maximum duration of 6 years.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants With rSBA-Antibody Titers &gt;=1:8 For Each of the 4 Serogroups at 60 Months After Booster Vaccination</title>
+          <description>Serogroups included MenA, MenC, MenW-135 and MenY.</description>
+          <population>All eligible participants who received primary and booster vaccination with MenACWY-TT/ Meningitec vaccine in studies MENACWY-TT-039 and MENACWY-TT-048 EXT and had available assay results for at least 1 tested antigen. Here, N=number of participants evaluable for this outcome measure.</population>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="137"/>
+                <count group_id="O2" value="23"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>rSBA-MenA</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="89.8" lower_limit="83.4" upper_limit="94.3"/>
+                    <measurement group_id="O2" value="0.0" lower_limit="0.0" upper_limit="14.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>rSBA-MenC</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="80.3" lower_limit="72.6" upper_limit="86.6"/>
+                    <measurement group_id="O2" value="78.3" lower_limit="56.3" upper_limit="92.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>rSBA-MenW-135</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="88.3" lower_limit="81.7" upper_limit="93.2"/>
+                    <measurement group_id="O2" value="13.0" lower_limit="2.8" upper_limit="33.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>rSBA-MenY</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="92.7" lower_limit="87.0" upper_limit="96.4"/>
+                    <measurement group_id="O2" value="26.1" lower_limit="10.2" upper_limit="48.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Percentage of Participants With rSBA-Antibody Titers &gt;=1:8 For Each of the 4 Serogroups at 72 Months After Booster Vaccination</title>
+        <description>Serogroups included MenA, MenC, MenW-135 and MenY.</description>
+        <time_frame>72 months after booster Vaccination</time_frame>
+        <population>All eligible participants who received primary and booster vaccination with MenACWY-TT/ Meningitec vaccine in studies MENACWY-TT-039 and MENACWY-TT-048 EXT and had available assay results for at least 1 tested antigen. Here, N=number of participants evaluable for this outcome measure.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>MenACWY-TT Vaccine</title>
+            <description>Participants who received single 0.5 mL dose of meningococcal A, C, W-135, Y-tetanus toxoid conjugate (MenACWY-TT) vaccine as primary vaccination in study MENACWY-TT-039 and as booster dose in study MENACWY-TT-048 EXT, intramuscularly with a follow up period of 4 years, were observed in this study for a maximum duration of 6 years.</description>
+          </group>
+          <group group_id="O2">
+            <title>MenCCRM Vaccine</title>
+            <description>Participants who received single 0.5 mL dose of meningococcal serogroup C CRM197 conjugated (MenCCRM) vaccine as primary vaccination in study MENACWY-TT-039 and as booster dose in study MENACWY-TT-048 EXT, intramuscularly with a follow up period of 4 years, were observed in this study for a maximum duration of 6 years.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants With rSBA-Antibody Titers &gt;=1:8 For Each of the 4 Serogroups at 72 Months After Booster Vaccination</title>
+          <description>Serogroups included MenA, MenC, MenW-135 and MenY.</description>
+          <population>All eligible participants who received primary and booster vaccination with MenACWY-TT/ Meningitec vaccine in studies MENACWY-TT-039 and MENACWY-TT-048 EXT and had available assay results for at least 1 tested antigen. Here, N=number of participants evaluable for this outcome measure.</population>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="134"/>
+                <count group_id="O2" value="23"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>rSBA-MenA</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="92.5" lower_limit="86.7" upper_limit="96.4"/>
+                    <measurement group_id="O2" value="8.7" lower_limit="1.1" upper_limit="28.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>rSBA-MenC</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="71.6" lower_limit="63.2" upper_limit="79.1"/>
+                    <measurement group_id="O2" value="65.2" lower_limit="42.7" upper_limit="83.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>rSBA-MenW-135</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="85.8" lower_limit="78.7" upper_limit="91.2"/>
+                    <measurement group_id="O2" value="13.0" lower_limit="2.8" upper_limit="33.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>rSBA-MenY</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="94.0" lower_limit="88.6" upper_limit="97.4"/>
+                    <measurement group_id="O2" value="13.0" lower_limit="2.8" upper_limit="33.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage of Participants With Serum Bactericidal Assay Using rSBA-Antibody Titers &gt;=1:128 for Each of the 4 Serogroups</title>
+        <description>Serogroups included MenA, MenC, MenW-135 and MenY.</description>
+        <time_frame>24, 36, 48, 60 and 72 months after booster Vaccination</time_frame>
+        <population>All eligible participants who received primary and booster vaccination with MenACWY-TT/ Meningitec vaccine in studies MENACWY-TT-039 and MENACWY-TT-048 EXT and had available assay results for at least 1 tested antigen. N=number of participants evaluable for this outcome measure. 'Number Analyzed' = participants evaluable for specified categories.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>MenACWY-TT Vaccine</title>
+            <description>Participants who received single 0.5 mL dose of meningococcal A, C, W-135, Y-tetanus toxoid conjugate (MenACWY-TT) vaccine as primary vaccination in study MENACWY-TT-039 and as booster dose in study MENACWY-TT-048 EXT, intramuscularly with a follow up period of 4 years, were observed in this study for a maximum duration of 6 years.</description>
+          </group>
+          <group group_id="O2">
+            <title>MenCCRM Vaccine</title>
+            <description>Participants who received single 0.5 mL dose of meningococcal serogroup C CRM197 conjugated (MenCCRM) vaccine as primary vaccination in study MENACWY-TT-039 and as booster dose in study MENACWY-TT-048 EXT, intramuscularly with a follow up period of 4 years, were observed in this study for a maximum duration of 6 years.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants With Serum Bactericidal Assay Using rSBA-Antibody Titers &gt;=1:128 for Each of the 4 Serogroups</title>
+          <description>Serogroups included MenA, MenC, MenW-135 and MenY.</description>
+          <population>All eligible participants who received primary and booster vaccination with MenACWY-TT/ Meningitec vaccine in studies MENACWY-TT-039 and MENACWY-TT-048 EXT and had available assay results for at least 1 tested antigen. N=number of participants evaluable for this outcome measure. 'Number Analyzed' = participants evaluable for specified categories.</population>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="139"/>
+                <count group_id="O2" value="23"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Month 24: rSBA-MenA-1:128</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="123"/>
+                    <count group_id="O2" value="21"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="95.1" lower_limit="89.7" upper_limit="98.2"/>
+                    <measurement group_id="O2" value="14.3" lower_limit="3.0" upper_limit="36.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 24: rSBA-MenC-1:128</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="123"/>
+                    <count group_id="O2" value="21"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="74.8" lower_limit="66.2" upper_limit="82.2"/>
+                    <measurement group_id="O2" value="85.7" lower_limit="63.7" upper_limit="97.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 24: rSBA-MenW-135-1:128</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="123"/>
+                    <count group_id="O2" value="21"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="94.3" lower_limit="88.6" upper_limit="97.7"/>
+                    <measurement group_id="O2" value="9.5" lower_limit="1.2" upper_limit="30.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 24: rSBA-MenY-1:128</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="123"/>
+                    <count group_id="O2" value="21"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="94.3" lower_limit="88.6" upper_limit="97.7"/>
+                    <measurement group_id="O2" value="33.3" lower_limit="14.6" upper_limit="57.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 36: rSBA-MenA-1:128</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="135"/>
+                    <count group_id="O2" value="22"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="83.0" lower_limit="75.5" upper_limit="88.9"/>
+                    <measurement group_id="O2" value="13.6" lower_limit="2.9" upper_limit="34.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 36: rSBA-MenC-1:128</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="135"/>
+                    <count group_id="O2" value="22"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="46.7" lower_limit="38.0" upper_limit="55.4"/>
+                    <measurement group_id="O2" value="40.9" lower_limit="20.7" upper_limit="63.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 36: rSBA-MenW-135-1:128</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="135"/>
+                    <count group_id="O2" value="22"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="88.1" lower_limit="81.5" upper_limit="93.1"/>
+                    <measurement group_id="O2" value="9.1" lower_limit="1.1" upper_limit="29.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 36: rSBA-MenY-1:128</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="135"/>
+                    <count group_id="O2" value="22"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="84.4" lower_limit="77.2" upper_limit="90.1"/>
+                    <measurement group_id="O2" value="36.4" lower_limit="17.2" upper_limit="59.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 48: rSBA-MenA-1:128</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="139"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="83.5" lower_limit="76.2" upper_limit="89.2"/>
+                    <measurement group_id="O2" value="17.4" lower_limit="5.0" upper_limit="38.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 48: rSBA-MenC-1:128</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="139"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="46.0" lower_limit="37.6" upper_limit="54.7"/>
+                    <measurement group_id="O2" value="47.8" lower_limit="26.8" upper_limit="69.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 48: rSBA-MenW-135-1:128</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="138"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="73.9" lower_limit="65.8" upper_limit="81.0"/>
+                    <measurement group_id="O2" value="17.4" lower_limit="5.0" upper_limit="38.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 48: rSBA-MenY-1:128</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="139"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="82.0" lower_limit="74.6" upper_limit="88.0"/>
+                    <measurement group_id="O2" value="43.5" lower_limit="23.2" upper_limit="65.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 60: rSBA-MenA-1:128</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="137"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="73.0" lower_limit="64.7" upper_limit="80.2"/>
+                    <measurement group_id="O2" value="0.0" lower_limit="0.0" upper_limit="14.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 60: rSBA-MenC-1:128</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="137"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="47.4" lower_limit="38.9" upper_limit="56.1"/>
+                    <measurement group_id="O2" value="43.5" lower_limit="23.2" upper_limit="65.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 60: rSBA-MenW-135-1:128</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="137"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="69.3" lower_limit="60.9" upper_limit="76.9"/>
+                    <measurement group_id="O2" value="13.0" lower_limit="2.8" upper_limit="33.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 60: rSBA-MenY-1:128</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="137"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="77.4" lower_limit="69.4" upper_limit="84.1"/>
+                    <measurement group_id="O2" value="21.7" lower_limit="7.5" upper_limit="43.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 72: rSBA-MenA-1:128</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="134"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="78.4" lower_limit="70.4" upper_limit="85.0"/>
+                    <measurement group_id="O2" value="8.7" lower_limit="1.1" upper_limit="28.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 72: rSBA-MenC-1:128</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="134"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="40.3" lower_limit="31.9" upper_limit="49.1"/>
+                    <measurement group_id="O2" value="34.8" lower_limit="16.4" upper_limit="57.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 72: rSBA-MenW-135-1:128</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="134"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="67.2" lower_limit="58.5" upper_limit="75.0"/>
+                    <measurement group_id="O2" value="13.0" lower_limit="2.8" upper_limit="33.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 72: rSBA-MenY-1:128</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="134"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="75.4" lower_limit="67.2" upper_limit="82.4"/>
+                    <measurement group_id="O2" value="13.0" lower_limit="2.8" upper_limit="33.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Serum Bactericidal Assay Using rSBA Geometric Mean Titers (GMTs) for Each of the 4 Serogroups</title>
+        <description>Serogroups included MenA, MenC, MenW-135 and MenY.</description>
+        <time_frame>24, 36, 48, 60 and 72 months after booster Vaccination</time_frame>
+        <population>All eligible participants who received primary and booster vaccination with MenACWY-TT/ Meningitec vaccine in studies MENACWY-TT-039 and MENACWY-TT-048 EXT and had available assay results for at least 1 tested antigen. N=number of participants evaluable for this outcome measure. 'Number Analyzed' = participants evaluable for specified categories.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>MenACWY-TT Vaccine</title>
+            <description>Participants who received single 0.5 mL dose of meningococcal A, C, W-135, Y-tetanus toxoid conjugate (MenACWY-TT) vaccine as primary vaccination in study MENACWY-TT-039 and as booster dose in study MENACWY-TT-048 EXT, intramuscularly with a follow up period of 4 years, were observed in this study for a maximum duration of 6 years.</description>
+          </group>
+          <group group_id="O2">
+            <title>MenCCRM Vaccine</title>
+            <description>Participants who received single 0.5 mL dose of meningococcal serogroup C CRM197 conjugated (MenCCRM) vaccine as primary vaccination in study MENACWY-TT-039 and as booster dose in study MENACWY-TT-048 EXT, intramuscularly with a follow up period of 4 years, were observed in this study for a maximum duration of 6 years.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Serum Bactericidal Assay Using rSBA Geometric Mean Titers (GMTs) for Each of the 4 Serogroups</title>
+          <description>Serogroups included MenA, MenC, MenW-135 and MenY.</description>
+          <population>All eligible participants who received primary and booster vaccination with MenACWY-TT/ Meningitec vaccine in studies MENACWY-TT-039 and MENACWY-TT-048 EXT and had available assay results for at least 1 tested antigen. N=number of participants evaluable for this outcome measure. 'Number Analyzed' = participants evaluable for specified categories.</population>
+          <units>titers</units>
+          <param>Geometric Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="139"/>
+                <count group_id="O2" value="23"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Month 24: rSBA-MenA</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="123"/>
+                    <count group_id="O2" value="21"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1071.2" lower_limit="821.9" upper_limit="1396.2"/>
+                    <measurement group_id="O2" value="9.1" lower_limit="3.9" upper_limit="21.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 24: rSBA-MenC</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="123"/>
+                    <count group_id="O2" value="21"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="174.5" lower_limit="137.5" upper_limit="221.5"/>
+                    <measurement group_id="O2" value="224.3" lower_limit="134.1" upper_limit="375.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 24: rSBA-MenW-135</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="123"/>
+                    <count group_id="O2" value="21"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="859.9" lower_limit="641.6" upper_limit="1152.3"/>
+                    <measurement group_id="O2" value="6.6" lower_limit="3.2" upper_limit="13.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 24: rSBA-MenY</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="123"/>
+                    <count group_id="O2" value="21"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="734.4" lower_limit="584.6" upper_limit="922.5"/>
+                    <measurement group_id="O2" value="18.9" lower_limit="6.6" upper_limit="53.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 36: rSBA-MenA</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="135"/>
+                    <count group_id="O2" value="22"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="376.3" lower_limit="280.7" upper_limit="504.3"/>
+                    <measurement group_id="O2" value="8.8" lower_limit="3.9" upper_limit="19.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 36: rSBA-MenC</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="135"/>
+                    <count group_id="O2" value="22"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="70.6" lower_limit="53.3" upper_limit="93.3"/>
+                    <measurement group_id="O2" value="54.7" lower_limit="25.0" upper_limit="119.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 36: rSBA-MenW-135</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="135"/>
+                    <count group_id="O2" value="22"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="544.5" lower_limit="418.0" upper_limit="709.4"/>
+                    <measurement group_id="O2" value="6.4" lower_limit="3.3" upper_limit="12.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 36: rSBA-MenY</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="135"/>
+                    <count group_id="O2" value="22"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="416.9" lower_limit="313.3" upper_limit="554.9"/>
+                    <measurement group_id="O2" value="20.6" lower_limit="7.6" upper_limit="56.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 48: rSBA-MenA</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="139"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="413.2" lower_limit="310.3" upper_limit="550.2"/>
+                    <measurement group_id="O2" value="10.8" lower_limit="4.7" upper_limit="24.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 48: rSBA-MenC</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="139"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="69.0" lower_limit="52.5" upper_limit="90.7"/>
+                    <measurement group_id="O2" value="62.1" lower_limit="32.1" upper_limit="120.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 48: rSBA-MenW-135</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="138"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="224.7" lower_limit="158.6" upper_limit="318.2"/>
+                    <measurement group_id="O2" value="9.3" lower_limit="4.1" upper_limit="21.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 48: rSBA-MenY</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="139"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="335.1" lower_limit="254.7" upper_limit="440.9"/>
+                    <measurement group_id="O2" value="28.4" lower_limit="10.3" upper_limit="77.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 60: rSBA-MenA</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="137"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="229.0" lower_limit="163.0" upper_limit="321.9"/>
+                    <measurement group_id="O2" value="4.0" lower_limit="NA" upper_limit="NA">CI was not estimable due to the lack of variability of geometric means.</measurement>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 60: rSBA-MenC</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="137"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="66.0" lower_limit="48.1" upper_limit="90.5"/>
+                    <measurement group_id="O2" value="47.3" lower_limit="19.0" upper_limit="117.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 60: rSBA-MenW-135</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="137"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="184.3" lower_limit="130.3" upper_limit="260.6"/>
+                    <measurement group_id="O2" value="8.0" lower_limit="3.6" upper_limit="17.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 60: rSBA-MenY</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="137"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="265.2" lower_limit="190.9" upper_limit="368.4"/>
+                    <measurement group_id="O2" value="13.0" lower_limit="5.2" upper_limit="32.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 72: rSBA-MenA</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="134"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="297.4" lower_limit="214.4" upper_limit="412.5"/>
+                    <measurement group_id="O2" value="5.7" lower_limit="3.4" upper_limit="9.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 72: rSBA-MenC</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="134"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="39.6" lower_limit="28.6" upper_limit="54.6"/>
+                    <measurement group_id="O2" value="33.0" lower_limit="14.7" upper_limit="74.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 72: rSBA-MenW-135</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="134"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="171.9" lower_limit="117.5" upper_limit="251.4"/>
+                    <measurement group_id="O2" value="7.3" lower_limit="3.7" upper_limit="14.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 72: rSBA-MenY</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="134"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="260.0" lower_limit="188.6" upper_limit="358.5"/>
+                    <measurement group_id="O2" value="8.8" lower_limit="3.5" upper_limit="21.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants With Treatment Emergent Serious Adverse Events (SAEs)</title>
+        <description>An AE was any untoward medical occurrence in a participant who received study drug without regard to possibility of causal relationship. SAE was an AE resulting in any of the following outcomes or deemed significant for any other reason: death; initial or prolonged inpatient hospitalization; life-threatening experience (immediate risk of dying); persistent or significant disability/incapacity; congenital anomaly. Treatment-emergent are events between first dose of study drug and up to 72 months after last dose of study drug that were absent before treatment or that worsened relative to pretreatment state.</description>
+        <time_frame>Baseline up to the Month 72 after booster vaccination (up to 6 years)</time_frame>
+        <population>All eligible participants who received primary and booster vaccination with MenACWY-TT or Meningitec vaccine in studies MENACWY-TT-039 and MENACWY-TT-048 EXT and had available assay results for at least 1 tested antigen.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>MenACWY-TT Vaccine</title>
+            <description>Participants who received single 0.5 mL dose of meningococcal A, C, W-135, Y-tetanus toxoid conjugate (MenACWY-TT) vaccine as primary vaccination in study MENACWY-TT-039 and as booster dose in study MENACWY-TT-048 EXT, intramuscularly with a follow up period of 4 years, were observed in this study for a maximum duration of 6 years.</description>
+          </group>
+          <group group_id="O2">
+            <title>MenCCRM Vaccine</title>
+            <description>Participants who received single 0.5 mL dose of meningococcal serogroup C CRM197 conjugated (MenCCRM) vaccine as primary vaccination in study MENACWY-TT-039 and as booster dose in study MENACWY-TT-048 EXT, intramuscularly with a follow up period of 4 years, were observed in this study for a maximum duration of 6 years.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Treatment Emergent Serious Adverse Events (SAEs)</title>
+          <description>An AE was any untoward medical occurrence in a participant who received study drug without regard to possibility of causal relationship. SAE was an AE resulting in any of the following outcomes or deemed significant for any other reason: death; initial or prolonged inpatient hospitalization; life-threatening experience (immediate risk of dying); persistent or significant disability/incapacity; congenital anomaly. Treatment-emergent are events between first dose of study drug and up to 72 months after last dose of study drug that were absent before treatment or that worsened relative to pretreatment state.</description>
+          <population>All eligible participants who received primary and booster vaccination with MenACWY-TT or Meningitec vaccine in studies MENACWY-TT-039 and MENACWY-TT-048 EXT and had available assay results for at least 1 tested antigen.</population>
+          <units>participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="159"/>
+                <count group_id="O2" value="25"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage of Participants With Serum Bactericidal Assay Using hSBA-Antibody Titers &gt;=1:4 and &gt;=1:8 for Each of the 4 Serogroups</title>
+        <description>Serogroups included MenA, MenC, MenW-135 and MenY.</description>
+        <time_frame>24, 36, 48, 60 and 72 months after booster Vaccination</time_frame>
+        <population>All eligible participants who received primary and booster vaccination with MenACWY-TT/ Meningitec vaccine in studies MENACWY-TT-039 and MENACWY-TT-048 EXT and had available assay results for at least 1 tested antigen. N=number of participants evaluable for this outcome measure. 'Number Analyzed' = participants evaluable for specified categories.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>MenACWY-TT Vaccine</title>
+            <description>Participants who received single 0.5 mL dose of meningococcal A, C, W-135, Y-tetanus toxoid conjugate (MenACWY-TT) vaccine as primary vaccination in study MENACWY-TT-039 and as booster dose in study MENACWY-TT-048 EXT, intramuscularly with a follow up period of 4 years, were observed in this study for a maximum duration of 6 years.</description>
+          </group>
+          <group group_id="O2">
+            <title>MenCCRM Vaccine</title>
+            <description>Participants who received single 0.5 mL dose of meningococcal serogroup C CRM197 conjugated (MenCCRM) vaccine as primary vaccination in study MENACWY-TT-039 and as booster dose in study MENACWY-TT-048 EXT, intramuscularly with a follow up period of 4 years, were observed in this study for a maximum duration of 6 years.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants With Serum Bactericidal Assay Using hSBA-Antibody Titers &gt;=1:4 and &gt;=1:8 for Each of the 4 Serogroups</title>
+          <description>Serogroups included MenA, MenC, MenW-135 and MenY.</description>
+          <population>All eligible participants who received primary and booster vaccination with MenACWY-TT/ Meningitec vaccine in studies MENACWY-TT-039 and MENACWY-TT-048 EXT and had available assay results for at least 1 tested antigen. N=number of participants evaluable for this outcome measure. 'Number Analyzed' = participants evaluable for specified categories.</population>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="137"/>
+                <count group_id="O2" value="23"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Month 24: hSBA-MenA&gt;=1:4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="120"/>
+                    <count group_id="O2" value="21"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="70.0" lower_limit="61.0" upper_limit="78.0"/>
+                    <measurement group_id="O2" value="14.3" lower_limit="3.0" upper_limit="36.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 24: hSBA-MenC&gt;=1:4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="121"/>
+                    <count group_id="O2" value="21"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="100.0" lower_limit="97.0" upper_limit="100.0"/>
+                    <measurement group_id="O2" value="100.0" lower_limit="83.9" upper_limit="100.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 24: hSBA-MenW-135&gt;=1:4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="120"/>
+                    <count group_id="O2" value="20"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="100.0" lower_limit="97.0" upper_limit="100.0"/>
+                    <measurement group_id="O2" value="15.0" lower_limit="3.2" upper_limit="37.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 24: hSBA-MenY&gt;=1:4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="120"/>
+                    <count group_id="O2" value="21"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="100.0" lower_limit="97.0" upper_limit="100.0"/>
+                    <measurement group_id="O2" value="28.6" lower_limit="11.3" upper_limit="52.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 36: hSBA-MenA&gt;=1:4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="133"/>
+                    <count group_id="O2" value="21"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="77.4" lower_limit="69.4" upper_limit="84.2"/>
+                    <measurement group_id="O2" value="14.3" lower_limit="3.0" upper_limit="36.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 36: hSBA-MenC&gt;=1:4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="131"/>
+                    <count group_id="O2" value="22"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="100.0" lower_limit="97.2" upper_limit="100.0"/>
+                    <measurement group_id="O2" value="100.0" lower_limit="84.6" upper_limit="100.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 36: hSBA-MenW-135&gt;=1:4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="134"/>
+                    <count group_id="O2" value="22"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="100.0" lower_limit="97.3" upper_limit="100.0"/>
+                    <measurement group_id="O2" value="18.2" lower_limit="5.2" upper_limit="40.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 36: hSBA-MenY&gt;=1:4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="133"/>
+                    <count group_id="O2" value="20"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="99.3" lower_limit="95.9" upper_limit="100.0"/>
+                    <measurement group_id="O2" value="40.0" lower_limit="19.1" upper_limit="63.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 48: hSBA-MenA&gt;=1:4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="129"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="72.9" lower_limit="64.3" upper_limit="80.3"/>
+                    <measurement group_id="O2" value="34.8" lower_limit="16.4" upper_limit="57.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 48: hSBA-MenC&gt;=1:4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="133"/>
+                    <count group_id="O2" value="22"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="98.5" lower_limit="94.7" upper_limit="99.8"/>
+                    <measurement group_id="O2" value="100.0" lower_limit="84.6" upper_limit="100.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 48: hSBA-MenW-135&gt;=1:4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="137"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="100.0" lower_limit="97.3" upper_limit="100.0"/>
+                    <measurement group_id="O2" value="4.3" lower_limit="0.1" upper_limit="21.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 48: hSBA-MenY&gt;=1:4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="132"/>
+                    <count group_id="O2" value="21"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="97.0" lower_limit="92.4" upper_limit="99.2"/>
+                    <measurement group_id="O2" value="28.6" lower_limit="11.3" upper_limit="52.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 60: hSBA-MenA&gt;=1:4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="135"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="53.3" lower_limit="44.6" upper_limit="62.0"/>
+                    <measurement group_id="O2" value="0.0" lower_limit="0.0" upper_limit="14.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 60: hSBA-MenC&gt;=1:4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="136"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="99.3" lower_limit="96.0" upper_limit="100.0"/>
+                    <measurement group_id="O2" value="100.0" lower_limit="85.2" upper_limit="100.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 60: hSBA-MenW-135&gt;=1:4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="136"/>
+                    <count group_id="O2" value="22"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="100.0" lower_limit="97.3" upper_limit="100.0"/>
+                    <measurement group_id="O2" value="4.5" lower_limit="0.1" upper_limit="22.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 60: hSBA-MenY&gt;=1:4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="137"/>
+                    <count group_id="O2" value="22"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="97.8" lower_limit="93.7" upper_limit="99.5"/>
+                    <measurement group_id="O2" value="40.9" lower_limit="20.7" upper_limit="63.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 72: hSBA-MenA&gt;=1:4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="130"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="58.5" lower_limit="49.5" upper_limit="67.0"/>
+                    <measurement group_id="O2" value="13.0" lower_limit="2.8" upper_limit="33.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 72: hSBA-MenC&gt;=1:4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="130"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="98.5" lower_limit="94.6" upper_limit="99.8"/>
+                    <measurement group_id="O2" value="100.0" lower_limit="85.2" upper_limit="100"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 72: hSBA-MenW-135&gt;=1:4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="133"/>
+                    <count group_id="O2" value="21"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="98.5" lower_limit="94.7" upper_limit="99.8"/>
+                    <measurement group_id="O2" value="9.5" lower_limit="1.2" upper_limit="30.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 72: hSBA-MenY&gt;=1:4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="131"/>
+                    <count group_id="O2" value="21"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="97.7" lower_limit="93.5" upper_limit="99.5"/>
+                    <measurement group_id="O2" value="33.3" lower_limit="14.6" upper_limit="57.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 24: hSBA-MenA&gt;=1:8</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="120"/>
+                    <count group_id="O2" value="21"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="70.0" lower_limit="61.0" upper_limit="78.0"/>
+                    <measurement group_id="O2" value="14.3" lower_limit="3.0" upper_limit="36.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 24: hSBA-MenC&gt;=1:8</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="121"/>
+                    <count group_id="O2" value="21"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="99.2" lower_limit="95.5" upper_limit="100.0"/>
+                    <measurement group_id="O2" value="100.0" lower_limit="83.9" upper_limit="100.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 24: hSBA-MenW-135&gt;=1:8</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="120"/>
+                    <count group_id="O2" value="20"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="100.0" lower_limit="97.0" upper_limit="100.0"/>
+                    <measurement group_id="O2" value="15.0" lower_limit="3.2" upper_limit="37.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 24: hSBA-MenY&gt;=1:8</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="120"/>
+                    <count group_id="O2" value="21"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="100.0" lower_limit="97.0" upper_limit="100.0"/>
+                    <measurement group_id="O2" value="28.6" lower_limit="11.3" upper_limit="52.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 36: hSBA-MenA&gt;=1:8</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="133"/>
+                    <count group_id="O2" value="21"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="77.4" lower_limit="69.4" upper_limit="84.2"/>
+                    <measurement group_id="O2" value="9.5" lower_limit="1.2" upper_limit="30.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 36: hSBA-MenC&gt;=1:8</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="131"/>
+                    <count group_id="O2" value="22"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="99.2" lower_limit="95.8" upper_limit="100.0"/>
+                    <measurement group_id="O2" value="100.0" lower_limit="84.6" upper_limit="100.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 36: hSBA-MenW-135&gt;=1:8</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="134"/>
+                    <count group_id="O2" value="22"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="100.0" lower_limit="97.3" upper_limit="100.0"/>
+                    <measurement group_id="O2" value="18.2" lower_limit="5.2" upper_limit="40.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 36: hSBA-MenY&gt;=1:8</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="134"/>
+                    <count group_id="O2" value="20"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="99.3" lower_limit="95.9" upper_limit="100.0"/>
+                    <measurement group_id="O2" value="40.0" lower_limit="19.1" upper_limit="63.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 48: hSBA-MenA&gt;=1:8</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="129"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="71.3" lower_limit="62.7" upper_limit="78.9"/>
+                    <measurement group_id="O2" value="34.8" lower_limit="16.4" upper_limit="57.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 48: hSBA-MenC&gt;=1:8</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="133"/>
+                    <count group_id="O2" value="22"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="97.7" lower_limit="93.5" upper_limit="99.5"/>
+                    <measurement group_id="O2" value="100.0" lower_limit="84.6" upper_limit="100.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 48: hSBA-MenW-135&gt;=1:8</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="137"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="100.0" lower_limit="97.3" upper_limit="100.0"/>
+                    <measurement group_id="O2" value="4.3" lower_limit="0.1" upper_limit="21.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 48: hSBA-MenY&gt;=1:8</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="132"/>
+                    <count group_id="O2" value="21"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="97.0" lower_limit="92.4" upper_limit="99.2"/>
+                    <measurement group_id="O2" value="28.6" lower_limit="11.3" upper_limit="52.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 60: hSBA-MenA&gt;=1:8</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="135"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="53.3" lower_limit="44.6" upper_limit="62.0"/>
+                    <measurement group_id="O2" value="0.0" lower_limit="0.0" upper_limit="14.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 60: hSBA-MenC&gt;=1:8</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="136"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="99.3" lower_limit="96.0" upper_limit="100.0"/>
+                    <measurement group_id="O2" value="100.0" lower_limit="85.2" upper_limit="100.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 60: hSBA-MenW-135&gt;=1:8</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="136"/>
+                    <count group_id="O2" value="22"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="100.0" lower_limit="97.3" upper_limit="100.0"/>
+                    <measurement group_id="O2" value="4.5" lower_limit="0.1" upper_limit="22.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 60: hSBA-MenY&gt;=1:8</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="137"/>
+                    <count group_id="O2" value="22"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="97.8" lower_limit="93.7" upper_limit="99.5"/>
+                    <measurement group_id="O2" value="40.9" lower_limit="20.7" upper_limit="63.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 72: hSBA-MenA&gt;=1:8</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="130"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="58.5" lower_limit="49.5" upper_limit="67.0"/>
+                    <measurement group_id="O2" value="13.0" lower_limit="2.8" upper_limit="33.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 72: hSBA-MenC&gt;=1:8</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="130"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="97.7" lower_limit="93.4" upper_limit="99.5"/>
+                    <measurement group_id="O2" value="95.7" lower_limit="78.1" upper_limit="99.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 72: hSBA-MenW-135&gt;=1:8</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="133"/>
+                    <count group_id="O2" value="21"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="98.5" lower_limit="94.7" upper_limit="99.8"/>
+                    <measurement group_id="O2" value="9.5" lower_limit="1.2" upper_limit="30.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 72: hSBA-MenY&gt;=1:8</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="131"/>
+                    <count group_id="O2" value="21"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="97.7" lower_limit="93.5" upper_limit="99.5"/>
+                    <measurement group_id="O2" value="33.3" lower_limit="14.6" upper_limit="57.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Serum Bactericidal Assay Using hSBA Geometric Mean Titers (GMTs) for Each of the 4 Serogroups</title>
+        <description>Serogroups included MenA, MenC, MenW-135 and MenY.</description>
+        <time_frame>24, 36, 48, 60 and 72 months after booster Vaccination</time_frame>
+        <population>All eligible participants who received primary and booster vaccination with MenACWY-TT/ Meningitec vaccine in studies MENACWY-TT-039 and MENACWY-TT-048 EXT and had available assay results for at least 1 tested antigen. N=number of participants evaluable for this outcome measure. 'Number Analyzed' = participants evaluable for specified categories.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>MenACWY-TT Vaccine</title>
+            <description>Participants who received single 0.5 mL dose of meningococcal A, C, W-135, Y-tetanus toxoid conjugate (MenACWY-TT) vaccine as primary vaccination in study MENACWY-TT-039 and as booster dose in study MENACWY-TT-048 EXT, intramuscularly with a follow up period of 4 years, were observed in this study for a maximum duration of 6 years.</description>
+          </group>
+          <group group_id="O2">
+            <title>MenCCRM Vaccine</title>
+            <description>Participants who received single 0.5 mL dose of meningococcal serogroup C CRM197 conjugated (MenCCRM) vaccine as primary vaccination in study MENACWY-TT-039 and as booster dose in study MENACWY-TT-048 EXT, intramuscularly with a follow up period of 4 years, were observed in this study for a maximum duration of 6 years.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Serum Bactericidal Assay Using hSBA Geometric Mean Titers (GMTs) for Each of the 4 Serogroups</title>
+          <description>Serogroups included MenA, MenC, MenW-135 and MenY.</description>
+          <population>All eligible participants who received primary and booster vaccination with MenACWY-TT/ Meningitec vaccine in studies MENACWY-TT-039 and MENACWY-TT-048 EXT and had available assay results for at least 1 tested antigen. N=number of participants evaluable for this outcome measure. 'Number Analyzed' = participants evaluable for specified categories.</population>
+          <units>titers</units>
+          <param>Geometric Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="137"/>
+                <count group_id="O2" value="23"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Month 24: hSBA-MenA</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="120"/>
+                    <count group_id="O2" value="21"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="33.2" lower_limit="22.9" upper_limit="48.3"/>
+                    <measurement group_id="O2" value="2.9" lower_limit="1.9" upper_limit="4.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 24: hSBA-MenC</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="121"/>
+                    <count group_id="O2" value="21"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="510.08" lower_limit="389.8" upper_limit="669.3"/>
+                    <measurement group_id="O2" value="424.9" lower_limit="188.3" upper_limit="958.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 24: hSBA-MenW-135</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="120"/>
+                    <count group_id="O2" value="20"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="991.3" lower_limit="852.0" upper_limit="1153.5"/>
+                    <measurement group_id="O2" value="3.4" lower_limit="1.9" upper_limit="6.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 24: hSBA-MenY</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="120"/>
+                    <count group_id="O2" value="21"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="575.4" lower_limit="488.3" upper_limit="678.1"/>
+                    <measurement group_id="O2" value="4.6" lower_limit="2.5" upper_limit="8.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 36: hSBA-MenA</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="133"/>
+                    <count group_id="O2" value="21"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="44.6" lower_limit="32.2" upper_limit="61.7"/>
+                    <measurement group_id="O2" value="2.6" lower_limit="1.9" upper_limit="3.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 36: hSBA-MenC</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="131"/>
+                    <count group_id="O2" value="22"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="343.3" lower_limit="270.2" upper_limit="436.2"/>
+                    <measurement group_id="O2" value="226.7" lower_limit="135.5" upper_limit="379.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 36: hSBA-MenW-135</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="134"/>
+                    <count group_id="O2" value="22"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="738.8" lower_limit="640.6" upper_limit="852.0"/>
+                    <measurement group_id="O2" value="3.5" lower_limit="2.0" upper_limit="6.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 36: hSBA-MenY</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="134"/>
+                    <count group_id="O2" value="20"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="691.9" lower_limit="579.8" upper_limit="825.6"/>
+                    <measurement group_id="O2" value="7.4" lower_limit="3.4" upper_limit="16.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 48: hSBA-MenA</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="129"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="27.7" lower_limit="20.2" upper_limit="38.1"/>
+                    <measurement group_id="O2" value="4.2" lower_limit="2.6" upper_limit="6.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 48: hSBA-MenC</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="133"/>
+                    <count group_id="O2" value="22"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="232.3" lower_limit="176.6" upper_limit="305.6"/>
+                    <measurement group_id="O2" value="182.6" lower_limit="109.9" upper_limit="303.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 48: hSBA-MenW-135</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="137"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="600.0" lower_limit="506.0" upper_limit="711.5"/>
+                    <measurement group_id="O2" value="2.3" lower_limit="1.7" upper_limit="3.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 48: hSBA-MenY</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="132"/>
+                    <count group_id="O2" value="21"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="495.0" lower_limit="393.4" upper_limit="622.7"/>
+                    <measurement group_id="O2" value="5.0" lower_limit="2.5" upper_limit="8.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 60: hSBA-MenA</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="135"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="13.2" lower_limit="9.6" upper_limit="18.3"/>
+                    <measurement group_id="O2" value="2.0" lower_limit="NA" upper_limit="NA">CI was not estimable due to the lack of variability of geometric means.</measurement>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 60: hSBA-MenC</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="136"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="337.1" lower_limit="261.3" upper_limit="434.9"/>
+                    <measurement group_id="O2" value="241.3" lower_limit="138.7" upper_limit="419.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 60: hSBA-MenW-135</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="136"/>
+                    <count group_id="O2" value="22"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="326.8" lower_limit="275.6" upper_limit="387.5"/>
+                    <measurement group_id="O2" value="2.4" lower_limit="1.6" upper_limit="3.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 60: hSBA-MenY</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="137"/>
+                    <count group_id="O2" value="22"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="398.7" lower_limit="320.8" upper_limit="495.4"/>
+                    <measurement group_id="O2" value="7.6" lower_limit="3.5" upper_limit="16.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 72: hSBA-MenA</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="130"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="14.4" lower_limit="10.5" upper_limit="19.7"/>
+                    <measurement group_id="O2" value="2.8" lower_limit="1.9" upper_limit="4.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 72: hSBA-MenC</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="130"/>
+                    <count group_id="O2" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="259.1" lower_limit="194.7" upper_limit="344.7"/>
+                    <measurement group_id="O2" value="169.4" lower_limit="94.1" upper_limit="304.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 72: hSBA-MenW-135</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="133"/>
+                    <count group_id="O2" value="21"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="314.4" lower_limit="255.1" upper_limit="387.6"/>
+                    <measurement group_id="O2" value="2.5" lower_limit="1.8" upper_limit="3.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 72: hSBA-MenY</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="131"/>
+                    <count group_id="O2" value="21"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="315.6" lower_limit="252.7" upper_limit="394.0"/>
+                    <measurement group_id="O2" value="8.0" lower_limit="3.1" upper_limit="20.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Baseline up to the Month 72 after booster vaccination (up to 6 years)</time_frame>
+      <desc>Same event may appear as both an AE and SAE. However, what is presented are distinct events. An event may be categorized as serious in one participant and as non-serious in another, or a participant may have experienced both a serious and non-serious event.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>MenACWY-TT Vaccine</title>
+          <description>Participants who received single 0.5 mL dose of meningococcal A, C, W-135, Y-tetanus toxoid conjugate (MenACWY-TT) vaccine as primary vaccination in study MENACWY-TT-039 and as booster dose in study MENACWY-TT-048 EXT, intramuscularly with a follow up period of 4 years, were observed in this study for a maximum duration of 6 years.</description>
+        </group>
+        <group group_id="E2">
+          <title>MenCCRM Vaccine</title>
+          <description>Participants who received single 0.5 mL dose of meningococcal serogroup C CRM197 conjugated (MenCCRM) vaccine as primary vaccination in study MENACWY-TT-039 and as booster dose in study MENACWY-TT-048 EXT, intramuscularly with a follow up period of 4 years, were observed in this study for a maximum duration of 6 years.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="159"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="25"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="159"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="25"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_vocab>MedDRA v20.0</default_vocab>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="159"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="25"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Juvenile idiopathic arthritis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="159"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="25"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>Pfizer has the right to review disclosures, requesting a delay of less than 60 days. Investigator will postpone single center publications until after disclosure of pooled data (all sites), less than 12 months from study completion/termination at all participating sites. Investigator may not disclose previously undisclosed confidential information other than study results.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Pfizer ClinicalTrials.gov Call Center</name_or_title>
+      <organization>Pfizer, Inc.</organization>
+      <phone>1-800-718-1021</phone>
+      <email>ClinicalTrials.gov_Inquiries@pfizer.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3760">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01728194</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1205012392</org_study_id>
+    <secondary_id>1R01MH097735-01</secondary_id>
+    <nct_id>NCT01728194</nct_id>
+  </id_info>
+  <brief_title>Emotional and Cognitive Control in Late-Onset Depression</brief_title>
+  <official_title>White Matter and Emotional and Cognitive Control in Late-Onset Depression</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Weill Medical College of Cornell University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Mental Health (NIMH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Weill Medical College of Cornell University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study may help identify how abnormalities in brain systems that control the ability to&#xD;
+      ignore irrelevant information may contribute to the development of depression in older&#xD;
+      adults.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Approximately half of those who develop depression in late life never had depression before.&#xD;
+      The classic view is that changes taking place in our brains as we age contribute to the&#xD;
+      development of late-onset depression. This view is supported by the relative absence of&#xD;
+      family history for those with late onset depression. This research study will recruit 70&#xD;
+      older adults with late life depression and 70 older adults without depression. All&#xD;
+      participants will receive a sub-clinical, non-contrast (magnetic resonance imaging (MRI) scan&#xD;
+      at the beginning of the study and then again 12 weeks later at the completion of the study.&#xD;
+      The depressed older participants will also receive a Food and Drug Administration&#xD;
+      (FDA)-approved antidepressant, escitalopram (Lexapro), as treatment for their depressive&#xD;
+      symptoms over 12 weeks. This MRI study may help the researchers identify how abnormalities in&#xD;
+      brain systems that control our ability to ignore distractions, control our emotions, and&#xD;
+      anticipate reward may contribute to the development of depression in older adults. The&#xD;
+      investigators hope that the findings promote the development of tests that may improve the&#xD;
+      detection of older adults at risk for poor treatment outcomes and eventually guide the&#xD;
+      development of novel treatments for depression.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">July 2012</start_date>
+  <completion_date type="Actual">July 31, 2019</completion_date>
+  <primary_completion_date type="Actual">July 31, 2019</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Depression Severity (Measured by Montgomery Asberg Depression Rating Scale)</measure>
+    <time_frame>Baseline (Study Entry / Before Tx) and Week 12 (Following Tx)</time_frame>
+    <description>Depression severity at baseline and week 12 in participants with MDD vs. controls, measured by score on the Montgomery Asberg Depression Rating Scale (MADRS). This measure is a clinical rating of mood with a score range from 0 to 60. Higher scores indicate greater depression severity.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Depression Severity (Measured by Hamilton Depression Rating Scale)</measure>
+    <time_frame>Baseline (Study Entry / Before Tx) and Week 12 (Following Tx)</time_frame>
+    <description>Depression severity at baseline and week 12 in participants with MDD vs. controls, measured by score on the Hamilton Depression Rating Scale (HAM-D). This measure is a clinical rating of mood with a score range from 0 to 76. Higher scores indicate greater depression severity.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">121</enrollment>
+  <condition>Depression</condition>
+  <arm_group>
+    <arm_group_label>Escitalopram</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Target dose 20mg for 12 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Non-psychiatric comparison participants.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Escitalopram</intervention_name>
+    <description>20 mg target dose for 12 weeks</description>
+    <arm_group_label>Escitalopram</arm_group_label>
+    <other_name>Lexapro</other_name>
+    <other_name>76184942</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Magnetic Resonance Imaging</intervention_name>
+    <description>Structural and functional MRI of the brain for research purposes.</description>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_label>Escitalopram</arm_group_label>
+    <other_name>MRI</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age: 60-85 years, right-handed;&#xD;
+&#xD;
+          -  Diagnosis: Major depression, unipolar (by Structured Clinical Interview for Diagnostic&#xD;
+             and Statistical Manual (DSM)IV (SCID-R) and DSM-IV criteria);&#xD;
+&#xD;
+          -  Age of onset of first episode ≥ 50 years with up to three depressive episodes;&#xD;
+&#xD;
+          -  Severity of depression: A 24-Item Hamilton Depression Rating Scale (HDRS) ≥ 20.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Psychotic depression by DSM-IV, i.e., presence of delusions with a SCID-R score higher&#xD;
+             than 2;&#xD;
+&#xD;
+          -  High suicide risk, i.e. intent or plan to attempt suicide in near future;&#xD;
+&#xD;
+          -  Presence of any Axis I psychiatric disorder (other than unipolar major depression) or&#xD;
+             substance abuse;&#xD;
+&#xD;
+          -  History of psychiatric disorders other than unipolar major depression or generalized&#xD;
+             anxiety disorder (bipolar disorder, hypomania, and dysthymia are exclusion criteria);&#xD;
+&#xD;
+          -  Dementia: Diagnosis of dementia by DSM-IV;&#xD;
+&#xD;
+          -  Mild Cognitive Impairment (MCI);&#xD;
+&#xD;
+          -  Acute or severe medical illness, i.e., delirium, metastatic cancer, decompensated&#xD;
+             cardiac, liver or kidney failure, major surgery, stroke or myocardial infarction&#xD;
+             during the three months prior to entry; or use of drugs known to cause depression,&#xD;
+             e.g., reserpine, alpha-methyl-dopa, steroids, sympathomimetics withdrawal;&#xD;
+&#xD;
+          -  Neurological brain disease and/or history of electroconvulsive therapy;&#xD;
+&#xD;
+          -  History of any use of citalopram or escitalopram during the current episode or need&#xD;
+             for drugs that may interact with these agents, i.e. drug metabolized by the 2D6 P450&#xD;
+             isoenzyme system;&#xD;
+&#xD;
+          -  Current involvement in psychotherapy;&#xD;
+&#xD;
+          -  Contraindications to MRI scanning including cardiac pacemaker, metallic objects and&#xD;
+             metallic implants contraindicating MRI, cardiac stent, claustrophobia;&#xD;
+&#xD;
+          -  Inability to speak English;&#xD;
+&#xD;
+          -  Corrected visual acuity &lt; 20/70; Color blindness.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Faith Gunning, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Weill Medical College of Cornell University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Weill Cornell Medical College</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Weill Cornell Medical College - Westchester Division</name>
+      <address>
+        <city>White Plains</city>
+        <state>New York</state>
+        <zip>10605</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Victoria LW, Alexopoulos GS, Ilieva I, Stein AT, Hoptman MJ, Chowdhury N, Respino M, Morimoto SS, Kanellopoulos D, Avari JN, Gunning FM. White matter abnormalities predict residual negative self-referential thinking following treatment of late-life depression with escitalopram: A preliminary study. J Affect Disord. 2019 Jan 15;243:62-69. doi: 10.1016/j.jad.2018.09.013. Epub 2018 Sep 11.</citation>
+    <PMID>30236759</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>November 12, 2012</study_first_submitted>
+  <study_first_submitted_qc>November 12, 2012</study_first_submitted_qc>
+  <study_first_posted type="Estimate">November 16, 2012</study_first_posted>
+  <results_first_submitted>September 11, 2020</results_first_submitted>
+  <results_first_submitted_qc>September 11, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">October 6, 2020</results_first_posted>
+  <disposition_first_submitted>June 15, 2020</disposition_first_submitted>
+  <disposition_first_submitted_qc>June 15, 2020</disposition_first_submitted_qc>
+  <disposition_first_posted type="Actual">June 17, 2020</disposition_first_posted>
+  <last_update_submitted>September 11, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 11, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 6, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Depression</keyword>
+  <keyword>Depressive Disorder</keyword>
+  <keyword>Behavioral Symptoms</keyword>
+  <keyword>Mood Disorders</keyword>
+  <keyword>Mental Disorders</keyword>
+  <keyword>Escitalopram</keyword>
+  <keyword>Central Nervous System Agents</keyword>
+  <keyword>Therapeutic Uses</keyword>
+  <keyword>Pharmacologic Actions</keyword>
+  <keyword>Physiological Effects of Drugs</keyword>
+  <keyword>Muscarinic Antagonists</keyword>
+  <keyword>Antidepressive Agents</keyword>
+  <keyword>Psychotropic Drugs</keyword>
+  <keyword>Serotonin Uptake Inhibitors</keyword>
+  <keyword>Neurotransmitter Uptake Inhibitors</keyword>
+  <keyword>Serotonin Agents</keyword>
+  <keyword>Magnetic Resonance Imaging, Functional</keyword>
+  <keyword>fMRI</keyword>
+  <keyword>Magnetic Resonance Imaging</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Depressive Disorder</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Citalopram</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>July 15, 2019</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/94/NCT01728194/SAP_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>March 24, 2015</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/94/NCT01728194/Prot_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>MDD (Escitalopram Tx)</title>
+          <description>Target dose 20mg for 12 weeks&#xD;
+Escitalopram: 20 mg target dose for 12 weeks</description>
+        </group>
+        <group group_id="P2">
+          <title>Control</title>
+          <description>No treatment (healthy comparison participants with no history or presence of psychiatric disorder)</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="54"/>
+                <participants group_id="P2" count="67"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="34"/>
+                <participants group_id="P2" count="61"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="20"/>
+                <participants group_id="P2" count="6"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+                <participants group_id="P2" count="3"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Physician Decision</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="7"/>
+                <participants group_id="P2" count="3"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Perceived Medication Side Effects</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Family Member Request</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>MDD (Escitalopram Tx)</title>
+          <description>Target dose 20mg for 12 weeks&#xD;
+Escitalopram: 20 mg target dose for 12 weeks</description>
+        </group>
+        <group group_id="B2">
+          <title>Control</title>
+          <description>No treatment (healthy comparison participants with no history or presence of psychiatric disorder)</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="54"/>
+            <count group_id="B2" value="67"/>
+            <count group_id="B3" value="121"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="19"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="44"/>
+                    <measurement group_id="B2" value="58"/>
+                    <measurement group_id="B3" value="102"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="71.76" spread="6.77"/>
+                    <measurement group_id="B2" value="72.36" spread="6.17"/>
+                    <measurement group_id="B3" value="72.09" spread="6.43"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex/Gender, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Female</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="33"/>
+                    <measurement group_id="B2" value="39"/>
+                    <measurement group_id="B3" value="72"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Male</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="21"/>
+                    <measurement group_id="B2" value="28"/>
+                    <measurement group_id="B3" value="49"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="48"/>
+                    <measurement group_id="B2" value="67"/>
+                    <measurement group_id="B3" value="115"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="7"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="48"/>
+                    <measurement group_id="B2" value="60"/>
+                    <measurement group_id="B3" value="108"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="54"/>
+                    <measurement group_id="B2" value="67"/>
+                    <measurement group_id="B3" value="121"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Diagnostic Status</title>
+          <description>Diagnostic status based on structured clinical interview (binary outcome of &quot;depressed&quot; (MDD group) or &quot;not depressed&quot; (control group) by DSM-IV / SCID criteria)</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="54"/>
+                    <measurement group_id="B2" value="67"/>
+                    <measurement group_id="B3" value="121"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in Depression Severity (Measured by Montgomery Asberg Depression Rating Scale)</title>
+        <description>Depression severity at baseline and week 12 in participants with MDD vs. controls, measured by score on the Montgomery Asberg Depression Rating Scale (MADRS). This measure is a clinical rating of mood with a score range from 0 to 60. Higher scores indicate greater depression severity.</description>
+        <time_frame>Baseline (Study Entry / Before Tx) and Week 12 (Following Tx)</time_frame>
+        <population>4 participants in the Escitalopram group and 4 participants in the Control group do not have follow-up MADRS data and have therefore been excluded from Week 12 analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Escitalopram</title>
+            <description>Patients diagnosed with MDD receiving 12-week Escitalopram intervention</description>
+          </group>
+          <group group_id="O2">
+            <title>Control</title>
+            <description>No Intervention / Non-psychiatric comparison participants</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Depression Severity (Measured by Montgomery Asberg Depression Rating Scale)</title>
+          <description>Depression severity at baseline and week 12 in participants with MDD vs. controls, measured by score on the Montgomery Asberg Depression Rating Scale (MADRS). This measure is a clinical rating of mood with a score range from 0 to 60. Higher scores indicate greater depression severity.</description>
+          <population>4 participants in the Escitalopram group and 4 participants in the Control group do not have follow-up MADRS data and have therefore been excluded from Week 12 analysis.</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="54"/>
+                <count group_id="O2" value="67"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline Depression Severity</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="54"/>
+                    <count group_id="O2" value="67"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="25.26" spread="4.65"/>
+                    <measurement group_id="O2" value="1.03" spread="1.36"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 12 Depression Severity</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="50"/>
+                    <count group_id="O2" value="63"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="13.78" spread="9.07"/>
+                    <measurement group_id="O2" value="1.08" spread="1.43"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>&lt; 0.025</p_value>
+            <method>Mixed Models Analysis</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Depression Severity (Measured by Hamilton Depression Rating Scale)</title>
+        <description>Depression severity at baseline and week 12 in participants with MDD vs. controls, measured by score on the Hamilton Depression Rating Scale (HAM-D). This measure is a clinical rating of mood with a score range from 0 to 76. Higher scores indicate greater depression severity.</description>
+        <time_frame>Baseline (Study Entry / Before Tx) and Week 12 (Following Tx)</time_frame>
+        <population>4 participants in the Escitalopram group and 3 participants in the Control group do not have follow-up MADRS data and have therefore been excluded from Week 12 analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Escitalopram</title>
+            <description>Patients diagnosed with MDD receiving 12-week Escitalopram intervention</description>
+          </group>
+          <group group_id="O2">
+            <title>Control</title>
+            <description>No Intervention / Non-psychiatric comparison participants</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Depression Severity (Measured by Hamilton Depression Rating Scale)</title>
+          <description>Depression severity at baseline and week 12 in participants with MDD vs. controls, measured by score on the Hamilton Depression Rating Scale (HAM-D). This measure is a clinical rating of mood with a score range from 0 to 76. Higher scores indicate greater depression severity.</description>
+          <population>4 participants in the Escitalopram group and 3 participants in the Control group do not have follow-up MADRS data and have therefore been excluded from Week 12 analysis.</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="54"/>
+                <count group_id="O2" value="67"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline Depression Severity</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="54"/>
+                    <count group_id="O2" value="67"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="23.48" spread="4.45"/>
+                    <measurement group_id="O2" value="1.24" spread="1.32"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 12 Depression Severity</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="50"/>
+                    <count group_id="O2" value="64"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12.44" spread="8.49"/>
+                    <measurement group_id="O2" value="1.52" spread="1.69"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>&lt;0.025</p_value>
+            <method>Mixed Models Analysis</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Baseline (Study Entry) through 12 Weeks of Treatment/Participation</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>MDD (Escitalopram Tx)</title>
+          <description>Target dose 20mg for 12 weeks&#xD;
+Escitalopram: 20 mg target dose for 12 weeks</description>
+        </group>
+        <group group_id="E2">
+          <title>Control</title>
+          <description>No treatment (healthy comparison participants with no history or presence of psychiatric disorder)</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="54"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="54"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Surgical and medical procedures</title>
+            <event_list>
+              <event>
+                <sub_title>Acute CVA</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="54"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Gallbladder removal</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="54"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="54"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Fall</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="4" subjects_at_risk="54"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Fatigue + poor appetite</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="54"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+              <event>
+                <sub_title>Low libido + low mood</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="54"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Skin - Hives/Itchiness</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="54"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Elevated BP</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="54"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="67"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Faith M. Gunning, PhD, Vice Chair for Research, Dept of Psychiatry</name_or_title>
+      <organization>Well Cornell Medicine</organization>
+      <phone>212-746-5832</phone>
+      <email>fgd2002@med.cornell.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

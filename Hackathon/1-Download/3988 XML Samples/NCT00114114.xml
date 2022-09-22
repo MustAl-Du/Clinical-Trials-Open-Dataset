@@ -1,0 +1,1289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2251">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00114114</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2003-P-001868</org_study_id>
+    <secondary_id>R01AG030545</secondary_id>
+    <nct_id>NCT00114114</nct_id>
+  </id_info>
+  <brief_title>Dose-Response of Gonadal Steroids and Bone Turnover in Older Men</brief_title>
+  <official_title>Dose-Response of Gonadal Steroids and Bone Turnover in Older Men</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Massachusetts General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Solvay Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>AstraZeneca</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>AbbVie</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Massachusetts General Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine the levels of testosterone and/or estradiol at&#xD;
+      which changes in bone turnover, body composition, strength, sexual function etc. begin to&#xD;
+      occur in older men. This information may help determine when to intervene with hormone&#xD;
+      replacement therapy in aging men.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In this protocol, men age 60-75 will be randomized to one of 6 groups. Groups 1-5 will&#xD;
+      receive goserelin acetate (Zoladex) plus 0 (placebo gel), 1.25, 2.5, 5, or 10* g/day of&#xD;
+      testosterone gel (Androgel). Group 6 will receive placebos for both goserelin acetate and&#xD;
+      testosterone gel. (*Note that the 10 g/day dose was reduced to 7.5 g/day part-way through the&#xD;
+      trial due to reports of possible increased risk of cardiovascular events with testosterone&#xD;
+      administration).&#xD;
+&#xD;
+      Subjects will be blinded with respect to group assignment. Dietary calcium intake will be&#xD;
+      assessed by a research dietitian and adjustments made through diet or supplements so that&#xD;
+      calcium intake is between 1000 and 1200 mg/day.&#xD;
+&#xD;
+      Subjects will be seen on the Clinical Research Center at 4 week intervals for 16 weeks (0, 4,&#xD;
+      8, 12, and 16 weeks). At each visit, compliance with Androgel will be assessed by reviewing a&#xD;
+      medication diary. A standardized series of questions will be posed to each subject to assess&#xD;
+      potential side effects of the study drugs. Subjects receiving Androgel' will be given a new 4&#xD;
+      week supply of medication (except at week 16). A fasting blood and second voided urine sample&#xD;
+      will be collected. After the blood and urine samples have been obtained, subjects will be&#xD;
+      given their goserelin injection. The blood and urine tests listed below as well as&#xD;
+      anthropometric measures, and questionnaires will be performed at each visit. Dual-energy&#xD;
+      x-ray absorptiometry (DXA), quantitate computed tomography (QCT) scans, and strength&#xD;
+      assessments will be performed at 0 and 16 weeks only. Subjects who discontinue participation&#xD;
+      at or after week 8 will be asked if they are willing to have an early discontinuation visit&#xD;
+      in which all procedures normally done at week 16 will be performed.&#xD;
+&#xD;
+      The following measures will be assessed:&#xD;
+&#xD;
+        -  Routine chemistries and prostate specific antigen, PSA (for safety assessment)&#xD;
+&#xD;
+        -  Bone turnover using blood and urine tests&#xD;
+&#xD;
+        -  Hormones&#xD;
+&#xD;
+        -  Lipids&#xD;
+&#xD;
+        -  Body composition&#xD;
+&#xD;
+        -  Strength&#xD;
+&#xD;
+        -  Sexual desire and erectile function&#xD;
+&#xD;
+        -  Bone mineral density and bone microarchitecture&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 2004</start_date>
+  <completion_date type="Actual">November 1, 2017</completion_date>
+  <primary_completion_date type="Actual">November 1, 2017</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percent Change in Bone Turnover Marker (Serum C-telopeptide, CTX)</measure>
+    <time_frame>Baseline and 16 weeks</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage Change in Body Composition: Fat Mass</measure>
+    <time_frame>Baseline and 16 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage Change in Thigh Muscle Area</measure>
+    <time_frame>Baseline and 16 weeks</time_frame>
+    <description>Assessed by quantitative computed tomography (QCT)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Erectile Function Symptoms</measure>
+    <time_frame>Baseline and 16 weeks</time_frame>
+    <description>Based on International Index of Erectile Function (IIEF) scale, question #15, which asked subjects to rate their confidence that they could achieve and maintain an erection. Scores range from 1 to 5, with higher scores being better.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Libido / Sexual Desire</measure>
+    <time_frame>16 weeks</time_frame>
+    <description>Change in libido from baseline (scale ranges from -2 to +2), with -2 being much less, -1 somewhat less, 0 same, +1 somewhat more, +2 much more</description>
+  </secondary_outcome>
+  <number_of_arms>6</number_of_arms>
+  <enrollment type="Actual">177</enrollment>
+  <condition>Healthy Volunteers</condition>
+  <arm_group>
+    <arm_group_label>Group 1: 0 g/day</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Zoladex plus Placebo Testosterone (T) gel</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2: 1.25 g/day</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Zoladex plus 1.25 g/day T gel</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 3: 2.5 g/day</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Zoladex plus 2.5 g/day T gel</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 4: 5 g/day</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Zoladex plus 5 g/day T gel</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 5: 10* g/day</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Zoladex plus 10* g/day T gel. *Note that the 10 g/day dose was reduced to 7.5 g/day part-way through the trial</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 6: Placebo/Placebo (PBO/PBO)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Placebo Zoladex plus Placebo T gel (controls)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Testosterone</intervention_name>
+    <description>Androgel placebo or 1.25, 2.5, 5. or 10* gms topically each day</description>
+    <arm_group_label>Group 1: 0 g/day</arm_group_label>
+    <arm_group_label>Group 2: 1.25 g/day</arm_group_label>
+    <arm_group_label>Group 3: 2.5 g/day</arm_group_label>
+    <arm_group_label>Group 4: 5 g/day</arm_group_label>
+    <arm_group_label>Group 5: 10* g/day</arm_group_label>
+    <arm_group_label>Group 6: Placebo/Placebo (PBO/PBO)</arm_group_label>
+    <other_name>Androgel</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Goserelin acetate</intervention_name>
+    <description>3.6 gms sc every 4 weeks</description>
+    <arm_group_label>Group 1: 0 g/day</arm_group_label>
+    <arm_group_label>Group 2: 1.25 g/day</arm_group_label>
+    <arm_group_label>Group 3: 2.5 g/day</arm_group_label>
+    <arm_group_label>Group 4: 5 g/day</arm_group_label>
+    <arm_group_label>Group 5: 10* g/day</arm_group_label>
+    <arm_group_label>Group 6: Placebo/Placebo (PBO/PBO)</arm_group_label>
+    <other_name>Zoladex</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Healthy men age 60 to 75&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of significant cardiac, renal, pulmonary, hepatic, benign prostatic&#xD;
+             hyperplasia, or malignant disease, current alcohol or illicit drug abuse, or major&#xD;
+             psychiatric disorders.&#xD;
+&#xD;
+          -  Current diagnoses of disorders known to affect bone metabolism including&#xD;
+             hyperthyroidism, hyperparathyroidism, osteomalacia, or Paget's disease.&#xD;
+&#xD;
+          -  Current use of medications known to affect bone metabolism including estrogens,&#xD;
+             androgens, anti-estrogens, bisphosphonates, calcitonin, fluoride, oral or inhaled&#xD;
+             glucocorticoids, suppressive doses of thyroxine, lithium, pharmacological doses of&#xD;
+             vitamin D (greater than 2000 IU/day), or anti-convulsants.&#xD;
+&#xD;
+          -  Cognitive or intellectual impairment that precludes complete understanding of the&#xD;
+             study protocol.&#xD;
+&#xD;
+          -  History of deep vein thrombosis, pulmonary embolism, or clotting disorders.&#xD;
+&#xD;
+          -  Serum 25-hydroxyvitamin D &lt; 15 ng/mL&#xD;
+&#xD;
+          -  Serum parathyroid hormone (PTH) &lt; 10 or &gt; 65 pg/mL&#xD;
+&#xD;
+          -  Serum thyroid stimulating hormone (TSH) &lt; 0.5 or &gt; 5.0 U/L&#xD;
+&#xD;
+          -  Serum calcium &gt; 10.6 mg/dL&#xD;
+&#xD;
+          -  Serum creatinine &gt; 2 mg/dL&#xD;
+&#xD;
+          -  Serum alanine aminotransferase (ALT) and aspartate aminotransferase (AST) &gt; 2x the&#xD;
+             upper limit of normal&#xD;
+&#xD;
+          -  Serum bilirubin &gt; 2 mg/dL&#xD;
+&#xD;
+          -  Serum alkaline phosphatase &gt; 150 U/L&#xD;
+&#xD;
+          -  Plasma hemoglobin &lt; 11 gm/dL&#xD;
+&#xD;
+          -  Hematocrit &gt; 50&#xD;
+&#xD;
+          -  Fracture within the last 6 months.&#xD;
+&#xD;
+          -  Serum testosterone level &lt; 270 or &gt; 1070 ng/dL&#xD;
+&#xD;
+          -  Serum prostate specific antigen (PSA) level &gt; 4 ug/L.&#xD;
+&#xD;
+          -  International Prostate Symptom Score (IPSS) &gt; 19&#xD;
+&#xD;
+          -  Systolic blood pressure &gt; 160 or diastolic blood pressure &gt; 95&#xD;
+&#xD;
+          -  Framingham risk score greater than or equal to 20&#xD;
+&#xD;
+          -  Difficulty walking 2 blocks&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ben Z Leder, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Massachusetts General Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2019</verification_date>
+  <study_first_submitted>June 13, 2005</study_first_submitted>
+  <study_first_submitted_qc>June 13, 2005</study_first_submitted_qc>
+  <study_first_posted type="Estimate">June 14, 2005</study_first_posted>
+  <results_first_submitted>August 2, 2019</results_first_submitted>
+  <results_first_submitted_qc>August 26, 2019</results_first_submitted_qc>
+  <results_first_posted type="Actual">September 17, 2019</results_first_posted>
+  <last_update_submitted>September 27, 2019</last_update_submitted>
+  <last_update_submitted_qc>September 27, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 8, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Massachusetts General Hospital</investigator_affiliation>
+    <investigator_full_name>Benjamin Leder, MD</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Testosterone</keyword>
+  <keyword>Bone turnover</keyword>
+  <keyword>Aging</keyword>
+  <keyword>Body composition</keyword>
+  <keyword>Hypogonadism</keyword>
+  <keyword>Sexual function</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Goserelin</mesh_term>
+    <mesh_term>Testosterone</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>October 14, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/14/NCT00114114/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Group 1: 0 Grams/Day</title>
+          <description>Zoladex plus Placebo T gel</description>
+        </group>
+        <group group_id="P2">
+          <title>Group 2: 1.25 g/Day</title>
+          <description>Zoladex plus 1.25 g/day T gel</description>
+        </group>
+        <group group_id="P3">
+          <title>Group 3: 2.5 g/Day</title>
+          <description>Zoladex plus 2.5 g/day T gel</description>
+        </group>
+        <group group_id="P4">
+          <title>Group 4: 5 g/Day</title>
+          <description>Zoladex plus 5 g/day T gel</description>
+        </group>
+        <group group_id="P5">
+          <title>Group 5: 10* g/Day</title>
+          <description>Zoladex plus 10 g/day T gel; *Note that the 10 g/day dose was reduced to 7.5 g/day part-way through the trial</description>
+        </group>
+        <group group_id="P6">
+          <title>Group 6: PBO/PBO</title>
+          <description>Placebo Zoladex plus Placebo T gel</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="26"/>
+                <participants group_id="P2" count="25"/>
+                <participants group_id="P3" count="31"/>
+                <participants group_id="P4" count="35"/>
+                <participants group_id="P5" count="29"/>
+                <participants group_id="P6" count="31"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="21"/>
+                <participants group_id="P2" count="24"/>
+                <participants group_id="P3" count="30"/>
+                <participants group_id="P4" count="31"/>
+                <participants group_id="P5" count="27"/>
+                <participants group_id="P6" count="30"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="5"/>
+                <participants group_id="P2" count="1"/>
+                <participants group_id="P3" count="1"/>
+                <participants group_id="P4" count="4"/>
+                <participants group_id="P5" count="2"/>
+                <participants group_id="P6" count="1"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Group 1: 0 g/Day</title>
+          <description>Zoladex plus Placebo T gel</description>
+        </group>
+        <group group_id="B2">
+          <title>Group 2: 1.25 g/Day</title>
+          <description>Zoladex plus 1.25 g/day T gel</description>
+        </group>
+        <group group_id="B3">
+          <title>Group 3: 2.5 g/Day</title>
+          <description>Zoladex plus 2.5 g/day T gel</description>
+        </group>
+        <group group_id="B4">
+          <title>Group 4: 5 g/Day</title>
+          <description>Zoladex plus 5 g/day T gel</description>
+        </group>
+        <group group_id="B5">
+          <title>Group 5: 10* g/Day</title>
+          <description>Zoladex plus 10* g/day T gel; *Note that the 10 g/day dose was reduced to 7.5 g/day part-way through the trial</description>
+        </group>
+        <group group_id="B6">
+          <title>Group 6: PBO/PBO</title>
+          <description>Placebo Zoladex plus Placebo T gel</description>
+        </group>
+        <group group_id="B7">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="26"/>
+            <count group_id="B2" value="25"/>
+            <count group_id="B3" value="31"/>
+            <count group_id="B4" value="35"/>
+            <count group_id="B5" value="29"/>
+            <count group_id="B6" value="31"/>
+            <count group_id="B7" value="177"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="66" spread="5"/>
+                    <measurement group_id="B2" value="64" spread="3"/>
+                    <measurement group_id="B3" value="64" spread="4"/>
+                    <measurement group_id="B4" value="65" spread="4"/>
+                    <measurement group_id="B5" value="65" spread="3"/>
+                    <measurement group_id="B6" value="65" spread="4"/>
+                    <measurement group_id="B7" value="65" spread="3.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="26"/>
+                    <measurement group_id="B2" value="25"/>
+                    <measurement group_id="B3" value="31"/>
+                    <measurement group_id="B4" value="35"/>
+                    <measurement group_id="B5" value="29"/>
+                    <measurement group_id="B6" value="31"/>
+                    <measurement group_id="B7" value="177"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="2"/>
+                    <measurement group_id="B4" value="35"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="39"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="25"/>
+                    <measurement group_id="B2" value="23"/>
+                    <measurement group_id="B3" value="29"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="28"/>
+                    <measurement group_id="B6" value="30"/>
+                    <measurement group_id="B7" value="135"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="1"/>
+                    <measurement group_id="B6" value="1"/>
+                    <measurement group_id="B7" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="2"/>
+                    <measurement group_id="B7" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="4"/>
+                    <measurement group_id="B5" value="1"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="26"/>
+                    <measurement group_id="B2" value="22"/>
+                    <measurement group_id="B3" value="29"/>
+                    <measurement group_id="B4" value="31"/>
+                    <measurement group_id="B5" value="28"/>
+                    <measurement group_id="B6" value="29"/>
+                    <measurement group_id="B7" value="165"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="26"/>
+                    <measurement group_id="B2" value="25"/>
+                    <measurement group_id="B3" value="31"/>
+                    <measurement group_id="B4" value="35"/>
+                    <measurement group_id="B5" value="29"/>
+                    <measurement group_id="B6" value="31"/>
+                    <measurement group_id="B7" value="177"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Height</title>
+          <units>cm</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="175.2" spread="5.7"/>
+                    <measurement group_id="B2" value="175.1" spread="8.7"/>
+                    <measurement group_id="B3" value="176.5" spread="7.9"/>
+                    <measurement group_id="B4" value="177.5" spread="7.6"/>
+                    <measurement group_id="B5" value="175.4" spread="5.0"/>
+                    <measurement group_id="B6" value="176.7" spread="6.5"/>
+                    <measurement group_id="B7" value="176.2" spread="7.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Weight</title>
+          <units>kg</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="86.2" spread="14.1"/>
+                    <measurement group_id="B2" value="83.9" spread="15.0"/>
+                    <measurement group_id="B3" value="82.0" spread="14.2"/>
+                    <measurement group_id="B4" value="85.7" spread="15.1"/>
+                    <measurement group_id="B5" value="86.8" spread="12.2"/>
+                    <measurement group_id="B6" value="83.9" spread="13.0"/>
+                    <measurement group_id="B7" value="84.8" spread="13.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Body-mass Index</title>
+          <units>kg/m^2</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="28.0" spread="3.9"/>
+                    <measurement group_id="B2" value="27.3" spread="4.3"/>
+                    <measurement group_id="B3" value="26.3" spread="4.3"/>
+                    <measurement group_id="B4" value="27.1" spread="4.2"/>
+                    <measurement group_id="B5" value="28.2" spread="3.5"/>
+                    <measurement group_id="B6" value="26.9" spread="4.2"/>
+                    <measurement group_id="B7" value="27.3" spread="4.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Testosterone</title>
+          <units>ng/dL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="496" spread="176"/>
+                    <measurement group_id="B2" value="485" spread="117"/>
+                    <measurement group_id="B3" value="491" spread="142"/>
+                    <measurement group_id="B4" value="483" spread="165"/>
+                    <measurement group_id="B5" value="484" spread="148"/>
+                    <measurement group_id="B6" value="505" spread="155"/>
+                    <measurement group_id="B7" value="490" spread="150"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Estradiol</title>
+          <units>pg/mL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="27" spread="7"/>
+                    <measurement group_id="B2" value="26" spread="11"/>
+                    <measurement group_id="B3" value="25" spread="8"/>
+                    <measurement group_id="B4" value="30" spread="11"/>
+                    <measurement group_id="B5" value="26" spread="6"/>
+                    <measurement group_id="B6" value="28" spread="7"/>
+                    <measurement group_id="B7" value="27" spread="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Total-body Lean Mass</title>
+          <units>g</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="56177" spread="6417"/>
+                    <measurement group_id="B2" value="55553" spread="8218"/>
+                    <measurement group_id="B3" value="55428" spread="8054"/>
+                    <measurement group_id="B4" value="55653" spread="9206"/>
+                    <measurement group_id="B5" value="56081" spread="6116"/>
+                    <measurement group_id="B6" value="55867" spread="6637"/>
+                    <measurement group_id="B7" value="55784" spread="7444"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Total body fat mass</title>
+          <units>g</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="22773" spread="8693"/>
+                    <measurement group_id="B2" value="20827" spread="7208"/>
+                    <measurement group_id="B3" value="19396" spread="7567"/>
+                    <measurement group_id="B4" value="23062" spread="11123"/>
+                    <measurement group_id="B5" value="22803" spread="7459"/>
+                    <measurement group_id="B6" value="19931" spread="7574"/>
+                    <measurement group_id="B7" value="21471" spread="8564"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Thigh-muscle area</title>
+          <units>mm^2</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15272" spread="2026"/>
+                    <measurement group_id="B2" value="16006" spread="2515"/>
+                    <measurement group_id="B3" value="15281" spread="2645"/>
+                    <measurement group_id="B4" value="15367" spread="2820"/>
+                    <measurement group_id="B5" value="15771" spread="2145"/>
+                    <measurement group_id="B6" value="15572" spread="2157"/>
+                    <measurement group_id="B7" value="15531" spread="2424"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Percent Change in Bone Turnover Marker (Serum C-telopeptide, CTX)</title>
+        <time_frame>Baseline and 16 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Group 1: 0 g/Day</title>
+            <description>Zoladex plus Placebo Testosterone (T) gel</description>
+          </group>
+          <group group_id="O2">
+            <title>Group 2: 1.25 g/Day</title>
+            <description>Zoladex plus 1.25 g/day T gel</description>
+          </group>
+          <group group_id="O3">
+            <title>Group 3: 2.5 g/Day</title>
+            <description>Zoladex plus 2.5 g/day T gel</description>
+          </group>
+          <group group_id="O4">
+            <title>Group 4: 5 g/Day</title>
+            <description>Zoladex plus 5 g/day T gel</description>
+          </group>
+          <group group_id="O5">
+            <title>Group 5: 10* g/Day</title>
+            <description>Zoladex plus 10 g/day T gel; *Note that the 10 g/day dose was reduced to 7.5 g/day part-way through the trial</description>
+          </group>
+          <group group_id="O6">
+            <title>Group 6: Placebo/Placebo (PBO/PBO)</title>
+            <description>Placebo Zoladex plus Placebo T gel</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percent Change in Bone Turnover Marker (Serum C-telopeptide, CTX)</title>
+          <units>percentage change</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="21"/>
+                <count group_id="O2" value="24"/>
+                <count group_id="O3" value="30"/>
+                <count group_id="O4" value="31"/>
+                <count group_id="O5" value="27"/>
+                <count group_id="O6" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="103" spread="12"/>
+                    <measurement group_id="O2" value="41" spread="6"/>
+                    <measurement group_id="O3" value="29" spread="6"/>
+                    <measurement group_id="O4" value="15" spread="7"/>
+                    <measurement group_id="O5" value="4" spread="5"/>
+                    <measurement group_id="O6" value="11" spread="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage Change in Body Composition: Fat Mass</title>
+        <time_frame>Baseline and 16 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Group 1: 0 g/Day</title>
+            <description>Zoladex plus Placebo T gel</description>
+          </group>
+          <group group_id="O2">
+            <title>Group 2: 1.25 g/Day</title>
+            <description>Zoladex plus 1.25 g/day T gel</description>
+          </group>
+          <group group_id="O3">
+            <title>Group 3: 2.5 g/Day</title>
+            <description>Zoladex plus 2.5 g/day T gel</description>
+          </group>
+          <group group_id="O4">
+            <title>Group 4: 5 g/Day</title>
+            <description>Zoladex plus 5 g/day T gel</description>
+          </group>
+          <group group_id="O5">
+            <title>Group 5: 10* g/Day</title>
+            <description>Zoladex plus 10 g/day T gel; *Note that the 10 g/day dose was reduced to 7.5 g/day part-way through the trial</description>
+          </group>
+          <group group_id="O6">
+            <title>Group 6: PBO/PBO</title>
+            <description>Placebo Zoladex plus Placebo T gel</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage Change in Body Composition: Fat Mass</title>
+          <units>Percentage change</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="21"/>
+                <count group_id="O2" value="24"/>
+                <count group_id="O3" value="30"/>
+                <count group_id="O4" value="31"/>
+                <count group_id="O5" value="27"/>
+                <count group_id="O6" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9.8" spread="2.4"/>
+                    <measurement group_id="O2" value="5.7" spread="1.1"/>
+                    <measurement group_id="O3" value="1.9" spread="1.5"/>
+                    <measurement group_id="O4" value="0.4" spread="1.3"/>
+                    <measurement group_id="O5" value="-1.6" spread="1.6"/>
+                    <measurement group_id="O6" value="2.3" spread="1.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage Change in Thigh Muscle Area</title>
+        <description>Assessed by quantitative computed tomography (QCT)</description>
+        <time_frame>Baseline and 16 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Group 1: 0 g/Day</title>
+            <description>Zoladex plus Placebo T gel</description>
+          </group>
+          <group group_id="O2">
+            <title>Group 2: 1.25 g/Day</title>
+            <description>Zoladex plus 1.25 g/day T gel</description>
+          </group>
+          <group group_id="O3">
+            <title>Group 3: 2.5 g/Day</title>
+            <description>Zoladex plus 2.5 g/day T gel</description>
+          </group>
+          <group group_id="O4">
+            <title>Group 4: 5 g/Day</title>
+            <description>Zoladex plus 5 g/day T gel</description>
+          </group>
+          <group group_id="O5">
+            <title>Group 5: 10* g/Day</title>
+            <description>Zoladex plus 10 g/day T gel; *Note that the 10 g/day dose was reduced to 7.5 g/day part-way through the trial</description>
+          </group>
+          <group group_id="O6">
+            <title>Group 6: PBO/PBO</title>
+            <description>Placebo Zoladex plus Placebo T gel</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage Change in Thigh Muscle Area</title>
+          <description>Assessed by quantitative computed tomography (QCT)</description>
+          <units>percentage change</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="21"/>
+                <count group_id="O2" value="24"/>
+                <count group_id="O3" value="30"/>
+                <count group_id="O4" value="31"/>
+                <count group_id="O5" value="27"/>
+                <count group_id="O6" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-1.5" spread="1.1"/>
+                    <measurement group_id="O2" value="-1.6" spread="0.9"/>
+                    <measurement group_id="O3" value="-0.4" spread="0.5"/>
+                    <measurement group_id="O4" value="-0.5" spread="0.7"/>
+                    <measurement group_id="O5" value="0.5" spread="0.7"/>
+                    <measurement group_id="O6" value="-0.9" spread="0.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Erectile Function Symptoms</title>
+        <description>Based on International Index of Erectile Function (IIEF) scale, question #15, which asked subjects to rate their confidence that they could achieve and maintain an erection. Scores range from 1 to 5, with higher scores being better.</description>
+        <time_frame>Baseline and 16 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Group 1: 0 g/Day</title>
+            <description>Zoladex plus Placebo T gel</description>
+          </group>
+          <group group_id="O2">
+            <title>Group 2: 1.25 g/Day</title>
+            <description>Zoladex plus 1.25 g/day T gel</description>
+          </group>
+          <group group_id="O3">
+            <title>Group 3: 2.5 g/Day</title>
+            <description>Zoladex plus 2.5 g/day T gel</description>
+          </group>
+          <group group_id="O4">
+            <title>Group 4: 5 g/Day</title>
+            <description>Zoladex plus 5 g/day T gel</description>
+          </group>
+          <group group_id="O5">
+            <title>Group 5: 10* g/Day</title>
+            <description>Zoladex plus 10 g/day T gel; *Note that the 10 g/day dose was reduced to 7.5 g/day part-way through the trial</description>
+          </group>
+          <group group_id="O6">
+            <title>Group 6: PBO/PBO</title>
+            <description>Placebo Zoladex plus Placebo T gel</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Erectile Function Symptoms</title>
+          <description>Based on International Index of Erectile Function (IIEF) scale, question #15, which asked subjects to rate their confidence that they could achieve and maintain an erection. Scores range from 1 to 5, with higher scores being better.</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="21"/>
+                <count group_id="O2" value="24"/>
+                <count group_id="O3" value="30"/>
+                <count group_id="O4" value="31"/>
+                <count group_id="O5" value="27"/>
+                <count group_id="O6" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-1.4" spread="0.2"/>
+                    <measurement group_id="O2" value="-0.5" spread="0.2"/>
+                    <measurement group_id="O3" value="-0.2" spread="0.2"/>
+                    <measurement group_id="O4" value="-0.1" spread="0.2"/>
+                    <measurement group_id="O5" value="0.2" spread="0.2"/>
+                    <measurement group_id="O6" value="-0.3" spread="0.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Libido / Sexual Desire</title>
+        <description>Change in libido from baseline (scale ranges from -2 to +2), with -2 being much less, -1 somewhat less, 0 same, +1 somewhat more, +2 much more</description>
+        <time_frame>16 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Group 1: 0 g/Day</title>
+            <description>Zoladex plus Placebo T gel</description>
+          </group>
+          <group group_id="O2">
+            <title>Group 2: 1.25 g/Day</title>
+            <description>Zoladex plus 1.25 g/day T gel</description>
+          </group>
+          <group group_id="O3">
+            <title>Group 3: 2.5 g/Day</title>
+            <description>Zoladex plus 2.5 g/day T gel</description>
+          </group>
+          <group group_id="O4">
+            <title>Group 4: 5 g/Day</title>
+            <description>Zoladex plus 5 g/day T gel</description>
+          </group>
+          <group group_id="O5">
+            <title>Group 5: 10* g/Day</title>
+            <description>Zoladex plus 10 g/day T gel; *Note that the 10 g/day dose was reduced to 7.5 g/day part-way through the trial</description>
+          </group>
+          <group group_id="O6">
+            <title>Group 6: PBO/PBO</title>
+            <description>Placebo Zoladex plus Placebo T gel</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Libido / Sexual Desire</title>
+          <description>Change in libido from baseline (scale ranges from -2 to +2), with -2 being much less, -1 somewhat less, 0 same, +1 somewhat more, +2 much more</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="21"/>
+                <count group_id="O2" value="24"/>
+                <count group_id="O3" value="30"/>
+                <count group_id="O4" value="31"/>
+                <count group_id="O5" value="27"/>
+                <count group_id="O6" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-1.6" spread="0.2"/>
+                    <measurement group_id="O2" value="-0.6" spread="0.2"/>
+                    <measurement group_id="O3" value="-0.6" spread="0.2"/>
+                    <measurement group_id="O4" value="-0.2" spread="0.2"/>
+                    <measurement group_id="O5" value="0" spread="0.1"/>
+                    <measurement group_id="O6" value="-0.3" spread="0.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>16 weeks</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Group 1: 0 g/Day</title>
+          <description>Zoladex plus Placebo T gel</description>
+        </group>
+        <group group_id="E2">
+          <title>Group 2: 1.25 g/Day</title>
+          <description>Zoladex plus 1.25 g/day T gel</description>
+        </group>
+        <group group_id="E3">
+          <title>Group 3: 2.5 g/Day</title>
+          <description>Zoladex plus 2.5 g/day T gel</description>
+        </group>
+        <group group_id="E4">
+          <title>Group 4: 5 g/Day</title>
+          <description>Zoladex plus 5 g/day T gel</description>
+        </group>
+        <group group_id="E5">
+          <title>Group 5: 10* g/Day</title>
+          <description>Zoladex plus 10 g/day T gel; *Note that the 10 g/day dose was reduced to 7.5 g/day part-way through the trial</description>
+        </group>
+        <group group_id="E6">
+          <title>Group 6: PBO/PBO</title>
+          <description>Placebo Zoladex plus Placebo T gel</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="26"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="25"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="31"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="35"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="29"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="31"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="26"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="25"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="31"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="35"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="29"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="31"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="26"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="25"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="31"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="35"/>
+                <counts group_id="E5" subjects_affected="2" subjects_at_risk="29"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="31"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Increased Prostate Specific Antigen (PSA)</sub_title>
+                <description>PSA &gt;=4 ng/mL or whose PSA increased by &gt;= 1 ng/mL</description>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="26"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="25"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="31"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="35"/>
+                <counts group_id="E5" events="2" subjects_affected="2" subjects_at_risk="29"/>
+                <counts group_id="E6" events="0" subjects_affected="0" subjects_at_risk="31"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Ben Leder</name_or_title>
+      <organization>Massachusetts General Hospital</organization>
+      <phone>617-726-6723</phone>
+      <email>bzleder@partners.org</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

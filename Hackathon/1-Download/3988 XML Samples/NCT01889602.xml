@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2136">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01889602</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CPDEC</org_study_id>
+    <nct_id>NCT01889602</nct_id>
+  </id_info>
+  <brief_title>Characterizing and Predicting Drug Effects on Cognition</brief_title>
+  <official_title>Characterizing and Predicting Drug Effects on Cognition</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Minnesota</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Minnesota</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Cognitive impairment is a widely reported side effect of many commonly used drugs. Even a&#xD;
+      mild, untoward effect on an essential function such a linguistic behavior, a directly&#xD;
+      observable product of complex cognitive processes, is disruptive to daily life. Nevertheless,&#xD;
+      the mechanisms underlying a drug's impact on cognition are poorly understood. This lack of&#xD;
+      understanding impedes the ability to predict both the effects of drugs in development and the&#xD;
+      degree to which an individual is vulnerable to the cognitive impact of a particular agent.&#xD;
+      Topiramate (TPM, an antiepileptic drug) is, with increasing frequency, being prescribed for a&#xD;
+      range of conditions including migraine prophylaxis, obesity and pain. It is a prime example&#xD;
+      of a drug that causes speech and language problems severe enough in some patients to result&#xD;
+      in discontinuation of therapy. For reasons not well understood, TPM has a poorer cognitive&#xD;
+      profile than many of the older antiepileptic drugs. The investigators' rational for this&#xD;
+      study is that it will offer insight into the mechanisms underlying drug-induced cognitive&#xD;
+      deficits.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The investigators' long-term goal is to enhance clinical strategies and inform drug&#xD;
+      development in order to maximize the benefits of individual drug therapy while minimizing&#xD;
+      adverse cognitive/language-related side effects. The investigators' objective in this&#xD;
+      application is to elucidate the relationship among drug exposure as measured by plasma drug&#xD;
+      levels, its neurophysiological effects, and consequent effects on the cognitive processes&#xD;
+      observable in everyday language use. Using topiramate (TPM) as a prototype, the investigators&#xD;
+      will apply the tools of clinical pharmacology, computational linguistics, neuroscience, and&#xD;
+      engineering to the design and execution of randomized, double blind, crossover studies using&#xD;
+      three (3) doses of TPM, one (1) dose of a comparator drug (lorazepam-LZP) and a placebo. In&#xD;
+      order to isolate the cognitive effects of TPM from those possibly arising from an underlying&#xD;
+      medical condition, subjects will be healthy adults. The investigators will capitalize on an&#xD;
+      innovative system for automated language and speech analysis (SALSA) developed in our&#xD;
+      laboratory, to quantify the effects of TPM administration on effective language use, a&#xD;
+      crucial component of normal day-to-day functioning.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>July 2013</start_date>
+  <completion_date type="Actual">August 2016</completion_date>
+  <primary_completion_date type="Actual">August 2016</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change From Baseline in COWA Unique Word Count</measure>
+    <time_frame>Session 1 to Session 5</time_frame>
+    <description>Study has 3 arms (100mg, 150mg, or 200mg topiramate) and 3 periods per arm (topiramate, 2mg lorazepam, or placebo). Topiramate (TPM), Lorazepam (LZP), or Placebo (PLA) was given to the participant at the beginning of Sessions 2, 3, and 4 (crossover design). No drug was given at Sessions 1 and 5. The baseline value was defined as the average of the values at Session 1 and Session 5. The change from baseline for Topiramate is the value at 2.5 hours post-dose at the Topiramate visit minus the value at baseline, divided by the value at baseline; similarly for Lorazepam and Placebo.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change From Baseline in Spontaneous Narrative Raw Word Count</measure>
+    <time_frame>Session 1 to Session 5</time_frame>
+    <description>Study has 3 arms (100mg, 150mg, or 200mg topiramate) and 3 periods per arm (topiramate, 2mg lorazepam, or placebo). Topiramate (TPM), Lorazepam (LZP), or Placebo (PLA) was given to the participant at the beginning of Sessions 2, 3, and 4 (crossover design). No drug was given at Sessions 1 and 5. The baseline value was defined as the average of the values at Session 1 and Session 5. The change from baseline for Topiramate is the value at 2.5 hours post-dose at the Topiramate visit minus the value at baseline, divided by the value at baseline; similarly for Lorazepam and Placebo.</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">60</enrollment>
+  <condition>Cognitive Deficits</condition>
+  <arm_group>
+    <arm_group_label>Topiramate 100mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participant will receive 3 single-dose treatments with 2-week washout between each treatment. At each of 3 treatments, participants will receive 100mg torpiramate, 2mg lorazepam, or placebo. Treatment order is randomized. All participants in this arm will receive all 3 treatments.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Topiramate 150mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participant will receive 3 single-dose treatments with 2-week washout between each treatment. At each of 3 treatments, participants will receive 150mg torpiramate, 2mg lorazepam, or placebo. Treatment order is randomized. All participants in this arm will receive all 3 treatments.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Topiramate 200mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participant will receive 3 single-dose treatments with 2-week washout between each treatment. At each of 3 treatments, participants will receive 200mg torpiramate, 2mg lorazepam, or placebo. Treatment order is randomized. All participants in this arm will receive all 3 treatments.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lorazepam</intervention_name>
+    <description>Lorazepam: 2mg, po, 1x</description>
+    <arm_group_label>Topiramate 100mg</arm_group_label>
+    <arm_group_label>Topiramate 150mg</arm_group_label>
+    <arm_group_label>Topiramate 200mg</arm_group_label>
+    <other_name>Ativan</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Non-active placebo, po, 1x</description>
+    <arm_group_label>Topiramate 100mg</arm_group_label>
+    <arm_group_label>Topiramate 150mg</arm_group_label>
+    <arm_group_label>Topiramate 200mg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Topiramate 100mg</intervention_name>
+    <description>Topiramate: 100 mg, po, 1x</description>
+    <arm_group_label>Topiramate 100mg</arm_group_label>
+    <other_name>Topamax</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Topiramate 150mg</intervention_name>
+    <description>Topiramate: 150 mg, po, 1x</description>
+    <arm_group_label>Topiramate 150mg</arm_group_label>
+    <other_name>Topamax</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Topiramate 200mg</intervention_name>
+    <description>Topiramate: 200 mg, po, 1x</description>
+    <arm_group_label>Topiramate 200mg</arm_group_label>
+    <other_name>Topamax</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Healthy men and women&#xD;
+&#xD;
+          -  Ages 18-50&#xD;
+&#xD;
+          -  Women are post-menopausal or using approved birth control methods&#xD;
+&#xD;
+          -  To control for brain lateralization of language functions, subjects need to have a&#xD;
+             dominant right hand.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Presence of clinically significant cardiovascular, endocrine, hematopoietic, hepatic,&#xD;
+             renal, neurologic, and/or psychiatric disease including suicidality&#xD;
+&#xD;
+          -  Vision or hearing impairments&#xD;
+&#xD;
+          -  Current or a history of drug or alcohol abuse&#xD;
+&#xD;
+          -  living outside of the Twin Cities Metropolitan area.&#xD;
+&#xD;
+          -  The use of concomitant medications known to affect Topiramate (TPM), Lorazepam (LZP),&#xD;
+             or the use of any concomitant medications that may alter cognitive function&#xD;
+&#xD;
+          -  Prior adverse reaction or prior hypersensitivity to TPM, LZP or related compounds&#xD;
+&#xD;
+          -  A positive pregnancy test (administered to all women before enrollment, and prior to&#xD;
+             each study session).&#xD;
+&#xD;
+          -  Subjects who have received any investigational drug within the previous 30 days&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>50 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Susan E. Marino, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Assistant Professor</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Minnesota</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55414</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2019</verification_date>
+  <study_first_submitted>June 25, 2013</study_first_submitted>
+  <study_first_submitted_qc>June 25, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">June 28, 2013</study_first_posted>
+  <results_first_submitted>October 16, 2018</results_first_submitted>
+  <results_first_submitted_qc>December 4, 2019</results_first_submitted_qc>
+  <results_first_posted type="Actual">December 17, 2019</results_first_posted>
+  <last_update_submitted>December 4, 2019</last_update_submitted>
+  <last_update_submitted_qc>December 4, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 17, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Healthy volunteers</keyword>
+  <keyword>Topiramate</keyword>
+  <keyword>Neurocognition</keyword>
+  <keyword>Drug-induced cognitive deficits</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cognition Disorders</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Topiramate</mesh_term>
+    <mesh_term>Lorazepam</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>July 15, 2015</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/02/NCT01889602/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Topiramate 100mg</title>
+          <description>Randomized to Topiramate; 100mg; lorazepam 2mg or placebo; Each subject in this arm received each treatment in random order with a two-week washout between treatments&#xD;
+Topiramate: Topiramate: 100 mg, 150 mg or 200 mg, po, 1x</description>
+        </group>
+        <group group_id="P2">
+          <title>Topiramate 150mg</title>
+          <description>Randomized to Topiramate; 150mg; lorazepam 2mg or placebo; Each subject in this arm received each treatment in random order with a two-week washout between treatments&#xD;
+Lorazepam: Lorazepam: 2mg, po, 1x</description>
+        </group>
+        <group group_id="P3">
+          <title>Topiramate 200mg</title>
+          <description>Randomized to Topiramate; 200 mg; lorazepam 2mg or placebo; Each subject in this arm received each treatment in random order with a two-week washout between treatments&#xD;
+Placebo</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>First Intervention</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="20"/>
+                <participants group_id="P2" count="20"/>
+                <participants group_id="P3" count="20"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="19"/>
+                <participants group_id="P2" count="17"/>
+                <participants group_id="P3" count="18"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="3"/>
+                <participants group_id="P3" count="2"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Adverse Event</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="1"/>
+                <participants group_id="P3" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Protocol Violation</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+                <participants group_id="P3" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Study ending</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+                <participants group_id="P3" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+        <period>
+          <title>First Washout Period of at Least 2 Weeks</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="19"/>
+                <participants group_id="P2" count="17"/>
+                <participants group_id="P3" count="18"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="19"/>
+                <participants group_id="P2" count="17"/>
+                <participants group_id="P3" count="18"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+        <period>
+          <title>Second Intervention</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="19"/>
+                <participants group_id="P2" count="17"/>
+                <participants group_id="P3" count="18"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="18"/>
+                <participants group_id="P2" count="17"/>
+                <participants group_id="P3" count="16"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="2"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Adverse Event</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Study ending</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+        <period>
+          <title>Second Washout Period of at Least 2 Week</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="18"/>
+                <participants group_id="P2" count="17"/>
+                <participants group_id="P3" count="16"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="18"/>
+                <participants group_id="P2" count="17"/>
+                <participants group_id="P3" count="16"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+        <period>
+          <title>Third Intervention</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="18"/>
+                <participants group_id="P2" count="17"/>
+                <participants group_id="P3" count="16"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="15"/>
+                <participants group_id="P2" count="15"/>
+                <participants group_id="P3" count="16"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="2"/>
+                <participants group_id="P3" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Protocol Violation</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="2"/>
+                <participants group_id="P3" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+        <period>
+          <title>Third Washout Period of at Least 2 Weeks</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="15"/>
+                <participants group_id="P2" count="15"/>
+                <participants group_id="P3" count="16"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="15"/>
+                <participants group_id="P2" count="15"/>
+                <participants group_id="P3" count="16"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>To address reviewer comments about inconsistencies between participate flow and baseline population: Baseline analysis population is only subjects who completed the trial. The participant flow section is divided into time periods. The baseline characteristics are divided by intervention. The two sections will not correspond.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Topiramate 100mg</title>
+          <description>Randomized to Topiramate; 100mg; lorazepam 2mg or placebo; Each subject in this arm received each treatment in random order with a two-week washout between treatments&#xD;
+Topiramate: Topiramate: 100 mg, 150 mg or 200 mg, po, 1x</description>
+        </group>
+        <group group_id="B2">
+          <title>Topiramate 150mg</title>
+          <description>Randomized to Topiramate; 150mg; lorazepam 2mg or placebo; Each subject in this arm received each treatment in random order with a two-week washout between treatments&#xD;
+Lorazepam: Lorazepam: 2mg, po, 1x</description>
+        </group>
+        <group group_id="B3">
+          <title>Topiramate 200mg</title>
+          <description>Randomized to Topiramate; 200 mg; lorazepam 2mg or placebo; Each subject in this arm received each treatment in random order with a two-week washout between treatments&#xD;
+Placebo</description>
+        </group>
+        <group group_id="B4">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="14"/>
+            <count group_id="B2" value="15"/>
+            <count group_id="B3" value="17"/>
+            <count group_id="B4" value="46"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                    <measurement group_id="B2" value="15"/>
+                    <measurement group_id="B3" value="17"/>
+                    <measurement group_id="B4" value="46"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>Years</units>
+          <param>Median</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="31.9" spread="11.48"/>
+                    <measurement group_id="B2" value="38.54" spread="10.21"/>
+                    <measurement group_id="B3" value="26.41" spread="8.42"/>
+                    <measurement group_id="B4" value="28.52" spread="9.99"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="8"/>
+                    <measurement group_id="B4" value="24"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="9"/>
+                    <measurement group_id="B4" value="22"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="3"/>
+                    <measurement group_id="B4" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="3"/>
+                    <measurement group_id="B4" value="12"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="9"/>
+                    <measurement group_id="B4" value="25"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="2"/>
+                    <measurement group_id="B4" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                    <measurement group_id="B2" value="15"/>
+                    <measurement group_id="B3" value="17"/>
+                    <measurement group_id="B4" value="46"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change From Baseline in COWA Unique Word Count</title>
+        <description>Study has 3 arms (100mg, 150mg, or 200mg topiramate) and 3 periods per arm (topiramate, 2mg lorazepam, or placebo). Topiramate (TPM), Lorazepam (LZP), or Placebo (PLA) was given to the participant at the beginning of Sessions 2, 3, and 4 (crossover design). No drug was given at Sessions 1 and 5. The baseline value was defined as the average of the values at Session 1 and Session 5. The change from baseline for Topiramate is the value at 2.5 hours post-dose at the Topiramate visit minus the value at baseline, divided by the value at baseline; similarly for Lorazepam and Placebo.</description>
+        <time_frame>Session 1 to Session 5</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Arm: Topiramate 100mg, Period: Topiramate</title>
+            <description>Randomized to Topiramate; 100mg; lorazepam 2mg or placebo; Each subject in this arm received each treatment in random order with a two-week washout between treatments. This is the topiramate period.&#xD;
+Topiramate: 100 mg po, 1x</description>
+          </group>
+          <group group_id="O2">
+            <title>Arm:Topiramate 150mg, Period: Topiramate</title>
+            <description>Randomized to Topiramate; 150mg; lorazepam 2mg or placebo; Each subject in this arm received each treatment in random order with a two-week washout between treatments. This is the topiramate period.&#xD;
+Topiramate: 150 mg po, 1x</description>
+          </group>
+          <group group_id="O3">
+            <title>Arm: Topiramate 200mg, Period: Topiramate</title>
+            <description>Randomized to Topiramate; 200mg; lorazepam 2mg or placebo; Each subject in this arm received each treatment in random order with a two-week washout between treatments. This is the topiramate period.&#xD;
+Topiramate: 200 mg po, 1x</description>
+          </group>
+          <group group_id="O4">
+            <title>Arm: Topiramate 100mg, Period: Lorazepam</title>
+            <description>Randomized to Topiramate; 100mg; lorazepam 2mg or placebo; Each subject in this arm received each treatment in random order with a two-week washout between treatments. This is the lorazepam period.&#xD;
+Lorazepam: 2 mg po, 1x</description>
+          </group>
+          <group group_id="O5">
+            <title>Arm: Topiramate 150mg, Period: Lorazepam</title>
+            <description>Randomized to Topiramate; 150mg; lorazepam 2mg or placebo; Each subject in this arm received each treatment in random order with a two-week washout between treatments. This is the lorazepam period.&#xD;
+Lorazepam: 2 mg po, 1x</description>
+          </group>
+          <group group_id="O6">
+            <title>Arm: Topiramate 200mg, Period: Lorazepam</title>
+            <description>Randomized to Topiramate; 200mg; lorazepam 2mg or placebo; Each subject in this arm received each treatment in random order with a two-week washout between treatments. This is the lorazepam period.&#xD;
+Lorazepam: 2 mg po, 1x</description>
+          </group>
+          <group group_id="O7">
+            <title>Arm: Topiramate 100mg, Period: Placebo</title>
+            <description>Randomized to Topiramate; 100mg; lorazepam 2mg or placebo; Each subject in this arm received each treatment in random order with a two-week washout between treatments. This is the placebo period.&#xD;
+Placebo: po, 1x</description>
+          </group>
+          <group group_id="O8">
+            <title>Arm: Topiramate 150mg, Period: Placebo</title>
+            <description>Randomized to Topiramate; 150mg; lorazepam 2mg or placebo; Each subject in this arm received each treatment in random order with a two-week washout between treatments. This is the placebo period.&#xD;
+Placebo: po, 1x</description>
+          </group>
+          <group group_id="O9">
+            <title>Arm: Topiramate 200mg, Period: Placebo</title>
+            <description>Randomized to Topiramate; 200mg; lorazepam 2mg or placebo; Each subject in this arm received each treatment in random order with a two-week washout between treatments. This is the placebo period.&#xD;
+Placebo: po, 1x</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in COWA Unique Word Count</title>
+          <description>Study has 3 arms (100mg, 150mg, or 200mg topiramate) and 3 periods per arm (topiramate, 2mg lorazepam, or placebo). Topiramate (TPM), Lorazepam (LZP), or Placebo (PLA) was given to the participant at the beginning of Sessions 2, 3, and 4 (crossover design). No drug was given at Sessions 1 and 5. The baseline value was defined as the average of the values at Session 1 and Session 5. The change from baseline for Topiramate is the value at 2.5 hours post-dose at the Topiramate visit minus the value at baseline, divided by the value at baseline; similarly for Lorazepam and Placebo.</description>
+          <units>Word Count</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="14"/>
+                <count group_id="O2" value="15"/>
+                <count group_id="O3" value="17"/>
+                <count group_id="O4" value="14"/>
+                <count group_id="O5" value="15"/>
+                <count group_id="O6" value="17"/>
+                <count group_id="O7" value="14"/>
+                <count group_id="O8" value="15"/>
+                <count group_id="O9" value="17"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.407725385" spread="0.110593408"/>
+                    <measurement group_id="O2" value="-0.425898667" spread="0.186240451"/>
+                    <measurement group_id="O3" value="-0.412534118" spread="0.154640084"/>
+                    <measurement group_id="O4" value="-0.108298333" spread="0.240452491"/>
+                    <measurement group_id="O5" value="0.131452143" spread="0.263967943"/>
+                    <measurement group_id="O6" value="-0.095221176" spread="0.228163172"/>
+                    <measurement group_id="O7" value="-0.011651538" spread="0.152526619"/>
+                    <measurement group_id="O8" value="0.077431333" spread="0.176020802"/>
+                    <measurement group_id="O9" value="0.047164706" spread="0.166162762"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Change From Baseline in Spontaneous Narrative Raw Word Count</title>
+        <description>Study has 3 arms (100mg, 150mg, or 200mg topiramate) and 3 periods per arm (topiramate, 2mg lorazepam, or placebo). Topiramate (TPM), Lorazepam (LZP), or Placebo (PLA) was given to the participant at the beginning of Sessions 2, 3, and 4 (crossover design). No drug was given at Sessions 1 and 5. The baseline value was defined as the average of the values at Session 1 and Session 5. The change from baseline for Topiramate is the value at 2.5 hours post-dose at the Topiramate visit minus the value at baseline, divided by the value at baseline; similarly for Lorazepam and Placebo.</description>
+        <time_frame>Session 1 to Session 5</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Arm: Topiramate 100mg, Period: Topiramate</title>
+            <description>Randomized to Topiramate; 100mg; lorazepam 2mg or placebo; Each subject in this arm received each treatment in random order with a two-week washout between treatments. This is the topiramate period.&#xD;
+Topiramate: 100 mg po, 1x</description>
+          </group>
+          <group group_id="O2">
+            <title>Arm:Topiramate 150mg, Period: Topiramate</title>
+            <description>Randomized to Topiramate; 150mg; lorazepam 2mg or placebo; Each subject in this arm received each treatment in random order with a two-week washout between treatments. This is the topiramate period.&#xD;
+Topiramate: 150 mg po, 1x</description>
+          </group>
+          <group group_id="O3">
+            <title>Arm: Topiramate 200mg, Period: Topiramate</title>
+            <description>Randomized to Topiramate; 200mg; lorazepam 2mg or placebo; Each subject in this arm received each treatment in random order with a two-week washout between treatments. This is the topiramate period.&#xD;
+Topiramate: 200 mg po, 1x</description>
+          </group>
+          <group group_id="O4">
+            <title>Arm: Topiramate 100mg, Period: Lorazepam</title>
+            <description>Randomized to Topiramate; 100mg; lorazepam 2mg or placebo; Each subject in this arm received each treatment in random order with a two-week washout between treatments. This is the lorazepam period.&#xD;
+Lorazepam: 2 mg po, 1x</description>
+          </group>
+          <group group_id="O5">
+            <title>Arm: Topiramate 150mg, Period: Lorazepam</title>
+            <description>Randomized to Topiramate; 150mg; lorazepam 2mg or placebo; Each subject in this arm received each treatment in random order with a two-week washout between treatments. This is the lorazepam period.&#xD;
+Lorazepam: 2 mg po, 1x</description>
+          </group>
+          <group group_id="O6">
+            <title>Arm: Topiramate 200mg, Period: Lorazepam</title>
+            <description>Randomized to Topiramate; 200mg; lorazepam 2mg or placebo; Each subject in this arm received each treatment in random order with a two-week washout between treatments. This is the lorazepam period.&#xD;
+Lorazepam: 2 mg po, 1x</description>
+          </group>
+          <group group_id="O7">
+            <title>Arm: Topiramate 100mg, Period: Placebo</title>
+            <description>Randomized to Topiramate; 100mg; lorazepam 2mg or placebo; Each subject in this arm received each treatment in random order with a two-week washout between treatments. This is the placebo period.&#xD;
+Placebo: po, 1x</description>
+          </group>
+          <group group_id="O8">
+            <title>Arm: Topiramate 150mg, Period: Placebo</title>
+            <description>Randomized to Topiramate; 150mg; lorazepam 2mg or placebo; Each subject in this arm received each treatment in random order with a two-week washout between treatments. This is the placebo period.&#xD;
+Placebo: po, 1x</description>
+          </group>
+          <group group_id="O9">
+            <title>Arm: Topiramate 200mg, Period: Placebo</title>
+            <description>Randomized to Topiramate; 200mg; lorazepam 2mg or placebo; Each subject in this arm received each treatment in random order with a two-week washout between treatments. This is the placebo period.&#xD;
+Placebo: po, 1x</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Spontaneous Narrative Raw Word Count</title>
+          <description>Study has 3 arms (100mg, 150mg, or 200mg topiramate) and 3 periods per arm (topiramate, 2mg lorazepam, or placebo). Topiramate (TPM), Lorazepam (LZP), or Placebo (PLA) was given to the participant at the beginning of Sessions 2, 3, and 4 (crossover design). No drug was given at Sessions 1 and 5. The baseline value was defined as the average of the values at Session 1 and Session 5. The change from baseline for Topiramate is the value at 2.5 hours post-dose at the Topiramate visit minus the value at baseline, divided by the value at baseline; similarly for Lorazepam and Placebo.</description>
+          <units>Word Count</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="14"/>
+                <count group_id="O2" value="15"/>
+                <count group_id="O3" value="17"/>
+                <count group_id="O4" value="14"/>
+                <count group_id="O5" value="15"/>
+                <count group_id="O6" value="17"/>
+                <count group_id="O7" value="14"/>
+                <count group_id="O8" value="15"/>
+                <count group_id="O9" value="17"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.01596" spread="0.360237984"/>
+                    <measurement group_id="O2" value="-0.131732" spread="0.192165204"/>
+                    <measurement group_id="O3" value="-0.323135625" spread="0.297067179"/>
+                    <measurement group_id="O4" value="0.109636" spread="0.236323153"/>
+                    <measurement group_id="O5" value="0.016635385" spread="0.283748379"/>
+                    <measurement group_id="O6" value="-0.128177333" spread="0.281246222"/>
+                    <measurement group_id="O7" value="0.117455385" spread="0.360519103"/>
+                    <measurement group_id="O8" value="-0.01098" spread="0.272331286"/>
+                    <measurement group_id="O9" value="0.011456471" spread="0.225720885"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>30 days following the last administration of study drug.</time_frame>
+      <desc>Study is a 3x3 latin square design with 3 arms (100mg, 150mg, or 200mg topiramate) and 3 periods per arm (topiramate, 2mg lorazepam, or placebo). Topiramate (TPM), Lorazepam (LZP), or Placebo (PLA) was given to the participant at the beginning of Sessions 2, 3, and 4 (crossover design). Sessions 1 and 5 are washouts.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Topiramate 100mg</title>
+          <description>Randomized to Topiramate; 100mg; lorazepam 2mg or placebo; Each subject in this arm received each treatment in random order with a two-week washout between treatments</description>
+        </group>
+        <group group_id="E2">
+          <title>Topiramate 150mg</title>
+          <description>Randomized to Topiramate; 150mg; lorazepam 2mg or placebo; Each subject in this arm received each treatment in random order with a two-week washout between treatments</description>
+        </group>
+        <group group_id="E3">
+          <title>Topiramate 200mg</title>
+          <description>Randomized to Topiramate; 200 mg; lorazepam 2mg or placebo; Each subject in this arm received each treatment in random order with a two-week washout between treatments</description>
+        </group>
+        <group group_id="E4">
+          <title>Lorazepam 2mg</title>
+          <description>Randomized to Topiramate; 100, 150, or 200 mg; lorazepam 2mg; Each subject in this arm received each treatment in random order with a two-week washout between treatments</description>
+        </group>
+        <group group_id="E5">
+          <title>Placebo</title>
+          <description>Randomized to Topiramate; 100, 150, or 200 mg; placebo; Each subject in this arm received each treatment in random order with a two-week washout between treatments</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="17"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="46"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="46"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="17"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="46"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="46"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="17"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="46"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="46"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Eye disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Eye Twitching</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="17"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="46"/>
+                <counts group_id="E5" events="0" subjects_affected="0" subjects_at_risk="46"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Susan Marino</name_or_title>
+      <organization>University of Minnesota</organization>
+      <phone>612-624-2964</phone>
+      <email>marin007@umn.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

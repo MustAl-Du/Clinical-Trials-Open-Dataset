@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2150">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01834729</url>
+  </required_header>
+  <id_info>
+    <org_study_id>12-006090</org_study_id>
+    <secondary_id>1UL1RR024150</secondary_id>
+    <secondary_id>R01DK078924</secondary_id>
+    <nct_id>NCT01834729</nct_id>
+  </id_info>
+  <brief_title>Effects of Alpha-1 Antagonist, Stress and Relaxation on Anorectal Functions</brief_title>
+  <official_title>Effect of Stress and a Alpha-1 Antagonist on Anorectal Functions</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Mayo Clinic</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Center for Research Resources (NCRR)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Mayo Clinic</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is designed to better understand the effects of effects of stress, relaxation, and&#xD;
+      a medication alfuzosin on bowel control and emptying in healthy people and patients with&#xD;
+      bowel problems.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Normally, bowel emptying requires relaxation of the anal sphincter (i.e., lowermost end of&#xD;
+      intestinal tract) and pelvic muscles. Some people cannot relax these muscles normally and&#xD;
+      experience constipation. Alfuzosin is a medication which is approved to treat bladder but not&#xD;
+      bowel problems.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 2013</start_date>
+  <completion_date type="Actual">September 6, 2017</completion_date>
+  <primary_completion_date type="Actual">September 6, 2017</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Weekly Rate of Spontaneous Bowel Movements at 4 Weeks</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>A bowel movement is considered a spontaneous bowel movement (SBM) if no laxative, enema, or suppository was taken in the preceding 24 hours.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Weekly Rate of Complete Spontaneous Bowel Movements at 4 Weeks</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>If the subject indicates that the spontaneous bowel movement (SBM) was associated with a sensation of complete bowel emptying, the SBM will be counted as a complete spontaneous bowel movement (CSBM).</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">74</enrollment>
+  <condition>Constipation</condition>
+  <arm_group>
+    <arm_group_label>Alfuzosin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In Part A, subjects randomized to this arm will receive a single dose of oral alfuzosin immediate release (IR) 2.5 mg.&#xD;
+In Part B, only constipated patients will receive oral alfuzosin (10 mg extended release (ER)) capsules.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Subjects randomized to this arm will receive a single placebo capsule identical to the study drug.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Alfuzosin</intervention_name>
+    <description>oral alfuzosin immediate release (IR) 2.5 mg (Part A) or oral alfuzosin extended release (ER) 10 mg (Part B)</description>
+    <arm_group_label>Alfuzosin</arm_group_label>
+    <other_name>Xatral (immediate release 2.5 mg)</other_name>
+    <other_name>Uroxatral (extended release 10 mg)</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>placebo capsule identical to the study drug</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria for controls (Part A only):&#xD;
+&#xD;
+          -  Healthy&#xD;
+&#xD;
+          -  Able to provide written informed consent before participating in the study&#xD;
+&#xD;
+          -  Able to communicate adequately with the investigator and to comply with the&#xD;
+             requirements for the entire study.&#xD;
+&#xD;
+        Inclusion criteria for patients (Parts A and B):&#xD;
+&#xD;
+          -  Women with chronic constipation for 1 year with any 2 or more of the following&#xD;
+             symptoms for 3 months or longer, i.e. &lt;3 bowel motions/week, straining ≥ 25% of time,&#xD;
+             hard or lumpy stools ≥ 25% of time, incomplete evacuation ≥ 25% of time, feeling of&#xD;
+             anorectal blockage ≥ 25% of time.&#xD;
+&#xD;
+          -  Able to provide written informed consent before participating in the study&#xD;
+&#xD;
+          -  Able to communicate adequately with the investigator and to comply with the&#xD;
+             requirements for the entire study.&#xD;
+&#xD;
+        Exclusion criteria for controls (Part A); Items indicated with an asterisk (*) are also&#xD;
+        exclusion criteria for patients (Parts A and B):&#xD;
+&#xD;
+          -  Clinical evidence of significant cardiovascular, respiratory, renal, hepatic,&#xD;
+             gastrointestinal, hematological, neurological, psychiatric or other disease that may&#xD;
+             interfere with the objectives of the study and/or pose safety concerns.*&#xD;
+&#xD;
+          -  Current symptomatic orthostatic hypotension or history of hypotensive response as&#xD;
+             defined by a reduction of ≥ 30 mmHg in systolic or ≥ 20 mmHg in diastolic blood&#xD;
+             pressure.*&#xD;
+&#xD;
+          -  Current symptoms of a functional gastrointestinal disorder assessed by questionnaire.&#xD;
+&#xD;
+          -  Putative risk factors for pelvic floor trauma, i.e. six or more vaginal deliveries,&#xD;
+             birthweight &gt;4500gms (macrosomia), or known 4th degree perineal tear.&#xD;
+&#xD;
+          -  Inability to withdraw medications prior to the baseline period and throughout the&#xD;
+             study (except as protocol defined rescue medications):&#xD;
+&#xD;
+               1. Medications that substantially alter GI transit* including laxatives, magnesium&#xD;
+                  and aluminum containing antacids, prokinetics, erythromycin, narcotics,&#xD;
+                  anti-cholinergics, tricyclic antidepressants, serotonin-norepinephrine reuptake&#xD;
+                  inhibitors (SNRI) and newer antidepressants&#xD;
+&#xD;
+               2. Selective serotonin reuptake inhibitor (SSRI) antidepressants are permissible at&#xD;
+                  low, stable doses. All medications shall be reviewed and dis/approved by the&#xD;
+                  principal investigator on a case by case basis.*&#xD;
+&#xD;
+               3. Potent Cytochrome P450 3A4 (Cyp3A4) inhibitors such as ketoconazole, itraconazole&#xD;
+                  and ritonavir, nitrates and phosphodiesterase inhibitors.* Note: stable doses of&#xD;
+                  thyroid replacement, estrogen replacement, low dose aspirin for cardioprotection,&#xD;
+                  and birth control (but with adequate backup contraception as drug-interactions&#xD;
+                  with birth control have not been conducted) are permissible.*&#xD;
+&#xD;
+          -  Stable dose of thyroxine will be permitted*&#xD;
+&#xD;
+          -  Prolonged Q-Tc interval &gt; 500 msec on ECG within the last three months*&#xD;
+&#xD;
+          -  Estimated glomerular filtration rate (eGFR) &lt; 60 mL/minute. * Based on guidelines and&#xD;
+             recommendations from the National Kidney Disease Education Program (NKDEP) of the&#xD;
+             National Institutes of Health (NIH) and the Kidney Disease Outcomes Quality Initiative&#xD;
+             (KDOQI) of the National Kidney Foundation, the an eGFR using the Modification of Diet&#xD;
+             in Renal Disease (MDRD) Study equation is more accurate than a creatinine clearance&#xD;
+             calculated from serum and urine measurements. The formula is eGFR (mL/min/1.73 m2) =&#xD;
+             175 x (Scr)-1.154 x (Age)-0.203 x (0.742 if female) x (1.210 if African American).&#xD;
+             Based on our extensive experience in clinical practice and research studies, it is&#xD;
+             anticipated that all potentially eligible participants will have normal serum&#xD;
+             creatinine.&#xD;
+&#xD;
+          -  History of allergies to alpha-1 adrenoreceptor antagonist*&#xD;
+&#xD;
+          -  Active rectal inflammation, cancer; perianal sepsis; history of pelvic radiation,&#xD;
+             rectosigmoid surgery or inflammatory bowel disease*&#xD;
+&#xD;
+          -  Pregnant women, prisoners and institutionalized individuals*&#xD;
+&#xD;
+          -  Persons with a latex allergy.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Adil Bharucha, MBBS, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Mayo Clinic</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Mayo Clinic Rochester</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Chakraborty S, Feuerhak K, Muthyala A, Harmsen WS, Bailey KR, Bharucha AE. Effects of Alfuzosin, an α(1)-Adrenergic Antagonist, on Anal Pressures and Bowel Habits in Women With and Without Defecatory Disorders. Clin Gastroenterol Hepatol. 2019 May;17(6):1138-1147.e3. doi: 10.1016/j.cgh.2018.08.036. Epub 2018 Aug 18.</citation>
+    <PMID>30130627</PMID>
+  </results_reference>
+  <verification_date>January 2019</verification_date>
+  <study_first_submitted>April 15, 2013</study_first_submitted>
+  <study_first_submitted_qc>April 17, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 18, 2013</study_first_posted>
+  <results_first_submitted>November 15, 2018</results_first_submitted>
+  <results_first_submitted_qc>December 18, 2018</results_first_submitted_qc>
+  <results_first_posted type="Actual">January 11, 2019</results_first_posted>
+  <last_update_submitted>January 10, 2019</last_update_submitted>
+  <last_update_submitted_qc>January 10, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 29, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Mayo Clinic</investigator_affiliation>
+    <investigator_full_name>Adil Bharucha</investigator_full_name>
+    <investigator_title>PI</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Constipation</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alfuzosin</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>June 20, 2016</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/29/NCT01834729/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>A total of 38 healthy subjects and 36 subjects with constipation for 1 year or longer participated in the study. Both the healthy subjects and constipation subjects participated in Part A. Only the constipation subjects participated in Part B.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Control Placebo</title>
+          <description>Healthy subjects defined as not having a functional bowel disorder randomized to this arm will receive a placebo capsule identical to the study drug. Placebo: placebo capsule identical to the study drug.</description>
+        </group>
+        <group group_id="P2">
+          <title>Control Alfuzosin</title>
+          <description>Healthy subjects defined as not having a functional bowel disorder randomized to this arm will receive a receive a single dose of oral alfuzosin immediate release (IR) 2.5 mg.</description>
+        </group>
+        <group group_id="P3">
+          <title>Constipation Placebo</title>
+          <description>Subjects with constipation for 1 year or longer randomized to this arm will receive a placebo capsule identical to the study drug. Placebo: placebo capsule identical to the study drug</description>
+        </group>
+        <group group_id="P4">
+          <title>Constipation Alfuzosin</title>
+          <description>Subjects with constipation for 1 year or longer randomized to this arm will receive a single dose of oral alfuzosin immediate release (IR) 2.5 mg.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="18"/>
+                <participants group_id="P2" count="20"/>
+                <participants group_id="P3" count="18"/>
+                <participants group_id="P4" count="18"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="17"/>
+                <participants group_id="P2" count="19"/>
+                <participants group_id="P3" count="15"/>
+                <participants group_id="P4" count="16"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="1"/>
+                <participants group_id="P3" count="3"/>
+                <participants group_id="P4" count="2"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Did not return bowel diaries</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="3"/>
+                <participants group_id="P4" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="1"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Adverse Event</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Control Placebo</title>
+          <description>Subjects randomized to this arm will receive a placebo capsule identical to the study drug.&#xD;
+Placebo: placebo capsule identical to the study drug</description>
+        </group>
+        <group group_id="B2">
+          <title>Control Alfuzosin</title>
+          <description>Subjects randomized to this arm will receive a single dose of oral alfuzosin immediate release (IR) 2.5 mg.</description>
+        </group>
+        <group group_id="B3">
+          <title>Constipation Placebo</title>
+          <description>Subjects randomized to this arm will receive a placebo capsule identical to the study drug.&#xD;
+Placebo: placebo capsule identical to the study drug</description>
+        </group>
+        <group group_id="B4">
+          <title>Constipation Alfuzosin</title>
+          <description>In this arm, only constipated patients will receive oral alfuzosin (10 mg extended release (ER)) capsules.&#xD;
+Alfuzosin: oral alfuzosin immediate release (IR) 2.5 mg (Part A) or oral alfuzosin extended release (ER) 10 mg (Part B)</description>
+        </group>
+        <group group_id="B5">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="18"/>
+            <count group_id="B2" value="20"/>
+            <count group_id="B3" value="18"/>
+            <count group_id="B4" value="18"/>
+            <count group_id="B5" value="74"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <population>A total of 38 healthy subjects and 36 subjects with constipation for 1 year or longer participated in the study. Both the healthy subjects and constipation subjects participated in Part A. Only the constipation subjects participated in Part B.</population>
+          <units>years</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="18"/>
+                    <count group_id="B2" value="20"/>
+                    <count group_id="B3" value="18"/>
+                    <count group_id="B4" value="18"/>
+                    <count group_id="B5" value="74"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="32" lower_limit="26" upper_limit="51"/>
+                    <measurement group_id="B2" value="45" lower_limit="28" upper_limit="53"/>
+                    <measurement group_id="B3" value="36" lower_limit="26" upper_limit="50"/>
+                    <measurement group_id="B4" value="40" lower_limit="35" upper_limit="44"/>
+                    <measurement group_id="B5" value="40" lower_limit="26" upper_limit="53"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="18"/>
+                    <count group_id="B2" value="20"/>
+                    <count group_id="B3" value="18"/>
+                    <count group_id="B4" value="18"/>
+                    <count group_id="B5" value="74"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="18"/>
+                    <measurement group_id="B2" value="20"/>
+                    <measurement group_id="B3" value="18"/>
+                    <measurement group_id="B4" value="18"/>
+                    <measurement group_id="B5" value="74"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race and Ethnicity Not Collected</title>
+          <population>Race and Ethnicity were not collected from any participant.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="0"/>
+                    <count group_id="B2" value="0"/>
+                    <count group_id="B3" value="0"/>
+                    <count group_id="B4" value="0"/>
+                    <count group_id="B5" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="18"/>
+                    <count group_id="B2" value="20"/>
+                    <count group_id="B3" value="18"/>
+                    <count group_id="B4" value="18"/>
+                    <count group_id="B5" value="74"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="18"/>
+                    <measurement group_id="B2" value="20"/>
+                    <measurement group_id="B3" value="18"/>
+                    <measurement group_id="B4" value="18"/>
+                    <measurement group_id="B5" value="74"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Body mass index</title>
+          <population>A total of 38 healthy subjects and 36 subjects with constipation for 1 year or longer participated in the study. Both the healthy subjects and constipation subjects participated in Part A. Only the constipation subjects participated in Part B.</population>
+          <units>kg/m^2</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="18"/>
+                    <count group_id="B2" value="20"/>
+                    <count group_id="B3" value="18"/>
+                    <count group_id="B4" value="18"/>
+                    <count group_id="B5" value="74"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="24" lower_limit="24" upper_limit="29"/>
+                    <measurement group_id="B2" value="27" lower_limit="23" upper_limit="29"/>
+                    <measurement group_id="B3" value="25" lower_limit="21" upper_limit="30"/>
+                    <measurement group_id="B4" value="25" lower_limit="19" upper_limit="29"/>
+                    <measurement group_id="B5" value="26" lower_limit="23" upper_limit="29"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Weekly Rate of Spontaneous Bowel Movements at 4 Weeks</title>
+        <description>A bowel movement is considered a spontaneous bowel movement (SBM) if no laxative, enema, or suppository was taken in the preceding 24 hours.</description>
+        <time_frame>4 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Control Placebo</title>
+            <description>Subjects randomized to this arm will receive a placebo capsule identical to the study drug.&#xD;
+Placebo: placebo capsule identical to the study drug</description>
+          </group>
+          <group group_id="O2">
+            <title>Control Alfuzosin</title>
+            <description>Subjects randomized to this arm will receive a single dose of oral alfuzosin immediate release (IR) 2.5 mg.</description>
+          </group>
+          <group group_id="O3">
+            <title>Constipation Placebo</title>
+            <description>Subjects randomized to this arm will receive a placebo capsule identical to the study drug.&#xD;
+Placebo: placebo capsule identical to the study drug</description>
+          </group>
+          <group group_id="O4">
+            <title>Constipation Alfuzosin</title>
+            <description>Constipated patients will receive oral alfuzosin (10 mg extended release (ER) capsules.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Weekly Rate of Spontaneous Bowel Movements at 4 Weeks</title>
+          <description>A bowel movement is considered a spontaneous bowel movement (SBM) if no laxative, enema, or suppository was taken in the preceding 24 hours.</description>
+          <units>spontaneous bowel movements per week</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="18"/>
+                <count group_id="O2" value="20"/>
+                <count group_id="O3" value="18"/>
+                <count group_id="O4" value="18"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.6" spread="0.3"/>
+                    <measurement group_id="O2" value="1.3" spread="0.1"/>
+                    <measurement group_id="O3" value="1.6" spread="0.4"/>
+                    <measurement group_id="O4" value="1.3" spread="0.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O3</group_id>
+              <group_id>O4</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.78</p_value>
+            <method>Least squares means</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Weekly Rate of Complete Spontaneous Bowel Movements at 4 Weeks</title>
+        <description>If the subject indicates that the spontaneous bowel movement (SBM) was associated with a sensation of complete bowel emptying, the SBM will be counted as a complete spontaneous bowel movement (CSBM).</description>
+        <time_frame>4 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Control Placebo</title>
+            <description>Subjects randomized to this arm will receive a placebo capsule identical to the study drug.&#xD;
+Placebo: placebo capsule identical to the study drug</description>
+          </group>
+          <group group_id="O2">
+            <title>Control Alfuzosin</title>
+            <description>Subjects randomized to this arm will receive a single dose of oral alfuzosin immediate release (IR) 2.5 mg.</description>
+          </group>
+          <group group_id="O3">
+            <title>Constipation Placebo</title>
+            <description>Subjects randomized to this arm will receive a placebo capsule identical to the study drug.&#xD;
+Placebo: placebo capsule identical to the study drug</description>
+          </group>
+          <group group_id="O4">
+            <title>Constipation Alfuzosin</title>
+            <description>Constipated patients will receive oral alfuzosin (10 mg extended release (ER)) capsules.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Weekly Rate of Complete Spontaneous Bowel Movements at 4 Weeks</title>
+          <description>If the subject indicates that the spontaneous bowel movement (SBM) was associated with a sensation of complete bowel emptying, the SBM will be counted as a complete spontaneous bowel movement (CSBM).</description>
+          <units>complete SBM per week</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="18"/>
+                <count group_id="O2" value="20"/>
+                <count group_id="O3" value="18"/>
+                <count group_id="O4" value="18"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.6" spread="0.1"/>
+                    <measurement group_id="O2" value="0.7" spread="0.05"/>
+                    <measurement group_id="O3" value="0.7" spread="0.1"/>
+                    <measurement group_id="O4" value="0.7" spread="0.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O3</group_id>
+              <group_id>O4</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.57</p_value>
+            <method>Least squares means</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Subject safety monitoring was performed for six hours after treatment in healthy patients and two weeks in constipated patients.</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Control Placebo</title>
+          <description>Subjects randomized to this arm will receive a placebo capsule identical to the study drug.&#xD;
+Placebo: placebo capsule identical to the study drug</description>
+        </group>
+        <group group_id="E2">
+          <title>Control Alfuzosin</title>
+          <description>Subjects randomized to this arm will receive a single dose of oral alfuzosin immediate release (IR) 2.5 mg.</description>
+        </group>
+        <group group_id="E3">
+          <title>Constipation Placebo</title>
+          <description>Subjects randomized to this arm will receive a placebo capsule identical to the study drug.&#xD;
+Placebo: placebo capsule identical to the study drug</description>
+        </group>
+        <group group_id="E4">
+          <title>Constipation Afluzosin</title>
+          <description>Constipated patients will receive oral alfuzosin (10 mg extended release (ER)) capsules.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="18"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="20"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="18"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="18"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="18"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="20"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="18"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="18"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="18"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="20"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="18"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="18"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypotension</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="18"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="20"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="18"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="18"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Abdominal cramps</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="18"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="20"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="18"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="18"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="18"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="20"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="18"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="18"/>
+              </event>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="18"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="20"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="18"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="18"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>Men were not studied; baseline bowel diary was not preceded by a run-in period; treatment phase only lasted 2 weeks.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Dr. Adil E. Bharucha</name_or_title>
+      <organization>Mayo Clinic</organization>
+      <phone>507-284-2687</phone>
+      <email>bharucha.adil@mayo.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

@@ -1,0 +1,241 @@
+{
+  "FullStudy":{
+    "Rank":480,
+    "Study":{
+      "ProtocolSection":{
+        "IdentificationModule":{
+          "NCTId":"NCT05540301",
+          "OrgStudyIdInfo":{
+            "OrgStudyId":"3/2015/MPT"
+          },
+          "Organization":{
+            "OrgFullName":"King Saud University",
+            "OrgClass":"OTHER"
+          },
+          "BriefTitle":"Sleeper's and Adduction Stretch to Increase Shoulder ROM",
+          "OfficialTitle":"Effectiveness of Modified Sleeper Stretch And Modified Cross-Body Adduction Stretch To Increase Shoulder Internal Rotation Range of Motion In Tennis Players"
+        },
+        "StatusModule":{
+          "StatusVerifiedDate":"September 2022",
+          "OverallStatus":"Completed",
+          "ExpandedAccessInfo":{
+            "HasExpandedAccess":"No"
+          },
+          "StartDateStruct":{
+            "StartDate":"March 8, 2016",
+            "StartDateType":"Actual"
+          },
+          "PrimaryCompletionDateStruct":{
+            "PrimaryCompletionDate":"January 23, 2017",
+            "PrimaryCompletionDateType":"Actual"
+          },
+          "CompletionDateStruct":{
+            "CompletionDate":"April 6, 2017",
+            "CompletionDateType":"Actual"
+          },
+          "StudyFirstSubmitDate":"September 11, 2022",
+          "StudyFirstSubmitQCDate":"September 11, 2022",
+          "StudyFirstPostDateStruct":{
+            "StudyFirstPostDate":"September 14, 2022",
+            "StudyFirstPostDateType":"Actual"
+          },
+          "LastUpdateSubmitDate":"September 11, 2022",
+          "LastUpdatePostDateStruct":{
+            "LastUpdatePostDate":"September 14, 2022",
+            "LastUpdatePostDateType":"Actual"
+          }
+        },
+        "SponsorCollaboratorsModule":{
+          "ResponsibleParty":{
+            "ResponsiblePartyType":"Principal Investigator",
+            "ResponsiblePartyInvestigatorFullName":"Masood Khan",
+            "ResponsiblePartyInvestigatorTitle":"Principal Investigator",
+            "ResponsiblePartyInvestigatorAffiliation":"King Saud University"
+          },
+          "LeadSponsor":{
+            "LeadSponsorName":"King Saud University",
+            "LeadSponsorClass":"OTHER"
+          }
+        },
+        "OversightModule":{
+          "OversightHasDMC":"No",
+          "IsFDARegulatedDrug":"No",
+          "IsFDARegulatedDevice":"No"
+        },
+        "DescriptionModule":{
+          "BriefSummary":"The study aimed to compare the efficacy of modified sleeper stretch and modified cross-body adduction stretch in improving shoulder internal rotation range of motion and upper limb function. Thirty male lawn tennis players aged between 20 to 35, with more than 150 glenohumeral internal rotation deficiency (GIRD) on the dominant shoulder (compared to the nondominant side) participate in the study and divided into two groups (A and B). Group A received a modified sleeper stretch and group B received a modified cross-body adduction stretch for four weeks, five times per week. The outcome measures were the internal rotation range of motion measured by a universal goniometer and upper limb functions measured by the Disability of the Arm, Shoulder, and Hand (DASH) scale."
+        },
+        "ConditionsModule":{
+          "ConditionList":{
+            "Condition":[
+              "Stiffness of Shoulder, Not Elsewhere Classified"
+            ]
+          },
+          "KeywordList":{
+            "Keyword":[
+              "Sleeper Stretch",
+              "Cross-Body Stretch",
+              "Range of Motion",
+              "Shoulder",
+              "Tennis Players"
+            ]
+          }
+        },
+        "DesignModule":{
+          "StudyType":"Interventional",
+          "PhaseList":{
+            "Phase":[
+              "Not Applicable"
+            ]
+          },
+          "DesignInfo":{
+            "DesignAllocation":"Randomized",
+            "DesignInterventionModel":"Parallel Assignment",
+            "DesignInterventionModelDescription":"Two-group two-factor research design was used.",
+            "DesignPrimaryPurpose":"Treatment",
+            "DesignMaskingInfo":{
+              "DesignMasking":"Double",
+              "DesignWhoMaskedList":{
+                "DesignWhoMasked":[
+                  "Participant",
+                  "Outcomes Assessor"
+                ]
+              }
+            }
+          },
+          "EnrollmentInfo":{
+            "EnrollmentCount":"30",
+            "EnrollmentType":"Actual"
+          }
+        },
+        "ArmsInterventionsModule":{
+          "ArmGroupList":{
+            "ArmGroup":[
+              {
+                "ArmGroupLabel":"Modified Sleeper Stretch Group",
+                "ArmGroupType":"Experimental",
+                "ArmGroupDescription":"Modified sleeper stretch was performed for four weeks.",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Other: Modified sleeper stretching"
+                  ]
+                }
+              },{
+                "ArmGroupLabel":"Modified Cross-Body Adduction Stretch Group",
+                "ArmGroupType":"Active Comparator",
+                "ArmGroupDescription":"Modified cross-body adduction stretch was performed for four weeks.",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Other: Modified cross-body adduction stretch"
+                  ]
+                }
+              }
+            ]
+          },
+          "InterventionList":{
+            "Intervention":[
+              {
+                "InterventionType":"Other",
+                "InterventionName":"Modified sleeper stretching",
+                "InterventionDescription":"Modified sleeper stretching was performed on shoulder joint to increase internal rotation range of motion.",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Modified Sleeper Stretch Group"
+                  ]
+                }
+              },{
+                "InterventionType":"Other",
+                "InterventionName":"Modified cross-body adduction stretch",
+                "InterventionDescription":"Modified cross-body adduction stretching was performed on shoulder joint to increase internal rotation range of motion.",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Modified Cross-Body Adduction Stretch Group"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "OutcomesModule":{
+          "PrimaryOutcomeList":{
+            "PrimaryOutcome":[
+              {
+                "PrimaryOutcomeMeasure":"Internal rotation range of motion",
+                "PrimaryOutcomeDescription":"Internal rotation range of motion (ROM) was measured using the universal goniometer before and after the completion of the intervention. The greater the ROM, the better the prognosis.",
+                "PrimaryOutcomeTimeFrame":"4 weeks."
+              },{
+                "PrimaryOutcomeMeasure":"Upper limb functions",
+                "PrimaryOutcomeDescription":"The Disability of the Arm, Shoulder, and Hand (DASH) scale was used to assess the upper limb functions. The DASH consists mainly of a 30-item disability/symptom scale, scored 0 (no disability) to 100. The higher the score, the worse the prognosis.",
+                "PrimaryOutcomeTimeFrame":"4 weeks."
+              }
+            ]
+          }
+        },
+        "EligibilityModule":{
+          "EligibilityCriteria":"Inclusion Criteria:\n\nLawn Tennis Players\nMale\nmore than 15 degree glenohumeral internal rotation deficiency\n\nExclusion Criteria:\n\nsystemic or metabolic disorders\na positive test for labral lesions or rotator cuff tears\na history of recent fracture\na history of orthopaedic surgery in the upper limbs or cervical region",
+          "HealthyVolunteers":"Accepts Healthy Volunteers",
+          "Gender":"Male",
+          "MinimumAge":"20 Years",
+          "MaximumAge":"35 Years",
+          "StdAgeList":{
+            "StdAge":[
+              "Adult"
+            ]
+          }
+        },
+        "ContactsLocationsModule":{
+          "OverallOfficialList":{
+            "OverallOfficial":[
+              {
+                "OverallOfficialName":"Masood Khan, M.P.Th",
+                "OverallOfficialAffiliation":"King Saud University",
+                "OverallOfficialRole":"Principal Investigator"
+              }
+            ]
+          },
+          "LocationList":{
+            "Location":[
+              {
+                "LocationFacility":"King Saud University",
+                "LocationCity":"Riyadh",
+                "LocationZip":"11433",
+                "LocationCountry":"Saudi Arabia"
+              }
+            ]
+          }
+        },
+        "IPDSharingStatementModule":{
+          "IPDSharing":"No"
+        }
+      },
+      "DerivedSection":{
+        "MiscInfoModule":{
+          "VersionHolder":"September 19, 2022"
+        },
+        "ConditionBrowseModule":{
+          "ConditionBrowseLeafList":{
+            "ConditionBrowseLeaf":[
+              {
+                "ConditionBrowseLeafId":"T4202",
+                "ConditionBrowseLeafName":"Oculocerebral Syndrome With Hypopigmentation",
+                "ConditionBrowseLeafRelevance":"low"
+              }
+            ]
+          },
+          "ConditionBrowseBranchList":{
+            "ConditionBrowseBranch":[
+              {
+                "ConditionBrowseBranchAbbrev":"Rare",
+                "ConditionBrowseBranchName":"Rare Diseases"
+              },{
+                "ConditionBrowseBranchAbbrev":"All",
+                "ConditionBrowseBranchName":"All Conditions"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+

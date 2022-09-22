@@ -1,0 +1,393 @@
+{
+  "FullStudy":{
+    "Rank":488,
+    "Study":{
+      "ProtocolSection":{
+        "IdentificationModule":{
+          "NCTId":"NCT05540197",
+          "OrgStudyIdInfo":{
+            "OrgStudyId":"NL79536.058.22"
+          },
+          "Organization":{
+            "OrgFullName":"Leiden University Medical Center",
+            "OrgClass":"OTHER"
+          },
+          "BriefTitle":"Arginine-stimulated Prediction of Early Outcome After Islet Transplantation",
+          "OfficialTitle":"Arginine-stimulated Prediction of Early Outcome After Islet Transplantation",
+          "Acronym":"ALADDIN"
+        },
+        "StatusModule":{
+          "StatusVerifiedDate":"September 2022",
+          "OverallStatus":"Not yet recruiting",
+          "ExpandedAccessInfo":{
+            "HasExpandedAccess":"No"
+          },
+          "StartDateStruct":{
+            "StartDate":"October 2022",
+            "StartDateType":"Anticipated"
+          },
+          "PrimaryCompletionDateStruct":{
+            "PrimaryCompletionDate":"October 2025",
+            "PrimaryCompletionDateType":"Anticipated"
+          },
+          "CompletionDateStruct":{
+            "CompletionDate":"October 2025",
+            "CompletionDateType":"Anticipated"
+          },
+          "StudyFirstSubmitDate":"September 9, 2022",
+          "StudyFirstSubmitQCDate":"September 9, 2022",
+          "StudyFirstPostDateStruct":{
+            "StudyFirstPostDate":"September 14, 2022",
+            "StudyFirstPostDateType":"Actual"
+          },
+          "LastUpdateSubmitDate":"September 9, 2022",
+          "LastUpdatePostDateStruct":{
+            "LastUpdatePostDate":"September 14, 2022",
+            "LastUpdatePostDateType":"Actual"
+          }
+        },
+        "SponsorCollaboratorsModule":{
+          "ResponsibleParty":{
+            "ResponsiblePartyType":"Principal Investigator",
+            "ResponsiblePartyInvestigatorFullName":"Eelco JP de Koning",
+            "ResponsiblePartyInvestigatorTitle":"Prof. Eelco de Koning",
+            "ResponsiblePartyInvestigatorAffiliation":"Leiden University Medical Center"
+          },
+          "LeadSponsor":{
+            "LeadSponsorName":"Leiden University Medical Center",
+            "LeadSponsorClass":"OTHER"
+          }
+        },
+        "OversightModule":{
+          "OversightHasDMC":"Yes",
+          "IsFDARegulatedDrug":"No",
+          "IsFDARegulatedDevice":"No"
+        },
+        "DescriptionModule":{
+          "BriefSummary":"Through islet transplantation, functional β-cell mass can be restored. Allogeneic islet transplantation is a treatment modality for a select group of patients with complicated type 1 diabetes mellitus. For patients undergoing (partial) pancreas resection, autologous islet transplantation may help prevent complicated diabetes. Up until now, no studies have been performed on early islet graft function in the first week after transplantation. Early graft function may be a predictor for estimating long-term islet graft success.\n\nArginine can excite β-cells to release insulin. It can thus provide an estimate of β-cell secretory capacity and can be used as an alternative to (oral) glucose tolerance tests. In this study, we aim to find a predictor model for islet graft function by assessing peak C-peptide after arginine stimulus in the early post-transplantation phase."
+        },
+        "ConditionsModule":{
+          "ConditionList":{
+            "Condition":[
+              "Islets of Langerhans Transplantation",
+              "Diabetes Mellitus",
+              "Chronic Pancreatitis"
+            ]
+          },
+          "KeywordList":{
+            "Keyword":[
+              "total pancreatectomy",
+              "autologous islet transplantation",
+              "TPIAT",
+              "beta-cell function",
+              "c-peptide",
+              "arginine",
+              "mixed meal tolerance test",
+              "allogeneic islet transplantation",
+              "islet function",
+              "ibmir"
+            ]
+          }
+        },
+        "DesignModule":{
+          "StudyType":"Observational",
+          "PatientRegistry":"No",
+          "DesignInfo":{
+            "DesignObservationalModelList":{
+              "DesignObservationalModel":[
+                "Cohort"
+              ]
+            },
+            "DesignTimePerspectiveList":{
+              "DesignTimePerspective":[
+                "Prospective"
+              ]
+            }
+          },
+          "BioSpec":{
+            "BioSpecRetention":"Samples With DNA",
+            "BioSpecDescription":"Plasma to analyse circulating free DNA, microRNA, T-cell phenotype. Blood cell composition."
+          },
+          "EnrollmentInfo":{
+            "EnrollmentCount":"30",
+            "EnrollmentType":"Anticipated"
+          }
+        },
+        "ArmsInterventionsModule":{
+          "ArmGroupList":{
+            "ArmGroup":[
+              {
+                "ArmGroupLabel":"Autologous islet transplantation",
+                "ArmGroupDescription":"Arginine stimulation test: 5 grams of arginine hydrochloride intravenously. Performed at baseline after mixed meal tolerance test (MMTT), performed separately at day -1 or 0, day 1, day 3, day 7 and 3 months, and also at 3 months after MMTT."
+              },{
+                "ArmGroupLabel":"Allogeneic islet transplantation",
+                "ArmGroupDescription":"Arginine stimulation test: 5 grams of arginine hydrochloride intravenously. Performed at day -1 or 0, day 1, day 3, day 7, 3 months and at 3 months after MMTT."
+              }
+            ]
+          }
+        },
+        "OutcomesModule":{
+          "PrimaryOutcomeList":{
+            "PrimaryOutcome":[
+              {
+                "PrimaryOutcomeMeasure":"Early islet graft function",
+                "PrimaryOutcomeDescription":"Peak C-peptide during AST at day 3",
+                "PrimaryOutcomeTimeFrame":"Day 3"
+              },{
+                "PrimaryOutcomeMeasure":"Early islet graft function",
+                "PrimaryOutcomeDescription":"AUC C-peptide during MMTT at 3 months",
+                "PrimaryOutcomeTimeFrame":"Month 3"
+              }
+            ]
+          },
+          "SecondaryOutcomeList":{
+            "SecondaryOutcome":[
+              {
+                "SecondaryOutcomeMeasure":"Early islet graft function",
+                "SecondaryOutcomeDescription":"Peak C-peptide during AST and MMTT (other than primary)",
+                "SecondaryOutcomeTimeFrame":"Up to 3 months"
+              },{
+                "SecondaryOutcomeMeasure":"Early islet graft function",
+                "SecondaryOutcomeDescription":"AUC C-peptide during AST and MMTT (other than primary)",
+                "SecondaryOutcomeTimeFrame":"Up to 3 months"
+              },{
+                "SecondaryOutcomeMeasure":"Insulin secretory capacity",
+                "SecondaryOutcomeDescription":"Relationship between in vitro secretion and in vivo secretion",
+                "SecondaryOutcomeTimeFrame":"Up to 3 months"
+              },{
+                "SecondaryOutcomeMeasure":"Beta-cell death",
+                "SecondaryOutcomeDescription":"Circulating free INS DNA (INS cfDNA)",
+                "SecondaryOutcomeTimeFrame":"Up to 3 months"
+              },{
+                "SecondaryOutcomeMeasure":"Beta-cell death",
+                "SecondaryOutcomeDescription":"insulin - proinsulin ratio",
+                "SecondaryOutcomeTimeFrame":"Up to 3 months"
+              },{
+                "SecondaryOutcomeMeasure":"Beta-cell death",
+                "SecondaryOutcomeDescription":"Plasma circulating microRNA",
+                "SecondaryOutcomeTimeFrame":"Up to 3 months"
+              },{
+                "SecondaryOutcomeMeasure":"Complement factors",
+                "SecondaryOutcomeDescription":"Markers of complement activation",
+                "SecondaryOutcomeTimeFrame":"Up to 3 months"
+              },{
+                "SecondaryOutcomeMeasure":"Immunological markers",
+                "SecondaryOutcomeDescription":"Peripheral blood mononuclear cell (PBMC) composition",
+                "SecondaryOutcomeTimeFrame":"Up to 3 months"
+              },{
+                "SecondaryOutcomeMeasure":"Immunological markers",
+                "SecondaryOutcomeDescription":"T-cell phenotyping",
+                "SecondaryOutcomeTimeFrame":"Up to 3 months"
+              },{
+                "SecondaryOutcomeMeasure":"Beta cell graft function",
+                "SecondaryOutcomeDescription":"Time in range, time below range, time above range as measured by Flash Glucose Monitoring (FGM) or Continuous Glucose Monitoring (CGM)",
+                "SecondaryOutcomeTimeFrame":"Up to 3 months"
+              },{
+                "SecondaryOutcomeMeasure":"Beta cell graft function",
+                "SecondaryOutcomeDescription":"assessed by Igls 2.0 criteria",
+                "SecondaryOutcomeTimeFrame":"3 months"
+              },{
+                "SecondaryOutcomeMeasure":"Treatment success",
+                "SecondaryOutcomeDescription":"assessed by Igls 2.0 criteria",
+                "SecondaryOutcomeTimeFrame":"3 months"
+              },{
+                "SecondaryOutcomeMeasure":"Beta cell graft function",
+                "SecondaryOutcomeDescription":"Amount of severe hypoglycaemic events",
+                "SecondaryOutcomeTimeFrame":"Up to 3 months"
+              },{
+                "SecondaryOutcomeMeasure":"Beta cell graft function",
+                "SecondaryOutcomeDescription":"Insulin requirements (IU/kg/day)",
+                "SecondaryOutcomeTimeFrame":"Up to 3 months"
+              },{
+                "SecondaryOutcomeMeasure":"Glycemic control",
+                "SecondaryOutcomeDescription":"HbA1c (mmol/mol)",
+                "SecondaryOutcomeTimeFrame":"Up to 3 months"
+              },{
+                "SecondaryOutcomeMeasure":"Coagulation markers",
+                "SecondaryOutcomeDescription":"Markers indicative for activation of the coagulation cascade",
+                "SecondaryOutcomeTimeFrame":"Up to 3 months"
+              },{
+                "SecondaryOutcomeMeasure":"Insulin concentration",
+                "SecondaryOutcomeDescription":"Concentration of insulin in the islet product",
+                "SecondaryOutcomeTimeFrame":"Before the islet transplantation"
+              }
+            ]
+          }
+        },
+        "EligibilityModule":{
+          "EligibilityCriteria":"Inclusion Criteria:\n\nAge 16 years or older\nCurrently on the LUMC waiting list for allogeneic or autologous islet transplantation\nWilling to use a flash glucose monitoring (FGM) system in the two weeks prior to transplantation\n\nExclusion Criteria:\n\nPatients who are pregnant\nPatients with known hypersensitivity to arginine",
+          "HealthyVolunteers":"No",
+          "Gender":"All",
+          "MinimumAge":"16 Years",
+          "StdAgeList":{
+            "StdAge":[
+              "Child",
+              "Adult",
+              "Older Adult"
+            ]
+          },
+          "StudyPopulation":"Patients receiving allogeneic or autologous islet transplants.",
+          "SamplingMethod":"Non-Probability Sample"
+        },
+        "ContactsLocationsModule":{
+          "CentralContactList":{
+            "CentralContact":[
+              {
+                "CentralContactName":"Prof. Eelco de Koning, MD PhD",
+                "CentralContactRole":"Contact",
+                "CentralContactPhone":"+31 71 526 2085",
+                "CentralContactEMail":"e.j.p.de_koning@lumc.nl"
+              }
+            ]
+          },
+          "OverallOfficialList":{
+            "OverallOfficial":[
+              {
+                "OverallOfficialName":"Prof. Eelco de Koning",
+                "OverallOfficialAffiliation":"LUMC",
+                "OverallOfficialRole":"Principal Investigator"
+              }
+            ]
+          },
+          "LocationList":{
+            "Location":[
+              {
+                "LocationFacility":"Leiden University Medical Center",
+                "LocationCity":"Leiden",
+                "LocationState":"Zuid-Holland",
+                "LocationZip":"2333ZA",
+                "LocationCountry":"Netherlands",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactName":"Prof. Eelco de Koning, MD PhD",
+                      "LocationContactRole":"Contact",
+                      "LocationContactPhone":"+31 71 526 2085",
+                      "LocationContactEMail":"e.j.p.de_koning@lumc.nl"
+                    },{
+                      "LocationContactName":"Cyril P Landstra, MD",
+                      "LocationContactRole":"Sub-Investigator"
+                    },{
+                      "LocationContactName":"Maarten C Tol, MD",
+                      "LocationContactRole":"Sub-Investigator"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "IPDSharingStatementModule":{
+          "IPDSharing":"Undecided"
+        }
+      },
+      "DerivedSection":{
+        "MiscInfoModule":{
+          "VersionHolder":"September 19, 2022"
+        },
+        "ConditionBrowseModule":{
+          "ConditionMeshList":{
+            "ConditionMesh":[
+              {
+                "ConditionMeshId":"D000010195",
+                "ConditionMeshTerm":"Pancreatitis"
+              },{
+                "ConditionMeshId":"D000050500",
+                "ConditionMeshTerm":"Pancreatitis, Chronic"
+              }
+            ]
+          },
+          "ConditionAncestorList":{
+            "ConditionAncestor":[
+              {
+                "ConditionAncestorId":"D000010182",
+                "ConditionAncestorTerm":"Pancreatic Diseases"
+              },{
+                "ConditionAncestorId":"D000004066",
+                "ConditionAncestorTerm":"Digestive System Diseases"
+              }
+            ]
+          },
+          "ConditionBrowseLeafList":{
+            "ConditionBrowseLeaf":[
+              {
+                "ConditionBrowseLeafId":"M6267",
+                "ConditionBrowseLeafName":"Diabetes Mellitus",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M12267",
+                "ConditionBrowseLeafName":"Pancreatitis",
+                "ConditionBrowseLeafAsFound":"Pancreatitis",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M25413",
+                "ConditionBrowseLeafName":"Pancreatitis, Chronic",
+                "ConditionBrowseLeafAsFound":"Chronic Pancreatitis",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M12254",
+                "ConditionBrowseLeafName":"Pancreatic Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M8035",
+                "ConditionBrowseLeafName":"Gastrointestinal Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M6407",
+                "ConditionBrowseLeafName":"Digestive System Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"T1303",
+                "ConditionBrowseLeafName":"Chronic Graft Versus Host Disease",
+                "ConditionBrowseLeafRelevance":"low"
+              }
+            ]
+          },
+          "ConditionBrowseBranchList":{
+            "ConditionBrowseBranch":[
+              {
+                "ConditionBrowseBranchAbbrev":"BC18",
+                "ConditionBrowseBranchName":"Nutritional and Metabolic Diseases"
+              },{
+                "ConditionBrowseBranchAbbrev":"BC19",
+                "ConditionBrowseBranchName":"Gland and Hormone Related Diseases"
+              },{
+                "ConditionBrowseBranchAbbrev":"All",
+                "ConditionBrowseBranchName":"All Conditions"
+              },{
+                "ConditionBrowseBranchAbbrev":"BC06",
+                "ConditionBrowseBranchName":"Digestive System Diseases"
+              },{
+                "ConditionBrowseBranchAbbrev":"Rare",
+                "ConditionBrowseBranchName":"Rare Diseases"
+              }
+            ]
+          }
+        },
+        "InterventionBrowseModule":{
+          "InterventionBrowseLeafList":{
+            "InterventionBrowseLeaf":[
+              {
+                "InterventionBrowseLeafId":"T1",
+                "InterventionBrowseLeafName":"Arginine",
+                "InterventionBrowseLeafRelevance":"low"
+              }
+            ]
+          },
+          "InterventionBrowseBranchList":{
+            "InterventionBrowseBranch":[
+              {
+                "InterventionBrowseBranchAbbrev":"AA",
+                "InterventionBrowseBranchName":"Amino Acids"
+              },{
+                "InterventionBrowseBranchAbbrev":"All",
+                "InterventionBrowseBranchName":"All Drugs and Chemicals"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+

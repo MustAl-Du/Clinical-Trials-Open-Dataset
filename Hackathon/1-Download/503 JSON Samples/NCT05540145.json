@@ -1,0 +1,396 @@
+{
+  "FullStudy":{
+    "Rank":492,
+    "Study":{
+      "ProtocolSection":{
+        "IdentificationModule":{
+          "NCTId":"NCT05540145",
+          "OrgStudyIdInfo":{
+            "OrgStudyId":"21/489-3160"
+          },
+          "Organization":{
+            "OrgFullName":"Cancer Institute and Hospital, Chinese Academy of Medical Sciences",
+            "OrgClass":"OTHER"
+          },
+          "BriefTitle":"Neoadjuvant Chemotherapy and Immunotherapy for HER2（-），pMMR Locally Advanced Esophagogastric Junction and Gastric Adenocarcinoma",
+          "OfficialTitle":"Neoadjuvant Chemotherapy and Sequential Immunotherapy for HER2-negative MMR-proficient Locally Advanced Esophagogastric Junction and Gastric Adenocarcinoma：a Open-label, Phase 2 Trial"
+        },
+        "StatusModule":{
+          "StatusVerifiedDate":"September 2022",
+          "OverallStatus":"Recruiting",
+          "ExpandedAccessInfo":{
+            "HasExpandedAccess":"No"
+          },
+          "StartDateStruct":{
+            "StartDate":"May 1, 2022",
+            "StartDateType":"Actual"
+          },
+          "PrimaryCompletionDateStruct":{
+            "PrimaryCompletionDate":"May 1, 2025",
+            "PrimaryCompletionDateType":"Anticipated"
+          },
+          "CompletionDateStruct":{
+            "CompletionDate":"May 1, 2025",
+            "CompletionDateType":"Anticipated"
+          },
+          "StudyFirstSubmitDate":"September 12, 2022",
+          "StudyFirstSubmitQCDate":"September 12, 2022",
+          "StudyFirstPostDateStruct":{
+            "StudyFirstPostDate":"September 14, 2022",
+            "StudyFirstPostDateType":"Actual"
+          },
+          "LastUpdateSubmitDate":"September 12, 2022",
+          "LastUpdatePostDateStruct":{
+            "LastUpdatePostDate":"September 14, 2022",
+            "LastUpdatePostDateType":"Actual"
+          }
+        },
+        "SponsorCollaboratorsModule":{
+          "ResponsibleParty":{
+            "ResponsiblePartyType":"Principal Investigator",
+            "ResponsiblePartyInvestigatorFullName":"Dong Bing Zhao",
+            "ResponsiblePartyInvestigatorTitle":"Senior doctor",
+            "ResponsiblePartyInvestigatorAffiliation":"Cancer Institute and Hospital, Chinese Academy of Medical Sciences"
+          },
+          "LeadSponsor":{
+            "LeadSponsorName":"Cancer Institute and Hospital, Chinese Academy of Medical Sciences",
+            "LeadSponsorClass":"OTHER"
+          }
+        },
+        "OversightModule":{
+          "IsFDARegulatedDrug":"No",
+          "IsFDARegulatedDevice":"No"
+        },
+        "DescriptionModule":{
+          "BriefSummary":"This is a single-institution, prospective phase II trial designed to evaluate the efficacy of neoadjuvant chemotherapy and sequential immunotherapy in patients with locally advanced esophagogastric junction and gastric adenocarcinoma. Patients with Her-2 positive or dMMR tumors will be excluded from the study. Six cycles of nab-paclitaxel, combined with oxaliplatin and S-1, followed by two cycles of PD-1 monoclonal antibody, will be administered as neoadjuvant therapy. Patients will receive different adjuvant treatments depending on the degrees of surgical radicality and the pathological reactions of tumors.",
+          "DetailedDescription":"The regimen of neoadjuvant chemotherapy is nab-paclitaxel (130mg/m2 of BSA, intravenously day 1), oxaliplatin (70mg/m2 of BSA, intravenously day 1) and S-1 (40~60 mg orally twice a day, days 1-8), which will be administered biweekly for six cycles. A comprehensive evaluation, including chest, abdominal and pelvic CT, ultrasonography of cervical lymph nodes and supraclavicular lymph nodes, endoscopy and endoscopic ultrasound, will be performed every 3 cycles. If patients respond to chemotherapy, then they will receive 2 cycles of PD-1 antibody every 3 weeks. Surgery will be performed approximately 8-12 weeks after the last dosage of PD-1 antibody. Postoperatively, immunotherapy or chemotherapy will be administered as adjuvant therapy depending on the degrees of surgical radicality and the pathological reactions of tumors. For patients who have no response to neoadjuvant chemotherapy, surgery, radiation or another systemic regimen will be optioned."
+        },
+        "ConditionsModule":{
+          "ConditionList":{
+            "Condition":[
+              "Gastric Cancer"
+            ]
+          },
+          "KeywordList":{
+            "Keyword":[
+              "Neoadjuvant Chemotherapy",
+              "Immunotherapy",
+              "safety",
+              "Efficacy"
+            ]
+          }
+        },
+        "DesignModule":{
+          "StudyType":"Observational",
+          "PatientRegistry":"No",
+          "DesignInfo":{
+            "DesignObservationalModelList":{
+              "DesignObservationalModel":[
+                "Cohort"
+              ]
+            },
+            "DesignTimePerspectiveList":{
+              "DesignTimePerspective":[
+                "Prospective"
+              ]
+            }
+          },
+          "BioSpec":{
+            "BioSpecRetention":"Samples With DNA",
+            "BioSpecDescription":"peripheral blood, fresh tumor tissue and fecal specimen at different time point;"
+          },
+          "EnrollmentInfo":{
+            "EnrollmentCount":"62",
+            "EnrollmentType":"Anticipated"
+          }
+        },
+        "ArmsInterventionsModule":{
+          "ArmGroupList":{
+            "ArmGroup":[
+              {
+                "ArmGroupLabel":"Experimental: SOX plus Paclitaxel(albumin-bound) followed by PD-1 antibody",
+                "ArmGroupDescription":"SOX: Oxaliplatin+S-1",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Drug: SOX plus Paclitaxel(albumin-bound) followed by PD-1 antibody"
+                  ]
+                }
+              }
+            ]
+          },
+          "InterventionList":{
+            "Intervention":[
+              {
+                "InterventionType":"Drug",
+                "InterventionName":"SOX plus Paclitaxel(albumin-bound) followed by PD-1 antibody",
+                "InterventionDescription":"Drug: Paclitaxel(albumin-bound) 130mg/m2, ivgtt, D1, Q2w Drug: Oxaliplatin 70 mg/m2, ivgtt, D1, q2w Drug: S-1 40mg (body surface area < 1.25m2), bid, D1-8, Q2w 50mg (body surface area >1.25m2, <1.5 m2), bid, D1-8, Q2w 60mg (body surface area >1.5m2), bid, D1-8, Q2w\n\nPatients with Her-2 negative, MMR-proficient locally advanced esophagogastric junction or gastric adenocarcinoma will receive 6 cycles of neoadjuvant chemotherapy. After comprehensive evaluations, patients who respond to chemotherapy will further receive 2 cycles of PD-1 antibody as neoadjuvant immunotherapy.\n\nDrug: Pembrolizumab or sintilimab, 100~200mg, ivgtt, D1, Q3w. Patients will make the final decision of PD -1 antibody according to their economic condition.",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Experimental: SOX plus Paclitaxel(albumin-bound) followed by PD-1 antibody"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "OutcomesModule":{
+          "PrimaryOutcomeList":{
+            "PrimaryOutcome":[
+              {
+                "PrimaryOutcomeMeasure":"Event-free survival (EFS)",
+                "PrimaryOutcomeDescription":"The time from recruitment to any progression of disease precluding surgery, progression or recurrence of disease after surgery, progression of disease in the absence of surgery, or death from any cause.",
+                "PrimaryOutcomeTimeFrame":"From the recruitment to the date of first documented progression or date of death from any cause, whichever came first, assessed up to 3 years"
+              }
+            ]
+          },
+          "SecondaryOutcomeList":{
+            "SecondaryOutcome":[
+              {
+                "SecondaryOutcomeMeasure":"Major pathological response",
+                "SecondaryOutcomeDescription":"It is defined as residual tumors less than 10% after neoadjuvant systemic therapy according to Mandard grade.",
+                "SecondaryOutcomeTimeFrame":"From the date of recruitment to 3 months after all treatment ends"
+              },{
+                "SecondaryOutcomeMeasure":"Overall survival(OS)",
+                "SecondaryOutcomeDescription":"The time from recruitment to the date of death for any reason or the date of last follow-up",
+                "SecondaryOutcomeTimeFrame":"From the date of recruitment to the date of death from any cause or the date of last follow-up, assessed up to 36 months"
+              },{
+                "SecondaryOutcomeMeasure":"R0 resection rate",
+                "SecondaryOutcomeDescription":"Rate of microscopically margin-negative resection",
+                "SecondaryOutcomeTimeFrame":"From the date of recruitment to 3 months after all treatment ends"
+              },{
+                "SecondaryOutcomeMeasure":"Adverse events",
+                "SecondaryOutcomeDescription":"Adverse events (AEs) of neoadjuvant and adjuvant systemic therapy will be graded and documented according to NCI-CTCAE v5.0 and immune-related Adverse Event, irAE from the beginning of treatment to 3 months since the last dosage of treatment. Documentary will include severity, lasting period and occurrence time. Surgery complications will also be documented.",
+                "SecondaryOutcomeTimeFrame":"From the date of recruitment to 3 months after all treatment ends"
+              }
+            ]
+          }
+        },
+        "EligibilityModule":{
+          "EligibilityCriteria":"Inclusion Criteria:\n\nBe willing and able to provide written (signed) informed consent;\nAge ≥ 18 years and ≤75 years.\nHas a pathologic diagnosis of gastroesophageal or gastric adenocarcinoma, mucinous adenocarcinoma or signet ring cell carcinoma.\nImaging (CT/ultrasonography of cervical lymph nodes and supraclavicular lymph nodes/ endoscopy and endoscopic ultrasound) confirmed at the stage of cT3/4a NanyM0(AJCC 8th).\n\nConfirmed by immunohistochemistry (IHC) staining or genetic and transcriptional profiling detection to meet all of the following conditions:\n\nHer-2-negative was defined as IHC -, IHC 1+ or IHC 2+ and FISH negative;\nEpstein-Barr virus-negative (EBV(-));\nMismatch repair-proficient (pMMR).\nThe Eastern Cooperative Oncology Group Performance status (ECOG PS) 0-1;\n\nThe main organ function meets the following criteria within 7 days before treatment:\n\nHemoglobin (Hb) level ≥9.0 g/dl.\nNeutrophil count (ANC)≥1.5×10^9/L.\nPlatelet (PLT) ≥100×10^9/L\nAlanine aminotransferase (ALT) and aspartate aminotransferase (AST) level ≤2.5×ULN.\nSerum creatinine (Cr) level ≤1.0×ULN and creatinine clearance ≥60 ml/min.\nTotal bilirubin(TBIL) level ≤1.5×ULN.\n\nExclusion Criteria:\n\nConfirmed at stage IV (AJCC 8th) or unresectable by investigator before enrolling.\nPatienta have had prior chemotherapy, targeted small molecule therapy, or radiation therapy for the current diagnosis of EGJ cancer or gastric cancer.\nPatients are allergic to study medication and its ingredients.\nPatients have experienced or currently have other malignancies within 5 years.\nPatients have an active infection requiring systemic therapy.\nWomen who are pregnant, breast-feeding or planning to become pregnant during treatment or within 6 months after treatment ends.\nPatients have a history of psychotropic substance abuse and are unable to quit or have a mental disorder.\nPatients with other severe acute or chronic conditions that may increase the risk of participation in the study and study treatment, or may interfere with interpretation of study results, and judged by the investigator as not suitable for participation in this clinical trial.\nDiagnosis of immunodeficiency or active autoimmune disease, receiving or being treated with immunomodulators, systemic steroids or immunosuppressive drugs in the past two years.\nPatients with gastrointestinal obstruction or uncontrolled bleeding undergo emergency surgery.\nThe proportion of other components in the pathology (such as squamous cell carcinoma, neuroendocrine carcinoma, etc.) exceeds 10%",
+          "HealthyVolunteers":"No",
+          "Gender":"All",
+          "MinimumAge":"18 Years",
+          "MaximumAge":"75 Years",
+          "StdAgeList":{
+            "StdAge":[
+              "Adult",
+              "Older Adult"
+            ]
+          },
+          "StudyPopulation":"Patients with endoscopically biopsy-proven Her-2(-), pMMR gastric cancer will receive preoperative neoadjuvant immunotherapy and chemotherapy.",
+          "SamplingMethod":"Non-Probability Sample"
+        },
+        "ContactsLocationsModule":{
+          "CentralContactList":{
+            "CentralContact":[
+              {
+                "CentralContactName":"Chunxia Du, M.D.",
+                "CentralContactRole":"Contact",
+                "CentralContactPhone":"+86-010-87788130",
+                "CentralContactEMail":"retinadcx@vip.163.com"
+              }
+            ]
+          },
+          "LocationList":{
+            "Location":[
+              {
+                "LocationFacility":"National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital",
+                "LocationStatus":"Recruiting",
+                "LocationCity":"Beijing",
+                "LocationState":"Beijing",
+                "LocationZip":"100021",
+                "LocationCountry":"China",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactName":"Dongbing Zhao, M.D.",
+                      "LocationContactRole":"Contact",
+                      "LocationContactPhone":"+86-13901331816",
+                      "LocationContactEMail":"dbzhao2003@sina.com"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      },
+      "DerivedSection":{
+        "MiscInfoModule":{
+          "VersionHolder":"September 19, 2022"
+        },
+        "ConditionBrowseModule":{
+          "ConditionMeshList":{
+            "ConditionMesh":[
+              {
+                "ConditionMeshId":"D000000230",
+                "ConditionMeshTerm":"Adenocarcinoma"
+              }
+            ]
+          },
+          "ConditionAncestorList":{
+            "ConditionAncestor":[
+              {
+                "ConditionAncestorId":"D000002277",
+                "ConditionAncestorTerm":"Carcinoma"
+              },{
+                "ConditionAncestorId":"D000009375",
+                "ConditionAncestorTerm":"Neoplasms, Glandular and Epithelial"
+              },{
+                "ConditionAncestorId":"D000009370",
+                "ConditionAncestorTerm":"Neoplasms by Histologic Type"
+              },{
+                "ConditionAncestorId":"D000009369",
+                "ConditionAncestorTerm":"Neoplasms"
+              }
+            ]
+          },
+          "ConditionBrowseLeafList":{
+            "ConditionBrowseLeaf":[
+              {
+                "ConditionBrowseLeafId":"M2737",
+                "ConditionBrowseLeafName":"Adenocarcinoma",
+                "ConditionBrowseLeafAsFound":"Adenocarcinoma",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M15216",
+                "ConditionBrowseLeafName":"Stomach Neoplasms",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M4686",
+                "ConditionBrowseLeafName":"Carcinoma",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M11472",
+                "ConditionBrowseLeafName":"Neoplasms, Glandular and Epithelial",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M11467",
+                "ConditionBrowseLeafName":"Neoplasms by Histologic Type",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"T5486",
+                "ConditionBrowseLeafName":"Stomach Cancer",
+                "ConditionBrowseLeafRelevance":"low"
+              }
+            ]
+          },
+          "ConditionBrowseBranchList":{
+            "ConditionBrowseBranch":[
+              {
+                "ConditionBrowseBranchAbbrev":"BC04",
+                "ConditionBrowseBranchName":"Neoplasms"
+              },{
+                "ConditionBrowseBranchAbbrev":"All",
+                "ConditionBrowseBranchName":"All Conditions"
+              },{
+                "ConditionBrowseBranchAbbrev":"BC06",
+                "ConditionBrowseBranchName":"Digestive System Diseases"
+              },{
+                "ConditionBrowseBranchAbbrev":"Rare",
+                "ConditionBrowseBranchName":"Rare Diseases"
+              }
+            ]
+          }
+        },
+        "InterventionBrowseModule":{
+          "InterventionMeshList":{
+            "InterventionMesh":[
+              {
+                "InterventionMeshId":"D000017239",
+                "InterventionMeshTerm":"Paclitaxel"
+              },{
+                "InterventionMeshId":"D000000906",
+                "InterventionMeshTerm":"Antibodies"
+              }
+            ]
+          },
+          "InterventionAncestorList":{
+            "InterventionAncestor":[
+              {
+                "InterventionAncestorId":"D000000972",
+                "InterventionAncestorTerm":"Antineoplastic Agents, Phytogenic"
+              },{
+                "InterventionAncestorId":"D000000970",
+                "InterventionAncestorTerm":"Antineoplastic Agents"
+              },{
+                "InterventionAncestorId":"D000050257",
+                "InterventionAncestorTerm":"Tubulin Modulators"
+              },{
+                "InterventionAncestorId":"D000050256",
+                "InterventionAncestorTerm":"Antimitotic Agents"
+              },{
+                "InterventionAncestorId":"D000050258",
+                "InterventionAncestorTerm":"Mitosis Modulators"
+              },{
+                "InterventionAncestorId":"D000045504",
+                "InterventionAncestorTerm":"Molecular Mechanisms of Pharmacological Action"
+              },{
+                "InterventionAncestorId":"D000007155",
+                "InterventionAncestorTerm":"Immunologic Factors"
+              },{
+                "InterventionAncestorId":"D000045505",
+                "InterventionAncestorTerm":"Physiological Effects of Drugs"
+              }
+            ]
+          },
+          "InterventionBrowseLeafList":{
+            "InterventionBrowseLeaf":[
+              {
+                "InterventionBrowseLeafId":"M1674",
+                "InterventionBrowseLeafName":"Oxaliplatin",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M289070",
+                "InterventionBrowseLeafName":"Pembrolizumab",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M3377",
+                "InterventionBrowseLeafName":"Antibodies",
+                "InterventionBrowseLeafAsFound":"Controlled",
+                "InterventionBrowseLeafRelevance":"high"
+              },{
+                "InterventionBrowseLeafId":"M18689",
+                "InterventionBrowseLeafName":"Paclitaxel",
+                "InterventionBrowseLeafAsFound":"From",
+                "InterventionBrowseLeafRelevance":"high"
+              },{
+                "InterventionBrowseLeafId":"M9336",
+                "InterventionBrowseLeafName":"Immunoglobulins",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M231",
+                "InterventionBrowseLeafName":"Albumin-Bound Paclitaxel",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M25350",
+                "InterventionBrowseLeafName":"Tubulin Modulators",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M25349",
+                "InterventionBrowseLeafName":"Antimitotic Agents",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M9353",
+                "InterventionBrowseLeafName":"Immunologic Factors",
+                "InterventionBrowseLeafRelevance":"low"
+              }
+            ]
+          },
+          "InterventionBrowseBranchList":{
+            "InterventionBrowseBranch":[
+              {
+                "InterventionBrowseBranchAbbrev":"ANeo",
+                "InterventionBrowseBranchName":"Antineoplastic Agents"
+              },{
+                "InterventionBrowseBranchAbbrev":"All",
+                "InterventionBrowseBranchName":"All Drugs and Chemicals"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+

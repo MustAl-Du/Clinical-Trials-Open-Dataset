@@ -1,0 +1,432 @@
+{
+  "FullStudy":{
+    "Rank":501,
+    "Study":{
+      "ProtocolSection":{
+        "IdentificationModule":{
+          "NCTId":"NCT05540028",
+          "OrgStudyIdInfo":{
+            "OrgStudyId":"CVIA 096"
+          },
+          "Organization":{
+            "OrgFullName":"Inventprise Inc.",
+            "OrgClass":"INDUSTRY"
+          },
+          "BriefTitle":"Study to Evaluate a 25-Valent Pneumococcal Conjugate Vaccine",
+          "OfficialTitle":"A Phase 1/2, Multicenter, Randomized, Active-Controlled, Observer-Blind, Age De-Escalation Study to Evaluate the Safety, Tolerability, and Immunogenicity of Inventprise's 25-Valent Pneumococcal Conjugate Vaccine in Healthy PCV-Naïve Adults (18 Through 40 Years), PCV-Vaccinated Children (24 Through 59 Months), and PCV-Naïve Infants (8 Through 11 Weeks)",
+          "Acronym":"IVT PCV-25"
+        },
+        "StatusModule":{
+          "StatusVerifiedDate":"September 2022",
+          "OverallStatus":"Not yet recruiting",
+          "ExpandedAccessInfo":{
+            "HasExpandedAccess":"No"
+          },
+          "StartDateStruct":{
+            "StartDate":"September 19, 2022",
+            "StartDateType":"Anticipated"
+          },
+          "PrimaryCompletionDateStruct":{
+            "PrimaryCompletionDate":"July 19, 2024",
+            "PrimaryCompletionDateType":"Anticipated"
+          },
+          "CompletionDateStruct":{
+            "CompletionDate":"December 6, 2024",
+            "CompletionDateType":"Anticipated"
+          },
+          "StudyFirstSubmitDate":"September 9, 2022",
+          "StudyFirstSubmitQCDate":"September 9, 2022",
+          "StudyFirstPostDateStruct":{
+            "StudyFirstPostDate":"September 14, 2022",
+            "StudyFirstPostDateType":"Actual"
+          },
+          "LastUpdateSubmitDate":"September 13, 2022",
+          "LastUpdatePostDateStruct":{
+            "LastUpdatePostDate":"September 15, 2022",
+            "LastUpdatePostDateType":"Actual"
+          }
+        },
+        "SponsorCollaboratorsModule":{
+          "ResponsibleParty":{
+            "ResponsiblePartyType":"Sponsor"
+          },
+          "LeadSponsor":{
+            "LeadSponsorName":"Inventprise Inc.",
+            "LeadSponsorClass":"INDUSTRY"
+          },
+          "CollaboratorList":{
+            "Collaborator":[
+              {
+                "CollaboratorName":"Canadian Center for Vaccinology",
+                "CollaboratorClass":"OTHER"
+              },{
+                "CollaboratorName":"Vaccine Evaluation Center, Canada",
+                "CollaboratorClass":"OTHER"
+              },{
+                "CollaboratorName":"PATH",
+                "CollaboratorClass":"OTHER"
+              }
+            ]
+          }
+        },
+        "OversightModule":{
+          "OversightHasDMC":"Yes",
+          "IsFDARegulatedDrug":"No",
+          "IsFDARegulatedDevice":"No"
+        },
+        "DescriptionModule":{
+          "BriefSummary":"A first-in-human, Phase 1/2 age de-escalation trial to evaluate safety, tolerability, and immunogenicity of Inventprise's (IVT) 25-valent pneumococcal conjugate vaccine (IVT PCV-25)",
+          "DetailedDescription":"A first-in-human, multicenter, randomized, active-controlled, observer-blind Phase 1/2 age de-escalation study of IVT PCV 25 designed to evaluate the safety, tolerability, and immunogenicity of the vaccine. Adult subjects will be randomized 1:1 to receive either IVT PCV-25 or Prevnar 20™, and the young children subjects will be randomized 1:1 to receive either IVT PCV-25 or Prevnar 13®. The infant subjects will receive a series of four vaccinations with IVT-PCV-25 at 2, 4, 6 and 12 months of age co-administered with all routine vaccines except for Prevnar 13. The three age-group cohorts will be conducted sequentially to allow for safety and tolerability assessment of IVT PCV 25 in adults prior to age de-escalation to children, and for assessment of immunogenicity in adults, and safety and tolerability in children, prior to age de-escalation to infants."
+        },
+        "ConditionsModule":{
+          "ConditionList":{
+            "Condition":[
+              "Pneumococcal Vaccines"
+            ]
+          }
+        },
+        "DesignModule":{
+          "StudyType":"Interventional",
+          "PhaseList":{
+            "Phase":[
+              "Phase 1",
+              "Phase 2"
+            ]
+          },
+          "DesignInfo":{
+            "DesignAllocation":"Randomized",
+            "DesignInterventionModel":"Sequential Assignment",
+            "DesignInterventionModelDescription":"Multicenter, randomized, active-controlled, observer-blind Phase 1/2 in which three age-group cohorts will be conducted sequentially to allow for safety and tolerability assessment of IVT PCV 25 in adults prior to age de-escalation to children, and for assessment of immunogenicity in adults, and safety and tolerability in children, prior to age de-escalation to infants",
+            "DesignPrimaryPurpose":"Prevention",
+            "DesignMaskingInfo":{
+              "DesignMasking":"Quadruple",
+              "DesignWhoMaskedList":{
+                "DesignWhoMasked":[
+                  "Participant",
+                  "Care Provider",
+                  "Investigator",
+                  "Outcomes Assessor"
+                ]
+              }
+            }
+          },
+          "EnrollmentInfo":{
+            "EnrollmentCount":"520",
+            "EnrollmentType":"Anticipated"
+          }
+        },
+        "ArmsInterventionsModule":{
+          "ArmGroupList":{
+            "ArmGroup":[
+              {
+                "ArmGroupLabel":"Adult Cohort Group 1",
+                "ArmGroupType":"Experimental",
+                "ArmGroupDescription":"Participants will receive a single 0.5mL dose of IVT PCV-25 administered by intramuscular injection on Day 1",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Biological: IVT PCV-25"
+                  ]
+                }
+              },{
+                "ArmGroupLabel":"Adult Cohort Group 2",
+                "ArmGroupType":"Active Comparator",
+                "ArmGroupDescription":"Participants will receive a single 0.5mL dose of PCV 20 administered by intramuscular injection on Day 1",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Biological: PCV 20"
+                  ]
+                }
+              },{
+                "ArmGroupLabel":"Young Children Cohort Group 1",
+                "ArmGroupType":"Experimental",
+                "ArmGroupDescription":"Participants will receive a single 0.5mL dose of IVT PCV-25 administered by intramuscular injection on Day 1",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Biological: IVT PCV-25"
+                  ]
+                }
+              },{
+                "ArmGroupLabel":"Young Children Cohort Group 2",
+                "ArmGroupType":"Active Comparator",
+                "ArmGroupDescription":"Participants will receive a single 0.5mL dose of PCV 13 administered by intramuscular injection on Day 1",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Biological: PCV 13"
+                  ]
+                }
+              },{
+                "ArmGroupLabel":"Infant Cohort Group 1",
+                "ArmGroupType":"Experimental",
+                "ArmGroupDescription":"Participants will receive a 0.5mL dose of IVT PCV-25 administered by intramuscular injection at Day 1, Day 57, Day 113, and 12 months of age",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Biological: IVT PCV-25"
+                  ]
+                }
+              },{
+                "ArmGroupLabel":"Infant Cohort Group 2",
+                "ArmGroupType":"Active Comparator",
+                "ArmGroupDescription":"Participants will receive a 0.5mL dose of PCV 13 administered by intramuscular injection at Day 1, Day 57, Day 113, and 12 months of age",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Biological: PCV 13"
+                  ]
+                }
+              }
+            ]
+          },
+          "InterventionList":{
+            "Intervention":[
+              {
+                "InterventionType":"Biological",
+                "InterventionName":"IVT PCV-25",
+                "InterventionDescription":"25 valent pneumococcal conjugate vaccine",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Adult Cohort Group 1",
+                    "Infant Cohort Group 1",
+                    "Young Children Cohort Group 1"
+                  ]
+                }
+              },{
+                "InterventionType":"Biological",
+                "InterventionName":"PCV 20",
+                "InterventionDescription":"20 valent pneumococcal conjugate vaccine",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Adult Cohort Group 2"
+                  ]
+                }
+              },{
+                "InterventionType":"Biological",
+                "InterventionName":"PCV 13",
+                "InterventionDescription":"13 valent pneumococcal conjugate vaccine",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Infant Cohort Group 2",
+                    "Young Children Cohort Group 2"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "OutcomesModule":{
+          "PrimaryOutcomeList":{
+            "PrimaryOutcome":[
+              {
+                "PrimaryOutcomeMeasure":"Adult Safety: solicited local and systemic adverse events",
+                "PrimaryOutcomeDescription":"Number and severity of solicited local and systemic adverse events (AEs)",
+                "PrimaryOutcomeTimeFrame":"7 days post-vaccination (Day 8)"
+              },{
+                "PrimaryOutcomeMeasure":"Adult Safety: clinically significant hematological and biochemical measurements",
+                "PrimaryOutcomeDescription":"Number, severity, and relatedness of clinically significant hematological and biochemical measurements",
+                "PrimaryOutcomeTimeFrame":"7 days post-vaccination (Day 8)"
+              },{
+                "PrimaryOutcomeMeasure":"Adult Safety: unsolicited adverse events",
+                "PrimaryOutcomeDescription":"Number, severity, and relatedness of all unsolicited AEs",
+                "PrimaryOutcomeTimeFrame":"28 days post-vaccination (Day 29)"
+              },{
+                "PrimaryOutcomeMeasure":"Adult Safety: related serious adverse events",
+                "PrimaryOutcomeDescription":"Number, severity, and relatedness of serious adverse events (SAEs)",
+                "PrimaryOutcomeTimeFrame":"through 6 months post last vaccination (Day 169)"
+              },{
+                "PrimaryOutcomeMeasure":"Adult Safety: newly diagnosed chronic medical conditions",
+                "PrimaryOutcomeDescription":"Number of newly diagnosed chronic medical conditions",
+                "PrimaryOutcomeTimeFrame":"through 6 months post last vaccination (Day 169)"
+              },{
+                "PrimaryOutcomeMeasure":"Young Child Safety: solicited local and systemic adverse events",
+                "PrimaryOutcomeDescription":"Number and severity of solicited local and systemic AEs",
+                "PrimaryOutcomeTimeFrame":"7 days post-vaccination (Day 8)"
+              },{
+                "PrimaryOutcomeMeasure":"Young Children Safety: unsolicited adverse events",
+                "PrimaryOutcomeDescription":"Number, severity, and relatedness of all unsolicited AEs",
+                "PrimaryOutcomeTimeFrame":"28 days post-vaccination (Day 29)"
+              },{
+                "PrimaryOutcomeMeasure":"Young Child Safety: related serious adverse events",
+                "PrimaryOutcomeDescription":"Number, severity, and relatedness of SAEs",
+                "PrimaryOutcomeTimeFrame":"through 6 months post last vaccination (Day 169)"
+              },{
+                "PrimaryOutcomeMeasure":"Young Child Safety: newly diagnosed chronic medical conditions",
+                "PrimaryOutcomeDescription":"Number of newly diagnosed chronic medical conditions",
+                "PrimaryOutcomeTimeFrame":"through 6 months post last vaccination (Day 169)"
+              },{
+                "PrimaryOutcomeMeasure":"Infant Safety: solicited local and systemic adverse events",
+                "PrimaryOutcomeDescription":"Number and severity of solicited local and systemic AEs",
+                "PrimaryOutcomeTimeFrame":"7 days post-vaccination (Day 8, Day 64, Day 120, Day 287)"
+              },{
+                "PrimaryOutcomeMeasure":"Infant Safety: unsolicited adverse events",
+                "PrimaryOutcomeDescription":"Number, severity, and relatedness of all unsolicited AEs",
+                "PrimaryOutcomeTimeFrame":"28 days post-vaccination (Day 29, Day 85, Day 141, Day 308)"
+              },{
+                "PrimaryOutcomeMeasure":"Infant Safety: related serious adverse events",
+                "PrimaryOutcomeDescription":"Number, severity, and relatedness of SAEs",
+                "PrimaryOutcomeTimeFrame":"through 6 months post last vaccination (Day 448)"
+              },{
+                "PrimaryOutcomeMeasure":"Infant Safety: newly diagnosed chronic medical conditions",
+                "PrimaryOutcomeDescription":"Number of newly diagnosed chronic medical conditions",
+                "PrimaryOutcomeTimeFrame":"through 6 months post last vaccination (Day 448)"
+              }
+            ]
+          },
+          "SecondaryOutcomeList":{
+            "SecondaryOutcome":[
+              {
+                "SecondaryOutcomeMeasure":"Adult Immunogenicity: immunoglobulin G (IgG) geometric mean concentration (GMC)",
+                "SecondaryOutcomeDescription":"Serotype-specific IgG GMCs",
+                "SecondaryOutcomeTimeFrame":"28 days post-vaccination (Day 29)"
+              },{
+                "SecondaryOutcomeMeasure":"Adult Immunogenicity: Geometric Mean Fold Rise (GMFR)",
+                "SecondaryOutcomeDescription":"Geometric Mean Fold Rise (GMFR) from baseline in serotype-specific IgG GMCs",
+                "SecondaryOutcomeTimeFrame":"28 days post-vaccination (Day 29)"
+              },{
+                "SecondaryOutcomeMeasure":"Adult Immunogenicity: opsonophagocytosis assay (OPA) geometric mean titers (GMTs)",
+                "SecondaryOutcomeDescription":"Serotype-specific OPA GMTs",
+                "SecondaryOutcomeTimeFrame":"28 days post-vaccination (Day 29)"
+              },{
+                "SecondaryOutcomeMeasure":"Adult Immunogenicity: GMFR OPA GMTs",
+                "SecondaryOutcomeDescription":"GMFR (from baseline) in serotype-specific OPA GMTs",
+                "SecondaryOutcomeTimeFrame":"28 days post-vaccination (Day 29)"
+              },{
+                "SecondaryOutcomeMeasure":"Young Children Immunogenicity: IgG GMC",
+                "SecondaryOutcomeDescription":"Serotype-specific IgG GMCs",
+                "SecondaryOutcomeTimeFrame":"28 days post-vaccination (Day 29)"
+              },{
+                "SecondaryOutcomeMeasure":"Young Child Immunogenicity: GMFR",
+                "SecondaryOutcomeDescription":"GMFR from baseline in serotype-specific IgG GMCs",
+                "SecondaryOutcomeTimeFrame":"28 days post-vaccination (Day 29)"
+              },{
+                "SecondaryOutcomeMeasure":"Infant Immunogenicity: IgG GMCs",
+                "SecondaryOutcomeDescription":"Serotype-specific IgG GMCs",
+                "SecondaryOutcomeTimeFrame":"28 days post-dose 2 (Day 85) and dose 3 (Day 141), prior to dose 4 (Day 280), and 28 days post-dose 4 (Day 308)"
+              },{
+                "SecondaryOutcomeMeasure":"Infant Immunogenicity: IgG concentrations ≥ 0.35 µg/mL",
+                "SecondaryOutcomeDescription":"Percentage of subjects with serotype-specific IgG concentrations ≥ 0.35 µg/mL",
+                "SecondaryOutcomeTimeFrame":"28 days post-dose 2 (Day 85), dose 3 (Day 141), prior to dose 4 (Day 280), and 28 days post-dose 4 (Day 308)"
+              },{
+                "SecondaryOutcomeMeasure":"Infant Immunogenicity: IgG concentrations ≥ 1.0 µg/mL",
+                "SecondaryOutcomeDescription":"Percentage of subjects with serotype-specific IgG concentrations ≥ 1.0 µg/mL",
+                "SecondaryOutcomeTimeFrame":"28 days post-dose 4 (Day 308)"
+              },{
+                "SecondaryOutcomeMeasure":"Infant Immunogenicity: OPA geometric mean titers (GMTs)",
+                "SecondaryOutcomeDescription":"Serotype-specific OPA GMTs",
+                "SecondaryOutcomeTimeFrame":"28 days post-dose 2 (Day 85), dose 3 (Day 141), and dose 4 (Day 308)"
+              },{
+                "SecondaryOutcomeMeasure":"Infant Immunogenicity: OPA titers",
+                "SecondaryOutcomeDescription":"Percentage of subjects with serotype-specific OPA titers ≥ 8",
+                "SecondaryOutcomeTimeFrame":"28 days post-dose 2 (Day 85), dose 3 (Day 141), and dose 4 (Day 308)"
+              }
+            ]
+          }
+        },
+        "EligibilityModule":{
+          "EligibilityCriteria":"Inclusion Criteria:\n\nHealthy adults who are 18 through 40 years old, children who are 24 through 59 months old, or infants who are 8 through 11 weeks old on the day of randomization (Day 1).\nInfants must have been born full-term (at ≥37 weeks of gestation).\nSubject, or subject's LAR (in the case of children and infants), must provide voluntary written informed consent for the subject to participate in the study.\nSubject or subject's LAR must be able to comprehend and comply with study requirements and procedures and must be willing and able to return for all scheduled follow-up visits.\nChildren must have received all three doses of Prevnar 13® as per the provincial routine vaccination schedule.\nThere will be an allowance though not a requirement for COVID-19 vaccination in all participants in compliance with Canadian national recommendations.\nAdult female subjects who are not surgically sterile must have a negative serum pregnancy test at screening and negative urine pregnancy test prior to vaccination.\n\nExclusion Criteria:\n\nUse of any investigational medicinal product within 90 days prior to randomization (or since birth for infants) or planned use of such a product during the period of study participation.\nAdults and infants who have previously been vaccinated against S. pneumoniae.\nHistory of microbiologically confirmed invasive disease caused by S. pneumoniae.\nHistory of allergic disease or history of a serious reaction to any prior vaccination or known hypersensitivity to any component of the study vaccines. For infants, this includes all components of the routine vaccines co-administered during the study.\nKnown or suspected allergy to PEG.\nHistory of angioedema.\nAny abnormal vital sign deemed clinically relevant by the PI.\nAcute illness (moderate or severe) and/or fever (body temperature of ≥ 38.0°C)\nUse of antibiotics (oral or parenteral) within 5 days of randomization.\nHistory of administration of any non-study vaccine (e.g. influenza; COVID-19 vaccine) within 14 days of first administration of study vaccine or planned vaccination prior to 14 days post-vaccination blood draw, other than co-administered routine vaccines in infants.\nChronic administration (defined as more than 14 consecutive days) of immunosuppressant or other immune modifying drugs prior to the administration of the study vaccine (and within the 6 months prior to administration of the study vaccine in the case of adults), including the use of glucocorticoids. The use of topical and inhaled glucocorticoids will be permitted.\nAdministration of immunoglobulins and/or any blood products within the 6 months prior to administration of the study vaccine (or since birth in the case of infants), or anticipation of such administration during the study period.\nHistory of known disturbance of coagulation or blood disorder that could cause anemia or excess bleeding (e.g., thalassemia, coagulation factor deficiencies, severe anemia at birth in the case of infants).\nAny medical or social condition that in the opinion of the PI , may interfere with the study objectives, pose a risk to the subject, or prevent the subject from completing the study follow-up.\nSubject is an employee of, or direct descendant (child or grandchild) of any person employed by the Sponsor, PATH, the CRO, the PI.\n\nADULTS ONLY:\n\nAny screening laboratory test result outside the normal range and with toxicity score ≥ 2, unless allowed by the PI and PATH Medical Officer when a toxicity score and the normal range overlap significantly. A subject may repeat each laboratory assessment once during the screening period, with the most recent laboratory value being used for evaluation of exclusion criteria.\nA positive serologic test for human immunodeficiency virus (HIV)-1 or HIV-2 (HIV 1/2 Ab), hepatitis B (HBsAg) or hepatitis C (HCV Ab).\nHistory of malignancy, excluding non-melanoma skin and cervical carcinoma in situ.\nRecent history (within the past year) or signs of alcohol or substance abuse.\nHistory of major psychiatric disorder.\nFemale adult subjects who are pregnant or breastfeeding\n\nINFANTS/CHILDREN ONLY:\n\nFamily history of suspected primary immunodeficiency in first-degree relative.\nEvidence of a clinically significant congenital abnormality as judged by the PI.\nEvidence of fetal alcohol syndrome or maternal history of alcohol abuse during pregnancy.\nSignificant neurological disorder or history of seizure including febrile seizure, or significant stable or evolving disorders such as cerebral palsy, encephalopathy, hydrocephalus, or other significant disorders. Does not include resolving syndromes due to birth trauma, such as Erb's palsy and/or hypotonic-hyporesponsive episodes.",
+          "HealthyVolunteers":"Accepts Healthy Volunteers",
+          "Gender":"All",
+          "MinimumAge":"8 Weeks",
+          "MaximumAge":"40 Years",
+          "StdAgeList":{
+            "StdAge":[
+              "Child",
+              "Adult"
+            ]
+          }
+        },
+        "ContactsLocationsModule":{
+          "CentralContactList":{
+            "CentralContact":[
+              {
+                "CentralContactName":"Joanne Langley, MD, MSc, FRCPC",
+                "CentralContactRole":"Contact",
+                "CentralContactPhone":"902-470-8141",
+                "CentralContactEMail":"joanne.langley@dal.ca"
+              },{
+                "CentralContactName":"Karen Caballero",
+                "CentralContactRole":"Contact",
+                "CentralContactPhone":"902-470-8141",
+                "CentralContactEMail":"karen.caballero@iwk.nshealth.ca"
+              }
+            ]
+          },
+          "OverallOfficialList":{
+            "OverallOfficial":[
+              {
+                "OverallOfficialName":"Joanne Langley, MD, MSc, FRCPC",
+                "OverallOfficialAffiliation":"Canadian Center for Vaccinology",
+                "OverallOfficialRole":"Principal Investigator"
+              }
+            ]
+          }
+        },
+        "IPDSharingStatementModule":{
+          "IPDSharing":"Yes",
+          "IPDSharingDescription":"Plan to be defined at a later date",
+          "IPDSharingInfoTypeList":{
+            "IPDSharingInfoType":[
+              "Study Protocol",
+              "Statistical Analysis Plan (SAP)",
+              "Informed Consent Form (ICF)",
+              "Clinical Study Report (CSR)"
+            ]
+          },
+          "IPDSharingTimeFrame":"Plan to be defined at a later date",
+          "IPDSharingAccessCriteria":"Plan to be defined at a later date"
+        }
+      },
+      "DerivedSection":{
+        "MiscInfoModule":{
+          "VersionHolder":"September 19, 2022"
+        },
+        "InterventionBrowseModule":{
+          "InterventionBrowseLeafList":{
+            "InterventionBrowseLeaf":[
+              {
+                "InterventionBrowseLeafId":"M16512",
+                "InterventionBrowseLeafName":"Vaccines",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M412",
+                "InterventionBrowseLeafName":"Heptavalent Pneumococcal Conjugate Vaccine",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M16696",
+                "InterventionBrowseLeafName":"Vitamin A",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M302471",
+                "InterventionBrowseLeafName":"Retinol palmitate",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"T468",
+                "InterventionBrowseLeafName":"Vitamin A",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"T462",
+                "InterventionBrowseLeafName":"Retinol",
+                "InterventionBrowseLeafRelevance":"low"
+              }
+            ]
+          },
+          "InterventionBrowseBranchList":{
+            "InterventionBrowseBranch":[
+              {
+                "InterventionBrowseBranchAbbrev":"All",
+                "InterventionBrowseBranchName":"All Drugs and Chemicals"
+              },{
+                "InterventionBrowseBranchAbbrev":"Micro",
+                "InterventionBrowseBranchName":"Micronutrients"
+              },{
+                "InterventionBrowseBranchAbbrev":"ANeo",
+                "InterventionBrowseBranchName":"Antineoplastic Agents"
+              },{
+                "InterventionBrowseBranchAbbrev":"Vi",
+                "InterventionBrowseBranchName":"Vitamins"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2168">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01748175</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1010HL109152-01</org_study_id>
+    <nct_id>NCT01748175</nct_id>
+  </id_info>
+  <brief_title>Implications and Stability of Clinical and Molecular Phenotypes of Severe Asthma</brief_title>
+  <acronym>SARPIII</acronym>
+  <official_title>Implications and Stability of Clinical and Molecular Phenotypes of Severe Asthma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sally E. Wenzel MD</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Pittsburgh</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The Severe Asthma Research Program III is an NIH cooperative agreement involving 7 clinical&#xD;
+      centers that encompass a multidisciplinary partnerships between asthma clinician-scientists&#xD;
+      and scientists with expertise in immunology, pulmonary physiology, molecular genetics,&#xD;
+      molecular phenotyping, imaging, and bioinformatics. These clinical centers will jointly&#xD;
+      recruit volunteers with asthma for an observational longitudinal follow-up study. However,&#xD;
+      centers will also conduct specific mechanistic research projects at each participating&#xD;
+      institution. The University of Pittsburgh's SARP III study will determine the molecular and&#xD;
+      clinical stability of asthma phenotypes over time.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The longitudinal follow-up study is divided into a characterization and longitudinal phase.&#xD;
+      During the characterization subjects will undergo a baseline evaluation that will include&#xD;
+      will include answering questionnaires, lung function testing, and chest tomography.&#xD;
+      Subsequently, to determine steroid responsiveness, all subjects will receive one&#xD;
+      intramuscular dose of 40 mg in 1ml (1 mg/kg for children &lt;18 years old, up to 40 mg maximum.&#xD;
+      Participants at the University of Pittsburgh will undergo a bronchoscopy to provide airway&#xD;
+      samples. The longitudinal phase will include a 36 month follow-up time with annual visits and&#xD;
+      phone calls every 6 months. During it, participants will answer questionnaires and provide&#xD;
+      sputum samples on two occasions, and will perform lung function testing.&#xD;
+&#xD;
+      The SARP III longitudinal follow up study (all centers) will determine the long term&#xD;
+      stability and implications of clinical and molecular asthma phenotypes and identify potential&#xD;
+      systemic biomarkers for these phenotypes&#xD;
+&#xD;
+      The University of Pittsburgh center will test the hypothesis that a) a mast cell signature is&#xD;
+      present and longitudinally maintained in severe asthma; and b) That the persistent signature&#xD;
+      determines short and long term outcomes through interactions with lung and inflammatory&#xD;
+      cells.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>January 2013</start_date>
+  <completion_date type="Actual">January 2022</completion_date>
+  <primary_completion_date type="Actual">December 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Airway lumen mast cells</measure>
+    <time_frame>Once, during bronchoscopy</time_frame>
+    <description>Determine the impact of mast cell markers on human airway epithelial cell phenotype and function.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Longitudinal asthma phenotype</measure>
+    <time_frame>Change rates, determined annually for three years</time_frame>
+    <description>Determine the long term stability and implications of previously identified clinical and molecular asthma phenotypes, specifically the mast cell signature, and identify potential systemic biomarkers for these phenotypes.&#xD;
+Determine whether a biomarker for the lung mast cell signature can be identified in serum/plasma of both adult and pediatric severe asthmatics</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Actual">715</enrollment>
+  <condition>Asthma</condition>
+  <condition>Severe Persistent Asthma</condition>
+  <arm_group>
+    <arm_group_label>Longitudinal follow up</arm_group_label>
+    <description>Patients will undergo a characterization phase, which includes a baseline evaluation (1 visit), and a steroid responsiveness evaluation (2 visits). The longitudinal phase will include 3 office visits (annually) over 36 months with bi-annual phone calls. During the study patients will answer questionnaires, perform lung function testing and provide blood, urine, sputum and exhaled breath condensate samples.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Triamcinolone Acetonide</intervention_name>
+    <description>Each subject that meets inclusion/exclusion criteria will receive triamcinolone acetonide intramuscularly at the end of visit 2. Adults ≥18 years will receive 40 mg triamcinolone acetonide. Children 6-17 years will receive 1 mg/kg triamcinolone acetonide (up to 40 mg maximum). Triamcinolone acetonide will be administered as a single intramuscular dose deep in the gluteal region</description>
+    <arm_group_label>Longitudinal follow up</arm_group_label>
+    <other_name>Kenalog</other_name>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      DNA samples&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with asthma meeting inclusion and exclusion criteria will be recruited from 7 SARP&#xD;
+        III participating clinical centers. The clinical centers are located at Brigham and Women's&#xD;
+        Hospital (with co-investigators at Children's Hospital), the University of California San&#xD;
+        Francisco, the University of Pittsburgh, the University of Virginia (with co-investigators&#xD;
+        at the Cleveland Clinic, Case Western Reserve and Virginia Commonwealth University), the&#xD;
+        University of Wisconsin, Wake Forest School of Medicine (with co-investigators at Emory&#xD;
+        University), and Washington University in St. Louis (with co-investigators at the&#xD;
+        University of Iowa).&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Asthmatic Subjects&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Previous asthma diagnosis&#xD;
+&#xD;
+          -  FEV1 bronchodilator reversibility ≥12% or airway hyperresponsiveness reflected by a&#xD;
+             methacholine PC20 ≤16 mg/mL (Historical methacholine data from previous NIH trial&#xD;
+             [SARP I or II, AsthmaNet, ALA-ACRC, ACRN or CARE] will be allowed).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Exclusion criteria include any of the following:&#xD;
+&#xD;
+          -  Pregnancy during the characterization phase&#xD;
+&#xD;
+          -  Current smoking,&#xD;
+&#xD;
+          -  Smoking history &gt; 10 pack years if ≥30 years of age, or smoking history &gt; 5 pack years&#xD;
+             if &lt;30 years of age (Note: if a subject has a smoking history, no smoking within the&#xD;
+             past year),&#xD;
+&#xD;
+          -  Other chronic pulmonary disorders associated with asthma-like symptoms, including (but&#xD;
+             not limited to) cystic fibrosis, chronic obstructive pulmonary disease, chronic&#xD;
+             bronchitis, vocal cord dysfunction (that is the sole cause of respiratory symptoms and&#xD;
+             at the PI's discretion), severe scoliosis or chest wall deformities that affect lung&#xD;
+             function, or congenital disorders of the lungs or airways,&#xD;
+&#xD;
+          -  History of premature birth before 35 weeks gestation,&#xD;
+&#xD;
+          -  Unwillingness to receive an intramuscular triamcinolone acetonide injection.&#xD;
+&#xD;
+          -  Evidence that the participant or family may be unreliable or poorly adherent to their&#xD;
+             asthma treatment or study procedures,&#xD;
+&#xD;
+          -  Planning to relocate from the clinical center area before study completion,&#xD;
+&#xD;
+          -  Any other criteria that place the subject at unnecessary risk according to the&#xD;
+             judgment of the Principal Investigator and/or attending physician(s) of record, or&#xD;
+&#xD;
+          -  Currently participating in an investigational drug trial.&#xD;
+&#xD;
+        Healthy Controls:&#xD;
+&#xD;
+        Inclusion Criteria&#xD;
+&#xD;
+          -  Healthy subjects between the age of 18 and 65&#xD;
+&#xD;
+          -  At least 3 of the 7 subjects per center should be aged 35 or older&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of chronic diseases that affect the lungs: Chronic airway disease (asthma,&#xD;
+             cystic fibrosis, COPD, chronic bronchitis, bronchiectasis); Interstitial lung disease,&#xD;
+             sarcoidosis, occupational lung disease; Obstructive sleep apnea; Vocal cord&#xD;
+             dysfunction; Severe scoliosis or chest wall deformities.&#xD;
+&#xD;
+          -  A history suggestive of allergic rhinitis (based on the best judgment of the physician&#xD;
+             investigator).&#xD;
+&#xD;
+          -  A history of eczema.&#xD;
+&#xD;
+          -  Chronic sinusitis.&#xD;
+&#xD;
+          -  An improvement in FEV1 of more than 12% following 4 puffs of albuterol.&#xD;
+&#xD;
+          -  Chronic systemic diseases requiring ongoing anti-inflammatory treatment.&#xD;
+&#xD;
+          -  Current use of beta adrenergic blocking agent or a cholinesterase inhibitor (medicine&#xD;
+             used to treat myasthenia gravis or Alzheimer's disease).&#xD;
+&#xD;
+          -  Smoking history &gt; 10 pack years if ≥30 years of age, or smoking history &gt; 5 pack years&#xD;
+             if &lt;30 years of age (Note: if a subject has a smoking history, no smoking within the&#xD;
+             past year).&#xD;
+&#xD;
+          -  Respiratory tract infection within the past 4 weeks.&#xD;
+&#xD;
+          -  Pregnancy.&#xD;
+&#xD;
+          -  History of premature birth (&lt;35 weeks).&#xD;
+&#xD;
+          -  Any other criteria that place the subject at increased risk of complications from&#xD;
+             study procedures, according to the judgment of the Principal Investigator and/or&#xD;
+             attending physician(s) of record.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>6 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sally E Wenzel, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Pittsburgh</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Asthma Institute, UNiversity of Pittsburgh and University of Pittsburgh School of Medicine</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2022</verification_date>
+  <study_first_submitted>November 27, 2012</study_first_submitted>
+  <study_first_submitted_qc>December 10, 2012</study_first_submitted_qc>
+  <study_first_posted type="Estimate">December 12, 2012</study_first_posted>
+  <last_update_submitted>September 13, 2022</last_update_submitted>
+  <last_update_submitted_qc>September 13, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 16, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Pittsburgh</investigator_affiliation>
+    <investigator_full_name>Sally E. Wenzel MD</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Severe asthma</keyword>
+  <keyword>longitudinal study</keyword>
+  <keyword>phenotypes</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Asthma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Triamcinolone</mesh_term>
+    <mesh_term>Triamcinolone Acetonide</mesh_term>
+    <mesh_term>Triamcinolone hexacetonide</mesh_term>
+    <mesh_term>Triamcinolone diacetate</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>October 16, 2019</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/75/NCT01748175/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

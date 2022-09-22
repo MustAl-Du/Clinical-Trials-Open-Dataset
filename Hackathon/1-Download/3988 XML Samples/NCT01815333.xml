@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2156">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01815333</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2012-0926</org_study_id>
+    <secondary_id>NCI-2014-02435</secondary_id>
+    <nct_id>NCT01815333</nct_id>
+  </id_info>
+  <brief_title>Clinical and Technical Feasibility of a Ultrasuperparamagnetic Nanoparticle Iron Oxide (USPIO)-Enhanced Magnetic Resonance Lymph Node Imaging</brief_title>
+  <official_title>Clinical and Technical Feasibility of a Ultrasuperparamagnetic Nanoparticle Iron Oxide (USPIO)-Enhanced Magnetic Resonance Lymph Node Imaging</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>M.D. Anderson Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>M.D. Anderson Cancer Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this clinical research study is to learn if the drug Feraheme ® (ferumoxytole)&#xD;
+      helps researchers most clearly to &quot;see&quot; cancerous lymph nodes on an MRI scan. Researchers&#xD;
+      also want to learn if ferumoxytole may be used in liver imaging.&#xD;
+&#xD;
+      Ferumoxytole is designed to deliver iron to treat iron-deficiency anemia (low red blood cell&#xD;
+      counts) in patients with chronic kidney disease. In this study, it will be used as an MRI&#xD;
+      contrast. Contrasts are used by doctors in order to see MRI images more clearly.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Study Participation:&#xD;
+&#xD;
+      If you are found to be eligible, during the following MRI scans, you will pass into a long,&#xD;
+      narrow tube scanner, which is open at both ends. You will have a total of 3 MRI scans.&#xD;
+&#xD;
+      You will have an MRI scan before you receive ferumoxytole as needed. This is the&#xD;
+      standard-of-care MRI scan. You will then receive ferumoxytole by vein. If you are scheduled&#xD;
+      to have an MRI scan of your abdomen, or if you have visible lymph nodes in the abdomen, you&#xD;
+      will stay in the MRI scanner an extra 30 minutes for liver imaging right after you receive&#xD;
+      your dose of ferumoxytole. This is a part of an investigational scan (Visit 1--Day 1)&#xD;
+&#xD;
+      You will then return for an MRI scan 2 days later (Visit 2--Day 2) and then again the&#xD;
+      following day (Visit 3--Day 3) to scan your lymph nodes. These are the investigational scans.&#xD;
+      The timing of the second and third scans may be changed based on the study doctor's decision.&#xD;
+&#xD;
+      Length of Study:&#xD;
+&#xD;
+      Your participation on this study will be over after the third MRI scan.&#xD;
+&#xD;
+      Additional Information:&#xD;
+&#xD;
+      The images collected as part of this study will not be included as part of your medical&#xD;
+      record. If any of the images and/or information from this study are used for publication, all&#xD;
+      identifiable information will be removed. The data will be stored for 5 years after the study&#xD;
+      data has been published.&#xD;
+&#xD;
+      This is an investigational study. Ferumoxytole is FDA approved and commercially available for&#xD;
+      the treatment of iron-deficiency anemia in patients with chronic kidney disease. Its use to&#xD;
+      help researchers &quot;see&quot; cancerous lymph nodes from an MRI scan is considered investigational.&#xD;
+&#xD;
+      Up to 18 participants will be enrolled in this study. All will take part at MD Anderson.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">July 2013</start_date>
+  <completion_date type="Actual">July 25, 2019</completion_date>
+  <primary_completion_date type="Actual">July 25, 2019</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants With Signal Intensity (SI) Change of a Lymph Node Between the Pre- and Post- Contrast of the Feraheme Enhanced Magnetic Resonance Imaging (MRI)</measure>
+    <time_frame>3 days</time_frame>
+    <description>Signal intensity (SI) change of a lymph node between the pre- and post- contrast images observed subjectively at each time point. The degree of SI change at each time point compared each other subjectively and a time point showing the nodes best (greatest signal loss relative to that on pre-contrast images) identified (optimum scan time).</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">10</enrollment>
+  <condition>Cancer of Lymph Node</condition>
+  <arm_group>
+    <arm_group_label>Feraheme</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Magnetic resonance imaging (MRI) acquired prior to the injection of Feraheme® and repeated at approximately 48 hours and 72 hours from the time of injection (scan time). The scan time will be adjusted, as needed. The MRI scan prior to the Feraheme injection is the routine scan. The scans at 48 and 72 hours are investigational.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Feraheme</intervention_name>
+    <description>6 mg of iron/kg (maximum 510 mg/dose) injected at a rate of 1 ml/sec (30 mg/sec) or slower after initial MRI.</description>
+    <arm_group_label>Feraheme</arm_group_label>
+    <other_name>Ferumoxytole</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Magnetic Resonance Imaging (MRI)</intervention_name>
+    <description>MRI scan performed before Feraheme injection. After Feraheme injection, MRI scan performed 2 days later, and then again the following day.</description>
+    <arm_group_label>Feraheme</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Enrolled at MDACC, Written consent&#xD;
+&#xD;
+          2. Measurable nodes on the recent cross sectional imaging (CT, MRI. US) or suspicious&#xD;
+             lymph nodes for metastasis&#xD;
+&#xD;
+          3. Requiring tissue diagnosis (FNA, core biopsy, surgical biopsy, surgical resection), or&#xD;
+             clinical follow-ups for at least 6 months.&#xD;
+&#xD;
+          4. Any and all primary disease sites in the abdomen and pelvis will be allowed&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Primary or secondary iron overload&#xD;
+&#xD;
+          2. Lactation or pregnant - women of child bearing potential will be excluded&#xD;
+&#xD;
+          3. Contraindications for MRI&#xD;
+&#xD;
+          4. Contraindication or allergy to Feraheme® (based on insert)&#xD;
+&#xD;
+          5. Clinically documented or risk of primary or secondary iron overloading (e.g. History&#xD;
+             of thalassemia, sickle cell anemia, hereditary hemochromatosis, multiple transfusions&#xD;
+             with any reason), anemia not caused by iron deficiency&#xD;
+&#xD;
+          6. Age under 18&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Haesun Choi, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>M.D. Anderson Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Texas MD Anderson Cancer Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.mdanderson.org</url>
+    <description>University of Texas MD Anderson Cancer Center Website</description>
+  </link>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>March 19, 2013</study_first_submitted>
+  <study_first_submitted_qc>March 20, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">March 21, 2013</study_first_posted>
+  <results_first_submitted>July 24, 2020</results_first_submitted>
+  <results_first_submitted_qc>October 14, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">October 19, 2020</results_first_posted>
+  <last_update_submitted>October 14, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 14, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 19, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Cancer of Lymph Node</keyword>
+  <keyword>Magnetic resonance imaging</keyword>
+  <keyword>MRI</keyword>
+  <keyword>Ultrasuperparamagnetic nanoparticle iron oxide</keyword>
+  <keyword>USPIO</keyword>
+  <keyword>Feraheme</keyword>
+  <keyword>Ferumoxytole</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ferrosoferric Oxide</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>December 11, 2014</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/33/NCT01815333/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Recruitment Period: July 2013 to July 2019. Recruitment took place at the University of Texas MD Anderson Cancer Center.</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Feraheme</title>
+          <description>Magnetic resonance imaging (MRI) acquired prior to the injection of Feraheme® and repeated at approximately 48 hours and 72 hours from the time of injection (scan time). The scan time will be adjusted, as needed. The MRI scan prior to the Feraheme injection is the routine scan. The scans at 48 and 72 hours are investigational.&#xD;
+Feraheme: 6 mg of iron/kg (maximum 510 mg/dose) injected at a rate of 1 ml/sec (30 mg/sec) or slower after initial MRI.&#xD;
+Magnetic Resonance Imaging (MRI): MRI scan performed before Feraheme injection. After Feraheme injection, MRI scan performed 2 days later, and then again the following day.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="10"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="10"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Feraheme</title>
+          <description>Magnetic resonance imaging (MRI) acquired prior to the injection of Feraheme® and repeated at approximately 48 hours and 72 hours from the time of injection (scan time). The scan time will be adjusted, as needed. The MRI scan prior to the Feraheme injection is the routine scan. The scans at 48 and 72 hours are investigational.&#xD;
+Feraheme: 6 mg of iron/kg (maximum 510 mg/dose) injected at a rate of 1 ml/sec (30 mg/sec) or slower after initial MRI.&#xD;
+Magnetic Resonance Imaging (MRI): MRI scan performed before Feraheme injection. After Feraheme injection, MRI scan performed 2 days later, and then again the following day.</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="10"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With Signal Intensity (SI) Change of a Lymph Node Between the Pre- and Post- Contrast of the Feraheme Enhanced Magnetic Resonance Imaging (MRI)</title>
+        <description>Signal intensity (SI) change of a lymph node between the pre- and post- contrast images observed subjectively at each time point. The degree of SI change at each time point compared each other subjectively and a time point showing the nodes best (greatest signal loss relative to that on pre-contrast images) identified (optimum scan time).</description>
+        <time_frame>3 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Feraheme</title>
+            <description>Magnetic resonance imaging (MRI) acquired prior to the injection of Feraheme® and repeated at approximately 48 hours and 72 hours from the time of injection (scan time). The scan time will be adjusted, as needed. The MRI scan prior to the Feraheme injection is the routine scan. The scans at 48 and 72 hours are investigational.&#xD;
+Feraheme: 6 mg of iron/kg (maximum 510 mg/dose) injected at a rate of 1 ml/sec (30 mg/sec) or slower after initial MRI.&#xD;
+Magnetic Resonance Imaging (MRI): MRI scan performed before Feraheme injection. After Feraheme injection, MRI scan performed 2 days later, and then again the following day.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Signal Intensity (SI) Change of a Lymph Node Between the Pre- and Post- Contrast of the Feraheme Enhanced Magnetic Resonance Imaging (MRI)</title>
+          <description>Signal intensity (SI) change of a lymph node between the pre- and post- contrast images observed subjectively at each time point. The degree of SI change at each time point compared each other subjectively and a time point showing the nodes best (greatest signal loss relative to that on pre-contrast images) identified (optimum scan time).</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>from injection, over the course of scanning, up to 3 days</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Feraheme</title>
+          <description>Magnetic resonance imaging (MRI) acquired prior to the injection of Feraheme® and repeated at approximately 48 hours and 72 hours from the time of injection (scan time). The scan time will be adjusted, as needed. The MRI scan prior to the Feraheme injection is the routine scan. The scans at 48 and 72 hours are investigational.&#xD;
+Feraheme: 6 mg of iron/kg (maximum 510 mg/dose) injected at a rate of 1 ml/sec (30 mg/sec) or slower after initial MRI.&#xD;
+Magnetic Resonance Imaging (MRI): MRI scan performed before Feraheme injection. After Feraheme injection, MRI scan performed 2 days later, and then again the following day.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="10"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="10"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="10"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Haesun Choi, MD/ Professor, Abdominal Imaging Department</name_or_title>
+      <organization>UT MD Anderson Cancer Center</organization>
+      <phone>713-745-4693</phone>
+      <email>hchoi@mdanderson.org</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

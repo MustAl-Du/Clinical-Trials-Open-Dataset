@@ -1,0 +1,468 @@
+{
+  "FullStudy":{
+    "Rank":476,
+    "Study":{
+      "ProtocolSection":{
+        "IdentificationModule":{
+          "NCTId":"NCT05540353",
+          "OrgStudyIdInfo":{
+            "OrgStudyId":"STUDY00005330"
+          },
+          "Organization":{
+            "OrgFullName":"Medstar Health Research Institute",
+            "OrgClass":"OTHER"
+          },
+          "BriefTitle":"Transvaginal Low-level Laser Therapy to Improve Pelvic Pain and Sexual Function in Patients With Endometriosis.",
+          "OfficialTitle":"Transvaginal Photobiomodulation for the Treatment of Dyspareunia in Endometriosis Patients: A Randomized Controlled Trial"
+        },
+        "StatusModule":{
+          "StatusVerifiedDate":"September 2022",
+          "OverallStatus":"Not yet recruiting",
+          "ExpandedAccessInfo":{
+            "HasExpandedAccess":"No"
+          },
+          "StartDateStruct":{
+            "StartDate":"October 2022",
+            "StartDateType":"Anticipated"
+          },
+          "PrimaryCompletionDateStruct":{
+            "PrimaryCompletionDate":"February 2023",
+            "PrimaryCompletionDateType":"Anticipated"
+          },
+          "CompletionDateStruct":{
+            "CompletionDate":"April 2023",
+            "CompletionDateType":"Anticipated"
+          },
+          "StudyFirstSubmitDate":"September 12, 2022",
+          "StudyFirstSubmitQCDate":"September 12, 2022",
+          "StudyFirstPostDateStruct":{
+            "StudyFirstPostDate":"September 14, 2022",
+            "StudyFirstPostDateType":"Actual"
+          },
+          "LastUpdateSubmitDate":"September 12, 2022",
+          "LastUpdatePostDateStruct":{
+            "LastUpdatePostDate":"September 14, 2022",
+            "LastUpdatePostDateType":"Actual"
+          }
+        },
+        "SponsorCollaboratorsModule":{
+          "ResponsibleParty":{
+            "ResponsiblePartyType":"Principal Investigator",
+            "ResponsiblePartyInvestigatorFullName":"Rebecca E Thompson",
+            "ResponsiblePartyInvestigatorTitle":"Fellow of Minimally Invasive Gynecologic Surgery at MedStar Washington Hospital Center/Georgetown University",
+            "ResponsiblePartyInvestigatorAffiliation":"Medstar Health Research Institute"
+          },
+          "LeadSponsor":{
+            "LeadSponsorName":"Medstar Health Research Institute",
+            "LeadSponsorClass":"OTHER"
+          },
+          "CollaboratorList":{
+            "Collaborator":[
+              {
+                "CollaboratorName":"Patty Brisben Foundation For Women's Sexual Health",
+                "CollaboratorClass":"OTHER"
+              }
+            ]
+          }
+        },
+        "OversightModule":{
+          "OversightHasDMC":"No",
+          "IsFDARegulatedDrug":"No",
+          "IsFDARegulatedDevice":"Yes",
+          "IsUSExport":"No"
+        },
+        "DescriptionModule":{
+          "BriefSummary":"Dyspareunia is defined as pain with penetrative sexual intercourse. Women with endometriosis have a nine-fold increased risk of dyspareunia, when compared to the general female population.\n\nA prospective single-blinded randomized controlled trial will be performed evaluating the change in pelvic pain and sexual satisfaction scores from baseline to 6 weeks after treatment with transvaginal photobiomodulation therapy or sham therapy. Treatment will involve 9 planned treatment sessions over 3-4 weeks. 40 women will be included in the study.",
+          "DetailedDescription":"Active intervention: Transvaginal photobiomodulation (TV-PBM) Control intervention: Sham transvaginal probe\n\nAll subjects will complete 9 treatments over 3-4 weeks and all treatments will be performed with a sheet over the patient's pelvic area to prevent the subject from seeing the probe light, as well as a screen blocking the patient's view of the machine. Subjects randomized to active therapy will undergo TV-PBM treatment during each session per standard TV-PBM treatment protocol. Subjects randomized to sham will undergo blinded sham therapy using an identical probe but without photobiomodulation. Sham therapy will involve the same regimen as the active arm but with the machine turned off. Instead, there will be a recording of the usual noise of the machine to mimic the activation that occurs when stepping on the pedal with the machine on for TV-PBM treatment."
+        },
+        "ConditionsModule":{
+          "ConditionList":{
+            "Condition":[
+              "Endometriosis",
+              "Dyspareunia",
+              "Pelvic Pain"
+            ]
+          }
+        },
+        "DesignModule":{
+          "StudyType":"Interventional",
+          "PhaseList":{
+            "Phase":[
+              "Not Applicable"
+            ]
+          },
+          "DesignInfo":{
+            "DesignAllocation":"Randomized",
+            "DesignInterventionModel":"Parallel Assignment",
+            "DesignPrimaryPurpose":"Treatment",
+            "DesignMaskingInfo":{
+              "DesignMasking":"Single",
+              "DesignWhoMaskedList":{
+                "DesignWhoMasked":[
+                  "Participant"
+                ]
+              }
+            }
+          },
+          "EnrollmentInfo":{
+            "EnrollmentCount":"40",
+            "EnrollmentType":"Anticipated"
+          }
+        },
+        "ArmsInterventionsModule":{
+          "ArmGroupList":{
+            "ArmGroup":[
+              {
+                "ArmGroupLabel":"Transvaginal photobiomodulation",
+                "ArmGroupType":"Active Comparator",
+                "ArmGroupDescription":"Participants will undergo active transvaginal photobiomodulation therapy per clinic protocol, using the SoLa Pelvic Therapy system. This includes 9 treatments, each lasting about 3-5 minutes. A sterile narrow vaginal probe is inserted into the vagina, the low-level laser is activated, and the probe is slowly moved along the vaginal walls for the indicated period of time, via a surface area power calculation based on the measured vaginal length at the beginning of the procedure. The 9 treatments must be completed in 3-4 weeks.\n\nIntervention: Active SoLa Low-level laser therapy",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Device: Transvaginal photobiomodulation"
+                  ]
+                }
+              },{
+                "ArmGroupLabel":"Sham treatment",
+                "ArmGroupType":"Sham Comparator",
+                "ArmGroupDescription":"Participants will undergo sham transvaginal photobiomodulation therapy, following the same protocol as the active arm, without activation of the machine. This includes 9 treatments, lasting 3-5 minutes each. A sterile narrow vaginal probe is inserted into the vagina, the machine is NOT activated, and the inactive probe is slowly moved along the vaginal walls for 3-5 minutes. The 9 treatments must be completed in 3-4 weeks.\n\nIntervention: Mock treatment with inactivated probe",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Device: Sham therapy"
+                  ]
+                }
+              }
+            ]
+          },
+          "InterventionList":{
+            "Intervention":[
+              {
+                "InterventionType":"Device",
+                "InterventionName":"Transvaginal photobiomodulation",
+                "InterventionDescription":"Low light laser therapy applied transvaginally using a small vaginal wand with sterile disposable wand covers. The intervention last 3-5 minutes based on a surface area calculation performed at the beginning of the intervention, and involves a gentle in and out motion of the wand to deliver light energy to the muscles of the pelvic floor.",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Transvaginal photobiomodulation"
+                  ]
+                },
+                "InterventionOtherNameList":{
+                  "InterventionOtherName":[
+                    "SoLa Pelvic Therapy"
+                  ]
+                }
+              },{
+                "InterventionType":"Device",
+                "InterventionName":"Sham therapy",
+                "InterventionDescription":"Use of the same vaginal wand as active arm, but without activation of the machine. The intervention last 3-5 minutes, and involves a gentle in and out motion of the wand to massage the muscles of the pelvic floor, without delivery of light therapy.",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Sham treatment"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "OutcomesModule":{
+          "PrimaryOutcomeList":{
+            "PrimaryOutcome":[
+              {
+                "PrimaryOutcomeMeasure":"Mean change in pelvic pain",
+                "PrimaryOutcomeDescription":"Defined by mean change in 10-point Numerical pain rating scale (NPRS) from baseline scores, compared between treatment and sham control arms",
+                "PrimaryOutcomeTimeFrame":"Measured at baseline, after 4th treatment, 1-2 weeks after completion of treatment, and 6 weeks after completion of treatment"
+              }
+            ]
+          },
+          "SecondaryOutcomeList":{
+            "SecondaryOutcome":[
+              {
+                "SecondaryOutcomeMeasure":"Change in Female Sexual Function Index (FSFI) scores",
+                "SecondaryOutcomeDescription":"FSFI is a self-report questionnaire addressing six categories that contribute to female sexual satisfaction: desire, arousal, lubrication, orgasm, satisfaction, and pain.",
+                "SecondaryOutcomeTimeFrame":"Measured at baseline, after 4th treatment, 1-2 weeks after completion of treatment, and 6 weeks after completion of treatment."
+              },{
+                "SecondaryOutcomeMeasure":"Change in Short Form-McGill Pain Questionnaire (SF-MPQ)",
+                "SecondaryOutcomeDescription":"SF-MPQ is a self-reported questionnaire to help describe pain character and intensity. It consists of 15 descriptors (11 sensory; 4 affective) which are rated on an intensity scale as 0 = none, 1 = mild, 2 = moderate or 3 = severe. Three pain scores are derived from the sum of the intensity rank values of the words chosen for sensory, affective and total descriptors.",
+                "SecondaryOutcomeTimeFrame":"Measured at baseline, after 4th treatment, 1-2 weeks after completion of treatment, and 6 weeks after completion of treatment."
+              },{
+                "SecondaryOutcomeMeasure":"Change in number of Sexually Satisfying Experiences (SSE)",
+                "SecondaryOutcomeDescription":"A 2 question form asking number of SSEs in the past 7 days and the past 1 month. An SSE is defined as: a sexual experience in which you are satisfied with those factors that are most important to you. The experience can be with a partner or alone.",
+                "SecondaryOutcomeTimeFrame":"Measured at baseline, after 4th treatment, 1-2 weeks after completion of treatment, and 6 weeks after completion of treatment."
+              },{
+                "SecondaryOutcomeMeasure":"Change in clinic pain scores",
+                "SecondaryOutcomeDescription":"A standardized pelvic exam to evaluate each muscle group in abdomen and pelvis with a patient assigned pain score (0-10) to each area palpated.",
+                "SecondaryOutcomeTimeFrame":"Measured at baseline, after 4th treatment, 1-2 weeks after completion of treatment, and 6 weeks after completion of treatment."
+              }
+            ]
+          }
+        },
+        "EligibilityModule":{
+          "EligibilityCriteria":"Inclusion Criteria:\n\nProficient English-speaking females\nPathology proven endometriosis, >6 weeks from prior pelvic surgery\nCurrent dyspareunia\n\nExclusion Criteria:\n\nUnable to comply with study protocol\nPregnant or attempting to become pregnant\nHistory of or active treatment for pelvic malignancy\nCurrently taking light-sensitizing drugs",
+          "HealthyVolunteers":"Accepts Healthy Volunteers",
+          "Gender":"Female",
+          "MinimumAge":"18 Years",
+          "StdAgeList":{
+            "StdAge":[
+              "Adult",
+              "Older Adult"
+            ]
+          }
+        },
+        "ContactsLocationsModule":{
+          "CentralContactList":{
+            "CentralContact":[
+              {
+                "CentralContactName":"Rebecca E Thompson, MD",
+                "CentralContactRole":"Contact",
+                "CentralContactPhone":"9014831043",
+                "CentralContactEMail":"rebecca.e.thompson@medstar.net"
+              }
+            ]
+          },
+          "OverallOfficialList":{
+            "OverallOfficial":[
+              {
+                "OverallOfficialName":"James Robinson, MD",
+                "OverallOfficialAffiliation":"Medstar Washington Hospital Center",
+                "OverallOfficialRole":"Principal Investigator"
+              }
+            ]
+          },
+          "LocationList":{
+            "Location":[
+              {
+                "LocationFacility":"MedStar Washington Hospital Center",
+                "LocationCity":"Washington",
+                "LocationState":"District of Columbia",
+                "LocationZip":"20010",
+                "LocationCountry":"United States",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactName":"Rebecca Thompson, MD",
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"rebecca.e.thompson@medstar.net"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"MedStar Lafayette Center",
+                "LocationCity":"Washington",
+                "LocationState":"District of Columbia",
+                "LocationZip":"20036",
+                "LocationCountry":"United States",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactName":"Rebecca Thompson, MD",
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"rebecca.e.thompson@medstar.net"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"MedStar Georgetown University Hospital",
+                "LocationCity":"Washington",
+                "LocationState":"District of Columbia",
+                "LocationZip":"20057",
+                "LocationCountry":"United States",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactName":"Rebecca Thompson, MD",
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"rebecca.e.thompson@medstar.net"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"MedStar Mitchellville Clinic",
+                "LocationCity":"Mitchellville",
+                "LocationState":"Maryland",
+                "LocationZip":"20721",
+                "LocationCountry":"United States",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactName":"Rebecca Thompson, MD",
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"rebecca.e.thompson@medstar.net"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"MedStar Rockville Clinic",
+                "LocationCity":"Rockville",
+                "LocationState":"Maryland",
+                "LocationZip":"20852",
+                "LocationCountry":"United States",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactName":"Rebecca Thompson, MD",
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"rebecca.e.thompson@medstar.net"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"MedStar McLean Clinic",
+                "LocationCity":"McLean",
+                "LocationState":"Virginia",
+                "LocationZip":"22101",
+                "LocationCountry":"United States",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactName":"Rebecca Thompson, MD",
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"rebecca.e.thompson@medstar.net"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "ReferencesModule":{
+          "ReferenceList":{
+            "Reference":[
+              {
+                "ReferencePMID":"25730237",
+                "ReferenceType":"background",
+                "ReferenceCitation":"Stratton P, Khachikyan I, Sinaii N, Ortiz R, Shah J. Association of chronic pelvic pain and endometriosis with signs of sensitization and myofascial pain. Obstet Gynecol. 2015 Mar;125(3):719-728. doi: 10.1097/AOG.0000000000000663."
+              },{
+                "ReferencePMID":"19835795",
+                "ReferenceType":"background",
+                "ReferenceCitation":"Howard FM. Endometriosis and mechanisms of pelvic pain. J Minim Invasive Gynecol. 2009 Sep-Oct;16(5):540-50. doi: 10.1016/j.jmig.2009.06.017. Review."
+              },{
+                "ReferencePMID":"22503015",
+                "ReferenceType":"background",
+                "ReferenceCitation":"FitzGerald MP, Payne CK, Lukacz ES, Yang CC, Peters KM, Chai TC, Nickel JC, Hanno PM, Kreder KJ, Burks DA, Mayer R, Kotarinos R, Fortman C, Allen TM, Fraser L, Mason-Cover M, Furey C, Odabachian L, Sanfield A, Chu J, Huestis K, Tata GE, Dugan N, Sheth H, Bewyer K, Anaeme A, Newton K, Featherstone W, Halle-Podell R, Cen L, Landis JR, Propert KJ, Foster HE Jr, Kusek JW, Nyberg LM; Interstitial Cystitis Collaborative Research Network. Randomized multicenter clinical trial of myofascial physical therapy in women with interstitial cystitis/painful bladder syndrome and pelvic floor tenderness. J Urol. 2012 Jun;187(6):2113-8. doi: 10.1016/j.juro.2012.01.123. Epub 2012 Apr 12."
+              },{
+                "ReferencePMID":"22045511",
+                "ReferenceType":"background",
+                "ReferenceCitation":"Chung H, Dai T, Sharma SK, Huang YY, Carroll JD, Hamblin MR. The nuts and bolts of low-level laser (light) therapy. Ann Biomed Eng. 2012 Feb;40(2):516-33. doi: 10.1007/s10439-011-0454-7. Epub 2011 Nov 2. Review."
+              },{
+                "ReferencePMID":"34490787",
+                "ReferenceType":"background",
+                "ReferenceCitation":"Kohli N, Jarnagin B, Stoehr AR, Lamvu G. An observational cohort study of pelvic floor photobiomodulation for treatment of chronic pelvic pain. J Comp Eff Res. 2021 Dec;10(17):1291-1299. doi: 10.2217/cer-2021-0187. Epub 2021 Sep 7."
+              },{
+                "ReferencePMID":"34841398",
+                "ReferenceType":"background",
+                "ReferenceCitation":"Zipper R, Pryor B, Lamvu G. Transvaginal Photobiomodulation for the Treatment of Chronic Pelvic Pain: A Pilot Study. Womens Health Rep (New Rochelle). 2021 Nov 23;2(1):518-527. doi: 10.1089/whr.2021.0097. eCollection 2021."
+              }
+            ]
+          }
+        },
+        "IPDSharingStatementModule":{
+          "IPDSharing":"No"
+        }
+      },
+      "DerivedSection":{
+        "MiscInfoModule":{
+          "VersionHolder":"September 19, 2022"
+        },
+        "ConditionBrowseModule":{
+          "ConditionMeshList":{
+            "ConditionMesh":[
+              {
+                "ConditionMeshId":"D000004715",
+                "ConditionMeshTerm":"Endometriosis"
+              },{
+                "ConditionMeshId":"D000004414",
+                "ConditionMeshTerm":"Dyspareunia"
+              },{
+                "ConditionMeshId":"D000017699",
+                "ConditionMeshTerm":"Pelvic Pain"
+              }
+            ]
+          },
+          "ConditionAncestorList":{
+            "ConditionAncestor":[
+              {
+                "ConditionAncestorId":"D000010146",
+                "ConditionAncestorTerm":"Pain"
+              },{
+                "ConditionAncestorId":"D000009461",
+                "ConditionAncestorTerm":"Neurologic Manifestations"
+              },{
+                "ConditionAncestorId":"D000012735",
+                "ConditionAncestorTerm":"Sexual Dysfunction, Physiological"
+              },{
+                "ConditionAncestorId":"D000020018",
+                "ConditionAncestorTerm":"Sexual Dysfunctions, Psychological"
+              },{
+                "ConditionAncestorId":"D000001523",
+                "ConditionAncestorTerm":"Mental Disorders"
+              }
+            ]
+          },
+          "ConditionBrowseLeafList":{
+            "ConditionBrowseLeaf":[
+              {
+                "ConditionBrowseLeafId":"M19070",
+                "ConditionBrowseLeafName":"Pelvic Pain",
+                "ConditionBrowseLeafAsFound":"Pelvic Pain",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M12218",
+                "ConditionBrowseLeafName":"Pain",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M7029",
+                "ConditionBrowseLeafName":"Endometriosis",
+                "ConditionBrowseLeafAsFound":"Endometriosis",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M6740",
+                "ConditionBrowseLeafName":"Dyspareunia",
+                "ConditionBrowseLeafAsFound":"Dyspareunia",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M11556",
+                "ConditionBrowseLeafName":"Neurologic Manifestations",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M14698",
+                "ConditionBrowseLeafName":"Sexual Dysfunction, Physiological",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M21026",
+                "ConditionBrowseLeafName":"Sexual Dysfunctions, Psychological",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M3967",
+                "ConditionBrowseLeafName":"Mental Disorders",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M13625",
+                "ConditionBrowseLeafName":"Psychotic Disorders",
+                "ConditionBrowseLeafRelevance":"low"
+              }
+            ]
+          },
+          "ConditionBrowseBranchList":{
+            "ConditionBrowseBranch":[
+              {
+                "ConditionBrowseBranchAbbrev":"BC23",
+                "ConditionBrowseBranchName":"Symptoms and General Pathology"
+              },{
+                "ConditionBrowseBranchAbbrev":"All",
+                "ConditionBrowseBranchName":"All Conditions"
+              },{
+                "ConditionBrowseBranchAbbrev":"BXS",
+                "ConditionBrowseBranchName":"Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+              },{
+                "ConditionBrowseBranchAbbrev":"BXM",
+                "ConditionBrowseBranchName":"Behaviors and Mental Disorders"
+              },{
+                "ConditionBrowseBranchAbbrev":"BC10",
+                "ConditionBrowseBranchName":"Nervous System Diseases"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+

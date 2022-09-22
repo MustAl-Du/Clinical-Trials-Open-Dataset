@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2153">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01821560</url>
+  </required_header>
+  <id_info>
+    <org_study_id>817101</org_study_id>
+    <secondary_id>R01DA030394-01A1</secondary_id>
+    <secondary_id>PA Depart of Health</secondary_id>
+    <nct_id>NCT01821560</nct_id>
+  </id_info>
+  <brief_title>Baclofen Effects in Cigarette Smokers</brief_title>
+  <acronym>BAC</acronym>
+  <official_title>Baclofen Effects on Brain and Behavior in Cigarette Smokers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Pennsylvania</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institutes of Health (NIH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Pennsylvania</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The proposed project will utilize perfusion functional magnetic resonance imaging (fMRI), a&#xD;
+      functional candidate gene association approach (of dopaminergic addictions-targeted&#xD;
+      polymorphisms), and the dopamine-modulating and gamma-aminobutyric acid (GABA) B receptor&#xD;
+      agonist, baclofen, to examine the brain and behavioral responses in smokers to appetitive&#xD;
+      smoking reminders (cues that motivate continued smoking and relapse). These studies will&#xD;
+      provide a means to identify an appetitive cue-sensitive pharmacologic-responsive&#xD;
+      endophenotype. Once brain/behavioral/genetic endophenotypes can be determined prior to&#xD;
+      treatment, smoking cessation treatments can be structured to meet individual needs, which&#xD;
+      will significantly improve treatment outcome.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>March 2013</start_date>
+  <completion_date type="Actual">June 2017</completion_date>
+  <primary_completion_date type="Actual">June 2017</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Cigarettes Smoked Per Day</measure>
+    <time_frame>3 weeks (Scan Day 1, week1- Scan Day 2, week 4)</time_frame>
+    <description>Cigarettes per day at Scan Day 2; Baclofen group vs. placebo group</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">44</enrollment>
+  <condition>Nicotine Dependence</condition>
+  <arm_group>
+    <arm_group_label>Sugar pill</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo-treated subjects will follow the identical schedule as Baclofen subjects.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Baclofen</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Baclofen will be dispensed in pill form. Baclofen will be prescribed at 20 mg 4 times per day. Each baclofen pill will be 10 mg. Thus, 2 pills will be taken at each scheduled dose for a total of 8 pills a day over a period of 8 weeks. In this way, the titration schedule, taper and potential dose reductions can be managed.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Baclofen</intervention_name>
+    <arm_group_label>Baclofen</arm_group_label>
+    <other_name>Kemstro</other_name>
+    <other_name>Lioresal</other_name>
+    <other_name>Liofen</other_name>
+    <other_name>Gablofen</other_name>
+    <other_name>Beklo</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>placebo</intervention_name>
+    <arm_group_label>Sugar pill</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Physically healthy, as determined by a comprehensive physical examination and approval&#xD;
+             of the study physician males or females who smoke cigarettes, ages 18-60.&#xD;
+&#xD;
+          -  Smoke ≥ 6 cigarettes per day for at least 6 months prior to study start date.&#xD;
+&#xD;
+          -  Females must be non-pregnant, non-lactating and either be of non-childbearing&#xD;
+             potential (i.e. sterilized via hysterectomy or bilateral tubal ligation or at least 1&#xD;
+             year post-menopausal) or of child bearing potential but practicing a medically&#xD;
+             acceptable method of birth control. Examples of medically acceptable methods for this&#xD;
+             protocol include barrier (diaphragm or condom) with spermicide, an intrauterine device&#xD;
+             (IUD), the Nuvaring, oral contraceptives, levonorgestrel implant, hormonal injection&#xD;
+             or complete abstinence.&#xD;
+&#xD;
+          -  Provide voluntary informed consent.&#xD;
+&#xD;
+          -  Must be able to read. [Subjects are required to be able to read because there are&#xD;
+             several self-administered measures that they must read, understand and provide written&#xD;
+             answers.]&#xD;
+&#xD;
+          -  Intelligence quotient of ≥ 80.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of head trauma or injury causing loss of consciousness, lasting more than five&#xD;
+             (5) minutes or associated with skull fracture or inter-cranial bleeding or abnormal&#xD;
+             MRI.&#xD;
+&#xD;
+          -  Current Diagnostic and Statistical Manual-IV (DSM-IV) Axis I diagnoses other than&#xD;
+             nicotine dependence.&#xD;
+&#xD;
+          -  Presence of magnetically active irremovable prosthetics, plates, pins, permanent&#xD;
+             retainer, bullets, etc. (unless a radiologist confirms that it's presence is&#xD;
+             unproblematic). An x-ray may be obtained to determine eligibility given the&#xD;
+             possibility of a foreign body.&#xD;
+&#xD;
+          -  History of psychosis.&#xD;
+&#xD;
+          -  Claustrophobia or other medical condition preventing subject from lying in the MRI for&#xD;
+             approximately one (1) hour.&#xD;
+&#xD;
+          -  Current diagnosis of or treatment within the last 3 months for alcohol dependence.&#xD;
+&#xD;
+          -  Current use of any smoking cessation treatments such as Zyban, Chantix, Wellbutrin,&#xD;
+             patch, gum, inhaler, electronic cigarettes, herbal preparations.&#xD;
+&#xD;
+          -  Vision problems that cannot be corrected with glasses.&#xD;
+&#xD;
+          -  Weight exceeding 300 pounds [Imaging data acquisition is impaired with high weight&#xD;
+             individuals].&#xD;
+&#xD;
+          -  History of stroke.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Teresa R Franklin, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Pennsylvania</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Pennsylvania Center for Studies of Addiction</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2018</verification_date>
+  <study_first_submitted>March 21, 2013</study_first_submitted>
+  <study_first_submitted_qc>March 29, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 1, 2013</study_first_posted>
+  <results_first_submitted>October 31, 2018</results_first_submitted>
+  <results_first_submitted_qc>November 30, 2018</results_first_submitted_qc>
+  <results_first_posted type="Actual">December 19, 2018</results_first_posted>
+  <last_update_submitted>November 30, 2018</last_update_submitted>
+  <last_update_submitted_qc>November 30, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 19, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Nicotine Addiction</keyword>
+  <keyword>fMRI</keyword>
+  <keyword>Baclofen</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Tobacco Use Disorder</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Baclofen</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>January 6, 2017</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/60/NCT01821560/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Participants were recruitment between March 2013-March 2017 via word of mouth, flyers, an online study database managed by the University of Pennsylvania, and also social media advertisements (Facebook).</recruitment_details>
+      <pre_assignment_details>Prior to study group assignments, all participants must first provide informed consent and then are found to be eligible to participate in the study after completing the screening process. The screening process included a full physical and psychological evaluation to ensure all participants are both physically and mentally healthy enough.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Sugar Pill</title>
+          <description>Placebo-treated subjects will follow the identical schedule as Baclofen subjects.&#xD;
+placebo</description>
+        </group>
+        <group group_id="P2">
+          <title>Baclofen</title>
+          <description>Baclofen will be dispensed in pill form. Baclofen will be prescribed at 20 mg 4 times per day. Each baclofen pill will be 10 mg. Thus, 2 pills will be taken at each scheduled dose for a total of 8 pills a day over a period of 8 weeks. In this way, the titration schedule, taper and potential dose reductions can be managed.&#xD;
+Baclofen</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="22"/>
+                <participants group_id="P2" count="22"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="16"/>
+                <participants group_id="P2" count="15"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="6"/>
+                <participants group_id="P2" count="7"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="5"/>
+                <participants group_id="P2" count="5"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Protocol Violation</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Sugar Pill</title>
+          <description>Placebo-treated subjects will follow the identical schedule as Baclofen subjects.&#xD;
+placebo</description>
+        </group>
+        <group group_id="B2">
+          <title>Baclofen</title>
+          <description>Baclofen will be dispensed in pill form. Baclofen will be prescribed at 20 mg 4 times per day. Each baclofen pill will be 10 mg. Thus, 2 pills will be taken at each scheduled dose for a total of 8 pills a day over a period of 8 weeks. In this way, the titration schedule, taper and potential dose reductions can be managed.&#xD;
+Baclofen</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="22"/>
+            <count group_id="B2" value="22"/>
+            <count group_id="B3" value="44"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="40.2" spread="12.1"/>
+                    <measurement group_id="B2" value="38.9" spread="12.0"/>
+                    <measurement group_id="B3" value="39.5" spread="11.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="16"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                    <measurement group_id="B2" value="14"/>
+                    <measurement group_id="B3" value="28"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Race</title>
+              <category_list>
+                <category>
+                  <title>African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                    <measurement group_id="B2" value="12"/>
+                    <measurement group_id="B3" value="26"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White Non-Hispanic</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Mixed Race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White Hispanic</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="22"/>
+                    <measurement group_id="B2" value="22"/>
+                    <measurement group_id="B3" value="44"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Cigarettes Smoked Per Day</title>
+        <description>Cigarettes per day at Scan Day 2; Baclofen group vs. placebo group</description>
+        <time_frame>3 weeks (Scan Day 1, week1- Scan Day 2, week 4)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Sugar Pill</title>
+            <description>Placebo-treated subjects will follow the identical schedule as Baclofen subjects.&#xD;
+placebo</description>
+          </group>
+          <group group_id="O2">
+            <title>Baclofen</title>
+            <description>Baclofen will be dispensed in pill form. Baclofen will be prescribed at 20 mg 4 times per day. Each baclofen pill will be 10 mg. Thus, 2 pills will be taken at each scheduled dose for a total of 8 pills a day over a period of 8 weeks. In this way, the titration schedule, taper and potential dose reductions can be managed.&#xD;
+Baclofen</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Cigarettes Smoked Per Day</title>
+          <description>Cigarettes per day at Scan Day 2; Baclofen group vs. placebo group</description>
+          <units>Cigarettes per day</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="22"/>
+                <count group_id="O2" value="22"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Scan Day 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="14.19" spread="1.01"/>
+                    <measurement group_id="O2" value="14.23" spread="1.20"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Scan Day 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7.67" spread="1.05"/>
+                    <measurement group_id="O2" value="7.76" spread="1.10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Collected over a 5 year period</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Sugar Pill</title>
+          <description>Placebo-treated subjects will follow the identical schedule as Baclofen subjects.&#xD;
+placebo</description>
+        </group>
+        <group group_id="E2">
+          <title>Baclofen</title>
+          <description>Baclofen will be dispensed in pill form. Baclofen will be prescribed at 20 mg 4 times per day. Each baclofen pill will be 10 mg. Thus, 2 pills will be taken at each scheduled dose for a total of 8 pills a day over a period of 8 weeks. In this way, the titration schedule, taper and potential dose reductions can be managed.&#xD;
+Baclofen</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="22"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="22"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="22"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="17" subjects_at_risk="22"/>
+                <counts group_id="E2" subjects_affected="16" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="22"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="22"/>
+              </event>
+              <event>
+                <sub_title>Digestive</sub_title>
+                <description>gas, heartburn, increased appetite, decreased appetite, bowel changes, diarrhea, stomach pain</description>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="22"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>musculoskeletal</sub_title>
+                <description>muscle weakness</description>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="22"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Drowsiness</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="22"/>
+                <counts group_id="E2" subjects_affected="9" subjects_at_risk="22"/>
+              </event>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="22"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="22"/>
+              </event>
+              <event>
+                <sub_title>Dizzy/Lightheadedness</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="22"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="22"/>
+              </event>
+              <event>
+                <sub_title>Insomnia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="22"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="22"/>
+              </event>
+              <event>
+                <sub_title>Cognitive Changes</sub_title>
+                <description>vivid Dreams, nightmares, mental fogginess</description>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="22"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Affective Changes</sub_title>
+                <description>irritability, mood swings</description>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="22"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Elevated Blood Pressure</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="22"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>The goals of the study were to identify mechanisms of baclofen's effects on smoking cue reactivity. Using other mechanisms we provided a treatment arm. Sample size was small.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Dr. Teresa R. Franklin</name_or_title>
+      <organization>University of Pennsylvania</organization>
+      <phone>215-746-1883</phone>
+      <email>teresafr@pennmedicine.upenn.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

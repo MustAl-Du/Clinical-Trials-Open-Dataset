@@ -1,0 +1,1298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2227">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01222494</url>
+  </required_header>
+  <id_info>
+    <org_study_id>10-0425</org_study_id>
+    <secondary_id>K23MH092435</secondary_id>
+    <nct_id>NCT01222494</nct_id>
+  </id_info>
+  <brief_title>Healthy Bodies, Healthy Kids</brief_title>
+  <official_title>Measurement of Cardiometabolic Risk in Antipsychotic-Treated Children</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Washington University School of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Mental Health (NIMH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Washington University School of Medicine</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The US prevalence of childhood-onset obesity and type 2 diabetes, both predictors of&#xD;
+      cardiovascular risk, have increased to epidemic proportions in recent decades. Children with&#xD;
+      mental illness, especially those treated with antipsychotic medications, are at additional&#xD;
+      risk for obesity (adiposity) and related risk conditions. A variety of noninvasive techniques&#xD;
+      to assess cardiometabolic risk have begun to be applied in children, including body&#xD;
+      composition measured with dual energy x-ray absorptiometry (DEXA), carotid intima media&#xD;
+      thickness (CIMT) measured by ultrasound, and hepatic triglyceride content measured using&#xD;
+      magnetic resonance (MR) imaging-estimated proton density fat fraction (PDFF). These measures&#xD;
+      allow for the early, noninvasive study of adiposity-related metabolic risk. The overall aim&#xD;
+      of this two-study research plan is to characterize the level of measurable risk using these&#xD;
+      sensitive markers in treated and untreated children with mental health disorders, and to&#xD;
+      evaluate the magnitude of change in risk that can be observed using these biomarkers in&#xD;
+      children receiving a well established behavioral weight-loss intervention.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This project will utilize sensitive, early biomarkers of disease risk, including whole body&#xD;
+      adiposity with DEXA, PDDF and CIMT, directly relevant to diabetes and cardiovascular disease&#xD;
+      risk. The primary goals of this study are to deliver an evidence-based weight loss&#xD;
+      intervention to the population of youth who are overweight or obese as a result of&#xD;
+      antipsychotic treatment, to characterize metabolic risk associated with weight using&#xD;
+      sensitive biomarkers, and to evaluate the magnitude of change observed in these biomarkers in&#xD;
+      children receiving an established behavioral weight-loss intervention.&#xD;
+&#xD;
+      Aim 1: To evaluate the main effect of time of 16 weeks of a Behavioral Weight Loss (BWL)&#xD;
+      intervention on DEXA-measured whole body adiposity in overweight/obese antipsychotic&#xD;
+      (AP)-treated children compared to nonpsychiatric (NP) overweight or obese healthy controls,&#xD;
+      and in AP-treated youth randomized to monthly Usual Care (UC).&#xD;
+&#xD;
+      Aim 2: To evaluate the main effect of time of 16 weeks of a BWL intervention on PDFF in&#xD;
+      overweight/obese AP-treated children compared to NP overweight or obese healthy controls, and&#xD;
+      in AP-treated youth randomized monthly UC.&#xD;
+&#xD;
+      Aim 3: To evaluate the main effect of time of 16 weeks of a weekly behavioral weight loss&#xD;
+      intervention on CIMT in overweight/obese AP-treated children compared to NP overweight or&#xD;
+      obese healthy controls, and in AP-treated youth randomized monthly UC.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">July 2011</start_date>
+  <completion_date type="Actual">March 2017</completion_date>
+  <primary_completion_date type="Actual">March 2017</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>DEXA-measured Adiposity</measure>
+    <time_frame>Baseline and 16 weeks</time_frame>
+    <description>Dual-Energy X-Ray Absorptiometry (DEXA) will be used to assess body fat at baseline and following 16 weeks of participation in a behavioral weight loss intervention.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Proton Density Fat Fraction (PDFF)</measure>
+    <time_frame>Baseline and 16 weeks</time_frame>
+    <description>1H Magnetic Resonance Spectroscopy (MRS) of liver will be used to assess intracellular triglyceride content at baseline and following 16 weeks of participation in a behavioral weight loss intervention.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Carotid Artery Intima Media Thickness (CIMT)</measure>
+    <time_frame>Baseline and 16 weeks</time_frame>
+    <description>9-13-MHZ B-mode Carotid Ultrasound will be used to assess intima media thickness at baseline and following 16 weeks of participation in a behavioral weight loss intervention.</description>
+  </primary_outcome>
+  <other_outcome>
+    <measure>Aberrant Behavior Checklist (ABC)</measure>
+    <time_frame>Baseline and 16 weeks</time_frame>
+    <description>Change From Baseline in Aberrant Behavior Checklist - Irritability Subscale at 16 Weeks</description>
+  </other_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">47</enrollment>
+  <condition>Child Mental Disorders</condition>
+  <condition>Obesity</condition>
+  <condition>Metabolic Syndrome</condition>
+  <arm_group>
+    <arm_group_label>Antipsychotic Treated Educational Cntrl</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Antipsychotic treated participants randomized to this arm will receive diet and exercise education at monthly intervals with a study clinician or coordinator.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Antipsychotic Treated Weekly BWL</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Antipsychotic treated participants randomized to this arm will engage in an evidence-based, 16 week manualized behavioral weight loss intervention that includes weekly meetings and phone check-ins with a trained study therapist.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Non-antipsychotic Treated Weekly BWL</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants assigned to this arm will engage in an evidence-based, 16 week manualized behavioral weight loss intervention that includes weekly meetings and phone check-ins with a trained study therapist.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Behavioral Weight Loss</intervention_name>
+    <description>This intervention is a family-based, behavioral weight loss program that has been employed in studies with overweight and obese children, as well as with children who have diabetes. For the proposed study, the program has been modified to fit the needs of disruptive and behaviorally disturbed youth and their families. The modified program includes 16 weeks of weekly visits with a study interventionist, and supplemental phone contacts as needed. Phone contacts will only replace in-person visits if absolutely necessary to achieve the visit.</description>
+    <arm_group_label>Antipsychotic Treated Weekly BWL</arm_group_label>
+    <arm_group_label>Non-antipsychotic Treated Weekly BWL</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Diet and Exercise Education</intervention_name>
+    <description>Participants assigned to this arm will receive monthly medically validated, individualized diet and exercise education by a trained research professional.</description>
+    <arm_group_label>Antipsychotic Treated Educational Cntrl</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        INCLUSION CRITERIA&#xD;
+&#xD;
+          -  6-18 years old (at any point during study participation)&#xD;
+&#xD;
+          -  BMI percentile &gt; 85&#xD;
+&#xD;
+          -  Meet DSM-IV criteria for one or more childhood onset psychiatric disorders including&#xD;
+             disruptive behavior disorders (attention deficit disorder, conduct disorder,&#xD;
+             oppositional defiant disorder and disruptive behavior disorder not otherwise&#xD;
+             specified), affective disorders (bipolar affective disorder, major depressive disorder&#xD;
+             and mood disorder not otherwise specified), anxiety disorders (generalized anxiety&#xD;
+             disorder, obsessive compulsive disorder, separation anxiety, social and other specific&#xD;
+             phobias) as well as other disorders, including autism spectrum disorders (autistic&#xD;
+             disorder, Asperger's Syndrome and pervasive developmental disorder not otherwise&#xD;
+             specified), psychotic disorders (schizophreniform disorder, schizophrenia and&#xD;
+             psychotic disorder not otherwise specified) and movement disorders (tic disorder,&#xD;
+             Tourette's Syndrome) as determined by semi-structured diagnostic interview (EXCEPT for&#xD;
+             the Obese or Overweight Control Group, none of whom can meet criteria for any DSM-IV&#xD;
+             Axis I psychiatric illness)&#xD;
+&#xD;
+          -  Currently treated with an atypical antipsychotic medication (EXCEPT for the Obese or&#xD;
+             Overweight Healthy Control Group, none of whom can be treated with any psychotropic&#xD;
+             medications Participants treated with any psychotropic medication may not have any&#xD;
+             medication changes for 1 month prior to study enrollment at the discretion of the PI,&#xD;
+             and Antipsychotic-Treated Participants must be treated with an antipsychotic &gt;&#xD;
+             approximately 12 weeks with no antipsychotic medication dose changes for 1 month&#xD;
+&#xD;
+          -  The Healthy Overweight or Obese Control Group may not be currently taking any&#xD;
+             prescription medications (multivitamins, over the counter medications, glucocorticoid&#xD;
+             nasal spray and inhalers are permitted, as well as non-sedating antihistamines such as&#xD;
+             but not limited to Claritin (loratadine) and Zyrtec (cetirizine)&#xD;
+&#xD;
+          -  Participants between 6-17 years old will be able to give assent and have a&#xD;
+             parent/guardian that can provide written informed consent, and 18 year-old&#xD;
+             participants will be able to provide written informed consent.&#xD;
+&#xD;
+        EXCLUSION CRITERIA&#xD;
+&#xD;
+          -  Do not meet DSM-IV criteria for any Axis I psychiatric illness per PI discretion&#xD;
+             (EXCEPT for Overweight or Obese Healthy reference group)&#xD;
+&#xD;
+          -  Any lifetime use of antipsychotics (EXCEPT for Antipsychotic-Treated Participants,&#xD;
+             with the individuals in the latter group possibly having a remote, brief prior&#xD;
+             antipsychotic exposure that may be considered for enrollment on a case by case basis&#xD;
+             by the PI)&#xD;
+&#xD;
+          -  The presence of any serious medical disorder that may confound the assessment of&#xD;
+             relevant biologic measures or diagnoses, including: significant organ system&#xD;
+             dysfunction; endocrine disease, including type 1 or type 2 diabetes mellitus;&#xD;
+             coagulopathy; anemia; or acute infection; all based on PI discretion Participants&#xD;
+             regularly taking within the last 3 months any glucose lowering agent, lipid lowering&#xD;
+             agent, exogenous testosterone, recombinant human growth hormone, or any other&#xD;
+             endocrine agent that might confound substrate metabolism, oral glucocorticoids&#xD;
+             (glucocorticoid nasal spray and inhalers are permitted), sedating antihistamines&#xD;
+             (non-sedating antihistamines such as but not limited to Claritin (loratadine) and&#xD;
+             Zyrtec (cetirizine) are permitted), and certain mood stabilizing agents including&#xD;
+             antiepileptic medications (lamotrigine is permitted) and Lithium, as these medications&#xD;
+             may themselves worsen or otherwise alter weight gain, glucose and lipid regulation or&#xD;
+             otherwise make it difficult to assess the effects of the antipsychotic alone; (note&#xD;
+             that exposure to many psychotropic agents including stimulants, SSRI's and SNRI's are&#xD;
+             permitted in the Antipsychotic-Treated and Non-Antipsychotic Treated Groups in Study 1&#xD;
+             in order to maintain the generalizability of the sample)&#xD;
+&#xD;
+          -  IQ &lt; 70 (based on school records and/or evaluation by clinician and at the discretion&#xD;
+             of the PI)&#xD;
+&#xD;
+          -  Current DSM IV diagnosed substance abuse or dependence&#xD;
+&#xD;
+          -  Past history of, or current dyskinesia&#xD;
+&#xD;
+          -  Stimulant dosage significantly higher (per PI judgment) than the equivalent of&#xD;
+             approximately 2 mg/kg/day methylphenidate equivalent dose (EXCEPT in the Obese or&#xD;
+             Overweight Control Group, none of whom can be taking stimulant medications)&#xD;
+&#xD;
+          -  Unable to provide assent or informed consent&#xD;
+&#xD;
+          -  Active suicidality or a primary diagnosis of depression&#xD;
+&#xD;
+          -  Unwilling to allow study staff to contact subject's primary care physician to alert to&#xD;
+             any significant, abnormal clinical findings or test results obtained as part of study&#xD;
+             participation&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>6 Years</minimum_age>
+    <maximum_age>18 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ginger E Nicol, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Washington University School of Medicine</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2018</verification_date>
+  <study_first_submitted>October 5, 2010</study_first_submitted>
+  <study_first_submitted_qc>October 15, 2010</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 18, 2010</study_first_posted>
+  <results_first_submitted>July 25, 2018</results_first_submitted>
+  <results_first_submitted_qc>October 11, 2018</results_first_submitted_qc>
+  <results_first_posted type="Actual">October 15, 2018</results_first_posted>
+  <last_update_submitted>October 11, 2018</last_update_submitted>
+  <last_update_submitted_qc>October 11, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 15, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Child Psychiatry</keyword>
+  <keyword>Obesity</keyword>
+  <keyword>Antipsychotic</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Metabolic Syndrome</mesh_term>
+    <mesh_term>Mental Disorders</mesh_term>
+    <mesh_term>Neurodevelopmental Disorders</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>May 4, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/94/NCT01222494/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Antipsychotic Treated Educational Control</title>
+          <description>Antipsychotic treated participants randomized to this arm will receive diet and exercise education at monthly intervals with a study clinician or coordinator.&#xD;
+Diet and Exercise Education: Participants assigned to this arm will receive monthly medically validated, individualized diet and exercise education by a trained research professional.</description>
+        </group>
+        <group group_id="P2">
+          <title>Antipsychotic Treated Weekly Behavioral Weight Loss</title>
+          <description>Antipsychotic treated participants randomized to this arm will engage in an evidence-based, 16 week manualized behavioral weight loss intervention that includes weekly meetings and phone check-ins with a trained study therapist.&#xD;
+Behavioral Weight Loss: This intervention is a family-based, behavioral weight loss program that has been employed in studies with overweight and obese children, as well as with children who have diabetes. For the proposed study, the program has been modified to fit the needs of disruptive and behaviorally disturbed youth and their families. The modified program includes 16 weeks of weekly visits with a study interventionist, and supplemental phone contacts as needed. Phone contacts will only replace in-person visits if absolutely necessary to achieve the visit.</description>
+        </group>
+        <group group_id="P3">
+          <title>Non-antipsychotic Treated Weekly Behavioral Weight Loss</title>
+          <description>Participants assigned to this arm will engage in an evidence-based, 16 week manualized behavioral weight loss intervention that includes weekly meetings and phone check-ins with a trained study therapist.&#xD;
+Behavioral Weight Loss: This intervention is a family-based, behavioral weight loss program that has been employed in studies with overweight and obese children, as well as with children who have diabetes. For the proposed study, the program has been modified to fit the needs of disruptive and behaviorally disturbed youth and their families. The modified program includes 16 weeks of weekly visits with a study interventionist, and supplemental phone contacts as needed. Phone contacts will only replace in-person visits if absolutely necessary to achieve the visit.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="7"/>
+                <participants group_id="P2" count="19"/>
+                <participants group_id="P3" count="21"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="6"/>
+                <participants group_id="P2" count="15"/>
+                <participants group_id="P3" count="17"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="4"/>
+                <participants group_id="P3" count="4"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Antipsychotic Treated Educational Control</title>
+          <description>Antipsychotic treated participants randomized to this arm will receive diet and exercise education at monthly intervals with a study clinician or coordinator.&#xD;
+Diet and Exercise Education: Participants assigned to this arm will receive monthly medically validated, individualized diet and exercise education by a trained research professional.</description>
+        </group>
+        <group group_id="B2">
+          <title>Antipsychotic Treated Weekly Behavioral Weight Loss</title>
+          <description>Antipsychotic treated participants randomized to this arm will engage in an evidence-based, 16 week manualized behavioral weight loss intervention that includes weekly meetings and phone check-ins with a trained study therapist.&#xD;
+Behavioral Weight Loss: This intervention is a family-based, behavioral weight loss program that has been employed in studies with overweight and obese children, as well as with children who have diabetes. For the proposed study, the program has been modified to fit the needs of disruptive and behaviorally disturbed youth and their families. The modified program includes 16 weeks of weekly visits with a study interventionist, and supplemental phone contacts as needed. Phone contacts will only replace in-person visits if absolutely necessary to achieve the visit.</description>
+        </group>
+        <group group_id="B3">
+          <title>Non-antipsychotic Treated Weekly Behavioral Weight Loss</title>
+          <description>Participants assigned to this arm will engage in an evidence-based, 16 week manualized behavioral weight loss intervention that includes weekly meetings and phone check-ins with a trained study therapist.&#xD;
+Behavioral Weight Loss: This intervention is a family-based, behavioral weight loss program that has been employed in studies with overweight and obese children, as well as with children who have diabetes. For the proposed study, the program has been modified to fit the needs of disruptive and behaviorally disturbed youth and their families. The modified program includes 16 weeks of weekly visits with a study interventionist, and supplemental phone contacts as needed. Phone contacts will only replace in-person visits if absolutely necessary to achieve the visit.</description>
+        </group>
+        <group group_id="B4">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="7"/>
+            <count group_id="B2" value="19"/>
+            <count group_id="B3" value="21"/>
+            <count group_id="B4" value="47"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12.80" spread="2.21"/>
+                    <measurement group_id="B2" value="13.35" spread="2.57"/>
+                    <measurement group_id="B3" value="13.42" spread="2.46"/>
+                    <measurement group_id="B4" value="13.30" spread="2.43"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="15"/>
+                    <measurement group_id="B4" value="21"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="14"/>
+                    <measurement group_id="B3" value="6"/>
+                    <measurement group_id="B4" value="26"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="19"/>
+                    <measurement group_id="B3" value="20"/>
+                    <measurement group_id="B4" value="46"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="6"/>
+                    <measurement group_id="B4" value="9"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="15"/>
+                    <measurement group_id="B3" value="13"/>
+                    <measurement group_id="B4" value="35"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="2"/>
+                    <measurement group_id="B4" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Primary Diagnosis</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Autism</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="11"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Pervasive Development Disorder (PDD)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Attention Deficit Hyperactivity Disorder (ADHD)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Mood Disorder</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Anxiety Disorder</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Psychosis</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Height</title>
+          <units>meters</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1.58" spread="0.17"/>
+                    <measurement group_id="B2" value="1.58" spread="0.15"/>
+                    <measurement group_id="B3" value="1.63" spread="0.11"/>
+                    <measurement group_id="B4" value="1.60" spread="0.14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Weight</title>
+          <units>kilograms</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="72.37" spread="16.11"/>
+                    <measurement group_id="B2" value="77.08" spread="32.60"/>
+                    <measurement group_id="B3" value="85.76" spread="23.07"/>
+                    <measurement group_id="B4" value="80.26" spread="26.62"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>DEXA-Measured Body Composition</title>
+          <units>percentage of body composition</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <title>DEXA Total Percent Fat</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="45.40" spread="6.76"/>
+                    <measurement group_id="B2" value="41.76" spread="8.53"/>
+                    <measurement group_id="B3" value="42.24" spread="5.38"/>
+                    <measurement group_id="B4" value="42.51" spread="6.97"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>DEXA Total Percent Lean</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="52.12" spread="6.81"/>
+                    <measurement group_id="B2" value="55.48" spread="8.23"/>
+                    <measurement group_id="B3" value="55.01" spread="5.15"/>
+                    <measurement group_id="B4" value="54.77" spread="6.73"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Proton Density Fat Fraction (PDFF)</title>
+          <units>percentile</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12.01" spread="7.82"/>
+                    <measurement group_id="B2" value="6.52" spread="8.21"/>
+                    <measurement group_id="B3" value="4.72" spread="8.61"/>
+                    <measurement group_id="B4" value="6.58" spread="8.54"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Carotid Intima Media Thickness</title>
+          <units>centimeters</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0.0494" spread="0.0058"/>
+                    <measurement group_id="B2" value="0.0451" spread="0.0074"/>
+                    <measurement group_id="B3" value="0.0504" spread="0.0065"/>
+                    <measurement group_id="B4" value="0.0484" spread="0.0070"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Body Mass Index (BMI)</title>
+          <units>kilograms per meter-squared</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="28.72" spread="2.09"/>
+                    <measurement group_id="B2" value="29.70" spread="6.83"/>
+                    <measurement group_id="B3" value="31.86" spread="5.25"/>
+                    <measurement group_id="B4" value="30.52" spread="5.69"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Body Mass Index (BMI) Percentile</title>
+          <units>percentile</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="97.77" spread="1.03"/>
+                    <measurement group_id="B2" value="96.55" spread="3.30"/>
+                    <measurement group_id="B3" value="97.69" spread="2.16"/>
+                    <measurement group_id="B4" value="97.24" spread="2.60"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Body Mass Index (BMI) Z-Score</title>
+          <description>The BMI Z-score indicates the number of standard deviations away from the mean. A Z-score of 0 is equal to the mean of a reference population (i.e., healthy, age and sex-matched children). Negative numbers indicate values lower than the reference population and positive numbers indicate values higher than the reference population.</description>
+          <units>z-score</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2.05" spread="0.23"/>
+                    <measurement group_id="B2" value="1.99" spread="0.47"/>
+                    <measurement group_id="B3" value="2.13" spread="0.38"/>
+                    <measurement group_id="B4" value="2.06" spread="0.40"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Waist Circumference</title>
+          <units>centimeters</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="99.86" spread="10.35"/>
+                    <measurement group_id="B2" value="99.45" spread="19.35"/>
+                    <measurement group_id="B3" value="102.40" spread="16.07"/>
+                    <measurement group_id="B4" value="100.83" spread="16.58"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Baseline Fasting Laboratory Values</title>
+          <units>mg/dl</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <title>Glucose</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="93.71" spread="10.01"/>
+                    <measurement group_id="B2" value="91.32" spread="7.42"/>
+                    <measurement group_id="B3" value="87.62" spread="4.99"/>
+                    <measurement group_id="B4" value="90.02" spread="7.13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Total Cholesterol</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="170.14" spread="9.67"/>
+                    <measurement group_id="B2" value="169.47" spread="37.55"/>
+                    <measurement group_id="B3" value="157.81" spread="29.09"/>
+                    <measurement group_id="B4" value="164.36" spread="31.10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Triglycerides</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="114.43" spread="44.49"/>
+                    <measurement group_id="B2" value="106.26" spread="59.11"/>
+                    <measurement group_id="B3" value="99.14" spread="61.30"/>
+                    <measurement group_id="B4" value="104.30" spread="57.35"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>HDL Cholesterol</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="45.00" spread="6.16"/>
+                    <measurement group_id="B2" value="46.95" spread="10.20"/>
+                    <measurement group_id="B3" value="50.71" spread="10.74"/>
+                    <measurement group_id="B4" value="48.34" spread="10.04"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>LDL Cholesterol</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="102.29" spread="10.95"/>
+                    <measurement group_id="B2" value="101.68" spread="27.32"/>
+                    <measurement group_id="B3" value="87.24" spread="23.40"/>
+                    <measurement group_id="B4" value="95.32" spread="24.49"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Aberrant Behavior Checklist (ABC)</title>
+          <description>This instrument is a five-factor scale comprising 58 items under the categories of (I) Irritability, Agitation, Crying; (II) Lethargy, Social Withdrawal; (III) Stereotypic Behavior; (IV) Hyperactivity, Noncompliance; and (V) Inappropriate Speech. The 15-item Irritability subscale score ranges from 0 to 45. The cut-off of ≥ 18 on this subscale will identify individuals that are 1.3 to 1.5 SD above the mean. A lower score is better.The total score can range from a minimum of 0 (no problem behaviors) to a maximum of 174, with higher scores indicating a worse outcome/more symptoms.</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <title>Total Score</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="53.43" spread="20.14"/>
+                    <measurement group_id="B2" value="35.61" spread="24.29"/>
+                    <measurement group_id="B3" value="6.81" spread="13.39"/>
+                    <measurement group_id="B4" value="25.17" spread="26.11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Irritability</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="18.57" spread="8.75"/>
+                    <measurement group_id="B2" value="11.06" spread="8.30"/>
+                    <measurement group_id="B3" value="2.19" spread="4.81"/>
+                    <measurement group_id="B4" value="8.15" spread="9.13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Child Behavior Checklist (CBCL)</title>
+          <description>The CBCL/ABCL is a 113 item scale that serves as a general screening measure of behavior problems, competencies, and school functioning. Each item is scored a 0, 1, or 2. A lower score is better. The eight empirically-based syndrome scales are: Aggressive Behavior, Anxious/Depressed, Attention Problems, Rule-Breaking Behavior, Somatic Complaints, Social Problems, Thought Problems and Withdrawn/Depressed.</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="70.14" spread="26.34"/>
+                    <measurement group_id="B2" value="57.06" spread="28.39"/>
+                    <measurement group_id="B3" value="16.67" spread="15.20"/>
+                    <measurement group_id="B4" value="40.61" spread="31.80"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>DEXA-measured Adiposity</title>
+        <description>Dual-Energy X-Ray Absorptiometry (DEXA) will be used to assess body fat at baseline and following 16 weeks of participation in a behavioral weight loss intervention.</description>
+        <time_frame>Baseline and 16 weeks</time_frame>
+        <population>Modified Intent to Treat (ITT) sample with week 0 and week 16 data.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Antipsychotic Treated Educational Control</title>
+            <description>Antipsychotic treated participants randomized to this arm will receive diet and exercise education at monthly intervals with a study clinician or coordinator.&#xD;
+Diet and Exercise Education: Participants assigned to this arm will receive monthly medically validated, individualized diet and exercise education by a trained research professional.</description>
+          </group>
+          <group group_id="O2">
+            <title>Antipsychotic Treated Weekly Behavioral Weight Loss</title>
+            <description>Antipsychotic treated participants randomized to this arm will engage in an evidence-based, 16 week manualized behavioral weight loss intervention that includes weekly meetings and phone check-ins with a trained study therapist.&#xD;
+Behavioral Weight Loss: This intervention is a family-based, behavioral weight loss program that has been employed in studies with overweight and obese children, as well as with children who have diabetes. For the proposed study, the program has been modified to fit the needs of disruptive and behaviorally disturbed youth and their families. The modified program includes 16 weeks of weekly visits with a study interventionist, and supplemental phone contacts as needed. Phone contacts will only replace in-person visits if absolutely necessary to achieve the visit.</description>
+          </group>
+          <group group_id="O3">
+            <title>Non-antipsychotic Treated Weekly Behavioral Weight Loss</title>
+            <description>Participants assigned to this arm will engage in an evidence-based, 16 week manualized behavioral weight loss intervention that includes weekly meetings and phone check-ins with a trained study therapist.&#xD;
+Behavioral Weight Loss: This intervention is a family-based, behavioral weight loss program that has been employed in studies with overweight and obese children, as well as with children who have diabetes. For the proposed study, the program has been modified to fit the needs of disruptive and behaviorally disturbed youth and their families. The modified program includes 16 weeks of weekly visits with a study interventionist, and supplemental phone contacts as needed. Phone contacts will only replace in-person visits if absolutely necessary to achieve the visit.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>DEXA-measured Adiposity</title>
+          <description>Dual-Energy X-Ray Absorptiometry (DEXA) will be used to assess body fat at baseline and following 16 weeks of participation in a behavioral weight loss intervention.</description>
+          <population>Modified Intent to Treat (ITT) sample with week 0 and week 16 data.</population>
+          <units>kilograms</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="6"/>
+                <count group_id="O2" value="15"/>
+                <count group_id="O3" value="17"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.76" spread="2.05"/>
+                    <measurement group_id="O2" value="-0.43" spread="3.13"/>
+                    <measurement group_id="O3" value="-2.79" spread="3.35"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+              <group_id>O3</group_id>
+            </group_id_list>
+            <groups_desc>An ANCOVA was used to test for differences between groups at endpoint, controlling for baseline values.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.01</p_value>
+            <p_value_desc>The p-value refers to the treatment group term in the model. The a priori threshold for statistical significance in this planned primary test was p &lt; 0.05.</p_value_desc>
+            <method>ANCOVA</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Proton Density Fat Fraction (PDFF)</title>
+        <description>1H Magnetic Resonance Spectroscopy (MRS) of liver will be used to assess intracellular triglyceride content at baseline and following 16 weeks of participation in a behavioral weight loss intervention.</description>
+        <time_frame>Baseline and 16 weeks</time_frame>
+        <population>Modified Intent to Treat (ITT) sample with week 0 and week 16 data.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Antipsychotic Treated Educational Control</title>
+            <description>Antipsychotic treated participants randomized to this arm will receive diet and exercise education at monthly intervals with a study clinician or coordinator.&#xD;
+Diet and Exercise Education: Participants assigned to this arm will receive monthly medically validated, individualized diet and exercise education by a trained research professional.</description>
+          </group>
+          <group group_id="O2">
+            <title>Antipsychotic Treated Weekly Behavioral Weight Loss</title>
+            <description>Antipsychotic treated participants randomized to this arm will engage in an evidence-based, 16 week manualized behavioral weight loss intervention that includes weekly meetings and phone check-ins with a trained study therapist.&#xD;
+Behavioral Weight Loss: This intervention is a family-based, behavioral weight loss program that has been employed in studies with overweight and obese children, as well as with children who have diabetes. For the proposed study, the program has been modified to fit the needs of disruptive and behaviorally disturbed youth and their families. The modified program includes 16 weeks of weekly visits with a study interventionist, and supplemental phone contacts as needed. Phone contacts will only replace in-person visits if absolutely necessary to achieve the visit.</description>
+          </group>
+          <group group_id="O3">
+            <title>Non-antipsychotic Treated Weekly Behavioral Weight Loss</title>
+            <description>Participants assigned to this arm will engage in an evidence-based, 16 week manualized behavioral weight loss intervention that includes weekly meetings and phone check-ins with a trained study therapist.&#xD;
+Behavioral Weight Loss: This intervention is a family-based, behavioral weight loss program that has been employed in studies with overweight and obese children, as well as with children who have diabetes. For the proposed study, the program has been modified to fit the needs of disruptive and behaviorally disturbed youth and their families. The modified program includes 16 weeks of weekly visits with a study interventionist, and supplemental phone contacts as needed. Phone contacts will only replace in-person visits if absolutely necessary to achieve the visit.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Proton Density Fat Fraction (PDFF)</title>
+          <description>1H Magnetic Resonance Spectroscopy (MRS) of liver will be used to assess intracellular triglyceride content at baseline and following 16 weeks of participation in a behavioral weight loss intervention.</description>
+          <population>Modified Intent to Treat (ITT) sample with week 0 and week 16 data.</population>
+          <units>percent</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="6"/>
+                <count group_id="O2" value="12"/>
+                <count group_id="O3" value="16"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.62" spread="1.57"/>
+                    <measurement group_id="O2" value="-0.41" spread="4.95"/>
+                    <measurement group_id="O3" value="-1.75" spread="4.93"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+              <group_id>O3</group_id>
+            </group_id_list>
+            <groups_desc>An ANCOVA was used to test for differences between groups at endpoint, controlling for baseline values.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.04</p_value>
+            <p_value_desc>The p-value refers to the treatment group term in the model. The a priori threshold for statistical significance in this planned primary test was p &lt; 0.05.</p_value_desc>
+            <method>ANCOVA</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Carotid Artery Intima Media Thickness (CIMT)</title>
+        <description>9-13-MHZ B-mode Carotid Ultrasound will be used to assess intima media thickness at baseline and following 16 weeks of participation in a behavioral weight loss intervention.</description>
+        <time_frame>Baseline and 16 weeks</time_frame>
+        <population>Modified Intent to Treat (ITT) sample with week 0 and week 16 data.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Antipsychotic Treated Educational Control</title>
+            <description>Antipsychotic treated participants randomized to this arm will receive diet and exercise education at monthly intervals with a study clinician or coordinator.&#xD;
+Diet and Exercise Education: Participants assigned to this arm will receive monthly medically validated, individualized diet and exercise education by a trained research professional.</description>
+          </group>
+          <group group_id="O2">
+            <title>Antipsychotic Treated Weekly Behavioral Weight Loss</title>
+            <description>Antipsychotic treated participants randomized to this arm will engage in an evidence-based, 16 week manualized behavioral weight loss intervention that includes weekly meetings and phone check-ins with a trained study therapist.&#xD;
+Behavioral Weight Loss: This intervention is a family-based, behavioral weight loss program that has been employed in studies with overweight and obese children, as well as with children who have diabetes. For the proposed study, the program has been modified to fit the needs of disruptive and behaviorally disturbed youth and their families. The modified program includes 16 weeks of weekly visits with a study interventionist, and supplemental phone contacts as needed. Phone contacts will only replace in-person visits if absolutely necessary to achieve the visit.</description>
+          </group>
+          <group group_id="O3">
+            <title>Non-antipsychotic Treated Weekly Behavioral Weight Loss</title>
+            <description>Participants assigned to this arm will engage in an evidence-based, 16 week manualized behavioral weight loss intervention that includes weekly meetings and phone check-ins with a trained study therapist.&#xD;
+Behavioral Weight Loss: This intervention is a family-based, behavioral weight loss program that has been employed in studies with overweight and obese children, as well as with children who have diabetes. For the proposed study, the program has been modified to fit the needs of disruptive and behaviorally disturbed youth and their families. The modified program includes 16 weeks of weekly visits with a study interventionist, and supplemental phone contacts as needed. Phone contacts will only replace in-person visits if absolutely necessary to achieve the visit.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Carotid Artery Intima Media Thickness (CIMT)</title>
+          <description>9-13-MHZ B-mode Carotid Ultrasound will be used to assess intima media thickness at baseline and following 16 weeks of participation in a behavioral weight loss intervention.</description>
+          <population>Modified Intent to Treat (ITT) sample with week 0 and week 16 data.</population>
+          <units>millimeters</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="6"/>
+                <count group_id="O2" value="10"/>
+                <count group_id="O3" value="17"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.0014" spread="0.0045"/>
+                    <measurement group_id="O2" value="0.0032" spread="0.0098"/>
+                    <measurement group_id="O3" value="0.0004" spread="0.0064"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+              <group_id>O3</group_id>
+            </group_id_list>
+            <groups_desc>An ANCOVA was used to test for differences between groups at endpoint, controlling for baseline values.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.70</p_value>
+            <p_value_desc>The p-value refers to the treatment group term in the model. The a priori threshold for statistical significance in this planned primary test was p &lt; 0.05.</p_value_desc>
+            <method>ANCOVA</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Aberrant Behavior Checklist (ABC)</title>
+        <description>Change From Baseline in Aberrant Behavior Checklist - Irritability Subscale at 16 Weeks</description>
+        <time_frame>Baseline and 16 weeks</time_frame>
+        <population>Modified Intent to Treat (ITT) sample with week 0 and week 16 data.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Antipsychotic Treated Educational Control</title>
+            <description>Antipsychotic treated participants randomized to this arm will receive diet and exercise education at monthly intervals with a study clinician or coordinator.&#xD;
+Diet and Exercise Education: Participants assigned to this arm will receive monthly medically validated, individualized diet and exercise education by a trained research professional.</description>
+          </group>
+          <group group_id="O2">
+            <title>Antipsychotic Treated Weekly Behavioral Weight Loss</title>
+            <description>Antipsychotic treated participants randomized to this arm will engage in an evidence-based, 16 week manualized behavioral weight loss intervention that includes weekly meetings and phone check-ins with a trained study therapist.&#xD;
+Behavioral Weight Loss: This intervention is a family-based, behavioral weight loss program that has been employed in studies with overweight and obese children, as well as with children who have diabetes. For the proposed study, the program has been modified to fit the needs of disruptive and behaviorally disturbed youth and their families. The modified program includes 16 weeks of weekly visits with a study interventionist, and supplemental phone contacts as needed. Phone contacts will only replace in-person visits if absolutely necessary to achieve the visit.</description>
+          </group>
+          <group group_id="O3">
+            <title>Non-antipsychotic Treated Weekly Behavioral Weight Loss</title>
+            <description>Participants assigned to this arm will engage in an evidence-based, 16 week manualized behavioral weight loss intervention that includes weekly meetings and phone check-ins with a trained study therapist.&#xD;
+Behavioral Weight Loss: This intervention is a family-based, behavioral weight loss program that has been employed in studies with overweight and obese children, as well as with children who have diabetes. For the proposed study, the program has been modified to fit the needs of disruptive and behaviorally disturbed youth and their families. The modified program includes 16 weeks of weekly visits with a study interventionist, and supplemental phone contacts as needed. Phone contacts will only replace in-person visits if absolutely necessary to achieve the visit.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Aberrant Behavior Checklist (ABC)</title>
+          <description>Change From Baseline in Aberrant Behavior Checklist - Irritability Subscale at 16 Weeks</description>
+          <population>Modified Intent to Treat (ITT) sample with week 0 and week 16 data.</population>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="6"/>
+                <count group_id="O2" value="15"/>
+                <count group_id="O3" value="16"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.00" spread="4.65"/>
+                    <measurement group_id="O2" value="-1.27" spread="5.82"/>
+                    <measurement group_id="O3" value="-1.38" spread="4.32"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+              <group_id>O3</group_id>
+            </group_id_list>
+            <groups_desc>An ANCOVA was used to test for differences between groups at endpoint, controlling for baseline values.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.003</p_value>
+            <p_value_desc>The p-value refers to the treatment group term in the model. The a priori threshold for statistical significance in this planned primary test was p &lt; 0.05.</p_value_desc>
+            <method>ANCOVA</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Adverse event data was collected over a period of 16 weeks.</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Antipsychotic Treated Educational Control</title>
+          <description>Antipsychotic treated participants randomized to this arm will receive diet and exercise education at monthly intervals with a study clinician or coordinator.&#xD;
+Diet and Exercise Education: Participants assigned to this arm will receive monthly medically validated, individualized diet and exercise education by a trained research professional.</description>
+        </group>
+        <group group_id="E2">
+          <title>Antipsychotic Treated Weekly Behavioral Weight Loss</title>
+          <description>Antipsychotic treated participants randomized to this arm will engage in an evidence-based, 16 week manualized behavioral weight loss intervention that includes weekly meetings and phone check-ins with a trained study therapist.&#xD;
+Behavioral Weight Loss: This intervention is a family-based, behavioral weight loss program that has been employed in studies with overweight and obese children, as well as with children who have diabetes. For the proposed study, the program has been modified to fit the needs of disruptive and behaviorally disturbed youth and their families. The modified program includes 16 weeks of weekly visits with a study interventionist, and supplemental phone contacts as needed. Phone contacts will only replace in-person visits if absolutely necessary to achieve the visit.</description>
+        </group>
+        <group group_id="E3">
+          <title>Non-antipsychotic Treated Weekly Behavioral Weight Loss</title>
+          <description>Participants assigned to this arm will engage in an evidence-based, 16 week manualized behavioral weight loss intervention that includes weekly meetings and phone check-ins with a trained study therapist.&#xD;
+Behavioral Weight Loss: This intervention is a family-based, behavioral weight loss program that has been employed in studies with overweight and obese children, as well as with children who have diabetes. For the proposed study, the program has been modified to fit the needs of disruptive and behaviorally disturbed youth and their families. The modified program includes 16 weeks of weekly visits with a study interventionist, and supplemental phone contacts as needed. Phone contacts will only replace in-person visits if absolutely necessary to achieve the visit.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="19"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="19"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="21"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="19"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="21"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Ginger Nicol</name_or_title>
+      <organization>Washington University</organization>
+      <phone>314-362-2461</phone>
+      <email>nicolg@wustl.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

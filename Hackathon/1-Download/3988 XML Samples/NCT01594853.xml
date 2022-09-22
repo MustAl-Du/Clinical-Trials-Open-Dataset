@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2196">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01594853</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NA_00045673</org_study_id>
+    <nct_id>NCT01594853</nct_id>
+  </id_info>
+  <brief_title>Exercise Study of Function and Pathology for Women With X-linked Adrenoleukodystrophy</brief_title>
+  <official_title>Exercise Study of Function and Pathology for Women With X-ALD</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hugo W. Moser Research Institute at Kennedy Krieger, Inc.</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>European Leukodystrophy Association</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Hugo W. Moser Research Institute at Kennedy Krieger, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose is to see how X-linked adrenoleukodystrophy (X-ALD) is associated with strength&#xD;
+      and sensation using MRI, in women with X-ALD. The investigators will also see whether&#xD;
+      exercise can improve these symptoms for women with X-ALD.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      X-linked adrenoleukodystrophy (X-ALD), a [sex-linked] progressive neurodegenerative disease,&#xD;
+      is caused by a defect in the ABCD1 gene. The disease is expressed in multiple ways, but the&#xD;
+      most common adult form is adrenomyeloneuropathy (AMN), which results in slowly progressive&#xD;
+      changes in muscle tone and weakness, sensory loss, and dysfunction of the autonomic nervous&#xD;
+      system. In a previous study the investigators linked abnormalities in the [brain/spinal cord]&#xD;
+      to lower extremity weakness in men with AMN; however, there have been no studies evaluating&#xD;
+      these relationships in women carriers (i.e., women with AMN). It is unknown, in women with&#xD;
+      AMN, how the pattern of damage in the brain and spinal cord relates to disability and if&#xD;
+      these patterns predict responsiveness to treatment. The investigators hypothesize that by&#xD;
+      using magnetization transfer (MT) and diffusion tensor imaging (DTI), two magnetic resonance&#xD;
+      imaging (MRI) modalities, to track particular changes in the brain and spinal cord will&#xD;
+      predict disability and additionally, who is likely to respond best to a training regimen. The&#xD;
+      investigators expect that these more advanced imaging techniques will be more sensitive and&#xD;
+      accurate quantitative measures of clinical motor function and women with greater loss in the&#xD;
+      spinal cord compared to the brain will benefit most from training to improve disability. To&#xD;
+      test this hypothesis, women with AMN will receive MRI scans at baseline and complete measures&#xD;
+      of global walking and lower extremity impairments of vibration sensation, spasticity, and&#xD;
+      strength at three time-points: baseline, 12 weeks, and 18 weeks after baseline. The group&#xD;
+      will participate in a resistive training program for 12 weeks. MRI data will be correlated to&#xD;
+      changes over time in measures of impairment to determine their relationships. The linking of&#xD;
+      this information will not only be important for better defining disability in women with AMN&#xD;
+      but it will also help to guide physicians and rehabilitation therapists in predicting who is&#xD;
+      likely to respond to rehabilitative interventions, as well as for optimizing the effects of&#xD;
+      future pharmacological interventions.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>May 2012</start_date>
+  <completion_date type="Actual">October 2014</completion_date>
+  <primary_completion_date type="Actual">October 2014</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Maximal Voluntary Contraction of the Hip Flexors From Baseline to End of Training and to Post-training</measure>
+    <time_frame>Participants are assessed at baseline (visit 1, enrollment), end of training (visit 2, week 12) and post-training (visit 3, week 18).</time_frame>
+    <description>Here, we will assess whether the degree of a person's white matter integrity (i.e. for tracts of interest as measured from MRI) predicts their ability to benefit from exercise. Our prediction is that those individuals with preserved white matter integrity will show the greatest improvement in hip flexor strength.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">31</enrollment>
+  <condition>X-linked Adrenoleukodystrophy</condition>
+  <arm_group>
+    <arm_group_label>exercise</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Female carriers as well as healthy age and gender matched individuals will participate in an exercise paradigm.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>exercise training</intervention_name>
+    <description>The exercise program uses a local Curves® gym to provide an individualized program of strength and cardiovascular training. The program is expected to be performed for 45 minutes 4-6 days per week.</description>
+    <arm_group_label>exercise</arm_group_label>
+    <other_name>strengthening</other_name>
+    <other_name>Curves</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  confirmed diagnosis, X-ALD heterozygote carrier&#xD;
+&#xD;
+          -  no medical contraindication to participating in a strength training program&#xD;
+&#xD;
+          -  able to follow complex directions as determined by a score of ≤1 on a subset of&#xD;
+             questions taken from the NIH Stroke scale (Brott et al. 1989)&#xD;
+&#xD;
+          -  hip flexion strength: 6.6-15.8kg&#xD;
+&#xD;
+          -  hip extension strength: up to 18.3 kg&#xD;
+&#xD;
+          -  normal passive range of motion at hips/knees/ankles&#xD;
+&#xD;
+          -  able to walk ≥50m&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Evidence of other neurological deficit that could interfere, such as previous stroke&#xD;
+             or muscle disease&#xD;
+&#xD;
+          -  congestive heart failure&#xD;
+&#xD;
+          -  cancer&#xD;
+&#xD;
+          -  orthopedic conditions&#xD;
+&#xD;
+          -  severe pain that precludes study participation&#xD;
+&#xD;
+          -  seizures&#xD;
+&#xD;
+          -  pregnancy&#xD;
+&#xD;
+          -  other medical condition that precludes participation in an exercise program, e.g.,&#xD;
+             unstable angina, uncontrolled diabetes, uncontrolled hypertension&#xD;
+&#xD;
+        Healthy controls have the same age and exclusion criteria as women with AMN except that&#xD;
+        they will not be carriers for X-ALD. They must have normal neurological function.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kathleen M Zackowski, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hugo W. Moser Research Institute at Kennedy Krieger, Inc.</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Motion Analysis Lab</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.kennedykrieger.org/research-training</url>
+    <description>See Clinical Research Projects listing.</description>
+  </link>
+  <verification_date>December 2017</verification_date>
+  <study_first_submitted>May 7, 2012</study_first_submitted>
+  <study_first_submitted_qc>May 8, 2012</study_first_submitted_qc>
+  <study_first_posted type="Estimate">May 9, 2012</study_first_posted>
+  <results_first_submitted>December 14, 2017</results_first_submitted>
+  <results_first_submitted_qc>December 14, 2017</results_first_submitted_qc>
+  <results_first_posted type="Actual">August 29, 2018</results_first_posted>
+  <last_update_submitted>December 14, 2017</last_update_submitted>
+  <last_update_submitted_qc>December 14, 2017</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 29, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Hugo W. Moser Research Institute at Kennedy Krieger, Inc.</investigator_affiliation>
+    <investigator_full_name>Kathleen Zackowski</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>exercise</keyword>
+  <keyword>women</keyword>
+  <keyword>training</keyword>
+  <keyword>rehabilitation</keyword>
+  <keyword>leukodystrophy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Adrenoleukodystrophy</mesh_term>
+  </condition_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>July 1, 2013</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/53/NCT01594853/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Female Carriers</title>
+          <description>Female carriers will participate in an exercise paradigm.&#xD;
+exercise training: The exercise program uses a local Curves® gym to provide an individualized program of strength and cardiovascular training. The program is expected to be performed for 45 minutes 4-6 days per week.</description>
+        </group>
+        <group group_id="P2">
+          <title>Healthy Controls</title>
+          <description>Healthy age and gender matched individuals will participate in an exercise paradigm.&#xD;
+exercise training: The exercise program uses a local Curves® gym to provide an individualized program of strength and cardiovascular training. The program is expected to be performed for 45 minutes 4-6 days per week.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="16"/>
+                <participants group_id="P2" count="15"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="14"/>
+                <participants group_id="P2" count="12"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="3"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>noncompliance with exercise</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Female Carriers</title>
+          <description>Female carriers will participate in an exercise paradigm.&#xD;
+exercise training: The exercise program uses a local Curves® gym to provide an individualized program of strength and cardiovascular training. The program is expected to be performed for 45 minutes 4-6 days per week.</description>
+        </group>
+        <group group_id="B2">
+          <title>Healthy Controls</title>
+          <description>Healthy age and gender matched individuals will participate in an exercise paradigm.&#xD;
+exercise training: The exercise program uses a local Curves® gym to provide an individualized program of strength and cardiovascular training. The program is expected to be performed for 45 minutes 4-6 days per week.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="14"/>
+            <count group_id="B2" value="12"/>
+            <count group_id="B3" value="26"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="52.1" spread="8.4"/>
+                    <measurement group_id="B2" value="51.3" spread="12.5"/>
+                    <measurement group_id="B3" value="51.7" spread="10.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                    <measurement group_id="B2" value="12"/>
+                    <measurement group_id="B3" value="26"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="22"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                    <measurement group_id="B2" value="12"/>
+                    <measurement group_id="B3" value="26"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in Maximal Voluntary Contraction of the Hip Flexors From Baseline to End of Training and to Post-training</title>
+        <description>Here, we will assess whether the degree of a person's white matter integrity (i.e. for tracts of interest as measured from MRI) predicts their ability to benefit from exercise. Our prediction is that those individuals with preserved white matter integrity will show the greatest improvement in hip flexor strength.</description>
+        <time_frame>Participants are assessed at baseline (visit 1, enrollment), end of training (visit 2, week 12) and post-training (visit 3, week 18).</time_frame>
+        <population>For the follow up visit, there are fewer participants in the analysis because 5 female carriers and 1 control were unable to return for the third follow up visit due to burden to travel costs.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Female Carriers</title>
+            <description>Female carriers will participate in an exercise paradigm.&#xD;
+exercise training: The exercise program uses a local Curves® gym to provide an individualized program of strength and cardiovascular training. The program is expected to be performed for 45 minutes 4-6 days per week.</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Controls</title>
+            <description>Healthy age and gender matched individuals will participate in an exercise paradigm.&#xD;
+exercise training: The exercise program uses a local Curves® gym to provide an individualized program of strength and cardiovascular training. The program is expected to be performed for 45 minutes 4-6 days per week.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Maximal Voluntary Contraction of the Hip Flexors From Baseline to End of Training and to Post-training</title>
+          <description>Here, we will assess whether the degree of a person's white matter integrity (i.e. for tracts of interest as measured from MRI) predicts their ability to benefit from exercise. Our prediction is that those individuals with preserved white matter integrity will show the greatest improvement in hip flexor strength.</description>
+          <population>For the follow up visit, there are fewer participants in the analysis because 5 female carriers and 1 control were unable to return for the third follow up visit due to burden to travel costs.</population>
+          <units>kg</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="14"/>
+                <count group_id="O2" value="12"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Change post-training</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="14"/>
+                    <count group_id="O2" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.94" spread="1.14"/>
+                    <measurement group_id="O2" value="0.98" spread="2.01"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Change at follow up</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="11"/>
+                    <count group_id="O2" value="9"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.32" spread="1.28"/>
+                    <measurement group_id="O2" value="1.37" spread="1.68"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <group_list>
+        <group group_id="E1">
+          <title>Female Carriers</title>
+          <description>Female carriers will participate in an exercise paradigm.&#xD;
+exercise training: The exercise program uses a local Curves® gym to provide an individualized program of strength and cardiovascular training. The program is expected to be performed for 45 minutes 4-6 days per week.</description>
+        </group>
+        <group group_id="E2">
+          <title>Healthy Controls</title>
+          <description>Healthy age and gender matched individuals will participate in an exercise paradigm.&#xD;
+exercise training: The exercise program uses a local Curves® gym to provide an individualized program of strength and cardiovascular training. The program is expected to be performed for 45 minutes 4-6 days per week.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Kathleen Zackowski</name_or_title>
+      <organization>Kennedy Krieger Institute</organization>
+      <phone>443-923-2716</phone>
+      <email>zackowski@kennedykrieger.org</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

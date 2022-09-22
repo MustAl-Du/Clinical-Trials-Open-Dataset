@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2175">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01712230</url>
+  </required_header>
+  <id_info>
+    <org_study_id>12-1157</org_study_id>
+    <secondary_id>P50HD073063</secondary_id>
+    <nct_id>NCT01712230</nct_id>
+  </id_info>
+  <brief_title>Females, Aging, Metabolism, and Exercise</brief_title>
+  <acronym>FAME</acronym>
+  <official_title>Bioenergetic and Metabolic Consequences of the Loss of Ovarian Function in Women</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Colorado, Denver</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Colorado, Denver</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is designed to determine whether a reduction in hormones (such as occurs during&#xD;
+      menopause) causes a decrease in calories burned during physical activity. This study will&#xD;
+      also determine whether a reduction in hormones decreases calories burned while sleeping,&#xD;
+      resting, and eating and whether an exercise intervention can prevent this.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Participants will be women who are nearing menopause based on age (42-52 y) but have normal&#xD;
+      menstrual cycles. Participants will be randomized to receive monthly injections of placebo or&#xD;
+      a study drug that reduces sex hormones (GnRH agonist) for 24 weeks. Women who receive GnRH&#xD;
+      agonist will be further randomized to no exercise or a supervised exercise program. Thus, the&#xD;
+      3 treatment groups are: placebo, GnRH agonist, GnRH agonist+exercise. The investigators will&#xD;
+      measure changes in calories burned during physical activity, sleep, rest, and after a meal&#xD;
+      after 3 and 6 months of hormone suppression using doubly-labeled water and room calorimetry.&#xD;
+      Other measures include food intake estimated from food records; body composition measured by&#xD;
+      dual-energy x-ray absorptiometry (DXA); glucose and insulin responses to an oral glucose&#xD;
+      tolerance test; and markers of inflammation in the blood.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>October 2012</start_date>
+  <completion_date type="Actual">October 2017</completion_date>
+  <primary_completion_date type="Actual">October 2017</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Physical Activity Energy Expenditure (PAEE)</measure>
+    <time_frame>Change from baseline to 6 months</time_frame>
+    <description>PAEE will be calculated as: TEE - REE - TEF, where TEE is total energy expenditure (measured by doubly-labeled water), REE is resting energy expenditure (measured by indirect calorimetry), and TEF is the thermic effect of feeding (estimated using a constant).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Total Fat Mass</measure>
+    <time_frame>Change over 6 months</time_frame>
+    <description>Total Fat mass as measured by DXA</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total Fat Free Mass</measure>
+    <time_frame>Change over 6 months</time_frame>
+    <description>Total Fat Free Mass as measured by DXA</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">47</enrollment>
+  <condition>Obesity</condition>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Monthly placebo injections for 6 months</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>GnRH agonist</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Monthly GnRH agonist injections for 6 months</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>GnRH agonist + exercise</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Monthly GnRH agonist injections for 6 months plus supervised cardiovascular exercise intervention</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>GnRH agonist</intervention_name>
+    <description>Drug: leuprolide acetate&#xD;
+Other Names:&#xD;
+Lupron 3.75 mg for depot suspension delivered by monthly intramuscular injection for 6 months</description>
+    <arm_group_label>GnRH agonist</arm_group_label>
+    <arm_group_label>GnRH agonist + exercise</arm_group_label>
+    <other_name>Leuprolide Acetate 3.75mg</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Supervised cardiovascular exercise</intervention_name>
+    <description>Supervised exercise, 4 days per week for 45 to 60 minutes per session for 6 months</description>
+    <arm_group_label>GnRH agonist + exercise</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Healthy women aged 40 to 60 years&#xD;
+&#xD;
+          2. Are still experiencing regular menstrual cycles.&#xD;
+&#xD;
+          3. They must be willing to be randomized to placebo or GnRHAG therapy for 24 weeks&#xD;
+&#xD;
+          4. Be physically able to be randomized to participate in a programmed exercise training&#xD;
+             program.&#xD;
+&#xD;
+        The investigators will consent up to 132 subjects with the aim of enrolling 22 in each of&#xD;
+        the 3 groups (placebo, GnRHAG, or GnRHAG+Exercise).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  irregular menstrual cycles defined as 2 or more missed cycles in the previous year&#xD;
+&#xD;
+          -  serum FSH &gt;25 mIU/mL measured during the first 5 days of the menstrual cycle&#xD;
+&#xD;
+          -  on hormonal contraceptive or menopausal therapy&#xD;
+&#xD;
+          -  positive pregnancy test&#xD;
+&#xD;
+          -  intention to become pregnant or start hormonal contraceptive therapy during the period&#xD;
+             of study&#xD;
+&#xD;
+          -  lactation&#xD;
+&#xD;
+          -  known hypersensitivity to GnRH or leuprolide acetate&#xD;
+&#xD;
+          -  score &gt;16 on the CESD((Center for Epidemiologic Studies Depression Scale )&#xD;
+&#xD;
+          -  severe osteopenia or osteoporosis (i.e., proximal femur or lumbar spine t scores &lt;&#xD;
+             -2.0)&#xD;
+&#xD;
+          -  abnormal vaginal bleeding&#xD;
+&#xD;
+          -  thyroid dysfunction, defined as an ultrasensitive TSH &lt;0.5 or &gt;5.0 mU/L; volunteers&#xD;
+             with abnormal TSH values will be re-considered for participation in the study after&#xD;
+             follow-up evaluation by the PCP with initiation or adjustment of thyroid hormone&#xD;
+             replacement&#xD;
+&#xD;
+          -  uncontrolled hypertension defined as resting systolic BP &gt;150 mmHg or diastolic BP&gt;90&#xD;
+             mmHg; participants who do not meet these criteria at first screening will be&#xD;
+             re-evaluated, including after follow-up evaluation by the PCP with initiation or&#xD;
+             adjustment of anti-hypertensive medications&#xD;
+&#xD;
+          -  cardiovascular disease; subjective or objective indicators of ischemic heart disease&#xD;
+             (e.g., angina, ST segment depression) or serious arrhythmias at rest or during the&#xD;
+             graded exercise test (GXT) without follow-up evaluation; follow-up evaluation must&#xD;
+             include diagnostic testing (e.g., thallium stress test) with interpretation by a&#xD;
+             cardiologist&#xD;
+&#xD;
+          -  orthopedic or other problems that would interfere with participation in the exercise&#xD;
+             program&#xD;
+&#xD;
+          -  exercising at least 30 minutes per day at a moderate to vigorous intensity most days&#xD;
+             of the week (defined as &gt;4 d/wk) over the past 6 months&#xD;
+&#xD;
+          -  BMI &lt;40 kg/m2&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Wendy Kohrt, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Colorado, Denver</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Colorado - Anschutz Medical Campus</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2019</verification_date>
+  <study_first_submitted>October 19, 2012</study_first_submitted>
+  <study_first_submitted_qc>October 22, 2012</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 23, 2012</study_first_posted>
+  <results_first_submitted>October 15, 2019</results_first_submitted>
+  <results_first_submitted_qc>November 20, 2019</results_first_submitted_qc>
+  <results_first_posted type="Actual">November 22, 2019</results_first_posted>
+  <last_update_submitted>November 20, 2019</last_update_submitted>
+  <last_update_submitted_qc>November 20, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 22, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>hormone therapy</keyword>
+  <keyword>obesity</keyword>
+  <keyword>menopause</keyword>
+  <keyword>disease /disorder proneness /risk</keyword>
+  <keyword>insulin sensitivity /resistance</keyword>
+  <keyword>metabolic syndrome</keyword>
+  <keyword>women's health</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Obesity</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Leuprolide</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>October 15, 2019</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/30/NCT01712230/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Placebo</title>
+          <description>Monthly placebo injections for 6 months&#xD;
+Placebo: Placebo</description>
+        </group>
+        <group group_id="P2">
+          <title>GnRH Agonist</title>
+          <description>Monthly GnRH agonist injections for 6 months&#xD;
+GnRH agonist: Drug: leuprolide acetate&#xD;
+Other Names:&#xD;
+Lupron 3.75 mg for depot suspension delivered by monthly intramuscular injection for 6 months</description>
+        </group>
+        <group group_id="P3">
+          <title>GnRH Agonist + Exercise</title>
+          <description>Monthly GnRH agonist injections for 6 months plus supervised cardiovascular exercise intervention&#xD;
+GnRH agonist: Drug: leuprolide acetate&#xD;
+Other Names:&#xD;
+Lupron 3.75 mg for depot suspension delivered by monthly intramuscular injection for 6 months&#xD;
+Supervised cardiovascular exercise: Supervised exercise, 4 days per week for 45 to 60 minutes per session for 6 months</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="11"/>
+                <participants group_id="P2" count="18"/>
+                <participants group_id="P3" count="18"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="9"/>
+                <participants group_id="P2" count="14"/>
+                <participants group_id="P3" count="11"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="4"/>
+                <participants group_id="P3" count="7"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>47 women were enrolled in to the study, but only 42 completed the intervention. Baseline characteristics are reported for these 42 women. Primary and secondary outcome analyses were completed on 34 women who met the definition of compliance to the intervention (defined as completing &gt;70% of prescribed exercise sessions).</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Placebo</title>
+          <description>Monthly placebo injections for 6 months&#xD;
+Placebo: Placebo</description>
+        </group>
+        <group group_id="B2">
+          <title>GnRH Agonist</title>
+          <description>Monthly GnRH agonist injections for 6 months&#xD;
+GnRH agonist: Drug: leuprolide acetate&#xD;
+Other Names:&#xD;
+Lupron 3.75 mg for depot suspension delivered by monthly intramuscular injection for 6 months</description>
+        </group>
+        <group group_id="B3">
+          <title>GnRH Agonist + Exercise</title>
+          <description>Monthly GnRH agonist injections for 6 months plus supervised cardiovascular exercise intervention&#xD;
+GnRH agonist: Drug: leuprolide acetate&#xD;
+Other Names:&#xD;
+Lupron 3.75 mg for depot suspension delivered by monthly intramuscular injection for 6 months&#xD;
+Supervised cardiovascular exercise: Supervised exercise, 4 days per week for 45 to 60 minutes per session for 6 months</description>
+        </group>
+        <group group_id="B4">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="10"/>
+            <count group_id="B2" value="14"/>
+            <count group_id="B3" value="18"/>
+            <count group_id="B4" value="42"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="46.2" spread="1.7"/>
+                    <measurement group_id="B2" value="47.1" spread="3.7"/>
+                    <measurement group_id="B3" value="45.7" spread="3.0"/>
+                    <measurement group_id="B4" value="46.3" spread="3.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="14"/>
+                    <measurement group_id="B3" value="18"/>
+                    <measurement group_id="B4" value="42"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="3"/>
+                    <measurement group_id="B4" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="11"/>
+                    <measurement group_id="B3" value="15"/>
+                    <measurement group_id="B4" value="33"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="11"/>
+                    <measurement group_id="B3" value="16"/>
+                    <measurement group_id="B4" value="32"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Physical Activity Energy Expenditure (PAEE)</title>
+          <description>PAEE is calculated as: TEE - REE - TEF, where TEE is total energy expenditure (measured by doubly-labeled water), REE is resting energy expenditure (measured by indirect calorimetry), and TEF is the thermic effect of feeding (estimated using a constant).</description>
+          <units>kcal/day</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="610" spread="315"/>
+                    <measurement group_id="B2" value="630" spread="217"/>
+                    <measurement group_id="B3" value="737" spread="295"/>
+                    <measurement group_id="B4" value="671" spread="276"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in Physical Activity Energy Expenditure (PAEE)</title>
+        <description>PAEE will be calculated as: TEE - REE - TEF, where TEE is total energy expenditure (measured by doubly-labeled water), REE is resting energy expenditure (measured by indirect calorimetry), and TEF is the thermic effect of feeding (estimated using a constant).</description>
+        <time_frame>Change from baseline to 6 months</time_frame>
+        <population>Placebo: One participant dropped because they got a new job. GnRH agonist+exercise: One participant dropped because of a health problem unrelated to the study. Results from five participants were not included in the analysis because they did not meet the exercise compliance threshold (completed &lt;70% of exercise sessions).</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo</title>
+            <description>Monthly placebo injections for 6 months&#xD;
+Placebo: Placebo</description>
+          </group>
+          <group group_id="O2">
+            <title>GnRH Agonist</title>
+            <description>Monthly GnRH agonist injections for 6 months&#xD;
+GnRH agonist: Drug: leuprolide acetate&#xD;
+Other Names:&#xD;
+Lupron 3.75 mg for depot suspension delivered by monthly intramuscular injection for 6 months</description>
+          </group>
+          <group group_id="O3">
+            <title>GnRH Agonist + Exercise</title>
+            <description>Monthly GnRH agonist injections for 6 months plus supervised cardiovascular exercise intervention&#xD;
+GnRH agonist: Drug: leuprolide acetate&#xD;
+Other Names:&#xD;
+Lupron 3.75 mg for depot suspension delivered by monthly intramuscular injection for 6 months&#xD;
+Supervised cardiovascular exercise: Supervised exercise, 4 days per week for 45 to 60 minutes per session for 6 months</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Physical Activity Energy Expenditure (PAEE)</title>
+          <description>PAEE will be calculated as: TEE - REE - TEF, where TEE is total energy expenditure (measured by doubly-labeled water), REE is resting energy expenditure (measured by indirect calorimetry), and TEF is the thermic effect of feeding (estimated using a constant).</description>
+          <population>Placebo: One participant dropped because they got a new job. GnRH agonist+exercise: One participant dropped because of a health problem unrelated to the study. Results from five participants were not included in the analysis because they did not meet the exercise compliance threshold (completed &lt;70% of exercise sessions).</population>
+          <units>kcal/day</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="9"/>
+                <count group_id="O2" value="14"/>
+                <count group_id="O3" value="11"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="74.5" spread="77.9"/>
+                    <measurement group_id="O2" value="-10.2" spread="63.6"/>
+                    <measurement group_id="O3" value="61.0" spread="66.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Total Fat Mass</title>
+        <description>Total Fat mass as measured by DXA</description>
+        <time_frame>Change over 6 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo</title>
+            <description>Monthly placebo injections for 6 months&#xD;
+Placebo: Placebo</description>
+          </group>
+          <group group_id="O2">
+            <title>GnRH Agonist</title>
+            <description>Monthly GnRH agonist injections for 6 months&#xD;
+GnRH agonist: Drug: leuprolide acetate&#xD;
+Other Names:&#xD;
+Lupron 3.75 mg for depot suspension delivered by monthly intramuscular injection for 6 months</description>
+          </group>
+          <group group_id="O3">
+            <title>GnRH Agonist + Exercise</title>
+            <description>Monthly GnRH agonist injections for 6 months plus supervised cardiovascular exercise intervention&#xD;
+GnRH agonist: Drug: leuprolide acetate&#xD;
+Other Names:&#xD;
+Lupron 3.75 mg for depot suspension delivered by monthly intramuscular injection for 6 months&#xD;
+Supervised cardiovascular exercise: Supervised exercise, 4 days per week for 45 to 60 minutes per session for 6 months</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Total Fat Mass</title>
+          <description>Total Fat mass as measured by DXA</description>
+          <units>kg</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="9"/>
+                <count group_id="O2" value="14"/>
+                <count group_id="O3" value="11"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.73" spread="0.68"/>
+                    <measurement group_id="O2" value="1.66" spread="0.41"/>
+                    <measurement group_id="O3" value="0.89" spread="0.60"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Total Fat Free Mass</title>
+        <description>Total Fat Free Mass as measured by DXA</description>
+        <time_frame>Change over 6 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo</title>
+            <description>Monthly placebo injections for 6 months&#xD;
+Placebo: Placebo</description>
+          </group>
+          <group group_id="O2">
+            <title>GnRH Agonist</title>
+            <description>Monthly GnRH agonist injections for 6 months&#xD;
+GnRH agonist: Drug: leuprolide acetate&#xD;
+Other Names:&#xD;
+Lupron 3.75 mg for depot suspension delivered by monthly intramuscular injection for 6 months</description>
+          </group>
+          <group group_id="O3">
+            <title>GnRH Agonist + Exercise</title>
+            <description>Monthly GnRH agonist injections for 6 months plus supervised cardiovascular exercise intervention&#xD;
+GnRH agonist: Drug: leuprolide acetate&#xD;
+Other Names:&#xD;
+Lupron 3.75 mg for depot suspension delivered by monthly intramuscular injection for 6 months&#xD;
+Supervised cardiovascular exercise: Supervised exercise, 4 days per week for 45 to 60 minutes per session for 6 months</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Total Fat Free Mass</title>
+          <description>Total Fat Free Mass as measured by DXA</description>
+          <units>kg</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="9"/>
+                <count group_id="O2" value="14"/>
+                <count group_id="O3" value="11"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.1" spread="0.34"/>
+                    <measurement group_id="O2" value="-0.69" spread="0.34"/>
+                    <measurement group_id="O3" value="-0.66" spread="0.59"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>6 Months</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Placebo</title>
+          <description>Monthly placebo injections for 6 months&#xD;
+Placebo: Placebo</description>
+        </group>
+        <group group_id="E2">
+          <title>GnRH Agonist</title>
+          <description>Monthly GnRH agonist injections for 6 months&#xD;
+GnRH agonist: Drug: leuprolide acetate&#xD;
+Other Names:&#xD;
+Lupron 3.75 mg for depot suspension delivered by monthly intramuscular injection for 6 months</description>
+        </group>
+        <group group_id="E3">
+          <title>GnRH Agonist + Exercise</title>
+          <description>Monthly GnRH agonist injections for 6 months plus supervised cardiovascular exercise intervention&#xD;
+GnRH agonist: Drug: leuprolide acetate&#xD;
+Other Names:&#xD;
+Lupron 3.75 mg for depot suspension delivered by monthly intramuscular injection for 6 months&#xD;
+Supervised cardiovascular exercise: Supervised exercise, 4 days per week for 45 to 60 minutes per session for 6 months</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="18"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="18"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="10"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="14"/>
+                <counts group_id="E3" subjects_affected="4" subjects_at_risk="18"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Endocrine disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dizziness/Hot Flash</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="10"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="2" subjects_affected="2" subjects_at_risk="18"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Nausea/vomiting</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="18"/>
+              </event>
+              <event>
+                <sub_title>Abdominal Bloating</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="18"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Migraine</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="10"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="14"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="18"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hamstring cramping</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="18"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Mental state change</sub_title>
+                <description>Anxiety and decrease in perceived metal sharpness</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="18"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Reproductive system and breast disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Vaginal bleeding</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="18"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Bruising/tenderness from study procedure</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="18"/>
+              </event>
+              <event>
+                <sub_title>Itching/blistering</sub_title>
+                <description>Itching/blistering of skin after tegaderm use</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="10"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="18"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Wendy Kohrt, PhD</name_or_title>
+      <organization>University of Colorado Anschutz Medical Campus</organization>
+      <phone>303-724-1913</phone>
+      <email>Wendy.Kohrt@CUAnschutz.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

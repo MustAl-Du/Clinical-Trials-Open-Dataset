@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2143">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01862029</url>
+  </required_header>
+  <id_info>
+    <org_study_id>130123</org_study_id>
+    <secondary_id>13-H-0123</secondary_id>
+    <nct_id>NCT01862029</nct_id>
+  </id_info>
+  <brief_title>Effects of Roflumilast on Insulin and Blood Sugar Levels in Prediabetic Overweight and Obese Individuals</brief_title>
+  <official_title>An Exploratory Study to Evaluate the Effects of Roflumilast on Insulin Sensitivity and Metabolic Parameters in Prediabetic Overweight and Obese Individuals</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institutes of Health Clinical Center (CC)</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Background:&#xD;
+&#xD;
+      - Roflumilast is a drug used to treat chronic obstructive pulmonary disease (COPD). It is&#xD;
+      designed to help reduce lung inflammation. However, during testing, roflumilast also appeared&#xD;
+      to reduce high blood sugar levels in people with COPD and type 2 diabetes. Other tests showed&#xD;
+      that roflumilast also improved blood sugar levels in people who only had type 2 diabetes.&#xD;
+      Researchers want to see how roflumilast affects insulin and blood sugar levels in overweight&#xD;
+      or obese people who are not diabetic, but who have high blood sugar levels.&#xD;
+&#xD;
+      Objectives:&#xD;
+&#xD;
+      - To see how well roflumilast improves blood sugar and insulin levels in prediabetic&#xD;
+      overweight or obese individuals.&#xD;
+&#xD;
+      Eligibility:&#xD;
+&#xD;
+      - Individuals between 30 to 65 years old who are overweight or obese (body mass index of 24.9&#xD;
+      to 39.9 kg/m2) and have elevated blood sugar levels.&#xD;
+&#xD;
+      Design:&#xD;
+&#xD;
+        -  This study will last approximately 8 weeks. Participants will have approximately five&#xD;
+           study visits over about 7 weeks. Two of these visits will be overnight inpatient stays.&#xD;
+&#xD;
+        -  Participants will be screened with a physical exam and medical history. Blood and urine&#xD;
+           samples will be collected. They will also have a 3-day diet and exercise assessment with&#xD;
+           a dietitian.&#xD;
+&#xD;
+        -  In Week 1, participants will have a special diet for 2 days to keep their regular&#xD;
+           weight. They will then have a 2-day inpatient stay. During their stay, they will have&#xD;
+           multiple tests, including blood sugar tests and full body scans. They may provide a fat&#xD;
+           and muscle tissue biopsy sample. They will then receive the study drug to take during&#xD;
+           the study.&#xD;
+&#xD;
+        -  In Week 2, participants will repeat the diet study from the screening visit. They will&#xD;
+           receive a different dose of the study drug.&#xD;
+&#xD;
+        -  In Week 3, participants will review their diet results and have blood and urine tests.&#xD;
+&#xD;
+        -  In Week 5, participants will repeat the diet and exercise study from the screening&#xD;
+           visit.&#xD;
+&#xD;
+        -  In Week 6, participants will repeat the inpatient studies and tests from Week 1.&#xD;
+&#xD;
+      In the last week, participants will have a final follow-up visit.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Resveratrol, a polyphenol most notably found in red wine has anti-aging properties in mice&#xD;
+      fed a high-fat diet; resveratrol protects against obesity and type 2 diabetes. Several&#xD;
+      clinical trials have been conducted to study the metabolic effects of resveratrol. Although&#xD;
+      these trials have used different subject groups (e.g. obese healthy, type 2 diabetics or&#xD;
+      older adults with glucose intolerance), they suggest that resveratrol may improve insulin&#xD;
+      sensitivity. However, the therapeutic potential of resveratrol is diminished by the fact that&#xD;
+      it has a very promiscuous target profile. In order to translate resveratrol biology into&#xD;
+      clinical application, it is helpful to identify the cellular target(s) of resveratrol that&#xD;
+      mediate the desired effects and to develop therapies specific for that target(s). Recently,&#xD;
+      we discovered that the metabolic effects of resveratrol appear to result from competitive&#xD;
+      inhibition of cAMP-degrading phosphodiesterases (PDEs), which increases cAMP levels. The&#xD;
+      cAMP-dependent pathways activate AMP-activated protein kinase (AMPK), which is essential for&#xD;
+      the metabolic effects of resveratrol. Inhibiting PDE4 with rolipram reproduces all of the&#xD;
+      metabolic benefits of resveratrol, including protection against diet-induced obesity and an&#xD;
+      increase in mitochondrial content, fat oxidation, physical stamina and glucose tolerance in&#xD;
+      mice. Based on results from cellular and preclinical studies, we hypothesize that PDE4&#xD;
+      inhibition will ameliorate insulin resistance in pre-diabetic individuals. To test these&#xD;
+      hypotheses, we will conduct an exploratory study on the potential beneficial effects of&#xD;
+      roflumilast (Daxas (Registered Trademark)), a PDE4 inhibitor, on insulin sensitivity in&#xD;
+      pre-diabetic individuals.Each study participant will receive oral roflumilast (250 (micro)g,&#xD;
+      once a day for 2 weeks, followed by 500 (micro)g once a day for 4 weeks). At baseline and&#xD;
+      after the 6-week treatment period, we will assess insulin sensitivity&#xD;
+      (hyperinsulinemiceuglycemic glucose clamp technique, glucose clamp ). In addition, Beta-cell&#xD;
+      function, skeletal muscle mitochondrial function, body composition, and circulating&#xD;
+      adipocytokine profile will be measured at baseline and after treatment to evaluate potential&#xD;
+      changes that may be related to improvements in metabolic function. Vascular function is not&#xD;
+      only an indicator of insulin sensitivity, but is also important for glucose delivery and&#xD;
+      metabolism. If possible, vascular function will be assessed along with the other parameters&#xD;
+      at baseline and after treatment with roflumilast. Regarding vascular function, we may measure&#xD;
+      basal and insulin-stimulated brachial artery blood flow (large conduit artery assessed by&#xD;
+      Doppler ultrasound) as well as capillary recruitment in forearm skeletal muscle (small&#xD;
+      nutritive arterioles assessed by ultrasound with microbubble contrast). This study will&#xD;
+      explore whether roflumilast is effective at improving insulin sensitivity in pre-diabetic&#xD;
+      individuals. Results from this study may have important implications for the potential use of&#xD;
+      roflumilast in treating type 2 diabetes.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>May 22, 2013</start_date>
+  <completion_date type="Actual">July 25, 2017</completion_date>
+  <primary_completion_date type="Actual">July 25, 2017</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Insulin Sensitivity- Pre-roflumilast</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Our primary outcome measure is the change in peripheral insulin sensitivity. The hyperinsulinemic euglycemic clamp procedure's M value, which was obtained before the subjects began roflumilast, was used to assess the primary outcome.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Insulin Sensitivity - Post-roflumilast</measure>
+    <time_frame>6 weeks</time_frame>
+    <description>Our primary outcome measure is the change in peripheral insulin sensitivity. The hyperinsulinemic euglycemic clamp procedure's M value, which was obtained post-roflumilast, was used for this primary outcome assessment.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">24</enrollment>
+  <condition>Obesity</condition>
+  <arm_group>
+    <arm_group_label>Roflumilast</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Roflumilast</intervention_name>
+    <description>Selective phosphodiesterase 4 (PDE4) inhibitor</description>
+    <arm_group_label>Roflumilast</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        -  INCLUSION CRITERIA:&#xD;
+&#xD;
+          -  Adult, weight- and diet-stable men and women in good general health with no&#xD;
+             significant underlying illnesses and normal or clinically insignificant results&#xD;
+             (medical histories, laboratory profiles, physical examination, and&#xD;
+             electrocardiograms),&#xD;
+&#xD;
+          -  Women must be non-pregnant or post-menopausal, or women of childbearing potential must&#xD;
+             be non-lactating and using an effective form of birth control during and for 30 days&#xD;
+             after the study period (partner's use of condoms or partner's vasectomy is not an&#xD;
+             acceptable contraception method for this study),&#xD;
+&#xD;
+          -  Must be 30 - 65 years of age, inclusive&#xD;
+&#xD;
+          -  Body Mass Index (BMI) &gt; 24.9 and &lt; 39.5 kg/m(2) with a stable (plus-minus 2.5 kg)&#xD;
+             weight for the last 6 months by history,&#xD;
+&#xD;
+          -  Pre-diabetes, as defined by a fasting blood glucose of greater than 100 mg/dL and less&#xD;
+             than 126 mg/dL and/or A1C equal or greater than 5.7 and less than or equal to 6.5 %&#xD;
+&#xD;
+          -  Subjects must be able to understand the protocol and provide written informed consent.&#xD;
+&#xD;
+        EXCLUSION CRITERIA:&#xD;
+&#xD;
+          -  Women will be excluded from our study if they are pregnant, breastfeeding, or if they&#xD;
+             plan to become pregnant prior to the end of the study,&#xD;
+&#xD;
+          -  Cannot be on any medications including multivitamins or nutritional supplements that&#xD;
+             in the investigator s opinion will affect insulin sensitivity&#xD;
+&#xD;
+          -  Currently taking systemic corticosteroids, insulin, or anticoagulants, anxiolytics,&#xD;
+             ketoconazole, erythromycin, cimetidine, enoxacin, strong CYP 3A4/1A2 inducers (e.g.,&#xD;
+             rifampicin, phenobarbital, carbamazepine, phenytoin), birth control pills containing&#xD;
+             gestodene and ethinyl estradiol, use food supplements that cannot be discontinued, or&#xD;
+             any other medication that the investigators deem a contraindication.&#xD;
+&#xD;
+          -  AST or ALT &gt; 3 times the upper normal limit&#xD;
+&#xD;
+          -  Hepatitis B antigen, HIV or C positive antibody tests,&#xD;
+&#xD;
+          -  Liver disease, pulmonary disease, renal insufficiency, , (serum creatinine &gt;&#xD;
+             1.5mg/dl), coronary heart disease, heart failure (New York Heart Association heart&#xD;
+             failure Class III or IV), peripheral vascular disease, coagulopathy.&#xD;
+&#xD;
+          -  History of or current diagnosis of major depressive disorder, or history of or current&#xD;
+             diagnosis of other psychiatric disorders that in the opinion of the investigator would&#xD;
+             make participant unsafe for the participant.&#xD;
+&#xD;
+          -  Currently being treated for any form of cancer or have a history of cancer, that in&#xD;
+             the investigator s judgment would not make the participant a candidate for the study&#xD;
+             for safety or scientific reasons.&#xD;
+&#xD;
+          -  Claustrophobic,&#xD;
+&#xD;
+          -  On a weight loss program with ongoing weight loss, or a history of eating disorders.&#xD;
+             Actively using tobacco products or have used tobacco products within last year (&gt;3&#xD;
+             cigarettes/day), regular alcoholic beverage intake of more than two drinks per day.&#xD;
+             Subjects with any condition that would have made them, in the opinion of the principal&#xD;
+             investigator (PI), unsuitable for the study.&#xD;
+&#xD;
+          -  Subjects with a contraindication for the ultrasound contrast agent.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>30 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jay H Chung, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Heart, Lung, and Blood Institute (NHLBI)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>National Institutes of Health Clinical Center, 9000 Rockville Pike</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://clinicalstudies.info.nih.gov/cgi/detail.cgi?B_2013-H-0123.html</url>
+    <description>NIH Clinical Center Detailed Web Page</description>
+  </link>
+  <reference>
+    <citation>Wouters EF, Bredenbröker D, Teichmann P, Brose M, Rabe KF, Fabbri LM, Göke B. Effect of the phosphodiesterase 4 inhibitor roflumilast on glucose metabolism in patients with treatment-naive, newly diagnosed type 2 diabetes mellitus. J Clin Endocrinol Metab. 2012 Sep;97(9):E1720-5. doi: 10.1210/jc.2011-2886. Epub 2012 Jun 20.</citation>
+    <PMID>22723325</PMID>
+  </reference>
+  <reference>
+    <citation>Yajima H, Komatsu M, Schermerhorn T, Aizawa T, Kaneko T, Nagai M, Sharp GW, Hashizume K. cAMP enhances insulin secretion by an action on the ATP-sensitive K+ channel-independent pathway of glucose signaling in rat pancreatic islets. Diabetes. 1999 May;48(5):1006-12.</citation>
+    <PMID>10331404</PMID>
+  </reference>
+  <reference>
+    <citation>Millesi H. Peripheral nerve surgery today: turning point or continuous development? J Hand Surg Br. 1990 Aug;15(3):281-7. Review.</citation>
+    <PMID>2230491</PMID>
+  </reference>
+  <verification_date>February 26, 2018</verification_date>
+  <study_first_submitted>May 22, 2013</study_first_submitted>
+  <study_first_submitted_qc>May 22, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">May 24, 2013</study_first_posted>
+  <results_first_submitted>July 26, 2018</results_first_submitted>
+  <results_first_submitted_qc>August 28, 2018</results_first_submitted_qc>
+  <results_first_posted type="Actual">September 4, 2018</results_first_posted>
+  <last_update_submitted>August 28, 2018</last_update_submitted>
+  <last_update_submitted_qc>August 28, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 4, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Mitochondria in Diabetes</keyword>
+  <keyword>Obesity</keyword>
+  <keyword>Roflumilast</keyword>
+  <keyword>Phosphodiesterase-4</keyword>
+  <keyword>Pre-Diabetes</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Overweight</mesh_term>
+  </condition_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>May 15, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/29/NCT01862029/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Subjects who passed the telephone screening were invited to undergo further screening in the clinic. A total of 24 subjects were subsequently screened. Among these subjects, 14 subjects met the study's inclusion criteria.</recruitment_details>
+      <pre_assignment_details>Among the 14 subjects who met the inclusion criteria, 3 subjects withdrew participation prior to starting the study procedures due to expected possibility of noncompliance with the protocol schedule. Two additional subjects were withdrawn for new medical findings prior to their initiation of the study medication.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Subjects Who Took Roflumilast</title>
+          <description>Subjects with overweight/obesity and pre-diabetes were to take Roflumilast, a phosphodiesterase 4 (PDE4) inhibitor, for a total of six weeks. They were to take roflumilast 250mcg daily for the first two weeks and then, 500mcg daily for the remaining four weeks.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="9"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="8"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Physician Decision</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Roflumilast</title>
+          <description>Subjects with overweight/obesity and pre-diabetes who started Roflumilast, a phosphodiesterase 4 (PDE4) inhibitor.</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="9"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="49.6" spread="6.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Black or African-American</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>White</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hispanic</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <description>Subjects resided either within District of Columbia or within the states of Maryland or Virginia.</description>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in Insulin Sensitivity- Pre-roflumilast</title>
+        <description>Our primary outcome measure is the change in peripheral insulin sensitivity. The hyperinsulinemic euglycemic clamp procedure's M value, which was obtained before the subjects began roflumilast, was used to assess the primary outcome.</description>
+        <time_frame>Baseline</time_frame>
+        <population>Subjects who underwent the clamp procedure at time point: pre- roflumilast</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Pre-roflumilast</title>
+            <description>Data before the subjects began taking roflumilast</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Insulin Sensitivity- Pre-roflumilast</title>
+          <description>Our primary outcome measure is the change in peripheral insulin sensitivity. The hyperinsulinemic euglycemic clamp procedure's M value, which was obtained before the subjects began roflumilast, was used to assess the primary outcome.</description>
+          <population>Subjects who underwent the clamp procedure at time point: pre- roflumilast</population>
+          <units>mg/grams Fat Free Mass/minute</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="7"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="48.7" spread="10.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in Insulin Sensitivity - Post-roflumilast</title>
+        <description>Our primary outcome measure is the change in peripheral insulin sensitivity. The hyperinsulinemic euglycemic clamp procedure's M value, which was obtained post-roflumilast, was used for this primary outcome assessment.</description>
+        <time_frame>6 weeks</time_frame>
+        <population>Subjects who underwent the clamp procedure at time point: post-roflumilast</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Post-roflumilast</title>
+            <description>Data obtained after subjects took roflumilast for a total of six weeks</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Insulin Sensitivity - Post-roflumilast</title>
+          <description>Our primary outcome measure is the change in peripheral insulin sensitivity. The hyperinsulinemic euglycemic clamp procedure's M value, which was obtained post-roflumilast, was used for this primary outcome assessment.</description>
+          <population>Subjects who underwent the clamp procedure at time point: post-roflumilast</population>
+          <units>mg/grams Fat Free Mass/minute</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="7"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="70" spread="20.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Adverse events data was collected in the seven weeks time period of the study calendar. Six of these weeks were while the subjects were on roflumilast and one week was after the subject discontinued roflumilast.</time_frame>
+      <desc>All events determined to be related to the study.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Subjects Who Took Roflumilast</title>
+          <description>Subjects with overweight/obesity and pre-diabetes were assigned to take Roflumilast, a phosphodiesterase 4 (PDE4) inhibitor, for a total of six weeks as follows: 250mcg daily for the first two weeks and then, 500mcg daily for the remaining four weeks.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="9"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>1</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="9"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Diarrhea</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Dyspepsia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Early satiety</sub_title>
+                <assessment>Non-systematic Assessment</assessment>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Insomnia</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Irritability</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="9"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Changes in appetite</sub_title>
+                <description>Increased or decreased appetite</description>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="9"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Neck Pain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Tremor</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pruritis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>The sample size for the assessment of the primary outcome was less than planned.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Jay H. Chung, Ph.D, MD</name_or_title>
+      <organization>National Institute of Health, NHLBI, Laboratory of Obesity and Aging Research</organization>
+      <phone>301-496-3075</phone>
+      <email>chungj@nhlbi.nih.gov</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

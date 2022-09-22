@@ -1,0 +1,333 @@
+{
+  "FullStudy":{
+    "Rank":498,
+    "Study":{
+      "ProtocolSection":{
+        "IdentificationModule":{
+          "NCTId":"NCT05540067",
+          "OrgStudyIdInfo":{
+            "OrgStudyId":"2022003397"
+          },
+          "SecondaryIdInfoList":{
+            "SecondaryIdInfo":[
+              {
+                "SecondaryId":"RF1MH132348",
+                "SecondaryIdType":"U.S. NIH Grant/Contract",
+                "SecondaryIdLink":"https://reporter.nih.gov/quickSearch/RF1MH132348"
+              }
+            ]
+          },
+          "Organization":{
+            "OrgFullName":"Brown University",
+            "OrgClass":"OTHER"
+          },
+          "BriefTitle":"Improving Mental Health Among the LGBTQ+ Community",
+          "OfficialTitle":"Improving Mental Health Among the LGBTQ+ Community Impacted by the COVID-19 Pandemic"
+        },
+        "StatusModule":{
+          "StatusVerifiedDate":"September 2022",
+          "OverallStatus":"Not yet recruiting",
+          "ExpandedAccessInfo":{
+            "HasExpandedAccess":"No"
+          },
+          "StartDateStruct":{
+            "StartDate":"November 1, 2022",
+            "StartDateType":"Anticipated"
+          },
+          "PrimaryCompletionDateStruct":{
+            "PrimaryCompletionDate":"January 1, 2025",
+            "PrimaryCompletionDateType":"Anticipated"
+          },
+          "CompletionDateStruct":{
+            "CompletionDate":"August 31, 2025",
+            "CompletionDateType":"Anticipated"
+          },
+          "StudyFirstSubmitDate":"September 12, 2022",
+          "StudyFirstSubmitQCDate":"September 12, 2022",
+          "StudyFirstPostDateStruct":{
+            "StudyFirstPostDate":"September 14, 2022",
+            "StudyFirstPostDateType":"Actual"
+          },
+          "LastUpdateSubmitDate":"September 12, 2022",
+          "LastUpdatePostDateStruct":{
+            "LastUpdatePostDate":"September 14, 2022",
+            "LastUpdatePostDateType":"Actual"
+          }
+        },
+        "SponsorCollaboratorsModule":{
+          "ResponsibleParty":{
+            "ResponsiblePartyType":"Sponsor"
+          },
+          "LeadSponsor":{
+            "LeadSponsorName":"Brown University",
+            "LeadSponsorClass":"OTHER"
+          },
+          "CollaboratorList":{
+            "Collaborator":[
+              {
+                "CollaboratorName":"National Institute of Mental Health (NIMH)",
+                "CollaboratorClass":"NIH"
+              }
+            ]
+          }
+        },
+        "OversightModule":{
+          "OversightHasDMC":"Yes",
+          "IsFDARegulatedDrug":"No",
+          "IsFDARegulatedDevice":"No"
+        },
+        "DescriptionModule":{
+          "BriefSummary":"The overall aim of this program of research is to improve the mental health of people who identify as LGBTQ+ by increasing their social support through a brief intervention. The purpose of the proposed project is to establish the effectiveness of our empirically-supported, brief acceptance-based behavioral therapy (ABBT). To achieve the specific aims, the investigators will conduct a fully-powered, randomized clinical trial (n=240) with two treatment arms: treatment-as-usual (TAU) vs. ABBT.",
+          "DetailedDescription":"During the COVID-19 pandemic, up to 81% of adults in the United States experienced worsening mental health. A major cause was the social isolation triggered by the pandemic due to quarantining, loss of family or friends, and loss of work. For individuals who lost social connections or were unable to adapt to maintain their connections, social support decreased and loneliness worsened, putting them at much higher risk for anxiety and depressive symptoms.\n\nImportantly, people who identify as LGBTQ+ have been particularly affected by the social isolation caused by the pandemic and were already at much higher risk of social isolation, loneliness, and mental illness, including suicidality, before the pandemic. The objective of this R01 fully-powered trial is to examine the effectiveness of a brief acceptance-based behavioral telehealth intervention (ABBT) to improve mental health during the COVID-19 pandemic by strengthening social support among LGBTQ+ individuals.\n\nThe aims of this proposal are: (1) to examine the effectiveness of ABBT in reducing mental health morbidity by conducting a fully-powered, RCT (n=240) of ABBT vs. Treatment-as-Usual; and, (2) to examine potential mediators and moderators of ABBT treatment effects. Primary outcomes will be anxiety and depressive symptoms."
+        },
+        "ConditionsModule":{
+          "ConditionList":{
+            "Condition":[
+              "Anxiety",
+              "Depression"
+            ]
+          },
+          "KeywordList":{
+            "Keyword":[
+              "Anxiety",
+              "Depression",
+              "LGBTQ+",
+              "COVID-19",
+              "Brief intervention",
+              "Social support",
+              "Acceptance-based behavior therapy"
+            ]
+          }
+        },
+        "DesignModule":{
+          "StudyType":"Interventional",
+          "PhaseList":{
+            "Phase":[
+              "Phase 2"
+            ]
+          },
+          "DesignInfo":{
+            "DesignAllocation":"Randomized",
+            "DesignInterventionModel":"Parallel Assignment",
+            "DesignInterventionModelDescription":"This is a 2-arm RCT.",
+            "DesignPrimaryPurpose":"Treatment",
+            "DesignMaskingInfo":{
+              "DesignMasking":"Single",
+              "DesignMaskingDescription":"Blinded raters will conduct interviewer-rated assessments of anxiety and depression (primary outcomes)",
+              "DesignWhoMaskedList":{
+                "DesignWhoMasked":[
+                  "Outcomes Assessor"
+                ]
+              }
+            }
+          },
+          "EnrollmentInfo":{
+            "EnrollmentCount":"240",
+            "EnrollmentType":"Anticipated"
+          }
+        },
+        "ArmsInterventionsModule":{
+          "ArmGroupList":{
+            "ArmGroup":[
+              {
+                "ArmGroupLabel":"Acceptance-Based Behavior Therapy (ABBT)",
+                "ArmGroupType":"Experimental",
+                "ArmGroupDescription":"The 2-session ABBT will be delivered remotely or in-person, depending on preference.",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Behavioral: Acceptance-Based Behavior Therapy (ABBT)"
+                  ]
+                }
+              },{
+                "ArmGroupLabel":"Treatment-as-Usual (TAU)",
+                "ArmGroupType":"Other",
+                "ArmGroupDescription":"Control participants will receive the currently recommended best practices of care at the recruitment site.",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Other: Treatment-as-Usual (TAU)"
+                  ]
+                }
+              }
+            ]
+          },
+          "InterventionList":{
+            "Intervention":[
+              {
+                "InterventionType":"Behavioral",
+                "InterventionName":"Acceptance-Based Behavior Therapy (ABBT)",
+                "InterventionDescription":"In the first session, the interventionist will introduce the concept of acceptance and its possible benefits in the context of life values and participant-identified challenges related to the COVID-19 pandemic, mental health, and social support. Interventionists will help participants identify potential challenges to acceptance. At the second session, participants will practice acceptance-based coping skills and a social support behavioral plan will be developed. These discussions will help the participant clarify how best to align their values with decisions on how to manage their mental health and social support in the context of the COVID-19 pandemic.",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Acceptance-Based Behavior Therapy (ABBT)"
+                  ]
+                }
+              },{
+                "InterventionType":"Other",
+                "InterventionName":"Treatment-as-Usual (TAU)",
+                "InterventionDescription":"TAU includes brief mental health screening, consultation with providers, and referrals to psychotherapy and/or psychiatric medication.",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Treatment-as-Usual (TAU)"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "OutcomesModule":{
+          "PrimaryOutcomeList":{
+            "PrimaryOutcome":[
+              {
+                "PrimaryOutcomeMeasure":"Hamilton Anxiety Rating Scale (HAM-A)",
+                "PrimaryOutcomeDescription":"The interviewer-rated HAM-A is a measure of anxiety symptom severity.",
+                "PrimaryOutcomeTimeFrame":"39 weeks"
+              },{
+                "PrimaryOutcomeMeasure":"Quick Inventory of Depressive Symptomatology - Clinician Rating (QIDS-C)",
+                "PrimaryOutcomeDescription":"The interviewer-rated QIDS-C is a measure of depressive symptom severity.",
+                "PrimaryOutcomeTimeFrame":"39 weeks"
+              }
+            ]
+          },
+          "SecondaryOutcomeList":{
+            "SecondaryOutcome":[
+              {
+                "SecondaryOutcomeMeasure":"Generalized Anxiety Disorder-7 (GAD-7)",
+                "SecondaryOutcomeDescription":"The GAD-7 is a self-report measure of anxiety severity.",
+                "SecondaryOutcomeTimeFrame":"39 weeks"
+              },{
+                "SecondaryOutcomeMeasure":"Patient Health Questionnaire-9 (PHQ-9)",
+                "SecondaryOutcomeDescription":"The PHQ-9 is a self-report measure of depression severity.",
+                "SecondaryOutcomeTimeFrame":"39 weeks"
+              }
+            ]
+          }
+        },
+        "EligibilityModule":{
+          "EligibilityCriteria":"Inclusion Criteria:\n\nPresent to recruitment clinic for any type of clinical care\nIdentify as LGBTQ+\nSelf-reported ≥ mild anxiety and/or depressive symptoms, based on the GAD-7 and PHQ-9\n18 years or older\nAbility to speak and read English\n\nExclusion Criteria:\n\nNone",
+          "HealthyVolunteers":"No",
+          "Gender":"All",
+          "MinimumAge":"18 Years",
+          "StdAgeList":{
+            "StdAge":[
+              "Adult",
+              "Older Adult"
+            ]
+          }
+        },
+        "ContactsLocationsModule":{
+          "CentralContactList":{
+            "CentralContact":[
+              {
+                "CentralContactName":"Ethan Moitra, Ph.D.",
+                "CentralContactRole":"Contact",
+                "CentralContactPhone":"(401) 444-1949",
+                "CentralContactEMail":"ethan_moitra@brown.edu"
+              }
+            ]
+          },
+          "OverallOfficialList":{
+            "OverallOfficial":[
+              {
+                "OverallOfficialName":"Ethan Moitra, Ph.D.",
+                "OverallOfficialAffiliation":"Brown University",
+                "OverallOfficialRole":"Principal Investigator"
+              }
+            ]
+          },
+          "LocationList":{
+            "Location":[
+              {
+                "LocationFacility":"Brown University",
+                "LocationCity":"Providence",
+                "LocationState":"Rhode Island",
+                "LocationZip":"02912",
+                "LocationCountry":"United States"
+              }
+            ]
+          }
+        },
+        "IPDSharingStatementModule":{
+          "IPDSharing":"Yes",
+          "IPDSharingDescription":"The investigators will share data via The National Institute of Mental Health Data Archive (NDA).",
+          "IPDSharingTimeFrame":"Data will be uploaded to NDA semi-annually. Consistent with NIMH guidelines, there will be no specific time limit regarding how long IPD are available.",
+          "IPDSharingAccessCriteria":"Request to access the data will be evaluated by the MPIs to ensure that they meet reasonable standards of scientific integrity.",
+          "IPDSharingURL":"http://nda.nih.gov/"
+        }
+      },
+      "DerivedSection":{
+        "MiscInfoModule":{
+          "VersionHolder":"September 19, 2022"
+        },
+        "ConditionBrowseModule":{
+          "ConditionMeshList":{
+            "ConditionMesh":[
+              {
+                "ConditionMeshId":"D000003863",
+                "ConditionMeshTerm":"Depression"
+              }
+            ]
+          },
+          "ConditionAncestorList":{
+            "ConditionAncestor":[
+              {
+                "ConditionAncestorId":"D000001526",
+                "ConditionAncestorTerm":"Behavioral Symptoms"
+              }
+            ]
+          },
+          "ConditionBrowseLeafList":{
+            "ConditionBrowseLeaf":[
+              {
+                "ConditionBrowseLeafId":"M3476",
+                "ConditionBrowseLeafName":"Anxiety Disorders",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M6210",
+                "ConditionBrowseLeafName":"Depression",
+                "ConditionBrowseLeafAsFound":"Depression",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M2562",
+                "ConditionBrowseLeafName":"COVID-19",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M16002",
+                "ConditionBrowseLeafName":"Tooth, Impacted",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M6213",
+                "ConditionBrowseLeafName":"Depressive Disorder",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M3970",
+                "ConditionBrowseLeafName":"Behavioral Symptoms",
+                "ConditionBrowseLeafRelevance":"low"
+              }
+            ]
+          },
+          "ConditionBrowseBranchList":{
+            "ConditionBrowseBranch":[
+              {
+                "ConditionBrowseBranchAbbrev":"BXM",
+                "ConditionBrowseBranchName":"Behaviors and Mental Disorders"
+              },{
+                "ConditionBrowseBranchAbbrev":"All",
+                "ConditionBrowseBranchName":"All Conditions"
+              },{
+                "ConditionBrowseBranchAbbrev":"BC01",
+                "ConditionBrowseBranchName":"Infections"
+              },{
+                "ConditionBrowseBranchAbbrev":"BC08",
+                "ConditionBrowseBranchName":"Respiratory Tract (Lung and Bronchial) Diseases"
+              },{
+                "ConditionBrowseBranchAbbrev":"BC07",
+                "ConditionBrowseBranchName":"Mouth and Tooth Diseases"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+

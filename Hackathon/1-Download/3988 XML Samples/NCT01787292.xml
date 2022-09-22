@@ -1,0 +1,1514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2163">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01787292</url>
+  </required_header>
+  <id_info>
+    <org_study_id>E0956-W</org_study_id>
+    <secondary_id>2012-060697</secondary_id>
+    <nct_id>NCT01787292</nct_id>
+  </id_info>
+  <brief_title>Effects of Exercise Intervention on Aging-related Motor Decline</brief_title>
+  <acronym>EIAMD</acronym>
+  <official_title>Effects of Exercise Intervention on Aging-related Motor Decline (AGING)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>VA Office of Research and Development</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>VA Office of Research and Development</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this research study is to test whether differing levels of physical fitness&#xD;
+      affects patterns of motor dexterity and brain activity that have been shown to differ due to&#xD;
+      aging. Testing will take place at the Atlanta VA Medical Center and at Emory University.&#xD;
+&#xD;
+      Participants will be healthy adults within the target age range of 60-85 for the study. The&#xD;
+      study will require multiple visits over 15 months. There will be about 64 people volunteering&#xD;
+      for this study.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The U.S. Census reports over 14 million U.S. Veterans (&gt;63%) are beyond mid-life (&gt;55 years).&#xD;
+      Declines in upper extremity motor performance respective of strength and dexterity are well&#xD;
+      documented within this age cohort). Recent cross-sectional research has discovered that aging&#xD;
+      related motor deficits may be influenced by a loss of interhemispheric inhibition (IHI)&#xD;
+      between primary motor cortices. However, this loss may not be an inevitable consequence of&#xD;
+      aging. Work from previous VA OAA Predoctoral and CDA-1 awards have shown that aerobic fitness&#xD;
+      may serve to mitigate losses in interhemispheric inhibition assessed by both functional&#xD;
+      magnetic resonance imaging (fMRI) and transcranial magnetic stimulation (TMS). That is,&#xD;
+      individuals who are aerobically fit show higher levels of IHI and improved dexterity and&#xD;
+      reaction times.&#xD;
+&#xD;
+      In light of new evidence from the investigators' lab's recent cross-sectional studies,&#xD;
+      physical activity over the long term (at least 2-5 years) may serve to alter levels of IHI&#xD;
+      and improve motor performance in the upper extremity. Aerobic exercise may provide a&#xD;
+      mechanism (reduced loss of interhemispheric inhibition) that could serve to improve motor&#xD;
+      function, but the neural mechanism responsible for such effects remains unclear. Previous&#xD;
+      investigations of interhemispheric communication and exercise have been limited by nature of&#xD;
+      inquiry, as cross-sectional research cannot measure changes over time in participants. As&#xD;
+      such, it is currently unknown how exercise may directly affect levels of interhemispheric&#xD;
+      communication and motor performance.&#xD;
+&#xD;
+      Behavioral interventions (motor strength and coordination) have been shown to be effective in&#xD;
+      improving upper extremity motor performance in older adults, however the duration of these&#xD;
+      gains appear to be short-lived. After as little as a few weeks of detraining, motor strength&#xD;
+      and coordination in the upper extremity rapidly begins to return to pre-intervention levels.&#xD;
+      Evidence from exercise interventions assessing gait and locomotion have shown that exercise&#xD;
+      programs over a longer term (&gt;6 months) are associated with improved proprioception, fewer&#xD;
+      falls and better balance. However, the comparison of outcomes of upper extremity function in&#xD;
+      elderly adults respective of exercise duration remains largely unexplored. In addition to&#xD;
+      comparing the effects of short-term exercise (3 months) versus behavioral training (3 months)&#xD;
+      on upper extremity function, the current proposal will evaluate if a longer-term (6 months)&#xD;
+      exercise program can maintain or enhance upper extremity function and associated levels of&#xD;
+      interhemispheric inhibition.&#xD;
+&#xD;
+      The current study proposes the next logical step in my line of research and directly&#xD;
+      investigates the effects of exercise in an intervention with sedentary older Veterans (50-80&#xD;
+      years), a group most likely to exhibit aging-related motor deficits. The investigators&#xD;
+      propose to enroll 40 Veterans into an upper extremity dexterity improvement program involving&#xD;
+      behavioral and exercise components. The behavioral intervention is a muscle coordination&#xD;
+      training previously shown to improve unimanual motor performance in older adults. The&#xD;
+      exercise intervention is a supervised group cycling regimen. The figure below shows the study&#xD;
+      design. Interhemispheric communication will be assessed with fMRI, and TMS.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 14, 2013</start_date>
+  <completion_date type="Actual">August 1, 2019</completion_date>
+  <primary_completion_date type="Actual">July 7, 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>A. Light stretching and balance exercises under supervised trainer. 3 times per week for 20-45 minutes. HR will be targeted to be under 50% of age-related maximum.&#xD;
+B. Interval aerobic cycling under supervised trainer. 3 times per week for 20-45 minutes. HR will be targeted between 50-85% of age-related maximum.&#xD;
+C. 6 month self-monitored training phase during which time participants will exercise using a take home bike ergometer</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Estimate Cardiovascular Efficiency After Aerobic Exercise</measure>
+    <time_frame>Baseline, 12 weeks, 24 weeks</time_frame>
+    <description>Estimate of Volume of oxygen consumption (VO2peak) using YMCA protocol for cardiovascular assessment.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Estimate of Cardiovascular Efficiency After Balance Training</measure>
+    <time_frame>Baseline, 12 weeks, 24 weeks</time_frame>
+    <description>Estimated VO2peak using YMCA cycle test completed over nine to twelve minutes.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Silent Period Duration After Exercise Cycling Program</measure>
+    <time_frame>Baseline, 12 weeks, 24 weeks</time_frame>
+    <description>Duration of ipsilateral silent period from Transcranial magnetic stimulation measured in milliseconds</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Silent Period Duration for Balance Group</measure>
+    <time_frame>Baseline, 12 weeks, 24 weeks</time_frame>
+    <description>Ipsilateral silent period duration as assessed by TMS</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>fMRI Interhemispheric Inhibition Improvement After Aerobic Exercise</measure>
+    <time_frame>Baseline to 24 Weeks with cross-over</time_frame>
+    <description>Participants who exercise will evidence larger increases in interhemispheric inhibition as assessed by functional magnetic resonance measured by a z-normalized area under curve of right primary motor cortex. The area under the curve is an estimate of the fMRI hemodynamic response impulse response function. A higher number of AUC indicates less interhemispheric inhibition. In contrast, a lower number in this analysis indicates higher interhemispheric inhibition.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>fMRI Interhemispheric Inhibition Improvement After Balance Training</measure>
+    <time_frame>Baseline, 12 weeks, 24 weeks</time_frame>
+    <description>Area under the curve of fMRI measures of right motor cortex BOLD profile will remain similar to pre measurements. The BOLD profile is the z-normalized area under the curve value of the fMRI impulse response function. A higher number indicates less interhemispheric inhibition.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Comparison of Cardiovascular Efficiency for Aerobic Exercise First Group After Home-based Intervention</measure>
+    <time_frame>24 and 48 weeks</time_frame>
+    <description>Comparison of home based aerobic exercise intervention to assessments made after completion of crossover intervention in Participants receiving aerobic condition first. VO2peak estimation completed using the YMCA protocol investigating overall volume of oxygen consumption as a function of heart rate during work loads. Estimated VO2 peak values are in ml/kg(min).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Comparison of Cardiovascular Efficiency for Balance Exercise First Group After Home-based Intervention</measure>
+    <time_frame>24 and 48 weeks</time_frame>
+    <description>VO2peak estimation completed using the YMCA protocol investigating overall volume of oxygen consumption as a function of heart rate during work loads.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Comparison of Silent Period Duration After Aerobic Exercise</measure>
+    <time_frame>Baseline, 12 weeks, 24 weeks</time_frame>
+    <description>Comparison of silent period duration at 24 weeks compared to baseline</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Comparison of Silent Period Duration After Balance Exercise</measure>
+    <time_frame>24 and 48 weeks</time_frame>
+    <description>Comparison of Home based training effects on TMS measures of silent period duration as compared to facility based exercise programs.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Target Heart Rate Zone for Balance First Participants</measure>
+    <time_frame>24 and 48 weeks</time_frame>
+    <description>Heart rate in aerobic target zone is measured in percentage of time in at least 50% of participants heart rate reserve.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Target Heart Rate Zone After Aerobic Exercise First</measure>
+    <time_frame>24 and 48 weeks</time_frame>
+    <description>Targeted Heart Rate Zone among participants compared among short term exercise groups</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Heart Rate Workload After Home Based Intervention</measure>
+    <time_frame>24 and 48 weeks</time_frame>
+    <description>Measured heart rate after home based intervention&#xD;
+Technical implementation at the facility level prevented acquisition of these metrics until late in the project.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">33</enrollment>
+  <condition>Aging</condition>
+  <condition>Exercise</condition>
+  <arm_group>
+    <arm_group_label>Stretching Exercise Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A. Light stretching and balance exercises under supervised trainer. 3 times per week for 20-45 minutes. HR will be targeted to be under 50% of age-related maximum.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Aerobic Exercise Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>B. Interval aerobic cycling under supervised trainer. 3 times per week for 20-45 minutes. HR will be targeted between 50-85% of age-related maximum.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Self Monitoring Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>C. 6 month self-monitored training phase during which time participants will exercise using a take home bike ergometer.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Stretching Exercise Intervention</intervention_name>
+    <description>A. Light stretching and balance exercises under supervised trainer. 3 times per week for 20-45 minutes. HR will be targeted to be under 50% of age-related maximum.</description>
+    <arm_group_label>Stretching Exercise Intervention</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Aerobic Exercise Intervention</intervention_name>
+    <description>Supervised weekly exercise. 3 bouts of 45 minutes weekly on a cycle ergometer. HR will be kept at 75% of age-related maximum.</description>
+    <arm_group_label>Aerobic Exercise Intervention</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Self Monitoring</intervention_name>
+    <description>6 month self-monitored training phase during which time participants will exercise according to prescribed regimen (cycling)</description>
+    <arm_group_label>Self Monitoring Intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Living persons between 60 and 85 years of age&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  unmanaged diabetes&#xD;
+&#xD;
+          -  participants completing vigorous exercise per week&#xD;
+&#xD;
+          -  participants whose profession requires vigorous physical labor&#xD;
+&#xD;
+          -  contraindication to magnetic resonance imaging&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Keith M. McGregor, PhD MS BA</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Atlanta VA Medical and Rehab Center, Decatur, GA</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Atlanta VA Medical and Rehab Center, Decatur, GA</name>
+      <address>
+        <city>Decatur</city>
+        <state>Georgia</state>
+        <zip>30033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>McGregor KM, Crosson B, Mammino K, Omar J, García PS, Nocera JR. Influences of 12-Week Physical Activity Interventions on TMS Measures of Cortical Network Inhibition and Upper Extremity Motor Performance in Older Adults-A Feasibility Study. Front Aging Neurosci. 2018 Jan 4;9:422. doi: 10.3389/fnagi.2017.00422. eCollection 2017.</citation>
+    <PMID>29354049</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Nocera J, Crosson B, Mammino K, McGregor KM. Changes in Cortical Activation Patterns in Language Areas following an Aerobic Exercise Intervention in Older Adults. Neural Plast. 2017;2017:6340302. doi: 10.1155/2017/6340302. Epub 2017 Mar 6.</citation>
+    <PMID>28367334</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>McGregor KM, Crosson B, Krishnamurthy LC, Krishnamurthy V, Hortman K, Gopinath K, Mammino KM, Omar J, Nocera JR. Effects of a 12-Week Aerobic Spin Intervention on Resting State Networks in Previously Sedentary Older Adults. Front Psychol. 2018 Nov 27;9:2376. doi: 10.3389/fpsyg.2018.02376. eCollection 2018.</citation>
+    <PMID>30542314</PMID>
+  </results_reference>
+  <verification_date>February 2020</verification_date>
+  <study_first_submitted>February 5, 2013</study_first_submitted>
+  <study_first_submitted_qc>February 5, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">February 8, 2013</study_first_posted>
+  <results_first_submitted>September 23, 2019</results_first_submitted>
+  <results_first_submitted_qc>February 5, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">February 20, 2020</results_first_posted>
+  <last_update_submitted>February 5, 2020</last_update_submitted>
+  <last_update_submitted_qc>February 5, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 20, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Exercise</keyword>
+  <keyword>Magnetic Resonance Imaging</keyword>
+  <keyword>Transcranial Magnetic Stimulation</keyword>
+  <keyword>Aging</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>February 5, 2019</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/92/NCT01787292/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Community-dwelling individuals were recruited for participation using approved flyer and advertising materials. All participants gave voluntary written consent prior to participation. After consenting, participants were randomly assigned to one of two 12-week exercise interventions involving a followed by cross-over to the other intervention.</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Experimental: Aerobic Exercise, Then Balance Training</title>
+          <description>Participants completed a 12-week interval aerobic cycling under supervised trainers three times per week for 20-45 minutes per session. After two to four week washout period, participants entered a second 12-week intervention involving light stretching and balance exercise under a supervised trainer three times per week for 20-45 minutes per session.</description>
+        </group>
+        <group group_id="P2">
+          <title>Experimental: Balance Training, Then Aerobic Exercise</title>
+          <description>Participants completed a 12-week light stretching and balance exercise program under a supervised trainer three times per week for 20-45 minutes per session.Participants completed an interval aerobic cycling under supervised trainer three times per week for 20-45 minutes per session. After two to four week washout period, participants completed a 12-week interval aerobic cycling under supervised trainers three times per week for 20-45 minutes per session.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Crossover Exercise Interventions</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="17">Participants in this group performed aerobic training prior to cross-over to balance training.</participants>
+                <participants group_id="P2" count="16">Participants in this group performed balance training prior to cross-over to aerobic training.</participants>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="15">Participants completed the 12-week in-house program and cross-over into the balance program.</participants>
+                <participants group_id="P2" count="14">These participants completed the 12-week in-house program and cross-over into the balance program.</participants>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+        <period>
+          <title>Home Based Exercise Program</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="15"/>
+                <participants group_id="P2" count="14"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="12"/>
+                <participants group_id="P2" count="13"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Exercise Interventions for Crossover Design</title>
+          <description>This study was a cross-over design with two groups to which participants were randomized. Group one received a 12-week Aerobic exercise intervention and then crossed over into a balance exercise intervention. Group two received the balance intervention for 12 weeks and then crossed over into the aerobic exercise intervention. All completing participants then engaged in a home based exercise program during which they were instructed to exercise thrice weekly over 24 weeks.</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="33"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="25"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="69.05" spread="5.98"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="19"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Cardiovascular Efficiency</title>
+          <units>ml/kg(min)</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="25.25" spread="9.74"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ipsilateral Silent Period</title>
+          <units>milliseconds</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="22.39" spread="4.73"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>FMRI of Right Motor Cortex</title>
+          <units>area under curve</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1.85" spread="1.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Estimate Cardiovascular Efficiency After Aerobic Exercise</title>
+        <description>Estimate of Volume of oxygen consumption (VO2peak) using YMCA protocol for cardiovascular assessment.</description>
+        <time_frame>Baseline, 12 weeks, 24 weeks</time_frame>
+        <population>Estimated VO2 peak values in ml/kg(min)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Experimental: Aerobic First</title>
+            <description>Aerobic Exercise: Interval based spin exercise under a supervised trainer three times per week for 20-45 minutes per session.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Estimate Cardiovascular Efficiency After Aerobic Exercise</title>
+          <description>Estimate of Volume of oxygen consumption (VO2peak) using YMCA protocol for cardiovascular assessment.</description>
+          <population>Estimated VO2 peak values in ml/kg(min)</population>
+          <units>ml/kg(min)</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="15"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="24.01" spread="9.29"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>12-Week post</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="31.2" spread="8.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>24-week post-cross</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="32.3" spread="6.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>.001</p_value>
+            <p_value_desc>To account for sequence carryover, we employed analysis of covariance inclusive of sequence by period covariates against treatment effects.</p_value_desc>
+            <method>ANCOVA</method>
+            <method_desc>Least square means were adjusted for carryover from the crossover design and between subjects effects were analyzed using Kenward-Roger df estimation</method_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Estimate of Cardiovascular Efficiency After Balance Training</title>
+        <description>Estimated VO2peak using YMCA cycle test completed over nine to twelve minutes.</description>
+        <time_frame>Baseline, 12 weeks, 24 weeks</time_frame>
+        <population>Sedentary older adults who engaged in less than 45 minutes of regular exercise per week</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Balance Training</title>
+            <description>Effects of Balance/Stretching training after 12-week intervention</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Estimate of Cardiovascular Efficiency After Balance Training</title>
+          <description>Estimated VO2peak using YMCA cycle test completed over nine to twelve minutes.</description>
+          <population>Sedentary older adults who engaged in less than 45 minutes of regular exercise per week</population>
+          <units>ml/kg(min)</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="14"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Pre</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="22.83" spread="7.35"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>12-Weeks</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="24.72" spread="9.36"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>24-week post-cross</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="23.58" spread="8.25"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+            </group_id_list>
+            <groups_desc>To account for sequence carryover, we employed analysis of covariance inclusive of sequence by period covariates against treatment effects.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>.8</p_value>
+            <method>ANCOVA</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Silent Period Duration After Exercise Cycling Program</title>
+        <description>Duration of ipsilateral silent period from Transcranial magnetic stimulation measured in milliseconds</description>
+        <time_frame>Baseline, 12 weeks, 24 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Exercise - Cycling</title>
+            <description>Short Term exercise - supervised: Supervised weekly exercise. 3 bouts of 45 minutes weekly on a cycle ergometer. HR will be kept at 75% of age-related maximum.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Silent Period Duration After Exercise Cycling Program</title>
+          <description>Duration of ipsilateral silent period from Transcranial magnetic stimulation measured in milliseconds</description>
+          <units>milliseconds</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="15"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="22" spread="7.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>12-Week post</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="26.2" spread="7.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>24-week post-cross</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="27.5" spread="7.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>.05</p_value>
+            <p_value_desc>To account for sequence carryover, we employed analysis of covariance inclusive of sequence by period covariates against treatment effects.</p_value_desc>
+            <method>ANCOVA</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Silent Period Duration for Balance Group</title>
+        <description>Ipsilateral silent period duration as assessed by TMS</description>
+        <time_frame>Baseline, 12 weeks, 24 weeks</time_frame>
+        <population>Sedentary older adults engaging in less than 45 minutes of total activity per week</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Balance Training</title>
+            <description>Effects of Balance/Stretching training after 12-week intervention</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Silent Period Duration for Balance Group</title>
+          <description>Ipsilateral silent period duration as assessed by TMS</description>
+          <population>Sedentary older adults engaging in less than 45 minutes of total activity per week</population>
+          <units>milliseconds</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="14"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Pre</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="23" spread="8.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>12-Weeks</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="21.2" spread="5.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>24-week post-cross</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="26.2" spread="8.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>.05</p_value>
+            <p_value_desc>To account for sequence carryover, we employed analysis of covariance inclusive of sequence by period covariates against treatment effects.</p_value_desc>
+            <method>ANCOVA</method>
+            <method_desc>A Kenward-Rogers adjustment for degrees of freedom was made to account for carryover effects.</method_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>fMRI Interhemispheric Inhibition Improvement After Aerobic Exercise</title>
+        <description>Participants who exercise will evidence larger increases in interhemispheric inhibition as assessed by functional magnetic resonance measured by a z-normalized area under curve of right primary motor cortex. The area under the curve is an estimate of the fMRI hemodynamic response impulse response function. A higher number of AUC indicates less interhemispheric inhibition. In contrast, a lower number in this analysis indicates higher interhemispheric inhibition.</description>
+        <time_frame>Baseline to 24 Weeks with cross-over</time_frame>
+        <population>Analysis of area under curve of right primary motor cortical area</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Aerobic First Then Balance Cross-over</title>
+            <description>Aerobic cycling first then cross-over to balance group</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>fMRI Interhemispheric Inhibition Improvement After Aerobic Exercise</title>
+          <description>Participants who exercise will evidence larger increases in interhemispheric inhibition as assessed by functional magnetic resonance measured by a z-normalized area under curve of right primary motor cortex. The area under the curve is an estimate of the fMRI hemodynamic response impulse response function. A higher number of AUC indicates less interhemispheric inhibition. In contrast, a lower number in this analysis indicates higher interhemispheric inhibition.</description>
+          <population>Analysis of area under curve of right primary motor cortical area</population>
+          <units>Z-transformed impulse response function</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="15"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Pre</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.5" spread="1.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>12 week intervention</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value=".58" spread=".98"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>24 week post-crossover</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value=".58" spread=".98"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>.01</p_value>
+            <method>t-test, 2 sided</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>fMRI Interhemispheric Inhibition Improvement After Balance Training</title>
+        <description>Area under the curve of fMRI measures of right motor cortex BOLD profile will remain similar to pre measurements. The BOLD profile is the z-normalized area under the curve value of the fMRI impulse response function. A higher number indicates less interhemispheric inhibition.</description>
+        <time_frame>Baseline, 12 weeks, 24 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Balance Training</title>
+            <description>Effects of Balance/Stretching training after 12-week intervention</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>fMRI Interhemispheric Inhibition Improvement After Balance Training</title>
+          <description>Area under the curve of fMRI measures of right motor cortex BOLD profile will remain similar to pre measurements. The BOLD profile is the z-normalized area under the curve value of the fMRI impulse response function. A higher number indicates less interhemispheric inhibition.</description>
+          <units>Z-transformed impulse response function</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="14"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Pre</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.49" spread=".88"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>12-Weeks</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value=".62" spread=".52"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>24-week post-cross</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value=".62" spread=".52"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>.01</p_value>
+            <method>t-test, 2 sided</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Comparison of Cardiovascular Efficiency for Aerobic Exercise First Group After Home-based Intervention</title>
+        <description>Comparison of home based aerobic exercise intervention to assessments made after completion of crossover intervention in Participants receiving aerobic condition first. VO2peak estimation completed using the YMCA protocol investigating overall volume of oxygen consumption as a function of heart rate during work loads. Estimated VO2 peak values are in ml/kg(min).</description>
+        <time_frame>24 and 48 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Exercise Interventions for Crossover Design</title>
+            <description>This study was a cross-over design with two groups to which participants were randomized. Group one received a 12-week Aerobic exercise intervention and then crossed over into a balance exercise intervention. Group two received the balance intervention for 12 weeks and then crossed over into the aerobic exercise intervention. All completing participants then engaged in a home based exercise program during which they were instructed to exercise thrice weekly over 24 weeks.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Comparison of Cardiovascular Efficiency for Aerobic Exercise First Group After Home-based Intervention</title>
+          <description>Comparison of home based aerobic exercise intervention to assessments made after completion of crossover intervention in Participants receiving aerobic condition first. VO2peak estimation completed using the YMCA protocol investigating overall volume of oxygen consumption as a function of heart rate during work loads. Estimated VO2 peak values are in ml/kg(min).</description>
+          <units>ml/kg(min)</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Within one week of completing 24 week intervention</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="25.25" spread="12.25"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Within one week of completing 48 Week Intervention</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="21.2" spread="9.88"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>.01</p_value>
+            <method>t-test, 2 sided</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Comparison of Cardiovascular Efficiency for Balance Exercise First Group After Home-based Intervention</title>
+        <description>VO2peak estimation completed using the YMCA protocol investigating overall volume of oxygen consumption as a function of heart rate during work loads.</description>
+        <time_frame>24 and 48 weeks</time_frame>
+        <population>Participants completed both exercise interventions but completed Balance training prior to engaging in aerobic exercise training.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Balance Training</title>
+            <description>Effects of Balance/Stretching training after study completion</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Comparison of Cardiovascular Efficiency for Balance Exercise First Group After Home-based Intervention</title>
+          <description>VO2peak estimation completed using the YMCA protocol investigating overall volume of oxygen consumption as a function of heart rate during work loads.</description>
+          <population>Participants completed both exercise interventions but completed Balance training prior to engaging in aerobic exercise training.</population>
+          <units>ml/kg(min)</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Within one week of completing 24 week intervention</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="25.5" spread="12.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Within one week of completing 48 Week Intervention</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="20.8" spread="12.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>.5</p_value>
+            <method>t-test, 2 sided</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Comparison of Silent Period Duration After Aerobic Exercise</title>
+        <description>Comparison of silent period duration at 24 weeks compared to baseline</description>
+        <time_frame>Baseline, 12 weeks, 24 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Aerobic Exercise</title>
+            <description>Participants in this group first received a 12-week Aerobic exercise intervention and then crossed over into a balance exercise intervention.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Comparison of Silent Period Duration After Aerobic Exercise</title>
+          <description>Comparison of silent period duration at 24 weeks compared to baseline</description>
+          <units>milliseconds</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="15"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Pre</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="20.58" spread="7.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>12-Weeks</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="26.2" spread="7.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>24-week post-cross</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="27.5" spread="7.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>.6</p_value>
+            <method>t-test, 2 sided</method>
+            <method_desc>A Kenward-Rogers adjustment for df was made to account for carryover effects.</method_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Comparison of Silent Period Duration After Balance Exercise</title>
+        <description>Comparison of Home based training effects on TMS measures of silent period duration as compared to facility based exercise programs.</description>
+        <time_frame>24 and 48 weeks</time_frame>
+        <population>Participants completing balance training then crossing over into aerobic exercise were then tested for effects of facility based treatments against home exercise.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Balance Training</title>
+            <description>Effects of Balance/Stretching training after study completion</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Comparison of Silent Period Duration After Balance Exercise</title>
+          <description>Comparison of Home based training effects on TMS measures of silent period duration as compared to facility based exercise programs.</description>
+          <population>Participants completing balance training then crossing over into aerobic exercise were then tested for effects of facility based treatments against home exercise.</population>
+          <units>milliseconds</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Within one week of completing 24 week intervention</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="26.54" spread="8.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Within one week of completing 48 Week Intervention</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="21.6" spread="9.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>.4</p_value>
+            <method>t-test, 2 sided</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Target Heart Rate Zone for Balance First Participants</title>
+        <description>Heart rate in aerobic target zone is measured in percentage of time in at least 50% of participants heart rate reserve.</description>
+        <time_frame>24 and 48 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Balance Training</title>
+            <description>Effects of Balance/Stretching training after 12-week intervention</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Target Heart Rate Zone for Balance First Participants</title>
+          <description>Heart rate in aerobic target zone is measured in percentage of time in at least 50% of participants heart rate reserve.</description>
+          <units>percentage of time</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="14"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Within one week of completing 24 week intervention</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="58.4" spread="34.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Within one week of completing 48 Week Intervention</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="88.5" spread="14.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>.05</p_value>
+            <method>t-test, 2 sided</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Target Heart Rate Zone After Aerobic Exercise First</title>
+        <description>Targeted Heart Rate Zone among participants compared among short term exercise groups</description>
+        <time_frame>24 and 48 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Exercise - Cycling</title>
+            <description>Short Term exercise - supervised: Supervised weekly exercise. 3 bouts of 45 minutes weekly on a cycle ergometer. HR will be kept at 75% of age-related maximum.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Target Heart Rate Zone After Aerobic Exercise First</title>
+          <description>Targeted Heart Rate Zone among participants compared among short term exercise groups</description>
+          <units>percentage of time</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="15"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Within one week of completing 24 week intervention</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="93.7" spread="10.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Within one week of completing 48 Week Intervention</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="70.6" spread="22.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>.25</p_value>
+            <method>t-test, 2 sided</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Heart Rate Workload After Home Based Intervention</title>
+        <description>Measured heart rate after home based intervention&#xD;
+Technical implementation at the facility level prevented acquisition of these metrics until late in the project.</description>
+        <time_frame>24 and 48 weeks</time_frame>
+        <population>Participants completing home based interventions compared to facility based interventions - measured in time in aerobic zone.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Exercise Interventions for Crossover Design</title>
+            <description>This study was a cross-over design with two groups to which participants were randomized. Group one received a 12-week Aerobic exercise intervention and then crossed over into a balance exercise intervention. Group two received the balance intervention for 12 weeks and then crossed over into the aerobic exercise intervention. All completing participants then engaged in a home based exercise program during which they were instructed to exercise thrice weekly over 24 weeks.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Heart Rate Workload After Home Based Intervention</title>
+          <description>Measured heart rate after home based intervention&#xD;
+Technical implementation at the facility level prevented acquisition of these metrics until late in the project.</description>
+          <population>Participants completing home based interventions compared to facility based interventions - measured in time in aerobic zone.</population>
+          <units>percentage of time</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="7"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Within one week of completing 24 week intervention</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="78" spread="18"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Within one week of completing 48 Week Intervention</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="48" spread="30"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>.01</p_value>
+            <method>t-test, 2 sided</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>60 month. Participants were assessed at baseline, after 12-weeks, after 24 weeks and after 48 weeks. Measurements at 12 weeks represent first intervention. Measurements at 24 weeks represent measure after cross-over into alternate intervention. All participants then went through a home-based exercise program, which is the 48 week assessment. Note: Participants may have withdrawn from the study prior to completing the home-based exercise program.</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Experimental Intervention: Aerobic Exercise First</title>
+          <description>Participants completed a 12-week interval aerobic cycling under supervised trainers three times per week for 20-45 minutes per session. After two to four week washout period, participants entered a second 12-week intervention involving light stretching and balance exercise under a supervised trainer three times per week for 20-45 minutes per session.&#xD;
+Participants later crossed over into the Balance condition and were assessed at 24 weeks.&#xD;
+After this time, participants completed a 24 week home based aerobic exercise program. This intervention was common to both groups and therefore are collapsed within this Arm.</description>
+        </group>
+        <group group_id="E2">
+          <title>Experimental Intervention: Balance Exercise First</title>
+          <description>Participants completed a 12-week light stretching and balance exercise program under a supervised trainer three times per week for 20-45 minutes per session.Participants completed an interval aerobic cycling under supervised trainer three times per week for 20-45 minutes per session. After two to four week washout period, participants completed a 12-week interval aerobic cycling under supervised trainers three times per week for 20-45 minutes per session.&#xD;
+Participants later crossed over into the Aerobic Exercise condition and were assessed at 24 weeks.&#xD;
+After this time, participants completed a 24 week home based aerobic exercise program. This intervention was common to both groups and therefore are collapsed within this Arm.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="17"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="16"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="17"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="17"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="16"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>Local procurement difficulties limited remote tracking of participants in 6-month home exercise arm of program. This caused lower-than-expected adherence and negatively affected long-term outcomes.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Dr. Keith McGregor</name_or_title>
+      <organization>Health Science Specialist</organization>
+      <phone>4043216111 ext 126792</phone>
+      <email>keith.mcgregor2@va.gov</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

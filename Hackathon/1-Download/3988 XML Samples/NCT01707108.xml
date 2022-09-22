@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2177">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01707108</url>
+  </required_header>
+  <id_info>
+    <org_study_id>0113-12-RMB CTIL</org_study_id>
+    <nct_id>NCT01707108</nct_id>
+  </id_info>
+  <brief_title>Survival and Success of MIS C1 Implants- a Field Study</brief_title>
+  <official_title>Survival and Success of MIS C1 Implants- a Field Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rambam Health Care Campus</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Rambam Health Care Campus</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of the present study is to evaluate the 1-year and 3-year survival and success of&#xD;
+      MIS® C1 implants with a length of 10-15mm.&#xD;
+&#xD;
+      Specific Aims&#xD;
+&#xD;
+        1. To study 1-year and 3-year implant survival rate C1 implants&#xD;
+&#xD;
+        2. To study 1-year and 3-year implant bone level changes of C1 implants&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      10 implants will be allocated to each of the twelve dentists, for a total of 120 implants.&#xD;
+      One test implant per patient will be allowed into the study for a total of 120 patients.&#xD;
+&#xD;
+      The following data will be collected for each patient/implant:&#xD;
+&#xD;
+        1. Patient data including birthdate, health, surgery date.&#xD;
+&#xD;
+        2. Implant length, diameter&#xD;
+&#xD;
+        3. Insertion torque&#xD;
+&#xD;
+        4. Periapical radiographs (at insertion, and twelve months post surgery).&#xD;
+&#xD;
+        5. Post operative complications and adverse events.&#xD;
+&#xD;
+        6. Periodontal data around Ramfjord teeth (16, 21, 24, 36, 41, 44) : Plaque index, Gingival&#xD;
+           Index, Probing depth in six sites and Bleeding on probing in six sites, at baseline and&#xD;
+           twelve months post surgery.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 28, 2013</start_date>
+  <completion_date type="Actual">October 1, 2018</completion_date>
+  <primary_completion_date type="Actual">October 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Survival Rate</measure>
+    <time_frame>1 year post implantation</time_frame>
+    <description>1 year survival rate</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>1 Year Implant Bone Level Changes</measure>
+    <time_frame>1 year post implantation</time_frame>
+    <description>bone change in millimeters after 1 year</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">120</enrollment>
+  <condition>Failure of Osseointegration of Dental Implant</condition>
+  <arm_group>
+    <arm_group_label>Dental Implants</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Rehabilitation of missing teeth with Dental Implant (MIS Technologies)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Dental Implant (MIS Technologies)</intervention_name>
+    <description>MIS Technologies Ltd. C1 Dental implants</description>
+    <arm_group_label>Dental Implants</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age between 18-75.&#xD;
+&#xD;
+          2. Patient expresses his wish to restore the missing tooth/teeth with implant therapy.&#xD;
+&#xD;
+          3. Partial edentulism with available bone height for dental implants ≥ 10mm mm.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Contraindicating medical conditions such as uncontrolled diabetes, untreated&#xD;
+             malignancies, pregnancy, previous/current bisphosphonate therapy.&#xD;
+&#xD;
+          2. Untreated periodontal disease, untreated caries, periapical pathology in contact with&#xD;
+             the location of the perspective implant.&#xD;
+&#xD;
+          3. Major bone augmentation in conjunction with implant placement. Localised bone&#xD;
+             augmentation in conjunction with implant placement, of up to 3 mm on 1-2 aspects of&#xD;
+             the implant will be allowed.&#xD;
+&#xD;
+          4. One stage immediate loading/restoration.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jacob Horwitz, DMD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Rambam Health Care Campus</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Rambam Health Care Campus</name>
+      <address>
+        <city>Haifa</city>
+        <zip>31096</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Israel</country>
+  </location_countries>
+  <verification_date>May 2021</verification_date>
+  <study_first_submitted>October 11, 2012</study_first_submitted>
+  <study_first_submitted_qc>October 15, 2012</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 16, 2012</study_first_posted>
+  <results_first_submitted>March 10, 2021</results_first_submitted>
+  <results_first_submitted_qc>May 19, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">June 15, 2021</results_first_posted>
+  <last_update_submitted>May 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>May 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 15, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>dental implants</keyword>
+  <keyword>bone loss</keyword>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>January 24, 2013</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/08/NCT01707108/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Dental Implants</title>
+          <description>Patients with missing teeth that are indicated for rehabilitation with Dental Implants (MIS Technologies) will be recruited. All the implants needed in the surgical area of the recruited patients will be allowed into the study&#xD;
+Dental Implant (MIS Technologies): MIS Technologies Ltd. C1 Dental implants</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="60"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>1 Year</title>
+              <participants_list>
+                <participants group_id="P1" count="60"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="60"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Dental Implants</title>
+          <description>Rehabilitation of missing teeth with Dental Implant (MIS Technologies)&#xD;
+Dental Implant (MIS Technologies): MIS Technologies Ltd. C1 Dental implants</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="60"/>
+          </count_list>
+        </analyzed>
+        <analyzed>
+          <units>implants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="117"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <units_analyzed>Participants</units_analyzed>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="B1" value="60"/>
+              </count_list>
+            </analyzed>
+            <analyzed>
+              <units>implants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="B1" value="117"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="47"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <units_analyzed>Participants</units_analyzed>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="B1" value="60"/>
+              </count_list>
+            </analyzed>
+            <analyzed>
+              <units>implants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="B1" value="117"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="32"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="28"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race and Ethnicity Not Collected</title>
+          <population>Race and Ethnicity were not collected from any participant.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <units_analyzed>Participants</units_analyzed>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="B1" value="0"/>
+              </count_list>
+            </analyzed>
+            <analyzed>
+              <units>implants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="B1" value="117"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <units_analyzed>Participants</units_analyzed>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="B1" value="60"/>
+              </count_list>
+            </analyzed>
+            <analyzed>
+              <units>implants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="B1" value="117"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Israel</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="60"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Survival Rate</title>
+        <description>1 year survival rate</description>
+        <time_frame>1 year post implantation</time_frame>
+        <population>Fifteen patients (25%) received 1 implant and 45 patients (75%) received 2 or more implants.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Dental Implants</title>
+            <description>Rehabilitation of missing teeth with Dental Implant (MIS Technologies)&#xD;
+Dental Implant (MIS Technologies): MIS Technologies Ltd. C1 Dental implants</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Survival Rate</title>
+          <description>1 year survival rate</description>
+          <population>Fifteen patients (25%) received 1 implant and 45 patients (75%) received 2 or more implants.</population>
+          <units>dental implants</units>
+          <param>Count of Units</param>
+          <units_analyzed>dental implants</units_analyzed>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="60"/>
+              </count_list>
+            </analyzed>
+            <analyzed>
+              <units>dental implants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="117"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="115"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>1 Year Implant Bone Level Changes</title>
+        <description>bone change in millimeters after 1 year</description>
+        <time_frame>1 year post implantation</time_frame>
+        <population>117 implants in 60 patients</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Dental Implants</title>
+            <description>Patients with missing teeth that are indicated for rehabilitation with Dental Implants (MIS Technologies) will be recruited. All the implants needed in the surgical area of the recruited patients will be allowed into the study&#xD;
+Dental Implant (MIS Technologies): MIS Technologies Ltd. C1 Dental implants</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>1 Year Implant Bone Level Changes</title>
+          <description>bone change in millimeters after 1 year</description>
+          <population>117 implants in 60 patients</population>
+          <units>millimeters</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <units_analyzed>dental implants</units_analyzed>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="60"/>
+              </count_list>
+            </analyzed>
+            <analyzed>
+              <units>dental implants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="117"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.54" spread="0.55"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>1 year</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Dental Implants</title>
+          <description>Rehabilitation of missing teeth with Dental Implant (MIS Technologies)&#xD;
+Dental Implant (MIS Technologies): MIS Technologies Ltd. C1 Dental implants</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="60"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="60"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="60"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Director of Trial</name_or_title>
+      <organization>Rambam Health Care Campus</organization>
+      <phone>+97247772983</phone>
+      <email>j_horwitz@rambam.health.gov.il</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

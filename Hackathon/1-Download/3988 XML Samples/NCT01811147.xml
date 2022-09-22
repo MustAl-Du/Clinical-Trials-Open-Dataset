@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2258">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01811147</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB 12-1279</org_study_id>
+    <nct_id>NCT01811147</nct_id>
+  </id_info>
+  <brief_title>Differentiating Unipolar and Bipolar Depression in Young Adults Using fMRI</brief_title>
+  <official_title>Differentiating Unipolar and Bipolar Depression in Young Adults Using fMRI</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The Cleveland Clinic</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>The Cleveland Clinic</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of the study is to find out what parts of the brain have increased or decreased&#xD;
+      activity and connectivity in individuals who have bipolar disorder, major depression, or no&#xD;
+      history of mood disorder. Another purpose of this study is to use MRI images to determine&#xD;
+      which young adults with major depression may be at greater risk for developing mild or more&#xD;
+      severe symptoms of mania which suggests a diagnosis of bipolar disorder.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study involves two phases, phase one includes the screening visit and MRI. The second&#xD;
+      phase, for depression participants, involves in person follow ups for up to two years. The&#xD;
+      second phase, for healthy and bipolar participants, involves phone follow ups, every three&#xD;
+      months for up to two years. The purpose of this study is listed above. We plan to enroll 200&#xD;
+      participants total.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>November 2011</start_date>
+  <completion_date type="Actual">June 2018</completion_date>
+  <primary_completion_date type="Actual">June 2018</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>HAM-D 17 Item: Hamilton Depression Rating Scale</measure>
+    <time_frame>24 months</time_frame>
+    <description>Hamilton depression rating scale (17-item HAM-D):&#xD;
+Scores can range from 0 to 52: No depression (0-7); Mild depression (8-16); Moderate depression (17-23); and Severe depression (≥24).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>YMRS: Young Mania Rating Scale</measure>
+    <time_frame>24 months</time_frame>
+    <description>Young Mania Rating Scale: Scores can range from 0 to 60: In Remission/No Mania (0-8); Mild (9-12); Moderate (13-18); Severe (19-25); Very Severe (&gt;25)</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">192</enrollment>
+  <condition>Bipolar Disorder</condition>
+  <condition>Major Depression</condition>
+  <arm_group>
+    <arm_group_label>High Risk Depression</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Interventions will include the prescribing of Selective serotonin reuptake inhibitor or Serotonin-norepinephrine reuptake inhibitor antidepressants, bupropion or other antidepressant.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Low Risk Depression</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Interventions will include the prescribing of Selective serotonin reuptake inhibitor or Serotonin-norepinephrine reuptake inhibitor antidepressants, bupropion or other antidepressant..</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>There is no intervention, but rather phone follow ups conducted as check ins to determine the continued eligibility of the healthy control participant.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Bipolar</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Bipolar participants are checked in with via phone conversations every three months, and have the opportunity to be scheduled for non-study visits to manage their symptoms.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Selective Serotonin Reuptake Inhibitor (SSRI)</intervention_name>
+    <description>Subjects with depression will be treated with a Selective Serotonin Reuptake Inhibitor (SSRI) or a Serotonin-norepinephrine reuptake inhibitor (SNRI) for 24 months.</description>
+    <arm_group_label>High Risk Depression</arm_group_label>
+    <arm_group_label>Low Risk Depression</arm_group_label>
+    <other_name>Serotonin-norepinephrine reuptake inhibitor</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        INCLUSION CRITERIA FOR BIPOLAR DEPRESSED PATIENTS:&#xD;
+&#xD;
+          1. Ages 15 - 30 years (inclusive) and able to give voluntary informed consent (parents&#xD;
+             must also sign consent for subjects under 18)&#xD;
+&#xD;
+          2. Satisfy criteria for Diagnostic and Statistical Manual 4th edition (DSM-IV-TR) for&#xD;
+             Bipolar I or II disorder&#xD;
+&#xD;
+          3. Satisfy criteria for DSM-IV depressive episode-current&#xD;
+&#xD;
+          4. 17-item Hamilton Depression Rating Scale &gt; 15 but &lt; 25;&#xD;
+&#xD;
+          5. Young Mania Rating Scale score &lt; 10&#xD;
+&#xD;
+          6. Satisfy criteria to undergo an MRI scan based on MRI screening questionnaire.&#xD;
+&#xD;
+          7. Able to be managed as outpatients during the study as ascertained by the following -&#xD;
+             i. Clinical Global Severity Scale &lt; 5 i.e. moderately ill; ii. No significant suicidal&#xD;
+             or homicidal ideation or grossly disabled.&#xD;
+&#xD;
+        INCLUSION CRITERIA FOR ALL UNIPOLAR DEPRESSED PATIENTS:&#xD;
+&#xD;
+          1. Ages 15 - 30 years and able to give voluntary informed consent (Parental consent must&#xD;
+             also be obtained for those under 18 years old).&#xD;
+&#xD;
+          2. Satisfy criteria for DSM-IV-TR Major Depressive Episode using a Structured Interview&#xD;
+&#xD;
+          3. Never met criteria for mania or hypomania&#xD;
+&#xD;
+          4. 17-item Hamilton Depression Rating Scale score (HDRS) &gt; 15 and &lt; 25.&#xD;
+&#xD;
+          5. Young Mania Rating Scale (YMRS) score &lt; 10&#xD;
+&#xD;
+          6. Satisfy safety criteria to undergo an MRI scan&#xD;
+&#xD;
+          7. Able to be managed as outpatients during the study as ascertained by the following -&#xD;
+             i. Clinical Global Severity Scale &lt; 5 i.e. moderately ill; ii. No significant suicidal&#xD;
+             or homicidal ideation or grossly disabled&#xD;
+&#xD;
+        ADDITIONAL INCLUSION CRITERIA FOR HIGH RISK UD (HRUD) PATIENTS BESIDE THE INCLUSION&#xD;
+        CRITERIA FOR UD:&#xD;
+&#xD;
+        At least one of the following:&#xD;
+&#xD;
+          1. Family history of bipolar disorder in at least one first degree relative&#xD;
+&#xD;
+          2. History of any sub-threshold hypomania symptoms&#xD;
+&#xD;
+          3. History of mood episode related psychotic symptoms&#xD;
+&#xD;
+        ADDITIONAL INCLUSION CRITERIA FOR LOW RISK UD (HRUD) PATIENTS BESIDE THE INCLUSION CRITERIA&#xD;
+        FOR UD:&#xD;
+&#xD;
+          1. No family history of BD in a first or a second degree relative&#xD;
+&#xD;
+          2. No past history of any sub-threshold hypomania symptoms&#xD;
+&#xD;
+          3. No history of psychotic symptoms&#xD;
+&#xD;
+        EXCLUSION CRITERIA FOR DEPRESSION AND BIPOLAR SUBJECTS:&#xD;
+&#xD;
+          1. Meeting DSM-IV criteria for schizophrenia, schizophreniform disorder, schizoaffective&#xD;
+             disorder, mental retardation, pervasive developmental disorder.&#xD;
+&#xD;
+          2. History of receiving electroconvulsive therapy in the past 1 year&#xD;
+&#xD;
+          3. Use of neuroleptics, mood stabilizers or benzodiazepines in the past 2 weeks.&#xD;
+&#xD;
+          4. Use of antidepressants in the past 2 weeks.&#xD;
+&#xD;
+          5. If on fluoxetine in the past, then should not have been on this medication for 5&#xD;
+             weeks.&#xD;
+&#xD;
+          6. Acutely suicidal or homicidal or requiring inpatient treatment.&#xD;
+&#xD;
+          7. Meeting DSM-IV criteria for other substance/alcohol dependence within the past 6&#xD;
+             months or abuse in the past 3 months, excluding caffeine or nicotine. The criteria&#xD;
+             will be evaluated by interview and urinary toxicology screening. The use of caffeine&#xD;
+             or nicotine will be recorded.&#xD;
+&#xD;
+          8. Use of alcohol in the past 1 week before the MRI scan.&#xD;
+&#xD;
+          9. No serious acute or chronic medical or neurological illness, including previously&#xD;
+             known HIV positive status (due to possible CNS involvement) as assessed by history,&#xD;
+             physical examination and laboratory examination including EKG, CBC and blood&#xD;
+             chemistry.&#xD;
+&#xD;
+         10. Current pregnancy or breast feeding.&#xD;
+&#xD;
+         11. Metallic implants or other contraindication to MRI.&#xD;
+&#xD;
+        INCLUSION CRITERIA FOR HEALTHY CONTROLS: Healthy subjects matched for age, gender and&#xD;
+        ethnicity will be included&#xD;
+&#xD;
+          1. Ages 15 - 30 years (inclusive) and able to give voluntary informed consent (Parental&#xD;
+             consent must also be obtained for those under 18 years old)&#xD;
+&#xD;
+          2. No current or past history of psychiatric illness or substance abuse or dependence.&#xD;
+&#xD;
+          3. No current or past history of psychiatric illness or substance abuse or dependence in&#xD;
+             a first degree relative.&#xD;
+&#xD;
+        EXCLUSION CRITERIA FOR HEALTHY CONTROLS:&#xD;
+&#xD;
+          1. Pregnant or breast feeding.&#xD;
+&#xD;
+          2. Metallic implants or other contraindication to MRI.&#xD;
+&#xD;
+          3. Significant family history of psychiatric or neurological illness.&#xD;
+&#xD;
+          4. Currently taking any prescription or centrally acting medications.&#xD;
+&#xD;
+          5. Serious acute or chronic medical or neurological illness as assessed by history,&#xD;
+             physical examination and laboratory examination including CBC and blood chemistry.&#xD;
+&#xD;
+          6. Use of alcohol in the past 1 week and not being able to avoid alcohol use during the&#xD;
+             course of the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>15 Years</minimum_age>
+    <maximum_age>30 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Amit Anand, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The Cleveland Clinic</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Cleveland Clinic Foundation Center for Behavioral Health</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2019</verification_date>
+  <study_first_submitted>December 12, 2011</study_first_submitted>
+  <study_first_submitted_qc>March 12, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">March 14, 2013</study_first_posted>
+  <results_first_submitted>August 29, 2019</results_first_submitted>
+  <results_first_submitted_qc>November 26, 2019</results_first_submitted_qc>
+  <results_first_posted type="Actual">December 2, 2019</results_first_posted>
+  <last_update_submitted>November 26, 2019</last_update_submitted>
+  <last_update_submitted_qc>November 26, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 2, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Bipolar</keyword>
+  <keyword>Depression</keyword>
+  <keyword>Mania</keyword>
+  <keyword>Hypomania</keyword>
+  <keyword>fMRI</keyword>
+  <keyword>antidepressant</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Depressive Disorder</mesh_term>
+    <mesh_term>Bipolar Disorder</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Norepinephrine</mesh_term>
+    <mesh_term>Serotonin</mesh_term>
+    <mesh_term>Serotonin Uptake Inhibitors</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol: Image Acquisition - CCF</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>July 28, 2014</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/47/NCT01811147/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan: Full Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>July 28, 2014</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/47/NCT01811147/Prot_SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>After enrollment 3 subject were excluded form the study since it was later discovered that they did not meet the criteria.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>High Risk Depression</title>
+          <description>Interventions will include the prescribing of Selective serotonin reuptake inhibitor or Serotonin-norepinephrine reuptake inhibitor antidepressants, bupropion or other antidepressant.&#xD;
+Selective Serotonin Reuptake Inhibitor (SSRI): Subjects with depression will be treated with a Selective Serotonin Reuptake Inhibitor (SSRI) or a Serotonin-norepinephrine reuptake inhibitor (SNRI) for 24 months.</description>
+        </group>
+        <group group_id="P2">
+          <title>Low Risk Depression</title>
+          <description>Interventions will include the prescribing of Selective serotonin reuptake inhibitor or Serotonin-norepinephrine reuptake inhibitor antidepressants, bupropion or other antidepressant..&#xD;
+Selective Serotonin Reuptake Inhibitor (SSRI): Subjects with depression will be treated with a Selective Serotonin Reuptake Inhibitor (SSRI) or a Serotonin-norepinephrine reuptake inhibitor (SNRI) for 24 months.</description>
+        </group>
+        <group group_id="P3">
+          <title>Healthy Control</title>
+          <description>There is no intervention, but rather phone follow ups conducted as check ins to determine the continued eligibility of the healthy control participant.</description>
+        </group>
+        <group group_id="P4">
+          <title>Bipolar</title>
+          <description>Bipolar participants are checked in with via phone conversations every three months, and have the opportunity to be scheduled for non-study visits to manage their symptoms.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="51"/>
+                <participants group_id="P2" count="56"/>
+                <participants group_id="P3" count="49"/>
+                <participants group_id="P4" count="33"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="15"/>
+                <participants group_id="P2" count="11"/>
+                <participants group_id="P3" count="6"/>
+                <participants group_id="P4" count="4"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="36"/>
+                <participants group_id="P2" count="45"/>
+                <participants group_id="P3" count="43"/>
+                <participants group_id="P4" count="29"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>High Risk Depression</title>
+          <description>Interventions will include the prescribing of Selective serotonin reuptake inhibitor or Serotonin-norepinephrine reuptake inhibitor antidepressants, bupropion or other antidepressant.&#xD;
+Selective Serotonin Reuptake Inhibitor (SSRI): Subjects with depression will be treated with a Selective Serotonin Reuptake Inhibitor (SSRI) or a Serotonin-norepinephrine reuptake inhibitor (SNRI) for 24 months.</description>
+        </group>
+        <group group_id="B2">
+          <title>Low Risk Depression</title>
+          <description>Interventions will include the prescribing of Selective serotonin reuptake inhibitor or Serotonin-norepinephrine reuptake inhibitor antidepressants, bupropion or other antidepressant..&#xD;
+Selective Serotonin Reuptake Inhibitor (SSRI): Subjects with depression will be treated with a Selective Serotonin Reuptake Inhibitor (SSRI) or a Serotonin-norepinephrine reuptake inhibitor (SNRI) for 24 months.</description>
+        </group>
+        <group group_id="B3">
+          <title>Healthy Control</title>
+          <description>There is no intervention, but rather phone follow ups conducted as check ins to determine the continued eligibility of the healthy control participant.</description>
+        </group>
+        <group group_id="B4">
+          <title>Bipolar</title>
+          <description>Bipolar participants are checked in with via phone conversations every three months, and have the opportunity to be scheduled for non-study visits to manage their symptoms.</description>
+        </group>
+        <group group_id="B5">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="51"/>
+            <count group_id="B2" value="56"/>
+            <count group_id="B3" value="49"/>
+            <count group_id="B4" value="33"/>
+            <count group_id="B5" value="189"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="22.67" spread="3.433"/>
+                    <measurement group_id="B2" value="25.27" spread="3.661"/>
+                    <measurement group_id="B3" value="24.24" spread="3.339"/>
+                    <measurement group_id="B4" value="23.52" spread="3.784"/>
+                    <measurement group_id="B5" value="23.99" spread="3.655"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="40"/>
+                    <measurement group_id="B2" value="38"/>
+                    <measurement group_id="B3" value="28"/>
+                    <measurement group_id="B4" value="22"/>
+                    <measurement group_id="B5" value="128"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="18"/>
+                    <measurement group_id="B3" value="21"/>
+                    <measurement group_id="B4" value="11"/>
+                    <measurement group_id="B5" value="61"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Caucasian</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="37"/>
+                    <measurement group_id="B2" value="50"/>
+                    <measurement group_id="B3" value="37"/>
+                    <measurement group_id="B4" value="26"/>
+                    <measurement group_id="B5" value="150"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>African American</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="4"/>
+                    <measurement group_id="B4" value="7"/>
+                    <measurement group_id="B5" value="30"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Asian</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="8"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="51"/>
+                    <measurement group_id="B2" value="56"/>
+                    <measurement group_id="B3" value="49"/>
+                    <measurement group_id="B4" value="33"/>
+                    <measurement group_id="B5" value="189"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>HAM-D 17 Item: Hamilton Depression Rating Scale</title>
+        <description>Hamilton depression rating scale (17-item HAM-D):&#xD;
+Scores can range from 0 to 52: No depression (0-7); Mild depression (8-16); Moderate depression (17-23); and Severe depression (≥24).</description>
+        <time_frame>24 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>High Risk Depression</title>
+            <description>Interventions will include the prescribing of Selective serotonin reuptake inhibitor or Serotonin-norepinephrine reuptake inhibitor antidepressants, bupropion or other antidepressant.&#xD;
+Selective Serotonin Reuptake Inhibitor (SSRI): Subjects with depression will be treated with a Selective Serotonin Reuptake Inhibitor (SSRI) or a Serotonin-norepinephrine reuptake inhibitor (SNRI) for 24 months.</description>
+          </group>
+          <group group_id="O2">
+            <title>Low Risk Depression</title>
+            <description>Interventions will include the prescribing of Selective serotonin reuptake inhibitor or Serotonin-norepinephrine reuptake inhibitor antidepressants, bupropion or other antidepressant..&#xD;
+Selective Serotonin Reuptake Inhibitor (SSRI): Subjects with depression will be treated with a Selective Serotonin Reuptake Inhibitor (SSRI) or a Serotonin-norepinephrine reuptake inhibitor (SNRI) for 24 months.</description>
+          </group>
+          <group group_id="O3">
+            <title>Healthy Control</title>
+            <description>There is no intervention, but rather phone follow ups conducted as check ins to determine the continued eligibility of the healthy control participant.</description>
+          </group>
+          <group group_id="O4">
+            <title>Bipolar</title>
+            <description>Bipolar participants are checked in with via phone conversations every three months, and have the opportunity to be scheduled for non-study visits to manage their symptoms.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>HAM-D 17 Item: Hamilton Depression Rating Scale</title>
+          <description>Hamilton depression rating scale (17-item HAM-D):&#xD;
+Scores can range from 0 to 52: No depression (0-7); Mild depression (8-16); Moderate depression (17-23); and Severe depression (≥24).</description>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="15"/>
+                <count group_id="O2" value="11"/>
+                <count group_id="O3" value="6"/>
+                <count group_id="O4" value="4"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.6" spread="6.62"/>
+                    <measurement group_id="O2" value="4.91" spread="4.11"/>
+                    <measurement group_id="O3" value="2.333" spread="2.732"/>
+                    <measurement group_id="O4" value="3.75" spread="4.992"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>YMRS: Young Mania Rating Scale</title>
+        <description>Young Mania Rating Scale: Scores can range from 0 to 60: In Remission/No Mania (0-8); Mild (9-12); Moderate (13-18); Severe (19-25); Very Severe (&gt;25)</description>
+        <time_frame>24 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>High Risk Depression</title>
+            <description>Interventions will include the prescribing of Selective serotonin reuptake inhibitor or Serotonin-norepinephrine reuptake inhibitor antidepressants, bupropion or other antidepressant.&#xD;
+Selective Serotonin Reuptake Inhibitor (SSRI): Subjects with depression will be treated with a Selective Serotonin Reuptake Inhibitor (SSRI) or a Serotonin-norepinephrine reuptake inhibitor (SNRI) for 24 months.</description>
+          </group>
+          <group group_id="O2">
+            <title>Low Risk Depression</title>
+            <description>Interventions will include the prescribing of Selective serotonin reuptake inhibitor or Serotonin-norepinephrine reuptake inhibitor antidepressants, bupropion or other antidepressant..&#xD;
+Selective Serotonin Reuptake Inhibitor (SSRI): Subjects with depression will be treated with a Selective Serotonin Reuptake Inhibitor (SSRI) or a Serotonin-norepinephrine reuptake inhibitor (SNRI) for 24 months.</description>
+          </group>
+          <group group_id="O3">
+            <title>Healthy Control</title>
+            <description>There is no intervention, but rather phone follow ups conducted as check ins to determine the continued eligibility of the healthy control participant.</description>
+          </group>
+          <group group_id="O4">
+            <title>Bipolar</title>
+            <description>Bipolar participants are checked in with via phone conversations every three months, and have the opportunity to be scheduled for non-study visits to manage their symptoms.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>YMRS: Young Mania Rating Scale</title>
+          <description>Young Mania Rating Scale: Scores can range from 0 to 60: In Remission/No Mania (0-8); Mild (9-12); Moderate (13-18); Severe (19-25); Very Severe (&gt;25)</description>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="15"/>
+                <count group_id="O2" value="11"/>
+                <count group_id="O3" value="6"/>
+                <count group_id="O4" value="4"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.2" spread="0.561"/>
+                    <measurement group_id="O2" value="0" spread="0"/>
+                    <measurement group_id="O3" value="0" spread="0"/>
+                    <measurement group_id="O4" value="1.75" spread="3.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>24 months</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>High Risk Depression</title>
+          <description>Interventions will include the prescribing of Selective serotonin reuptake inhibitor or Serotonin-norepinephrine reuptake inhibitor antidepressants, bupropion or other antidepressant.&#xD;
+Selective Serotonin Reuptake Inhibitor (SSRI): Subjects with depression will be treated with a Selective Serotonin Reuptake Inhibitor (SSRI) or a Serotonin-norepinephrine reuptake inhibitor (SNRI) for 24 months.</description>
+        </group>
+        <group group_id="E2">
+          <title>Low Risk Depression</title>
+          <description>Interventions will include the prescribing of Selective serotonin reuptake inhibitor or Serotonin-norepinephrine reuptake inhibitor antidepressants, bupropion or other antidepressant..&#xD;
+Selective Serotonin Reuptake Inhibitor (SSRI): Subjects with depression will be treated with a Selective Serotonin Reuptake Inhibitor (SSRI) or a Serotonin-norepinephrine reuptake inhibitor (SNRI) for 24 months.</description>
+        </group>
+        <group group_id="E3">
+          <title>Healthy Control</title>
+          <description>There is no intervention, but rather phone follow ups conducted as check ins to determine the continued eligibility of the healthy control participant.</description>
+        </group>
+        <group group_id="E4">
+          <title>Bipolar</title>
+          <description>Bipolar participants are checked in with via phone conversations every three months, and have the opportunity to be scheduled for non-study visits to manage their symptoms.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="56"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="49"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="33"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="51"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="56"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="49"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Sucidial Ideation</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="51"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="56"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="49"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="33"/>
+              </event>
+              <event>
+                <sub_title>Hospitalization</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="51"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="56"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="49"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="33"/>
+              </event>
+              <event>
+                <sub_title>Suicide Attempt</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="51"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="56"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="49"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="51"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="56"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="49"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Pregnancy, puerperium and perinatal conditions</title>
+            <event_list>
+              <event>
+                <sub_title>Pregnancy</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="51"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="56"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="49"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Substance Abuse Treatment</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="56"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="49"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Social circumstances</title>
+            <event_list>
+              <event>
+                <sub_title>Visit to Emergency Room</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="51"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="56"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="49"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Amit Anand</name_or_title>
+      <organization>Cleveland Clinic Foundation</organization>
+      <phone>216-636-2840</phone>
+      <email>ananda@ccf.org</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

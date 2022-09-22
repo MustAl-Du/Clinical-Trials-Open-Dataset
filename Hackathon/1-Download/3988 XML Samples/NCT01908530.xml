@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2132">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01908530</url>
+  </required_header>
+  <id_info>
+    <org_study_id>13SM0639</org_study_id>
+    <nct_id>NCT01908530</nct_id>
+  </id_info>
+  <brief_title>Clinical Assessment of a Novel Microprobe Array Continuous Glucose Monitor for Type 1 Diabetes</brief_title>
+  <official_title>Clinical Assessment of a Novel Microprobe Array Continuous Glucose Monitor for Type 1 Diabetes</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Imperial College London</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Imperial College London</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of the study is to assess the safety and efficacy of the Imperial College&#xD;
+      Microprobe Array Continuous Glucose Sensor in healthy volunteers and in subjects with type 1&#xD;
+      diabetes.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Continuous knowledge of ambient glucose levels will be of benefit to patients with T1DM,&#xD;
+      especially those with troublesome hypoglycaemia. Existing monitors require skin puncture to&#xD;
+      access interstitial fluid and sense its glucose content. Despite their clinical benefits,&#xD;
+      their use is associated with discomfort and their accuracy is questionable in hypoglycaemia.&#xD;
+      The development of a painless continuous glucose monitor is regarded as the top research&#xD;
+      priority by patients with diabetes. A novel continuous glucose monitoring device has been&#xD;
+      developed at Imperial College based on microprobe technology. It consists of a small,&#xD;
+      wearable patch (~1 cm2), the size of a conventional postage stamp, containing microscopic&#xD;
+      projections (microprobes) that penetrate only the outermost skin layer. It accesses&#xD;
+      interstitial fluid to sense its glucose content without stimulating skin nerve fibres or&#xD;
+      reaching blood vessels within skin layers. The microprobe surface has the consistency of&#xD;
+      sandpaper. It is pushed into the skin with an applicator allowing it to penetrate through the&#xD;
+      skin layers and access the interstitial fluid in a minimally invasive manner. The device is&#xD;
+      disposable and optimum performance will be assessed over five days. The advantages of&#xD;
+      microprobe technology have been demonstrated in other clinical situations and include&#xD;
+      painless insertion, absence of bleeding and a low infection risk. The large surface area&#xD;
+      utilised in our microprobe device has the potential to improve device sensitivity and&#xD;
+      accuracy. Pre-clinical validation tests have demonstrated the ability of the device to&#xD;
+      respond accurately to variable glucose concentrations and to penetrate the outermost skin&#xD;
+      layer without fracture. We aim now to further develop the device through clinical studies in&#xD;
+      non-diabetic subjects and subjects with type 1 diabetes to allow painless accurate continuous&#xD;
+      glucose monitoring.&#xD;
+&#xD;
+      The study will recruit 16 non-diabetic subjects and 20 subjects with type 1 diabetes.&#xD;
+&#xD;
+      It will be conducted over four phases;&#xD;
+&#xD;
+      oPhase 1 will assess safety, as a primary outcome, and efficacy, as a secondary outcome, in&#xD;
+      non-diabetic subjects over six hours in the clinical research facility where the device will&#xD;
+      be fitted and a cannula inserted for venous sampling every 15 minutes to measure venous blood&#xD;
+      glucose (YSI). Safety will be assessed with regards to skin inflammation and pain. Efficacy&#xD;
+      will be assessed in this phase by assessing magnitude of current measured by the microprobe&#xD;
+      array sensor and comparison of measured ISF glucose concentrations to simultaneous venous&#xD;
+      blood glucose samples (YSI).&#xD;
+&#xD;
+      oPhase 2 will also assess safety, as a primary outcome, and efficacy, as a secondary outcome,&#xD;
+      in non-diabetic subjects over a period of 24 hours. The first six hours in the clinical&#xD;
+      research facility (same as phase 1), then subject will be allowed to go home with the device&#xD;
+      to assess safety over that period.&#xD;
+&#xD;
+      oPhase 3 aims to assess efficacy of the device as a primary outcome and safety as a secondary&#xD;
+      outcome. This will be in subjects with type 1 diabetes over 24 hours as inpatients. Efficacy&#xD;
+      will be assessed mechanically (by the ability to penetrate the stratum corneum) and&#xD;
+      functionally (by the ability to accurately sense ISF glucose). The derived ISF glucose levels&#xD;
+      will be compared with simultaneous venous glucose samples (YSI) and with a commercially&#xD;
+      available CGM device (iPro2, Medtronic). Assessment of microprobe penetration of the stratum&#xD;
+      corneum will be performed using confocal microscopy, optical coherence tomography and in skin&#xD;
+      biopsies.&#xD;
+&#xD;
+      oPhase 4 aims to assess efficacy of the device as a primary outcome and safety as a secondary&#xD;
+      outcome. This will be in subjects with type 1 diabetes over 5 days in ambulatory situation.&#xD;
+      Efficacy will be assessed by comparing microprobe sensor derived ISF glucose levels against&#xD;
+      ISF glucose levels measured using a commercially available CGM device (iPro2, Medtronic).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>November 2013</start_date>
+  <completion_date type="Actual">June 2018</completion_date>
+  <primary_completion_date type="Actual">June 2017</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participant Developed the Skin Inflammation</measure>
+    <time_frame>24 hours</time_frame>
+    <description>The study aims to assess safety of the use of microprobe array continuous glucose sensor with regards to skin inflammation.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Difference to the Venous Blood Glucose MARD</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Phase 3 of the study aim to assess efficacy of the device in people with type 1 diabetes. This will be done in comparison to venous blood glucose using YSI machine in a controlled environment over 24 hours (phase 3). it was originally planned to then compare this to ISF glucose in ambulatory situation over five days (phase 4) however phase 4 did not go ahead. Measured using mean absolute relative difference with respect to venous blood glucose</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pain Score</measure>
+    <time_frame>24 hours</time_frame>
+    <description>The study aims to assess safety of the device with regards to pain degree in comparison to venflon insertion and insertion of an existing continuous glucose monitor (Medtronic iPro2 CGM system, Northridge, California). This will be done at each phase of the four study phases.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participant Developed Skin Penetration</measure>
+    <time_frame>24 hours</time_frame>
+    <description>This done using Optical Coherence Tomography and Confocal Microscopy. Measure = variation in penetration depth of microprobe needles over 24 hours</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Detectable Signal</measure>
+    <time_frame>24 hours</time_frame>
+    <description>This is a secondary outcome for phases 1 &amp; 2.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation With Venous Blood Glucose</measure>
+    <time_frame>24 hours</time_frame>
+    <description>This is a secondary outcome for phases 1 and 2. It is a primary outcome for phase 3. Using MARD.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acceptability Questionnaire</measure>
+    <time_frame>24 hours</time_frame>
+    <description>This is a secondary outcome for phases 3 and 4.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">26</enrollment>
+  <condition>Diabetes Mellitus</condition>
+  <arm_group>
+    <arm_group_label>Microprobe Glucose Sensor Phase 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The microprobe array continuous glucose sensor will be applied to healthy volunteers for 6 hours</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Microprobe Glucose Sensor Phase 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The microprobe array continuous glucose sensor will be applied to healthy volunteers for 24 hours</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Microprobe Glucose Sensor Phase 3 and 4</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The microprobe array continuous glucose sensor will be applied to participants with type 1 diabetes</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Microprobe glucose sensor</intervention_name>
+    <description>Assessment of safety and accuracy of a novel continuous glucose monitor based on microprobe technology.</description>
+    <arm_group_label>Microprobe Glucose Sensor Phase 1</arm_group_label>
+    <arm_group_label>Microprobe Glucose Sensor Phase 2</arm_group_label>
+    <arm_group_label>Microprobe Glucose Sensor Phase 3 and 4</arm_group_label>
+    <other_name>Microprobe Array Continuous Glucose Monitor</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        For phases 1 and 2:&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+        • Adults over 18 years of age&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of upper limb neuropathy or radiculopathy&#xD;
+&#xD;
+          -  History of pre-existing skin condition&#xD;
+&#xD;
+          -  Pregnant or planning pregnancy in next 12 months&#xD;
+&#xD;
+          -  Breastfeeding&#xD;
+&#xD;
+          -  Enrolled in other clinical trials&#xD;
+&#xD;
+          -  uncontrolled concurrent illness&#xD;
+&#xD;
+          -  Have active malignancy or under investigation for malignancy&#xD;
+&#xD;
+        For phases 3 and 4:&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adults over 18 years of age.&#xD;
+&#xD;
+          -  Diagnosed with Type 1 diabetes for greater than 1 year.&#xD;
+&#xD;
+          -  HbA1c less than or equal to 9.0 % (75 mmol/mol).&#xD;
+&#xD;
+          -  Registered with a General Practitioner.&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          -  History of diabetic dermopathy or pre-existing skin condition&#xD;
+&#xD;
+          -  History of upper limb neuropathy or radiculopathy&#xD;
+&#xD;
+          -  Pregnant or planning pregnancy in next 12 months&#xD;
+&#xD;
+          -  Breastfeeding&#xD;
+&#xD;
+          -  Enrolled in other clinical trials&#xD;
+&#xD;
+          -  uncontrolled concurrent illness&#xD;
+&#xD;
+          -  physical or visual impairment preventing sensor's use&#xD;
+&#xD;
+          -  Have active malignancy or under investigation for malignancy&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Desmond Johnston, PhD, FRCP</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Professor of Diabetes &amp; Endocrinology - Imperial College London</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Imperial College London</name>
+      <address>
+        <city>London</city>
+        <zip>W2 1PG</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <reference>
+    <citation>El-Laboudi A, Oliver NS, Cass A, Johnston D. Use of microneedle array devices for continuous glucose monitoring: a review. Diabetes Technol Ther. 2013 Jan;15(1):101-15. doi: 10.1089/dia.2012.0188. Epub 2012 Dec 12. Review.</citation>
+    <PMID>23234256</PMID>
+  </reference>
+  <reference>
+    <citation>Pickup JC, Freeman SC, Sutton AJ. Glycaemic control in type 1 diabetes during real time continuous glucose monitoring compared with self monitoring of blood glucose: meta-analysis of randomised controlled trials using individual patient data. BMJ. 2011 Jul 7;343:d3805. doi: 10.1136/bmj.d3805.</citation>
+    <PMID>21737469</PMID>
+  </reference>
+  <reference>
+    <citation>Battelino T, Phillip M, Bratina N, Nimri R, Oskarsson P, Bolinder J. Effect of continuous glucose monitoring on hypoglycemia in type 1 diabetes. Diabetes Care. 2011 Apr;34(4):795-800. doi: 10.2337/dc10-1989. Epub 2011 Feb 19.</citation>
+    <PMID>21335621</PMID>
+  </reference>
+  <reference>
+    <citation>Khanna P, Strom JA, Malone JI, Bhansali S. Microneedle-based automated therapy for diabetes mellitus. J Diabetes Sci Technol. 2008 Nov;2(6):1122-9.</citation>
+    <PMID>19885301</PMID>
+  </reference>
+  <reference>
+    <citation>Juvenile Diabetes Research Foundation Continuous Glucose Monitoring Study Group, Tamborlane WV, Beck RW, Bode BW, Buckingham B, Chase HP, Clemons R, Fiallo-Scharer R, Fox LA, Gilliam LK, Hirsch IB, Huang ES, Kollman C, Kowalski AJ, Laffel L, Lawrence JM, Lee J, Mauras N, O'Grady M, Ruedy KJ, Tansey M, Tsalikian E, Weinzimer S, Wilson DM, Wolpert H, Wysocki T, Xing D. Continuous glucose monitoring and intensive treatment of type 1 diabetes. N Engl J Med. 2008 Oct 2;359(14):1464-76. doi: 10.1056/NEJMoa0805017. Epub 2008 Sep 8.</citation>
+    <PMID>18779236</PMID>
+  </reference>
+  <verification_date>October 2019</verification_date>
+  <study_first_submitted>July 23, 2013</study_first_submitted>
+  <study_first_submitted_qc>July 23, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">July 25, 2013</study_first_posted>
+  <results_first_submitted>June 24, 2019</results_first_submitted>
+  <results_first_submitted_qc>October 31, 2019</results_first_submitted_qc>
+  <results_first_posted type="Actual">November 20, 2019</results_first_posted>
+  <last_update_submitted>October 31, 2019</last_update_submitted>
+  <last_update_submitted_qc>October 31, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 20, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Diabetes</keyword>
+  <keyword>Continuous Glucose Monitoring</keyword>
+  <keyword>Microprobes</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>November 5, 2015</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/30/NCT01908530/Prot_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>Phase 4 did not go ahead</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Microprobe Glucose Sensor Phase 1</title>
+          <description>The microprobe array continuous glucose sensor applied to healthy volunteers for 6h</description>
+        </group>
+        <group group_id="P2">
+          <title>Microprobe Glucose Sensor Phase 2</title>
+          <description>The microprobe array continuous glucose sensor applied to healthy volunteers for 24 h</description>
+        </group>
+        <group group_id="P3">
+          <title>Microprobe Glucose Sensor Phase 3</title>
+          <description>The microprobe array continuous glucose sensor applied to participants with type 1 diabetes</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="8"/>
+                <participants group_id="P2" count="8"/>
+                <participants group_id="P3" count="10"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="8"/>
+                <participants group_id="P2" count="8"/>
+                <participants group_id="P3" count="10"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Microprobe Glucose Sensor Phase 1</title>
+          <description>The microprobe array continuous glucose sensor applied to healthy volunteers for 6 h</description>
+        </group>
+        <group group_id="B2">
+          <title>Microprobe Glucose Sensor Phase 2</title>
+          <description>The microprobe array continuous glucose sensor will be applied to healthy volunteers for 24 h</description>
+        </group>
+        <group group_id="B3">
+          <title>Microprobe Glucose Sensor Phase 3</title>
+          <description>The microprobe array continuous glucose sensor applied to participants with type 1 diabetes</description>
+        </group>
+        <group group_id="B4">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="8"/>
+            <count group_id="B2" value="8"/>
+            <count group_id="B3" value="10"/>
+            <count group_id="B4" value="26"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="34.6" spread="6.9"/>
+                    <measurement group_id="B2" value="34.6" spread="6.9"/>
+                    <measurement group_id="B3" value="38" spread="16"/>
+                    <measurement group_id="B4" value="35.73" spread="9.93"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="5"/>
+                    <measurement group_id="B4" value="13"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="5"/>
+                    <measurement group_id="B4" value="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Race</title>
+              <category_list>
+                <category>
+                  <title>Caucasian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="9"/>
+                    <measurement group_id="B4" value="15"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>European</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Mixed Race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Other</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participant Developed the Skin Inflammation</title>
+        <description>The study aims to assess safety of the use of microprobe array continuous glucose sensor with regards to skin inflammation.</description>
+        <time_frame>24 hours</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Microprobe Glucose Sensor Phase 1</title>
+            <description>The microprobe array continuous glucose sensor applied to healthy volunteers for 6 h</description>
+          </group>
+          <group group_id="O2">
+            <title>Microprobe Glucose Sensor Phase 2</title>
+            <description>The microprobe array continuous glucose sensor applied to healthy volunteers for 24 h</description>
+          </group>
+          <group group_id="O3">
+            <title>Microprobe Glucose Sensor Phase 3</title>
+            <description>The microprobe array continuous glucose sensor applied to participants with type 1 diabetes</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participant Developed the Skin Inflammation</title>
+          <description>The study aims to assess safety of the use of microprobe array continuous glucose sensor with regards to skin inflammation.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="8"/>
+                <count group_id="O2" value="8"/>
+                <count group_id="O3" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Difference to the Venous Blood Glucose MARD</title>
+        <description>Phase 3 of the study aim to assess efficacy of the device in people with type 1 diabetes. This will be done in comparison to venous blood glucose using YSI machine in a controlled environment over 24 hours (phase 3). it was originally planned to then compare this to ISF glucose in ambulatory situation over five days (phase 4) however phase 4 did not go ahead. Measured using mean absolute relative difference with respect to venous blood glucose</description>
+        <time_frame>24 hours</time_frame>
+        <population>Only for Phase 3 arm</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Microprobe Glucose Sensor Phase 1</title>
+            <description>The microprobe array continuous glucose sensor applied to healthy volunteers for 6h</description>
+          </group>
+          <group group_id="O2">
+            <title>Microprobe Glucose Sensor Phase 2</title>
+            <description>The microprobe array continuous glucose sensor applied to healthy volunteers for 24h</description>
+          </group>
+          <group group_id="O3">
+            <title>Microprobe Glucose Sensor Phase 3</title>
+            <description>The microprobe array continuous glucose sensor applied to participants with type 1 diabetes</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Difference to the Venous Blood Glucose MARD</title>
+          <description>Phase 3 of the study aim to assess efficacy of the device in people with type 1 diabetes. This will be done in comparison to venous blood glucose using YSI machine in a controlled environment over 24 hours (phase 3). it was originally planned to then compare this to ISF glucose in ambulatory situation over five days (phase 4) however phase 4 did not go ahead. Measured using mean absolute relative difference with respect to venous blood glucose</description>
+          <population>Only for Phase 3 arm</population>
+          <units>percentage</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+                <count group_id="O2" value="0"/>
+                <count group_id="O3" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O3" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Pain Score</title>
+        <description>The study aims to assess safety of the device with regards to pain degree in comparison to venflon insertion and insertion of an existing continuous glucose monitor (Medtronic iPro2 CGM system, Northridge, California). This will be done at each phase of the four study phases.</description>
+        <time_frame>24 hours</time_frame>
+        <population>Data not collected</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Microprobe Glucose Sensor Phase 1</title>
+            <description>The microprobe array continuous glucose sensor applied to healthy volunteers for 6 h</description>
+          </group>
+          <group group_id="O2">
+            <title>Microprobe Glucose Sensor Phase 2</title>
+            <description>The microprobe array continuous glucose sensor applied to healthy volunteers for 24 h</description>
+          </group>
+          <group group_id="O3">
+            <title>Microprobe Glucose Sensor Phase 3</title>
+            <description>The microprobe array continuous glucose sensor applied to participants with type 1 diabetes</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pain Score</title>
+          <description>The study aims to assess safety of the device with regards to pain degree in comparison to venflon insertion and insertion of an existing continuous glucose monitor (Medtronic iPro2 CGM system, Northridge, California). This will be done at each phase of the four study phases.</description>
+          <population>Data not collected</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+                <count group_id="O2" value="0"/>
+                <count group_id="O3" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participant Developed Skin Penetration</title>
+        <description>This done using Optical Coherence Tomography and Confocal Microscopy. Measure = variation in penetration depth of microprobe needles over 24 hours</description>
+        <time_frame>24 hours</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Microprobe Glucose Sensor Phase 1</title>
+            <description>The microprobe array continuous glucose sensor applied to healthy volunteers for 6 h</description>
+          </group>
+          <group group_id="O2">
+            <title>Microprobe Glucose Sensor Phase 2</title>
+            <description>The microprobe array continuous glucose sensor applied to healthy volunteers for 24 h</description>
+          </group>
+          <group group_id="O3">
+            <title>Microprobe Glucose Sensor Phase 3</title>
+            <description>The microprobe array continuous glucose sensor applied to participants with type 1 diabetes</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participant Developed Skin Penetration</title>
+          <description>This done using Optical Coherence Tomography and Confocal Microscopy. Measure = variation in penetration depth of microprobe needles over 24 hours</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="8"/>
+                <count group_id="O2" value="8"/>
+                <count group_id="O3" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Detectable Signal</title>
+        <description>This is a secondary outcome for phases 1 &amp; 2.</description>
+        <time_frame>24 hours</time_frame>
+        <population>Data not collected</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Microprobe Glucose Sensor Phase 1</title>
+            <description>The microprobe array continuous glucose sensor applied to healthy volunteers for 6h</description>
+          </group>
+          <group group_id="O2">
+            <title>Microprobe Glucose Sensor Phase 2</title>
+            <description>The microprobe array continuous glucose sensor applied to healthy volunteers for 24h</description>
+          </group>
+          <group group_id="O3">
+            <title>Microprobe Glucose Sensor Phase 3</title>
+            <description>The microprobe array continuous glucose sensor applied to participants with type 1 diabetes</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Detectable Signal</title>
+          <description>This is a secondary outcome for phases 1 &amp; 2.</description>
+          <population>Data not collected</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+                <count group_id="O2" value="0"/>
+                <count group_id="O3" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Correlation With Venous Blood Glucose</title>
+        <description>This is a secondary outcome for phases 1 and 2. It is a primary outcome for phase 3. Using MARD.</description>
+        <time_frame>24 hours</time_frame>
+        <population>Data not collected</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Microprobe Glucose Sensor Phase 1</title>
+            <description>The microprobe array continuous glucose sensor applied to healthy volunteers for 6 h</description>
+          </group>
+          <group group_id="O2">
+            <title>Microprobe Glucose Sensor Phase 2</title>
+            <description>The microprobe array continuous glucose sensor will be applied to healthy volunteers for 24 h</description>
+          </group>
+          <group group_id="O3">
+            <title>Microprobe Glucose Sensor Phase 3</title>
+            <description>The microprobe array continuous glucose sensor applied to participants with type 1 diabetes</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Correlation With Venous Blood Glucose</title>
+          <description>This is a secondary outcome for phases 1 and 2. It is a primary outcome for phase 3. Using MARD.</description>
+          <population>Data not collected</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+                <count group_id="O2" value="0"/>
+                <count group_id="O3" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Acceptability Questionnaire</title>
+        <description>This is a secondary outcome for phases 3 and 4.</description>
+        <time_frame>24 hours</time_frame>
+        <population>Data not collected</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Microprobe Glucose Sensor Phase 1</title>
+            <description>The microprobe array continuous glucose sensor applied to healthy volunteers for 6h</description>
+          </group>
+          <group group_id="O2">
+            <title>Microprobe Glucose Sensor Phase 2</title>
+            <description>The microprobe array continuous glucose sensor applied to healthy volunteers for 24h</description>
+          </group>
+          <group group_id="O3">
+            <title>Microprobe Glucose Sensor Phase 3</title>
+            <description>The microprobe array continuous glucose sensor applied to participants with type 1 diabetes</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Acceptability Questionnaire</title>
+          <description>This is a secondary outcome for phases 3 and 4.</description>
+          <population>Data not collected</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+                <count group_id="O2" value="0"/>
+                <count group_id="O3" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>4 years</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Microprobe Glucose Sensor Phase 1</title>
+          <description>The microprobe array continuous glucose sensor applied to healthy volunteers for 6 h</description>
+        </group>
+        <group group_id="E2">
+          <title>Microprobe Glucose Sensor Phase 2</title>
+          <description>The microprobe array continuous glucose sensor applied to healthy volunteers for 24 h</description>
+        </group>
+        <group group_id="E3">
+          <title>Microprobe Glucose Sensor Phase 3</title>
+          <description>The microprobe array continuous glucose sensor applied to participants with type 1 diabetes</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="8"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="8"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="10"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="8"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="8"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="10"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="8"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="8"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="10"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Prof Nick Oliver</name_or_title>
+      <organization>Imperial College London</organization>
+      <phone>07957163617</phone>
+      <email>nick.oliver@imperial.ac.uk</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

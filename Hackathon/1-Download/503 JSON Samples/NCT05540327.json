@@ -1,0 +1,2852 @@
+{
+  "FullStudy":{
+    "Rank":478,
+    "Study":{
+      "ProtocolSection":{
+        "IdentificationModule":{
+          "NCTId":"NCT05540327",
+          "OrgStudyIdInfo":{
+            "OrgStudyId":"MS200569_0048"
+          },
+          "SecondaryIdInfoList":{
+            "SecondaryIdInfo":[
+              {
+                "SecondaryId":"2022-000239-21",
+                "SecondaryIdType":"EudraCT Number"
+              }
+            ]
+          },
+          "Organization":{
+            "OrgFullName":"Merck Healthcare KGaA, Darmstadt, Germany, an affiliate of Merck KGaA, Darmstadt, Germany",
+            "OrgClass":"INDUSTRY"
+          },
+          "BriefTitle":"The Willow LTE Study With M5049 in Participants With SCLE, DLE and/or SLE (WILLOW LTE)",
+          "OfficialTitle":"A Phase II, Double-blind, Dose-Ranging, Parallel, Long-term Extension Study to Evaluate the Safety and Efficacy of Enpatoran in Participants With Subacute Cutaneous Lupus Erythematosus, Discoid Lupus Erythematosus and/or Systemic Lupus Erythematosus Having Completed the WILLOW (MS200569_0003) Study Treatment (WILLOW LTE)"
+        },
+        "StatusModule":{
+          "StatusVerifiedDate":"September 2022",
+          "OverallStatus":"Not yet recruiting",
+          "ExpandedAccessInfo":{
+            "HasExpandedAccess":"No"
+          },
+          "StartDateStruct":{
+            "StartDate":"September 15, 2022",
+            "StartDateType":"Anticipated"
+          },
+          "PrimaryCompletionDateStruct":{
+            "PrimaryCompletionDate":"May 26, 2025",
+            "PrimaryCompletionDateType":"Anticipated"
+          },
+          "CompletionDateStruct":{
+            "CompletionDate":"June 14, 2025",
+            "CompletionDateType":"Anticipated"
+          },
+          "StudyFirstSubmitDate":"September 12, 2022",
+          "StudyFirstSubmitQCDate":"September 12, 2022",
+          "StudyFirstPostDateStruct":{
+            "StudyFirstPostDate":"September 14, 2022",
+            "StudyFirstPostDateType":"Actual"
+          },
+          "LastUpdateSubmitDate":"September 12, 2022",
+          "LastUpdatePostDateStruct":{
+            "LastUpdatePostDate":"September 14, 2022",
+            "LastUpdatePostDateType":"Actual"
+          }
+        },
+        "SponsorCollaboratorsModule":{
+          "ResponsibleParty":{
+            "ResponsiblePartyType":"Sponsor"
+          },
+          "LeadSponsor":{
+            "LeadSponsorName":"Merck Healthcare KGaA, Darmstadt, Germany, an affiliate of Merck KGaA, Darmstadt, Germany",
+            "LeadSponsorClass":"INDUSTRY"
+          }
+        },
+        "OversightModule":{
+          "OversightHasDMC":"No",
+          "IsFDARegulatedDrug":"Yes",
+          "IsFDARegulatedDevice":"No"
+        },
+        "DescriptionModule":{
+          "BriefSummary":"The purpose of the study is to evaluate the long term safety and efficacy of orally administered M5049 in participants with subacute cutaneous lupus erythematosus (SCLE), discoid lupus erythematosus (DLE) and/or systemic lupus erythematosus (SLE) who have completed the 24 week treatment period of Willow study (MS200569_0003 [NCT05162586])."
+        },
+        "ConditionsModule":{
+          "ConditionList":{
+            "Condition":[
+              "Systemic Lupus Erythematosus"
+            ]
+          },
+          "KeywordList":{
+            "Keyword":[
+              "Toll-like Receptor 7",
+              "Toll-like Receptor 8",
+              "WILLOW",
+              "Adults",
+              "SLE",
+              "CLE",
+              "Lupus",
+              "Discoid lupus erythematosus",
+              "Subacute cutaneous lupus erythematosus",
+              "M5049",
+              "Enpatoran",
+              "LTE"
+            ]
+          }
+        },
+        "DesignModule":{
+          "StudyType":"Interventional",
+          "PhaseList":{
+            "Phase":[
+              "Phase 2"
+            ]
+          },
+          "DesignInfo":{
+            "DesignAllocation":"Non-Randomized",
+            "DesignInterventionModel":"Parallel Assignment",
+            "DesignPrimaryPurpose":"Treatment",
+            "DesignMaskingInfo":{
+              "DesignMasking":"Quadruple",
+              "DesignWhoMaskedList":{
+                "DesignWhoMasked":[
+                  "Participant",
+                  "Care Provider",
+                  "Investigator",
+                  "Outcomes Assessor"
+                ]
+              }
+            }
+          },
+          "EnrollmentInfo":{
+            "EnrollmentCount":"440",
+            "EnrollmentType":"Anticipated"
+          }
+        },
+        "ArmsInterventionsModule":{
+          "ArmGroupList":{
+            "ArmGroup":[
+              {
+                "ArmGroupLabel":"M5049 low dose + Placebo",
+                "ArmGroupType":"Experimental",
+                "ArmGroupDescription":"Participants with CLE (active SCLE and/or DLE) or SLE who received low dose of M5049 in WILLOW study will continue to receive M5049 low dose and matching placebo.",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Drug: M5049 low dose",
+                    "Drug: Placebo"
+                  ]
+                }
+              },{
+                "ArmGroupLabel":"M5049 medium dose+ Placebo",
+                "ArmGroupType":"Experimental",
+                "ArmGroupDescription":"Participants with CLE (active SCLE and/or DLE) or SLE who received medium dose of M5049 in WILLOW study will continue to receive M5049 medium dose and matching placebo.",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Drug: M5049 medium dose",
+                    "Drug: Placebo"
+                  ]
+                }
+              },{
+                "ArmGroupLabel":"M5049 high dose",
+                "ArmGroupType":"Experimental",
+                "ArmGroupDescription":"Participants with CLE (active SCLE and/or DLE) or SLE who received M5049 matched placebo or high dose of M5049 in WILLOW study will receive M5049 high dose .",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Drug: M5049 high dose"
+                  ]
+                }
+              }
+            ]
+          },
+          "InterventionList":{
+            "Intervention":[
+              {
+                "InterventionType":"Drug",
+                "InterventionName":"M5049 low dose",
+                "InterventionDescription":"Participants will receive film-coated tablets of M5049 at a low dose orally, twice a day (BID) for up to 48 weeks.",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "M5049 low dose + Placebo"
+                  ]
+                },
+                "InterventionOtherNameList":{
+                  "InterventionOtherName":[
+                    "Enpatoran"
+                  ]
+                }
+              },{
+                "InterventionType":"Drug",
+                "InterventionName":"M5049 medium dose",
+                "InterventionDescription":"Participants will receive film-coated tablets of M5049 at a medium dose orally, BID for up to 48 weeks.",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "M5049 medium dose+ Placebo"
+                  ]
+                },
+                "InterventionOtherNameList":{
+                  "InterventionOtherName":[
+                    "Enpatoran"
+                  ]
+                }
+              },{
+                "InterventionType":"Drug",
+                "InterventionName":"M5049 high dose",
+                "InterventionDescription":"Participants will receive film-coated tablets of M5049 at a high dose orally, BID for up to 48 weeks.",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "M5049 high dose"
+                  ]
+                },
+                "InterventionOtherNameList":{
+                  "InterventionOtherName":[
+                    "Enpatoran"
+                  ]
+                }
+              },{
+                "InterventionType":"Drug",
+                "InterventionName":"Placebo",
+                "InterventionDescription":"Participants will receive M5049 matching placebo orally, BID for up to 48 weeks.",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "M5049 low dose + Placebo",
+                    "M5049 medium dose+ Placebo"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "OutcomesModule":{
+          "PrimaryOutcomeList":{
+            "PrimaryOutcome":[
+              {
+                "PrimaryOutcomeMeasure":"Safety Profile as Assessed by Incidence of Treatment-Emergent Adverse Events (TEAEs), Serious Adverse Events (SAEs), Adverse Event of Special Interest (AESIs)",
+                "PrimaryOutcomeTimeFrame":"Baseline up to Week 50"
+              }
+            ]
+          },
+          "SecondaryOutcomeList":{
+            "SecondaryOutcome":[
+              {
+                "SecondaryOutcomeMeasure":"Number of Participants with Abnormalities in Laboratory Parameters and QT Interval Corrected",
+                "SecondaryOutcomeTimeFrame":"Baseline up to Week 50"
+              },{
+                "SecondaryOutcomeMeasure":"Percent Change from WILLOW Study Baseline in Cutaneous Lupus Erythematosus Disease Area and Severity Index (CLASI-A) at Weeks 0, 2, 4, 12, 24, 36 and 48",
+                "SecondaryOutcomeTimeFrame":"Baseline (WILLOW study), Weeks 0, 2, 4, 12, 24, 36 and 48"
+              },{
+                "SecondaryOutcomeMeasure":"Change from WILLOW Study Baseline in Cutaneous Lupus Activity Investigator's Global Assessment (CLA-IGA) at Weeks 0, 2, 4, 12, 24, 36 and 48",
+                "SecondaryOutcomeTimeFrame":"Baseline (WILLOW study), Weeks 0, 2, 4, 12, 24, 36 and 48"
+              },{
+                "SecondaryOutcomeMeasure":"Number of Participants With Based Composite Lupus Assessment (BICLA) Response",
+                "SecondaryOutcomeTimeFrame":"At Weeks 24 and 48"
+              },{
+                "SecondaryOutcomeMeasure":"Number of Participants With Systemic lupus Erythematosus Responder Index-4 (SRI-4) Response",
+                "SecondaryOutcomeTimeFrame":"At Weeks 24 and 48"
+              }
+            ]
+          }
+        },
+        "EligibilityModule":{
+          "EligibilityCriteria":"Inclusion Criteria:\n\nAre active SCLE, DLE and/or SLE that have completed the 24 week Treatment of the Willow Study\nHave a Body Mass Index (BMI) within the range 18.5 to 35 kilograms per meter square (inclusive) at Screening\nOther protocol defined inclusion criteria could apply\n\nExclusion Criteria:\n\nParticipants who experienced serious event(s) related to the study intervention during the WILLOW study\nOther severe acute or chronic medical or psychiatric condition or laboratory abnormality that may increase the risk associated with Long Term Extension (LTE) study participation\nOngoing or active clinically significant viral (including Severe acute respiratory syndrome coronavirus 2 [(SARS-CoV-2)], bacterial or fungal infection, or any major episode of infection requiring hospitalization\nReceived LTE prohibited medication during the WILLOW study or after the WILLOW study Week 24\nParticipation in any other investigational drug study after the WILLOW study Week 24\nOther protocol defined exclusion criteria could apply",
+          "HealthyVolunteers":"No",
+          "Gender":"All",
+          "MinimumAge":"18 Years",
+          "MaximumAge":"76 Years",
+          "StdAgeList":{
+            "StdAge":[
+              "Adult",
+              "Older Adult"
+            ]
+          }
+        },
+        "ContactsLocationsModule":{
+          "CentralContactList":{
+            "CentralContact":[
+              {
+                "CentralContactName":"Communication Center",
+                "CentralContactRole":"Contact",
+                "CentralContactPhone":"+49 6151 72 5200",
+                "CentralContactEMail":"service@emdgroup.com"
+              }
+            ]
+          },
+          "OverallOfficialList":{
+            "OverallOfficial":[
+              {
+                "OverallOfficialName":"Medical Responsible",
+                "OverallOfficialAffiliation":"Merck Healthcare KGaA, Darmstadt, Germany, an affiliate of Merck KGaA, Darmstadt, Germany",
+                "OverallOfficialRole":"Study Director"
+              }
+            ]
+          },
+          "LocationList":{
+            "Location":[
+              {
+                "LocationFacility":"Mayo Clinic Scottsdale",
+                "LocationCity":"Scottsdale",
+                "LocationState":"Arizona",
+                "LocationZip":"85259",
+                "LocationCountry":"United States",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"mangold.aaron@mayo.edu"
+                    },{
+                      "LocationContactName":"Aaron Mangold",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"University of Arizona Arthritis Center",
+                "LocationCity":"Tucson",
+                "LocationState":"Arizona",
+                "LocationZip":"85724",
+                "LocationCountry":"United States",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"jawadbilal@arizona.edu"
+                    },{
+                      "LocationContactName":"Jawad Bilal",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"University of California San Diego Medical Center",
+                "LocationCity":"La Jolla",
+                "LocationState":"California",
+                "LocationZip":"92093-1503",
+                "LocationCountry":"United States",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"s2lee@health.ucsd.edu"
+                    },{
+                      "LocationContactName":"Susan Lee",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"The Lundquist Institute at Harbor-UCLA Medical Center",
+                "LocationCity":"Torrance",
+                "LocationState":"California",
+                "LocationZip":"90502",
+                "LocationCountry":"United States",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"gkarpouzas@lundquist.org"
+                    },{
+                      "LocationContactName":"George Karpouzas",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Bay Area Arthritis and Osteoporosis",
+                "LocationCity":"Brandon",
+                "LocationState":"Florida",
+                "LocationZip":"33511",
+                "LocationCountry":"United States",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"baao2010@msn.com"
+                    },{
+                      "LocationContactName":"Vipul Joshi",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"University of Florida College of Medicine Jacksonville",
+                "LocationCity":"Jacksonville",
+                "LocationState":"Florida",
+                "LocationZip":"32207",
+                "LocationCountry":"United States",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"gurjit.kaeley@jax.ufl.edu"
+                    },{
+                      "LocationContactName":"Gurjit Kaeley",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Advance Medical Research Center",
+                "LocationCity":"Miami",
+                "LocationState":"Florida",
+                "LocationZip":"33135",
+                "LocationCountry":"United States",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"acostaadvance@gmail.com"
+                    },{
+                      "LocationContactName":"Ana Acosta",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"HMD Research, LLC",
+                "LocationCity":"Orlando",
+                "LocationState":"Florida",
+                "LocationZip":"32819",
+                "LocationCountry":"United States",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"mheuer@heuermd.com"
+                    },{
+                      "LocationContactName":"Marvin Heuer",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"D&H Tamarac Research Center, LLC",
+                "LocationCity":"Tamarac",
+                "LocationState":"Florida",
+                "LocationZip":"33321",
+                "LocationCountry":"United States",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"dravalos@dhtamarac.com"
+                    },{
+                      "LocationContactName":"Anneyd Avalos Pena",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"CenExel ForCare Clinical Research",
+                "LocationCity":"Tampa",
+                "LocationState":"Florida",
+                "LocationZip":"33613",
+                "LocationCountry":"United States",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"sforman@forcaremed.com"
+                    },{
+                      "LocationContactName":"Seth Forman",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Dawes Fretzin Dermatology Group, LLC",
+                "LocationCity":"Indianapolis",
+                "LocationState":"Indiana",
+                "LocationZip":"46250",
+                "LocationCountry":"United States",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"dfcrgfretzin@ecommunity.com"
+                    },{
+                      "LocationContactName":"Scott Fretzin",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Massachusetts General Hospital - Dermatology Clinic",
+                "LocationCity":"Boston",
+                "LocationState":"Massachusetts",
+                "LocationZip":"02114",
+                "LocationCountry":"United States",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"harvardskinstudies@partners.org"
+                    },{
+                      "LocationContactName":"Flavia Fedeles",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"A MRC LLC Ahmed Arif Medical Research Center",
+                "LocationCity":"Flint",
+                "LocationState":"Michigan",
+                "LocationZip":"48504",
+                "LocationCountry":"United States",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"akarrar@aamrc.net"
+                    },{
+                      "LocationContactName":"Ali Karrar",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"University of Minnesota",
+                "LocationCity":"Minneapolis",
+                "LocationState":"Minnesota",
+                "LocationZip":"55455",
+                "LocationCountry":"United States",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"pearsond@umn.edu"
+                    },{
+                      "LocationContactName":"David Pearson",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Superior Clinical Research, LLC",
+                "LocationCity":"Smithfield",
+                "LocationState":"North Carolina",
+                "LocationZip":"27577",
+                "LocationCountry":"United States",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"dr.curtis@superiorclinicalresearch.com"
+                    },{
+                      "LocationContactName":"Clifford Curtis",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Ohio State University",
+                "LocationCity":"Columbus",
+                "LocationState":"Ohio",
+                "LocationZip":"43210",
+                "LocationCountry":"United States",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"benjamin.kaffenberger@osumc.edu"
+                    },{
+                      "LocationContactName":"Benjamin Kaffenberger",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"University of Toledo",
+                "LocationCity":"Toledo",
+                "LocationState":"Ohio",
+                "LocationZip":"43614-2598",
+                "LocationCountry":"United States",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"nezam.altorok@utoledo.edu"
+                    },{
+                      "LocationContactName":"Nezam Altorok",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Rheumatology & Osteoporosis Institute of Oklahoma",
+                "LocationCity":"Tulsa",
+                "LocationState":"Oklahoma",
+                "LocationZip":"74136",
+                "LocationCountry":"United States",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"dgfoley@premier-rheum.com"
+                    },{
+                      "LocationContactName":"Debbie Gladd",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Ramesh C Gupta, MD",
+                "LocationCity":"Memphis",
+                "LocationState":"Tennessee",
+                "LocationZip":"38119",
+                "LocationCountry":"United States",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"rcgupta42001@yahoo.com"
+                    },{
+                      "LocationContactName":"Ramesh Gupta",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Austin Regional Clinic, P.A.",
+                "LocationCity":"Austin",
+                "LocationState":"Texas",
+                "LocationZip":"78731",
+                "LocationCountry":"United States",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"abchadha@arcmd.com"
+                    },{
+                      "LocationContactName":"Anurekha Chadha",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Precision Comprehensive Clinical Research Solutions",
+                "LocationCity":"Colleyville",
+                "LocationState":"Texas",
+                "LocationZip":"76034",
+                "LocationCountry":"United States",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"dhimanbasu@pccrsolutions.com"
+                    },{
+                      "LocationContactName":"Dhiman Basu",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Jordan Valley Dermatology Center",
+                "LocationCity":"South Jordan",
+                "LocationState":"Utah",
+                "LocationZip":"84095",
+                "LocationCountry":"United States",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"dforsha@jvderm.com"
+                    },{
+                      "LocationContactName":"Douglass Forsha",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Buenos Aires Skin",
+                "LocationCity":"Ciudad Autonoma Buenos Aires",
+                "LocationCountry":"Argentina",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"matiasturienzo@gmail.com"
+                    },{
+                      "LocationContactName":"Matias Turienzo",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Centro Dermatologico Schejtman",
+                "LocationCity":"Ciudad Autonoma Buenos Aires",
+                "LocationCountry":"Argentina",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"ale_mmzgonc@yahoo.com.ar"
+                    },{
+                      "LocationContactName":"Alejandro Martinez Muñoz",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"CINME - Centro De Investigaciones Metabolicas",
+                "LocationCity":"Ciudad Autonoma de Buenos Aires",
+                "LocationCountry":"Argentina",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"ricardo.galimberti@gmail.com"
+                    },{
+                      "LocationContactName":"Ricardo L Galimberti",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Centro de Investigaciones Medicas Mar del Plata - CIM",
+                "LocationCity":"Mar del Plata",
+                "LocationCountry":"Argentina",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"alicia.testa@cimmdp.com"
+                    },{
+                      "LocationContactName":"Gladys Alicia Testa",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Instituto de Reumatologia",
+                "LocationCity":"Mendoza",
+                "LocationCountry":"Argentina",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"alborgia@hotmail.com"
+                    },{
+                      "LocationContactName":"Alfredo Borgia",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Instituto CAICI - Instituto Centralizado de Asistencia e Investigaci",
+                "LocationCity":"Rosario",
+                "LocationCountry":"Argentina",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"violadiego@yahoo.com.ar"
+                    },{
+                      "LocationContactName":"Diego Oscar Viola",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Instituto Medico de la Fundacion Estudios Clinicos",
+                "LocationCity":"Rosario",
+                "LocationCountry":"Argentina",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"anaclaracaminer@consultoriosintegrados.org"
+                    },{
+                      "LocationContactName":"Ana Clara Caminer",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Cordis S.A.",
+                "LocationCity":"Salta",
+                "LocationCountry":"Argentina",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"dra.zurlo@gmail.com"
+                    },{
+                      "LocationContactName":"Leticia Ibanez Zurlo",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Instituto Medico de alta Complejidad San Isidro S.A (IMAC)",
+                "LocationCity":"San Fernando",
+                "LocationCountry":"Argentina",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"dralazaro@me.com"
+                    },{
+                      "LocationContactName":"Maria Alicia Lazaro",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"CER San Juan Centro Polivalente de Asistencia e Inv. Clinica",
+                "LocationCity":"San Juan",
+                "LocationCountry":"Argentina",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"cristianmoreno@cersanjuan.com.ar"
+                    },{
+                      "LocationContactName":"Jose Luis Cristian Moreno",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Investigaciones Clinicas Tucuman",
+                "LocationCity":"San Miguel de Tucuman",
+                "LocationCountry":"Argentina",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"vbellomio@gmail.com"
+                    },{
+                      "LocationContactName":"Veronica Ines Bellomio",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"PSORIAHUE-Medicina Interdisciplinar",
+                "LocationCity":"San Miguel",
+                "LocationCountry":"Argentina",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"gabriel.magarinos@gmail.com"
+                    },{
+                      "LocationContactName":"Gabriel A Magarinos",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Centro de Investigaciones Medicas Tucuman",
+                "LocationCity":"Tucuman",
+                "LocationCountry":"Argentina",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"walspindler@yahoo.com.ar"
+                    },{
+                      "LocationContactName":"Walter J Spindler",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Box Hill Hospital - PARENT",
+                "LocationCity":"Caulfield",
+                "LocationCountry":"Australia",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"christopher.fong@monash.edu"
+                    },{
+                      "LocationContactName":"Christopher Fong",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Monash Medical Centre Clayton",
+                "LocationCity":"Clayton",
+                "LocationCountry":"Australia",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"alberta.hoi@monash.edu"
+                    },{
+                      "LocationContactName":"Alberta Hoi",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Fiona Stanley Hospital - Haematology",
+                "LocationCity":"Murdoch",
+                "LocationCountry":"Australia",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"helen.keen@uwa.edu.au"
+                    },{
+                      "LocationContactName":"Helen Keen",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Royal Melbourne Hospital - PARENT",
+                "LocationCity":"Parkville",
+                "LocationCountry":"Australia",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"johannes.kern@mh.org.au"
+                    },{
+                      "LocationContactName":"Johannes S Kern",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Westmead Hospital - PARENT",
+                "LocationCity":"Sydney",
+                "LocationCountry":"Australia",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"pablo.fernandezpenas@sydney.edu.au"
+                    },{
+                      "LocationContactName":"Pablo Fernandez Penas",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Colin Bayliss Research and Teaching Unit",
+                "LocationCity":"Victoria Park",
+                "LocationCountry":"Australia",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"robw@bdaus.com.au"
+                    },{
+                      "LocationContactName":"Robert Will",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Veracity Clinical Research",
+                "LocationCity":"Woolloongabba",
+                "LocationCountry":"Australia",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"spelchat@veracity.net.au"
+                    },{
+                      "LocationContactName":"Lynda Spelman",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Santa Casa de Misericórdia de Belo Horizonte",
+                "LocationCity":"Belo Horizonte",
+                "LocationCountry":"Brazil",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"claudiasneiva@yahoo.com.br"
+                    },{
+                      "LocationContactName":"Claudia Lopes Santoro Neiva Neiva",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Oncovida - Centro de Onco-Hematologia de Mato Grosso",
+                "LocationCity":"Cuiabá",
+                "LocationCountry":"Brazil",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"lsgbarbosa@gmail.com"
+                    },{
+                      "LocationContactName":"Luiz Sergio Guedes Barbosa",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"CETI - Centro de Estudos em Terapias Inovadoras Ltda.",
+                "LocationCity":"Curitiba",
+                "LocationCountry":"Brazil",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"rbr@uol.com.br"
+                    },{
+                      "LocationContactName":"Sebastiao Cezar Radominski",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Edumed - Educação e Saúde SA",
+                "LocationCity":"Curitiba",
+                "LocationCountry":"Brazil",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"valderilio@hotmail.com"
+                    },{
+                      "LocationContactName":"Valderílio Feijó Azevedo",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"HUWC - UFC - Hospital Universitário Walter Cantídio - Universidade Federal do Ceará",
+                "LocationCity":"Fortaleza",
+                "LocationCountry":"Brazil",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"vanessabvm@hotmail.com"
+                    },{
+                      "LocationContactName":"Vanessa Beatriz de Vasconcelos Marques",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"CMiP - Centro Mineiro de Pesquisa",
+                "LocationCity":"Juiz de Fora",
+                "LocationCountry":"Brazil",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"scafuto.cmip@gmail.com"
+                    },{
+                      "LocationContactName":"Antonio Scafuto Scotton Scotton",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Hospital Bruno Born",
+                "LocationCity":"Lajeado",
+                "LocationCountry":"Brazil",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"jussarambohn@gmail.com"
+                    },{
+                      "LocationContactName":"Jussara Marilu Bohn",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Hospital Moinhos de Vento",
+                "LocationCity":"Porto Alegre",
+                "LocationCountry":"Brazil",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"consultorio@tamaramucenic.com.br"
+                    },{
+                      "LocationContactName":"Tamara Mucenic",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Clínica SER da Bahia",
+                "LocationCity":"Salvador",
+                "LocationCountry":"Brazil",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"mitter.santiago@serdabahia.com.br"
+                    },{
+                      "LocationContactName":"Mittermayer Barreto Santiago",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Faculdade de Medicina do ABC",
+                "LocationCity":"Santo André",
+                "LocationCountry":"Brazil",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"sonia@loduca.com.br"
+                    },{
+                      "LocationContactName":"Sonia Maria Loduca Lima Loduca Lima",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"CEMEC - Centro Multidisciplinar de Estudos Clínicos",
+                "LocationCity":"São Bernardo",
+                "LocationCountry":"Brazil",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"prcriado@uol.com.br"
+                    },{
+                      "LocationContactName":"Paulo Criado",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Fundação Faculdade Regional de Medicina de São José do Rio Preto - CIP - Centro Integrado de Pesquisa",
+                "LocationCity":"São José do Rio Preto",
+                "LocationCountry":"Brazil",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"ma_alvesf@hotmail.com"
+                    },{
+                      "LocationContactName":"Mariana Alves Ferreira Martins",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"CEPIC - Centro Paulista de Investigação Clínica e Serviços Médicos",
+                "LocationCity":"São Paulo",
+                "LocationCountry":"Brazil",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"flora.marcolino@cepic.com.br"
+                    },{
+                      "LocationContactName":"Flora Maria D'Andrea Marcolino",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"CPCLIN - Centro de Pesquisas Clínicas Ltda.",
+                "LocationCity":"São Paulo",
+                "LocationCountry":"Brazil",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"vanessa.reumato@gmail.com"
+                    },{
+                      "LocationContactName":"Vanessa de Oliveira Magalhaes",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"DCC 'Sveti Georgi' EOOD - Cardiology Office",
+                "LocationCity":"Haskovo",
+                "LocationCountry":"Bulgaria",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"iridavasileva@gmail.com"
+                    },{
+                      "LocationContactName":"Irida Vasileva",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Medical center Medconsult Pleven OOD",
+                "LocationCity":"Pleven",
+                "LocationCountry":"Bulgaria",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"ktsoneva2011@abv.bg"
+                    },{
+                      "LocationContactName":"Krasimira Tsoneva",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"MC Artmed OOD",
+                "LocationCity":"Plovdiv",
+                "LocationCountry":"Bulgaria",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"genevapopova@yahoo.com"
+                    },{
+                      "LocationContactName":"Mariela Geneva Popova",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"DCC 1 - Ruse, EOOD",
+                "LocationCity":"Ruse",
+                "LocationCountry":"Bulgaria",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"nely_kap@abv.bg"
+                    },{
+                      "LocationContactName":"Nadezhda Kapandjieva",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Medical Center-1-Sevlievo EOOD",
+                "LocationCity":"Sevlievo",
+                "LocationCountry":"Bulgaria",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"dr.dimitar.nikolov@gmail.com"
+                    },{
+                      "LocationContactName":"Dimitar Nikolov",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"DCC \"Alexandrovska\", EOOD",
+                "LocationCity":"Sofia",
+                "LocationCountry":"Bulgaria",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"drbrezoev@abv.bg"
+                    },{
+                      "LocationContactName":"Petyo Brezoev",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"DCC Focus 5 - MEOH OOD",
+                "LocationCity":"Sofia",
+                "LocationCountry":"Bulgaria",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"grisha_mateev_trials@yahoo.com"
+                    },{
+                      "LocationContactName":"Grisha Mateev",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Military Medical Academy - MHAT - Sofia - Department of Rheumatology",
+                "LocationCity":"Sofia",
+                "LocationCountry":"Bulgaria",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"oparanov@abv.bg"
+                    },{
+                      "LocationContactName":"Boycho Oparanov",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"UMHAT \"Sv. Ivan Rilski\", EAD - Clinic of Rheumatology",
+                "LocationCity":"Sofia",
+                "LocationCountry":"Bulgaria",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"proff_rashkov@yahoo.com"
+                    },{
+                      "LocationContactName":"Rasho Rashkov",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"UMHAT \"Sv. Ivan Rilski\", EAD - Clinic of Rheumatology",
+                "LocationCity":"Sofia",
+                "LocationCountry":"Bulgaria",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"rmstoilov@abv.bg"
+                    },{
+                      "LocationContactName":"Rumen Stoilov",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"UMHAT Prof. Dr. Stoyan Kirkovich AD",
+                "LocationCity":"Stara Zagora",
+                "LocationCountry":"Bulgaria",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"dr.aleksieva.tanya@gmail.com"
+                    },{
+                      "LocationContactName":"Tanya Aleksieva -Petkova",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Clínica Alemana de Osorno",
+                "LocationCity":"Osorno",
+                "LocationCountry":"Chile",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"sarriagadah@gmail.com"
+                    },{
+                      "LocationContactName":"Maria Sonia Arriagada Herrera",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"BioMedica Research Group - Psicomedica Clinical and Research Group",
+                "LocationCity":"Santiago",
+                "LocationCountry":"Chile",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"emorenogster@gmail.com"
+                    },{
+                      "LocationContactName":"Elizabeth Jean Moreno Goio",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"CeCim Biocinetic",
+                "LocationCity":"Santiago",
+                "LocationCountry":"Chile",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"darwin.yanez@cecim.cl"
+                    },{
+                      "LocationContactName":"Darwin Yañez Pizarro",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Centro Medico Prosalud",
+                "LocationCity":"Santiago",
+                "LocationCountry":"Chile",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"agoecke.prosalud@gmail.com"
+                    },{
+                      "LocationContactName":"Irmgadt Annelise Goecke Sariego",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Dermacross",
+                "LocationCity":"Santiago",
+                "LocationCountry":"Chile",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"ccruzf@gmail.com"
+                    },{
+                      "LocationContactName":"Claudia De La Cruz",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"The First Affiliated Hospital of Baotou Medical College",
+                "LocationCity":"Baotou",
+                "LocationCountry":"China",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"wyf18686198868@163.com"
+                    },{
+                      "LocationContactName":"Yongfu Wang",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Peking Union Medical College Hospital - Beijing Union Medical College Hospital",
+                "LocationCity":"Beijing",
+                "LocationCountry":"China",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"xiaofeng.zeng@cstar.org.cn"
+                    },{
+                      "LocationContactName":"Xiaofeng Zeng",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"The First Hospital of Jilin University",
+                "LocationCity":"Changchun",
+                "LocationCountry":"China",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"512517403@qq.com"
+                    },{
+                      "LocationContactName":"Zhenyu Jiang",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"The 2nd Xiangya Hospital of Central South University",
+                "LocationCity":"Changsha",
+                "LocationCountry":"China",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"lifen0731@csu.edu.cn"
+                    },{
+                      "LocationContactName":"Fen Li",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"West China Hospital, Sichuan University",
+                "LocationCity":"Chengdu",
+                "LocationCountry":"China",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"yi2006liu@163.com"
+                    },{
+                      "LocationContactName":"Yi Liu",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"The First Affiliated Hospital of Sun Yat-sen University",
+                "LocationCity":"Guangzhou",
+                "LocationCountry":"China",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"zsuyns@163.com"
+                    },{
+                      "LocationContactName":"Niansheng Yang",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"The Third Affiliated Hospital, Sun Yat-sen University",
+                "LocationCity":"Guangzhou",
+                "LocationCountry":"China",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"lcsyjr@163.com"
+                    },{
+                      "LocationContactName":"Jieruo Gu",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Hainan General Hospital",
+                "LocationCity":"Haikou",
+                "LocationCountry":"China",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"renal@126.com"
+                    },{
+                      "LocationContactName":"Feng Zhan",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"The Affiliated Hospital of Inner Mongolia Medical University",
+                "LocationCity":"Hohhot",
+                "LocationCountry":"China",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"13948536552@139.com"
+                    },{
+                      "LocationContactName":"Hongbin Li",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"The First Affiliated Hospital of Henan University of Science and Technology",
+                "LocationCity":"Luoyang",
+                "LocationCountry":"China",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"sxf64817332@163.com"
+                    },{
+                      "LocationContactName":"Xiaofei Shi",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"The Second Affiliated Hospital of Nanchang University",
+                "LocationCity":"Nanchang",
+                "LocationCountry":"China",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"xinwangduann@163.com"
+                    },{
+                      "LocationContactName":"Xinwang Duan",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Hospital for Skin Diseases, Chinese Academy of Medical Sciences",
+                "LocationCity":"Nanjing",
+                "LocationCountry":"China",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"qianlu5860@pumcderm.cams.cn"
+                    },{
+                      "LocationContactName":"Qianjin Lu",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Huashan Hospital, Fudan University",
+                "LocationCity":"Shanghai",
+                "LocationCountry":"China",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"wgwan1969@sina.com"
+                    },{
+                      "LocationContactName":"Weiguo Wan",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Renji Hospital Shanghai Jiaotong University School of Medicine - West Branch",
+                "LocationCity":"Shanghai",
+                "LocationCountry":"China",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"lu_liangjing@163.com"
+                    },{
+                      "LocationContactName":"Liangjing Lu",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Ruijin Hospital of Shanghai Jiaotong University School of Medicine",
+                "LocationCity":"Shanghai",
+                "LocationCountry":"China",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"jie-zheng2001@126.com"
+                    },{
+                      "LocationContactName":"Jie Zheng",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"The First Affiliated Hospital of Soochow University",
+                "LocationCity":"SuZhou",
+                "LocationCountry":"China",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"njwujian@163.com"
+                    },{
+                      "LocationContactName":"Jian Wu",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Tianjin Medical University General Hospital",
+                "LocationCity":"Tianjin",
+                "LocationCountry":"China",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"tjweiwei2003@163.com"
+                    },{
+                      "LocationContactName":"Wei Wei",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"The First Affiliated Hospital of Xi'an Jiaotong University",
+                "LocationCity":"Xi'an",
+                "LocationCountry":"China",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"xajdljn@126.com"
+                    },{
+                      "LocationContactName":"Lan He",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Centro de Investigacion Medico Asistencial S.A.S",
+                "LocationCity":"Barranquilla",
+                "LocationCountry":"Colombia",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"juanjaller@cimedical.co"
+                    },{
+                      "LocationContactName":"Juan Jose Jaller Raad",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Centro de Investigacion en Reumatologia y Especialidades Medicas SAS. CIREEM",
+                "LocationCity":"Bogotá",
+                "LocationCountry":"Colombia",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"patriciavelez@cireem.com.co"
+                    },{
+                      "LocationContactName":"Patricia Julieta Velez Sanchez",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Medicity S.A.S.",
+                "LocationCity":"Bucaramanga",
+                "LocationCountry":"Colombia",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"diegols.medicity@gmail.com"
+                    },{
+                      "LocationContactName":"Diego Luis Saaibi Solano",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Servimed S.A.S",
+                "LocationCity":"Bucaramanga",
+                "LocationCountry":"Colombia",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"wiotero@gmail.com"
+                    },{
+                      "LocationContactName":"William Jose Otero Escalante",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Centro Integral de Reumatologia del Caribe SAS CIRCARIBE SAS",
+                "LocationCity":"Medellin",
+                "LocationCountry":"Colombia",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"mabello@circaribe.com"
+                    },{
+                      "LocationContactName":"Mauricio Ricardo Abello Banfi",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Healthy Medical Center",
+                "LocationCity":"Zipaquirá",
+                "LocationCountry":"Colombia",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"danny.gomez@healthymc.com"
+                    },{
+                      "LocationContactName":"Danny Alexis Gomez Mora",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"General Hospital of Athens Laiko",
+                "LocationCity":"Athens",
+                "LocationCountry":"Greece",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"psfikakis@med.uoa.gr"
+                    },{
+                      "LocationContactName":"Petros Sfikakis",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"General Hospital of Athens Laiko",
+                "LocationCity":"Athens",
+                "LocationCountry":"Greece",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"pvlah@med.uoa.gr"
+                    },{
+                      "LocationContactName":"Panayiotis Vlachogiannopoulos",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"University Hospital of Patra",
+                "LocationCity":"Patra",
+                "LocationCountry":"Greece",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"snliossis@med.upatras.gr"
+                    },{
+                      "LocationContactName":"Stamatios N Liossis",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"424 General Military Hospital",
+                "LocationCity":"Thessaloniki",
+                "LocationCountry":"Greece",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"perivoun@email.com"
+                    },{
+                      "LocationContactName":"Periklis Vounotrypidis",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"General Hospital of Thessaloniki \"Hippokration\"",
+                "LocationCity":"Thessaloniki",
+                "LocationCountry":"Greece",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"garyalex@auth.gr"
+                    },{
+                      "LocationContactName":"Alexandros Garyfallos",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"General Hospital Papageorgiou",
+                "LocationCity":"Thessaloniki",
+                "LocationCountry":"Greece",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"bethlaz@auth.gr"
+                    },{
+                      "LocationContactName":"Elisavet Lazaridou",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Skin and Venereal Diseases' Hospital",
+                "LocationCity":"Thessaloniki",
+                "LocationCountry":"Greece",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"dem@auth.gr"
+                    },{
+                      "LocationContactName":"Dimitrios Ioannides",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Chaim Sheba Medical Center - pt",
+                "LocationCity":"Ramat Gan",
+                "LocationCountry":"Israel",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"merav.lidar@sheba.health.gov.il"
+                    },{
+                      "LocationContactName":"Merav Lidar",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"NHO Asahikawa Medical Center - Dept of Gastroenterology",
+                "LocationCity":"Asahikawa-shi",
+                "LocationCountry":"Japan",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"hirano.fuminori.cx@mail.hosp.go.jp"
+                    },{
+                      "LocationContactName":"Fuminori Hirano",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"St. Luke's International Hospital - Dept of Immunology/Allergy",
+                "LocationCity":"Chuo-ku",
+                "LocationCountry":"Japan",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"nakaith@luke.ac.jp"
+                    },{
+                      "LocationContactName":"Takehiro Nakai",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Eiraku Clinic - Dept of Rheumatology",
+                "LocationCity":"Kagoshima-shi",
+                "LocationCountry":"Japan",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"chiken-eiraku@eiraku-clinic.com"
+                    },{
+                      "LocationContactName":"Nobutaka Eiraku",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Saitama Medical Center - Dept of Rheumatology/Immunology",
+                "LocationCity":"Kawagoe-shi",
+                "LocationCountry":"Japan",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"t_kondo@saitama-med.ac.jp"
+                    },{
+                      "LocationContactName":"Tsuneo Kondo",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Kagawa University Hospital - Dept of Immunology/ Rheumatology",
+                "LocationCity":"Kita-gun",
+                "LocationCountry":"Japan",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"dobashi.hiroaki@kagawa-u.ac.jp"
+                    },{
+                      "LocationContactName":"Hiroaki Dobashi",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Hokkaido University Hospital",
+                "LocationCity":"Sapporo-shi",
+                "LocationCountry":"Japan",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"at3tat@med.hokudai.ac.jp"
+                    },{
+                      "LocationContactName":"Tatsuya Atsumi",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Tohoku University Hospital - Dept of Hematology/Immunology",
+                "LocationCity":"Sendai-shi",
+                "LocationCountry":"Japan",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"tishii@med.tohoku.ac.jp"
+                    },{
+                      "LocationContactName":"Tomonori Ishii",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Kyung Hee University Hospital at Gangdong",
+                "LocationCity":"Seoul",
+                "LocationCountry":"Korea, Republic of",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"rheumasr@khu.ac.kr"
+                    },{
+                      "LocationContactName":"Ran Song",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Ajou University Hospital",
+                "LocationCity":"Suwon",
+                "LocationCountry":"Korea, Republic of",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"chsuh@ajou.ac.kr"
+                    },{
+                      "LocationContactName":"Chang-Hee Suh",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"CAP Research Ltd",
+                "LocationCity":"Quatre Bornes",
+                "LocationCountry":"Mauritius",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"poojdev.jhugroo@cap-research.com"
+                    },{
+                      "LocationContactName":"Poojdev Jhugroo",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"CAIMED Investigacion en salud S.A de C.V.",
+                "LocationCity":"Ciudad de México",
+                "LocationCountry":"Mexico",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"draferrusquia@gmail.com"
+                    },{
+                      "LocationContactName":"Diana Laura Ferrusquía Toriz",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Consultorio Particular del Dr. Miguel Cortes Hernandez - (dentro del Centro de Especialidades Medicas Vista",
+                "LocationCity":"Cuernavaca",
+                "LocationCountry":"Mexico",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"neoral2000@yahoo.com"
+                    },{
+                      "LocationContactName":"Miguel Cortes Hernandez",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Centro de Estudios de Investigacion Basica y Clinica SC",
+                "LocationCity":"Guadalajara",
+                "LocationCountry":"Mexico",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"dr.iggv@gmail.com"
+                    },{
+                      "LocationContactName":"Ignacio Garcia Valladares",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Diseño y Planeacion en Investigacion Medica S.C.",
+                "LocationCity":"Guadalajara",
+                "LocationCountry":"Mexico",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"joraguil@hotmail.com"
+                    },{
+                      "LocationContactName":"Jorge Enrique Aguilar Arreola",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Hospital Clinica Angeles Chapalita",
+                "LocationCity":"Guadalajara",
+                "LocationCountry":"Mexico",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"federico_galvan@hotmail.com"
+                    },{
+                      "LocationContactName":"Federico Galvan Villegas",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Centro de Investigacion Clínica GRAMEL S.C",
+                "LocationCity":"Mexico",
+                "LocationCountry":"Mexico",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"luis.jara@gramel.com.mx"
+                    },{
+                      "LocationContactName":"Luis Javier Jara Quezada",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Consultorio de Reumatologia - Hospital Angeles Lindavista Cons. 445B",
+                "LocationCity":"Mexico",
+                "LocationCountry":"Mexico",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"smcv_1972@hotmail.com"
+                    },{
+                      "LocationContactName":"Sandra Miriam Carrillo Vazquez",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Instituto Nacional de Ciencias Médicas y Nutricion Dr. Salvador Zubiran",
+                "LocationCity":"Mexico",
+                "LocationCountry":"Mexico",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"juanita.romerodiaz@gmail.com"
+                    },{
+                      "LocationContactName":"Juanita Romero Diaz",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Centro Regiomontano de Estudios Clínicos Roma S.C.",
+                "LocationCity":"Monterrey",
+                "LocationCountry":"Mexico",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"dra.iriscolunga@hotmail.com"
+                    },{
+                      "LocationContactName":"Iris J Colunga Pedraza",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Clinosar Mexico, S.A. de C.V.",
+                "LocationCity":"México",
+                "LocationCountry":"Mexico",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"clinosarinvestigacion@prodigy.net.mx"
+                    },{
+                      "LocationContactName":"Maria de Jesus Araujo Arias",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"CIMAB S.A. de C.V. - Centro de Investigacion Medica Alberto Bazzoni",
+                "LocationCity":"Torreon",
+                "LocationCountry":"Mexico",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"sicsik69@hotmail.com"
+                    },{
+                      "LocationContactName":"Sandra Araceli Sicsik Ayala",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Medical Care & Research SA de CV",
+                "LocationCity":"Yucatan",
+                "LocationCountry":"Mexico",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"ace283@hotmail.com"
+                    },{
+                      "LocationContactName":"Aaron Alejandro Barrera Rodriguez",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"ICS ARENSIA Exploratory Medicine SRL - Republican Clinical Hospital \"Timofei Mosneaga\"",
+                "LocationCity":"Chisinau",
+                "LocationCountry":"Moldova, Republic of",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"svetlana.agachi@arensia-em.com"
+                    },{
+                      "LocationContactName":"Svetlana Agachi",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"GreenCity Medical Center",
+                "LocationCity":"Angeles City, Pampanga",
+                "LocationCountry":"Philippines",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"drgomez_aufsom@yahoo.com"
+                    },{
+                      "LocationContactName":"Harold Michael Gomez",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Perpetual Succour Hospital",
+                "LocationCity":"Cebu City",
+                "LocationCountry":"Philippines",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"jillt_md@yahoo.com"
+                    },{
+                      "LocationContactName":"Jill Henriett Mangubat",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Davao Doctors Hospital - Medicine",
+                "LocationCity":"Davao City",
+                "LocationCountry":"Philippines",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"lhao88@yahoo.com"
+                    },{
+                      "LocationContactName":"Llewellyn Hao",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Iloilo Doctors Hospital",
+                "LocationCity":"Iloilo City",
+                "LocationCountry":"Philippines",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"carroyo1104@gmail.com"
+                    },{
+                      "LocationContactName":"Caroline G Arroyo",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Mary Mediatrix Medical Center",
+                "LocationCity":"Lipa City",
+                "LocationCountry":"Philippines",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"doc_lanzon@yahoo.com"
+                    },{
+                      "LocationContactName":"Allan E Lanzon",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Chinese General Hospital & Medical Center",
+                "LocationCity":"Manila",
+                "LocationCountry":"Philippines",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"julietanliyu@gmail.com"
+                    },{
+                      "LocationContactName":"Julie L Li Yu",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Ospital Ng Makati",
+                "LocationCity":"Quezon City",
+                "LocationCountry":"Philippines",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"esvista@stlukes.com.ph"
+                    },{
+                      "LocationContactName":"Evan Glenn Vista",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Far Eastern University - Dr. Nicanor Reyes Medical Foundation - Department of Child Health",
+                "LocationCity":"QuezonCity",
+                "LocationCountry":"Philippines",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"rosariopajarin@yahoo.com"
+                    },{
+                      "LocationContactName":"Rosario P Baes",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Nova Reuma Spolka Partnerska",
+                "LocationCity":"Bialystok",
+                "LocationCountry":"Poland",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"izadomyslawska@o2.pl"
+                    },{
+                      "LocationContactName":"Izabela Domyslawska",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Prywatna Praktyka Lekarska prof Pawel Hrycaj",
+                "LocationCity":"Koscian",
+                "LocationCountry":"Poland",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"pawel.hrycaj@gmail.com"
+                    },{
+                      "LocationContactName":"Pawel Hrycaj",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Centrum Medyczne Plejady",
+                "LocationCity":"Krakow",
+                "LocationCountry":"Poland",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"magdalena.lowenhoff@gmail.com"
+                    },{
+                      "LocationContactName":"Magdalena Celinska Lowenhoff",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Centrum Nowoczesnych Terapii Dobry Lekarz",
+                "LocationCity":"Krakow",
+                "LocationCountry":"Poland",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"wojciech.sydor@dobrylekarz.com.pl"
+                    },{
+                      "LocationContactName":"Wojciech Sydor",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Twoja Przychodnia Opolskie Centrum Medyczne",
+                "LocationCity":"Opole",
+                "LocationCountry":"Poland",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"gjaworska@opolemed.com"
+                    },{
+                      "LocationContactName":"Grazyna Jaworska Gorna",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Twoja Przychodnia PCM",
+                "LocationCity":"Poznan",
+                "LocationCountry":"Poland",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"wytyk@twojaprzychodnia.com"
+                    },{
+                      "LocationContactName":"Agata Wytyk Nowak",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Twoja Przychodnia-Szczecinskie Centrum Medyczne",
+                "LocationCity":"Szczecin",
+                "LocationCountry":"Poland",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"debniak@twojaprzychodnia.com"
+                    },{
+                      "LocationContactName":"Tadeusz Debniak",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Clinical Best Solutions - Warszawa",
+                "LocationCity":"Warszawa",
+                "LocationCountry":"Poland",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"drmariuszsikora@gmail.com"
+                    },{
+                      "LocationContactName":"Mariusz Sikora",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Clinical Center of Serbia - Clinic of Alergology and Imunology",
+                "LocationCity":"Belgrade",
+                "LocationCountry":"Serbia",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"snezana.arandjelovic2019@gmail.com"
+                    },{
+                      "LocationContactName":"Snezana Arandjelovic",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Institute of Rheumatology",
+                "LocationCity":"Belgrade",
+                "LocationCountry":"Serbia",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"sefikbukilicam@yahoo.com"
+                    },{
+                      "LocationContactName":"Mirjana Sefik Bukilica",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Institute of Rheumatology",
+                "LocationCity":"Belgrade",
+                "LocationCountry":"Serbia",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"g.radunovic47@gmail.com"
+                    },{
+                      "LocationContactName":"Goran Radunovic",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Clinical Center Kragujevac",
+                "LocationCity":"Kragujevac",
+                "LocationCountry":"Serbia",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactName":"Mirjana Veselinovic",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Arthritis Clinical Research Trial Unit - Dr CE Spargo and Dr RB Bhorat",
+                "LocationCity":"Cape Town",
+                "LocationCountry":"South Africa",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"spargoc@rheumatologists.co.za"
+                    },{
+                      "LocationContactName":"Catherine E Spargo",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"University of Pretoria Clinical Research Unit - Parent",
+                "LocationCity":"Pretoria",
+                "LocationCountry":"South Africa",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"tar@up.ac.za"
+                    },{
+                      "LocationContactName":"Mahmood M Ally",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Naidoo, A - Netcare Umhlanga Hospital",
+                "LocationCity":"Umhlanga",
+                "LocationCountry":"South Africa",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"asokan@webmail.co.za"
+                    },{
+                      "LocationContactName":"Asokan Naidoo",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Accellacare - Alcobendas",
+                "LocationCity":"Alcobendas",
+                "LocationCountry":"Spain",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"grupo9123@hotmail.com"
+                    },{
+                      "LocationContactName":"Raul Maria Veiga Cabello",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Hospital General de Castellon - Servicio de Reumatologia",
+                "LocationCity":"Castellon",
+                "LocationCountry":"Spain",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"arantxaconesa@hotmail.com"
+                    },{
+                      "LocationContactName":"Maria Arantzazu Conesa Mateos",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Complejo Hospitalario Universitario A Coruña - Servicio de Reumatologia",
+                "LocationCity":"La Coruña",
+                "LocationCountry":"Spain",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"fblagar@sergas.es"
+                    },{
+                      "LocationContactName":"Francisco Javier Blanco Garcia",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Hospital Universitario Marques de Valdecilla - Servicio de Reumatologia",
+                "LocationCity":"Madrid",
+                "LocationCountry":"Spain",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"mgalindo@h12o.es"
+                    },{
+                      "LocationContactName":"Maria Galindo Izquierdo",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Hospital Regional Universitario de Malaga - Reumatology Dept",
+                "LocationCity":"Málaga",
+                "LocationCountry":"Spain",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"afnebro@gmail.com"
+                    },{
+                      "LocationContactName":"Antonio Fernandez Nebro",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Hospital Quironsalud Sagrado Corazon - Reumatologia",
+                "LocationCity":"Sevilla",
+                "LocationCountry":"Spain",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"pcejashil@gmail.com"
+                    },{
+                      "LocationContactName":"Paula Cejas Caceres",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Hospital Universitario Dr. Peset - Servicio de Reumatologia",
+                "LocationCity":"Valencia",
+                "LocationCountry":"Spain",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"alegre_juasan@gva.es"
+                    },{
+                      "LocationContactName":"Juan Jose Alegre Sancho",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Hospital Universitario Rio Hortega - Servicio de Medicina Interna",
+                "LocationCity":"Valladolid",
+                "LocationCountry":"Spain",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"jbarbadoa@saludcastillayleon.es"
+                    },{
+                      "LocationContactName":"Maria Julia Barbado Ajo Barbado Ajo",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Kaohsiung Chang Gung Memorial Hospital",
+                "LocationCity":"Kaohsiung",
+                "LocationCountry":"Taiwan",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"jichenho@cgmh.org.tw"
+                    },{
+                      "LocationContactName":"Ji Chen Ho",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Cheng Hsin General Hospital",
+                "LocationCity":"Taipei",
+                "LocationCountry":"Taiwan",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"doc1116d@gmail.com"
+                    },{
+                      "LocationContactName":"Hsiao-Yi Lin",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              },{
+                "LocationFacility":"Taipei Veterans General Hospital",
+                "LocationCity":"Taipei",
+                "LocationCountry":"Taiwan",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"ytchang@vghtpe.gov.tw"
+                    },{
+                      "LocationContactName":"Yun-Ting Chang",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "ReferencesModule":{
+          "SeeAlsoLinkList":{
+            "SeeAlsoLink":[
+              {
+                "SeeAlsoLinkLabel":"Trial Awareness and Transparency website",
+                "SeeAlsoLinkURL":"https://clinicaltrials.emdgroup.com/en/"
+              }
+            ]
+          }
+        },
+        "IPDSharingStatementModule":{
+          "IPDSharing":"Yes",
+          "IPDSharingDescription":"We are committed to enhancing public health through responsible sharing of clinical trial data. Following approval of a new product or a new indication for an approved product in both the US and European Union, the study sponsor and/or its affiliated companies will share study protocols, anonymized patient data and study level data, and redacted clinical study reports with qualified scientific and medical researchers, upon request, as necessary for conducting legitimate research. Further information on how to request data can be found on our website bit.ly/IPD21",
+          "IPDSharingInfoTypeList":{
+            "IPDSharingInfoType":[
+              "Study Protocol",
+              "Statistical Analysis Plan (SAP)",
+              "Clinical Study Report (CSR)",
+              "Analytic Code"
+            ]
+          },
+          "IPDSharingTimeFrame":"Within six months after the approval of a new product or a new indication for an approved product in both the United States and the European Union",
+          "IPDSharingAccessCriteria":"Qualified scientific and medical researchers can request the data. Such requests must be submitted in writing to the company's portal and will be internally reviewed regarding criteria for researchers' qualification and legitimacy of the research proposal.",
+          "IPDSharingURL":"https://bit.ly/IPD21"
+        }
+      },
+      "DerivedSection":{
+        "MiscInfoModule":{
+          "VersionHolder":"September 19, 2022"
+        },
+        "ConditionBrowseModule":{
+          "ConditionMeshList":{
+            "ConditionMesh":[
+              {
+                "ConditionMeshId":"D000008180",
+                "ConditionMeshTerm":"Lupus Erythematosus, Systemic"
+              }
+            ]
+          },
+          "ConditionAncestorList":{
+            "ConditionAncestor":[
+              {
+                "ConditionAncestorId":"D000003240",
+                "ConditionAncestorTerm":"Connective Tissue Diseases"
+              },{
+                "ConditionAncestorId":"D000001327",
+                "ConditionAncestorTerm":"Autoimmune Diseases"
+              },{
+                "ConditionAncestorId":"D000007154",
+                "ConditionAncestorTerm":"Immune System Diseases"
+              }
+            ]
+          },
+          "ConditionBrowseLeafList":{
+            "ConditionBrowseLeaf":[
+              {
+                "ConditionBrowseLeafId":"M10329",
+                "ConditionBrowseLeafName":"Lupus Erythematosus, Systemic",
+                "ConditionBrowseLeafAsFound":"Systemic Lupus Erythematosus",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M10327",
+                "ConditionBrowseLeafName":"Lupus Erythematosus, Cutaneous",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M10328",
+                "ConditionBrowseLeafName":"Lupus Erythematosus, Discoid",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M5616",
+                "ConditionBrowseLeafName":"Connective Tissue Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M3781",
+                "ConditionBrowseLeafName":"Autoimmune Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M9352",
+                "ConditionBrowseLeafName":"Immune System Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"T1683",
+                "ConditionBrowseLeafName":"Cutaneous Lupus Erythematosus",
+                "ConditionBrowseLeafAsFound":"Cutaneous Lupus Erythematosus",
+                "ConditionBrowseLeafRelevance":"high"
+              }
+            ]
+          },
+          "ConditionBrowseBranchList":{
+            "ConditionBrowseBranch":[
+              {
+                "ConditionBrowseBranchAbbrev":"BC17",
+                "ConditionBrowseBranchName":"Skin and Connective Tissue Diseases"
+              },{
+                "ConditionBrowseBranchAbbrev":"BC20",
+                "ConditionBrowseBranchName":"Immune System Diseases"
+              },{
+                "ConditionBrowseBranchAbbrev":"All",
+                "ConditionBrowseBranchName":"All Conditions"
+              },{
+                "ConditionBrowseBranchAbbrev":"Rare",
+                "ConditionBrowseBranchName":"Rare Diseases"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+

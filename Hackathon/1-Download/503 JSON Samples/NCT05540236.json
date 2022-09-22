@@ -1,0 +1,310 @@
+{
+  "FullStudy":{
+    "Rank":485,
+    "Study":{
+      "ProtocolSection":{
+        "IdentificationModule":{
+          "NCTId":"NCT05540236",
+          "OrgStudyIdInfo":{
+            "OrgStudyId":"CGH-P110019"
+          },
+          "Organization":{
+            "OrgFullName":"Cathay General Hospital",
+            "OrgClass":"OTHER"
+          },
+          "BriefTitle":"Effects of Auricular Acupressure on the Management of Postoperative Nausea and Vomiting After Gynecological Laparoscopic Surgeries",
+          "OfficialTitle":"Effects of Auricular Pellet Acupressure on the Prevention of Postoperative Nausea and Vomiting Among Women With Gynecological Surgeries"
+        },
+        "StatusModule":{
+          "StatusVerifiedDate":"July 2022",
+          "OverallStatus":"Completed",
+          "ExpandedAccessInfo":{
+            "HasExpandedAccess":"No"
+          },
+          "StartDateStruct":{
+            "StartDate":"July 18, 2021",
+            "StartDateType":"Actual"
+          },
+          "PrimaryCompletionDateStruct":{
+            "PrimaryCompletionDate":"May 20, 2022",
+            "PrimaryCompletionDateType":"Actual"
+          },
+          "CompletionDateStruct":{
+            "CompletionDate":"May 20, 2022",
+            "CompletionDateType":"Actual"
+          },
+          "StudyFirstSubmitDate":"August 14, 2022",
+          "StudyFirstSubmitQCDate":"September 12, 2022",
+          "StudyFirstPostDateStruct":{
+            "StudyFirstPostDate":"September 14, 2022",
+            "StudyFirstPostDateType":"Actual"
+          },
+          "LastUpdateSubmitDate":"September 12, 2022",
+          "LastUpdatePostDateStruct":{
+            "LastUpdatePostDate":"September 14, 2022",
+            "LastUpdatePostDateType":"Actual"
+          }
+        },
+        "SponsorCollaboratorsModule":{
+          "ResponsibleParty":{
+            "ResponsiblePartyType":"Sponsor"
+          },
+          "LeadSponsor":{
+            "LeadSponsorName":"Cathay General Hospital",
+            "LeadSponsorClass":"OTHER"
+          }
+        },
+        "OversightModule":{
+          "OversightHasDMC":"No",
+          "IsFDARegulatedDrug":"No",
+          "IsFDARegulatedDevice":"No"
+        },
+        "DescriptionModule":{
+          "BriefSummary":"Auricular acupressure is easily accessible and easily performed, and can significantly relieve PONV symptoms, and improve patient's satisfaction in women receiving general anesthesia for gynecological surgeries. This makes it an economically-beneficial supplemental therapy, worthy of promoting for patients receiving general anesthesia.",
+          "DetailedDescription":"Background: Post-operative nausea and vomiting (PONV) is common after surgery and anesthesia. Studies have indicated that females receiving gynecological surgeries have a higher incidence of PONV compared to other surgical patients. PONV not only causes discomfort, but may also lead to serious complications, affecting health outcomes. Currently, no single medication has shown universal efficacy for the prevention and treatment of PONV, thus it is empirical for the exploration of non-pharmaceutical methods for PONV management.\n\nPurposes: The aim of this study was to explore the efficacy of auricular acupressure on the reduction of PONV, post-operative anxiety, vital signs stability (respiration, heart rate, and blood pressure), and overall improvement of patient satisfaction.\n\nMethods: This study design was a randomized clinical trial, with the study population of patients with gynecological laparoscopic surgeries between the ages of 20 to 50, receiving general anesthesia for laparoscopic surgery. A total of 82 patients were enrolled, who were randomly allocated into the control and experimental groups using Microsoft Excel spreadsheet software, with 40 patients in each group, after 2 patients were excluded. Demographic Survey and Hospital Anxiety Scale (Anxiety- HADS-A) were completed prior to surgery. Both group of patients received the auricular pellet acupressure after the first measurement of vital signs upon entry into the post-anesthesia care unit. The control group were given sham intervention of single ear auricular pellet acupressure at the knee(AH4) and thoracic vertebrae(AH11) acupuncture points, while the experimental group were given therapeutic intervention of single ear auricular pellet acupressure at the stomach(CO4), cardia(CO3), liver(CO12), occiput(AT3), shenmen(TF4) and subcortex(AT4) acupuncture points. The Index of Nausea, Vomiting, and Retching (INVR) and vital signs were surveyed 8 hours after surgery. The same was process was repeated 24 hours after surgery, along with Hospital Anxiety Scale (Anxiety- HADS-A) and anesthesia satisfaction surveys. The auricular acupressure were removed after 24 hours. Data was processed using SPSS version 26.0 statistical analysis package software, using independent samples t-test and chi-square test to identify differences between the two groups, and perform post-interventional effectiveness analysis with generalized estimating equations (GEE)."
+        },
+        "ConditionsModule":{
+          "ConditionList":{
+            "Condition":[
+              "Laparoscopic Surgery",
+              "PONV",
+              "Auricular Acupressure"
+            ]
+          },
+          "KeywordList":{
+            "Keyword":[
+              "gynecological laparoscopic surgery",
+              "auricular acupressure",
+              "complementary therapy",
+              "PONV",
+              "general anesthesia"
+            ]
+          }
+        },
+        "DesignModule":{
+          "StudyType":"Interventional",
+          "PhaseList":{
+            "Phase":[
+              "Not Applicable"
+            ]
+          },
+          "DesignInfo":{
+            "DesignAllocation":"Randomized",
+            "DesignInterventionModel":"Parallel Assignment",
+            "DesignPrimaryPurpose":"Prevention",
+            "DesignMaskingInfo":{
+              "DesignMasking":"Single",
+              "DesignWhoMaskedList":{
+                "DesignWhoMasked":[
+                  "Investigator"
+                ]
+              }
+            }
+          },
+          "EnrollmentInfo":{
+            "EnrollmentCount":"82",
+            "EnrollmentType":"Actual"
+          }
+        },
+        "ArmsInterventionsModule":{
+          "ArmGroupList":{
+            "ArmGroup":[
+              {
+                "ArmGroupLabel":"The experimental group were given therapeutic intervention",
+                "ArmGroupType":"Experimental",
+                "ArmGroupDescription":"The experimental group were given therapeutic intervention of single ear auricular pellet acupressure at the stomach(CO4), cardia(CO3), liver(CO12), occiput(AT3), shenmen(TF4) and subcortex(AT4) acupuncture points",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Other: auricular acupressure"
+                  ]
+                }
+              },{
+                "ArmGroupLabel":"The control group were given sham intervention",
+                "ArmGroupType":"Placebo Comparator",
+                "ArmGroupDescription":"The control group were given sham intervention of single ear auricular pellet acupressure at the knee(AH4) and thoracic vertebrae(AH11) acupuncture points",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Other: sham auricular acupressure"
+                  ]
+                }
+              }
+            ]
+          },
+          "InterventionList":{
+            "Intervention":[
+              {
+                "InterventionType":"Other",
+                "InterventionName":"auricular acupressure",
+                "InterventionDescription":"The experimental group were given therapeutic intervention of single ear auricular pellet acupressure at the stomach(CO4), cardia(CO3), liver(CO12), occiput(AT3), shenmen(TF4) and subcortex(AT4) acupuncture points",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "The experimental group were given therapeutic intervention"
+                  ]
+                }
+              },{
+                "InterventionType":"Other",
+                "InterventionName":"sham auricular acupressure",
+                "InterventionDescription":"The control group were given sham intervention of single ear auricular pellet acupressure at the knee(AH4) and thoracic vertebrae(AH11) acupuncture points",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "The control group were given sham intervention"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "OutcomesModule":{
+          "PrimaryOutcomeList":{
+            "PrimaryOutcome":[
+              {
+                "PrimaryOutcomeMeasure":"Rhodes Index of Nausea, Vomiting, and Retching",
+                "PrimaryOutcomeDescription":"This tool is divided into self-assessment and observation, with 8 total questions, each with 5 score values (0 to 4 points), for a maximum score of 32 points. 3 of the questions evaluate the amount, frequency and severity of vomiting, accounting for up to 12 points. 3 of the questions evaluate the frequency and severity of nausea, accounting for up to 12 points. 2 of the questions evaluate the frequency and severity of retching, accounting for up to 8 points. The higher the total score, the more severe the symptoms. The Cronbach's alpha of the original tool is 0.89-0.97, the Cronbach's alpha of prospective studies was 0.85 (Rhodes & McDaniel, 1999), while the Cronbach's alpha of Chou et al. (2005) for the Chinese version of the Rhodes Index of Nausea, Vomiting and Retching(RINV) was 0.94, with content validity index (CVI) of 1.0.",
+                "PrimaryOutcomeTimeFrame":"24hours after ear auricular acupressure"
+              }
+            ]
+          },
+          "SecondaryOutcomeList":{
+            "SecondaryOutcome":[
+              {
+                "SecondaryOutcomeMeasure":"Hospital Anxiety and Depression Scale: Anxiety- (HADS-A)",
+                "SecondaryOutcomeDescription":"The tool was developed by Zigmond and Snaith in 1983, with a total of 14 questions, comprising of two subsets, one for anxiety (HADS-A) and one for depression (HADS-D) both with 7 questions. In the UK and other European countries, many studies show that the Cronbach's alpha for cancer patients was 0.81-0.90. Domestically, Chen et al.'s use of the Chinese version showed Cronbach's alpha of 0.82 for the anxiety assessment tool (HADS-A) and 0.77 for the depression assessment tool (HADS-D), with retest reliability of r = 0.64-0.83（p<0.0l）one week afterwards. Using the 4-Point Likert Scale to evaluate anxiety and depression, the two assessment tools score 0-21 points, with higher points indicating higher levels of anxiety and depression. This study uses HADS-A to assess the anxiety level of patients before and after surgery.",
+                "SecondaryOutcomeTimeFrame":"24hours after ear auricular acupressure"
+              },{
+                "SecondaryOutcomeMeasure":"Post-anesthesia care satisfaction",
+                "SecondaryOutcomeDescription":"This study uses 0-10 points visual analogue scale to quantify satisfaction levels of women receiving post-anesthesia management of nausea and vomiting, with higher score representing better satisfaction with the nursing care that was received.",
+                "SecondaryOutcomeTimeFrame":"24hours after ear auricular acupressure"
+              }
+            ]
+          }
+        },
+        "EligibilityModule":{
+          "EligibilityCriteria":"Inclusion Criteria:\n\n20-50years,Female\nASA(Amersican Society of Anesthesiologists):I or II\nGynecological laparoscopic patients receiving general anesthesia with endotracheal tube and volatile anesthetics (Desflurane or Sevoflurane)\nClear consciousness, willing and able to sign permit agreeing to participate in the study\n\nExclusion Criteria:\n\nAllergic skin condition or damaged skin at planned auricular pellet site.\nUnplanned admission to Intensive Care Unit\nRetained endotracheal tube upon entry to post-operative care unit\nPostoperative use of patient-controlled analgesia\nDiagnosis of malignancy\nAnti-emetics: Use of Novamin of 3 or more times.\nPatient who fulfill the criteria of Non-smoker, motion sickness, and history of PONV",
+          "HealthyVolunteers":"Accepts Healthy Volunteers",
+          "Gender":"Female",
+          "MinimumAge":"20 Years",
+          "MaximumAge":"50 Years",
+          "StdAgeList":{
+            "StdAge":[
+              "Adult"
+            ]
+          }
+        },
+        "ContactsLocationsModule":{
+          "LocationList":{
+            "Location":[
+              {
+                "LocationFacility":"Cathay General Hospital",
+                "LocationCity":"Taipei",
+                "LocationCountry":"Taiwan"
+              }
+            ]
+          }
+        }
+      },
+      "DerivedSection":{
+        "MiscInfoModule":{
+          "VersionHolder":"September 19, 2022"
+        },
+        "ConditionBrowseModule":{
+          "ConditionMeshList":{
+            "ConditionMesh":[
+              {
+                "ConditionMeshId":"D000014839",
+                "ConditionMeshTerm":"Vomiting"
+              },{
+                "ConditionMeshId":"D000020250",
+                "ConditionMeshTerm":"Postoperative Nausea and Vomiting"
+              }
+            ]
+          },
+          "ConditionAncestorList":{
+            "ConditionAncestor":[
+              {
+                "ConditionAncestorId":"D000009325",
+                "ConditionAncestorTerm":"Nausea"
+              },{
+                "ConditionAncestorId":"D000012817",
+                "ConditionAncestorTerm":"Signs and Symptoms, Digestive"
+              },{
+                "ConditionAncestorId":"D000011183",
+                "ConditionAncestorTerm":"Postoperative Complications"
+              },{
+                "ConditionAncestorId":"D000010335",
+                "ConditionAncestorTerm":"Pathologic Processes"
+              }
+            ]
+          },
+          "ConditionBrowseLeafList":{
+            "ConditionBrowseLeaf":[
+              {
+                "ConditionBrowseLeafId":"M11425",
+                "ConditionBrowseLeafName":"Nausea",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M16734",
+                "ConditionBrowseLeafName":"Vomiting",
+                "ConditionBrowseLeafAsFound":"Vomiting",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M21227",
+                "ConditionBrowseLeafName":"Postoperative Nausea and Vomiting",
+                "ConditionBrowseLeafAsFound":"Postoperative Nausea and Vomiting",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M14774",
+                "ConditionBrowseLeafName":"Signs and Symptoms, Digestive",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M13217",
+                "ConditionBrowseLeafName":"Postoperative Complications",
+                "ConditionBrowseLeafRelevance":"low"
+              }
+            ]
+          },
+          "ConditionBrowseBranchList":{
+            "ConditionBrowseBranch":[
+              {
+                "ConditionBrowseBranchAbbrev":"BC23",
+                "ConditionBrowseBranchName":"Symptoms and General Pathology"
+              },{
+                "ConditionBrowseBranchAbbrev":"All",
+                "ConditionBrowseBranchName":"All Conditions"
+              }
+            ]
+          }
+        },
+        "InterventionBrowseModule":{
+          "InterventionBrowseLeafList":{
+            "InterventionBrowseLeaf":[
+              {
+                "InterventionBrowseLeafId":"M3259",
+                "InterventionBrowseLeafName":"Anesthetics",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M10262",
+                "InterventionBrowseLeafName":"Liver Extracts",
+                "InterventionBrowseLeafRelevance":"low"
+              }
+            ]
+          },
+          "InterventionBrowseBranchList":{
+            "InterventionBrowseBranch":[
+              {
+                "InterventionBrowseBranchAbbrev":"CNSDep",
+                "InterventionBrowseBranchName":"Central Nervous System Depressants"
+              },{
+                "InterventionBrowseBranchAbbrev":"All",
+                "InterventionBrowseBranchName":"All Drugs and Chemicals"
+              },{
+                "InterventionBrowseBranchAbbrev":"Hemat",
+                "InterventionBrowseBranchName":"Hematinics"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+

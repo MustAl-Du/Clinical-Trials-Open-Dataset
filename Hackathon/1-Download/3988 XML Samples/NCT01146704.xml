@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2231">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01146704</url>
+  </required_header>
+  <id_info>
+    <org_study_id>F7219-R</org_study_id>
+    <nct_id>NCT01146704</nct_id>
+  </id_info>
+  <brief_title>Gastrointestinal Hormonal Regulation of Obesity</brief_title>
+  <official_title>Gastrointestinal Hormonal Regulation of Obesity</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>VA Office of Research and Development</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>VA Office of Research and Development</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objective of this study is to test and determine whether a high protein diet is&#xD;
+      efficacious, safe and beneficial to curtail food intake and body weight in obese adult human&#xD;
+      patients and to establish whether neurohormonal mechanisms of a high protein diet induce an&#xD;
+      early signal of fullness or satiety in a relevant experimental model, focusing on activation&#xD;
+      of gastric vagal afferents.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Obesity is a major cause of morbidity and mortality within the VA medical system accounting&#xD;
+      for the majority of cases of diabetes mellitus, hypertension, coronary artery disease and&#xD;
+      cerebrovascular accidents. An improved understanding of the regulation of body weight in&#xD;
+      Veteran obese patients will improve the quality of life by avoidance of serious medical&#xD;
+      complications and by suggesting novel therapeutic approaches.&#xD;
+&#xD;
+      The large proportion of the Veteran population that frequent the VA health care system and&#xD;
+      who suffer from obesity or have obesity-related illnesses can benefit from this research.&#xD;
+&#xD;
+      Obesity is associated with early mortality in the United States. It has been estimated to&#xD;
+      result in about 280,000 deaths per year in U.S. adults and the expenses related to obesity&#xD;
+      are in excess of $80 billion. Obesity is a major cause of morbidity and mortality within the&#xD;
+      VA medical system accounting for the majority of cases of diabetes mellitus, hypertension,&#xD;
+      coronary artery disease and cerebrovascular accidents.&#xD;
+&#xD;
+      The proposed studies will address important physiological questions regarding the mechanisms&#xD;
+      of gut peptides regulating satiety and food intake, as well as provide potentially important&#xD;
+      clinical treatment strategies. The release of GI hormones in response to meal stimuli plays&#xD;
+      an important role in the regulation of body weight homeostasis. The neural pathways&#xD;
+      interconnecting gut signaling of satiety to the brain in response to nutrient intake are&#xD;
+      regulated by neuropeptides and GI hormones.&#xD;
+&#xD;
+      The investigators have a long history in the study of GI hormones. In the current&#xD;
+      application, the investigators plan to elucidate the impact of a high protein diet on the&#xD;
+      profile of gut hormones released postprandially in obese subjects and the underlying changes&#xD;
+      at the neuronal (vagal afferent) level that take place in response to a high protein diet in&#xD;
+      a relevant experimental model.&#xD;
+&#xD;
+      Understanding the regulatory mechanisms involved in satiety will provide clues for existing&#xD;
+      and novel forms of therapies. Studies may also provide insight into underlying mechanisms&#xD;
+      responsible for weight loss induced by gastroplasty and bariatric procedure used for the&#xD;
+      treatment of obesity.&#xD;
+&#xD;
+      The study design is a three-group randomized, controlled study. This randomized controlled&#xD;
+      study lasting 24-30 months will assign approximately 198 volunteer subjects (ages 30, BMI&#xD;
+      27-40 kg/m2) (66 subjects each) to the following three groups who will adhere to diets with&#xD;
+      the same number of calories:&#xD;
+&#xD;
+        1. Very high protein diet group based on 1.4 gram of protein per pound of lean body mass,&#xD;
+&#xD;
+        2. High protein diet group based on 1 gram of protein per pound of lean body mass, and&#xD;
+&#xD;
+        3. Standard protein diet group as control based on 0.5 gram protein per pound of lean body&#xD;
+           mass with same calories.&#xD;
+&#xD;
+      All participants will meet with a Registered Dietitian (who it is anticipated will join the&#xD;
+      research study team), to assist them with their diet efforts in all the arms.&#xD;
+&#xD;
+      In the study, the percent energy from fat will be held constant at 30% and the differences in&#xD;
+      the diets relate only to the protein and carbohydrate contents (35% protein and 35%&#xD;
+      carbohydrate, 25% protein and 45% carbohydrate, and 12.5% protein and 57.5% carbohydrate&#xD;
+      respectively).&#xD;
+&#xD;
+      We will assess the efficacy of a high protein diet on satiety and pattern of postprandial gut&#xD;
+      hormone in obese patients. All the subjects will be followed by a dietitian and determination&#xD;
+      of circulating gut hormone and biochemical assays will be performed.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">September 1, 2010</start_date>
+  <completion_date type="Actual">February 27, 2019</completion_date>
+  <primary_completion_date type="Actual">December 31, 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Body Weight From Baseline to 12 Months</measure>
+    <time_frame>The primary outcome of weight loss is measured at the Baseline at Day 1, and at the end of the 12 months study period for each subject.</time_frame>
+    <description>The primary objective is to compare weight loss between each of the two diets, a high-protein diet versus a standard diet.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy Variables: Nutrition Assessments (FFQ, 3DFR, and Satiety Questionnaire), Anthropometric Profiles (e.g., Waist and Hip Circumferences), Lab and Biochemical Variables (e.g., Insulin, Lipid Levels, HbA1c), Body Composition (Body Fat), Hormone Level</measure>
+    <time_frame>The outcome of efficacy is measured at Day 1 Baseline and at monthly visits during the 12 month study period for each subject.</time_frame>
+    <description>High-protein diet promotes sensitivity to cholecystokinin and shifts the cecal microbiome without altering brain inflammation in diet-induced obesity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety Variables: Incidence, Severity and Duration of Adverse Events, Vital Signs, Concomitant Medications and Physical Examination Results.</measure>
+    <time_frame>Safety variables are measured at the time any adverse events occur, and vital signs, concomitant medications and physical examination results are measured at Baseline on Day 1 and monthly throughout the 12 month study period for each subject.</time_frame>
+    <description>High-protein diet promotes sensitivity to cholecystokinin and shifts the cecal microbiome without altering brain inflammation in diet-induced obesity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Improvement in NAFLD Fibrosis Score</measure>
+    <time_frame>1 year</time_frame>
+    <description>Patients enrolled with a history of NAFLD will be assessed for improvement in NAFLD Fibrosis scoring index and other imaging parameters if performed as standard clinical care.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">31</enrollment>
+  <condition>Obesity</condition>
+  <arm_group>
+    <arm_group_label>Standard Diet</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Standard protein diet group as control based on 0.5 gram protein per pound of lean body mass with same calories: 15% protein and 55% carbohydrate.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High Protein Diet</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>High protein diet group based on 1 gram of protein per pound of lean body mass: 30% protein and 40% carbohydrate.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Protein powder supplement, standard dosage based on 0.5 gram protein per pound of subject's lean body mass</intervention_name>
+    <description>Standard protein diet as control, based on 0.5 gram protein per pound of lean body mass, isocaloric (same number of calories) and consisting of 15% protein and 55% carbohydrate.</description>
+    <arm_group_label>Standard Diet</arm_group_label>
+    <other_name>Standard Protein Diet</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Protein powder supplement, High Level Protein, based on 1 gram of protein per pound of lean body mass: 25% protein and 45% carbohydrate</intervention_name>
+    <description>High level of protein diet, based on 1 gram of protein per pound of subject's lean body mass, isocaloric (same number of calories) and consisting of 30% protein and 40% carbohydrate.</description>
+    <arm_group_label>High Protein Diet</arm_group_label>
+    <other_name>High Protein Diet</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        For inclusion in the study, patients must fulfill all of the following criteria:&#xD;
+&#xD;
+          -  Subjects must be able to attend all 7 scheduled study visits at the West LA GI clinic&#xD;
+             at the VAGLAHS, not including the screening visit.&#xD;
+&#xD;
+          -  Subjects must sign the VA Greater Los Angeles Healthcare System Institutional Review&#xD;
+             Board approved written informed consent prior to the initiation of any study-related&#xD;
+             activities or study specific procedures or randomization.&#xD;
+&#xD;
+          -  Subjects must have given written authorization for the release of protected health&#xD;
+             information in compliance with Health Insurance Portability and Accountability Act&#xD;
+             (HIPAA) regulations.&#xD;
+&#xD;
+        After the Informed Consent process, these additional Inclusion Criteria will be applied to&#xD;
+        potential subjects:&#xD;
+&#xD;
+          -  Age 30 years and older at screening.&#xD;
+&#xD;
+          -  BMI of 27 to 40 kg/m2 inclusive.&#xD;
+&#xD;
+          -  Subjects must be in good health as determined by medical history, physical examination&#xD;
+             performed by the Investigator (Study doctor) at the Screening stage, and screening&#xD;
+             clinical laboratory tests including chemistry panel and CBC.&#xD;
+&#xD;
+          -  Must have stable smoking habits (or be non-smokers) for at least 6 months prior to&#xD;
+             screening and agree not to intend to change such habits during the course of the&#xD;
+             study.&#xD;
+&#xD;
+          -  Subjects requiring the regular use of any prescription medication may be admitted to&#xD;
+             the study, providing the dose is stable.&#xD;
+&#xD;
+          -  Subjects must be able to communicate and cooperate with the Principal Investigator and&#xD;
+             the staff and willing to comply with the study instructions.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Weight instability: Subjects reporting weight change of greater than 3.0 kg in the&#xD;
+             month prior to screening.&#xD;
+&#xD;
+          -  Any subject who has been on a very low calorie diet (less than 800 kcal/day) for a&#xD;
+             period of 4 months or more in the 12 months prior to screening, or who has lost&#xD;
+             greater than 10 kg in the 6 months prior to screening.&#xD;
+&#xD;
+          -  Any subject who has a history of diabetic gastroparesis or gastric emptying disorder&#xD;
+             as indicated in the potential subject's medical history and VA's Computer Patient&#xD;
+             Record System (CPRS).&#xD;
+&#xD;
+          -  Use of any other investigational drug(s) within 8 weeks prior to screening.&#xD;
+&#xD;
+          -  Subjects should not have received antibiotics within the prior 4 weeks of screening.&#xD;
+&#xD;
+          -  Abnormal laboratory parameters:&#xD;
+&#xD;
+          -  Serum creatinine greater than 1.6 mg/dL;&#xD;
+&#xD;
+          -  Liver function tests, alanine transaminase (ALT), alanine transaminase (AST),&#xD;
+             Bilirubin results greater than 2.0 times the upper limit of normal;&#xD;
+&#xD;
+          -  Triglycerides greater than 500 mg/dL;&#xD;
+&#xD;
+          -  Total cholesterol greater than 350 mg/dL;&#xD;
+&#xD;
+          -  Thyroid-stimulating hormone (TSH) outside of normal range disorder, as indicated in&#xD;
+             the potential subject's medical history, the VA's Computer Patient Record System&#xD;
+             (CPRS) and laboratory tests performed during the screening process.&#xD;
+&#xD;
+          -  Subjects who drink more than 1 alcoholic beverage per day (that is: 1 beer; or 1 glass&#xD;
+             of wine; or 1 shot of liquor).&#xD;
+&#xD;
+          -  Pregnant women or women likely to become pregnant during the course of the study may&#xD;
+             not participate in this study. Female subjects must not be able to conceive by reason&#xD;
+             of surgery, radiation, one year past the onset of menopause, or an approved method of&#xD;
+             contraception.&#xD;
+&#xD;
+          -  No vulnerable subjects will be included in the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>30 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Joseph R Pisegna, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>VA Greater Los Angeles Healthcare System, West Los Angeles, CA</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>VA Greater Los Angeles Healthcare System, West Los Angeles, CA</name>
+      <address>
+        <city>West Los Angeles</city>
+        <state>California</state>
+        <zip>90073</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Wang L, Jacobs JP, Lagishetty V, Yuan PQ, Wu SV, Million M, Reeve JR Jr, Pisegna JR, Taché Y. High-protein diet improves sensitivity to cholecystokinin and shifts the cecal microbiome without altering brain inflammation in diet-induced obesity in rats. Am J Physiol Regul Integr Comp Physiol. 2017 Oct 1;313(4):R473-R486. doi: 10.1152/ajpregu.00105.2017. Epub 2017 Jul 19.</citation>
+    <PMID>28724546</PMID>
+  </reference>
+  <reference>
+    <citation>Vu JP, Luong L, Parsons WF, Oh S, Sanford D, Gabalski A, Lighton JR, Pisegna JR, Germano PM. Long-Term Intake of a High-Protein Diet Affects Body Phenotype, Metabolism, and Plasma Hormones in Mice. J Nutr. 2017 Dec;147(12):2243-2251. doi: 10.3945/jn.117.257873. Epub 2017 Oct 25.</citation>
+    <PMID>29070713</PMID>
+  </reference>
+  <reference>
+    <citation>Stengel A, Goebel-Stengel M, Wang L, Hu E, Karasawa H, Pisegna JR, Taché Y. High-protein diet selectively reduces fat mass and improves glucose tolerance in Western-type diet-induced obese rats. Am J Physiol Regul Integr Comp Physiol. 2013 Sep 15;305(6):R582-91. doi: 10.1152/ajpregu.00598.2012. Epub 2013 Jul 24.</citation>
+    <PMID>23883680</PMID>
+  </reference>
+  <reference>
+    <citation>Vu JP, Goyal D, Luong L, Oh S, Sandhu R, Norris J, Parsons W, Pisegna JR, Germano PM. PACAP intraperitoneal treatment suppresses appetite and food intake via PAC1 receptor in mice by inhibiting ghrelin and increasing GLP-1 and leptin. Am J Physiol Gastrointest Liver Physiol. 2015 Nov 15;309(10):G816-25. doi: 10.1152/ajpgi.00190.2015. Epub 2015 Sep 3.</citation>
+    <PMID>26336928</PMID>
+  </reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>April 2, 2010</study_first_submitted>
+  <study_first_submitted_qc>June 16, 2010</study_first_submitted_qc>
+  <study_first_posted type="Estimate">June 17, 2010</study_first_posted>
+  <results_first_submitted>January 17, 2020</results_first_submitted>
+  <results_first_submitted_qc>January 28, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">February 10, 2020</results_first_posted>
+  <last_update_submitted>March 10, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 10, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Obesity</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Obesity</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>February 2, 2017</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/04/NCT01146704/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Standard Diet</title>
+          <description>Standard protein diet group as control based on 0.5 gram protein per pound of lean body mass with same calories: 15% protein and 55% carbohydrate.&#xD;
+Protein powder supplement, standard dosage based on 0.5 gram protein per pound of subject's lean body mass: Standard protein diet as control, based on 0.5 gram protein per pound of lean body mass, isocaloric (same number of calories) and consisting of 15% protein and 55% carbohydrate.</description>
+        </group>
+        <group group_id="P2">
+          <title>High Protein Diet</title>
+          <description>High protein diet group based on 1 gram of protein per pound of lean body mass: 30% protein and 40% carbohydrate.&#xD;
+Protein powder supplement, High Level Protein, based on 1 gram of protein per pound of lean body mass: 25% protein and 45% carbohydrate: High level of protein diet, based on 1 gram of protein per pound of subject's lean body mass, isocaloric (same number of calories) and consisting of 30% protein and 40% carbohydrate.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="16"/>
+                <participants group_id="P2" count="15"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="16"/>
+                <participants group_id="P2" count="15"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Standard Diet</title>
+          <description>Standard protein diet group as control based on 0.5 gram protein per pound of lean body mass with same calories: 15% protein and 55% carbohydrate.&#xD;
+Protein powder supplement, standard dosage based on 0.5 gram protein per pound of subject's lean body mass: Standard protein diet as control, based on 0.5 gram protein per pound of lean body mass, isocaloric (same number of calories) and consisting of 15% protein and 55% carbohydrate.</description>
+        </group>
+        <group group_id="B2">
+          <title>High Protein Diet</title>
+          <description>High protein diet group based on 1 gram of protein per pound of lean body mass: 30% protein and 40% carbohydrate.&#xD;
+Protein powder supplement, High Level Protein, based on 1 gram of protein per pound of lean body mass: 25% protein and 45% carbohydrate: High level of protein diet, based on 1 gram of protein per pound of subject's lean body mass, isocaloric (same number of calories) and consisting of 30% protein and 40% carbohydrate.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="16"/>
+            <count group_id="B2" value="15"/>
+            <count group_id="B3" value="31"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                    <measurement group_id="B2" value="12"/>
+                    <measurement group_id="B3" value="25"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="52.69" lower_limit="35" upper_limit="73"/>
+                    <measurement group_id="B2" value="50.26" lower_limit="32" upper_limit="71"/>
+                    <measurement group_id="B3" value="51.48" lower_limit="32" upper_limit="73"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="15"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="16"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="9"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="11"/>
+                    <measurement group_id="B3" value="20"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16"/>
+                    <measurement group_id="B2" value="15"/>
+                    <measurement group_id="B3" value="31"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>BMI</title>
+          <units>kg/m^2</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="35.49" lower_limit="27" upper_limit="40"/>
+                    <measurement group_id="B2" value="30.542" lower_limit="27" upper_limit="40"/>
+                    <measurement group_id="B3" value="33.02" lower_limit="27" upper_limit="40"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in Body Weight From Baseline to 12 Months</title>
+        <description>The primary objective is to compare weight loss between each of the two diets, a high-protein diet versus a standard diet.</description>
+        <time_frame>The primary outcome of weight loss is measured at the Baseline at Day 1, and at the end of the 12 months study period for each subject.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Standard Diet</title>
+            <description>Standard protein diet group as control based on 0.5 gram protein per pound of lean body mass with same calories: 15% protein and 55% carbohydrate.&#xD;
+Protein powder supplement, standard dosage based on 0.5 gram protein per pound of subject's lean body mass: Standard protein diet as control, based on 0.5 gram protein per pound of lean body mass, isocaloric (same number of calories) and consisting of 15% protein and 55% carbohydrate.</description>
+          </group>
+          <group group_id="O2">
+            <title>High Protein Diet</title>
+            <description>High protein diet group based on 1 gram of protein per pound of lean body mass: 30% protein and 40% carbohydrate.&#xD;
+Protein powder supplement, High Level Protein, based on 1 gram of protein per pound of lean body mass: 25% protein and 45% carbohydrate: High level of protein diet, based on 1 gram of protein per pound of subject's lean body mass, isocaloric (same number of calories) and consisting of 30% protein and 40% carbohydrate.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Body Weight From Baseline to 12 Months</title>
+          <description>The primary objective is to compare weight loss between each of the two diets, a high-protein diet versus a standard diet.</description>
+          <units>lbs</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="16"/>
+                <count group_id="O2" value="15"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.09" lower_limit="0" upper_limit="10"/>
+                    <measurement group_id="O2" value="1.55" lower_limit="0" upper_limit="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Efficacy Variables: Nutrition Assessments (FFQ, 3DFR, and Satiety Questionnaire), Anthropometric Profiles (e.g., Waist and Hip Circumferences), Lab and Biochemical Variables (e.g., Insulin, Lipid Levels, HbA1c), Body Composition (Body Fat), Hormone Level</title>
+        <description>High-protein diet promotes sensitivity to cholecystokinin and shifts the cecal microbiome without altering brain inflammation in diet-induced obesity</description>
+        <time_frame>The outcome of efficacy is measured at Day 1 Baseline and at monthly visits during the 12 month study period for each subject.</time_frame>
+        <posting_date>12/2023</posting_date>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Safety Variables: Incidence, Severity and Duration of Adverse Events, Vital Signs, Concomitant Medications and Physical Examination Results.</title>
+        <description>High-protein diet promotes sensitivity to cholecystokinin and shifts the cecal microbiome without altering brain inflammation in diet-induced obesity</description>
+        <time_frame>Safety variables are measured at the time any adverse events occur, and vital signs, concomitant medications and physical examination results are measured at Baseline on Day 1 and monthly throughout the 12 month study period for each subject.</time_frame>
+        <posting_date>12/2023</posting_date>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Improvement in NAFLD Fibrosis Score</title>
+        <description>Patients enrolled with a history of NAFLD will be assessed for improvement in NAFLD Fibrosis scoring index and other imaging parameters if performed as standard clinical care.</description>
+        <time_frame>1 year</time_frame>
+        <posting_date>12/2023</posting_date>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>1 year</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Standard Diet</title>
+          <description>Standard protein diet group as control based on 0.5 gram protein per pound of lean body mass with same calories: 15% protein and 55% carbohydrate.&#xD;
+Protein powder supplement, standard dosage based on 0.5 gram protein per pound of subject's lean body mass: Standard protein diet as control, based on 0.5 gram protein per pound of lean body mass, isocaloric (same number of calories) and consisting of 15% protein and 55% carbohydrate.</description>
+        </group>
+        <group group_id="E2">
+          <title>High Protein Diet</title>
+          <description>High protein diet group based on 1 gram of protein per pound of lean body mass: 30% protein and 40% carbohydrate.&#xD;
+Protein powder supplement, High Level Protein, based on 1 gram of protein per pound of lean body mass: 25% protein and 45% carbohydrate: High level of protein diet, based on 1 gram of protein per pound of subject's lean body mass, isocaloric (same number of calories) and consisting of 30% protein and 40% carbohydrate.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="15"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="15"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="15"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Joseph Pisegna</name_or_title>
+      <organization>Department of Veterans Affairs, VAGLAHS</organization>
+      <phone>3104783711 ext 41664</phone>
+      <email>Joseph.Pisegna@va.gov</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

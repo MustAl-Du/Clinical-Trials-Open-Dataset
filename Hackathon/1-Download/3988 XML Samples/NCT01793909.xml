@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2162">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01793909</url>
+  </required_header>
+  <id_info>
+    <org_study_id>06-0062</org_study_id>
+    <secondary_id>1564</secondary_id>
+    <secondary_id>1UL1TR001082</secondary_id>
+    <nct_id>NCT01793909</nct_id>
+  </id_info>
+  <brief_title>Type 2 Diabetes and Exercise Function in Single Leg Exercises</brief_title>
+  <official_title>Role of Vascular Function: Oxygen Delivery vs Oxygen Utilization in the Exercise Impairment in Type 2 Diabetes</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Colorado, Denver</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Colorado, Denver</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study plans to learn more about the effects of type 2 diabetes (T2DM) on exercise blood&#xD;
+      flow and muscle oxygen uptake. This study will evaluate &amp; compare exercise function during&#xD;
+      single leg plantar flexion exercise in a total of 45 subjects from the Denver area (15 lean&#xD;
+      controls, 15 people with T2DM, and 15 overweight control subjects).&#xD;
+&#xD;
+      Differences between the exercise responses in people with T2DM and healthy people will help&#xD;
+      further identify the disease process of T2DM and direct future research of treatments and&#xD;
+      interventions.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      It is well established that functional exercise capacity and peak oxygen uptake (VO2) are&#xD;
+      reduced in patients with type 2 diabetes mellitus (T2DM) compared with healthy counterparts.&#xD;
+      The mechanisms underlying the exercise deficit in T2DM remain largely unknown, but previous&#xD;
+      work has suggested that reduced exercise blood flow and impaired submaximal VO2 may be&#xD;
+      contributing factors. Both of these findings are consistent with a peripheral impairment of&#xD;
+      skeletal muscle oxygen delivery, oxygen utilization, or both. Indeed, dysfunction of skeletal&#xD;
+      muscle metabolism plays a key role in the pathophysiology of T2DM, and considerable work has&#xD;
+      described abnormalities of oxidative function in the skeletal muscle of people with T2DM.&#xD;
+      Given this, it is likely that the causes of exercise intolerance in T2DM may relate to&#xD;
+      specific defects at the level of the skeletal muscle, particularly given that skeletal muscle&#xD;
+      blood flow and oxidative capacity are impaired in diabetes. However, to our knowledge, no one&#xD;
+      has related these peripheral muscle abnormalities to the diminished exercise function in this&#xD;
+      patient group.&#xD;
+&#xD;
+      The overarching hypothesis for the proposed research is that both a failure to adequately&#xD;
+      increase muscle oxygen delivery following the onset of exercise and reduced oxidative&#xD;
+      function of skeletal muscle contribute to the acute oxygen deficit and diminished exercise&#xD;
+      tolerance that has been observed in patients with T2DM.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>June 2012</start_date>
+  <completion_date type="Actual">May 31, 2018</completion_date>
+  <primary_completion_date type="Actual">May 31, 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Muscle Oxygen Saturation</measure>
+    <time_frame>4.5 hrs each, pre- and post- Exercise Intervention</time_frame>
+    <description>The investigators evaluated the dynamics of muscle deoxygenation (O2 extraction) using near infrared spectroscopy (NIRS) during single leg plantar flexion exercise to identify the predominant mechanisms of oxygen delivery versus oxygen utilization abnormalities in the muscle of T2DM during the transition from rest to exercise. These measurements were gathered continuously for 2-5 minutes of multiple exercise bouts within two visits, one prior to the exercise intervention period and one post exercise intervention.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">55</enrollment>
+  <condition>Type 2 Diabetes</condition>
+  <arm_group>
+    <arm_group_label>Single Leg Exercise</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Supervised single leg, exercise training of the index (dominant) calf muscle 5 days per week for two weeks - alternating weight-bearing single leg calf raises and single leg calf extensions by endurance resistance training (weight machine apparatus).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Single Leg Exercise Training</intervention_name>
+    <description>Following the completion of baseline testing, all 3 subject groups will undergo supervised single leg, exercise training of the index (dominant) calf muscle 5 days per week for two weeks - alternating weight-bearing single leg calf raises and single leg calf extensions by endurance resistance training (weight machine apparatus).</description>
+    <arm_group_label>Single Leg Exercise</arm_group_label>
+    <other_name>Exercise Training</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Men and women with and without type 2 diabetes&#xD;
+&#xD;
+          -  30-70 years of age&#xD;
+&#xD;
+          -  Lean and overweight&#xD;
+&#xD;
+          -  Sedentary subjects not participating in a regular exercise program (&lt;one bout of&#xD;
+             exercise/week)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Documented cardiovascular disease&#xD;
+&#xD;
+          -  Uncontrolled hypertension: systolic blood pressure (SBP) &gt; 150, diastolic blood&#xD;
+             pressure (DBP)&gt; 110&#xD;
+&#xD;
+          -  Obstructive pulmonary disease or asthma&#xD;
+&#xD;
+          -  Peripheral neuropathy&#xD;
+&#xD;
+          -  Subjects taking beta blockers, insulin, or Thiazolidinediones (TZD)&#xD;
+&#xD;
+          -  Current or past smoking within the last 2 years&#xD;
+&#xD;
+          -  Anemia&#xD;
+&#xD;
+          -  Control HbA1c &gt; 6, T2DM HbA1c &gt; 10&#xD;
+&#xD;
+          -  Type 1 diabetes&#xD;
+&#xD;
+          -  Any implanted metal in subject's body&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>30 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Judy Regensteiner, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Colorado, Denver</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Colorado Denver, Anschutz Medical Campus</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2019</verification_date>
+  <study_first_submitted>December 11, 2012</study_first_submitted>
+  <study_first_submitted_qc>February 14, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">February 18, 2013</study_first_posted>
+  <results_first_submitted>February 21, 2019</results_first_submitted>
+  <results_first_submitted_qc>February 21, 2019</results_first_submitted_qc>
+  <results_first_posted type="Actual">May 20, 2019</results_first_posted>
+  <last_update_submitted>February 21, 2019</last_update_submitted>
+  <last_update_submitted_qc>February 21, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 20, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Type 2 Diabetes</keyword>
+  <keyword>Exercise Impairment</keyword>
+  <keyword>Blood Flow</keyword>
+  <keyword>Muscle Oxygen Uptake</keyword>
+  <keyword>Exercise Training</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 2</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>February 16, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/09/NCT01793909/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Type 2 Diabetes</title>
+          <description>Individuals with a diagnosis of type 2 diabetes</description>
+        </group>
+        <group group_id="P2">
+          <title>Overweight Controls</title>
+          <description>Individuals with a BMI 25-30 but otherwise healthy.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="30"/>
+                <participants group_id="P2" count="25"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="20"/>
+                <participants group_id="P2" count="20"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="10"/>
+                <participants group_id="P2" count="5"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Type 2 Diabetes</title>
+          <description>Individuals with a diagnosis of type 2 diabetes</description>
+        </group>
+        <group group_id="B2">
+          <title>Overweight Controls</title>
+          <description>Individuals with a BMI 25-30 but otherwise healthy.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="20"/>
+            <count group_id="B2" value="20"/>
+            <count group_id="B3" value="40"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="14"/>
+                    <measurement group_id="B3" value="24"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="16"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="60" spread="9"/>
+                    <measurement group_id="B2" value="54" spread="12"/>
+                    <measurement group_id="B3" value="57" spread="11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="20"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="20"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="7"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16"/>
+                    <measurement group_id="B2" value="14"/>
+                    <measurement group_id="B3" value="30"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="30"/>
+                    <measurement group_id="B2" value="25"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in Muscle Oxygen Saturation</title>
+        <description>The investigators evaluated the dynamics of muscle deoxygenation (O2 extraction) using near infrared spectroscopy (NIRS) during single leg plantar flexion exercise to identify the predominant mechanisms of oxygen delivery versus oxygen utilization abnormalities in the muscle of T2DM during the transition from rest to exercise. These measurements were gathered continuously for 2-5 minutes of multiple exercise bouts within two visits, one prior to the exercise intervention period and one post exercise intervention.</description>
+        <time_frame>4.5 hrs each, pre- and post- Exercise Intervention</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Type 2 Diabetes</title>
+            <description>Individuals with a diagnosis of type 2 diabetes</description>
+          </group>
+          <group group_id="O2">
+            <title>Overweight Controls</title>
+            <description>Individuals with a BMI 25-30 but otherwise healthy.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Muscle Oxygen Saturation</title>
+          <description>The investigators evaluated the dynamics of muscle deoxygenation (O2 extraction) using near infrared spectroscopy (NIRS) during single leg plantar flexion exercise to identify the predominant mechanisms of oxygen delivery versus oxygen utilization abnormalities in the muscle of T2DM during the transition from rest to exercise. These measurements were gathered continuously for 2-5 minutes of multiple exercise bouts within two visits, one prior to the exercise intervention period and one post exercise intervention.</description>
+          <units>percentage</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="14"/>
+                <count group_id="O2" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Pre-intervention</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-10.7127" spread="6.07805"/>
+                    <measurement group_id="O2" value="-8.9149" spread="6.68906"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Post-intervention</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-12.471" spread="11.07039"/>
+                    <measurement group_id="O2" value="-8.7883" spread="7.49904"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Adverse event data were collected over the course of study participation, approximately 3-4 months for each participant. Overall adverse event data was collected through the entire study, lasting 8 years.</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Type 2 Diabetes</title>
+          <description>Individuals with a diagnosis of type 2 diabetes</description>
+        </group>
+        <group group_id="E2">
+          <title>Overweight Controls</title>
+          <description>Individuals with a BMI 25-30 but otherwise healthy.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="20"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="20"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="20"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="20"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Chest pain during exercise</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="20"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Leg hematoma</sub_title>
+                <description>Leg hematoma secondary to muscle biopsy performed in study</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="20"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Elevated blood pressure during exercise</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="20"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Judy Regensteiner</name_or_title>
+      <organization>University of Colorado</organization>
+      <phone>303-724-2247</phone>
+      <email>judy.regensteiner@ucdenver.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

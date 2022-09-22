@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2215">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01502813</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB_48136</org_study_id>
+    <nct_id>NCT01502813</nct_id>
+  </id_info>
+  <brief_title>Citicoline, Creatine, and Omega-3 Effects in Middle Age Women</brief_title>
+  <official_title>Citicoline, Creatine, and Omega-3 Effects in Middle Age Women</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Deborah Yurgelun-Todd</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Utah</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine the functional effects of a citicoline, creatine,&#xD;
+      and omega-3 fatty acids combination when administered for a duration of four weeks (28 days)&#xD;
+      to non-psychiatric adult female participants.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Standard clinical measures for mood and neuropsychological measures of attention, cognitive&#xD;
+      inhibition and memory will be applied before, during, and after a course of a daily&#xD;
+      supplementation of citicoline, creatine and omega-3 for 28 days to non-psychiatric adult&#xD;
+      female participants. We hypothesis that the combination of supplements will improve memory&#xD;
+      and attention in healthy adult women.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">February 1, 2012</start_date>
+  <completion_date type="Actual">November 1, 2019</completion_date>
+  <primary_completion_date type="Actual">October 30, 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change From Baseline in California Verbal Learning Test (CVLT) That Measure Attention and Memory at 14 Days</measure>
+    <time_frame>Baseline and 14 days from baseline</time_frame>
+    <description>List B in the California Verbal Learning Test (CVLT) score range 1-16; the score is the number of words recalled so higher scores = better performance/more words recalled.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change From Baseline in WAIS-IV Block Design Subtest A That Measures Attention and Memory at 28 Days</measure>
+    <time_frame>Baseline and 28 days from baseline</time_frame>
+    <description>WAIS-IV Block Design Subtest A test of visuoconstructional ability is recognized as a test of visuospatial planning and function. It has been shown to be correlated with measures of general intellectual ability. The score range for this measure is 0-129. A score of 90-110 is average for a standard score. The higher the score the better the outcome.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">40</enrollment>
+  <condition>Cognitive Benefits</condition>
+  <arm_group>
+    <arm_group_label>Citicoline, Creatine, and Omega-3 Arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Each participant will be given a supplement log at the end of visit 1. They will be asked to complete the log during the 28 days to indicate that the daily dose of supplements were taken according to instructions. The study coordinator will check the log on the second and third visits as well as count the remaining supplement pills. If participants do not comply with the daily supplement schedule, then the PI will determine if the participant should be withdrawn from the study.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Citicoline, Omega-3 Fatty Acids and Creatine</intervention_name>
+    <description>Citicoline: 500 mg/day for 28 days Omega-3 Fatty Acids: 2 g/day for 28 days Creatine: 5 g/day for 28 days</description>
+    <arm_group_label>Citicoline, Creatine, and Omega-3 Arm</arm_group_label>
+    <other_name>CDP-Citicoline</other_name>
+    <other_name>Creatine monohydrate</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Female&#xD;
+&#xD;
+          -  Age 40-60 years&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Significant medical condition&#xD;
+&#xD;
+          -  History of co-morbid psychiatric disorders&#xD;
+&#xD;
+          -  Current Axis I or II diagnosis&#xD;
+&#xD;
+          -  Past participation in a pharmacotherapeutic trial&#xD;
+&#xD;
+          -  Head injury with LOC&gt;5 minutes&#xD;
+&#xD;
+          -  Use of psychotropic medication&#xD;
+&#xD;
+          -  History of fish allergies&#xD;
+&#xD;
+          -  Medical condition associated with clinically significant decreases in coagulability&#xD;
+&#xD;
+          -  Use of anticoagulant medication&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Deborah Yurgelun-Todd, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The Brain Institute, University of Utah</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>The Brain Institute</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://cognizin.com</url>
+    <description>Click here for more information about Citicoline</description>
+  </link>
+  <link>
+    <url>http://www.omegabrite.com</url>
+    <description>Click here for more information about Omega-3 Fatty Acids</description>
+  </link>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>December 20, 2011</study_first_submitted>
+  <study_first_submitted_qc>December 29, 2011</study_first_submitted_qc>
+  <study_first_posted type="Estimate">January 2, 2012</study_first_posted>
+  <results_first_submitted>December 10, 2019</results_first_submitted>
+  <results_first_submitted_qc>April 20, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">April 22, 2021</results_first_posted>
+  <last_update_submitted>April 20, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 20, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Utah</investigator_affiliation>
+    <investigator_full_name>Deborah Yurgelun-Todd</investigator_full_name>
+    <investigator_title>Professor of Psychiatry</investigator_title>
+  </responsible_party>
+  <keyword>Neuropsychological testing</keyword>
+  <keyword>Dietary supplements</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cytidine Diphosphate Choline</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>August 31, 2016</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/13/NCT01502813/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Citicoline, Creatine, and Omega-3 Arm</title>
+          <description>Citicoline, Omega-3 Fatty Acids and Creatine: Citicoline: 500 mg/day for 28 days Omega-3 Fatty Acids: 2 g/day for 28 days Creatine: 5 g/day for 28 days</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="40"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="40"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Forty healthy females ranging from 40 to 60 years of age (mean=48.3 ± 5.2) participated in the study.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Citicoline, Creatine, and Omega-3 Arm</title>
+          <description>Citicoline, Omega-3 Fatty Acids and Creatine: Citicoline: 500 mg/day for 28 days Omega-3 Fatty Acids: 2 g/day for 28 days Creatine: 5 g/day for 28 days</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="40"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="40"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="48.3" lower_limit="40" upper_limit="60"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="40"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="40"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="40"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Analyzed participants</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="40"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change From Baseline in California Verbal Learning Test (CVLT) That Measure Attention and Memory at 14 Days</title>
+        <description>List B in the California Verbal Learning Test (CVLT) score range 1-16; the score is the number of words recalled so higher scores = better performance/more words recalled.</description>
+        <time_frame>Baseline and 14 days from baseline</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Citicoline, Creatine, and Omega-3 Arm</title>
+            <description>Citicoline, Omega-3 Fatty Acids and Creatine: Citicoline: 500 mg/day for 28 days Omega-3 Fatty Acids: 2 g/day for 28 days Creatine: 5 g/day for 28 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in California Verbal Learning Test (CVLT) That Measure Attention and Memory at 14 Days</title>
+          <description>List B in the California Verbal Learning Test (CVLT) score range 1-16; the score is the number of words recalled so higher scores = better performance/more words recalled.</description>
+          <units>score on a scale</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="40"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10" lower_limit="1" upper_limit="16"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Change From Baseline in WAIS-IV Block Design Subtest A That Measures Attention and Memory at 28 Days</title>
+        <description>WAIS-IV Block Design Subtest A test of visuoconstructional ability is recognized as a test of visuospatial planning and function. It has been shown to be correlated with measures of general intellectual ability. The score range for this measure is 0-129. A score of 90-110 is average for a standard score. The higher the score the better the outcome.</description>
+        <time_frame>Baseline and 28 days from baseline</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Citicoline, Creatine, and Omega-3 Arm</title>
+            <description>Citicoline, Omega-3 Fatty Acids and Creatine: Citicoline: 500 mg/day for 28 days Omega-3 Fatty Acids: 2 g/day for 28 days Creatine: 5 g/day for 28 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in WAIS-IV Block Design Subtest A That Measures Attention and Memory at 28 Days</title>
+          <description>WAIS-IV Block Design Subtest A test of visuoconstructional ability is recognized as a test of visuospatial planning and function. It has been shown to be correlated with measures of general intellectual ability. The score range for this measure is 0-129. A score of 90-110 is average for a standard score. The higher the score the better the outcome.</description>
+          <units>Score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="40"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="98" lower_limit="0" upper_limit="130"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Participants were monitored for the functional effects of citicoline, creatine and omega-3 fatty acids in combination when administered for a duration of four weeks (28 days) at a daily dosage to non-psychiatric adult female subjects. The doses of 500 mg of citicoline, 5 grams of creatine, and 2 grams of omega-3 fatty acids have been selected from previous investigations and have demonstrated minimal side effects.</time_frame>
+      <desc>Definition: Any untoward or unfavorable medical occurrence in a participant, including any abnormal sign (for example, abnormal physical exam or laboratory finding), symptom, or disease, temporally associated with the participant's participation in the research, whether or not considered related to the participant's participation in the research.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Citicoline, Creatine, and Omega-3 Arm</title>
+          <description>Citicoline, Omega-3 Fatty Acids and Creatine: Citicoline: 500 mg/day for 28 days Omega-3 Fatty Acids: 2 g/day for 28 days Creatine: 5 g/day for 28 days</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="40"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="40"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="40"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Deborah Yurgelun-Todd, Ph.D.</name_or_title>
+      <organization>University of Utah, Diagnostic Neuroimaging Lab</organization>
+      <phone>801-587-1538</phone>
+      <email>Deborah.Yurgelun-Todd@hsc.utah.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

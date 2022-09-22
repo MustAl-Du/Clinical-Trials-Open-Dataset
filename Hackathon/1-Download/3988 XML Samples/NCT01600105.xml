@@ -1,0 +1,2529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2193">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01600105</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GCO 09-1187</org_study_id>
+    <nct_id>NCT01600105</nct_id>
+  </id_info>
+  <brief_title>Detection of Liver Fibrosis With Magnetic Resonance Imaging (MRI)</brief_title>
+  <official_title>Prospective Detection of Liver Fibrosis With MRI Compared to Fibroscan and Blood Tests</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Bachir Taouli</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Icahn School of Medicine at Mount Sinai</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Patients with chronic liver disease are at high risk of developing liver scarring (fibrosis),&#xD;
+      with ultimate risks of cirrhosis and liver cancer that may require liver transplant. The&#xD;
+      investigators would like to develop non invasive advanced Magnetic Resonance Imaging (MRI)&#xD;
+      techniques (MR diffusion, perfusion and elastography) to assess the degree of liver damage in&#xD;
+      patients with chronic liver disease. These techniques combined could reach high diagnostic&#xD;
+      performance for detection of liver fibrosis; and could decrease the number of liver biopsies,&#xD;
+      which have risks and sample only a small portion of the liver.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients with chronic hepatitis have increased risks of liver damage, including fibrosis and&#xD;
+      cirrhosis, which may eventually lead to hepatocellular carcinoma and end-stage liver disease&#xD;
+      requiring liver transplantation. These diseases are/will be the source of enormous health&#xD;
+      care costs and morbidity/mortality in the US.&#xD;
+&#xD;
+      Most hepatologists still rely on liver biopsy findings in patients newly diagnosed with&#xD;
+      chronic hepatitis, which enables the assessment of liver damage (fibrosis and inflammation).&#xD;
+      Liver biopsy has limitations, including cost, invasiveness, poor patient acceptance, limited&#xD;
+      sampling, inter-observer variability and is difficult to repeat.&#xD;
+&#xD;
+      Non invasive tests to capture the extent of liver damage at a larger scale are urgently&#xD;
+      needed. These will gain more acceptance among patients and hepatologists.&#xD;
+&#xD;
+      In this proposal, the investigators would like to test and validate non invasive MRI methods&#xD;
+      based on advanced MR diffusion, perfusion and elastography techniques for the detection of&#xD;
+      fibrosis and cirrhosis in patients with chronic hepatitis. In order to improve the diagnostic&#xD;
+      performance of MRI, the investigators would like to build and validate a predictive model&#xD;
+      based on advanced functional MRI metrics (diffusion, perfusion and elastography). If&#xD;
+      validated, this novel non invasive algorithm will not only decreases the number of liver&#xD;
+      biopsies, but also enable earlier diagnosis of liver fibrosis when antiviral treatment is&#xD;
+      more effective, and enable a comprehensive evaluation of the liver (to assess for cirrhosis,&#xD;
+      portal hypertension and hepatocellular cancer).&#xD;
+&#xD;
+      This could significantly reduce the cost of care, could become a useful tool for testing new&#xD;
+      antifibrogenic and antiviral drugs in chronic viral hepatitis, and could be used to follow&#xD;
+      patients for detection of progression to cirrhosis.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>October 2010</start_date>
+  <completion_date type="Actual">July 31, 2017</completion_date>
+  <primary_completion_date type="Actual">July 31, 2017</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>PV Flow</measure>
+    <time_frame>Fasting State Scan (an average of 15 min) and Postprandial State Scan (an average of 15 min)</time_frame>
+    <description>Sub-Study I Portal Venous Flow - forward flow during systole and early diastole, and flow reversal after atrial contraction.The average PV area was extracted, and PV flow was computed as the multiplication of area and velocity.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PV Velocity</measure>
+    <time_frame>Fasting State Scan (an average of 15 min) and Postprandial State Scan (an average of 15 min)</time_frame>
+    <description>Sub-Study I Portal Venous Flow Velocity - The mean velocity of the region of interest (ROI) was extracted for each one of the 25 phase images, and the time average was computed.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>LS-MRE for Sub-Study I</measure>
+    <time_frame>Fasting State Scan (an average of 15 min) and Postprandial State Scan (an average of 15 min)</time_frame>
+    <description>Sub-Study I Liver stiffness (LS) measured by magnetic resonance elastography (MRE) in kilopascal (kPa). Liver stiffness is assessed by mathematical modeling of compression waves propagation in the liver, as measured from MRE images.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>True Diffusion Parameter (D)</measure>
+    <time_frame>Fasting State Multiparametric MRI Scan (an average of 60 min) Scan</time_frame>
+    <description>Sub-Study II True Diffusion Parameter - D- describes water diffusion in tissue independently from the effects of capillary perfusion; it is obtained from bi-exponential fitting of MRI diffusion signal acquired over a range of high and low diffusion-weighting factors (b-values)&#xD;
+Fibrosis State/Score:&#xD;
+F0-F2 - no signs of fibrosis to minimal fibrosis F3-F4 - fibrosis has spread and has connected to other areas on the liver that contain fibrosis or presence of cirrhosis</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>LS-MRE Fibrosis State for Sub Study II</measure>
+    <time_frame>Fasting State Multiparametric MRI Scan (an average of 60 min)</time_frame>
+    <description>Sub-Study II Liver stiffness (LS) measured by magnetic resonance elastography (MRE) in kilopascal (kPa). Liver stiffness is assessed by mathematical modeling of compression waves propagation in the liver, as measured from MRE images.&#xD;
+Fibrosis State/Score:&#xD;
+F0-F2 - no signs of fibrosis to minimal fibrosis F3-F4 - fibrosis has spread and has connected to other areas on the liver that contain fibrosis or presence of cirrhosis</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>LS-TE</measure>
+    <time_frame>Fasting transient elastography, average duration 10 min</time_frame>
+    <description>Sub-Study II Liver Stiffness with transient elastography (TE) (LS-TE) - a non-invasive modality of liver fibrosis detection: a shear wave is sent into the liver through a small transducer attached to an ultrasound probe, and the velocity of the wave is measured as it passes through the liver; shear wave velocity is then converted to stiffness, measured in kilopascals (kPa)&#xD;
+Fibrosis State/Score:&#xD;
+F0-F2 - no signs of fibrosis to minimal fibrosis F3-F4 - fibrosis has spread and has connected to other areas on the liver that contain fibrosis or presence of cirrhosis</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>MTT</measure>
+    <time_frame>Fasting State Multiparametric MRI Scan (an average of 60 min)</time_frame>
+    <description>Sub-Study II Mean Transit Time (MTT) - Liver Mean Transit Time of Contrast Agent through the tissue of interest from Dynamic Contrast Enhanced MRI&#xD;
+Fibrosis State/Score:&#xD;
+F0-F2 - no signs of fibrosis to minimal fibrosis F3-F4 - fibrosis has spread and has connected to other areas on the liver that contain fibrosis or presence of cirrhosis</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Liver Upslope From DCE-MRI</measure>
+    <time_frame>Fasting State Multiparametric MRI Scan (an average of 60 min)</time_frame>
+    <description>Sub-Study III Liver Upslope of MRI signal is defined as peak concentration to the time to reach peak concentration of gadolinium contrast agent in the liver tissue of interest, derived from dynamic contrast-enhanced MRI (DCE-MRI.&#xD;
+Portal hypertension (PH), defined by hepatic venous pressure gradient (HVPG) ≥5 mmHg Clinically Significant Portal hypertension (CSPH), defined by hepatic venous pressure gradient (HVPG) ≥10 mmHg</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Liver Time to Peak (TTP) for PH</measure>
+    <time_frame>Fasting State Multiparametric MRI Scan (an average of 60 min)</time_frame>
+    <description>Sub-Study III Liver Time to Peak (TTP) is defined as the time in seconds to reach peak concentration of gadolinium contrast agent in the liver tissue of interest, derived from dynamic contrast-enhanced MRI (DCE-MRI) Portal hypertension (PH), defined by hepatic venous pressure gradient (HVPG) ≥5 mmHg Clinically Significant Portal Hypertension is defined as an HVPG ≥10 mmHg</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>LS-MRE Portal Hypertension for Sub Study III</measure>
+    <time_frame>Fasting State Multiparametric MRI Scan (an average of 60 min)</time_frame>
+    <description>Sub-Study III Liver stiffness (LS) measured by magnetic resonance elastography (MRE) in kilopascal (kPa). Liver stiffness is assessed by mathematical modeling of compression waves propagation in the liver, as measured from MRE images.&#xD;
+Portal Hypertension is defined as an HVPG ≥5 mmHg Clinically Significant Portal hypertension (CSPH), defined by hepatic venous pressure gradient (HVPG) ≥10 mmHg</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Spleen Volume</measure>
+    <time_frame>Fasting State Multiparametric MRI Scan (an average of 60 min)</time_frame>
+    <description>Sub-Study III Portal Hypertension is defined as an HVPG ≥5 mmHg</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Spleen Caudocranial Diameter</measure>
+    <time_frame>Fasting State Multiparametric MRI Scan (an average of 60 min)</time_frame>
+    <description>Sub-Study III Portal Hypertension is defined as an HVPG ≥5 mmHg</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PH Imaging Score</measure>
+    <time_frame>Fasting State Multiparametric MRI Scan (an average of 60 min)</time_frame>
+    <description>Sub-Study III Portal Hypertension imaging composite score (based on the presence of varices, spleen size, presence of ascites). The imaging score is based on the number of variceal sites (0: absence of varices, 1: one variceal site, 2: two variceal sites, and 3: 3 or more variceal sites), volume of ascites (0: no ascites, 1: minimal perihepatic and perisplenic fluid, 2: intraperitoneal fluid without marked abdominal wall distension, and 3: fluid causing marked abdominal wall distension), and maximum craniocaudal diameter of the spleen (0: size less than 13 cm, 1: size between 13 and 15 cm, 2: size between 15 and 20 cm, and 3: size greater than 20 cm). Score from 0 to 9, with higher score indicating worse disease.&#xD;
+Portal Hypertension is defined as an HVPG ≥5 mmHg Clinically Significant Portal hypertension (CSPH), defined by hepatic venous pressure gradient (HVPG) ≥10 mmHg</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>LSLU</measure>
+    <time_frame>Fasting State Multiparametric MRI Scan (an average of 60 min)</time_frame>
+    <description>Sub-Study III Liver Stiffness to Liver Upslope ratio (LSLU) Portal Hypertension is defined as an HVPG ≥5 mmHg Clinically Significant Portal hypertension (CSPH), defined by hepatic venous pressure gradient (HVPG) ≥10 mmHg</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Liver DV</measure>
+    <time_frame>Fasting State Multiparametric MRI Scan (an average of 60 min)</time_frame>
+    <description>Sub Study III Liver Distribution Volume (DV) is the distribution volume of contrast agent in the tissue of interest defined as a percentage ratio of gadolinium material volume to the volume of the liver tissue of interest, as derived from DCE-MRI; in the case of a contrast agent with extracellular distribution, DV measures the intravascular and extravascular-extracellular volume.&#xD;
+Clinically Significant Portal hypertension (CSPH), defined by hepatic venous pressure gradient (HVPG) ≥10 mmHg</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Spleen TTP</measure>
+    <time_frame>Fasting State Multiparametric MRI Scan (an average of 60 min)</time_frame>
+    <description>Sub Study III Spleen Time To Peak (TTP) - time to reach peak gadolinium concentration in spleen tissue of interest, derived from DCE-MRI.&#xD;
+Clinically Significant Portal hypertension (CSPH), defined by hepatic venous pressure gradient (HVPG) ≥10 mmHg</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">276</enrollment>
+  <condition>Chronic Liver Disease</condition>
+  <arm_group>
+    <arm_group_label>Perfusion MRI</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>chronic liver disease who underwent/will undergo liver biopsy or will undergo liver transplant or liver resection as part of standard care during the previous 6 months.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Perfusion MRI</intervention_name>
+    <description>1) Assess the role of a new FDA approved blood pool gadolinium contrast agent (gadofosveset trisodium, Ablavar, Lantheus) for the measurement of liver MR Perfusion, compared to extra-cellular contrast agents.</description>
+    <arm_group_label>Perfusion MRI</arm_group_label>
+    <other_name>Dynamic contrast-enhanced MRI</other_name>
+    <other_name>Perfusion MRI (adofosveset trisodium, Ablavar, Lantheus)</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Chronic liver disease (including viral hepatitis, alcoholic hepatitis, non alcoholic&#xD;
+             steatohepatitis, primary biliary cirrhosis, primary sclerosing cholangitis, etc..)&#xD;
+&#xD;
+          -  18 years of age and older&#xD;
+&#xD;
+          -  Liver biopsy (percutaneous or transjugular or surgical) performed within 6 months, as&#xD;
+             part of routine clinical care.&#xD;
+&#xD;
+          -  Liver transplant or liver resection performed within 6 months, as part of routine&#xD;
+             clinical care.&#xD;
+&#xD;
+          -  Patient is able to give informed consent for this study and agrees to provide a blood&#xD;
+             sample&#xD;
+&#xD;
+        Control group&#xD;
+&#xD;
+          -  Patients without history of liver disease and healthy volunteers&#xD;
+&#xD;
+          -  18 years of age and older&#xD;
+&#xD;
+          -  Subject is able to give informed consent for this study and agrees to provide a blood&#xD;
+             sample&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Age less than 18 years&#xD;
+&#xD;
+          -  Unable or unwilling to give informed consent&#xD;
+&#xD;
+          -  Contra-indications to MRI&#xD;
+&#xD;
+          -  Electrical implants such as cardiac pacemakers or perfusion pumps&#xD;
+&#xD;
+          -  Ferromagnetic implants such as aneurysm clips, surgical clips, prostheses, artificial&#xD;
+             hearts, valves with steel parts, metal fragments, shrapnel, tattoos near the eye, or&#xD;
+             steel implants&#xD;
+&#xD;
+          -  Ferromagnetic objects such as jewelry or metal clips in clothing&#xD;
+&#xD;
+          -  Pregnant subjects&#xD;
+&#xD;
+          -  Pre-existing medical conditions including a likelihood of developing seizures or&#xD;
+             claustrophobic reactions.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bachir Taouli, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Icahn School of Medicine at Mount Sinai</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Icahn School of Medicine at Mount Sinai</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Jajamovich GH, Dyvorne H, Donnerhack C, Taouli B. Quantitative liver MRI combining phase contrast imaging, elastography, and DWI: assessment of reproducibility and postprandial effect at 3.0 T. PLoS One. 2014 May 19;9(5):e97355. doi: 10.1371/journal.pone.0097355. eCollection 2014.</citation>
+    <PMID>24840288</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Dyvorne HA, Jajamovich GH, Bane O, Fiel MI, Chou H, Schiano TD, Dieterich D, Babb JS, Friedman SL, Taouli B. Prospective comparison of magnetic resonance imaging to transient elastography and serum markers for liver fibrosis detection. Liver Int. 2016 May;36(5):659-66. doi: 10.1111/liv.13058. Epub 2016 Feb 7.</citation>
+    <PMID>26744140</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wagner M, Hectors S, Bane O, Gordic S, Kennedy P, Besa C, Schiano TD, Thung S, Fischman A, Taouli B. Noninvasive prediction of portal pressure with MR elastography and DCE-MRI of the liver and spleen: Preliminary results. J Magn Reson Imaging. 2018 Oct;48(4):1091-1103. doi: 10.1002/jmri.26026. Epub 2018 Apr 11.</citation>
+    <PMID>29638020</PMID>
+  </results_reference>
+  <verification_date>January 2020</verification_date>
+  <study_first_submitted>May 14, 2012</study_first_submitted>
+  <study_first_submitted_qc>May 15, 2012</study_first_submitted_qc>
+  <study_first_posted type="Estimate">May 16, 2012</study_first_posted>
+  <results_first_submitted>July 5, 2018</results_first_submitted>
+  <results_first_submitted_qc>March 7, 2019</results_first_submitted_qc>
+  <results_first_posted type="Actual">March 11, 2019</results_first_posted>
+  <last_update_submitted>January 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>January 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 7, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Icahn School of Medicine at Mount Sinai</investigator_affiliation>
+    <investigator_full_name>Bachir Taouli</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>liver fibrosis</keyword>
+  <keyword>liver cirrhosis</keyword>
+  <keyword>chronic hepatitis</keyword>
+  <keyword>magnetic resonance imaging</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Liver Diseases</mesh_term>
+    <mesh_term>Liver Cirrhosis</mesh_term>
+    <mesh_term>Fibrosis</mesh_term>
+  </condition_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>September 16, 2016</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/05/NCT01600105/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Recruitment began in May 2010, with enrollment from October 2010 through February 2017. Patients were recruited from the Division of Liver Diseases or from the Surgical Oncology Clinic at Mount Sinai.</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Chronic Liver Disease Patients</title>
+          <description>chronic liver disease who underwent/will undergo liver biopsy or will undergo liver transplant or liver resection as part of standard care during the previous 6 months.&#xD;
+Sub Study I: Patients were enrolled in the study if they had a liver biopsy performed within 3 months of the MRI study or were diagnosed with liver cirrhosis based on imaging findings.&#xD;
+Sub Study II: Patients with mixed etiology of liver fibrosis proven by biopsy, and/or liver cirrhosis.&#xD;
+Sub study III: Patients with chronic liver disease who underwent invasive hepatic vein pressure gradient (HVPG) measurement</description>
+        </group>
+        <group group_id="P2">
+          <title>Healthy Volunteers</title>
+          <description>Healthy Volunteer for Sub study I</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Total Participants</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="255"/>
+                <participants group_id="P2" count="21"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="214"/>
+                <participants group_id="P2" count="11"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="41"/>
+                <participants group_id="P2" count="10"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>No images in PACS</title>
+              <participants_list>
+                <participants group_id="P1" count="10"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Insufficient image quality</title>
+              <participants_list>
+                <participants group_id="P1" count="30"/>
+                <participants group_id="P2" count="10"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+        <period>
+          <title>Sub Study I</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="19"/>
+                <participants group_id="P2" count="21"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="19"/>
+                <participants group_id="P2" count="11"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="10"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Insufficient image quality</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="10"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+        <period>
+          <title>Sub Study II</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="65"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="60"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="5"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>No images in PACS</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Insufficient image quality</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+        <period>
+          <title>Sub Study III</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="39"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="34"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="5"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Insufficient image quality</title>
+              <participants_list>
+                <participants group_id="P1" count="5"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+        <period>
+          <title>Sub Study IV</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="41"/>
+                <participants group_id="P2" count="8"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="41"/>
+                <participants group_id="P2" count="8"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+        <period>
+          <title>Sub Study V</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="52"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="50"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Poor Image Quality</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>This is the overall participants who completed the study. Substudies were conducted with participants pulled from the overall enrollment. There was no overall study with outcome measures for the overall enrollment</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Perfusion MRI</title>
+          <description>chronic liver disease who underwent/will undergo liver biopsy or will undergo liver transplant or liver resection as part of standard care during the previous 6 months.&#xD;
+Perfusion MRI: 1) Assess the role of a new FDA approved blood pool gadolinium contrast agent (gadofosveset trisodium, Ablavar, Lantheus) for the measurement of liver MR Perfusion, compared to extra-cellular contrast agents.</description>
+        </group>
+        <group group_id="B2">
+          <title>Healthy Volunteers</title>
+          <description>Healthy Volunteers in Sub study I only</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="214"/>
+            <count group_id="B2" value="11"/>
+            <count group_id="B3" value="225"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="214"/>
+                    <count group_id="B2" value="11"/>
+                    <count group_id="B3" value="225"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="53.8" lower_limit="19" upper_limit="82"/>
+                    <measurement group_id="B2" value="30.6" lower_limit="19" upper_limit="42"/>
+                    <measurement group_id="B3" value="51.8" lower_limit="19" upper_limit="82"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age, Customized</title>
+          <description>Participants for Sub Study I</description>
+          <population>30 Participants in Sub Study I: 11 healthy volunteers and 19 patients</population>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <title>Sub Study I Chronic Hepatitis C patients</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="19"/>
+                    <count group_id="B2" value="11"/>
+                    <count group_id="B3" value="30"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="55.8" lower_limit="34" upper_limit="68"/>
+                    <measurement group_id="B2" value="30.6" lower_limit="19" upper_limit="42"/>
+                    <measurement group_id="B3" value="46.5" lower_limit="19" upper_limit="68"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age, Customized</title>
+          <description>Sub-study II had 60 participants</description>
+          <population>Sub-Study II with 60 participants</population>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <title>Sub Study II</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="60"/>
+                    <count group_id="B2" value="0"/>
+                    <count group_id="B3" value="60"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="55" lower_limit="23" upper_limit="69"/>
+                    <measurement group_id="B3" value="55" lower_limit="23" upper_limit="69"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age, Customized</title>
+          <description>Sub-Study III 34 participants who underwent HVPG measurements</description>
+          <population>Sub-Study III 34 participants who underwent HVPG measurements</population>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <title>Sub Study III</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="34"/>
+                    <count group_id="B2" value="0"/>
+                    <count group_id="B3" value="34"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="53" lower_limit="26" upper_limit="74"/>
+                    <measurement group_id="B3" value="53" lower_limit="26" upper_limit="74"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age, Customized</title>
+          <description>Sub Study IV - participants who underwent MRE at 3.0T</description>
+          <population>Sub Study IV had 49 participants - 41 with chronic liver disease and 8 healthy volunteers</population>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <title>Sub Study IV</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="41"/>
+                    <count group_id="B2" value="8"/>
+                    <count group_id="B3" value="49"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="53" lower_limit="21" upper_limit="70"/>
+                    <measurement group_id="B2" value="29" lower_limit="19" upper_limit="39"/>
+                    <measurement group_id="B3" value="48" lower_limit="19" upper_limit="70"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age, Customized</title>
+          <description>Sub Study V: Participants who underwent 4D flow MRI</description>
+          <population>Sub Study V had 52 participants</population>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <title>Sub Study V</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="52"/>
+                    <count group_id="B2" value="0"/>
+                    <count group_id="B3" value="52"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="57" lower_limit="22" upper_limit="82"/>
+                    <measurement group_id="B3" value="57" lower_limit="22" upper_limit="82"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <description>For overall participants that completed study</description>
+          <population>Participants who completed study</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="214"/>
+                    <count group_id="B2" value="11"/>
+                    <count group_id="B3" value="225"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="83"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="88"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="131"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="137"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <description>Sub-Study I - 30 Participants</description>
+          <population>30 Participants in Sub Study I</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Chronic Hepatitis C patients</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="19"/>
+                    <count group_id="B2" value="11"/>
+                    <count group_id="B3" value="30"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="7"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="23"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <description>Sub-Study II with 60 participants</description>
+          <population>Sub-study II with 60 participants</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="60"/>
+                    <count group_id="B2" value="0"/>
+                    <count group_id="B3" value="60"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="20"/>
+                    <measurement group_id="B3" value="20"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="40"/>
+                    <measurement group_id="B3" value="40"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <population>Sub Study III had 34 participants</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="34"/>
+                    <count group_id="B2" value="0"/>
+                    <count group_id="B3" value="34"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="18"/>
+                    <measurement group_id="B3" value="18"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16"/>
+                    <measurement group_id="B3" value="16"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <population>Sub Study IV had 49 participants</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="41"/>
+                    <count group_id="B2" value="8"/>
+                    <count group_id="B3" value="49"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="18"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="23"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="23"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="26"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <population>Sub Study V had 52 participants</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="52"/>
+                    <count group_id="B2" value="0"/>
+                    <count group_id="B3" value="52"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="20"/>
+                    <measurement group_id="B3" value="20"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="32"/>
+                    <measurement group_id="B3" value="32"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <population>Participants who completed study.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="214"/>
+                    <count group_id="B2" value="11"/>
+                    <count group_id="B3" value="225"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="105"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="108"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="31"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="32"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="20"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="25"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Hispanic</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="38"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="40"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="20"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="20"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>PV Flow</title>
+        <description>Sub-Study I Portal Venous Flow - forward flow during systole and early diastole, and flow reversal after atrial contraction.The average PV area was extracted, and PV flow was computed as the multiplication of area and velocity.</description>
+        <time_frame>Fasting State Scan (an average of 15 min) and Postprandial State Scan (an average of 15 min)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Chronic Hep C Patients</title>
+            <description>chronic liver disease who underwent/will undergo liver biopsy or will undergo liver transplant or liver resection as part of standard care during the previous 6 months.&#xD;
+Perfusion MRI: 1) Assess the role of a new FDA approved blood pool gadolinium contrast agent (gadofosveset trisodium, Ablavar, Lantheus) for the measurement of liver MR Perfusion, compared to extra-cellular contrast agents.</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Volunteers</title>
+            <description>No Hep C</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>PV Flow</title>
+          <description>Sub-Study I Portal Venous Flow - forward flow during systole and early diastole, and flow reversal after atrial contraction.The average PV area was extracted, and PV flow was computed as the multiplication of area and velocity.</description>
+          <units>ml/s</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="19"/>
+                <count group_id="O2" value="11"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Fasting</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="16.0" spread="6.1"/>
+                    <measurement group_id="O2" value="15.5" spread="4.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Postprandial</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="23.2" spread="8.5"/>
+                    <measurement group_id="O2" value="27.1" spread="10.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>PV Velocity</title>
+        <description>Sub-Study I Portal Venous Flow Velocity - The mean velocity of the region of interest (ROI) was extracted for each one of the 25 phase images, and the time average was computed.</description>
+        <time_frame>Fasting State Scan (an average of 15 min) and Postprandial State Scan (an average of 15 min)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Chronic Hep C Patients</title>
+            <description>chronic liver disease who underwent/will undergo liver biopsy or will undergo liver transplant or liver resection as part of standard care during the previous 6 months.&#xD;
+Perfusion MRI: 1) Assess the role of a new FDA approved blood pool gadolinium contrast agent (gadofosveset trisodium, Ablavar, Lantheus) for the measurement of liver MR Perfusion, compared to extra-cellular contrast agents.</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Volunteers</title>
+            <description>No Hep C</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>PV Velocity</title>
+          <description>Sub-Study I Portal Venous Flow Velocity - The mean velocity of the region of interest (ROI) was extracted for each one of the 25 phase images, and the time average was computed.</description>
+          <units>cm/s</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="19"/>
+                <count group_id="O2" value="11"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Fasting</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10.5" spread="3.2"/>
+                    <measurement group_id="O2" value="11.5" spread="2.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Postprandial</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12.8" spread="4.6"/>
+                    <measurement group_id="O2" value="14.4" spread="3.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>LS-MRE for Sub-Study I</title>
+        <description>Sub-Study I Liver stiffness (LS) measured by magnetic resonance elastography (MRE) in kilopascal (kPa). Liver stiffness is assessed by mathematical modeling of compression waves propagation in the liver, as measured from MRE images.</description>
+        <time_frame>Fasting State Scan (an average of 15 min) and Postprandial State Scan (an average of 15 min)</time_frame>
+        <population>Sub Study I with 30 participants. The method failed in 3 of the patients, so no usable LS-MRE data was generated. 27 patients had usable data for PV flow and velocity, so they were included in the study.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Chronic Hep C Patients</title>
+            <description>chronic liver disease who underwent/will undergo liver biopsy or will undergo liver transplant or liver resection as part of standard care during the previous 6 months.&#xD;
+Perfusion MRI: 1) Assess the role of a new FDA approved blood pool gadolinium contrast agent (gadofosveset trisodium, Ablavar, Lantheus) for the measurement of liver MR Perfusion, compared to extra-cellular contrast agents.</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Volunteers</title>
+            <description>No Hep C</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>LS-MRE for Sub-Study I</title>
+          <description>Sub-Study I Liver stiffness (LS) measured by magnetic resonance elastography (MRE) in kilopascal (kPa). Liver stiffness is assessed by mathematical modeling of compression waves propagation in the liver, as measured from MRE images.</description>
+          <population>Sub Study I with 30 participants. The method failed in 3 of the patients, so no usable LS-MRE data was generated. 27 patients had usable data for PV flow and velocity, so they were included in the study.</population>
+          <units>kPa</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="19"/>
+                <count group_id="O2" value="11"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Fasting</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="16"/>
+                    <count group_id="O2" value="11"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.9" spread="1.4"/>
+                    <measurement group_id="O2" value="1.8" spread="0.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Postprandial</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="19"/>
+                    <count group_id="O2" value="11"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.0" spread="1.2"/>
+                    <measurement group_id="O2" value="2.0" spread="0.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>True Diffusion Parameter (D)</title>
+        <description>Sub-Study II True Diffusion Parameter - D- describes water diffusion in tissue independently from the effects of capillary perfusion; it is obtained from bi-exponential fitting of MRI diffusion signal acquired over a range of high and low diffusion-weighting factors (b-values)&#xD;
+Fibrosis State/Score:&#xD;
+F0-F2 - no signs of fibrosis to minimal fibrosis F3-F4 - fibrosis has spread and has connected to other areas on the liver that contain fibrosis or presence of cirrhosis</description>
+        <time_frame>Fasting State Multiparametric MRI Scan (an average of 60 min) Scan</time_frame>
+        <population>3 participants with scans not evaluable</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Perfusion MRI</title>
+            <description>chronic liver disease who underwent/will undergo liver biopsy or will undergo liver transplant or liver resection as part of standard care during the previous 6 months.&#xD;
+Perfusion MRI: 1) Assess the role of a new FDA approved blood pool gadolinium contrast agent (gadofosveset trisodium, Ablavar, Lantheus) for the measurement of liver MR Perfusion, compared to extra-cellular contrast agents.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>True Diffusion Parameter (D)</title>
+          <description>Sub-Study II True Diffusion Parameter - D- describes water diffusion in tissue independently from the effects of capillary perfusion; it is obtained from bi-exponential fitting of MRI diffusion signal acquired over a range of high and low diffusion-weighting factors (b-values)&#xD;
+Fibrosis State/Score:&#xD;
+F0-F2 - no signs of fibrosis to minimal fibrosis F3-F4 - fibrosis has spread and has connected to other areas on the liver that contain fibrosis or presence of cirrhosis</description>
+          <population>3 participants with scans not evaluable</population>
+          <units>10^-3 mm^2/s</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="57"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>F0-F2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="31"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.06" spread="0.21"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>F3-F4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="26"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.94" spread="0.16"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>LS-MRE Fibrosis State for Sub Study II</title>
+        <description>Sub-Study II Liver stiffness (LS) measured by magnetic resonance elastography (MRE) in kilopascal (kPa). Liver stiffness is assessed by mathematical modeling of compression waves propagation in the liver, as measured from MRE images.&#xD;
+Fibrosis State/Score:&#xD;
+F0-F2 - no signs of fibrosis to minimal fibrosis F3-F4 - fibrosis has spread and has connected to other areas on the liver that contain fibrosis or presence of cirrhosis</description>
+        <time_frame>Fasting State Multiparametric MRI Scan (an average of 60 min)</time_frame>
+        <population>Only 38 participants had suitable MRE quality for analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Perfusion MRI</title>
+            <description>chronic liver disease who underwent/will undergo liver biopsy or will undergo liver transplant or liver resection as part of standard care during the previous 6 months.&#xD;
+Perfusion MRI: 1) Assess the role of a new FDA approved blood pool gadolinium contrast agent (gadofosveset trisodium, Ablavar, Lantheus) for the measurement of liver MR Perfusion, compared to extra-cellular contrast agents.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>LS-MRE Fibrosis State for Sub Study II</title>
+          <description>Sub-Study II Liver stiffness (LS) measured by magnetic resonance elastography (MRE) in kilopascal (kPa). Liver stiffness is assessed by mathematical modeling of compression waves propagation in the liver, as measured from MRE images.&#xD;
+Fibrosis State/Score:&#xD;
+F0-F2 - no signs of fibrosis to minimal fibrosis F3-F4 - fibrosis has spread and has connected to other areas on the liver that contain fibrosis or presence of cirrhosis</description>
+          <population>Only 38 participants had suitable MRE quality for analysis.</population>
+          <units>kPa</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>F0-F2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="24"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.88" spread="0.91"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>F3-F4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="14"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.16" spread="0.95"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>LS-TE</title>
+        <description>Sub-Study II Liver Stiffness with transient elastography (TE) (LS-TE) - a non-invasive modality of liver fibrosis detection: a shear wave is sent into the liver through a small transducer attached to an ultrasound probe, and the velocity of the wave is measured as it passes through the liver; shear wave velocity is then converted to stiffness, measured in kilopascals (kPa)&#xD;
+Fibrosis State/Score:&#xD;
+F0-F2 - no signs of fibrosis to minimal fibrosis F3-F4 - fibrosis has spread and has connected to other areas on the liver that contain fibrosis or presence of cirrhosis</description>
+        <time_frame>Fasting transient elastography, average duration 10 min</time_frame>
+        <population>Only 46 participants had suitable TE quality for analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Perfusion MRI</title>
+            <description>chronic liver disease who underwent/will undergo liver biopsy or will undergo liver transplant or liver resection as part of standard care during the previous 6 months.&#xD;
+Perfusion MRI: 1) Assess the role of a new FDA approved blood pool gadolinium contrast agent (gadofosveset trisodium, Ablavar, Lantheus) for the measurement of liver MR Perfusion, compared to extra-cellular contrast agents.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>LS-TE</title>
+          <description>Sub-Study II Liver Stiffness with transient elastography (TE) (LS-TE) - a non-invasive modality of liver fibrosis detection: a shear wave is sent into the liver through a small transducer attached to an ultrasound probe, and the velocity of the wave is measured as it passes through the liver; shear wave velocity is then converted to stiffness, measured in kilopascals (kPa)&#xD;
+Fibrosis State/Score:&#xD;
+F0-F2 - no signs of fibrosis to minimal fibrosis F3-F4 - fibrosis has spread and has connected to other areas on the liver that contain fibrosis or presence of cirrhosis</description>
+          <population>Only 46 participants had suitable TE quality for analysis.</population>
+          <units>kPa</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="46"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>F0-F2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9.55" spread="6.85"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>F3-F4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="23"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="21.44" spread="17.86"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>MTT</title>
+        <description>Sub-Study II Mean Transit Time (MTT) - Liver Mean Transit Time of Contrast Agent through the tissue of interest from Dynamic Contrast Enhanced MRI&#xD;
+Fibrosis State/Score:&#xD;
+F0-F2 - no signs of fibrosis to minimal fibrosis F3-F4 - fibrosis has spread and has connected to other areas on the liver that contain fibrosis or presence of cirrhosis</description>
+        <time_frame>Fasting State Multiparametric MRI Scan (an average of 60 min)</time_frame>
+        <population>Only 50 participants had suitable quality MRI for analysis</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Perfusion MRI</title>
+            <description>chronic liver disease who underwent/will undergo liver biopsy or will undergo liver transplant or liver resection as part of standard care during the previous 6 months.&#xD;
+Perfusion MRI: 1) Assess the role of a new FDA approved blood pool gadolinium contrast agent (gadofosveset trisodium, Ablavar, Lantheus) for the measurement of liver MR Perfusion, compared to extra-cellular contrast agents.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>MTT</title>
+          <description>Sub-Study II Mean Transit Time (MTT) - Liver Mean Transit Time of Contrast Agent through the tissue of interest from Dynamic Contrast Enhanced MRI&#xD;
+Fibrosis State/Score:&#xD;
+F0-F2 - no signs of fibrosis to minimal fibrosis F3-F4 - fibrosis has spread and has connected to other areas on the liver that contain fibrosis or presence of cirrhosis</description>
+          <population>Only 50 participants had suitable quality MRI for analysis</population>
+          <units>seconds</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="50"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>F0-F2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="25"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="11.6" spread="8.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>F3-F4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="25"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="18.8" spread="9.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Liver Upslope From DCE-MRI</title>
+        <description>Sub-Study III Liver Upslope of MRI signal is defined as peak concentration to the time to reach peak concentration of gadolinium contrast agent in the liver tissue of interest, derived from dynamic contrast-enhanced MRI (DCE-MRI.&#xD;
+Portal hypertension (PH), defined by hepatic venous pressure gradient (HVPG) ≥5 mmHg Clinically Significant Portal hypertension (CSPH), defined by hepatic venous pressure gradient (HVPG) ≥10 mmHg</description>
+        <time_frame>Fasting State Multiparametric MRI Scan (an average of 60 min)</time_frame>
+        <population>Among the 34 patients, 2 patients did not have DCE-MRI acquisition due to chronic renal insufficiency, 4 patients had non-usable DCE-MRI data because of major artifacts.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Perfusion MRI</title>
+            <description>chronic liver disease who underwent/will undergo liver biopsy or will undergo liver transplant or liver resection as part of standard care during the previous 6 months.&#xD;
+Perfusion MRI: 1) Assess the role of a new FDA approved blood pool gadolinium contrast agent (gadofosveset trisodium, Ablavar, Lantheus) for the measurement of liver MR Perfusion, compared to extra-cellular contrast agents.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Liver Upslope From DCE-MRI</title>
+          <description>Sub-Study III Liver Upslope of MRI signal is defined as peak concentration to the time to reach peak concentration of gadolinium contrast agent in the liver tissue of interest, derived from dynamic contrast-enhanced MRI (DCE-MRI.&#xD;
+Portal hypertension (PH), defined by hepatic venous pressure gradient (HVPG) ≥5 mmHg Clinically Significant Portal hypertension (CSPH), defined by hepatic venous pressure gradient (HVPG) ≥10 mmHg</description>
+          <population>Among the 34 patients, 2 patients did not have DCE-MRI acquisition due to chronic renal insufficiency, 4 patients had non-usable DCE-MRI data because of major artifacts.</population>
+          <units>mmol/(L.s))</units>
+          <param>Median</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="28"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>HVPG &lt;5mmHg</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.011" spread="0.011"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>HVPG&gt;=5mmHg</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="16"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0007" spread="0.0007"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>HPVG&lt;10mmHg</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="20"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.011" spread="0.007"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>HPVG&gt;=10mmHg</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="8"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0006" spread="0.004"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Liver Time to Peak (TTP) for PH</title>
+        <description>Sub-Study III Liver Time to Peak (TTP) is defined as the time in seconds to reach peak concentration of gadolinium contrast agent in the liver tissue of interest, derived from dynamic contrast-enhanced MRI (DCE-MRI) Portal hypertension (PH), defined by hepatic venous pressure gradient (HVPG) ≥5 mmHg Clinically Significant Portal Hypertension is defined as an HVPG ≥10 mmHg</description>
+        <time_frame>Fasting State Multiparametric MRI Scan (an average of 60 min)</time_frame>
+        <population>Among the 34 patients, 2 patients did not have DCE-MRI acquisition due to chronic renal insufficiency, 4 patients had non-usable DCE-MRI data because of major artifacts..</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Perfusion MRI</title>
+            <description>chronic liver disease who underwent/will undergo liver biopsy or will undergo liver transplant or liver resection as part of standard care during the previous 6 months.&#xD;
+Perfusion MRI: 1) Assess the role of a new FDA approved blood pool gadolinium contrast agent (gadofosveset trisodium, Ablavar, Lantheus) for the measurement of liver MR Perfusion, compared to extra-cellular contrast agents.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Liver Time to Peak (TTP) for PH</title>
+          <description>Sub-Study III Liver Time to Peak (TTP) is defined as the time in seconds to reach peak concentration of gadolinium contrast agent in the liver tissue of interest, derived from dynamic contrast-enhanced MRI (DCE-MRI) Portal hypertension (PH), defined by hepatic venous pressure gradient (HVPG) ≥5 mmHg Clinically Significant Portal Hypertension is defined as an HVPG ≥10 mmHg</description>
+          <population>Among the 34 patients, 2 patients did not have DCE-MRI acquisition due to chronic renal insufficiency, 4 patients had non-usable DCE-MRI data because of major artifacts..</population>
+          <units>seconds</units>
+          <param>Median</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="28"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>HVPG&lt;5mmHg</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="40.99" spread="22.20"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>HVPG&gt;=5mmHg</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="16"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="53.02" spread="31.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>HVPG&lt;10mmHg</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="20"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="41.47" spread="25.76"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>HVPG&gt;=10mmHg</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="8"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="69.45" spread="41.98"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>LS-MRE Portal Hypertension for Sub Study III</title>
+        <description>Sub-Study III Liver stiffness (LS) measured by magnetic resonance elastography (MRE) in kilopascal (kPa). Liver stiffness is assessed by mathematical modeling of compression waves propagation in the liver, as measured from MRE images.&#xD;
+Portal Hypertension is defined as an HVPG ≥5 mmHg Clinically Significant Portal hypertension (CSPH), defined by hepatic venous pressure gradient (HVPG) ≥10 mmHg</description>
+        <time_frame>Fasting State Multiparametric MRI Scan (an average of 60 min)</time_frame>
+        <population>MRE was successful for liver stiffness measurements in 31 participants of the 34</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Perfusion MRI</title>
+            <description>chronic liver disease who underwent/will undergo liver biopsy or will undergo liver transplant or liver resection as part of standard care during the previous 6 months.&#xD;
+Perfusion MRI: 1) Assess the role of a new FDA approved blood pool gadolinium contrast agent (gadofosveset trisodium, Ablavar, Lantheus) for the measurement of liver MR Perfusion, compared to extra-cellular contrast agents.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>LS-MRE Portal Hypertension for Sub Study III</title>
+          <description>Sub-Study III Liver stiffness (LS) measured by magnetic resonance elastography (MRE) in kilopascal (kPa). Liver stiffness is assessed by mathematical modeling of compression waves propagation in the liver, as measured from MRE images.&#xD;
+Portal Hypertension is defined as an HVPG ≥5 mmHg Clinically Significant Portal hypertension (CSPH), defined by hepatic venous pressure gradient (HVPG) ≥10 mmHg</description>
+          <population>MRE was successful for liver stiffness measurements in 31 participants of the 34</population>
+          <units>kPa</units>
+          <param>Median</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="31"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>HVPG&lt;5mmHg</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.31" spread="2.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>HVPG&gt;=5mmHg</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="19"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.14" spread="2.57"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>HVPG&lt;10mmHg</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="22"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.88" spread="3.16"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>HVPG&gt;=10mmHg</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="9"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.86" spread="6.71"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Spleen Volume</title>
+        <description>Sub-Study III Portal Hypertension is defined as an HVPG ≥5 mmHg</description>
+        <time_frame>Fasting State Multiparametric MRI Scan (an average of 60 min)</time_frame>
+        <population>Sub Study III with 34 participants</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Perfusion MRI</title>
+            <description>chronic liver disease who underwent/will undergo liver biopsy or will undergo liver transplant or liver resection as part of standard care during the previous 6 months.&#xD;
+Perfusion MRI: 1) Assess the role of a new FDA approved blood pool gadolinium contrast agent (gadofosveset trisodium, Ablavar, Lantheus) for the measurement of liver MR Perfusion, compared to extra-cellular contrast agents.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Spleen Volume</title>
+          <description>Sub-Study III Portal Hypertension is defined as an HVPG ≥5 mmHg</description>
+          <population>Sub Study III with 34 participants</population>
+          <units>cm^3</units>
+          <param>Median</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="34"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>HVPG&lt;5mmHg</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="246" spread="252"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>HVPG&gt;=5mmHg</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="22"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="441" spread="629"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Spleen Caudocranial Diameter</title>
+        <description>Sub-Study III Portal Hypertension is defined as an HVPG ≥5 mmHg</description>
+        <time_frame>Fasting State Multiparametric MRI Scan (an average of 60 min)</time_frame>
+        <population>Sub Study III with 34 participants</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Perfusion MRI</title>
+            <description>chronic liver disease who underwent/will undergo liver biopsy or will undergo liver transplant or liver resection as part of standard care during the previous 6 months.&#xD;
+Perfusion MRI: 1) Assess the role of a new FDA approved blood pool gadolinium contrast agent (gadofosveset trisodium, Ablavar, Lantheus) for the measurement of liver MR Perfusion, compared to extra-cellular contrast agents.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Spleen Caudocranial Diameter</title>
+          <description>Sub-Study III Portal Hypertension is defined as an HVPG ≥5 mmHg</description>
+          <population>Sub Study III with 34 participants</population>
+          <units>cm</units>
+          <param>Median</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="34"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>HVPG&lt;5mmHg</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="11.6" spread="2.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>HVPG&gt;=5mmHg</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="22"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="14.0" spread="4.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>PH Imaging Score</title>
+        <description>Sub-Study III Portal Hypertension imaging composite score (based on the presence of varices, spleen size, presence of ascites). The imaging score is based on the number of variceal sites (0: absence of varices, 1: one variceal site, 2: two variceal sites, and 3: 3 or more variceal sites), volume of ascites (0: no ascites, 1: minimal perihepatic and perisplenic fluid, 2: intraperitoneal fluid without marked abdominal wall distension, and 3: fluid causing marked abdominal wall distension), and maximum craniocaudal diameter of the spleen (0: size less than 13 cm, 1: size between 13 and 15 cm, 2: size between 15 and 20 cm, and 3: size greater than 20 cm). Score from 0 to 9, with higher score indicating worse disease.&#xD;
+Portal Hypertension is defined as an HVPG ≥5 mmHg Clinically Significant Portal hypertension (CSPH), defined by hepatic venous pressure gradient (HVPG) ≥10 mmHg</description>
+        <time_frame>Fasting State Multiparametric MRI Scan (an average of 60 min)</time_frame>
+        <population>Sub Study III with 34 participants</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Perfusion MRI</title>
+            <description>chronic liver disease who underwent/will undergo liver biopsy or will undergo liver transplant or liver resection as part of standard care during the previous 6 months.&#xD;
+Perfusion MRI: 1) Assess the role of a new FDA approved blood pool gadolinium contrast agent (gadofosveset trisodium, Ablavar, Lantheus) for the measurement of liver MR Perfusion, compared to extra-cellular contrast agents.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>PH Imaging Score</title>
+          <description>Sub-Study III Portal Hypertension imaging composite score (based on the presence of varices, spleen size, presence of ascites). The imaging score is based on the number of variceal sites (0: absence of varices, 1: one variceal site, 2: two variceal sites, and 3: 3 or more variceal sites), volume of ascites (0: no ascites, 1: minimal perihepatic and perisplenic fluid, 2: intraperitoneal fluid without marked abdominal wall distension, and 3: fluid causing marked abdominal wall distension), and maximum craniocaudal diameter of the spleen (0: size less than 13 cm, 1: size between 13 and 15 cm, 2: size between 15 and 20 cm, and 3: size greater than 20 cm). Score from 0 to 9, with higher score indicating worse disease.&#xD;
+Portal Hypertension is defined as an HVPG ≥5 mmHg Clinically Significant Portal hypertension (CSPH), defined by hepatic venous pressure gradient (HVPG) ≥10 mmHg</description>
+          <population>Sub Study III with 34 participants</population>
+          <units>score on a scale</units>
+          <param>Median</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="34"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>HVPG&lt;5mmHg</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0" spread="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>HVPG&gt;=5mmHg</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="22"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2" spread="5.25"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>HVPG&lt;10</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="25"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1" spread="1.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>HVPG&gt;=10</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="9"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4" spread="4.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>LSLU</title>
+        <description>Sub-Study III Liver Stiffness to Liver Upslope ratio (LSLU) Portal Hypertension is defined as an HVPG ≥5 mmHg Clinically Significant Portal hypertension (CSPH), defined by hepatic venous pressure gradient (HVPG) ≥10 mmHg</description>
+        <time_frame>Fasting State Multiparametric MRI Scan (an average of 60 min)</time_frame>
+        <population>31 of the 34 participants had LS-MRE and 28 of the 34 participants had Liver Upslope measurement from DCE-MRI</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Perfusion MRI</title>
+            <description>chronic liver disease who underwent/will undergo liver biopsy or will undergo liver transplant or liver resection as part of standard care during the previous 6 months.&#xD;
+Perfusion MRI: 1) Assess the role of a new FDA approved blood pool gadolinium contrast agent (gadofosveset trisodium, Ablavar, Lantheus) for the measurement of liver MR Perfusion, compared to extra-cellular contrast agents.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>LSLU</title>
+          <description>Sub-Study III Liver Stiffness to Liver Upslope ratio (LSLU) Portal Hypertension is defined as an HVPG ≥5 mmHg Clinically Significant Portal hypertension (CSPH), defined by hepatic venous pressure gradient (HVPG) ≥10 mmHg</description>
+          <population>31 of the 34 participants had LS-MRE and 28 of the 34 participants had Liver Upslope measurement from DCE-MRI</population>
+          <units>kPa*s*L/mmol</units>
+          <param>Median</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="28"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>HVPG&lt;5mmHg</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="192.72" spread="195.65"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>HVPG&gt;=5mmHg</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="16"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="830.28" spread="971.68"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>HVPG&lt;10mmHg</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="20"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="363.68" spread="855.01"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>HVPG&gt;10mmHg</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="8"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="871.82" spread="1354.31"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Liver DV</title>
+        <description>Sub Study III Liver Distribution Volume (DV) is the distribution volume of contrast agent in the tissue of interest defined as a percentage ratio of gadolinium material volume to the volume of the liver tissue of interest, as derived from DCE-MRI; in the case of a contrast agent with extracellular distribution, DV measures the intravascular and extravascular-extracellular volume.&#xD;
+Clinically Significant Portal hypertension (CSPH), defined by hepatic venous pressure gradient (HVPG) ≥10 mmHg</description>
+        <time_frame>Fasting State Multiparametric MRI Scan (an average of 60 min)</time_frame>
+        <population>Among the 34 patients, 2 patients did not have DCE-MRI acquisition due to chronic renal insufficiency, 4 patients had non-usable DCE-MRI data because of major artifacts.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Perfusion MRI</title>
+            <description>chronic liver disease who underwent/will undergo liver biopsy or will undergo liver transplant or liver resection as part of standard care during the previous 6 months.&#xD;
+Perfusion MRI: 1) Assess the role of a new FDA approved blood pool gadolinium contrast agent (gadofosveset trisodium, Ablavar, Lantheus) for the measurement of liver MR Perfusion, compared to extra-cellular contrast agents.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Liver DV</title>
+          <description>Sub Study III Liver Distribution Volume (DV) is the distribution volume of contrast agent in the tissue of interest defined as a percentage ratio of gadolinium material volume to the volume of the liver tissue of interest, as derived from DCE-MRI; in the case of a contrast agent with extracellular distribution, DV measures the intravascular and extravascular-extracellular volume.&#xD;
+Clinically Significant Portal hypertension (CSPH), defined by hepatic venous pressure gradient (HVPG) ≥10 mmHg</description>
+          <population>Among the 34 patients, 2 patients did not have DCE-MRI acquisition due to chronic renal insufficiency, 4 patients had non-usable DCE-MRI data because of major artifacts.</population>
+          <units>percentage of liver volume</units>
+          <param>Median</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="28"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>HVPG&lt;10mmHg</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="20"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="47.28" spread="24.29"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>HVPG&gt;=10mmHg</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="8"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="77.25" spread="111.01"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Spleen TTP</title>
+        <description>Sub Study III Spleen Time To Peak (TTP) - time to reach peak gadolinium concentration in spleen tissue of interest, derived from DCE-MRI.&#xD;
+Clinically Significant Portal hypertension (CSPH), defined by hepatic venous pressure gradient (HVPG) ≥10 mmHg</description>
+        <time_frame>Fasting State Multiparametric MRI Scan (an average of 60 min)</time_frame>
+        <population>Among the 34 patients, 2 patients did not have DCE-MRI acquisition due to chronic renal insufficiency, 4 patients had non-usable DCE-MRI data because of major artifacts.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Perfusion MRI</title>
+            <description>chronic liver disease who underwent/will undergo liver biopsy or will undergo liver transplant or liver resection as part of standard care during the previous 6 months.&#xD;
+Perfusion MRI: 1) Assess the role of a new FDA approved blood pool gadolinium contrast agent (gadofosveset trisodium, Ablavar, Lantheus) for the measurement of liver MR Perfusion, compared to extra-cellular contrast agents.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Spleen TTP</title>
+          <description>Sub Study III Spleen Time To Peak (TTP) - time to reach peak gadolinium concentration in spleen tissue of interest, derived from DCE-MRI.&#xD;
+Clinically Significant Portal hypertension (CSPH), defined by hepatic venous pressure gradient (HVPG) ≥10 mmHg</description>
+          <population>Among the 34 patients, 2 patients did not have DCE-MRI acquisition due to chronic renal insufficiency, 4 patients had non-usable DCE-MRI data because of major artifacts.</population>
+          <units>seconds</units>
+          <param>Median</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="28"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>HVPG&lt;10mmHg</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="20"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="15.46" spread="16.65"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>HVPG&gt;=10mmHg</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="8"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="44.90" spread="40.69"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>6 years</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Sub Study 1 Chronic Hep C Patients</title>
+          <description>Quantitative Liver MRI Combining Phase Contrast Imaging, Elastography, and DWI: Assessment of Reproducibility and Postprandial Effect Description: Patients with liver disease who had portal vein (PV) flow parameters measured with phase contrast (PC) imaging, liver diffusion parameters measured with multiple b value diffusion-weighted imaging (DWI) and liver stiffness (LS) measured with MR elastography (MRE) in fasting conditions and after a meal challenge.</description>
+        </group>
+        <group group_id="E2">
+          <title>Sub Study 1 Health Volunteers</title>
+          <description>Quantitative Liver MRI Combining Phase Contrast Imaging, Elastography, and DWI: Assessment of Reproducibility and Postprandial Effect Description: Healthy volunteers who had portal vein (PV) flow parameters measured with phase contrast (PC) imaging, liver diffusion parameters measured with multiple b value diffusion-weighted imaging (DWI) and liver stiffness (LS) measured with MR elastography (MRE) in fasting conditions and after a meal challenge.</description>
+        </group>
+        <group group_id="E3">
+          <title>Sub Study II</title>
+          <description>Arm/Group Title: Prospective Comparison of Magnetic Resonance Imaging to Transient Elastography and Serum Markers for Liver Fibrosis Detection Description: Chronic liver disease patients who underwent a multiparametric magnetic resonance imaging (MRI) protocol including diffusion�\weighted imaging (DWI), dynamic contrast�\enhanced (DCE)�\MRI and magnetic resonance elastography (MRE) in comparison with transient elastography (TE) for liver fibrosis detection.</description>
+        </group>
+        <group group_id="E4">
+          <title>Sub Study III</title>
+          <description>Noninvasive Prediction of Portal Pressure with MR Elastography and DCE�\MRI of the Liver and Spleen Description: Chronic liver disease patients who underwent HVPG measurement, MR elastography (MRE) and dynamic contrast�\enhanced MRI (DCE�\MRI) of the liver and spleen</description>
+        </group>
+        <group group_id="E5">
+          <title>Total Participants of the Substudies</title>
+          <description>Total participants of Sub Study 1, Sub Study II, and Sub Study III</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="19"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="60"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="124"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="19"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="60"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="124"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="19"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E3" subjects_affected="2" subjects_at_risk="60"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E5" subjects_affected="2" subjects_at_risk="124"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Fainting</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="19"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="60"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E5" subjects_affected="1" subjects_at_risk="124"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Rash</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="19"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="60"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E5" subjects_affected="1" subjects_at_risk="124"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Bachir Taouli</name_or_title>
+      <organization>Icahn School of Medicine at Mount Sinai</organization>
+      <phone>212-824-8475</phone>
+      <email>bachir.taouli@mountsinai.org</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

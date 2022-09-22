@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3552">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01860950</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00019694</org_study_id>
+    <nct_id>NCT01860950</nct_id>
+  </id_info>
+  <brief_title>Effects of Transcranial Direct Current Stimulation on Pain Perception</brief_title>
+  <acronym>tDCS-CBT</acronym>
+  <official_title>Effects of Transcranial Direct Current Stimulation on Pain Perception</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Medical University of South Carolina</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Medical University of South Carolina</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine whether a new medical technology can temporarily&#xD;
+      alter pain perception. The new technology is called Transcranial direct current stimulation&#xD;
+      (tDCS).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Healthy subjects underwent thermal pain tolerance testing pre- and post intervention. The&#xD;
+      intervention includes either anodal, cathodal, or sham tDCS for 20 minutes during a pain&#xD;
+      cognitive intervention [either brief cognitive intervention (BCI) or general pain education].&#xD;
+      The tDCS brand was the Phoresor-II Auto (Model PM850, Iomed, Salt Lake City Utah, USA) and&#xD;
+      the current was set to 2.0mA. Electrodes were 4x4 cm sponge electrodes soaked in sterile&#xD;
+      saline. For anodal and cathodal tDCS, One electrode was placed over the left DLPFC (F3 from&#xD;
+      the EEG 10-20 system) located via the Beam F3 measurement system and the other electrode was&#xD;
+      attached to the right shoulder. For sham tDCS, the device was turned on for 30 seconds to&#xD;
+      temporarily mimic tingling and skin sensations of real tDCS and then ramped-down to 0mA for&#xD;
+      the duration of the 20-minute session.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">October 2012</start_date>
+  <completion_date type="Actual">June 2016</completion_date>
+  <primary_completion_date type="Actual">June 2016</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Pre-Intervention Pain Tolerance</measure>
+    <time_frame>Duration of the study visit, approximately 2 hours</time_frame>
+    <description>Participants will undergo comprehensive laboratory pain assessment including hot and cold, sensory and pain threshold assessment using the Method of Limits with the Pathway Thermo-sensory Analyzer System (Medoc Inc., NC) which is specifically designed for assessing laboratory pain perception.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Post-Intervention Pain Tolerance</measure>
+    <time_frame>Duration of the study visit, approximately 2 hours</time_frame>
+    <description>Participants will undergo comprehensive laboratory pain assessment including hot and cold, sensory and pain threshold assessment using the Method of Limits with the Pathway Thermo-sensory Analyzer System (Medoc Inc., NC) which is specifically designed for assessing laboratory pain perception.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants That Correctly Guessed Condition Assignment</measure>
+    <time_frame>2 hours</time_frame>
+    <description>Participants guessed whether they received real tDCS or Sham tDCS. The base-rate for correctly guessing real versus sham was 50%.</description>
+  </secondary_outcome>
+  <number_of_arms>6</number_of_arms>
+  <enrollment type="Actual">79</enrollment>
+  <condition>Pain</condition>
+  <arm_group>
+    <arm_group_label>anodal tDCS plus BCI</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants underwent Brief Cognitive intervention (BCI) during a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode electrode placed over the left DLPFC and the cathode electrode attached to the right shoulder (Brand Phoresor-II Auto) . BCI entails listening to a 3-minute audio recording designed to mimic key components of cognitive behavioral therapy (CBT) for pain.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>anodal tDCS plus pain-education</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants were provided pain education during a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode electrode placed over the left DLPFC and the cathode electrode attached to the right shoulder.&#xD;
+Pain Education information included Pain Physiology, info on the Gate Theory of Pain, and Central Pain Processing.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>cathodal tDCS plus BCI</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants underwent Brief Cognitive intervention (BCI) during a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode attached to the right shoulder and the cathode electrode placed over the left DLPFC. BCI entails listening to a 3-minute audio recording designed to mimic key components of cognitive behavioral therapy (CBT) for pain.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>cathodal tDCS plus pain-education</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants were provided pain education during a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode electrode attached to the right shoulder and the cathode electrode was placed over the left DLPFC. Pain Education information included Pain Physiology, info on the Gate Theory of Pain, and Central Pain Processing.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>sham tDCS plus BCI</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>Participants underwent Brief Cognitive intervention (BCI) during 20 minutes of sham tDCS. For sham, the device was turned on for 30 seconds to temporarily mimic tingling and skin sensations of real tDCS and then ramped-down to 0mA for the duration of the 20-minute session.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>sham tDCS plus pain-education</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>Participants were provided pain education during 20 minutes of sham tDCS. For sham, the device was turned on for 30 seconds to temporarily mimic tingling and skin sensations of real tDCS and then ramped-down to 0mA for the duration of the 20-minute session. Pain Education information included Pain Physiology, info on the Gate Theory of Pain, and Central Pain Processing.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>anodal tDCS</intervention_name>
+    <description>a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode electrode placed over the left DLPFC and the cathode electrode attached to the right shoulder</description>
+    <arm_group_label>anodal tDCS plus BCI</arm_group_label>
+    <arm_group_label>anodal tDCS plus pain-education</arm_group_label>
+    <other_name>Transcranial Direct Current Stimulation</other_name>
+    <other_name>Phoresor-II Auto</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>cathodal tDCS</intervention_name>
+    <description>a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode attached to the right shoulder and the cathode electrode placed over the left DLPFC.</description>
+    <arm_group_label>cathodal tDCS plus BCI</arm_group_label>
+    <arm_group_label>cathodal tDCS plus pain-education</arm_group_label>
+    <other_name>Transcranial Direct Current Stimulation</other_name>
+    <other_name>Phoresor-II Auto</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>sham tDCS</intervention_name>
+    <description>Participants were provided pain education during 20 minutes of sham tDCS. For sham, the device was turned on for 30 seconds to temporarily mimic tingling and skin sensations of real tDCS and then ramped-down to 0mA for the duration of the 20-minute session</description>
+    <arm_group_label>sham tDCS plus BCI</arm_group_label>
+    <arm_group_label>sham tDCS plus pain-education</arm_group_label>
+    <other_name>Transcranial Direct Current Stimulation</other_name>
+    <other_name>Phoresor-II Auto</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  100 Health Individuals recruited from Charleston ,SC&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Can not be pregnant&#xD;
+&#xD;
+          -  No history of Depression, chronic pain, Seizers, suicidal implanted metal devices,&#xD;
+             history of brain surgery, loss of consciousness.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jeffrey Borckardt, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Medical University of South Carolina</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Medical University of South Carolina</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29425</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2018</verification_date>
+  <study_first_submitted>May 21, 2013</study_first_submitted>
+  <study_first_submitted_qc>May 22, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">May 23, 2013</study_first_posted>
+  <results_first_submitted>May 7, 2018</results_first_submitted>
+  <results_first_submitted_qc>December 3, 2018</results_first_submitted_qc>
+  <results_first_posted type="Actual">December 4, 2018</results_first_posted>
+  <last_update_submitted>December 3, 2018</last_update_submitted>
+  <last_update_submitted_qc>December 3, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 4, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Healthy Adults</keyword>
+  <keyword>Pain Perception</keyword>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>July 18, 2016</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/50/NCT01860950/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>August 2, 2016</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/50/NCT01860950/ICF_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Anodal tDCS Plus BCI</title>
+          <description>Participants underwent Brief Cognitive intervention (BCI) during a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode electrode placed over the left DLPFC and the cathode electrode attached to the right shoulder. BCI entails listening to a 3-minute audio recording designed to mimic key components of cognitive behavioral therapy (CBT) for pain.&#xD;
+anodal tDCS: a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode electrode placed over the left DLPFC and the cathode electrode attached to the right shoulder</description>
+        </group>
+        <group group_id="P2">
+          <title>Anodal tDCS Plus Pain-education</title>
+          <description>Participants were provided pain education during a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode electrode placed over the left DLPFC and the cathode electrode attached to the right shoulder.&#xD;
+Pain Education information included Pain Physiology, info on the Gate Theory of Pain, and Central Pain Processing.&#xD;
+anodal tDCS: a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode electrode placed over the left DLPFC and the cathode electrode attached to the right shoulder</description>
+        </group>
+        <group group_id="P3">
+          <title>Cathodal tDCS Plus BCI</title>
+          <description>Participants underwent Brief Cognitive intervention (BCI) during a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode attached to the right shoulder and the cathode electrode placed over the left DLPFC. BCI entails listening to a 3-minute audio recording designed to mimic key components of cognitive behavioral therapy (CBT) for pain.&#xD;
+cathodal tDCS: a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode attached to the right shoulder and the cathode electrode placed over the left DLPFC.</description>
+        </group>
+        <group group_id="P4">
+          <title>Cathodal tDCS Plus Pain-education</title>
+          <description>Participants were provided pain education during a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode electrode attached to the right shoulder and the cathode electrode was placed over the left DLPFC. Pain Education information included Pain Physiology, info on the Gate Theory of Pain, and Central Pain Processing.&#xD;
+cathodal tDCS: a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode attached to the right shoulder and the cathode electrode placed over the left DLPFC.</description>
+        </group>
+        <group group_id="P5">
+          <title>Sham tDCS Plus BCI</title>
+          <description>Participants underwent Brief Cognitive intervention (BCI) during 20 minutes of sham tDCS. For sham, the device was turned on for 30 seconds to temporarily mimic tingling and skin sensations of real tDCS and then ramped-down to 0mA for the duration of the 20-minute session.&#xD;
+sham tDCS: Participants were provided pain education during 20 minutes of sham tDCS. For sham, the device was turned on for 30 seconds to temporarily mimic tingling and skin sensations of real tDCS and then ramped-down to 0mA for the duration of the 20-minute session</description>
+        </group>
+        <group group_id="P6">
+          <title>Sham tDCS Plus Pain-education</title>
+          <description>Participants were provided pain education during 20 minutes of sham tDCS. For sham, the device was turned on for 30 seconds to temporarily mimic tingling and skin sensations of real tDCS and then ramped-down to 0mA for the duration of the 20-minute session. Pain Education information included Pain Physiology, info on the Gate Theory of Pain, and Central Pain Processing.&#xD;
+sham tDCS: Participants were provided pain education during 20 minutes of sham tDCS. For sham, the device was turned on for 30 seconds to temporarily mimic tingling and skin sensations of real tDCS and then ramped-down to 0mA for the duration of the 20-minute session</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="14"/>
+                <participants group_id="P2" count="15"/>
+                <participants group_id="P3" count="10"/>
+                <participants group_id="P4" count="13"/>
+                <participants group_id="P5" count="14"/>
+                <participants group_id="P6" count="13"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="14"/>
+                <participants group_id="P2" count="15"/>
+                <participants group_id="P3" count="10"/>
+                <participants group_id="P4" count="13"/>
+                <participants group_id="P5" count="14"/>
+                <participants group_id="P6" count="13"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+                <participants group_id="P5" count="0"/>
+                <participants group_id="P6" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Anodal tDCS Plus BCI</title>
+          <description>Participants underwent Brief Cognitive intervention (BCI) during a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode electrode placed over the left DLPFC and the cathode electrode attached to the right shoulder. BCI entails listening to a 3-minute audio recording designed to mimic key components of cognitive behavioral therapy (CBT) for pain.&#xD;
+anodal tDCS: a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode electrode placed over the left DLPFC and the cathode electrode attached to the right shoulder</description>
+        </group>
+        <group group_id="B2">
+          <title>Anodal tDCS Plus Pain-education</title>
+          <description>Participants were provided pain education during a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode electrode placed over the left DLPFC and the cathode electrode attached to the right shoulder.&#xD;
+Pain Education information included Pain Physiology, info on the Gate Theory of Pain, and Central Pain Processing.&#xD;
+anodal tDCS: a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode electrode placed over the left DLPFC and the cathode electrode attached to the right shoulder</description>
+        </group>
+        <group group_id="B3">
+          <title>Cathodal tDCS Plus BCI</title>
+          <description>Participants underwent Brief Cognitive intervention (BCI) during a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode attached to the right shoulder and the cathode electrode placed over the left DLPFC. BCI entails listening to a 3-minute audio recording designed to mimic key components of cognitive behavioral therapy (CBT) for pain.&#xD;
+cathodal tDCS: a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode attached to the right shoulder and the cathode electrode placed over the left DLPFC.</description>
+        </group>
+        <group group_id="B4">
+          <title>Cathodal tDCS Plus Pain-education</title>
+          <description>Participants were provided pain education during a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode electrode attached to the right shoulder and the cathode electrode was placed over the left DLPFC. Pain Education information included Pain Physiology, info on the Gate Theory of Pain, and Central Pain Processing.&#xD;
+cathodal tDCS: a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode attached to the right shoulder and the cathode electrode placed over the left DLPFC.</description>
+        </group>
+        <group group_id="B5">
+          <title>Sham tDCS Plus BCI</title>
+          <description>Participants underwent Brief Cognitive intervention (BCI) during 20 minutes of sham tDCS. For sham, the device was turned on for 30 seconds to temporarily mimic tingling and skin sensations of real tDCS and then ramped-down to 0mA for the duration of the 20-minute session.&#xD;
+sham tDCS: Participants were provided pain education during 20 minutes of sham tDCS. For sham, the device was turned on for 30 seconds to temporarily mimic tingling and skin sensations of real tDCS and then ramped-down to 0mA for the duration of the 20-minute session</description>
+        </group>
+        <group group_id="B6">
+          <title>Sham tDCS Plus Pain-education</title>
+          <description>Participants were provided pain education during 20 minutes of sham tDCS. For sham, the device was turned on for 30 seconds to temporarily mimic tingling and skin sensations of real tDCS and then ramped-down to 0mA for the duration of the 20-minute session. Pain Education information included Pain Physiology, info on the Gate Theory of Pain, and Central Pain Processing.&#xD;
+sham tDCS: Participants were provided pain education during 20 minutes of sham tDCS. For sham, the device was turned on for 30 seconds to temporarily mimic tingling and skin sensations of real tDCS and then ramped-down to 0mA for the duration of the 20-minute session</description>
+        </group>
+        <group group_id="B7">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="14"/>
+            <count group_id="B2" value="15"/>
+            <count group_id="B3" value="10"/>
+            <count group_id="B4" value="13"/>
+            <count group_id="B5" value="14"/>
+            <count group_id="B6" value="13"/>
+            <count group_id="B7" value="79"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                    <measurement group_id="B2" value="15"/>
+                    <measurement group_id="B3" value="10"/>
+                    <measurement group_id="B4" value="13"/>
+                    <measurement group_id="B5" value="14"/>
+                    <measurement group_id="B6" value="13"/>
+                    <measurement group_id="B7" value="79"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="32.43" spread="9.27"/>
+                    <measurement group_id="B2" value="32.60" spread="11.59"/>
+                    <measurement group_id="B3" value="27.80" spread="6.89"/>
+                    <measurement group_id="B4" value="28.46" spread="7.24"/>
+                    <measurement group_id="B5" value="29.93" spread="8.82"/>
+                    <measurement group_id="B6" value="38.85" spread="12.49"/>
+                    <measurement group_id="B7" value="35" spread="11.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="6"/>
+                    <measurement group_id="B4" value="8"/>
+                    <measurement group_id="B5" value="10"/>
+                    <measurement group_id="B6" value="10"/>
+                    <measurement group_id="B7" value="53"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="4"/>
+                    <measurement group_id="B4" value="5"/>
+                    <measurement group_id="B5" value="4"/>
+                    <measurement group_id="B6" value="3"/>
+                    <measurement group_id="B7" value="26"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                    <measurement group_id="B2" value="15"/>
+                    <measurement group_id="B3" value="10"/>
+                    <measurement group_id="B4" value="13"/>
+                    <measurement group_id="B5" value="14"/>
+                    <measurement group_id="B6" value="13"/>
+                    <measurement group_id="B7" value="79"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Pre-Intervention Pain Tolerance</title>
+        <description>Participants will undergo comprehensive laboratory pain assessment including hot and cold, sensory and pain threshold assessment using the Method of Limits with the Pathway Thermo-sensory Analyzer System (Medoc Inc., NC) which is specifically designed for assessing laboratory pain perception.</description>
+        <time_frame>Duration of the study visit, approximately 2 hours</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Anodal tDCS Plus BCI</title>
+            <description>Participants underwent Brief Cognitive intervention (BCI) during a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode electrode placed over the left DLPFC and the cathode electrode attached to the right shoulder. BCI entails listening to a 3-minute audio recording designed to mimic key components of cognitive behavioral therapy (CBT) for pain.&#xD;
+anodal tDCS: a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode electrode placed over the left DLPFC and the cathode electrode attached to the right shoulder</description>
+          </group>
+          <group group_id="O2">
+            <title>Anodal tDCS Plus Pain-education</title>
+            <description>Participants were provided pain education during a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode electrode placed over the left DLPFC and the cathode electrode attached to the right shoulder.&#xD;
+Pain Education information included Pain Physiology, info on the Gate Theory of Pain, and Central Pain Processing.&#xD;
+anodal tDCS: a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode electrode placed over the left DLPFC and the cathode electrode attached to the right shoulder</description>
+          </group>
+          <group group_id="O3">
+            <title>Cathodal tDCS Plus BCI</title>
+            <description>Participants underwent Brief Cognitive intervention (BCI) during a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode attached to the right shoulder and the cathode electrode placed over the left DLPFC. BCI entails listening to a 3-minute audio recording designed to mimic key components of cognitive behavioral therapy (CBT) for pain.&#xD;
+cathodal tDCS: a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode attached to the right shoulder and the cathode electrode placed over the left DLPFC.</description>
+          </group>
+          <group group_id="O4">
+            <title>Cathodal tDCS Plus Pain-education</title>
+            <description>Participants were provided pain education during a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode electrode attached to the right shoulder and the cathode electrode was placed over the left DLPFC. Pain Education information included Pain Physiology, info on the Gate Theory of Pain, and Central Pain Processing.&#xD;
+cathodal tDCS: a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode attached to the right shoulder and the cathode electrode placed over the left DLPFC.</description>
+          </group>
+          <group group_id="O5">
+            <title>Sham tDCS Plus BCI</title>
+            <description>Participants underwent Brief Cognitive intervention (BCI) during 20 minutes of sham tDCS. For sham, the device was turned on for 30 seconds to temporarily mimic tingling and skin sensations of real tDCS and then ramped-down to 0mA for the duration of the 20-minute session.&#xD;
+sham tDCS: Participants were provided pain education during 20 minutes of sham tDCS. For sham, the device was turned on for 30 seconds to temporarily mimic tingling and skin sensations of real tDCS and then ramped-down to 0mA for the duration of the 20-minute session</description>
+          </group>
+          <group group_id="O6">
+            <title>Sham tDCS Plus Pain-education</title>
+            <description>Participants were provided pain education during 20 minutes of sham tDCS. For sham, the device was turned on for 30 seconds to temporarily mimic tingling and skin sensations of real tDCS and then ramped-down to 0mA for the duration of the 20-minute session. Pain Education information included Pain Physiology, info on the Gate Theory of Pain, and Central Pain Processing.&#xD;
+sham tDCS: Participants were provided pain education during 20 minutes of sham tDCS. For sham, the device was turned on for 30 seconds to temporarily mimic tingling and skin sensations of real tDCS and then ramped-down to 0mA for the duration of the 20-minute session</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pre-Intervention Pain Tolerance</title>
+          <description>Participants will undergo comprehensive laboratory pain assessment including hot and cold, sensory and pain threshold assessment using the Method of Limits with the Pathway Thermo-sensory Analyzer System (Medoc Inc., NC) which is specifically designed for assessing laboratory pain perception.</description>
+          <units>celcius</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="14"/>
+                <count group_id="O2" value="15"/>
+                <count group_id="O3" value="10"/>
+                <count group_id="O4" value="13"/>
+                <count group_id="O5" value="14"/>
+                <count group_id="O6" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="46.49" spread="1.51"/>
+                    <measurement group_id="O2" value="47.06" spread="0.92"/>
+                    <measurement group_id="O3" value="46.16" spread="2.15"/>
+                    <measurement group_id="O4" value="46.82" spread="2.19"/>
+                    <measurement group_id="O5" value="46.66" spread="1.36"/>
+                    <measurement group_id="O6" value="47.33" spread="1.04"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Post-Intervention Pain Tolerance</title>
+        <description>Participants will undergo comprehensive laboratory pain assessment including hot and cold, sensory and pain threshold assessment using the Method of Limits with the Pathway Thermo-sensory Analyzer System (Medoc Inc., NC) which is specifically designed for assessing laboratory pain perception.</description>
+        <time_frame>Duration of the study visit, approximately 2 hours</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Anodal tDCS Plus BCI</title>
+            <description>Participants underwent Brief Cognitive intervention (BCI) during a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode electrode placed over the left DLPFC and the cathode electrode attached to the right shoulder. BCI entails listening to a 3-minute audio recording designed to mimic key components of cognitive behavioral therapy (CBT) for pain.&#xD;
+anodal tDCS: a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode electrode placed over the left DLPFC and the cathode electrode attached to the right shoulder</description>
+          </group>
+          <group group_id="O2">
+            <title>Anodal tDCS Plus Pain-education</title>
+            <description>Participants were provided pain education during a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode electrode placed over the left DLPFC and the cathode electrode attached to the right shoulder.&#xD;
+Pain Education information included Pain Physiology, info on the Gate Theory of Pain, and Central Pain Processing.&#xD;
+anodal tDCS: a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode electrode placed over the left DLPFC and the cathode electrode attached to the right shoulder</description>
+          </group>
+          <group group_id="O3">
+            <title>Cathodal tDCS Plus BCI</title>
+            <description>Participants underwent Brief Cognitive intervention (BCI) during a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode attached to the right shoulder and the cathode electrode placed over the left DLPFC. BCI entails listening to a 3-minute audio recording designed to mimic key components of cognitive behavioral therapy (CBT) for pain.&#xD;
+cathodal tDCS: a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode attached to the right shoulder and the cathode electrode placed over the left DLPFC.</description>
+          </group>
+          <group group_id="O4">
+            <title>Cathodal tDCS Plus Pain-education</title>
+            <description>Participants were provided pain education during a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode electrode attached to the right shoulder and the cathode electrode was placed over the left DLPFC. Pain Education information included Pain Physiology, info on the Gate Theory of Pain, and Central Pain Processing.&#xD;
+cathodal tDCS: a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode attached to the right shoulder and the cathode electrode placed over the left DLPFC.</description>
+          </group>
+          <group group_id="O5">
+            <title>Sham tDCS Plus BCI</title>
+            <description>Participants underwent Brief Cognitive intervention (BCI) during 20 minutes of sham tDCS. For sham, the device was turned on for 30 seconds to temporarily mimic tingling and skin sensations of real tDCS and then ramped-down to 0mA for the duration of the 20-minute session.&#xD;
+sham tDCS: Participants were provided pain education during 20 minutes of sham tDCS. For sham, the device was turned on for 30 seconds to temporarily mimic tingling and skin sensations of real tDCS and then ramped-down to 0mA for the duration of the 20-minute session</description>
+          </group>
+          <group group_id="O6">
+            <title>Sham tDCS Plus Pain-education</title>
+            <description>Participants were provided pain education during 20 minutes of sham tDCS. For sham, the device was turned on for 30 seconds to temporarily mimic tingling and skin sensations of real tDCS and then ramped-down to 0mA for the duration of the 20-minute session. Pain Education information included Pain Physiology, info on the Gate Theory of Pain, and Central Pain Processing.&#xD;
+sham tDCS: Participants were provided pain education during 20 minutes of sham tDCS. For sham, the device was turned on for 30 seconds to temporarily mimic tingling and skin sensations of real tDCS and then ramped-down to 0mA for the duration of the 20-minute session</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Post-Intervention Pain Tolerance</title>
+          <description>Participants will undergo comprehensive laboratory pain assessment including hot and cold, sensory and pain threshold assessment using the Method of Limits with the Pathway Thermo-sensory Analyzer System (Medoc Inc., NC) which is specifically designed for assessing laboratory pain perception.</description>
+          <units>celcius</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="14"/>
+                <count group_id="O2" value="15"/>
+                <count group_id="O3" value="10"/>
+                <count group_id="O4" value="13"/>
+                <count group_id="O5" value="14"/>
+                <count group_id="O6" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="47.52" spread="0.98"/>
+                    <measurement group_id="O2" value="47.11" spread="1.07"/>
+                    <measurement group_id="O3" value="47.53" spread="1.85"/>
+                    <measurement group_id="O4" value="47.72" spread="1.72"/>
+                    <measurement group_id="O5" value="47.47" spread="1.39"/>
+                    <measurement group_id="O6" value="47.27" spread="0.88"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage of Participants That Correctly Guessed Condition Assignment</title>
+        <description>Participants guessed whether they received real tDCS or Sham tDCS. The base-rate for correctly guessing real versus sham was 50%.</description>
+        <time_frame>2 hours</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>All Participants</title>
+            <description>At the end of the laboratory session, participants were asked to indicate whether they thought they received real or sham tDCS. The base-rate for correctly guessing real versus sham was 50%.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants That Correctly Guessed Condition Assignment</title>
+          <description>Participants guessed whether they received real tDCS or Sham tDCS. The base-rate for correctly guessing real versus sham was 50%.</description>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="79"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="56"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>2 years</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Anodal tDCS Plus BCI</title>
+          <description>Participants underwent Brief Cognitive intervention (BCI) during a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode electrode placed over the left DLPFC and the cathode electrode attached to the right shoulder. BCI entails listening to a 3-minute audio recording designed to mimic key components of cognitive behavioral therapy (CBT) for pain.&#xD;
+anodal tDCS: a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode electrode placed over the left DLPFC and the cathode electrode attached to the right shoulder</description>
+        </group>
+        <group group_id="E2">
+          <title>Anodal tDCS Plus Pain-education</title>
+          <description>Participants were provided pain education during a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode electrode placed over the left DLPFC and the cathode electrode attached to the right shoulder.&#xD;
+Pain Education information included Pain Physiology, info on the Gate Theory of Pain, and Central Pain Processing.&#xD;
+anodal tDCS: a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode electrode placed over the left DLPFC and the cathode electrode attached to the right shoulder</description>
+        </group>
+        <group group_id="E3">
+          <title>Cathodal tDCS Plus BCI</title>
+          <description>Participants underwent Brief Cognitive intervention (BCI) during a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode attached to the right shoulder and the cathode electrode placed over the left DLPFC. BCI entails listening to a 3-minute audio recording designed to mimic key components of cognitive behavioral therapy (CBT) for pain.&#xD;
+cathodal tDCS: a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode attached to the right shoulder and the cathode electrode placed over the left DLPFC.</description>
+        </group>
+        <group group_id="E4">
+          <title>Cathodal tDCS Plus Pain-education</title>
+          <description>Participants were provided pain education during a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode electrode attached to the right shoulder and the cathode electrode was placed over the left DLPFC. Pain Education information included Pain Physiology, info on the Gate Theory of Pain, and Central Pain Processing.&#xD;
+cathodal tDCS: a single 20-minute session of transcranial direct current stimulation (tDCS) with the anode attached to the right shoulder and the cathode electrode placed over the left DLPFC.</description>
+        </group>
+        <group group_id="E5">
+          <title>Sham tDCS Plus BCI</title>
+          <description>Participants underwent Brief Cognitive intervention (BCI) during 20 minutes of sham tDCS. For sham, the device was turned on for 30 seconds to temporarily mimic tingling and skin sensations of real tDCS and then ramped-down to 0mA for the duration of the 20-minute session.&#xD;
+sham tDCS: Participants were provided pain education during 20 minutes of sham tDCS. For sham, the device was turned on for 30 seconds to temporarily mimic tingling and skin sensations of real tDCS and then ramped-down to 0mA for the duration of the 20-minute session</description>
+        </group>
+        <group group_id="E6">
+          <title>Sham tDCS Plus Pain-education</title>
+          <description>Participants were provided pain education during 20 minutes of sham tDCS. For sham, the device was turned on for 30 seconds to temporarily mimic tingling and skin sensations of real tDCS and then ramped-down to 0mA for the duration of the 20-minute session. Pain Education information included Pain Physiology, info on the Gate Theory of Pain, and Central Pain Processing.&#xD;
+sham tDCS: Participants were provided pain education during 20 minutes of sham tDCS. For sham, the device was turned on for 30 seconds to temporarily mimic tingling and skin sensations of real tDCS and then ramped-down to 0mA for the duration of the 20-minute session</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="13"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="13"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="13"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="13"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="13"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="13"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Jeffrey J. Borckardt</name_or_title>
+      <organization>Medical University of South Carolina</organization>
+      <phone>8437923295</phone>
+      <email>borckard@musc.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

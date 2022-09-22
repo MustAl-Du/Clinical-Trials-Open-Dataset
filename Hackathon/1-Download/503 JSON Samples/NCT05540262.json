@@ -1,0 +1,362 @@
+{
+  "FullStudy":{
+    "Rank":483,
+    "Study":{
+      "ProtocolSection":{
+        "IdentificationModule":{
+          "NCTId":"NCT05540262",
+          "OrgStudyIdInfo":{
+            "OrgStudyId":"GXEDAON1.0"
+          },
+          "Organization":{
+            "OrgFullName":"First Affiliated Hospital of Guangxi Medical University",
+            "OrgClass":"OTHER"
+          },
+          "BriefTitle":"Edaravone in the Treatment of Aquaporin-4 Antibody-positive Optic Neuritis",
+          "OfficialTitle":"Edaravone in the Treatment of Aquaporin-4 Antibody-positive Optic Neuritis"
+        },
+        "StatusModule":{
+          "StatusVerifiedDate":"September 2022",
+          "OverallStatus":"Recruiting",
+          "ExpandedAccessInfo":{
+            "HasExpandedAccess":"No"
+          },
+          "StartDateStruct":{
+            "StartDate":"September 15, 2022",
+            "StartDateType":"Anticipated"
+          },
+          "PrimaryCompletionDateStruct":{
+            "PrimaryCompletionDate":"December 31, 2024",
+            "PrimaryCompletionDateType":"Anticipated"
+          },
+          "CompletionDateStruct":{
+            "CompletionDate":"December 31, 2024",
+            "CompletionDateType":"Anticipated"
+          },
+          "StudyFirstSubmitDate":"September 11, 2022",
+          "StudyFirstSubmitQCDate":"September 11, 2022",
+          "StudyFirstPostDateStruct":{
+            "StudyFirstPostDate":"September 14, 2022",
+            "StudyFirstPostDateType":"Actual"
+          },
+          "LastUpdateSubmitDate":"September 13, 2022",
+          "LastUpdatePostDateStruct":{
+            "LastUpdatePostDate":"September 15, 2022",
+            "LastUpdatePostDateType":"Actual"
+          }
+        },
+        "SponsorCollaboratorsModule":{
+          "ResponsibleParty":{
+            "ResponsiblePartyType":"Principal Investigator",
+            "ResponsiblePartyInvestigatorFullName":"Yi Du",
+            "ResponsiblePartyInvestigatorTitle":"Dr.",
+            "ResponsiblePartyInvestigatorAffiliation":"First Affiliated Hospital of Guangxi Medical University"
+          },
+          "LeadSponsor":{
+            "LeadSponsorName":"First Affiliated Hospital of Guangxi Medical University",
+            "LeadSponsorClass":"OTHER"
+          }
+        },
+        "OversightModule":{
+          "IsFDARegulatedDrug":"No",
+          "IsFDARegulatedDevice":"No"
+        },
+        "DescriptionModule":{
+          "BriefSummary":"Edaravone showed a good effect on promoting remyelination and protecting axons in NMOSD animals. The investigators hypothesize that edaravone can inhibit axonal damage in patients with aquaporin-4 antibody-positive optic neuritis."
+        },
+        "ConditionsModule":{
+          "ConditionList":{
+            "Condition":[
+              "Optic Neuritis"
+            ]
+          }
+        },
+        "DesignModule":{
+          "StudyType":"Interventional",
+          "PhaseList":{
+            "Phase":[
+              "Not Applicable"
+            ]
+          },
+          "DesignInfo":{
+            "DesignAllocation":"N/A",
+            "DesignInterventionModel":"Single Group Assignment",
+            "DesignPrimaryPurpose":"Treatment",
+            "DesignMaskingInfo":{
+              "DesignMasking":"None (Open Label)"
+            }
+          },
+          "EnrollmentInfo":{
+            "EnrollmentCount":"18",
+            "EnrollmentType":"Anticipated"
+          }
+        },
+        "ArmsInterventionsModule":{
+          "ArmGroupList":{
+            "ArmGroup":[
+              {
+                "ArmGroupLabel":"Edaravone",
+                "ArmGroupType":"Experimental",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Drug: Edaravone"
+                  ]
+                }
+              }
+            ]
+          },
+          "InterventionList":{
+            "Intervention":[
+              {
+                "InterventionType":"Drug",
+                "InterventionName":"Edaravone",
+                "InterventionDescription":"Edaravone injection 30mg three times a day",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Edaravone"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "OutcomesModule":{
+          "PrimaryOutcomeList":{
+            "PrimaryOutcome":[
+              {
+                "PrimaryOutcomeMeasure":"Best-corrected visual acuity",
+                "PrimaryOutcomeDescription":"Best-corrected visual acuity will be measured by \"Illiterate E\"chart.",
+                "PrimaryOutcomeTimeFrame":"18 months"
+              }
+            ]
+          },
+          "SecondaryOutcomeList":{
+            "SecondaryOutcome":[
+              {
+                "SecondaryOutcomeMeasure":"Ganglion cell-inner plexiform layer",
+                "SecondaryOutcomeDescription":"Ganglion cell-inner plexiform layer will be measured by optical coherence tomography.",
+                "SecondaryOutcomeTimeFrame":"18 months"
+              },{
+                "SecondaryOutcomeMeasure":"Peripapillary retinal nerve fiber layer",
+                "SecondaryOutcomeDescription":"Peripapillary retinal nerve fiber layer will be measured by optical coherence tomography.",
+                "SecondaryOutcomeTimeFrame":"18 months"
+              }
+            ]
+          }
+        },
+        "EligibilityModule":{
+          "EligibilityCriteria":"Inclusion Criteria:\n\nChinese patients aged ≥18 with anti-aquaporin-4 antibody-positive optic neuritis\nPatients with a first episode of optic neuritis in either eye\nFirst symptoms of optic neuritis ≤30 days prior to the first administration of edaravone\n\nExclusion Criteria:\n\nMyopia over 6 diopters\nRefractive media opacity affecting assessment of retinal layers and/or visual acuity",
+          "HealthyVolunteers":"No",
+          "Gender":"All",
+          "MinimumAge":"18 Years",
+          "MaximumAge":"70 Years",
+          "StdAgeList":{
+            "StdAge":[
+              "Adult",
+              "Older Adult"
+            ]
+          }
+        },
+        "ContactsLocationsModule":{
+          "LocationList":{
+            "Location":[
+              {
+                "LocationFacility":"Yi Du",
+                "LocationStatus":"Recruiting",
+                "LocationCity":"Nanning",
+                "LocationZip":"530021",
+                "LocationCountry":"China",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactName":"Yi Du, MD",
+                      "LocationContactRole":"Contact",
+                      "LocationContactPhone":"+86 771 5356507",
+                      "LocationContactEMail":"duyinapoleon@gmail.com"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "IPDSharingStatementModule":{
+          "IPDSharing":"Undecided"
+        }
+      },
+      "DerivedSection":{
+        "MiscInfoModule":{
+          "VersionHolder":"September 19, 2022"
+        },
+        "ConditionBrowseModule":{
+          "ConditionMeshList":{
+            "ConditionMesh":[
+              {
+                "ConditionMeshId":"D000009443",
+                "ConditionMeshTerm":"Neuritis"
+              },{
+                "ConditionMeshId":"D000009902",
+                "ConditionMeshTerm":"Optic Neuritis"
+              }
+            ]
+          },
+          "ConditionAncestorList":{
+            "ConditionAncestor":[
+              {
+                "ConditionAncestorId":"D000010523",
+                "ConditionAncestorTerm":"Peripheral Nervous System Diseases"
+              },{
+                "ConditionAncestorId":"D000009468",
+                "ConditionAncestorTerm":"Neuromuscular Diseases"
+              },{
+                "ConditionAncestorId":"D000009422",
+                "ConditionAncestorTerm":"Nervous System Diseases"
+              },{
+                "ConditionAncestorId":"D000009901",
+                "ConditionAncestorTerm":"Optic Nerve Diseases"
+              },{
+                "ConditionAncestorId":"D000003389",
+                "ConditionAncestorTerm":"Cranial Nerve Diseases"
+              },{
+                "ConditionAncestorId":"D000005128",
+                "ConditionAncestorTerm":"Eye Diseases"
+              }
+            ]
+          },
+          "ConditionBrowseLeafList":{
+            "ConditionBrowseLeaf":[
+              {
+                "ConditionBrowseLeafId":"M11539",
+                "ConditionBrowseLeafName":"Neuritis",
+                "ConditionBrowseLeafAsFound":"Neuritis",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M11985",
+                "ConditionBrowseLeafName":"Optic Neuritis",
+                "ConditionBrowseLeafAsFound":"Optic Neuritis",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M12584",
+                "ConditionBrowseLeafName":"Peripheral Nervous System Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M11563",
+                "ConditionBrowseLeafName":"Neuromuscular Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M11984",
+                "ConditionBrowseLeafName":"Optic Nerve Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M5757",
+                "ConditionBrowseLeafName":"Cranial Nerve Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M7423",
+                "ConditionBrowseLeafName":"Eye Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"T4263",
+                "ConditionBrowseLeafName":"Optic Neuritis",
+                "ConditionBrowseLeafAsFound":"Optic Neuritis",
+                "ConditionBrowseLeafRelevance":"high"
+              }
+            ]
+          },
+          "ConditionBrowseBranchList":{
+            "ConditionBrowseBranch":[
+              {
+                "ConditionBrowseBranchAbbrev":"BC10",
+                "ConditionBrowseBranchName":"Nervous System Diseases"
+              },{
+                "ConditionBrowseBranchAbbrev":"All",
+                "ConditionBrowseBranchName":"All Conditions"
+              },{
+                "ConditionBrowseBranchAbbrev":"BC11",
+                "ConditionBrowseBranchName":"Eye Diseases"
+              },{
+                "ConditionBrowseBranchAbbrev":"Rare",
+                "ConditionBrowseBranchName":"Rare Diseases"
+              }
+            ]
+          }
+        },
+        "InterventionBrowseModule":{
+          "InterventionMeshList":{
+            "InterventionMesh":[
+              {
+                "InterventionMeshId":"D000077553",
+                "InterventionMeshTerm":"Edaravone"
+              }
+            ]
+          },
+          "InterventionAncestorList":{
+            "InterventionAncestor":[
+              {
+                "InterventionAncestorId":"D000016166",
+                "InterventionAncestorTerm":"Free Radical Scavengers"
+              },{
+                "InterventionAncestorId":"D000000975",
+                "InterventionAncestorTerm":"Antioxidants"
+              },{
+                "InterventionAncestorId":"D000045504",
+                "InterventionAncestorTerm":"Molecular Mechanisms of Pharmacological Action"
+              },{
+                "InterventionAncestorId":"D000018696",
+                "InterventionAncestorTerm":"Neuroprotective Agents"
+              },{
+                "InterventionAncestorId":"D000020011",
+                "InterventionAncestorTerm":"Protective Agents"
+              },{
+                "InterventionAncestorId":"D000045505",
+                "InterventionAncestorTerm":"Physiological Effects of Drugs"
+              }
+            ]
+          },
+          "InterventionBrowseLeafList":{
+            "InterventionBrowseLeaf":[
+              {
+                "InterventionBrowseLeafId":"M3377",
+                "InterventionBrowseLeafName":"Antibodies",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M1831",
+                "InterventionBrowseLeafName":"Edaravone",
+                "InterventionBrowseLeafAsFound":"FOLFIRINOX",
+                "InterventionBrowseLeafRelevance":"high"
+              },{
+                "InterventionBrowseLeafId":"M9336",
+                "InterventionBrowseLeafName":"Immunoglobulins",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M3444",
+                "InterventionBrowseLeafName":"Antioxidants",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M19926",
+                "InterventionBrowseLeafName":"Neuroprotective Agents",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M21022",
+                "InterventionBrowseLeafName":"Protective Agents",
+                "InterventionBrowseLeafRelevance":"low"
+              }
+            ]
+          },
+          "InterventionBrowseBranchList":{
+            "InterventionBrowseBranch":[
+              {
+                "InterventionBrowseBranchAbbrev":"All",
+                "InterventionBrowseBranchName":"All Drugs and Chemicals"
+              },{
+                "InterventionBrowseBranchAbbrev":"NeuroAg",
+                "InterventionBrowseBranchName":"Neuroprotective Agents"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+

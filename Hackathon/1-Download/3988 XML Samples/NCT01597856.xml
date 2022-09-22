@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2194">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01597856</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IIR 11-091</org_study_id>
+    <nct_id>NCT01597856</nct_id>
+  </id_info>
+  <brief_title>Evaluation and Treatment of Substance Abuse in Veterans With PTSD Disability Claims</brief_title>
+  <acronym>SBIRT-PTSD</acronym>
+  <official_title>Evaluation and Treatment of Substance Use in Veterans With PTSD Disability Claims</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>VA Office of Research and Development</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Yale University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>VA Office of Research and Development</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Veterans can apply for compensation and pension (C &amp; P) benefits for a disability related to&#xD;
+      military service. The application exam for these benefits provides an opportunity for&#xD;
+      Veterans returning from service to access VA care. The investigators will recruit Veterans&#xD;
+      applying for C &amp; P to participate in this study. All enrolled participants will complete&#xD;
+      questionnaires around the time of their C &amp; P exam related to substance abuse, PTSD, service&#xD;
+      use, and attitudes. The investigators will monitor enrolled Veterans' attendance at treatment&#xD;
+      over time, and examine whether C &amp; P award, substance use, and beliefs about benefits are&#xD;
+      related to treatment attendance. Some enrolled participants will be assigned to one of two&#xD;
+      study groups: a treatment group and a no-additional-treatment group. People assigned to these&#xD;
+      groups will complete the same substance abuse, PTSD, service use, and attitudes&#xD;
+      questionnaires two additional times during the study. Participants assigned to the treatment&#xD;
+      group will receive information about the relationship between substance use and PTSD and will&#xD;
+      be referred to relevant treatment. The investigators will test whether Veterans who receive&#xD;
+      no-additional-treatment have different symptoms over time and attend less treatment sessions&#xD;
+      (mental health or substance abuse) than people assigned to treatment.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The Compensation examination that determines if a Veteran is entitled to any disability&#xD;
+      payments related to military service is a crucial gateway to accessing VA care for returning&#xD;
+      OEF/OIF Veterans. However, researchers and oversight agencies have noted that examiners&#xD;
+      typically do not have guidelines for evaluating comorbid conditions like substance abuse and&#xD;
+      for referring patients to treatment.&#xD;
+&#xD;
+      In the Evaluative Component of this study, OEF/OIF Veterans presenting for Compensation&#xD;
+      evaluations for PTSD will be approached to undergo a paid battery of confidential substance&#xD;
+      use, PTSD, service use and attitude assessments prior to their scheduled Compensation&#xD;
+      examinations. The batteries will be collected again twice, four and twelve weeks after the&#xD;
+      Compensation examinations. Long-term follow-up data will be extracted from VA databases&#xD;
+      including diagnoses, the results of the Veterans' Compensation evaluations, award&#xD;
+      determination, use of VA services and attendance at mental health and/or substance abuse&#xD;
+      treatment.&#xD;
+&#xD;
+      In the Clinical Trial Component of this study, one hundred sixty Veterans identified during&#xD;
+      the baseline evaluation as having a substance use disorder will be randomly assigned to a&#xD;
+      session of Screening, Brief Intervention and Referral to Treatment (SBIRT) or to&#xD;
+      No-Additional-Treatment. SBIRT is an approach to identifying and treating patients with&#xD;
+      substance abuse issues who are presenting for purposes other than substance abuse treatment.&#xD;
+      It involves Motivational Interviewing, which has been a consistently effective approach to&#xD;
+      facilitating engagement in substance abuse treatment in Veterans (Davis, Baer et al. 2003)&#xD;
+      and other populations. The study will examine factors associated with attendance at treatment&#xD;
+      including substance use, Veterans' beliefs about benefits, and compensation award. Group&#xD;
+      comparisons will be conducted on rates of treatment attendance, alcohol use, and PTSD&#xD;
+      symptoms.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 18, 2013</start_date>
+  <completion_date type="Actual">December 31, 2017</completion_date>
+  <primary_completion_date type="Actual">September 30, 2017</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Treatment Attendance by Treatment Group Over Time</measure>
+    <time_frame>4 weeks pre-baseline through week 12 post baseline, total of 16 Weeks</time_frame>
+    <description>Mean number of weeks of substance abuse and/or mental health treatment attended (as measured by the Electronic Medical Record) by treatment group over time</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Substance Use by Treatment Group Over Time</measure>
+    <time_frame>4 weeks pre-baseline through week 12 post baseline, total of 16 Weeks</time_frame>
+    <description>Mean days self-reported risky drug or alcohol use</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean PTSD Severity Score</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Measure on Clinical Assessment of PTSD Severity (CAPS IV) rating scale (range 0-136, higher is more severe symptoms).</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">346</enrollment>
+  <condition>Attendance at Treatment</condition>
+  <condition>PTSD, Substance Use, and Attendance at Treatment</condition>
+  <arm_group>
+    <arm_group_label>SBIRT</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The SBIRT-VA manual codifies basic substance abuse screening, treatment, Motivational Interviewing and referral procedures. It is designed for providers with minimal substance abuse expertise and is easy for experienced substance abuse providers to deliver.&#xD;
+Study sessions include identifying the Veterans' values through a card sort, the change ruler, on which the Veteran rates his/her willingness to change current behavior, listing the pros and cons of changing.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>No additional treatment</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Veterans assigned to the control condition will not receive any study-related therapy. A Veteran who completes a Compensation examination ordinarily has no further treatment, referral, or debriefing as part of the Compensation examination.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>SBIRT</intervention_name>
+    <description>SBIRT Therapy overview-&#xD;
+Therapist explains purpose of the therapy.&#xD;
+Inquiry about Compensation examination-ask if Veteran has questions about determination process and address concerns.&#xD;
+Discuss relationship between PTSD and substance use- long-term substance use is a form of avoidance and barrier to recovery.&#xD;
+Discuss treatment needs, administer screening, provide feedback.</description>
+    <arm_group_label>SBIRT</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Veteran of OEF or OIF,&#xD;
+&#xD;
+          -  Not currently receiving VBA Compensation for PTSD,&#xD;
+&#xD;
+          -  Able to participate psychologically and physically, able to give informed consent and&#xD;
+             complete, assessments, and participate in study procedures&#xD;
+&#xD;
+          -  Between the ages of 18-65 years old.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Will not be able to attend the week 4 or 12 appointment because of anticipated&#xD;
+             incarceration or move&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Marc I. Rosen, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>VA Connecticut Healthcare System West Haven Campus, West Haven, CT</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>VA Connecticut Healthcare System West Haven Campus, West Haven, CT</name>
+      <address>
+        <city>West Haven</city>
+        <state>Connecticut</state>
+        <zip>06516</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tennessee Valley Healthcare System Nashville Campus, Nashville, TN</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37212-2637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Jankowski RL, Black AC, Lazar CM, Brummett BR, Rosen MI. Consideration of substance use in compensation and pension examinations of veterans filing PTSD claims. PLoS One. 2019 Feb 6;14(2):e0210938. doi: 10.1371/journal.pone.0210938. eCollection 2019.</citation>
+    <PMID>30726261</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Black AC, Meshberg-Cohen S, Perez-Ortiz AC, Thornhill TA, Rosen MI. Veterans' compensation claims beliefs predict timing of PTSD treatment use relative to compensation and pension exam. PLoS One. 2018 Dec 27;13(12):e0209488. doi: 10.1371/journal.pone.0209488. eCollection 2018.</citation>
+    <PMID>30589882</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Meshberg-Cohen S, Kachadourian L, Black AC, Rosen MI. Relationship between substance use and attitudes towards seeking professional psychological help among veterans filing PTSD claims. Addict Behav. 2017 Nov;74:9-12. doi: 10.1016/j.addbeh.2017.05.024. Epub 2017 May 23.</citation>
+    <PMID>28558337</PMID>
+  </results_reference>
+  <verification_date>January 2020</verification_date>
+  <study_first_submitted>May 10, 2012</study_first_submitted>
+  <study_first_submitted_qc>May 11, 2012</study_first_submitted_qc>
+  <study_first_posted type="Estimate">May 14, 2012</study_first_posted>
+  <results_first_submitted>November 19, 2018</results_first_submitted>
+  <results_first_submitted_qc>December 20, 2019</results_first_submitted_qc>
+  <results_first_posted type="Actual">January 10, 2020</results_first_posted>
+  <last_update_submitted>January 10, 2020</last_update_submitted>
+  <last_update_submitted_qc>January 10, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 27, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Substance-Related Disorders</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>January 26, 2017</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/56/NCT01597856/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Post 9-11 era Veterans with an initial PTSD Compensation &amp; Pension Application scheduled were recruited from VA Connecticut Healthcare System and TN Valley Healthcare system between April 2013 and July 2016.</recruitment_details>
+      <pre_assignment_details>All enrolled Veterans completed study assessments at baseline, week 4 and week 12. Only Veterans with self-reported risky alcohol use or use of an illicit drug within the last 28 days were randomized to receive SBIRT counseling or No additional counseling conditions.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>SBIRT</title>
+          <description>The SBIRT-VA manual codifies basic substance abuse screening, treatment, Motivational Interviewing and referral procedures. It is designed for providers with minimal substance abuse expertise and is easy for experienced substance abuse providers to deliver.&#xD;
+Study sessions include identifying the Veterans' values through a card sort, the change ruler, on which the Veteran rates his/her willingness to change current behavior, listing the pros and cons of changing.&#xD;
+SBIRT: SBIRT Therapy overview-&#xD;
+Therapist explains purpose of the therapy.&#xD;
+Inquiry about Compensation examination-ask if Veteran has questions about determination process and address concerns.&#xD;
+Discuss relationship between PTSD and substance use- long-term substance use is a form of avoidance and barrier to recovery.&#xD;
+Discuss treatment needs, administer screening, provide feedback.</description>
+        </group>
+        <group group_id="P2">
+          <title>No Additional Treatment</title>
+          <description>Veterans assigned to the control condition will not receive any study-related therapy. A Veteran who completes a Compensation examination ordinarily has no further treatment, referral, or debriefing as part of the Compensation examination.</description>
+        </group>
+        <group group_id="P3">
+          <title>Not Randomized</title>
+          <description>Enrolled Veterans with no risky substance use.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="85"/>
+                <participants group_id="P2" count="87"/>
+                <participants group_id="P3" count="174"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Week 4 Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="62"/>
+                <participants group_id="P2" count="67"/>
+                <participants group_id="P3" count="129"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="63"/>
+                <participants group_id="P2" count="61"/>
+                <participants group_id="P3" count="120"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="22"/>
+                <participants group_id="P2" count="26"/>
+                <participants group_id="P3" count="54"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>SBIRT</title>
+          <description>The SBIRT-VA manual codifies basic substance abuse screening, treatment, Motivational Interviewing and referral procedures. It is designed for providers with minimal substance abuse expertise and is easy for experienced substance abuse providers to deliver.&#xD;
+Study sessions include identifying the Veterans' values through a card sort, the change ruler, on which the Veteran rates his/her willingness to change current behavior, listing the pros and cons of changing.&#xD;
+SBIRT: SBIRT Therapy overview-&#xD;
+Therapist explains purpose of the therapy.&#xD;
+Inquiry about Compensation examination-ask if Veteran has questions about determination process and address concerns.&#xD;
+Discuss relationship between PTSD and substance use- long-term substance use is a form of avoidance and barrier to recovery.&#xD;
+Discuss treatment needs, administer screening, provide feedback.</description>
+        </group>
+        <group group_id="B2">
+          <title>No Additional Treatment</title>
+          <description>Veterans assigned to the control condition will not receive any study-related therapy. A Veteran who completes a Compensation examination ordinarily has no further treatment, referral, or debriefing as part of the Compensation examination.</description>
+        </group>
+        <group group_id="B3">
+          <title>Not Randomized</title>
+          <description>Veterans enrolled who did not report risky substance use at baseline.</description>
+        </group>
+        <group group_id="B4">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="85"/>
+            <count group_id="B2" value="87"/>
+            <count group_id="B3" value="174"/>
+            <count group_id="B4" value="346"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="32.9" spread="7.8"/>
+                    <measurement group_id="B2" value="32.4" spread="7.6"/>
+                    <measurement group_id="B3" value="36.6" spread="9.6"/>
+                    <measurement group_id="B4" value="34.6" spread="8.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="24"/>
+                    <measurement group_id="B4" value="46"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="70"/>
+                    <measurement group_id="B2" value="80"/>
+                    <measurement group_id="B3" value="150"/>
+                    <measurement group_id="B4" value="300"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Asian</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="3"/>
+                    <measurement group_id="B4" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Black (not Hispanic)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                    <measurement group_id="B2" value="14"/>
+                    <measurement group_id="B3" value="32"/>
+                    <measurement group_id="B4" value="61"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>White (not Hispanic)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="55"/>
+                    <measurement group_id="B2" value="60"/>
+                    <measurement group_id="B3" value="112"/>
+                    <measurement group_id="B4" value="227"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hispanic</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="24"/>
+                    <measurement group_id="B4" value="42"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Other</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="3"/>
+                    <measurement group_id="B4" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="85"/>
+                    <measurement group_id="B2" value="87"/>
+                    <measurement group_id="B3" value="174"/>
+                    <measurement group_id="B4" value="346"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Treatment Attendance by Treatment Group Over Time</title>
+        <description>Mean number of weeks of substance abuse and/or mental health treatment attended (as measured by the Electronic Medical Record) by treatment group over time</description>
+        <time_frame>4 weeks pre-baseline through week 12 post baseline, total of 16 Weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>SBIRT</title>
+            <description>Intervention Group</description>
+          </group>
+          <group group_id="O2">
+            <title>No Additional Treatment</title>
+            <description>Control Group (Randomized, no intervention)</description>
+          </group>
+          <group group_id="O3">
+            <title>Not Randomized</title>
+            <description>Comparison Group (no risky substance use at baseline)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Treatment Attendance by Treatment Group Over Time</title>
+          <description>Mean number of weeks of substance abuse and/or mental health treatment attended (as measured by the Electronic Medical Record) by treatment group over time</description>
+          <units>weeks</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="85"/>
+                <count group_id="O2" value="87"/>
+                <count group_id="O3" value="174"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>4 weeks Pre-Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.75" spread="1.18"/>
+                    <measurement group_id="O2" value="0.53" spread="0.92"/>
+                    <measurement group_id="O3" value="0.83" spread="1.20"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline to week 4</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.89" spread="1.22"/>
+                    <measurement group_id="O2" value="0.55" spread="0.81"/>
+                    <measurement group_id="O3" value="0.94" spread="1.16"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 4 to week 12</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.98" spread="2.19"/>
+                    <measurement group_id="O2" value="0.98" spread="1.50"/>
+                    <measurement group_id="O3" value="1.71" spread="2.30"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Substance Use by Treatment Group Over Time</title>
+        <description>Mean days self-reported risky drug or alcohol use</description>
+        <time_frame>4 weeks pre-baseline through week 12 post baseline, total of 16 Weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>SBIRT</title>
+            <description>Intervention Group</description>
+          </group>
+          <group group_id="O2">
+            <title>No Additional Treatment</title>
+            <description>Control Group (randomized, no intervention)</description>
+          </group>
+          <group group_id="O3">
+            <title>Not Randomized</title>
+            <description>Comparison Group (no risky substance use at baseline)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Substance Use by Treatment Group Over Time</title>
+          <description>Mean days self-reported risky drug or alcohol use</description>
+          <units>days</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="85"/>
+                <count group_id="O2" value="87"/>
+                <count group_id="O3" value="174"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>4 weeks Pre-Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.12" spread="1.67"/>
+                    <measurement group_id="O2" value="2.39" spread="1.66"/>
+                    <measurement group_id="O3" value="0.98" spread="1.53"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline to Week 4</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.73" spread="1.83"/>
+                    <measurement group_id="O2" value="1.63" spread="1.80"/>
+                    <measurement group_id="O3" value="0.98" spread="1.50"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 4 to Week 12</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.60" spread="3.24"/>
+                    <measurement group_id="O2" value="2.77" spread="3.18"/>
+                    <measurement group_id="O3" value="1.80" spread="2.80"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Mean PTSD Severity Score</title>
+        <description>Measure on Clinical Assessment of PTSD Severity (CAPS IV) rating scale (range 0-136, higher is more severe symptoms).</description>
+        <time_frame>12 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>SBIRT</title>
+            <description>Intervention Group</description>
+          </group>
+          <group group_id="O2">
+            <title>No Additional Treatment</title>
+            <description>Control Group (Randomized, no intervention)</description>
+          </group>
+          <group group_id="O3">
+            <title>Not Randomized</title>
+            <description>Comparison Group (no risky substance use at baseline)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Mean PTSD Severity Score</title>
+          <description>Measure on Clinical Assessment of PTSD Severity (CAPS IV) rating scale (range 0-136, higher is more severe symptoms).</description>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="85"/>
+                <count group_id="O2" value="87"/>
+                <count group_id="O3" value="174"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="63.13" spread="20.74"/>
+                    <measurement group_id="O2" value="59.63" spread="22.42"/>
+                    <measurement group_id="O3" value="59.98" spread="21.95"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 4</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="58.54" spread="20.68"/>
+                    <measurement group_id="O2" value="49.69" spread="22.23"/>
+                    <measurement group_id="O3" value="54.34" spread="24.13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 12</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="55.24" spread="23.88"/>
+                    <measurement group_id="O2" value="48.96" spread="23.34"/>
+                    <measurement group_id="O3" value="52.17" spread="22.42"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>12 weeks</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>SBIRT</title>
+          <description>The SBIRT-VA manual codifies basic substance abuse screening, treatment, Motivational Interviewing and referral procedures. It is designed for providers with minimal substance abuse expertise and is easy for experienced substance abuse providers to deliver.&#xD;
+Study sessions include identifying the Veterans' values through a card sort, the change ruler, on which the Veteran rates his/her willingness to change current behavior, listing the pros and cons of changing.&#xD;
+SBIRT: SBIRT Therapy overview-&#xD;
+Therapist explains purpose of the therapy.&#xD;
+Inquiry about Compensation examination-ask if Veteran has questions about determination process and address concerns.&#xD;
+Discuss relationship between PTSD and substance use- long-term substance use is a form of avoidance and barrier to recovery.&#xD;
+Discuss treatment needs, administer screening, provide feedback.</description>
+        </group>
+        <group group_id="E2">
+          <title>No Additional Treatment</title>
+          <description>Veterans assigned to the control condition will not receive any study-related therapy. A Veteran who completes a Compensation examination ordinarily has no further treatment, referral, or debriefing as part of the Compensation examination.</description>
+        </group>
+        <group group_id="E3">
+          <title>Not Randomized</title>
+          <description>Veterans reporting no risky substance use at baseline.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="85"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="87"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="174"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="85"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="87"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="174"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="85"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="87"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="174"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Christina Lazar</name_or_title>
+      <organization>VA Connecticut/ Yale University</organization>
+      <phone>203-932-5711 ext 4833</phone>
+      <email>Christina.Lazar@Yale.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

@@ -1,0 +1,2681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3941">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01756833</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HP-00051170</org_study_id>
+    <secondary_id>R01AG037120</secondary_id>
+    <nct_id>NCT01756833</nct_id>
+  </id_info>
+  <brief_title>Non-Invasive Treatment of Abdominal Aortic Aneurysm Clinical Trial</brief_title>
+  <acronym>N-TA^3CT</acronym>
+  <official_title>Non-Invasive Treatment of Abdominal Aortic Aneurysm Clinical Trial (N-TA^3CT)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Maryland, Baltimore</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Maryland, Baltimore</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary aim of this study is to determine if doxycycline (100 mg bid) will inhibit (by at&#xD;
+      least 40%) the increase in greatest transverse diameter of small abdominal aortic aneurysms&#xD;
+      (3.5-5.0 cm in men, 3.5-4.5 cm in women) over a 24-month period of observation in comparison&#xD;
+      to a placebo-treated control group.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      N-TA^3CT is a randomized, double-blind, placebo-controlled test of the hypothesis that&#xD;
+      doxycycline 100 mg bid, will reduce the rate of increase of maximum transverse diameter of&#xD;
+      small (3.5-5.0 cm among men and 3.5 to 4.5 cm among women) abdominal aortic aneurysms. The&#xD;
+      primary outcome is abdominal aortic aneurysm (AAA) maximum transverse diameter determined by&#xD;
+      CT scans at two-year follow-up with allowance for baseline (pre-randomization) diameter.&#xD;
+      Based on an anticipated growth rate of 2.5 mm per year in the placebo group and the current&#xD;
+      threshold at which surgical intervention will be offered to trial participants, (5.5 cm in&#xD;
+      men, 5.0 cm in women), the upper limit of AAA size for inclusion has been set at 5.0 cm for&#xD;
+      men and 4.5 cm for women. Among these subjects, the threshold for repair would be exceeded&#xD;
+      only by those exhibiting persistent growth. Secondary outcomes will determine if doxycycline&#xD;
+      affects other measures, e.g., MMP-9 levels in plasma and whether these effects are related to&#xD;
+      aneurysm growth. Nineteen clinical sites have identified pools of over 1600 patients with&#xD;
+      small aneurysm who meet the proposed inclusion/exclusion criteria. Two hundred fifty-eight&#xD;
+      patients will be randomized to placebo or doxycycline and their aneurysms followed for change&#xD;
+      in diameter at six-month intervals using CT imaging. The alternative hypothesis is that&#xD;
+      doxycycline will inhibit the expansion rate by 40% during the two years of observation.&#xD;
+      Patients enrolling in N-TA^3CT must be able to give consent for their participation&#xD;
+      themselves and meet study eligibility criteria.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 2013</start_date>
+  <completion_date type="Actual">July 23, 2019</completion_date>
+  <primary_completion_date type="Actual">July 23, 2019</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Difference in Z-score for Rank of Maximum Transverse Diameter (MTD) Regressed on Z-score at Baseline to Assess Growth in Abdominal Aortic Aneurysm MTD Determined by CT Scans at Two-year Follow-up and Baseline (Pre-randomization).</measure>
+    <time_frame>Baseline and two years from randomization (when patients were late in returning for visits, their data were used up to three years).</time_frame>
+    <description>Diameters were ranked from smallest to largest. Worse ranks were assigned to surviving patients who underwent aneurysm repair (in order of longest to shortest time from randomization to repair), and worst ranks were assigned to patients who died (in order likewise). Each rank was converted to a z-score corresponding to the value on the standard normal curve of its percentile. The primary analysis was based on linear regression of the change in z-scores from baseline to 2 years. Independent variables were baseline z-score, sex, and a dichotomous variable for the randomly assigned treatment group (0 for placebo, 1 for doxycycline). Missing values were multiply imputed. Higher score corresponds to less favorable outcome. There is no scale associated with these z-scores; the absolute z-scores have no biological meaning or clinically relevant threshold. A z-score of 0 corresponds to the median rank. The maximum and minimum z-scores are +2.41 and -2.41. See References in Protocol Section.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Maximum Transverse Diameter, cm</measure>
+    <time_frame>Six months, one year, and two years (when patients were late in returning for visits their data were used up to three years).</time_frame>
+    <description>Secondary outcomes will derive from central, Imaging Core Laboratory analyses of the CT scans performed every six months on patients and from the clinical follow-up of randomized patients, from clinical observation, local laboratory findings, study visit quality of life assessments, and from biomarker analyses to be performed in the Biomarkers Core Laboratory (e.g., changes from initial matrix metalloproteinase (MMP-9) levels, and matrix metalloproteinase (MMP-9) levels at 24 months). When patients were late in returning for visits their data were used up to three years.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Volume, cm^3</measure>
+    <time_frame>Six months, one year, and two years (when patients were late in returning for visits their data were used up to three years).</time_frame>
+    <description>Secondary outcomes will derive from central, Imaging Core Laboratory analyses of the CT scans performed every six months on patients and from the clinical follow-up of randomized patients, from clinical observation, local laboratory findings, study visit quality of life assessments, and from biomarker analyses to be performed in the Biomarkers Core Laboratory (e.g., changes from initial matrix metalloproteinase (MMP-9) levels, and matrix metalloproteinase (MMP-9) levels at 24 months). When patients were late in returning for visits their data were used up to three years.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>MMP-9, ng/ml</measure>
+    <time_frame>Six months, one year, 18 months, and two years (when patients were late in returning for visits their data were used up to three years).</time_frame>
+    <description>Secondary outcomes will derive from central, Imaging Core Laboratory analyses of the CT scans performed every six months on patients and from the clinical follow-up of randomized patients, from clinical observation, local laboratory findings, study visit quality of life assessments, and from biomarker analyses to be performed in the Biomarkers Core Laboratory (e.g., changes from initial matrix metalloproteinase (MMP-9) levels, and matrix metalloproteinase (MMP-9) levels at 24 months). When patients were late in returning for visits their data were used up to three years.&#xD;
+Analysis of hs-CRP will be performed using an immunoturbidimetric latex agglutination method (K-assay [KAI-60], Kamiya Biomedical Co., Seattle, WA).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CRP, mg/l</measure>
+    <time_frame>Six months, one year, 18 months, and two years (when patients were late in returning for visits their data were used up to three years).</time_frame>
+    <description>Secondary outcomes will derive from central, Imaging Core Laboratory analyses of the CT scans performed every six months on patients and from the clinical follow-up of randomized patients, from clinical observation, local laboratory findings, study visit quality of life assessments, and from biomarker analyses to be performed in the Biomarkers Core Laboratory (e.g., changes from initial matrix metalloproteinase (MMP-9) levels, and matrix metalloproteinase (MMP-9) levels at 24 months). When patients were late in returning for visits their data were used up to three years.&#xD;
+Plasma MMP-9 concentrations will be measured by an ELISA, two-site sandwich method that is commercially available (R &amp; D Systems, Quantikine, DMP900).</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Number of Participants With Aneurysm Rupture</measure>
+    <time_frame>Two years</time_frame>
+    <description>Clinically reported rupture events.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number of Participants With Surgical Intervention</measure>
+    <time_frame>Two years</time_frame>
+    <description>Clinically reported aneurysm repair.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number of Participants Who Died</measure>
+    <time_frame>Two years</time_frame>
+    <description>Clinically reported deaths.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">261</enrollment>
+  <condition>Aneurysm</condition>
+  <arm_group>
+    <arm_group_label>Doxycycline</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>100 mg capsules, twice a day, for a period of two years.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>100 mg capsules, twice a day, for a period of two years.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Doxycycline</intervention_name>
+    <description>100 mg po bid</description>
+    <arm_group_label>Doxycycline</arm_group_label>
+    <other_name>doxycycline hyclate</other_name>
+    <other_name>Vibramycin</other_name>
+    <other_name>Oracea</other_name>
+    <other_name>Adoxa</other_name>
+    <other_name>Atridox and others</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>capsule identical to the doxycycline capsule</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <other_name>capsule containing inert filler</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients 55 years of age or older, women post-surgical menopause or at least two years&#xD;
+             since last menses if natural menopause.&#xD;
+&#xD;
+          -  CT scan documented infrarenal abdominal aortic aneurysm with maximum transverse&#xD;
+             diameter larger than 35 mm and no greater than 50 mm, in men, and larger than 35 mm&#xD;
+             and no greater than 45 mm in women.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients will be excluded from the study if they are unable to give their own informed&#xD;
+             consent to participate.&#xD;
+&#xD;
+          -  have symptoms related to abdominal aortic aneurysm.&#xD;
+&#xD;
+          -  have other intra-abdominal vascular pathology that may require repair within 24 months&#xD;
+             (e.g., renal artery stenosis, large iliac artery aneurysms, iliac occlusive disease,&#xD;
+             aneurysmal involvement of the renal artery).&#xD;
+&#xD;
+          -  have had previous abdominal aortic aneurysm repair by open surgical or endovascular&#xD;
+             technique.&#xD;
+&#xD;
+          -  have an active malignancy with life expectancy less than two years.&#xD;
+&#xD;
+          -  have an allergy to tetracycline.&#xD;
+&#xD;
+          -  are currently or have been recently treated (previous six months) with tetracycline&#xD;
+             derivatives.&#xD;
+&#xD;
+          -  they are currently taking anti-seizure medicines metabolized by pathways influenced by&#xD;
+             doxycycline (e.g., carbamazepine, phenytoin, and barbiturates).&#xD;
+&#xD;
+          -  stage II hypertension (patients whose blood pressure is persistently in the range of&#xD;
+             systolic &gt; 160 mm Hg or diastolic &gt; 100 mm Hg despite primary physician's best effort&#xD;
+             to achieve adequate therapy.&#xD;
+&#xD;
+          -  have dialysis dependent renal failure or impending dialysis treatment for renal&#xD;
+             insufficiency.&#xD;
+&#xD;
+          -  have a chronic infection requiring long-term (&gt; 2 weeks) antibiotics.&#xD;
+&#xD;
+          -  have known genetic syndromes responsible for the abdominal aortic aneurysm (e.g.,&#xD;
+             Marfan's Syndrome).&#xD;
+&#xD;
+          -  are under treatment with systemic immunosuppressive agents.&#xD;
+&#xD;
+          -  could become pregnant.&#xD;
+&#xD;
+          -  are not good candidates for clinical trial participation.&#xD;
+&#xD;
+          -  are enrolled in another clinical trial.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michael L Terrin, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Maryland, Baltimore</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Bernard T Baxter, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Nebraska</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Jonathan Matsumura, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Wisconsin Medical Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>John Curci, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Vanderbilt University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Arizona Medical Center</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85724</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Carondelet Heart &amp; Vascular Institute</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85745</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Southern California</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford University</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Miami Cardiac and Vascular Institute</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33176</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of South Florida Health Center</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33606</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern University Memorial Hospital</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Maryland Medical Center</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Deaconness Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Michigan Medical Center</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>McLaren Northern Michigan</name>
+      <address>
+        <city>Petoskey</city>
+        <state>Michigan</state>
+        <zip>49770</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Omaha VAMC</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68198</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Nebraska Medical Center</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68198</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Columbia University Medical Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Oregon Health Sciences University</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Portland VAMC</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Geisinger Medical Center</name>
+      <address>
+        <city>Danville</city>
+        <state>Pennsylvania</state>
+        <zip>17822</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt University Medical Center</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37212</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Southwestern Medical Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Utah Health Sciences Center</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84132</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Utah VAMC</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84132</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Baxter BT, Matsumura J, Curci J, McBride R, Blackwelder WC, Liu X, Larson L, Terrin ML; N-TA(3)CT Investigators. Non-invasive Treatment of Abdominal Aortic Aneurysm Clinical Trial (N-TA(3)CT): Design of a Phase IIb, placebo-controlled, double-blind, randomized clinical trial of doxycycline for the reduction of growth of small abdominal aortic aneurysm. Contemp Clin Trials. 2016 May;48:91-8. doi: 10.1016/j.cct.2016.03.008. Epub 2016 Mar 25.</citation>
+    <PMID>27018941</PMID>
+  </reference>
+  <reference>
+    <citation>Lachin JM. Worst-Rank Score Methods-A Nonparametric Approach to Informatively Missing Data. JAMA. 2020 Oct 27;324(16):1670-1671. doi: 10.1001/jama.2020.7709.</citation>
+    <PMID>32986071</PMID>
+  </reference>
+  <reference>
+    <citation>Lachin JM. Nonparametric Statistical Analysis. JAMA. 2020 May 26;323(20):2080-2081. doi: 10.1001/jama.2020.5874.</citation>
+    <PMID>32453350</PMID>
+  </reference>
+  <results_reference>
+    <citation>Baxter BT, Matsumura J, Curci JA, McBride R, Larson L, Blackwelder W, Lam D, Wijesinha M, Terrin M; N-TA3CT Investigators. Effect of Doxycycline on Aneurysm Growth Among Patients With Small Infrarenal Abdominal Aortic Aneurysms: A Randomized Clinical Trial. JAMA. 2020 May 26;323(20):2029-2038. doi: 10.1001/jama.2020.5230.</citation>
+    <PMID>32453369</PMID>
+  </results_reference>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>December 20, 2012</study_first_submitted>
+  <study_first_submitted_qc>December 20, 2012</study_first_submitted_qc>
+  <study_first_posted type="Estimate">December 28, 2012</study_first_posted>
+  <results_first_submitted>May 7, 2021</results_first_submitted>
+  <results_first_submitted_qc>October 29, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">November 26, 2021</results_first_posted>
+  <last_update_submitted>October 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Maryland, Baltimore</investigator_affiliation>
+    <investigator_full_name>Michael Terrin</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>abdominal</keyword>
+  <keyword>aortic</keyword>
+  <keyword>aneurysm</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Aneurysm</mesh_term>
+    <mesh_term>Aortic Aneurysm</mesh_term>
+    <mesh_term>Aortic Aneurysm, Abdominal</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Doxycycline</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>April 13, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/33/NCT01756833/Prot_003.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>March 26, 2017</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/33/NCT01756833/SAP_001.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>February 3, 2015</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/33/NCT01756833/ICF_004.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Doxycycline</title>
+          <description>100 mg capsules, twice a day, for a period of two years.&#xD;
+Doxycycline: 100 mg po bid</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo</title>
+          <description>100 mg capsules, twice a day, for a period of two years.&#xD;
+Placebo: capsule identical to the doxycycline capsule</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="133"/>
+                <participants group_id="P2" count="128"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="129"/>
+                <participants group_id="P2" count="125"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+                <participants group_id="P2" count="3"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+                <participants group_id="P2" count="3"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Seven participants who were randomized had insufficient follow-up to be included in the primary analysis. There were two patients whose baseline specimens were lost in shipment reducing the total number for baseline evaluations of MMP-9 and CRP from 254 to 252.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Doxycycline</title>
+          <description>100 mg capsules, twice a day, for a period of two years.&#xD;
+Doxycycline: 100 mg po bid</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo</title>
+          <description>100 mg capsules, twice a day, for a period of two years.&#xD;
+Placebo: capsule identical to the doxycycline capsule</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="129"/>
+            <count group_id="B2" value="125"/>
+            <count group_id="B3" value="254"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="129"/>
+                    <count group_id="B2" value="125"/>
+                    <count group_id="B3" value="254"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="71.0" spread="7.5"/>
+                    <measurement group_id="B2" value="70.9" spread="7.3"/>
+                    <measurement group_id="B3" value="71.0" spread="7.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="129"/>
+                    <count group_id="B2" value="125"/>
+                    <count group_id="B3" value="254"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="18"/>
+                    <measurement group_id="B2" value="17"/>
+                    <measurement group_id="B3" value="35"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="111"/>
+                    <measurement group_id="B2" value="108"/>
+                    <measurement group_id="B3" value="219"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="129"/>
+                    <count group_id="B2" value="125"/>
+                    <count group_id="B3" value="254"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="10"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="122"/>
+                    <measurement group_id="B2" value="119"/>
+                    <measurement group_id="B3" value="241"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="129"/>
+                    <count group_id="B2" value="125"/>
+                    <count group_id="B3" value="254"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="7"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="120"/>
+                    <measurement group_id="B2" value="113"/>
+                    <measurement group_id="B3" value="233"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="129"/>
+                    <count group_id="B2" value="125"/>
+                    <count group_id="B3" value="254"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="129"/>
+                    <measurement group_id="B2" value="125"/>
+                    <measurement group_id="B3" value="254"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Smoking Status</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="129"/>
+                    <count group_id="B2" value="125"/>
+                    <count group_id="B3" value="254"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Current Smoker</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="44"/>
+                    <measurement group_id="B2" value="43"/>
+                    <measurement group_id="B3" value="87"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Former Smoker</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="75"/>
+                    <measurement group_id="B2" value="73"/>
+                    <measurement group_id="B3" value="148"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Never Smoked</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="19"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Clinical History</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Hypercholesterolemia</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="129"/>
+                    <count group_id="B2" value="125"/>
+                    <count group_id="B3" value="254"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="98"/>
+                    <measurement group_id="B2" value="98"/>
+                    <measurement group_id="B3" value="196"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Coronary artery disease</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="129"/>
+                    <count group_id="B2" value="125"/>
+                    <count group_id="B3" value="254"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="51"/>
+                    <measurement group_id="B2" value="53"/>
+                    <measurement group_id="B3" value="104"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Cancer</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="129"/>
+                    <count group_id="B2" value="125"/>
+                    <count group_id="B3" value="254"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="44"/>
+                    <measurement group_id="B2" value="38"/>
+                    <measurement group_id="B3" value="82"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Chronic obstructive pulmonary disease</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="129"/>
+                    <count group_id="B2" value="125"/>
+                    <count group_id="B3" value="254"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="30"/>
+                    <measurement group_id="B2" value="29"/>
+                    <measurement group_id="B3" value="59"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Diabetes</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="129"/>
+                    <count group_id="B2" value="125"/>
+                    <count group_id="B3" value="254"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="35"/>
+                    <measurement group_id="B2" value="22"/>
+                    <measurement group_id="B3" value="57"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Family history of abdominal aortic aneurysm</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="129"/>
+                    <count group_id="B2" value="125"/>
+                    <count group_id="B3" value="254"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="27"/>
+                    <measurement group_id="B2" value="20"/>
+                    <measurement group_id="B3" value="47"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Atrial fibrillation</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="129"/>
+                    <count group_id="B2" value="125"/>
+                    <count group_id="B3" value="254"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16"/>
+                    <measurement group_id="B2" value="17"/>
+                    <measurement group_id="B3" value="33"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Stroke</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="129"/>
+                    <count group_id="B2" value="125"/>
+                    <count group_id="B3" value="254"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                    <measurement group_id="B2" value="15"/>
+                    <measurement group_id="B3" value="28"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Congestive Heart Failure</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="129"/>
+                    <count group_id="B2" value="125"/>
+                    <count group_id="B3" value="254"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="20"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Medications</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Statin</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="129"/>
+                    <count group_id="B2" value="125"/>
+                    <count group_id="B3" value="254"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="104"/>
+                    <measurement group_id="B2" value="103"/>
+                    <measurement group_id="B3" value="207"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any antihypertensive</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="129"/>
+                    <count group_id="B2" value="125"/>
+                    <count group_id="B3" value="254"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="105"/>
+                    <measurement group_id="B2" value="94"/>
+                    <measurement group_id="B3" value="199"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>B-Blocker</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="129"/>
+                    <count group_id="B2" value="125"/>
+                    <count group_id="B3" value="254"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="68"/>
+                    <measurement group_id="B2" value="63"/>
+                    <measurement group_id="B3" value="131"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Diuretics</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="129"/>
+                    <count group_id="B2" value="125"/>
+                    <count group_id="B3" value="254"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="43"/>
+                    <measurement group_id="B2" value="40"/>
+                    <measurement group_id="B3" value="83"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Angiotensin-converting enzyme inhibitor</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="129"/>
+                    <count group_id="B2" value="125"/>
+                    <count group_id="B3" value="254"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="51"/>
+                    <measurement group_id="B2" value="37"/>
+                    <measurement group_id="B3" value="88"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Calcium channel blocker</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="129"/>
+                    <count group_id="B2" value="125"/>
+                    <count group_id="B3" value="254"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="26"/>
+                    <measurement group_id="B2" value="34"/>
+                    <measurement group_id="B3" value="60"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Angiotensin receptor blocker</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="129"/>
+                    <count group_id="B2" value="125"/>
+                    <count group_id="B3" value="254"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="20"/>
+                    <measurement group_id="B2" value="25"/>
+                    <measurement group_id="B3" value="45"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Aspirin or other antiplatelet</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="129"/>
+                    <count group_id="B2" value="125"/>
+                    <count group_id="B3" value="254"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="95"/>
+                    <measurement group_id="B2" value="92"/>
+                    <measurement group_id="B3" value="187"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Daily aspirin</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="129"/>
+                    <count group_id="B2" value="125"/>
+                    <count group_id="B3" value="254"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="86"/>
+                    <measurement group_id="B2" value="89"/>
+                    <measurement group_id="B3" value="175"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Other antiplatelet</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="129"/>
+                    <count group_id="B2" value="125"/>
+                    <count group_id="B3" value="254"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="19"/>
+                    <measurement group_id="B2" value="25"/>
+                    <measurement group_id="B3" value="44"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Aneurysm Diameter (Overall)</title>
+          <description>Aneurysm values round to 4.3 cm (SD = 0.4 cm) for the total and for each of the two treatment groups.</description>
+          <units>cm</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="129"/>
+                    <count group_id="B2" value="125"/>
+                    <count group_id="B3" value="254"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4.3" spread="0.4"/>
+                    <measurement group_id="B2" value="4.3" spread="0.4"/>
+                    <measurement group_id="B3" value="4.3" spread="0.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Aneurysm Diameter (Men)</title>
+          <population>Aneurysm diameter (cm) measured in men</population>
+          <units>cm</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="111"/>
+                    <count group_id="B2" value="108"/>
+                    <count group_id="B3" value="219"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4.3" spread="0.4"/>
+                    <measurement group_id="B2" value="4.4" spread="0.4"/>
+                    <measurement group_id="B3" value="4.4" spread="0.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Aneurysm Diameter (Women)</title>
+          <population>Aneurysm diameter (cm) measured in women</population>
+          <units>cm</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="18"/>
+                    <count group_id="B2" value="17"/>
+                    <count group_id="B3" value="35"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4.1" spread="0.3"/>
+                    <measurement group_id="B2" value="3.9" spread="0.3"/>
+                    <measurement group_id="B3" value="4.0" spread="0.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Aneurysm Volume (Overall)</title>
+          <units>cm^3</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="129"/>
+                    <count group_id="B2" value="125"/>
+                    <count group_id="B3" value="254"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="97.0" spread="24.0"/>
+                    <measurement group_id="B2" value="95.8" spread="24.0"/>
+                    <measurement group_id="B3" value="96.4" spread="24.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Aneurysm Volume (Men)</title>
+          <population>Aneurysm volume (cm3) measured in men</population>
+          <units>cm^3</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="111"/>
+                    <count group_id="B2" value="108"/>
+                    <count group_id="B3" value="219"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="99.0" spread="24.3"/>
+                    <measurement group_id="B2" value="99.2" spread="23.3"/>
+                    <measurement group_id="B3" value="99.1" spread="23.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Aneurysm Volume (Women)</title>
+          <population>Aneurysm volume (cm3) measured in women</population>
+          <units>cm^3</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="18"/>
+                    <count group_id="B2" value="17"/>
+                    <count group_id="B3" value="35"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="84.9" spread="18.5"/>
+                    <measurement group_id="B2" value="74.3" spread="15.9"/>
+                    <measurement group_id="B3" value="79.6" spread="16.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>MMP-9 Levels (ng/ml)</title>
+          <population>MMP-9 levels (ng/ml) measured at baseline</population>
+          <units>ng/ml</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="128"/>
+                    <count group_id="B2" value="124"/>
+                    <count group_id="B3" value="252"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="54.6" spread="53.2"/>
+                    <measurement group_id="B2" value="55.0" spread="51.1"/>
+                    <measurement group_id="B3" value="54.8" spread="52.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>CRP Levels, mg/l</title>
+          <population>CRP Levels (mg/l) measured at baseline</population>
+          <units>mg/l</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="128"/>
+                    <count group_id="B2" value="124"/>
+                    <count group_id="B3" value="252"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5.4" spread="13.6"/>
+                    <measurement group_id="B2" value="3.6" spread="4.9"/>
+                    <measurement group_id="B3" value="4.5" spread="10.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Difference in Z-score for Rank of Maximum Transverse Diameter (MTD) Regressed on Z-score at Baseline to Assess Growth in Abdominal Aortic Aneurysm MTD Determined by CT Scans at Two-year Follow-up and Baseline (Pre-randomization).</title>
+        <description>Diameters were ranked from smallest to largest. Worse ranks were assigned to surviving patients who underwent aneurysm repair (in order of longest to shortest time from randomization to repair), and worst ranks were assigned to patients who died (in order likewise). Each rank was converted to a z-score corresponding to the value on the standard normal curve of its percentile. The primary analysis was based on linear regression of the change in z-scores from baseline to 2 years. Independent variables were baseline z-score, sex, and a dichotomous variable for the randomly assigned treatment group (0 for placebo, 1 for doxycycline). Missing values were multiply imputed. Higher score corresponds to less favorable outcome. There is no scale associated with these z-scores; the absolute z-scores have no biological meaning or clinically relevant threshold. A z-score of 0 corresponds to the median rank. The maximum and minimum z-scores are +2.41 and -2.41. See References in Protocol Section.</description>
+        <time_frame>Baseline and two years from randomization (when patients were late in returning for visits, their data were used up to three years).</time_frame>
+        <population>The number of participants refers to the number for whom CT scans were available.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Doxycycline</title>
+            <description>100 mg capsules, twice a day, for a period of two years.&#xD;
+Doxycycline: 100 mg po bid</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>100 mg capsules, twice a day, for a period of two years.&#xD;
+Placebo: capsule identical to the doxycycline capsule</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Difference in Z-score for Rank of Maximum Transverse Diameter (MTD) Regressed on Z-score at Baseline to Assess Growth in Abdominal Aortic Aneurysm MTD Determined by CT Scans at Two-year Follow-up and Baseline (Pre-randomization).</title>
+          <description>Diameters were ranked from smallest to largest. Worse ranks were assigned to surviving patients who underwent aneurysm repair (in order of longest to shortest time from randomization to repair), and worst ranks were assigned to patients who died (in order likewise). Each rank was converted to a z-score corresponding to the value on the standard normal curve of its percentile. The primary analysis was based on linear regression of the change in z-scores from baseline to 2 years. Independent variables were baseline z-score, sex, and a dichotomous variable for the randomly assigned treatment group (0 for placebo, 1 for doxycycline). Missing values were multiply imputed. Higher score corresponds to less favorable outcome. There is no scale associated with these z-scores; the absolute z-scores have no biological meaning or clinically relevant threshold. A z-score of 0 corresponds to the median rank. The maximum and minimum z-scores are +2.41 and -2.41. See References in Protocol Section.</description>
+          <population>The number of participants refers to the number for whom CT scans were available.</population>
+          <units>z-score</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="129"/>
+                <count group_id="O2" value="125"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0262" spread="1.0"/>
+                    <measurement group_id="O2" value="-0.0258" spread="1.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis: normal score of MTD at follow-up adjusted for baseline and gender in doxycycline assigned patients - normal score of MTD at follow-up adjusted for baseline and gender in placebo assigned patients = 0.&#xD;
+Sample size: The criterion (&quot;alpha&quot;) set for statistical significance was 1-sided .025; use of this level means that the inference from the test result will be the same as the inference from 2-sided testing at the .05 significance level.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.71</p_value>
+            <p_value_desc>Two prespecified interim analyses for efficacy performed when 1/3 &amp; 2/3 of primary outcome available, significance level, 1-sided, alpha=.0005. Final analysis 1-sided, alpha=.024. Futility analysis performed when ~2/3 primary outcome was available.</p_value_desc>
+            <method>ANCOVA on normal scores</method>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>0</param_value>
+            <dispersion_type>Standard Deviation</dispersion_type>
+            <dispersion_value>0.035</dispersion_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-0.07</ci_lower_limit>
+            <ci_upper_limit>0.07</ci_upper_limit>
+            <other_analysis_desc>For the primary analysis, diameters at baseline were ranked from smallest to largest (ranks 1-254). At the 2-year follow-up, ranks 1 through 225 were assigned to the diameters of surviving patients with no aneurysm repair (with missing values estimated by multiple imputation), ranks 226 through 247 were assigned to surviving patients who underwent aneurysm repair (in order of longest to shortest time from randomization to repair), and ranks 248 through 254 were assigned to patients who died (in order of longest to shortest time from randomization to death). Each rank was converted to a normal score corresponding to the value on the standard normal curve (z score) of its percentile among all 254 ranks. The primary analysis was based on linear regression of the change in normal scores from baseline to 2 years. Independent variables were baseline normal score, sex, and a dichotomous variable for the randomly assigned treatment group (0 for placebo, 1 for doxycycline).</other_analysis_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Maximum Transverse Diameter, cm</title>
+        <description>Secondary outcomes will derive from central, Imaging Core Laboratory analyses of the CT scans performed every six months on patients and from the clinical follow-up of randomized patients, from clinical observation, local laboratory findings, study visit quality of life assessments, and from biomarker analyses to be performed in the Biomarkers Core Laboratory (e.g., changes from initial matrix metalloproteinase (MMP-9) levels, and matrix metalloproteinase (MMP-9) levels at 24 months). When patients were late in returning for visits their data were used up to three years.</description>
+        <time_frame>Six months, one year, and two years (when patients were late in returning for visits their data were used up to three years).</time_frame>
+        <population>All patients for whom any follow-up CT scans of the abdomen and pelvis were obtained.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Doxycycline</title>
+            <description>100 mg capsules, twice a day, for a period of two years.&#xD;
+Doxycycline: 100 mg po bid</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>100 mg capsules, twice a day, for a period of two years.&#xD;
+Placebo: capsule identical to the doxycycline capsule</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Maximum Transverse Diameter, cm</title>
+          <description>Secondary outcomes will derive from central, Imaging Core Laboratory analyses of the CT scans performed every six months on patients and from the clinical follow-up of randomized patients, from clinical observation, local laboratory findings, study visit quality of life assessments, and from biomarker analyses to be performed in the Biomarkers Core Laboratory (e.g., changes from initial matrix metalloproteinase (MMP-9) levels, and matrix metalloproteinase (MMP-9) levels at 24 months). When patients were late in returning for visits their data were used up to three years.</description>
+          <population>All patients for whom any follow-up CT scans of the abdomen and pelvis were obtained.</population>
+          <units>cm</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="129"/>
+                <count group_id="O2" value="125"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Maximum Transverse Diameter, cm 6 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="119"/>
+                    <count group_id="O2" value="116"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.40" spread="0.44"/>
+                    <measurement group_id="O2" value="4.40" spread="0.43"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Maximum Transverse Diameter, cm 1 year</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="119"/>
+                    <count group_id="O2" value="113"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.49" spread="0.48"/>
+                    <measurement group_id="O2" value="4.48" spread="0.44"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Maximum Transverse Diameter, cm 2 year</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="96"/>
+                    <count group_id="O2" value="101"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.61" spread="0.52"/>
+                    <measurement group_id="O2" value="4.61" spread="0.53"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Maximum Transverse Diameter, cm Baseline to 2 year change</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="96"/>
+                    <count group_id="O2" value="101"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.36" spread="0.21"/>
+                    <measurement group_id="O2" value="0.36" spread="0.28"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Volume, cm^3</title>
+        <description>Secondary outcomes will derive from central, Imaging Core Laboratory analyses of the CT scans performed every six months on patients and from the clinical follow-up of randomized patients, from clinical observation, local laboratory findings, study visit quality of life assessments, and from biomarker analyses to be performed in the Biomarkers Core Laboratory (e.g., changes from initial matrix metalloproteinase (MMP-9) levels, and matrix metalloproteinase (MMP-9) levels at 24 months). When patients were late in returning for visits their data were used up to three years.</description>
+        <time_frame>Six months, one year, and two years (when patients were late in returning for visits their data were used up to three years).</time_frame>
+        <population>All patients for whom any follow-up CT scans of the abdomen and pelvis were obtained.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Doxycycline</title>
+            <description>100 mg capsules, twice a day, for a period of two years.&#xD;
+Doxycycline: 100 mg po bid</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>100 mg capsules, twice a day, for a period of two years.&#xD;
+Placebo: capsule identical to the doxycycline capsule</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Volume, cm^3</title>
+          <description>Secondary outcomes will derive from central, Imaging Core Laboratory analyses of the CT scans performed every six months on patients and from the clinical follow-up of randomized patients, from clinical observation, local laboratory findings, study visit quality of life assessments, and from biomarker analyses to be performed in the Biomarkers Core Laboratory (e.g., changes from initial matrix metalloproteinase (MMP-9) levels, and matrix metalloproteinase (MMP-9) levels at 24 months). When patients were late in returning for visits their data were used up to three years.</description>
+          <population>All patients for whom any follow-up CT scans of the abdomen and pelvis were obtained.</population>
+          <units>cm^3</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="129"/>
+                <count group_id="O2" value="125"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Volume, cm^3 6 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="119"/>
+                    <count group_id="O2" value="116"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="102.90" spread="26.19"/>
+                    <measurement group_id="O2" value="100.40" spread="26.27"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Volume, cm^3 1 year</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="119"/>
+                    <count group_id="O2" value="113"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="106.00" spread="29.13"/>
+                    <measurement group_id="O2" value="105.00" spread="28.28"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Volume, cm^3 2 year</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="96"/>
+                    <count group_id="O2" value="101"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="113.60" spread="34.91"/>
+                    <measurement group_id="O2" value="111.20" spread="33.14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Volume, cm^3 Baseline to 2 year change</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="96"/>
+                    <count group_id="O2" value="101"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="18.60" spread="14.38"/>
+                    <measurement group_id="O2" value="19.16" spread="15.75"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>MMP-9, ng/ml</title>
+        <description>Secondary outcomes will derive from central, Imaging Core Laboratory analyses of the CT scans performed every six months on patients and from the clinical follow-up of randomized patients, from clinical observation, local laboratory findings, study visit quality of life assessments, and from biomarker analyses to be performed in the Biomarkers Core Laboratory (e.g., changes from initial matrix metalloproteinase (MMP-9) levels, and matrix metalloproteinase (MMP-9) levels at 24 months). When patients were late in returning for visits their data were used up to three years.&#xD;
+Analysis of hs-CRP will be performed using an immunoturbidimetric latex agglutination method (K-assay [KAI-60], Kamiya Biomedical Co., Seattle, WA).</description>
+        <time_frame>Six months, one year, 18 months, and two years (when patients were late in returning for visits their data were used up to three years).</time_frame>
+        <population>All patients for whom any follow-up CT scans of the abdomen and pelvis were obtained.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Doxycycline</title>
+            <description>100 mg capsules, twice a day, for a period of two years.&#xD;
+Doxycycline: 100 mg po bid</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>100 mg capsules, twice a day, for a period of two years.&#xD;
+Placebo: capsule identical to the doxycycline capsule</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>MMP-9, ng/ml</title>
+          <description>Secondary outcomes will derive from central, Imaging Core Laboratory analyses of the CT scans performed every six months on patients and from the clinical follow-up of randomized patients, from clinical observation, local laboratory findings, study visit quality of life assessments, and from biomarker analyses to be performed in the Biomarkers Core Laboratory (e.g., changes from initial matrix metalloproteinase (MMP-9) levels, and matrix metalloproteinase (MMP-9) levels at 24 months). When patients were late in returning for visits their data were used up to three years.&#xD;
+Analysis of hs-CRP will be performed using an immunoturbidimetric latex agglutination method (K-assay [KAI-60], Kamiya Biomedical Co., Seattle, WA).</description>
+          <population>All patients for whom any follow-up CT scans of the abdomen and pelvis were obtained.</population>
+          <units>ng/ml</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="129"/>
+                <count group_id="O2" value="125"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>MMP-9, ng/ml 6 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="108"/>
+                    <count group_id="O2" value="111"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="60.9" spread="85.3"/>
+                    <measurement group_id="O2" value="61.9" spread="61.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>MMP-9, ng/ml 1 year</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="111"/>
+                    <count group_id="O2" value="100"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="63.0" spread="90.1"/>
+                    <measurement group_id="O2" value="61.0" spread="91.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>MMP-9, ng/ml 1 year, 6 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="88"/>
+                    <count group_id="O2" value="89"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="48.8" spread="43.9"/>
+                    <measurement group_id="O2" value="68.3" spread="86.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>MMP-9, ng/ml 2 year</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="86"/>
+                    <count group_id="O2" value="83"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="53.8" spread="54.8"/>
+                    <measurement group_id="O2" value="52.8" spread="41.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>CRP, mg/l</title>
+        <description>Secondary outcomes will derive from central, Imaging Core Laboratory analyses of the CT scans performed every six months on patients and from the clinical follow-up of randomized patients, from clinical observation, local laboratory findings, study visit quality of life assessments, and from biomarker analyses to be performed in the Biomarkers Core Laboratory (e.g., changes from initial matrix metalloproteinase (MMP-9) levels, and matrix metalloproteinase (MMP-9) levels at 24 months). When patients were late in returning for visits their data were used up to three years.&#xD;
+Plasma MMP-9 concentrations will be measured by an ELISA, two-site sandwich method that is commercially available (R &amp; D Systems, Quantikine, DMP900).</description>
+        <time_frame>Six months, one year, 18 months, and two years (when patients were late in returning for visits their data were used up to three years).</time_frame>
+        <population>All patients for whom any follow-up CT scans of the abdomen and pelvis were obtained.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Doxycycline</title>
+            <description>100 mg capsules, twice a day, for a period of two years.&#xD;
+Doxycycline: 100 mg po bid</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>100 mg capsules, twice a day, for a period of two years.&#xD;
+Placebo: capsule identical to the doxycycline capsule</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>CRP, mg/l</title>
+          <description>Secondary outcomes will derive from central, Imaging Core Laboratory analyses of the CT scans performed every six months on patients and from the clinical follow-up of randomized patients, from clinical observation, local laboratory findings, study visit quality of life assessments, and from biomarker analyses to be performed in the Biomarkers Core Laboratory (e.g., changes from initial matrix metalloproteinase (MMP-9) levels, and matrix metalloproteinase (MMP-9) levels at 24 months). When patients were late in returning for visits their data were used up to three years.&#xD;
+Plasma MMP-9 concentrations will be measured by an ELISA, two-site sandwich method that is commercially available (R &amp; D Systems, Quantikine, DMP900).</description>
+          <population>All patients for whom any follow-up CT scans of the abdomen and pelvis were obtained.</population>
+          <units>mg/l</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="129"/>
+                <count group_id="O2" value="125"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>CRP, mg/l 6 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="108"/>
+                    <count group_id="O2" value="111"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.4" spread="12.7"/>
+                    <measurement group_id="O2" value="4.5" spread="10.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>CRP, mg/l 1 year</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="111"/>
+                    <count group_id="O2" value="100"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.5" spread="4.8"/>
+                    <measurement group_id="O2" value="4.1" spread="6.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>CRP, mg/l 1 year, 6 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="88"/>
+                    <count group_id="O2" value="89"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.5" spread="6.5"/>
+                    <measurement group_id="O2" value="5.7" spread="15.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>CRP, mg/l 2 year</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="86"/>
+                    <count group_id="O2" value="83"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.9" spread="15.6"/>
+                    <measurement group_id="O2" value="4.0" spread="5.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Number of Participants With Aneurysm Rupture</title>
+        <description>Clinically reported rupture events.</description>
+        <time_frame>Two years</time_frame>
+        <population>Full analysis population.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Doxycycline</title>
+            <description>100 mg capsules, twice a day, for a period of two years.&#xD;
+Doxycycline: 100 mg po bid</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>100 mg capsules, twice a day, for a period of two years.&#xD;
+Placebo: capsule identical to the doxycycline capsule</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Aneurysm Rupture</title>
+          <description>Clinically reported rupture events.</description>
+          <population>Full analysis population.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="129"/>
+                <count group_id="O2" value="125"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Number of Participants With Surgical Intervention</title>
+        <description>Clinically reported aneurysm repair.</description>
+        <time_frame>Two years</time_frame>
+        <population>Full analysis population.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Doxycycline</title>
+            <description>100 mg capsules, twice a day, for a period of two years.&#xD;
+Doxycycline: 100 mg po bid</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>100 mg capsules, twice a day, for a period of two years.&#xD;
+Placebo: capsule identical to the doxycycline capsule</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Surgical Intervention</title>
+          <description>Clinically reported aneurysm repair.</description>
+          <population>Full analysis population.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="129"/>
+                <count group_id="O2" value="125"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="13"/>
+                    <measurement group_id="O2" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Number of Participants Who Died</title>
+        <description>Clinically reported deaths.</description>
+        <time_frame>Two years</time_frame>
+        <population>Full analysis population.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Doxycycline</title>
+            <description>100 mg capsules, twice a day, for a period of two years.&#xD;
+Doxycycline: 100 mg po bid</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>100 mg capsules, twice a day, for a period of two years.&#xD;
+Placebo: capsule identical to the doxycycline capsule</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Who Died</title>
+          <description>Clinically reported deaths.</description>
+          <population>Full analysis population.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="129"/>
+                <count group_id="O2" value="125"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Two years</time_frame>
+      <desc>Adverse Events were classified without regard to specific Adverse Event Term.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Doxycycline</title>
+          <description>100 mg capsules, twice a day, for a period of two years.&#xD;
+Doxycycline: 100 mg po bid</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo</title>
+          <description>100 mg capsules, twice a day, for a period of two years.&#xD;
+Placebo: capsule identical to the doxycycline capsule</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedDRA (10.0)</default_vocab>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="129"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="125"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="70" subjects_at_risk="129"/>
+                <counts group_id="E2" subjects_affected="71" subjects_at_risk="125"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Serious or Unexpected Adverse Events</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="129"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="125"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Serious or Unexpected Adverse Events</sub_title>
+                <counts group_id="E1" events="18" subjects_affected="14" subjects_at_risk="129"/>
+                <counts group_id="E2" events="16" subjects_affected="11" subjects_at_risk="125"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Endocrine disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Serious or Unexpected Adverse Events</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="129"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="125"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Eye disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Serious or Unexpected Adverse Events</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="129"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="125"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Serious or Unexpected Adverse Events</sub_title>
+                <counts group_id="E1" events="27" subjects_affected="14" subjects_at_risk="129"/>
+                <counts group_id="E2" events="24" subjects_affected="16" subjects_at_risk="125"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Serious or Unexpected Adverse Events</sub_title>
+                <counts group_id="E1" events="13" subjects_affected="10" subjects_at_risk="129"/>
+                <counts group_id="E2" events="18" subjects_affected="11" subjects_at_risk="125"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Hepatobiliary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Serious or Unexpected Adverse Events</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="129"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="125"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Serious or Unexpected Adverse Events</sub_title>
+                <counts group_id="E1" events="15" subjects_affected="12" subjects_at_risk="129"/>
+                <counts group_id="E2" events="6" subjects_affected="6" subjects_at_risk="125"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Serious or Unexpected Adverse Events</sub_title>
+                <counts group_id="E1" events="9" subjects_affected="6" subjects_at_risk="129"/>
+                <counts group_id="E2" events="10" subjects_affected="7" subjects_at_risk="125"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Serious or Unexpected Adverse Events</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="129"/>
+                <counts group_id="E2" events="6" subjects_affected="2" subjects_at_risk="125"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Serious or Unexpected Adverse Events</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="6" subjects_at_risk="129"/>
+                <counts group_id="E2" events="11" subjects_affected="8" subjects_at_risk="125"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Neoplasms benign, malignant and unspecified (incl cysts and polyps)</title>
+            <event_list>
+              <event>
+                <sub_title>Serious or Unexpected Adverse Events</sub_title>
+                <counts group_id="E1" events="9" subjects_affected="7" subjects_at_risk="129"/>
+                <counts group_id="E2" events="6" subjects_affected="6" subjects_at_risk="125"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Serious or Unexpected Adverse Events</sub_title>
+                <counts group_id="E1" events="21" subjects_affected="10" subjects_at_risk="129"/>
+                <counts group_id="E2" events="8" subjects_affected="6" subjects_at_risk="125"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Serious or Unexpected Adverse Events</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="129"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="125"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Serious or Unexpected Adverse Events</sub_title>
+                <counts group_id="E1" events="9" subjects_affected="5" subjects_at_risk="129"/>
+                <counts group_id="E2" events="6" subjects_affected="6" subjects_at_risk="125"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Reproductive system and breast disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Serious or Unexpected Adverse Events</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="129"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="125"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Serious or Unexpected Adverse Events</sub_title>
+                <counts group_id="E1" events="23" subjects_affected="12" subjects_at_risk="129"/>
+                <counts group_id="E2" events="22" subjects_affected="12" subjects_at_risk="125"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Serious or Unexpected Adverse Events</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="129"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="125"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Social circumstances</title>
+            <event_list>
+              <event>
+                <sub_title>Serious or Unexpected Adverse Events</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="129"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="125"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Surgical and medical procedures</title>
+            <event_list>
+              <event>
+                <sub_title>Serious or Unexpected Adverse Events</sub_title>
+                <counts group_id="E1" events="36" subjects_affected="32" subjects_at_risk="129"/>
+                <counts group_id="E2" events="45" subjects_affected="38" subjects_at_risk="125"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Serious or Unexpected Adverse Events</sub_title>
+                <counts group_id="E1" events="7" subjects_affected="5" subjects_at_risk="129"/>
+                <counts group_id="E2" events="8" subjects_affected="7" subjects_at_risk="125"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_vocab>MedDRA (10.0)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="121" subjects_at_risk="129"/>
+                <counts group_id="E2" subjects_affected="111" subjects_at_risk="125"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Frequent bleeding or bruising</sub_title>
+                <counts group_id="E1" events="47" subjects_affected="47" subjects_at_risk="129"/>
+                <counts group_id="E2" events="54" subjects_affected="54" subjects_at_risk="125"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Eye disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Visual disturbance</sub_title>
+                <counts group_id="E1" events="26" subjects_affected="26" subjects_at_risk="129"/>
+                <counts group_id="E2" events="43" subjects_affected="43" subjects_at_risk="125"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Frequent gastric or intestinal upset</sub_title>
+                <counts group_id="E1" events="58" subjects_affected="58" subjects_at_risk="129"/>
+                <counts group_id="E2" events="56" subjects_affected="56" subjects_at_risk="125"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Frequent spells of dizziness</sub_title>
+                <counts group_id="E1" events="34" subjects_affected="34" subjects_at_risk="129"/>
+                <counts group_id="E2" events="37" subjects_affected="37" subjects_at_risk="125"/>
+              </event>
+              <event>
+                <sub_title>Frequent headaches</sub_title>
+                <counts group_id="E1" events="27" subjects_affected="27" subjects_at_risk="129"/>
+                <counts group_id="E2" events="20" subjects_affected="20" subjects_at_risk="125"/>
+              </event>
+              <event>
+                <sub_title>Tooth discoloration</sub_title>
+                <counts group_id="E1" events="12" subjects_affected="12" subjects_at_risk="129"/>
+                <counts group_id="E2" events="18" subjects_affected="18" subjects_at_risk="125"/>
+              </event>
+              <event>
+                <sub_title>Fever</sub_title>
+                <counts group_id="E1" events="11" subjects_affected="11" subjects_at_risk="129"/>
+                <counts group_id="E2" events="18" subjects_affected="18" subjects_at_risk="125"/>
+              </event>
+              <event>
+                <sub_title>Other symptom requiring study drug dose adjustment or discontinuation</sub_title>
+                <counts group_id="E1" events="27" subjects_affected="27" subjects_at_risk="129"/>
+                <counts group_id="E2" events="27" subjects_affected="27" subjects_at_risk="125"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Frequent joint pain</sub_title>
+                <counts group_id="E1" events="84" subjects_affected="84" subjects_at_risk="129"/>
+                <counts group_id="E2" events="79" subjects_affected="79" subjects_at_risk="125"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Skin rash or hives</sub_title>
+                <counts group_id="E1" events="41" subjects_affected="41" subjects_at_risk="129"/>
+                <counts group_id="E2" events="29" subjects_affected="29" subjects_at_risk="125"/>
+              </event>
+              <event>
+                <sub_title>Moderate to severe sunburn</sub_title>
+                <counts group_id="E1" events="38" subjects_affected="38" subjects_at_risk="129"/>
+                <counts group_id="E2" events="14" subjects_affected="14" subjects_at_risk="125"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>Follow-up was limited to two years for most patients and results could differ with longer term follow-up.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Michael L. Terrin, MDCM, MPH, Contact Principal Investigator</name_or_title>
+      <organization>University of Maryland School of Medicine</organization>
+      <phone>410-706-6139</phone>
+      <email>mterrin@som.umaryland.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

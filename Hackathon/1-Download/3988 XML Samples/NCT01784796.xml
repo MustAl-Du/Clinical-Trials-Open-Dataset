@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3581">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01784796</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NRI 12-413</org_study_id>
+    <nct_id>NCT01784796</nct_id>
+  </id_info>
+  <brief_title>Mindful Hearts Study: Mindfulness to Reduce Stress</brief_title>
+  <official_title>Mindfulness Based Stress Reduction for Women at Risk for Cardiovascular Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>VA Office of Research and Development</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>VA Office of Research and Development</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine how a stress reduction program, called Mindfulness&#xD;
+      Based Stress Reduction (MBSR), compared to a health education program, improves well being&#xD;
+      and reduces the risk of heart disease in women Veterans. Recruitment completed.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Evidence demonstrates that chronic stress doubles the risk of myocardial infarction and&#xD;
+      contributes to proinflammatory processes implicated in coronary artery disease and stroke.&#xD;
+      Veterans who have experienced combat are at greater risk for cardiovascular disease (CVD)&#xD;
+      compared to noncombat Veterans and non-Veterans. However, previous research has focused&#xD;
+      primarily on male Veterans. Yet statistics reveal a startling number (81-92%) of women&#xD;
+      Veterans report at least one traumatic event sometime in their lives and women Veterans&#xD;
+      experience significant rates of prior life adversity such as sexual assault, physical&#xD;
+      violence, and combat exposure. Compelling evidence demonstrates a strong relationship between&#xD;
+      the breadth of prior life adversity, proinflammatory cytokines and stress-related&#xD;
+      inflammatory disease, such as CVD. Assisting women Veterans to reduce stress and develop&#xD;
+      coping strategies may improve psychological well-being and reduce CVD risk. Mindfulness Based&#xD;
+      Stress Reduction (MBSR) involves intensive training in mindfulness, which promotes positive&#xD;
+      adaptation to life stress. MBSR has been found to reduce symptoms of depression and improve&#xD;
+      quality of life in Veterans experiencing Post-Traumatic Stress Disorder (PTSD). Practitioners&#xD;
+      of MBSR gain increased awareness and insight into the relationship among their thoughts,&#xD;
+      emotions, and somatic reactivity which can facilitate change in conditioned patterns of&#xD;
+      emotional reaction. However, only minimal research and no randomized control trials (RCTs)&#xD;
+      have examined MBSR as an intervention for reducing CVD risk in women Veterans. Furthermore,&#xD;
+      previous studies have neither examined CVD risk objectively using a well-established CVD risk&#xD;
+      score nor measured endothelial dysfunction. Endothelial dysfunction is acknowledged to&#xD;
+      precede atherosclerosis and is a strong predictor of CVD. Furthermore, studies demonstrate&#xD;
+      that lifestyle changes, such exercise and yoga, can reverse endothelial dysfunction. However,&#xD;
+      no studies were found that considered endothelial function in relation to MBSR. Moreover,&#xD;
+      potential protective and risk factors, such as prior life adversity, social support, health&#xD;
+      behaviors, acculturation, and diurnal cortisol, posited to moderate the effect of&#xD;
+      psychological well-being and inflammation on MBSR have not been examined.&#xD;
+&#xD;
+      Women Veterans between the ages of 18 and 70 years who have at least one CVD risk factors (as&#xD;
+      defined by Framingham CVD Risk Scale) will be randomized into either an 8-week MBSR program&#xD;
+      or health education control program. The following specific aims will be addressed: (1)&#xD;
+      Determine the extent to which training in MBSR (1) improves psychological well-being, (2)&#xD;
+      decreases inflammatory burden, and (3) reduces cardiovascular risk in women Veterans; and (2)&#xD;
+      Evaluate protective and risk factors posited to moderate the effect of MBSR on psychological&#xD;
+      well being, inflammatory burden and cardiovascular risk in women Veterans. Age, body mass&#xD;
+      index (BMI), menstrual status, medications, and socioeconomic status (SES) will be evaluated&#xD;
+      as covariates. The proposed research is innovative in that MBSR has not been evaluated in&#xD;
+      women Veterans at risk for CVD. The investigators expect that MBSR will improve psychological&#xD;
+      well-being and reduce CVD risk with improvements sustained for at least 6 months. Given that&#xD;
+      CVD is a major cause of mortality, this research may have broader implications for reducing&#xD;
+      CVD in the general population.&#xD;
+&#xD;
+      Recruitment completed.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">July 1, 2013</start_date>
+  <completion_date type="Actual">January 31, 2018</completion_date>
+  <primary_completion_date type="Actual">July 1, 2017</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Single (Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Perceived Stress</measure>
+    <time_frame>8 week</time_frame>
+    <description>Psychological stress measured with the Perceived Stress Scale (PSS).&#xD;
+Total scores on the PSS range from 0 to 40 with higher scores indicating higher levels of perceived stress. Scores between 0 to 13 suggest low stress, scores between 14 and 26 suggest moderate stress, and scores between 27 and 40 indicate high perceived stress.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Depressive Symptoms</measure>
+    <time_frame>8 week</time_frame>
+    <description>Depressive symptoms were measured with the CES-D&#xD;
+Total scores for the CES-D range from 0 to 60 with higher scores indicating greater depressive symptoms.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Quality of Life (QOL)</measure>
+    <time_frame>8 week</time_frame>
+    <description>Measured with Quality of Life Index-III Generic (QLI)&#xD;
+Total scores for the QLI range from 0 to 30 with higher scores indicating better quality of life.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Cardiovascular Risk</measure>
+    <time_frame>6 months</time_frame>
+    <description>Cardiovascular risk as measured by Reynolds Risk Score. The Reynolds Cardiovascular Risk score predicts the percent risk of having a heart attack, stroke or other major heart disease in the next 10 years. Scores range from 0 to 100% with higher scores representing greater risk of developing cardiovascular disease in 10 years.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">164</enrollment>
+  <condition>Cardiovascular Disease</condition>
+  <condition>Psychological Stress</condition>
+  <condition>Stroke</condition>
+  <condition>Coronary Artery Disease</condition>
+  <arm_group>
+    <arm_group_label>Mindfulness Based Stress Reduction</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>8 week Mindfulness Based Stress Reduction program</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Health education program</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>8 week Health Education program</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Mindfulness Based Stress Reduction</intervention_name>
+    <description>8 week Mindfulness Based Stress Reduction Program</description>
+    <arm_group_label>Mindfulness Based Stress Reduction</arm_group_label>
+    <other_name>MBSR</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Health Education Program</intervention_name>
+    <description>8 week Health Education Program</description>
+    <arm_group_label>Health education program</arm_group_label>
+    <other_name>Health Education</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Between the ages of 18&#xD;
+&#xD;
+          -  Female Veteran&#xD;
+&#xD;
+          -  Able to&#xD;
+&#xD;
+               -  write&#xD;
+&#xD;
+               -  read&#xD;
+&#xD;
+               -  speak English&#xD;
+&#xD;
+        Must have ONE of ANY of the following:&#xD;
+&#xD;
+          -  BMI &gt; 25&#xD;
+&#xD;
+          -  Total cholesterol &gt; 240&#xD;
+&#xD;
+          -  Diabetes mellitus or pre-diabetic&#xD;
+&#xD;
+          -  Systolic blood pressure&gt; 120 and/or diagnosis of hypertension and/or taking&#xD;
+             antihypertensive medications&#xD;
+&#xD;
+          -  Parental history of MI prior to age 60&#xD;
+&#xD;
+          -  History of smoking&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of:&#xD;
+&#xD;
+               -  myocardial infarction or ischemic heart disease/angina&#xD;
+&#xD;
+               -  left ventricular hypertrophy&#xD;
+&#xD;
+               -  ischemic stroke&#xD;
+&#xD;
+          -  pregnant&#xD;
+&#xD;
+          -  planning on becoming pregnant during study period&#xD;
+&#xD;
+          -  gave birth in prior 6 weeks or lactating&#xD;
+&#xD;
+          -  immune-related disease&#xD;
+&#xD;
+          -  use of immune-altering medications, such as:&#xD;
+&#xD;
+               -  glucocorticoids&#xD;
+&#xD;
+          -  cancer&#xD;
+&#xD;
+          -  active infection&#xD;
+&#xD;
+          -  substance abuse&#xD;
+&#xD;
+          -  major psychoses&#xD;
+&#xD;
+          -  already trained in MBSR&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Karen L. Saban, PhD RN</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Edward Hines Jr. VA Hospital, Hines, IL</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Edward Hines Jr. VA Hospital, Hines, IL</name>
+      <address>
+        <city>Hines</city>
+        <state>Illinois</state>
+        <zip>60141-5000</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Levine GN, Lange RA, Bairey-Merz CN, Davidson RJ, Jamerson K, Mehta PK, Michos ED, Norris K, Ray IB, Saban KL, Shah T, Stein R, Smith SC Jr; American Heart Association Council on Clinical Cardiology; Council on Cardiovascular and Stroke Nursing; and Council on Hypertension. Meditation and Cardiovascular Risk Reduction: A Scientific Statement From the American Heart Association. J Am Heart Assoc. 2017 Sep 28;6(10). pii: e002218. doi: 10.1161/JAHA.117.002218. Review.</citation>
+    <PMID>28963100</PMID>
+  </reference>
+  <reference>
+    <citation>Saban KL, Mathews HL, Bryant FB, Tell D, Joyce C, DeVon HA, Witek Janusek L. Perceived discrimination is associated with the inflammatory response to acute laboratory stress in women at risk for cardiovascular disease. Brain Behav Immun. 2018 Oct;73:625-632. doi: 10.1016/j.bbi.2018.07.010. Epub 2018 Jul 17.</citation>
+    <PMID>30012518</PMID>
+  </reference>
+  <verification_date>August 2021</verification_date>
+  <study_first_submitted>February 4, 2013</study_first_submitted>
+  <study_first_submitted_qc>February 4, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">February 6, 2013</study_first_posted>
+  <results_first_submitted>February 28, 2019</results_first_submitted>
+  <results_first_submitted_qc>February 28, 2019</results_first_submitted_qc>
+  <results_first_posted type="Actual">May 31, 2019</results_first_posted>
+  <last_update_submitted>August 20, 2021</last_update_submitted>
+  <last_update_submitted_qc>August 20, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>cardiovascular disease</keyword>
+  <keyword>women's health</keyword>
+  <keyword>psychological stress</keyword>
+  <keyword>Veterans</keyword>
+  <keyword>stroke</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Stress, Psychological</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>December 29, 2016</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/96/NCT01784796/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>December 14, 2016</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/96/NCT01784796/ICF_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>We had powered the study for a total of 110 participants (55 in each group). To account for attrition, we planned on recruiting a total of 138 participants (69 in each group). We enrolled 164 participants and 136 of these completed baseline data.</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Mindfulness Based Stress Reduction</title>
+          <description>8 week Mindfulness Based Stress Reduction program</description>
+        </group>
+        <group group_id="P2">
+          <title>Health Education Program</title>
+          <description>8 week Health Education program&#xD;
+Health Education Program: 8 week Health Education Program</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="87">These are participants who provided informed consent</participants>
+                <participants group_id="P2" count="77">These are participants who provided informed consent</participants>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Baseline Data Collected</title>
+              <participants_list>
+                <participants group_id="P1" count="75"/>
+                <participants group_id="P2" count="61"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>4 Week Data Collection</title>
+              <participants_list>
+                <participants group_id="P1" count="48"/>
+                <participants group_id="P2" count="41"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>8 wk Data Collection</title>
+              <participants_list>
+                <participants group_id="P1" count="50"/>
+                <participants group_id="P2" count="46"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="39"/>
+                <participants group_id="P2" count="34"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="48"/>
+                <participants group_id="P2" count="43"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Mindfulness Based Stress Reduction</title>
+          <description>8 week Mindfulness Based Stress Reduction program&#xD;
+Mindfulness Based Stress Reduction: 8 week Mindfulness Based Stress Reduction Program</description>
+        </group>
+        <group group_id="B2">
+          <title>Health Education Program</title>
+          <description>8 week Health Education program&#xD;
+Health Education Program: 8 week Health Education Program</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="75"/>
+            <count group_id="B2" value="61"/>
+            <count group_id="B3" value="136"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="71"/>
+                    <measurement group_id="B2" value="59"/>
+                    <measurement group_id="B3" value="130"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="50.83" lower_limit="27" upper_limit="68"/>
+                    <measurement group_id="B2" value="50.51" lower_limit="24" upper_limit="77"/>
+                    <measurement group_id="B3" value="50.75" lower_limit="24" upper_limit="77"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="75"/>
+                    <measurement group_id="B2" value="61"/>
+                    <measurement group_id="B3" value="136"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="07"/>
+                    <measurement group_id="B3" value="18"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="64"/>
+                    <measurement group_id="B2" value="54"/>
+                    <measurement group_id="B3" value="118"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="29"/>
+                    <measurement group_id="B2" value="26"/>
+                    <measurement group_id="B3" value="55"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="42"/>
+                    <measurement group_id="B2" value="30"/>
+                    <measurement group_id="B3" value="72"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="75"/>
+                    <measurement group_id="B2" value="61"/>
+                    <measurement group_id="B3" value="136"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Center for Epidemiological Studies Depression Scale</title>
+          <description>range from 0 to 60 with higher scores indicating greater depressive symptoms</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="22.78" spread="13.76"/>
+                    <measurement group_id="B2" value="19.22" spread="11.67"/>
+                    <measurement group_id="B3" value="21.17" spread="13.00"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Perceived Stress Scale</title>
+          <description>scores between 27 and 40 indicate high perceived stress</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="19.64" spread="8.21"/>
+                    <measurement group_id="B2" value="17.50" spread="7.52"/>
+                    <measurement group_id="B3" value="18.70" spread="8.00"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Quality of Life Index</title>
+          <description>range from 0 to 30 with higher scores indicating better quality of life</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17.96" spread="6.29"/>
+                    <measurement group_id="B2" value="19.16" spread="5.39"/>
+                    <measurement group_id="B3" value="18.70" spread="6.30"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Perceived Stress</title>
+        <description>Psychological stress measured with the Perceived Stress Scale (PSS).&#xD;
+Total scores on the PSS range from 0 to 40 with higher scores indicating higher levels of perceived stress. Scores between 0 to 13 suggest low stress, scores between 14 and 26 suggest moderate stress, and scores between 27 and 40 indicate high perceived stress.</description>
+        <time_frame>8 week</time_frame>
+        <population>Baseline data was compared to 8 week data (completion of program) for both the MBSR and HEP groups.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Mindfulness Based Stress Reduction</title>
+            <description>8 week Mindfulness Based Stress Reduction program&#xD;
+Mindfulness Based Stress Reduction: 8 week Mindfulness Based Stress Reduction Program</description>
+          </group>
+          <group group_id="O2">
+            <title>Health Education Program</title>
+            <description>8 week Health Education program&#xD;
+Health Education Program: 8 week Health Education Program</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Perceived Stress</title>
+          <description>Psychological stress measured with the Perceived Stress Scale (PSS).&#xD;
+Total scores on the PSS range from 0 to 40 with higher scores indicating higher levels of perceived stress. Scores between 0 to 13 suggest low stress, scores between 14 and 26 suggest moderate stress, and scores between 27 and 40 indicate high perceived stress.</description>
+          <population>Baseline data was compared to 8 week data (completion of program) for both the MBSR and HEP groups.</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="50"/>
+                <count group_id="O2" value="46"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="15.94" spread="8.53"/>
+                    <measurement group_id="O2" value="15.50" spread="7.33"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Depressive Symptoms</title>
+        <description>Depressive symptoms were measured with the CES-D&#xD;
+Total scores for the CES-D range from 0 to 60 with higher scores indicating greater depressive symptoms.</description>
+        <time_frame>8 week</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Mindfulness Based Stress Reduction</title>
+            <description>8 week Mindfulness Based Stress Reduction program&#xD;
+Mindfulness Based Stress Reduction: 8 week Mindfulness Based Stress Reduction Program</description>
+          </group>
+          <group group_id="O2">
+            <title>Health Education Program</title>
+            <description>8 week Health Education program&#xD;
+Health Education Program: 8 week Health Education Program</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Depressive Symptoms</title>
+          <description>Depressive symptoms were measured with the CES-D&#xD;
+Total scores for the CES-D range from 0 to 60 with higher scores indicating greater depressive symptoms.</description>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="50"/>
+                <count group_id="O2" value="46"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="18.38" spread="13.26"/>
+                    <measurement group_id="O2" value="14.46" spread="11.03"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Quality of Life (QOL)</title>
+        <description>Measured with Quality of Life Index-III Generic (QLI)&#xD;
+Total scores for the QLI range from 0 to 30 with higher scores indicating better quality of life.</description>
+        <time_frame>8 week</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Mindfulness Based Stress Reduction</title>
+            <description>8 week Mindfulness Based Stress Reduction program</description>
+          </group>
+          <group group_id="O2">
+            <title>Health Education Program</title>
+            <description>8 week Health Education program&#xD;
+Health Education Program: 8 week Health Education Program</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Quality of Life (QOL)</title>
+          <description>Measured with Quality of Life Index-III Generic (QLI)&#xD;
+Total scores for the QLI range from 0 to 30 with higher scores indicating better quality of life.</description>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="50"/>
+                <count group_id="O2" value="46"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="19.77" spread="5.81"/>
+                    <measurement group_id="O2" value="19.46" spread="5.00"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Cardiovascular Risk</title>
+        <description>Cardiovascular risk as measured by Reynolds Risk Score. The Reynolds Cardiovascular Risk score predicts the percent risk of having a heart attack, stroke or other major heart disease in the next 10 years. Scores range from 0 to 100% with higher scores representing greater risk of developing cardiovascular disease in 10 years.</description>
+        <time_frame>6 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Mindfulness Based Stress Reduction</title>
+            <description>8 week Mindfulness Based Stress Reduction program&#xD;
+Mindfulness Based Stress Reduction: 8 week Mindfulness Based Stress Reduction Program</description>
+          </group>
+          <group group_id="O2">
+            <title>Health Education Program</title>
+            <description>8 week Health Education program&#xD;
+Health Education Program: 8 week Health Education Program</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Cardiovascular Risk</title>
+          <description>Cardiovascular risk as measured by Reynolds Risk Score. The Reynolds Cardiovascular Risk score predicts the percent risk of having a heart attack, stroke or other major heart disease in the next 10 years. Scores range from 0 to 100% with higher scores representing greater risk of developing cardiovascular disease in 10 years.</description>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="39"/>
+                <count group_id="O2" value="34"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.77" spread="3.16"/>
+                    <measurement group_id="O2" value="5.80" spread="4.83"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Duration of study and follow up - which was 6 months</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Mindfulness Based Stress Reduction</title>
+          <description>8 week Mindfulness Based Stress Reduction program&#xD;
+Mindfulness Based Stress Reduction: 8 week Mindfulness Based Stress Reduction Program</description>
+        </group>
+        <group group_id="E2">
+          <title>Health Education Program</title>
+          <description>8 week Health Education program&#xD;
+Health Education Program: 8 week Health Education Program</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="75"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="61"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="75"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="61"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="75"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="61"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hospitalization</sub_title>
+                <description>Participant admitted to hospital for atypical chest pain later diagnosed as GERD.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="75"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="61"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Karen Saban, PhD</name_or_title>
+      <organization>Edward Hines VA Hospital</organization>
+      <phone>708-202-5264</phone>
+      <email>Karen.Saban@va.gov</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

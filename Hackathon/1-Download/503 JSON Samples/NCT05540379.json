@@ -1,0 +1,197 @@
+{
+  "FullStudy":{
+    "Rank":474,
+    "Study":{
+      "ProtocolSection":{
+        "IdentificationModule":{
+          "NCTId":"NCT05540379",
+          "OrgStudyIdInfo":{
+            "OrgStudyId":"Hagar Elnashar"
+          },
+          "Organization":{
+            "OrgFullName":"Egymedicalpedia",
+            "OrgClass":"INDUSTRY"
+          },
+          "BriefTitle":"Role of Virtual Reality Simulators in Basic Hysteroscopy Training Competence",
+          "OfficialTitle":"Role of Virtual Reality Simulators in Basic Hysteroscopy Training Competence"
+        },
+        "StatusModule":{
+          "StatusVerifiedDate":"September 2022",
+          "OverallStatus":"Completed",
+          "ExpandedAccessInfo":{
+            "HasExpandedAccess":"No"
+          },
+          "StartDateStruct":{
+            "StartDate":"May 1, 2021",
+            "StartDateType":"Actual"
+          },
+          "PrimaryCompletionDateStruct":{
+            "PrimaryCompletionDate":"April 1, 2022",
+            "PrimaryCompletionDateType":"Actual"
+          },
+          "CompletionDateStruct":{
+            "CompletionDate":"April 30, 2022",
+            "CompletionDateType":"Actual"
+          },
+          "StudyFirstSubmitDate":"September 9, 2022",
+          "StudyFirstSubmitQCDate":"September 9, 2022",
+          "StudyFirstPostDateStruct":{
+            "StudyFirstPostDate":"September 14, 2022",
+            "StudyFirstPostDateType":"Actual"
+          },
+          "LastUpdateSubmitDate":"September 9, 2022",
+          "LastUpdatePostDateStruct":{
+            "LastUpdatePostDate":"September 14, 2022",
+            "LastUpdatePostDateType":"Actual"
+          }
+        },
+        "SponsorCollaboratorsModule":{
+          "ResponsibleParty":{
+            "ResponsiblePartyType":"Sponsor"
+          },
+          "LeadSponsor":{
+            "LeadSponsorName":"Egymedicalpedia",
+            "LeadSponsorClass":"INDUSTRY"
+          }
+        },
+        "OversightModule":{
+          "IsFDARegulatedDrug":"No",
+          "IsFDARegulatedDevice":"No"
+        },
+        "DescriptionModule":{
+          "BriefSummary":"Evaluation the efficacy of Virtual Reality simulator training in improving basic gynecological hysteroscopic skills and assess training levels in Ob/Gyn residents, as compared to others with previous hysteroscopic experience.",
+          "DetailedDescription":"Diagnostic or operative hysteroscopy is one of the most common surgical intervention in gynecological surgery. In recent years, it has acquired a central role in diagnosis and treatment of a variety of uterine pathologies like fibroids, polyps and uterine malformations It is also pivotal in the management of primary or secondary infertility. Biopsy specimens are also sampled with hysteroscopy in the diagnosis of endometrial cancer.\n\nIn recent years, the technological advancements such as the use of small diameter (3,5mm) rigid hysteroscopes combined with \"no touch\" techniques have made hysteroscopy a commonly accepted procedure .\n\nAs a minimally invasive procedure, hysteroscopy is associated with fewer complications than traditional open surgery However, it is challenging to gain manual dexterity in hysteroscopy because of the fulcrum effect and the orientation between the two-dimensional screen and the three-dimensional uterine cavity. Other difficulties are the diminished tactile feedback and limited degrees of freedom, . Lack of proficiency in hysteroscopy can compromise patient safety by causing uterine perforation and trauma to neighboring organs. Also, pulmonary air embolisms and pulmonary edema are potential life-threatening complications.\n\nToday it is generally accepted that the traditional apprentice-tutor model is no longer valid for training all skills necessary in Gynecological surgery and more specifically endoscopic surgery This agreement is based on the recognition that, in contrast to open surgery, endoscopic surgery demands surgical skills and psychomotor skills that should not necessarily be trained simultaneously. Increasing evidence strongly suggests that psychomotor skills must be trained earlier and outside the operating room, and several models have been proposed for this aim"
+        },
+        "ConditionsModule":{
+          "ConditionList":{
+            "Condition":[
+              "Hysteroscopy"
+            ]
+          }
+        },
+        "DesignModule":{
+          "StudyType":"Interventional",
+          "PhaseList":{
+            "Phase":[
+              "Not Applicable"
+            ]
+          },
+          "DesignInfo":{
+            "DesignAllocation":"Non-Randomized",
+            "DesignInterventionModel":"Parallel Assignment",
+            "DesignInterventionModelDescription":"the efficacy of VR simulator training in improving basic gynecological hysteroscopic skills",
+            "DesignPrimaryPurpose":"Other",
+            "DesignMaskingInfo":{
+              "DesignMasking":"Single",
+              "DesignWhoMaskedList":{
+                "DesignWhoMasked":[
+                  "Participant"
+                ]
+              }
+            }
+          },
+          "EnrollmentInfo":{
+            "EnrollmentCount":"102",
+            "EnrollmentType":"Actual"
+          }
+        },
+        "ArmsInterventionsModule":{
+          "ArmGroupList":{
+            "ArmGroup":[
+              {
+                "ArmGroupLabel":"Group A: Ob/Gyn physicians",
+                "ArmGroupType":"Active Comparator",
+                "ArmGroupDescription":"It is about 51 participants whom had performed less than 50 diagnostic hysteroscopies and hysteroscopic polypectomy.",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Device: Virtual Reality Training"
+                  ]
+                }
+              },{
+                "ArmGroupLabel":"Group B: Ob/Gyn physicians",
+                "ArmGroupType":"Active Comparator",
+                "ArmGroupDescription":"It is about 51 participants whom had performed at least 50 diagnostic hysteroscopies and hysteroscopic polypectomy.",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Device: Virtual Reality Training"
+                  ]
+                }
+              }
+            ]
+          },
+          "InterventionList":{
+            "Intervention":[
+              {
+                "InterventionType":"Device",
+                "InterventionName":"Virtual Reality Training",
+                "InterventionDescription":"Training the obstetrics and Gynecologist Residents on Virtual endoscopic simulation and skills acquisition",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Group A: Ob/Gyn physicians",
+                    "Group B: Ob/Gyn physicians"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "OutcomesModule":{
+          "PrimaryOutcomeList":{
+            "PrimaryOutcome":[
+              {
+                "PrimaryOutcomeMeasure":"Virtual Reality Training Score",
+                "PrimaryOutcomeDescription":"• To compare the final score achieved by the physicians who had performed less than 50 diagnostic hysteroscopies and hysteroscopic polypectomy after 3 training sessions on VR hysteroscopy simulator with the score achieved by physicians who had performed at least 50 diagnostic hysteroscopies and hysteroscopic polypectomy to ensure the role of VR in training for hysteroscopic polypectomy.",
+                "PrimaryOutcomeTimeFrame":"from baseline to 6 months after the trainig"
+              }
+            ]
+          }
+        },
+        "EligibilityModule":{
+          "EligibilityCriteria":"Inclusion Criteria:\n\nResidents, assistant lecturers, lecturers, associate professors and professors in Ob/Gyn department.\nGroup A: Ob/Gyn physicians who had performed less than 50 diagnostic hysteroscopies and hysteroscopic polypectomy.\nGroup B: Ob/Gyn physicians who had performed at least 50 diagnostic hysteroscopies and hysteroscopic polypectomy.\n\nExclusion Criteria:\n\n1- Physicians who had previously attended VR simulator training course",
+          "HealthyVolunteers":"No",
+          "Gender":"All",
+          "MinimumAge":"26 Years",
+          "MaximumAge":"36 Years",
+          "StdAgeList":{
+            "StdAge":[
+              "Adult"
+            ]
+          }
+        },
+        "ContactsLocationsModule":{
+          "OverallOfficialList":{
+            "OverallOfficial":[
+              {
+                "OverallOfficialName":"Ahmed M Fawzi El-Minawi, Professor",
+                "OverallOfficialAffiliation":"Department of obstetrics and gynecology, Faculty Of Medicine, Cairo University",
+                "OverallOfficialRole":"Study Chair"
+              },{
+                "OverallOfficialName":"Nadine A Sherif, Professor",
+                "OverallOfficialAffiliation":"Department of obstetrics and gynecology, Faculty Of Medicine, Cairo University",
+                "OverallOfficialRole":"Principal Investigator"
+              }
+            ]
+          },
+          "LocationList":{
+            "Location":[
+              {
+                "LocationFacility":"Faculty of Medicine - Cairo University",
+                "LocationCity":"Giza",
+                "LocationCountry":"Egypt"
+              }
+            ]
+          }
+        },
+        "IPDSharingStatementModule":{
+          "IPDSharing":"Undecided"
+        }
+      },
+      "DerivedSection":{
+        "MiscInfoModule":{
+          "VersionHolder":"September 19, 2022"
+        }
+      }
+    }
+  }
+}
+

@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2171">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01732874</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2012-0329</org_study_id>
+    <nct_id>NCT01732874</nct_id>
+  </id_info>
+  <brief_title>DHA Supplementation for Lactating Mothers</brief_title>
+  <acronym>DHA-1</acronym>
+  <official_title>Docosahexaenoic Acid Supplementation of Mothers to Improve Preterm Infant Nutrition and Immune Homeostasis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Children's Hospital Medical Center, Cincinnati</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Children's Hospital Medical Center, Cincinnati</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this research study is to find out whether preterm infants are receiving&#xD;
+      enough of the essential and long chain fatty acids important for brain development and immune&#xD;
+      function. Our current intravenous (IV) fats do not contain the long chain fatty acids and&#xD;
+      different milk sources have different compositions. We would like to evaluate lactating&#xD;
+      mothers dietary intake and breastmilk level of fatty acid status by doing an analysis of&#xD;
+      their blood and breastmilk samples after they have been supplemented with a currently used&#xD;
+      fatty acid supplement (DHA- Martek Biosciences, now known as Dutch State Mines (DSM)&#xD;
+      Nutritional Lipid) The DHA supplement is available over the counter.&#xD;
+&#xD;
+      The information learned from this research study may benefit other mothers and babies in the&#xD;
+      future. The information could help make sure premature babies are receiving the right&#xD;
+      nutrients they need for appropriate growth and development.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      We designed a prospective, randomized trial to test the hypotheses that DHA supplementation&#xD;
+      to human milk providers will increase DHA concentration in milk and infant blood levels; and&#xD;
+      that infants receiving milk from DHA-supplemented providers will be receiving a more&#xD;
+      appropriate enteral intake to better mimic intrauterine accretion. In addition, we&#xD;
+      hypothesize that pro-inflammatory cytokines will be reduced in the mothers and infants&#xD;
+      receiving the higher DHA diet.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 2013</start_date>
+  <completion_date type="Actual">July 16, 2018</completion_date>
+  <primary_completion_date type="Actual">July 16, 2018</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Infant Serum Soluble Receptor for AGE (sRAGE) Levels at 4 Weeks From Baseline From Mothers Supplemented With 200 or 1000 mg/kg Per Day of DHA</measure>
+    <time_frame>value at week 4</time_frame>
+    <description>The study was powered to detect differences in sRAGE levels in infant serum samples at 4 weeks of age from mothers supplemented with 200 or 1000 mg/kg per day of DHA. Serum Soluble Receptor for AGE (sRAGE) levels range from 7300-100 pg/mL where the higher number means a worse outcome.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">27</enrollment>
+  <condition>Docosohexaenoic Acid Supplementation of Mothers to</condition>
+  <arm_group>
+    <arm_group_label>Expecta 200 mg</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Breastfeeding mothers of pre-mature infants randomly assigned to 200 mg Expecta to be taken orally once a day. Expecta to be taken for approximately 8 weeks post-partum or a shorter time if infant is discharged sooner from NICU.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Expecta 1 Gram</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Breastfeeding mothers of pre-mature infants randomly assigned to one Gram of Expecta to be taken orally once a day. Expecta to be taken for approximately 8 weeks post-partum or a shorter time if infant is discharged sooner from NICU.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Expecta 200 mg</intervention_name>
+    <description>Breastfeeding mothers who have given birth to premature infant 29 weeks or less will be randomized to receive 200mg Expecta. They will take once a day for 8 weeks or a shorter time if infant is discharged sooner from NICU.</description>
+    <arm_group_label>Expecta 200 mg</arm_group_label>
+    <other_name>Prenatal Dietary Supplement</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Expecta 1 gram</intervention_name>
+    <description>Breastfeeding mothers who have given birth to premature infant 29 weeks or less will be randomized to receive 1 gram of Expecta. They will take once a day for 8 weeks or a shorter time if infant is discharged sooner from NICU.</description>
+    <arm_group_label>Expecta 1 Gram</arm_group_label>
+    <other_name>Prenatal Dietary Supplement</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        •Lactating mothers at Cincinnati University Hospital with infants born at &lt; 29 weeks&#xD;
+        gestation.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  the presence of congenital anomalies (trisomy 13, 18, 21, urethral, gastrointestinal&#xD;
+             and cardiac defects) that affect the standard course of care.&#xD;
+&#xD;
+          -  mother's &lt;18 and&#xD;
+&#xD;
+          -  mothers with known allergy to algeal source&#xD;
+&#xD;
+          -  mothers with history of bleeding disorders or taking any other medication that may&#xD;
+             increase the risk of bleeding&#xD;
+&#xD;
+          -  infants with bleeding disorders or receiving any other medication that may increase&#xD;
+             the risk of bleeding&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ardythe Morrow, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Cincinnati</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Henry Akinbi, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Children's Hospital Medical Center, Cincinnati</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Cincinnati University Hospital Medical Center</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Valentine CJ, Dingess KA, Kleiman J, Morrow AL, Rogers LK. A Randomized Trial of Maternal Docosahexaenoic Acid Supplementation to Reduce Inflammation in Extremely Preterm Infants. J Pediatr Gastroenterol Nutr. 2019 Sep;69(3):388-392. doi: 10.1097/MPG.0000000000002375.</citation>
+    <PMID>31058771</PMID>
+  </results_reference>
+  <verification_date>October 2018</verification_date>
+  <study_first_submitted>October 31, 2012</study_first_submitted>
+  <study_first_submitted_qc>November 19, 2012</study_first_submitted_qc>
+  <study_first_posted type="Estimate">November 26, 2012</study_first_posted>
+  <results_first_submitted>September 10, 2020</results_first_submitted>
+  <results_first_submitted_qc>December 8, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">January 5, 2021</results_first_posted>
+  <last_update_submitted>December 8, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 8, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>DHA</keyword>
+  <keyword>Preterm infant</keyword>
+  <keyword>Inflammation</keyword>
+  <keyword>Growth</keyword>
+  <keyword>Developement</keyword>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>July 12, 2013</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/74/NCT01732874/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Mothers recruited at The University of Cincinnati with pregnancy &lt; 28 weeks and no congenital anomalies</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Expecta 200 mg</title>
+          <description>Breastfeeding mothers of pre-mature infants randomly assigned to 200 mg Expecta to be taken orally once a day. Expecta to be taken for approximately 8 weeks post-partum or a shorter time if infant is discharged sooner from NICU.&#xD;
+Expecta 200 mg: Breastfeeding mothers who have given birth to premature infant 29 weeks or less will be randomized to receive 200mg Expecta. They will take once a day for 8 weeks or a shorter time if infant is discharged sooner from NICU.</description>
+        </group>
+        <group group_id="P2">
+          <title>Expecta 1 Gram</title>
+          <description>Breastfeeding mothers of pre-mature infants randomly assigned to one Gram of Expecta to be taken orally once a day. Expecta to be taken for approximately 8 weeks post-partum or a shorter time if infant is discharged sooner from NICU.&#xD;
+Expecta 1 gram: Breastfeeding mothers who have given birth to premature infant 29 weeks or less will be randomized to receive 1 gram of Expecta. They will take once a day for 8 weeks or a shorter time if infant is discharged sooner from NICU.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="16"/>
+                <participants group_id="P2" count="11"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="8"/>
+                <participants group_id="P2" count="8"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="8"/>
+                <participants group_id="P2" count="3"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="5"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Death of Infant</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Lactating mothers at Cincinnati University Hospital with infants born at &lt; 29 weeks gestation admitted to The Cincinnati University Hospital NICU</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Expecta 200 mg</title>
+          <description>Breastfeeding mothers of pre-mature infants randomly assigned to 200 mg Expecta to be taken orally once a day. Expecta to be taken for approximately 8 weeks post-partum or a shorter time if infant is discharged sooner from NICU.&#xD;
+Expecta 200 mg: Breastfeeding mothers who have given birth to premature infant 29 weeks or less will be randomized to receive 200mg Expecta. They will take once a day for 8 weeks or a shorter time if infant is discharged sooner from NICU.</description>
+        </group>
+        <group group_id="B2">
+          <title>Expecta 1 Gram</title>
+          <description>Breastfeeding mothers of pre-mature infants randomly assigned to one Gram of Expecta to be taken orally once a day. Expecta to be taken for approximately 8 weeks post-partum or a shorter time if infant is discharged sooner from NICU.&#xD;
+Expecta 1 gram: Breastfeeding mothers who have given birth to premature infant 29 weeks or less will be randomized to receive 1 gram of Expecta. They will take once a day for 8 weeks or a shorter time if infant is discharged sooner from NICU.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="16"/>
+            <count group_id="B2" value="11"/>
+            <count group_id="B3" value="27"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16"/>
+                    <measurement group_id="B2" value="11"/>
+                    <measurement group_id="B3" value="27"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16"/>
+                    <measurement group_id="B2" value="11"/>
+                    <measurement group_id="B3" value="27"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                    <measurement group_id="B2" value="11"/>
+                    <measurement group_id="B3" value="26"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="7"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="16"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Baseline Infant Serum Soluble Receptor for AGE (sRAGE) levels</title>
+          <description>sRAGE levels in infant serum samples at 0 weeks old from mothers supplemented with 200 or 1000 mg/kg per day of DHA. Serum Soluble Receptor for AGE (sRAGE) levels range from 7300-100 pg/mL where the higher number means a worse outcome.</description>
+          <units>pg/ml</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="746" lower_limit="428" upper_limit="2201"/>
+                    <measurement group_id="B2" value="5336" lower_limit="416" upper_limit="7270"/>
+                    <measurement group_id="B3" value="3041" lower_limit="416" upper_limit="7270"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Infant Serum Soluble Receptor for AGE (sRAGE) Levels at 4 Weeks From Baseline From Mothers Supplemented With 200 or 1000 mg/kg Per Day of DHA</title>
+        <description>The study was powered to detect differences in sRAGE levels in infant serum samples at 4 weeks of age from mothers supplemented with 200 or 1000 mg/kg per day of DHA. Serum Soluble Receptor for AGE (sRAGE) levels range from 7300-100 pg/mL where the higher number means a worse outcome.</description>
+        <time_frame>value at week 4</time_frame>
+        <population>Lactating mothers of pre-mature infants</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Expecta 200 mg</title>
+            <description>Breastfeeding mothers of pre-mature infants randomly assigned to 200 mg Expecta to be taken orally once a day. Expecta to be taken for approximately 8 weeks post-partum or a shorter time if infant is discharged sooner from NICU.&#xD;
+Expecta 200 mg: Breastfeeding mothers who have given birth to premature infant 29 weeks or less will be randomized to receive 200mg Expecta. They will take once a day for 8 weeks or a shorter time if infant is discharged sooner from NICU.</description>
+          </group>
+          <group group_id="O2">
+            <title>Expecta 1 Gram</title>
+            <description>Breastfeeding mothers of pre-mature infants randomly assigned to one Gram of Expecta to be taken orally once a day. Expecta to be taken for approximately 8 weeks post-partum or a shorter time if infant is discharged sooner from NICU.&#xD;
+Expecta 1 gram: Breastfeeding mothers who have given birth to premature infant 29 weeks or less will be randomized to receive 1 gram of Expecta. They will take once a day for 8 weeks or a shorter time if infant is discharged sooner from NICU.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Infant Serum Soluble Receptor for AGE (sRAGE) Levels at 4 Weeks From Baseline From Mothers Supplemented With 200 or 1000 mg/kg Per Day of DHA</title>
+          <description>The study was powered to detect differences in sRAGE levels in infant serum samples at 4 weeks of age from mothers supplemented with 200 or 1000 mg/kg per day of DHA. Serum Soluble Receptor for AGE (sRAGE) levels range from 7300-100 pg/mL where the higher number means a worse outcome.</description>
+          <population>Lactating mothers of pre-mature infants</population>
+          <units>pg/mL</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="16"/>
+                <count group_id="O2" value="11"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="900" lower_limit="218" upper_limit="1650"/>
+                    <measurement group_id="O2" value="1127" lower_limit="256" upper_limit="2050"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>baseline to 4 weeks</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Expecta 200 mg</title>
+          <description>Breastfeeding mothers of pre-mature infants randomly assigned to 200 mg Expecta to be taken orally once a day. Expecta to be taken for approximately 8 weeks post-partum or a shorter time if infant is discharged sooner from NICU.&#xD;
+Expecta 200 mg: Breastfeeding mothers who have given birth to premature infant 29 weeks or less will be randomized to receive 200mg Expecta. They will take once a day for 8 weeks or a shorter time if infant is discharged sooner from NICU.</description>
+        </group>
+        <group group_id="E2">
+          <title>Expecta 1 Gram</title>
+          <description>Breastfeeding mothers of pre-mature infants randomly assigned to one Gram of Expecta to be taken orally once a day. Expecta to be taken for approximately 8 weeks post-partum or a shorter time if infant is discharged sooner from NICU.&#xD;
+Expecta 1 gram: Breastfeeding mothers who have given birth to premature infant 29 weeks or less will be randomized to receive 1 gram of Expecta. They will take once a day for 8 weeks or a shorter time if infant is discharged sooner from NICU.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>The small sample size prevented the use of Repeated Measures Analyses, which would have given the study more power to detect differences and the ability to statistically control for any of the infant morbidities.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Dr. Christina J. Valentine MD,MS,RD</name_or_title>
+      <organization>Nationwide Childrens Hospital</organization>
+      <phone>(614) 722-2000</phone>
+      <email>Christina.Valentine@nationwidechildrens.org</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

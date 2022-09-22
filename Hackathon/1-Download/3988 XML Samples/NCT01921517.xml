@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2127">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01921517</url>
+  </required_header>
+  <id_info>
+    <org_study_id>3408455</org_study_id>
+    <nct_id>NCT01921517</nct_id>
+  </id_info>
+  <brief_title>Micromechanical Modeling Using Low Magnitude Mechanical Stimulation</brief_title>
+  <acronym>LMMS</acronym>
+  <official_title>Osteoporosis Treatment Response Assessed by Micromechanical Modeling of MRI Data</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Pennsylvania</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Children's Hospital of Philadelphia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Pennsylvania</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The response to a daily 10 minute session of low-magnitude mechanical stimulation (LMMS) on&#xD;
+      bone in 100 postmenopausal women ages 45-65 years will be evaluated at baseline and 12 months&#xD;
+      using high-resolution magnetic resonance (MR) imaging. Subjects will be assigned to an active&#xD;
+      platform that produces vibrations or to a placebo platform that produces no vibrations.&#xD;
+&#xD;
+      The investigators propose to evaluate the hypothesis that LMMS applied to postmenopausal&#xD;
+      women ages 45-65 improves the mechanical integrity of bone while lowering marrow adiposity.&#xD;
+&#xD;
+        1. The investigators will optimize an integrated imaging protocol for high-resolution&#xD;
+           structural MR imaging of the distal tibia and spectroscopic imaging-based quantification&#xD;
+           of bone marrow composition in the lumbar vertebrae.&#xD;
+&#xD;
+        2. The investigators will further develop and validate micro-finite-element (FE) analysis&#xD;
+           for quantitative assessment of trabecular and cortical bone stiffness and failure load&#xD;
+           from high-resolution MR images of the distal tibia.&#xD;
+&#xD;
+        3. The investigators will apply the methodology of Aims 1 and 2 (above) in a&#xD;
+           double-blinded, randomized, placebo-controlled study to a cohort of 100 healthy&#xD;
+           postmenopausal women in the age range of 45-65 years, studied at baseline and 12 months&#xD;
+           after having been subjected to 10 minutes daily of either 30 Hz/0.3g stimulation or&#xD;
+           placebo treatment, monitored rigorously via electronic feedback.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Weightbearing exercise has an osteogenic effect by reducing bone resorption and enhancing&#xD;
+      bone formation. During the past several years a number of articles have appeared&#xD;
+      demonstrating that low-magnitude mechanical stimulation (LMMS) is osteogenic in animals and&#xD;
+      also in humans. Preclinical studies have also demonstrated an effect of decrease in&#xD;
+      adiposity. The mechanobiology underlying these phenomena is beginning to emerge in terms of&#xD;
+      expression of genes stimulated by the action of the vibrations to which osteocytes and&#xD;
+      adipocytes are subjected.&#xD;
+&#xD;
+      If successful, LMMS treatment, a non-pharmacologic intervention, could prevent bone loss and&#xD;
+      potentially stimulate bone formation and decreased adipocyte production resulting in&#xD;
+      increased bone strength and reduced fracture susceptibility in subjects at risk of developing&#xD;
+      osteoporosis. The proposed project focuses directly on measures of strength by evaluating the&#xD;
+      therapeutic response in terms of magnetic resonance (MR) image-based micro finite-element&#xD;
+      (FE) assessment of bone stiffness and failure strength, along with quantifying&#xD;
+      treatment-induced changes in marrow adiposity, as part of a single, integrated examination,&#xD;
+      conducted at baseline and 12 months of treatment in a double-blinded, randomized,&#xD;
+      placebo-controlled study of early postmenopausal women.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 2012</start_date>
+  <completion_date type="Actual">June 20, 2019</completion_date>
+  <primary_completion_date type="Actual">February 28, 2019</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Distal Tibia Bone Quality</measure>
+    <time_frame>Baseline to 12 months</time_frame>
+    <description>Distal tibial bone quality is measured through MRI by calculating the ratio between bone volume to total volume. A lower value would indicate osteoporotic (weaker) bone; a higher value would indicate healthy (normal) bone.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">117</enrollment>
+  <condition>Bone Alteration</condition>
+  <arm_group>
+    <arm_group_label>Low Magnitude Mechanical Stimulation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>10 minutes daily of 30 Hz/0.3g stimulation using a vibrating platform.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sham Low Magnitude Mechanical Stimulation</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>10 minutes daily of placebo treatment using a sham vibrating platform.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Low Magnitude Mechanical Stimulation</intervention_name>
+    <description>Mechanical stimulation for 10 minutes daily for 12 months at a frequency of 30 Hz and acceleration of 0.3 g.</description>
+    <arm_group_label>Low Magnitude Mechanical Stimulation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Sham Low Magnitude Mechanical Stimulation</intervention_name>
+    <description>Mechanical stimulation for 10 minutes daily for 12 months using a sham device.</description>
+    <arm_group_label>Sham Low Magnitude Mechanical Stimulation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Females, ages 45-65 years and post menopausal, as defined by a history of amenorrhea&#xD;
+             for a minimum of 24 months and a serum FSH (follicle-stimulating hormone)&#xD;
+             concentration of 25 mIU/mL (milli-International unit per milliliter) and negative&#xD;
+             pregnancy test.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Current or prior use of medications known to affect bone (e.g. bisphosphonates,&#xD;
+             calcitonin, selective estrogen receptor modulators, denosumab, diphenylhydantoin,&#xD;
+             recent systemic glucocorticoid use), bone mineral density T score of less than -2.5&#xD;
+             and greater than +2, Vitamin D level less then 12 ng/ml, BMI (body mass index) of&#xD;
+             greater than 32, current alcohol or drug abuse: more than 3 alcoholic beverages per&#xD;
+             day or current abuse of illicit drugs or prescription medication, uncontrolled or&#xD;
+             untreated cardiac or pulmonary disease liver disease: history of hepatitis or ALT&#xD;
+             (alanine aminotransferase) or AST (aspartate aminotransferase) greater than 2x ULN&#xD;
+             (upper limit of normal), renal disease: history of renal disease or serum creatinine&#xD;
+             greater than 2x ULN diabetes, pacemaker or metallic implants considered a&#xD;
+             contraindication to MR scanning.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>45 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Felix W Wehrli, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Pennsylvania</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Hospital of the University of Pennsylvania</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2019</verification_date>
+  <study_first_submitted>August 8, 2013</study_first_submitted>
+  <study_first_submitted_qc>August 8, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">August 13, 2013</study_first_posted>
+  <results_first_submitted>October 21, 2019</results_first_submitted>
+  <results_first_submitted_qc>November 13, 2019</results_first_submitted_qc>
+  <results_first_posted type="Actual">November 15, 2019</results_first_posted>
+  <last_update_submitted>November 13, 2019</last_update_submitted>
+  <last_update_submitted_qc>November 13, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 15, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Pennsylvania</investigator_affiliation>
+    <investigator_full_name>Felix Wehrli</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Biomechanics</keyword>
+  <keyword>Osteogenesis</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol, Statistical Analysis Plan, and Informed Consent Form</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>October 24, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/17/NCT01921517/Prot_SAP_ICF_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Not all subjects enrolled (consented at screening visit) were randomized (randomized to intervention)</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Low Magnitude Mechanical Stimulation</title>
+          <description>10 minutes daily of 30 Hz/0.3g stimulation using a vibrating platform.&#xD;
+Low Magnitude Mechanical Stimulation: Mechanical stimulation for 10 minutes daily for 12 months at a frequency of 30 Hz and acceleration of 0.3 g.</description>
+        </group>
+        <group group_id="P2">
+          <title>Sham Low Magnitude Mechanical Stimulation</title>
+          <description>10 minutes daily of placebo treatment using a sham vibrating platform.&#xD;
+Sham Low Magnitude Mechanical Stimulation: Mechanical stimulation for 10 minutes daily for 12 months using a sham device.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="42"/>
+                <participants group_id="P2" count="38"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="27"/>
+                <participants group_id="P2" count="29"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="15"/>
+                <participants group_id="P2" count="9"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="5"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Newly diagnosed health concern</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Physician Decision</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="7"/>
+                <participants group_id="P2" count="3"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Subject missed final imaging</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="4"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Low Magnitude Mechanical Stimulation</title>
+          <description>10 minutes daily of 30 Hz/0.3g stimulation using a vibrating platform.&#xD;
+Low Magnitude Mechanical Stimulation: Mechanical stimulation for 10 minutes daily for 12 months at a frequency of 30 Hz and acceleration of 0.3 g.</description>
+        </group>
+        <group group_id="B2">
+          <title>Sham Low Magnitude Mechanical Stimulation</title>
+          <description>10 minutes daily of placebo treatment using a sham vibrating platform.&#xD;
+Sham Low Magnitude Mechanical Stimulation: Mechanical stimulation for 10 minutes daily for 12 months using a sham device.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="42"/>
+            <count group_id="B2" value="38"/>
+            <count group_id="B3" value="80"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="42"/>
+                    <measurement group_id="B2" value="38"/>
+                    <measurement group_id="B3" value="80"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="42"/>
+                    <measurement group_id="B2" value="38"/>
+                    <measurement group_id="B3" value="80"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="20"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="27"/>
+                    <measurement group_id="B2" value="26"/>
+                    <measurement group_id="B3" value="53"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="42"/>
+                    <measurement group_id="B2" value="38"/>
+                    <measurement group_id="B3" value="80"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in Distal Tibia Bone Quality</title>
+        <description>Distal tibial bone quality is measured through MRI by calculating the ratio between bone volume to total volume. A lower value would indicate osteoporotic (weaker) bone; a higher value would indicate healthy (normal) bone.</description>
+        <time_frame>Baseline to 12 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Low Magnitude Mechanical Stimulation</title>
+            <description>10 minutes daily of 30 Hz/0.3g stimulation using a vibrating platform.&#xD;
+Low Magnitude Mechanical Stimulation: Mechanical stimulation for 10 minutes daily for 12 months at a frequency of 30 Hz and acceleration of 0.3 g.</description>
+          </group>
+          <group group_id="O2">
+            <title>Sham Low Magnitude Mechanical Stimulation</title>
+            <description>10 minutes daily of placebo treatment using a sham vibrating platform.&#xD;
+Sham Low Magnitude Mechanical Stimulation: Mechanical stimulation for 10 minutes daily for 12 months using a sham device.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Distal Tibia Bone Quality</title>
+          <description>Distal tibial bone quality is measured through MRI by calculating the ratio between bone volume to total volume. A lower value would indicate osteoporotic (weaker) bone; a higher value would indicate healthy (normal) bone.</description>
+          <units>percentage of change</units>
+          <param>Mean</param>
+          <dispersion>80% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="42"/>
+                <count group_id="O2" value="38"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.121" lower_limit="-0.35" upper_limit="2.29"/>
+                    <measurement group_id="O2" value="-2.141" lower_limit="-4.53" upper_limit="0.25"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.0481</p_value>
+            <method>t-test, 2 sided</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Adverse event data was collected over five years.</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Low Magnitude Mechanical Stimulation</title>
+          <description>10 minutes daily of 30 Hz/0.3g stimulation using a vibrating platform.&#xD;
+Low Magnitude Mechanical Stimulation: Mechanical stimulation for 10 minutes daily for 12 months at a frequency of 30 Hz and acceleration of 0.3 g.</description>
+        </group>
+        <group group_id="E2">
+          <title>Sham Low Magnitude Mechanical Stimulation</title>
+          <description>10 minutes daily of placebo treatment using a sham vibrating platform.&#xD;
+Sham Low Magnitude Mechanical Stimulation: Mechanical stimulation for 10 minutes daily for 12 months using a sham device.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="42"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="42"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="42"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="38"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Diarrhea</sub_title>
+                <description>Mild</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="42"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Headache</sub_title>
+                <description>Mild</description>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="42"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <description>Mild</description>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="42"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Heavy Feeling in Bones</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="42"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Bone Pain</sub_title>
+                <description>Mild</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="42"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Itching/Redness</sub_title>
+                <description>Mild</description>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="42"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="38"/>
+              </event>
+              <event>
+                <sub_title>Rash</sub_title>
+                <description>Mild</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="42"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="38"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Felix W. Wehrli, Principal Investigator</name_or_title>
+      <organization>University of Pennsylvania Perelman School of Medicine</organization>
+      <phone>215-662-7951</phone>
+      <email>felix.wehrli@pennmedicine.upenn.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

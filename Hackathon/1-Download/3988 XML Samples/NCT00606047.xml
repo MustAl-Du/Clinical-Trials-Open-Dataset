@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2248">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00606047</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2006-813</org_study_id>
+    <nct_id>NCT00606047</nct_id>
+  </id_info>
+  <brief_title>Prevalence of Femoroacetabular Impingement in Asymptomatic Patients</brief_title>
+  <official_title>Prevalence of Femoroacetabular Impingement in Asymptomatic Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ottawa Hospital Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ottawa Hospital Research Institute</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Femoroacetabular hip impingement syndrome is a newly recognized cause of early arthritis of&#xD;
+      the hip. In this condition a variation in the shape of the upper thigh bone causes it to&#xD;
+      repeatedly come in contact with the hip socket leading to cartilage damage and arthritis. The&#xD;
+      purpose of this study is to investigate whether patients without hip pain have variations at&#xD;
+      the hip joint such as those seen in hip impingement syndrome.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Participants in this study will be asked to come to the hospital after regular work hours for&#xD;
+      an MRI of the hip joints. Prior to the MRI, a physician will perform a range of motion check&#xD;
+      of the participants hips. The MRI will take approximately 20 minutes during which the&#xD;
+      participant will have to lie still in a closed space. Participants will receive a letter&#xD;
+      which can be forwarded to their family doctor if the MRI has any abnormal findings including&#xD;
+      signs of hip impingement.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">August 1, 2007</start_date>
+  <completion_date type="Actual">February 13, 2017</completion_date>
+  <primary_completion_date type="Actual">February 2017</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Prevalence of Femoroacetabular Impingement (FAI)</measure>
+    <time_frame>Pre-operative on Day of MRI</time_frame>
+    <description>Prevalence of femoroacetabular impingement (FAI), a newly recognized cause of early arthritis of the hip, will be investigated by means of hip MRI to evaluate for abnormal morphology of the anterior head-neck junction of the femur. Participant MRIs were reviewed by two independent radiologists. The prevalence of FAI was calculated as determined by an abnormal alpha angle (greater than 50.5 degrees).</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Actual">200</enrollment>
+  <condition>Femoroacetabular Hip Impingement Syndrome</condition>
+  <arm_group>
+    <arm_group_label>Asymptomatic patients</arm_group_label>
+    <description>Asymptomatic, healthy patients (without hip pain or prior hip disease) will be recruited. Patients will undergo a magnetic resonance imaging (MRI) of the hip joints to evaluate for the prevalence of femoroacetabular impingement (FAI).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Magnetic resonance imaging (MRI)</intervention_name>
+    <description>Participation in this study will involve patients coming to the hospital after regular work hours for an MRI of the hip joints.</description>
+    <arm_group_label>Asymptomatic patients</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Healthy volunteers&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  No hip problems&#xD;
+&#xD;
+          -  No containdications to MRI&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        - Patient does not meet above criteria&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>50 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Paul Beaulé, MD, FRCSC</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Ottawa Hospital Research Institute</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Ottawa Hospital Research Institute</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K1Y4E9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <results_reference>
+    <citation>Khanna V, Caragianis A, Diprimio G, Rakhra K, Beaulé PE. Incidence of hip pain in a prospective cohort of asymptomatic volunteers: is the cam deformity a risk factor for hip pain? Am J Sports Med. 2014 Apr;42(4):793-7. doi: 10.1177/0363546513518417. Epub 2014 Jan 30.</citation>
+    <PMID>24481825</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Hack K, Di Primio G, Rakhra K, Beaulé PE. Prevalence of cam-type femoroacetabular impingement morphology in asymptomatic volunteers. J Bone Joint Surg Am. 2010 Oct 20;92(14):2436-44. doi: 10.2106/JBJS.J.01280.</citation>
+    <PMID>20962194</PMID>
+  </results_reference>
+  <verification_date>March 2020</verification_date>
+  <study_first_submitted>January 21, 2008</study_first_submitted>
+  <study_first_submitted_qc>January 31, 2008</study_first_submitted_qc>
+  <study_first_posted type="Estimate">February 1, 2008</study_first_posted>
+  <results_first_submitted>March 6, 2020</results_first_submitted>
+  <results_first_submitted_qc>March 25, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">March 27, 2020</results_first_posted>
+  <last_update_submitted>March 25, 2020</last_update_submitted>
+  <last_update_submitted_qc>March 25, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 27, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>femoroacetabular impingement</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Femoracetabular Impingement</mesh_term>
+  </condition_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>December 9, 2006</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/47/NCT00606047/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Asymptomatic Patients</title>
+          <description>Asymptomatic, healthy patients (without hip pain or prior hip disease) will be recruited. Patients will undergo a magnetic resonance imaging (MRI) of the hip joints to evaluate for the prevalence of femoroacetabular impingement (FAI).&#xD;
+Magnetic resonance imaging (MRI): Participation in this study will involve patients coming to the hospital after regular work hours for an MRI of the hip joints.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="200"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="200"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Asymptomatic Patients</title>
+          <description>Asymptomatic, healthy patients (without hip pain or prior hip disease) will be recruited. Patients will undergo a magnetic resonance imaging (MRI) of the hip joints to evaluate for the prevalence of femoroacetabular impingement (FAI).&#xD;
+Magnetic resonance imaging (MRI): Participation in this study will involve patients coming to the hospital after regular work hours for an MRI of the hip joints.</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="200"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="29.4" lower_limit="21.4" upper_limit="50.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="111"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="89"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="197"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Canada</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="200"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Body Mass Index</title>
+          <units>kg/m^2</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="25.49" spread="3.18"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Handedness</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Left-handedness</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Right-handedness</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="188"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Family History of Hip Osteoarthritis</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>None</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="184"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Family History of Hip Osteoarthritis</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Personal History of Childhood Hip Problems</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>None</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="200"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Personal History of Childhood Hip Problems</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Prevalence of Femoroacetabular Impingement (FAI)</title>
+        <description>Prevalence of femoroacetabular impingement (FAI), a newly recognized cause of early arthritis of the hip, will be investigated by means of hip MRI to evaluate for abnormal morphology of the anterior head-neck junction of the femur. Participant MRIs were reviewed by two independent radiologists. The prevalence of FAI was calculated as determined by an abnormal alpha angle (greater than 50.5 degrees).</description>
+        <time_frame>Pre-operative on Day of MRI</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Asymptomatic Patients</title>
+            <description>Asymptomatic, healthy patients (without hip pain or prior hip disease) will be recruited. Patients will undergo a magnetic resonance imaging (MRI) of the hip joints to evaluate for the prevalence of femoroacetabular impingement (FAI).&#xD;
+Magnetic resonance imaging (MRI): Participation in this study will involve patients coming to the hospital after regular work hours for an MRI of the hip joints.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Prevalence of Femoroacetabular Impingement (FAI)</title>
+          <description>Prevalence of femoroacetabular impingement (FAI), a newly recognized cause of early arthritis of the hip, will be investigated by means of hip MRI to evaluate for abnormal morphology of the anterior head-neck junction of the femur. Participant MRIs were reviewed by two independent radiologists. The prevalence of FAI was calculated as determined by an abnormal alpha angle (greater than 50.5 degrees).</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="200"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Prevalence of Cam-Type FAI</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="28"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>No prevalence</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="172"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>1 day</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Asymptomatic Patients</title>
+          <description>Asymptomatic, healthy patients (without hip pain or prior hip disease) will be recruited. Patients will undergo a magnetic resonance imaging (MRI) of the hip joints to evaluate for the prevalence of femoroacetabular impingement (FAI).&#xD;
+Magnetic resonance imaging (MRI): Participation in this study will involve patients coming to the hospital after regular work hours for an MRI of the hip joints.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="200"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="200"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="200"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>A limitation of our study sample is that it may not truly represent the normal population as it was based in a hospital setting. However, the hospital where this study was conducted employs over 13,000 individuals with a varied work force.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Dr Paul Beaule</name_or_title>
+      <organization>The Ottawa Hospital Research Institute</organization>
+      <phone>613-737-8920</phone>
+      <email>pbeaule@toh.ca</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

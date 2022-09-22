@@ -1,0 +1,296 @@
+{
+  "FullStudy":{
+    "Rank":494,
+    "Study":{
+      "ProtocolSection":{
+        "IdentificationModule":{
+          "NCTId":"NCT05540119",
+          "OrgStudyIdInfo":{
+            "OrgStudyId":"SOEGAS"
+          },
+          "Organization":{
+            "OrgFullName":"Karolinska Institutet",
+            "OrgClass":"OTHER"
+          },
+          "BriefTitle":"Swedish Oesophago-Gastric Study",
+          "OfficialTitle":"Swedish Oesophago-Gastric Study",
+          "Acronym":"SOEGAS"
+        },
+        "StatusModule":{
+          "StatusVerifiedDate":"September 2022",
+          "OverallStatus":"Recruiting",
+          "ExpandedAccessInfo":{
+            "HasExpandedAccess":"No"
+          },
+          "StartDateStruct":{
+            "StartDate":"May 1, 2017",
+            "StartDateType":"Actual"
+          },
+          "PrimaryCompletionDateStruct":{
+            "PrimaryCompletionDate":"September 1, 2020",
+            "PrimaryCompletionDateType":"Actual"
+          },
+          "CompletionDateStruct":{
+            "CompletionDate":"August 31, 2023",
+            "CompletionDateType":"Anticipated"
+          },
+          "StudyFirstSubmitDate":"September 9, 2022",
+          "StudyFirstSubmitQCDate":"September 9, 2022",
+          "StudyFirstPostDateStruct":{
+            "StudyFirstPostDate":"September 14, 2022",
+            "StudyFirstPostDateType":"Actual"
+          },
+          "LastUpdateSubmitDate":"September 15, 2022",
+          "LastUpdatePostDateStruct":{
+            "LastUpdatePostDate":"September 19, 2022",
+            "LastUpdatePostDateType":"Estimate"
+          }
+        },
+        "SponsorCollaboratorsModule":{
+          "ResponsibleParty":{
+            "ResponsiblePartyType":"Principal Investigator",
+            "ResponsiblePartyInvestigatorFullName":"Jesper Lagergren",
+            "ResponsiblePartyInvestigatorTitle":"Professor of Surgery",
+            "ResponsiblePartyInvestigatorAffiliation":"Karolinska Institutet"
+          },
+          "LeadSponsor":{
+            "LeadSponsorName":"Karolinska Institutet",
+            "LeadSponsorClass":"OTHER"
+          },
+          "CollaboratorList":{
+            "Collaborator":[
+              {
+                "CollaboratorName":"Johannes Asplund",
+                "CollaboratorClass":"UNKNOWN"
+              },{
+                "CollaboratorName":"Fredrik Mattsson",
+                "CollaboratorClass":"UNKNOWN"
+              },{
+                "CollaboratorName":"Eivind Gottlieb",
+                "CollaboratorClass":"UNKNOWN"
+              },{
+                "CollaboratorName":"Wilhelm Leijonmarck",
+                "CollaboratorClass":"UNKNOWN"
+              },{
+                "CollaboratorName":"Ivan Ernudd",
+                "CollaboratorClass":"UNKNOWN"
+              },{
+                "CollaboratorName":"Ellinor Lundberg",
+                "CollaboratorClass":"UNKNOWN"
+              },{
+                "CollaboratorName":"Sheraz Markar",
+                "CollaboratorClass":"UNKNOWN"
+              },{
+                "CollaboratorName":"Giola Santoni",
+                "CollaboratorClass":"UNKNOWN"
+              }
+            ]
+          }
+        },
+        "OversightModule":{
+          "OversightHasDMC":"No",
+          "IsFDARegulatedDrug":"No",
+          "IsFDARegulatedDevice":"No"
+        },
+        "DescriptionModule":{
+          "BriefSummary":"The overarching aim of this nationwide Swedish cohort study is to reduce death and suffering from oesophageal and gastric tumours. This aim can be accomplished by a broad research approach that aims to identify:\n\nRisk factors and preventive actions\nEarly detection\nImproved treatment",
+          "DetailedDescription":"Swedish OEsophageal and GAstric tumour Study (SOEGAS)\n\nBackground Globally, oesophageal and gastric tumours are common with a high mortality. Oesophageal cancer and gastric cancer combined are often labelled upper gastrointestinal (GI) cancer. These tumours share many characteristics, including anatomy, risk factors, treatment and prognosis.\n\nThe main known risk factors for adenocarcinoma of the oesophagus and gastro-oesophageal junction are gastro-oesophageal reflux disease and obesity. The main risk factors for the other main histological type of oesophageal cancer, squamous cell carcinoma, are tobacco smoking and alcohol. The strongest known risk factor for gastric cancer is infection with Helicobacter pylori. Shared risk factors include dietary factors, tobacco smoking and heredity.\n\nThe curative treatment of upper GI cancers builds heavily on demanding surgery, where most of the oesophagus or stomach is resected. Except for surgery, most tumours are also treated with pre-operative, and sometimes postoperative, chemotherapy or chemoradiotherapy (6). The palliative treatment is also very important since the majority of patients are not eligible for curative treatment.\n\nThe survival is poor in patients diagnosed with upper GI cancer. This is mainly explained by late diagnosis since the symptoms are usually late and aggressive tumour biology, with early spread and recurrence. If detected early, the prognosis is excellent, but only a fraction of patients is detected at early tumour stages. The overall 5-year survival in oesophageal cancer is less than 20% and in gastric cancer it is less than 30% in most populations, including Sweden. The rate of patients found eligible for curative treatment including surgery is only 20-35%. Among operated patients the postoperative 5-year survival is 30-50%. It is crucial to conduct research that can improve the lives also of palliative patients.\n\nIt is of great importance to identify factors that can prevent upper GI cancer. Means to facilitate the detection at a premalignant or early and curable tumour stage would improve the prognosis and survivorship. It is also highly relevant to identify factors that can improve the curative and palliative treatment.\n\nResources Opportunities Sweden offers internationally unique possibilities to link high quality registry data with clinical data from medical records, which make up a fantastic resource for valid research in aetiology, prevention, detection, and treatment of upper GI cancer. The personal identity numbers assigned to all Swedish residents enables individual data to be linked.\n\nExperience Our research group has a long track record in addressing risk factors, preventive measures and treatment of upper GI cancer. The research group contains expertise in clinics, epidemiology and biostatistics.\n\nOverarching aims\n\nThe overarching aim of this research project is to reduce death and suffering from upper GI cancer. This aim can be accomplished by a broad research approach that aims to identify:\n\nRisk factors and prevention Preventive actions can decrease the incidence of these tumours.\nEarly detection Early detection provides great opportunities for local treatment (endoscopic resection). Detection at an early invasive stage before metastases have occurred also provides good chances of cure, but requires more extensive surgery.\nImproved treatment The mainstay treatment for cure in upper GI cancer is surgical resection. The research assessing how the surgery can become optimised is limited.\n\nSpecific aims\n\nEvaluate the recent incidence trends\n\nThese analyses will separately assess differences in incidence over time across various patient and tumour characteristics, including:\n\nSex\nAge\nTumour stage\nTumour histology\nTumour site within the oesophagus or stomach\n\nIdentify risk factors\n\nMedications\nLifestyle factors\nReproductive factors\nPerinatal factors\nOther diseases and co-morbidities\nSurgical procedures for other indications than upper GI tumours\nHereditary factors\nSocio-economic factors\nDental and oral health\nOther factors\n\nIdentify factors that facilitate early detection\n\nLifestyle factors\nOther diseases and co-morbidities\nHereditary factors\nSocio-economic factors\n\nEvaluate trends in prognosis Treatment Curative Surgery Neo-adjuvant therapy\n\nPalliative\n\nPatient characteristics Sex Age BMI Socio-economic factors\n\nTumour characteristics Stage Histology Site within the oesophagus or stomach\n\nIdentify factors that can improve prognosis and survivorship\n\nTumour characteristics\nSurgical factors\nNeoadjuvant therapy\nSocio-economic factors\nLifestyle factors\nOther diseases and co-morbidities\nPrevious surgical procedures\nReproductive factors\nMedications\nDental and oral health\nOther factors\n\nMethods Study cohort The cohort is entitled the Swedish OEsophageal and GAstric tumour Study (acronym SOEGAS), and will include patients diagnosed with oesophageal or gastric tumour from year 2000 onwards. The selection of the cohort will be based on a diagnosis code representing oesophageal or gastric tumours recorded in: Swedish Cancer Registry, Swedish Patient Registry or Cause of Death Registry.\n\nData collection\n\nThis cohort needs to be linked with additional data for us to be able to evaluate the specific research aims listed above. The resources and data are needed for all cohort members:\n\nThe Swedish Patient Registry ('Patientregistret') since 1987 when this registry became nationwide complete. This registry is managed by the National Board of Health and Welfare (SoS by Swedish acronym). These data are needed for evaluation of surgical procedures, re-operations, and all comorbidities.\nThe Swedish Cancer Registry ('Cancerregistret') since 1958 when this registry was initiated. This registry is managed by SoS. Detailed data are needed for the oesophageal or gastric tumours, including date of diagnosis, exact tumour site, histological type of tumour, and tumour stage. Data are also needed on previous cancers before the start date of the cohort (year 2000) as well as any concurrent or later (secondary) tumours.\nThe Swedish Prescribed Drug Registry ('Läkemedelsregistret') since July 2005 when this registry started. This registry is managed by SoS. We need these data to assess medications as risk factors for these tumours, to assess how medications influence the outcomes in patients diagnosed with these tumours, and also to assess comorbidities.\nThe Swedish Dental Health Registry ('Tandhälsoregistret') since this registry was started in 2008. This registry is held by SoS. We need these data to assess whether dental and oral health influences the risk of developing oesophageal and gastric tumours as well as the prognosis and survivorship in these patients.\nSwedish Medical Birth Registry ('Medicinska födelseregistret') since it started in 1973. This registry is held by SoS, and from this registry we can assess data on paternity and other key variables in women who have given birth, e.g. BMI. We also need data on the children, e.g. gestational age, small for gestational age, large for gestational age, preterm birth.\nThe Swedish Causes of Death Registry ('Dödsorsaksregistret') since 1st January 2000. This registry is managed by SoS, and is required to assess date of death and causes of death. These data are needed for the prognostic studies and also for censoring of patients no longer at risk of various outcomes under study.\nThe Swedish Multi-Generation Registry ('Flergenerationsregistret') since its start. This registry is held by SCB, and these data are needed to assess the role of heredity in the aetiology of these tumours.\nThe Swedish Longitudinal integration database for health insurance and labour market studies (LISA by Swedish acronym) ('Longitudinell integrationsdatabas för sjukförsäkrings- och arbetsmarknadsstudier'). This registry is held by SCB and is needed for data on socio-economic factors, including highest level of education, cohabitation, civil status, income, country of birth and parental countries of birth, latest year of immigration and emigration, and place of residence.\nThe Swedish Registry of the Total Population ('Registret över totalbefolkningen') since 1968. These data are needed to calculate the expected risk of oesophageal and gastric tumours in the corresponding background population. This registry is also needed for updated information on civil status, divorce, emigration, immigration, cohabitation and updated information about date of death.\nThe Swedish Defence Recruitment Agency ('Mönstringsregistret') since its initiation. We need data on BMI and physical capacity from this registry.\nMedical records. We need data from the hospitals regarding clinical factors including tumour stage, treatment, risk factors, and various treatment factors. This means that we need to have personal identity numbers for all cohort members to be able to find the relevant medical records.\nTotal population data. Finally, we need data from the Swedish Registry of the Total Population ('Registret över totalbefolkningen') and the Swedish Cancer Registry from the entire Swedish population from year 2000 onwards to calculate the expected incidence and mortality rates in the corresponding background population.\n\nPersonal identity numbers and key codes We need the personal identity numbers of the selected cohort members to retrieve the medical records from the healthcare services. We also need the National Board of Health and Welfare ('Socialstyrelsen') to keep the key codes to all cohort members in order for us to ask for up-dates of the cohort regarding potential needs for additional time, follow-up, cohort size and further data.\n\nStatistical analysis The statistical analysis will be done by one of our senior biostatisticians employed in the group. All data management and analyses will be done according to laws and regulations. There will be various statistical methods used and these need to be tailored for each individual study based on the cohort. However, studies evaluating risk factors will typically be analysed using multivariable logistic regression, providing odds ratios and 95% confidence intervals adjusted for potential confounding factors. Studies evaluating mortality as the outcome will be analysed using multivariable Cox regression, providing hazard ratios and 95% confidence intervals adjusted for potential confounding factors.\n\nStatistical power The cohort will be powerful enough to study the main research questions. We cannot expand the study further while maintaining its high internal validity. It is already nationwide complete and the study period from 2000 onwards mirrors a modern era of treatment. Thus, we cannot increase the sample size.\n\nSpecific study protocols The study protocol for each study included in this project will be specified with detailed study protocols before initiated. This project plan does not allow detailed presentation of all future studies based on the data collection, but it gives an overview of the topic.\n\nSignificance\n\nSOEGAS has all prerequisites to contribute substantially with new knowledge that might reduce deaths and suffering in oesophageal and gastric tumours on a global scale. All of the studies included in the project will be based on Swedish data and we have good reasons to believe that outputs from the project will have a global influence as well. The quality and the contents of the Swedish registries might have changed over calendar periods but from 2000 onwards only limited changes have been made, which improves the quality of the research and facilitates interpretations and reduces various sources of bias. Taken together, SOEGAS might bring extremely valuable information to an area of research which is clearly understudied which is the aetiology, prevention and treatment of tumours of the oesophagus and stomach."
+        },
+        "ConditionsModule":{
+          "ConditionList":{
+            "Condition":[
+              "Oesophageal Cancer",
+              "Gastric Cancer",
+              "Surgical Treatment",
+              "Aetiology",
+              "Prognostic Factors",
+              "Survival",
+              "Prediction",
+              "Treatment"
+            ]
+          }
+        },
+        "DesignModule":{
+          "StudyType":"Observational",
+          "PatientRegistry":"No",
+          "DesignInfo":{
+            "DesignObservationalModelList":{
+              "DesignObservationalModel":[
+                "Cohort"
+              ]
+            },
+            "DesignTimePerspectiveList":{
+              "DesignTimePerspective":[
+                "Retrospective"
+              ]
+            }
+          },
+          "EnrollmentInfo":{
+            "EnrollmentCount":"25000",
+            "EnrollmentType":"Anticipated"
+          }
+        },
+        "ArmsInterventionsModule":{
+          "ArmGroupList":{
+            "ArmGroup":[
+              {
+                "ArmGroupLabel":"SWEGASS",
+                "ArmGroupDescription":"Gastric cancer patients.",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Procedure: Surgery"
+                  ]
+                }
+              },{
+                "ArmGroupLabel":"SESS",
+                "ArmGroupDescription":"Oesophageal cancer patients.",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Procedure: Surgery"
+                  ]
+                }
+              }
+            ]
+          },
+          "InterventionList":{
+            "Intervention":[
+              {
+                "InterventionType":"Procedure",
+                "InterventionName":"Surgery",
+                "InterventionDescription":"Patients who undergo surgery are separately assessed",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "SESS",
+                    "SWEGASS"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "OutcomesModule":{
+          "PrimaryOutcomeList":{
+            "PrimaryOutcome":[
+              {
+                "PrimaryOutcomeMeasure":"Mortality",
+                "PrimaryOutcomeDescription":"5-year all-cause and disease-specific mortality",
+                "PrimaryOutcomeTimeFrame":"5 years"
+              }
+            ]
+          },
+          "SecondaryOutcomeList":{
+            "SecondaryOutcome":[
+              {
+                "SecondaryOutcomeMeasure":"Complications",
+                "SecondaryOutcomeDescription":"Postoperative complications",
+                "SecondaryOutcomeTimeFrame":"Within 30 days of surgery"
+              }
+            ]
+          }
+        },
+        "EligibilityModule":{
+          "EligibilityCriteria":"Inclusion Criteria: Surgery for oesophageal or gastric cancer -\n\nExclusion Criteria: None\n\n-",
+          "HealthyVolunteers":"No",
+          "Gender":"All",
+          "StdAgeList":{
+            "StdAge":[
+              "Child",
+              "Adult",
+              "Older Adult"
+            ]
+          },
+          "StudyPopulation":"All patients with oesophageal or gastric cancer in Sweden from year 2006 onwards are included in the source cohort, but only those who undergo surgery are included in this project.",
+          "SamplingMethod":"Non-Probability Sample"
+        },
+        "ContactsLocationsModule":{
+          "CentralContactList":{
+            "CentralContact":[
+              {
+                "CentralContactName":"Jesper Lagergren, MD PhD",
+                "CentralContactRole":"Contact",
+                "CentralContactPhone":"0046852485140",
+                "CentralContactEMail":"jesper.lagergren@ki.se"
+              }
+            ]
+          },
+          "OverallOfficialList":{
+            "OverallOfficial":[
+              {
+                "OverallOfficialName":"Jesper Lagergren, MD PhD",
+                "OverallOfficialAffiliation":"Karolinska Institutet, Stockholm, Sweden",
+                "OverallOfficialRole":"Principal Investigator"
+              }
+            ]
+          },
+          "LocationList":{
+            "Location":[
+              {
+                "LocationFacility":"Karolinska Institutet",
+                "LocationStatus":"Recruiting",
+                "LocationCity":"Stockholm",
+                "LocationZip":"17177",
+                "LocationCountry":"Sweden",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactName":"Jesper Lagergren",
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"jesper.lagergren@ki.se"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "IPDSharingStatementModule":{
+          "IPDSharing":"Undecided",
+          "IPDSharingDescription":"Could be relevant in the future, but not planned."
+        }
+      },
+      "DerivedSection":{
+        "MiscInfoModule":{
+          "VersionHolder":"September 19, 2022"
+        },
+        "ConditionBrowseModule":{
+          "ConditionBrowseLeafList":{
+            "ConditionBrowseLeaf":[
+              {
+                "ConditionBrowseLeafId":"M15216",
+                "ConditionBrowseLeafName":"Stomach Neoplasms",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"T5486",
+                "ConditionBrowseLeafName":"Stomach Cancer",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"T2141",
+                "ConditionBrowseLeafName":"Esophageal Cancer",
+                "ConditionBrowseLeafAsFound":"Oesophageal Cancer",
+                "ConditionBrowseLeafRelevance":"high"
+              }
+            ]
+          },
+          "ConditionBrowseBranchList":{
+            "ConditionBrowseBranch":[
+              {
+                "ConditionBrowseBranchAbbrev":"BC04",
+                "ConditionBrowseBranchName":"Neoplasms"
+              },{
+                "ConditionBrowseBranchAbbrev":"BC06",
+                "ConditionBrowseBranchName":"Digestive System Diseases"
+              },{
+                "ConditionBrowseBranchAbbrev":"All",
+                "ConditionBrowseBranchName":"All Conditions"
+              },{
+                "ConditionBrowseBranchAbbrev":"Rare",
+                "ConditionBrowseBranchName":"Rare Diseases"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+

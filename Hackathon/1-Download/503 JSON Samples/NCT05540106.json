@@ -1,0 +1,335 @@
+{
+  "FullStudy":{
+    "Rank":495,
+    "Study":{
+      "ProtocolSection":{
+        "IdentificationModule":{
+          "NCTId":"NCT05540106",
+          "OrgStudyIdInfo":{
+            "OrgStudyId":"2022-00088"
+          },
+          "Organization":{
+            "OrgFullName":"Stony Brook University",
+            "OrgClass":"OTHER"
+          },
+          "BriefTitle":"Impact of Art Therapy on Self-Reported Pain and Anxiety Scores of Patients Waiting to Be Seen in the Emergency Department",
+          "OfficialTitle":"Impact of Art Therapy on Self-Reported Pain and Anxiety Scores of Patients Waiting to Be Seen in the Emergency Department"
+        },
+        "StatusModule":{
+          "StatusVerifiedDate":"September 2022",
+          "OverallStatus":"Not yet recruiting",
+          "ExpandedAccessInfo":{
+            "HasExpandedAccess":"No"
+          },
+          "StartDateStruct":{
+            "StartDate":"October 1, 2022",
+            "StartDateType":"Anticipated"
+          },
+          "PrimaryCompletionDateStruct":{
+            "PrimaryCompletionDate":"May 1, 2023",
+            "PrimaryCompletionDateType":"Anticipated"
+          },
+          "CompletionDateStruct":{
+            "CompletionDate":"May 1, 2024",
+            "CompletionDateType":"Anticipated"
+          },
+          "StudyFirstSubmitDate":"September 10, 2022",
+          "StudyFirstSubmitQCDate":"September 10, 2022",
+          "StudyFirstPostDateStruct":{
+            "StudyFirstPostDate":"September 14, 2022",
+            "StudyFirstPostDateType":"Actual"
+          },
+          "LastUpdateSubmitDate":"September 10, 2022",
+          "LastUpdatePostDateStruct":{
+            "LastUpdatePostDate":"September 14, 2022",
+            "LastUpdatePostDateType":"Actual"
+          }
+        },
+        "SponsorCollaboratorsModule":{
+          "ResponsibleParty":{
+            "ResponsiblePartyType":"Principal Investigator",
+            "ResponsiblePartyInvestigatorFullName":"Lauren Marie Maloney",
+            "ResponsiblePartyInvestigatorTitle":"Clinical Assistant Professor of Emergency Medicine",
+            "ResponsiblePartyInvestigatorAffiliation":"Stony Brook University"
+          },
+          "LeadSponsor":{
+            "LeadSponsorName":"Stony Brook University",
+            "LeadSponsorClass":"OTHER"
+          }
+        },
+        "OversightModule":{
+          "OversightHasDMC":"No",
+          "IsFDARegulatedDrug":"No",
+          "IsFDARegulatedDevice":"No"
+        },
+        "DescriptionModule":{
+          "BriefSummary":"The objective of this research is to assess the effects of engaging in coloring activities on patients' self-reported pain and anxiety scores while they wait to be seen by a physician in an emergency department (ED). The current literature on patient visits in the ED highlights the significance of anxiety, stress, and frustration in patient experiences, especially when accounting for long wait times before the physician-patient encounter. The study will address this common problem by looking at the potential impact of nature-themed or geometric shape coloring activities on the ED patient experience as it relates to self-reported anxiety and pain scores. Given that long wait times are increasingly being reported across the country, this study may offer a possible meaningful low-budget, low-resource intervention which could be offered to patients."
+        },
+        "ConditionsModule":{
+          "ConditionList":{
+            "Condition":[
+              "Emergency Medicine",
+              "Art Therapy",
+              "Anxiety",
+              "Pain",
+              "Patient Recorded Outcome Measures"
+            ]
+          }
+        },
+        "DesignModule":{
+          "StudyType":"Interventional",
+          "PhaseList":{
+            "Phase":[
+              "Not Applicable"
+            ]
+          },
+          "DesignInfo":{
+            "DesignAllocation":"Randomized",
+            "DesignInterventionModel":"Parallel Assignment",
+            "DesignInterventionModelDescription":"This is a randomized, four-armed prospective interventional study that will test the effect of nature-based coloring activities on patients' pain and anxiety scores during their ED visit. The study will consist of three intervention groups and one active control group.",
+            "DesignPrimaryPurpose":"Supportive Care",
+            "DesignMaskingInfo":{
+              "DesignMasking":"None (Open Label)"
+            }
+          },
+          "EnrollmentInfo":{
+            "EnrollmentCount":"168",
+            "EnrollmentType":"Anticipated"
+          }
+        },
+        "ArmsInterventionsModule":{
+          "ArmGroupList":{
+            "ArmGroup":[
+              {
+                "ArmGroupLabel":"Blank Paper and Pencil",
+                "ArmGroupType":"Active Comparator",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Behavioral: Blank Paper and Pencil"
+                  ]
+                }
+              },{
+                "ArmGroupLabel":"Nature Coloring Packet",
+                "ArmGroupType":"Experimental",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Behavioral: Nature Coloring Packet"
+                  ]
+                }
+              },{
+                "ArmGroupLabel":"Geometric Shape Coloring Packet",
+                "ArmGroupType":"Experimental",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Behavioral: Geometric Shape Coloring Packet"
+                  ]
+                }
+              },{
+                "ArmGroupLabel":"Activity Book",
+                "ArmGroupType":"Experimental",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Behavioral: Activity Book"
+                  ]
+                }
+              }
+            ]
+          },
+          "InterventionList":{
+            "Intervention":[
+              {
+                "InterventionType":"Behavioral",
+                "InterventionName":"Nature Coloring Packet",
+                "InterventionDescription":"Coloring packet containing nature scenes",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Nature Coloring Packet"
+                  ]
+                }
+              },{
+                "InterventionType":"Behavioral",
+                "InterventionName":"Geometric Shape Coloring Packet",
+                "InterventionDescription":"Coloring packet containing geometric shapes",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Geometric Shape Coloring Packet"
+                  ]
+                }
+              },{
+                "InterventionType":"Behavioral",
+                "InterventionName":"Activity Book",
+                "InterventionDescription":"Pages containing word searches, connect the dots, etc.",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Activity Book"
+                  ]
+                }
+              },{
+                "InterventionType":"Behavioral",
+                "InterventionName":"Blank Paper and Pencil",
+                "InterventionDescription":"Blank sheets of paper and a pencil.",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Blank Paper and Pencil"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "OutcomesModule":{
+          "PrimaryOutcomeList":{
+            "PrimaryOutcome":[
+              {
+                "PrimaryOutcomeMeasure":"Hospital Anxiety and Depression Scale-Anxiety (HADS-A) Score",
+                "PrimaryOutcomeDescription":"Change in self-reported HADS-A score following art therapy intervention",
+                "PrimaryOutcomeTimeFrame":"8 hours"
+              },{
+                "PrimaryOutcomeMeasure":"Numerical Pain Score",
+                "PrimaryOutcomeDescription":"Change in self-reported numerical pain score following art therapy intervention",
+                "PrimaryOutcomeTimeFrame":"8 hours"
+              }
+            ]
+          },
+          "SecondaryOutcomeList":{
+            "SecondaryOutcome":[
+              {
+                "SecondaryOutcomeMeasure":"Color Selection",
+                "SecondaryOutcomeDescription":"Correlation between HADS-A or pain score and colors selected by patient to use during art therapy",
+                "SecondaryOutcomeTimeFrame":"8 hours"
+              },{
+                "SecondaryOutcomeMeasure":"Patient impression of activities",
+                "SecondaryOutcomeDescription":"Patient engagement (reported time packet used, recommendation for others to use)",
+                "SecondaryOutcomeTimeFrame":"8 hours"
+              }
+            ]
+          }
+        },
+        "EligibilityModule":{
+          "EligibilityCriteria":"Inclusion Criteria:\n\n[ ] Triage Pain Score > 3 [ ] Age >18 [ ] able to provide informed consent [ ] English-speaking [ ] without concern for aggressive behavior [ ] Glasgow Coma Scale (GCS) of 15 [ ] Hospital Anxiety and Depression Scale-Anxiety (HADS-A) Score > 6\n\nExclusion Criteria:\n\n[ ] Concern for aggression risk, including active concern for suicidal or homicidal ideations [ ] Glasgow Coma Scale (GCS) <15 [ ] triage acuity requiring critical care evaluation",
+          "HealthyVolunteers":"Accepts Healthy Volunteers",
+          "Gender":"All",
+          "MinimumAge":"18 Years",
+          "StdAgeList":{
+            "StdAge":[
+              "Adult",
+              "Older Adult"
+            ]
+          }
+        },
+        "ContactsLocationsModule":{
+          "CentralContactList":{
+            "CentralContact":[
+              {
+                "CentralContactName":"Lauren M Maloney, MD",
+                "CentralContactRole":"Contact",
+                "CentralContactPhone":"631-358-6652",
+                "CentralContactEMail":"lauren.maloney@stonybrookmedicine.edu"
+              }
+            ]
+          },
+          "LocationList":{
+            "Location":[
+              {
+                "LocationFacility":"Stony Brook University Hospital",
+                "LocationCity":"Stony Brook",
+                "LocationState":"New York",
+                "LocationZip":"11794",
+                "LocationCountry":"United States",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactName":"Lauren Maloney, MD",
+                      "LocationContactRole":"Contact"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "IPDSharingStatementModule":{
+          "IPDSharing":"No"
+        }
+      },
+      "DerivedSection":{
+        "MiscInfoModule":{
+          "VersionHolder":"September 19, 2022"
+        },
+        "ConditionBrowseModule":{
+          "ConditionMeshList":{
+            "ConditionMesh":[
+              {
+                "ConditionMeshId":"D000004630",
+                "ConditionMeshTerm":"Emergencies"
+              },{
+                "ConditionMeshId":"D000001008",
+                "ConditionMeshTerm":"Anxiety Disorders"
+              }
+            ]
+          },
+          "ConditionAncestorList":{
+            "ConditionAncestor":[
+              {
+                "ConditionAncestorId":"D000001523",
+                "ConditionAncestorTerm":"Mental Disorders"
+              },{
+                "ConditionAncestorId":"D000020969",
+                "ConditionAncestorTerm":"Disease Attributes"
+              },{
+                "ConditionAncestorId":"D000010335",
+                "ConditionAncestorTerm":"Pathologic Processes"
+              }
+            ]
+          },
+          "ConditionBrowseLeafList":{
+            "ConditionBrowseLeaf":[
+              {
+                "ConditionBrowseLeafId":"M3476",
+                "ConditionBrowseLeafName":"Anxiety Disorders",
+                "ConditionBrowseLeafAsFound":"Anxiety",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M6948",
+                "ConditionBrowseLeafName":"Emergencies",
+                "ConditionBrowseLeafAsFound":"Emergency",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M12218",
+                "ConditionBrowseLeafName":"Pain",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M3967",
+                "ConditionBrowseLeafName":"Mental Disorders",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M13625",
+                "ConditionBrowseLeafName":"Psychotic Disorders",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M21853",
+                "ConditionBrowseLeafName":"Disease Attributes",
+                "ConditionBrowseLeafRelevance":"low"
+              }
+            ]
+          },
+          "ConditionBrowseBranchList":{
+            "ConditionBrowseBranch":[
+              {
+                "ConditionBrowseBranchAbbrev":"BXM",
+                "ConditionBrowseBranchName":"Behaviors and Mental Disorders"
+              },{
+                "ConditionBrowseBranchAbbrev":"All",
+                "ConditionBrowseBranchName":"All Conditions"
+              },{
+                "ConditionBrowseBranchAbbrev":"BC23",
+                "ConditionBrowseBranchName":"Symptoms and General Pathology"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+

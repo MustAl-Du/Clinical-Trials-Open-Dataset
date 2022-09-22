@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2234">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01120756</url>
+  </required_header>
+  <id_info>
+    <org_study_id>B7467-I</org_study_id>
+    <nct_id>NCT01120756</nct_id>
+  </id_info>
+  <brief_title>Neural Bases of Cognitive Rehabilitation for Brain Injury</brief_title>
+  <official_title>Neural Bases of Cognitive Rehabilitation for Brain Injury</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>VA Office of Research and Development</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of California, Berkeley</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>VA Office of Research and Development</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Some of the most common and disabling consequences of brain injury are deficits in cognition,&#xD;
+      such as difficulty with sustained attention, memory, organization, and goal management. The&#xD;
+      long-term goal of this research program is to develop and test novel neuroscience-based&#xD;
+      cognitive interventions for improving attentional regulation and related &quot;executive function&quot;&#xD;
+      brain processes involved in goal-directed behavior.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Brain injury often results in a disruption of attention regulation processes, which reduces&#xD;
+      the efficiency and effectiveness of cognitive functions including learning, memory,&#xD;
+      problem-solving and goal management, leading to significant functional disability. More&#xD;
+      intervention options are needed.&#xD;
+&#xD;
+      We set out to test different possible interventions. Individuals with traumatic brain injury&#xD;
+      (TBI) and chronic executive control dysfunction participate in interventions, with pre- and&#xD;
+      post-intervention measurements of cognitive functioning. Training in Goal-oriented&#xD;
+      attentional self-regulation (GOALS) was administered in comparison to Brain Health Education&#xD;
+      (EDU).&#xD;
+&#xD;
+      GOALS is designed to train attention regulation skills along with meta-cognitive strategies&#xD;
+      for goal management, with a emphasis on application to participant-selected projects. This is&#xD;
+      a group-based intervention.&#xD;
+&#xD;
+      Brain Health Education is designed to increase knowledge and understanding of key factors&#xD;
+      that affect brain functioning. This is a group-based intervention matched to the GOALS&#xD;
+      intervention.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">October 1, 2011</start_date>
+  <completion_date type="Actual">December 29, 2018</completion_date>
+  <primary_completion_date type="Actual">May 30, 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change From Baseline on a Composite Measure (Z-score) of Attention, Working Memory, and Executive Functions</measure>
+    <time_frame>Baseline, Within 2-3 weeks Post-intervention</time_frame>
+    <description>We computed a composite measure based upon the average of individuals' scores on commonly used neuropsychological tests of attention, working memory, and executive functions. To compute this composite score, we first scored individual performances on each neuropsychological measure utilizing published norms, adjusted for, when available, age, gender, ethnicity, and education levels. We then converted all resultant scores (e.g., T-scores, Standard Scores) to a common metric, z-scores. (Z-scores are a standardized unit of measurement, scaled in terms of standard deviation (SD) units. Thus, a z-score of 0 represents the mean; a z-score of 1 represents+1 SD above the mean; and a z-score of -1 represents -1 SD below the mean.) Finally, for each participant, z-scores derived from each separate neuropsychological test were averaged together to yield a final composite score. The composite score was the unit of analysis.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Functional Evaluations: Change From Baseline on the Goal Processing Scale</measure>
+    <time_frame>Baseline, 2-3 Weeks Post-intervention</time_frame>
+    <description>Observed measures of functional performance on complex tasks were assessed for the GOALS and Brain Health Education study. The overall composite score comprises scores for planning, initiation, self-monitoring, maintenance of attention, sequencing and switching, divergent thinking, execution, learning and memory. Scores range from 1-10. Changes were calculated from pre-to post-training, and higher scores indicate improvement in functioning.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">35</enrollment>
+  <condition>Brain Injury</condition>
+  <arm_group>
+    <arm_group_label>Goal-oriented attentional self-regulation training</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Goal-oriented attentional self-regulation training (GOALS).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Brain Health Education</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Brain Health Education (EDU)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Goal-oriented attentional self-regulation</intervention_name>
+    <description>This will involve 5-7 weeks of training (20 hours of group training (2 hour sessions, 2 days per week), 3 hours of individual training (1 hour at the beginning, halfway through and at the end of training), and approximately 20 hours of home practice). In brief, the GBSM training protocol is designed to maximize the potential for improving attention regulation skills and the goal-directed functions they support, applying mindfulness-based attention regulation training to practice in redirecting attention to goal-relevant processes especially in the context of distractions is emphasized throughout training. Participants are asked to identify realistic functional goals as feasible individual and group projects, and are then trained in goal management strategies on the functional task(s) of their choice.</description>
+    <arm_group_label>Goal-oriented attentional self-regulation training</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Brain Health Education</intervention_name>
+    <description>Brain Health Education (EDU) will involve 5-7 weeks of training (20 hours of group training (2 hour sessions, 2 days per week), 3 hours of individual training (1 hour at the beginning, halfway through and at the end of training), and approximately 20 hours of homework). The EDU intervention involves education in health and brain injury in a classroom format, with study materials for homework.</description>
+    <arm_group_label>Brain Health Education</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Patients with a history of TBI (reported plausible mechanism of head injury, loss of&#xD;
+        consciousness with some period of post-traumatic alteration in cognition) who are &gt; 6&#xD;
+        months post-injury will be screened for evidence of mild-moderate residual dysfunction in&#xD;
+        executive control functions based on corroborated reports of real-world difficulties&#xD;
+        (Mayo-Portland Adaptability Inventory).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Severely apathetic/abulic&#xD;
+&#xD;
+          -  aphasic&#xD;
+&#xD;
+          -  or other reasons for patients being unable or unwilling to participate with the&#xD;
+             training tasks&#xD;
+&#xD;
+          -  severe cognitive dysfunction&#xD;
+&#xD;
+          -  history of neurodevelopmental abnormalities&#xD;
+&#xD;
+          -  ongoing illicit drug or alcohol abuse (AUDIT&gt;8)&#xD;
+&#xD;
+          -  severe depression as measured by Beck Depression Inventory (&gt;29)&#xD;
+&#xD;
+          -  severe PTSD precluding participation in research activities (such as group training or&#xD;
+             MRI scanning)&#xD;
+&#xD;
+          -  There will be no restriction in regard to gender, race and socioeconomic status.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Anthony Chen, MD MA</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Martinez Outpatient Clinic, Martinez, CA</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Martinez Outpatient Clinic and Community Living Center, Martinez, CA</name>
+      <address>
+        <city>Martinez</city>
+        <state>California</state>
+        <zip>94553</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Novakovic-Agopian T, Kornblith E, Abrams G, Burciaga-Rosales J, Loya F, D'Esposito M, Chen AJW. Training in Goal-Oriented Attention Self-Regulation Improves Executive Functioning in Veterans with Chronic Traumatic Brain Injury. J Neurotrauma. 2018 Dec 1;35(23):2784-2795. doi: 10.1089/neu.2017.5529. Epub 2018 Jul 23.</citation>
+    <PMID>29717652</PMID>
+  </results_reference>
+  <verification_date>June 2019</verification_date>
+  <study_first_submitted>May 7, 2010</study_first_submitted>
+  <study_first_submitted_qc>May 7, 2010</study_first_submitted_qc>
+  <study_first_posted type="Estimate">May 11, 2010</study_first_posted>
+  <results_first_submitted>February 27, 2019</results_first_submitted>
+  <results_first_submitted_qc>June 12, 2019</results_first_submitted_qc>
+  <results_first_posted type="Actual">August 2, 2019</results_first_posted>
+  <last_update_submitted>June 12, 2019</last_update_submitted>
+  <last_update_submitted_qc>June 12, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 2, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>executive dysfunction</keyword>
+  <keyword>brain injury</keyword>
+  <keyword>attention</keyword>
+  <keyword>rehabilitation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Brain Injuries</mesh_term>
+    <mesh_term>Wounds and Injuries</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>May 5, 2017</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/56/NCT01120756/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Goal-oriented Attentional Self-regulation Training</title>
+          <description>Goal-oriented attentional self-regulation training (GOALS).&#xD;
+This will involve 5-7 weeks of training (20 hours of group training (2 hour sessions, 2 days per week), 3 hours of individual training (1 hour at the beginning, halfway through and at the end of training), and approximately 20 hours of home practice). In brief, the GBSM training protocol is designed to maximize the potential for improving attention regulation skills and the goal-directed functions they support, applying mindfulness-based attention regulation training to practice in redirecting attention to goal-relevant processes especially in the context of distractions is emphasized throughout training. Participants are asked to identify realistic functional goals as feasible individual and group projects, and are then trained in goal management strategies on the functional task(s) of their choice.</description>
+        </group>
+        <group group_id="P2">
+          <title>Brain Health Education</title>
+          <description>Brain Health Education (EDU)&#xD;
+Brain Health Education: Brain Health Education (EDU) will involve 5-7 weeks of training (20 hours of group training (2 hour sessions, 2 days per week), 3 hours of individual training (1 hour at the beginning, halfway through and at the end of training), and approximately 20 hours of homework). The EDU intervention involves education in health and brain injury in a classroom format, with study materials for homework.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="21"/>
+                <participants group_id="P2" count="14"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="20"/>
+                <participants group_id="P2" count="13"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Goal-oriented Attentional Self-regulation Training</title>
+          <description>Goal-oriented attentional self-regulation training (GOALS).&#xD;
+This will involve 5-7 weeks of training (20 hours of group training (2 hour sessions, 2 days per week), 3 hours of individual training (1 hour at the beginning, halfway through and at the end of training), and approximately 20 hours of home practice). In brief, the GBSM training protocol is designed to maximize the potential for improving attention regulation skills and the goal-directed functions they support, applying mindfulness-based attention regulation training to practice in redirecting attention to goal-relevant processes especially in the context of distractions is emphasized throughout training. Participants are asked to identify realistic functional goals as feasible individual and group projects, and are then trained in goal management strategies on the functional task(s) of their choice.</description>
+        </group>
+        <group group_id="B2">
+          <title>Brain Health Education</title>
+          <description>Brain Health Education (EDU)&#xD;
+Brain Health Education: Brain Health Education (EDU) will involve 5-7 weeks of training (20 hours of group training (2 hour sessions, 2 days per week), 3 hours of individual training (1 hour at the beginning, halfway through and at the end of training), and approximately 20 hours of homework). The EDU intervention involves education in health and brain injury in a classroom format, with study materials for homework.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="21"/>
+            <count group_id="B2" value="14"/>
+            <count group_id="B3" value="35"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="21"/>
+                    <count group_id="B2" value="14"/>
+                    <count group_id="B3" value="35"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="43" spread="11"/>
+                    <measurement group_id="B2" value="43" spread="11"/>
+                    <measurement group_id="B3" value="43" spread="11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="21"/>
+                    <count group_id="B2" value="14"/>
+                    <count group_id="B3" value="35"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="18"/>
+                    <measurement group_id="B2" value="12"/>
+                    <measurement group_id="B3" value="30"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race and Ethnicity Not Collected</title>
+          <population>Race and Ethnicity were not collected from any participant.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="0"/>
+                    <count group_id="B2" value="0"/>
+                    <count group_id="B3" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="21"/>
+                    <count group_id="B2" value="14"/>
+                    <count group_id="B3" value="35"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="21"/>
+                    <measurement group_id="B2" value="14"/>
+                    <measurement group_id="B3" value="35"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change From Baseline on a Composite Measure (Z-score) of Attention, Working Memory, and Executive Functions</title>
+        <description>We computed a composite measure based upon the average of individuals' scores on commonly used neuropsychological tests of attention, working memory, and executive functions. To compute this composite score, we first scored individual performances on each neuropsychological measure utilizing published norms, adjusted for, when available, age, gender, ethnicity, and education levels. We then converted all resultant scores (e.g., T-scores, Standard Scores) to a common metric, z-scores. (Z-scores are a standardized unit of measurement, scaled in terms of standard deviation (SD) units. Thus, a z-score of 0 represents the mean; a z-score of 1 represents+1 SD above the mean; and a z-score of -1 represents -1 SD below the mean.) Finally, for each participant, z-scores derived from each separate neuropsychological test were averaged together to yield a final composite score. The composite score was the unit of analysis.</description>
+        <time_frame>Baseline, Within 2-3 weeks Post-intervention</time_frame>
+        <population>We lost a total of n=2 participants to attrition from baseline to follow-up. This included n=1 from the Goal-Oriented Attentional Self-regulation training and n=1 from the Brain Health Education.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Goal-oriented Attentional Self-regulation Training</title>
+            <description>Goal-oriented attentional self-regulation training (GOALS).&#xD;
+This will involve 5-7 weeks of training (20 hours of group training (2 hour sessions, 2 days per week), 3 hours of individual training (1 hour at the beginning, halfway through and at the end of training), and approximately 20 hours of home practice). In brief, the GBSM training protocol is designed to maximize the potential for improving attention regulation skills and the goal-directed functions they support, applying mindfulness-based attention regulation training to practice in redirecting attention to goal-relevant processes especially in the context of distractions is emphasized throughout training. Participants are asked to identify realistic functional goals as feasible individual and group projects, and are then trained in goal management strategies on the functional task(s) of their choice.</description>
+          </group>
+          <group group_id="O2">
+            <title>Brain Health Education</title>
+            <description>Brain Health Education (EDU)&#xD;
+Brain Health Education: Brain Health Education (EDU) will involve 5-7 weeks of training (20 hours of group training (2 hour sessions, 2 days per week), 3 hours of individual training (1 hour at the beginning, halfway through and at the end of training), and approximately 20 hours of homework). The EDU intervention involves education in health and brain injury in a classroom format, with study materials for homework.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline on a Composite Measure (Z-score) of Attention, Working Memory, and Executive Functions</title>
+          <description>We computed a composite measure based upon the average of individuals' scores on commonly used neuropsychological tests of attention, working memory, and executive functions. To compute this composite score, we first scored individual performances on each neuropsychological measure utilizing published norms, adjusted for, when available, age, gender, ethnicity, and education levels. We then converted all resultant scores (e.g., T-scores, Standard Scores) to a common metric, z-scores. (Z-scores are a standardized unit of measurement, scaled in terms of standard deviation (SD) units. Thus, a z-score of 0 represents the mean; a z-score of 1 represents+1 SD above the mean; and a z-score of -1 represents -1 SD below the mean.) Finally, for each participant, z-scores derived from each separate neuropsychological test were averaged together to yield a final composite score. The composite score was the unit of analysis.</description>
+          <population>We lost a total of n=2 participants to attrition from baseline to follow-up. This included n=1 from the Goal-Oriented Attentional Self-regulation training and n=1 from the Brain Health Education.</population>
+          <units>Change to Z (composite) score</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="20"/>
+                <count group_id="O2" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.26" spread=".27"/>
+                    <measurement group_id="O2" value=".01" spread=".25"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Functional Evaluations: Change From Baseline on the Goal Processing Scale</title>
+        <description>Observed measures of functional performance on complex tasks were assessed for the GOALS and Brain Health Education study. The overall composite score comprises scores for planning, initiation, self-monitoring, maintenance of attention, sequencing and switching, divergent thinking, execution, learning and memory. Scores range from 1-10. Changes were calculated from pre-to post-training, and higher scores indicate improvement in functioning.</description>
+        <time_frame>Baseline, 2-3 Weeks Post-intervention</time_frame>
+        <population>This measurement was used for the comparison of Goal-oriented attentional self-regulation training and Brain Health Education interventions. Also, we lost a total of n=2 participants to attrition from baseline to follow-up. This included n=1 from the Goal-Oriented Attentional Self-regulation training and n=1 from the Brain Health Education.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Goal-oriented Attentional Self-regulation Training</title>
+            <description>Goal-oriented attentional self-regulation training (GOALS).&#xD;
+This will involve 5-7 weeks of training (20 hours of group training (2 hour sessions, 2 days per week), 3 hours of individual training (1 hour at the beginning, halfway through and at the end of training), and approximately 20 hours of home practice). In brief, the GBSM training protocol is designed to maximize the potential for improving attention regulation skills and the goal-directed functions they support, applying mindfulness-based attention regulation training to practice in redirecting attention to goal-relevant processes especially in the context of distractions is emphasized throughout training. Participants are asked to identify realistic functional goals as feasible individual and group projects, and are then trained in goal management strategies on the functional task(s) of their choice.</description>
+          </group>
+          <group group_id="O2">
+            <title>Brain Health Education</title>
+            <description>Brain Health Education (EDU)&#xD;
+Brain Health Education: Brain Health Education (EDU) will involve 5-7 weeks of training (20 hours of group training (2 hour sessions, 2 days per week), 3 hours of individual training (1 hour at the beginning, halfway through and at the end of training), and approximately 20 hours of homework). The EDU intervention involves education in health and brain injury in a classroom format, with study materials for homework.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Functional Evaluations: Change From Baseline on the Goal Processing Scale</title>
+          <description>Observed measures of functional performance on complex tasks were assessed for the GOALS and Brain Health Education study. The overall composite score comprises scores for planning, initiation, self-monitoring, maintenance of attention, sequencing and switching, divergent thinking, execution, learning and memory. Scores range from 1-10. Changes were calculated from pre-to post-training, and higher scores indicate improvement in functioning.</description>
+          <population>This measurement was used for the comparison of Goal-oriented attentional self-regulation training and Brain Health Education interventions. Also, we lost a total of n=2 participants to attrition from baseline to follow-up. This included n=1 from the Goal-Oriented Attentional Self-regulation training and n=1 from the Brain Health Education.</population>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="20"/>
+                <count group_id="O2" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.05" spread="1.15"/>
+                    <measurement group_id="O2" value=".01" spread="0.25"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>6-12 weeks</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Goal-oriented Attentional Self-regulation Training</title>
+          <description>Goal-oriented attentional self-regulation training (GOALS).&#xD;
+This will involve 5-7 weeks of training (20 hours of group training (2 hour sessions, 2 days per week), 3 hours of individual training (1 hour at the beginning, halfway through and at the end of training), and approximately 20 hours of home practice). In brief, the GBSM training protocol is designed to maximize the potential for improving attention regulation skills and the goal-directed functions they support, applying mindfulness-based attention regulation training to practice in redirecting attention to goal-relevant processes especially in the context of distractions is emphasized throughout training. Participants are asked to identify realistic functional goals as feasible individual and group projects, and are then trained in goal management strategies on the functional task(s) of their choice.</description>
+        </group>
+        <group group_id="E2">
+          <title>Brain Health Education</title>
+          <description>Brain Health Education (EDU)&#xD;
+Brain Health Education: Brain Health Education (EDU) will involve 5-7 weeks of training (20 hours of group training (2 hour sessions, 2 days per week), 3 hours of individual training (1 hour at the beginning, halfway through and at the end of training), and approximately 20 hours of homework). The EDU intervention involves education in health and brain injury in a classroom format, with study materials for homework.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="21"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="14"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="21"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="14"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="21"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="14"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Anthony Chen, MD</name_or_title>
+      <organization>VA Northern California</organization>
+      <phone>925-372-2000</phone>
+      <email>anthony.chen@va.gov</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2181">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01682226</url>
+  </required_header>
+  <id_info>
+    <org_study_id>12-153</org_study_id>
+    <nct_id>NCT01682226</nct_id>
+  </id_info>
+  <brief_title>Cord Blood With T-Cell Depleted Haplo-identical Peripheral Blood Stem Cell Transplantation for Hematological Malignancies</brief_title>
+  <official_title>Myeloablative Unrelated Donor Cord Blood Transplantation With T-Cell Depleted Haplo-identical Peripheral Blood Stem Cells for Patients With High Risk Hematological Malignancies</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Memorial Sloan Kettering Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Memorial Sloan Kettering Cancer Center</source>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to find out whether the addition of blood stem cells from a&#xD;
+      close family member, when added to umbilical cord blood will make the transplant safer.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a phase 2 study to obtain an estimate of the speed of neutrophil recovery after&#xD;
+      myeloablative double-unit cord blood (CB) transplantation (CBT) with abrogation of prolonged&#xD;
+      cytopenia by the infusion of T-cell depleted peripheral blood stem cells (PBSC) from a&#xD;
+      haplo-identical family member. The CB graft will consist of two units from unrelated newborn&#xD;
+      donors and haplo-identical related PBSC. Candidates for this trial will include patients aged&#xD;
+      2-70 years with high-risk or advanced forms of hematologic malignancies for whom an&#xD;
+      allogeneic hematopoietic stem cell transplant is indicated and for whom no suitably human&#xD;
+      leukocyte antigen (HLA)-matched and readily available unrelated donor exists. Patients will&#xD;
+      receive myeloablative conditioning and cyclosporine-A/ mycophenolate mofetil. CB grafts will&#xD;
+      consist of two CB units 4-6/6 HLA-matched to the patient to augment graft cell dose and&#xD;
+      additional T-cell depleted PBSC from a haplo-identical donor. The aim of the haplo-identical&#xD;
+      PBSC graft is to facilitate transient engraftment and consequent abrogation of the prolonged&#xD;
+      cytopenia normally associated with CBT by providing a myeloid bridge until CB engraftment&#xD;
+      occurs.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">September 5, 2012</start_date>
+  <completion_date type="Actual">January 8, 2021</completion_date>
+  <primary_completion_date type="Actual">January 8, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percent of Engrafted Participants With Successful Neutrophil Recovery</measure>
+    <time_frame>Day 45</time_frame>
+    <description>The primary endpoint is neutrophil recovery ie the speed [median (range) days to recovery] and success [day 45 cumulative incidence percent].</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival</measure>
+    <time_frame>up to 6 years</time_frame>
+    <description>78 adult patients were transplanted and received protocol therapy and that patient number was analyzed.&#xD;
+Survival was analyzed in clinically meaningful patient groups according to having received protocol therapy, the diagnosis and patient comorbidity and have been published separately from the primary endpoint of engraftment.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">84</enrollment>
+  <condition>Leukemia</condition>
+  <condition>Myelodysplastic Syndrome</condition>
+  <condition>Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>A: standard risk group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This is a 2 arm phase 2 study to obtain an estimate of the speed of neutrophil recovery after myeloablative CBT with abrogation of prolonged cytopenia by infusion of haploidentical family member T-cell depleted PBSC in patients with high-risk or advanced hematologic malignancies.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>B: high risk group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This is a 2 arm phase 2 study to obtain an estimate of the speed of neutrophil recovery after myeloablative CBT with abrogation of prolonged cytopenia by infusion of haploidentical family member T-cell depleted PBSC in patients with high-risk or advanced hematologic malignancies.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>CliniMACS Fractionation system (Arm A)</intervention_name>
+    <description>7 days before transplant Admit to hospital. Line insertion 6 days before transplant Fludarabine (chemotherapy) Cyclophosphamide (chemotherapy) 5 days before transplant Fludarabine Thiotepa 4 days before transplant Fludarabine Thiotepa 3 days before transplant Fludarabine Start CSA and MMF 2 days before transplant Fludarabine and TBI (radiation therapy)&#xD;
+1 day before transplant TBI (radiation therapy) Day of transplant Transplant day (infuse cord blood) Day after cord blood transplant Infuse family member stem cells 7 days after transplant Start G-CSF</description>
+    <arm_group_label>A: standard risk group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>CliniMACS Fractionation system (Arm B)</intervention_name>
+    <description>8 days before transplant Admit to hospital. Line insertion 7 days before transplant Fludarabine 6 days before transplant Fludarabine Cyclophosphamide 5 days before transplant Fludarabine Cyclophosphamide 4 days before transplant Rest 3 days before transplant TBI x 3 Start CSA and MMF 2 days before transplant TBI x 3&#xD;
+1 day before transplant TBI x 3 Day of transplant TBI x 2 then infuse cord blood&#xD;
+1 day after the cord blood transplant Infuse family member stem cells 7 days after transplant Start G-CSF</description>
+    <arm_group_label>B: high risk group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Haploidentical donor CD34+ cells</intervention_name>
+    <description>CB grafts will consist of two CB units 4-6/6 HLA-matched to the patient to augment graft cell dose and additional T-cell depleted PBSC from a haplo-identical donor.</description>
+    <arm_group_label>A: standard risk group</arm_group_label>
+    <arm_group_label>B: high risk group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Note: protocol eligible patients according to the criteria outlined below will then be&#xD;
+        divided according to age, diagnosis, performance status, organ function, prior&#xD;
+        transplantation, hematopoietic cell transplant comorbidity index (HCT-CI)23, and CB TNC&#xD;
+        dose into those who are at standard risk (Arm A) or high risk (Arm B) for early&#xD;
+        post-transplant death for the purposes of applying stopping rules and outcome analysis.&#xD;
+&#xD;
+        Age:&#xD;
+&#xD;
+        o 2 - 70 years. Diagnosis of severe aplastic anemia: eligibility to be discussed with PI&#xD;
+        and Service Chief. Such patients will be assessed in Arm B.&#xD;
+&#xD;
+        Diagnosis of high risk hematological malignancy:&#xD;
+&#xD;
+        Any acute leukemia in first complete remission (CR) considered at high risk for relapse, or&#xD;
+        second or third CR, or relapse/refractory less than 10% blasts in bone marrow, or aplasia&#xD;
+        post-therapy. This includes de novo acute leukemia or acute leukemia that is therapy&#xD;
+        related or arising from an antecedent hematologic disorder including myelodysplasia (MDS),&#xD;
+        chronic myeloid leukemia (CML) or other myeloproliferative disorder.&#xD;
+&#xD;
+          -  Juvenile myelomonocytic leukemia (JMML) in CR, or relapse with less than 10% bone&#xD;
+             marrow blasts.&#xD;
+&#xD;
+          -  CML with tyrosine kinase inhibitor failure in chronic or accelerated phase or evolved&#xD;
+             to acute leukemia.&#xD;
+&#xD;
+          -  MDS or other myeloproliferative disorder with life-threatening cytopenia(s), and/or&#xD;
+             red blood cell or platelet transfusion dependence, or patients with aplasia, or&#xD;
+             patients with excess blasts less than 10% blasts in the bone marrow at work-up.&#xD;
+&#xD;
+          -  Aggressive lymphoma: patients in CR1 with disease at high risk of relapse or CR2-3.&#xD;
+&#xD;
+          -  Indolent lymphoma or chronic lymphocytic leukemia (CLL): any disease status provided&#xD;
+             any transformed component is in CR.&#xD;
+&#xD;
+          -  Hodgkin's lymphoma that is primary refractory or relapsed not suitable for other&#xD;
+             therapy and in PR or CR or small volume stable disease.&#xD;
+&#xD;
+        Performance status:&#xD;
+&#xD;
+          -  Karnofsky score ≥ 70 or Lansky score ≥ 70.&#xD;
+&#xD;
+             • Organ function:&#xD;
+&#xD;
+          -  Resting left ventricular ejection fraction (LVEF) ≥ 50%.&#xD;
+&#xD;
+          -  Spirometry (FEV1 and FVC) &amp; corrected DLCO ≥ 50% predicted. In small children use&#xD;
+             history and physical and CT scan to determine pulmonary status.&#xD;
+&#xD;
+          -  Total bilirubin ≤ to 1.5 mg/dl (unless benign congenital elevated bilirubin); ALT ≤ 3&#xD;
+             x upper limit of normal (ULN).&#xD;
+&#xD;
+          -  Calculated creatinine (calc. creat.) clearance ≥ to 60 ml/min.&#xD;
+&#xD;
+          -  Albumin ≥ 3.0.&#xD;
+&#xD;
+        Graft:&#xD;
+&#xD;
+        o Cryopreserved dose will be ≥ 1.5 x 10^7 TNC/kilogram in each unit for double unit CB&#xD;
+        grafts. This will be the CB graft for the majority of patients.&#xD;
+&#xD;
+        In select patients with access to CB units that have high TNC (&gt; 5.0 x 10^7/kg), and are&#xD;
+        from good quality CB banks a single unit could be considered with a back-up CB unit on&#xD;
+        standby.&#xD;
+&#xD;
+          -  In select patients who have a very poor search and only have one suitable CB unit&#xD;
+             available, this unit could be given as a single unit. This unit must have a TNC ≥ 2.0&#xD;
+             x 10^7 TNC/kilogram and a CD34+ cell dose ≥ 1.5 x 10^5 CD34+/kilogram.&#xD;
+&#xD;
+          -  Haploidentical donors who are 5/10 or better but not HLA-identical will be used as&#xD;
+             outlined in section 6.4.&#xD;
+&#xD;
+        Assignment of conditioning intensity (high dose vs reduced intensity) will be based on&#xD;
+        patient disease status, age, extent of prior therapy, organ function and presence of&#xD;
+        significant comorbidities as outlined in Section 9.2.&#xD;
+&#xD;
+        For the purposes of analysis (not assignment of preparative regimen), patients will be&#xD;
+        assigned to Arms A and B as summarized below according to their risk of early&#xD;
+        post-transplant death.&#xD;
+&#xD;
+        Eligible patients who fulfill all of the following criteria will be assigned to risk Arm A:&#xD;
+&#xD;
+        Age 2-49 years Diagnosis Any acute leukemia in CR1 - CR2 (includes therapy-related and&#xD;
+        arising from MDS or myeloproliferative disease). JMML in CR. CML with TKI failure &amp; &lt; 5%&#xD;
+        blasts. MDS with &lt; 5% blasts at work-up. Lymphoma (including CLL) CR1-2.&#xD;
+&#xD;
+        Performance Status Karnofsky ≥ 80; Lansky ≥ 80 Organ Function Resting LVEF ≥ to 60%&#xD;
+        Spirometry (FEV1 and FVC) &amp; corrected DLCO ≥ 80% predicted. Total bilirubin normal; ALT&#xD;
+        normal-1.4 x ULN. Calc. creat. clearance ≥ 70 ml/min.&#xD;
+&#xD;
+        Prior HSC Transplant No HCT-CI score^23 0-2 Pre-thaw TNC Dose Each unit ≥ to 2.0 x 10^7/kg&#xD;
+&#xD;
+        Eligible patients who meet any of the following criteria will be assigned to risk Arm B:&#xD;
+&#xD;
+        Age 50-70 years Diagnosis Any acute leukemia in relapse/ refractory disease in BM or&#xD;
+        circulating blasts or CR3 or aplasia. JMML not in CR. MDS with aplasia or ≥ 5% blasts.&#xD;
+        Lymphoma (including CLL) with disease other than CR1-2. Severe myelofibrosis of the bone&#xD;
+        marrow Performance Status Karnofsky 70; Lansky 70 Organ Function LVEF 50-59%. Spirometry &amp;&#xD;
+        corrected DLCO 50-79% predicted. Total bilirubin 1.1-1.5 mg/dl; ALT 1.5-3 x ULN. Calc.&#xD;
+        creat. clearance 60-69 ml/min. Prior HSC Transplant Yes HCT-CI score23 3 or higher Pre-thaw&#xD;
+        TNC Dose Either or both units 1.5-1.9 x 10^7/kg.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Active CNS leukemia.&#xD;
+&#xD;
+               -  Any acute leukemia (including prior myelodysplasia or CML blast crisis) with&#xD;
+                  morphologic relapse or persistent disease ≥ 10% blasts in the BM, or doubling of&#xD;
+                  the blasts in the blood in the 2 weeks preceding admission, or need for&#xD;
+                  hydroxyurea in the 2 weeks prior to admission, or uncontrolled extra-medullary&#xD;
+                  disease.&#xD;
+&#xD;
+               -  Two prior stem cell transplants of any kind.&#xD;
+&#xD;
+               -  One prior autologous stem cell transplant within the preceding 12 months.&#xD;
+&#xD;
+               -  One prior allogeneic stem cell transplant within the preceding 24 months.&#xD;
+&#xD;
+               -  Prior radiation therapy with 400 cGy or more of TBI. If 200 cGy of prior TBI then&#xD;
+                  only 400 CGy of TBI on this protocol is permitted.&#xD;
+&#xD;
+               -  Uncontrolled viral, bacteria or fungal infection at time of study enrollment.&#xD;
+&#xD;
+               -  Sero-positive or NAT positive for HIV.&#xD;
+&#xD;
+               -  Females who are pregnant or breast feeding.&#xD;
+&#xD;
+               -  Patient or guardian unable to give informed consent or unable to comply with the&#xD;
+                  treatment protocol including appropriate supportive care, follow-up, and research&#xD;
+                  tests&#xD;
+&#xD;
+        Cord Blood Grafts:&#xD;
+&#xD;
+        Units will be selected based on the HLA-match to the patient and individual cell doses of&#xD;
+        the units according to current MSKCC unit selection criteria. HLA-testing will be done&#xD;
+        using molecular techniques. The standard cord blood graft for this protocol will consist of&#xD;
+        2 units as a double unit graft although single units are permitted. Each unit will be at&#xD;
+        least 4 of 6 HLA-A, -B antigen and -DRB1 allele matched with the recipient. Each unit of a&#xD;
+        double unit graft will have a cryopreserved dose of at least 1.5 x 10^7 TNC/recipient body&#xD;
+        weight (TNC/kg). In the occasional patient with a large well matched good quality single&#xD;
+        unit or the rare patient with only one unit of suitable match and dose characteristics the&#xD;
+        cord blood graft can consist of a single unit as described in section 6.1 .&#xD;
+&#xD;
+        Haploidentical Donor Inclusion Criteria:&#xD;
+&#xD;
+        A HLA-haploidentical related donor will be selected as available as per standard MSKCC&#xD;
+        Adult BMT guidelines. Mismatched family members who are matched at more than 5 of 10&#xD;
+        HLA-loci are permitted. Factors to be taken into account when selecting a haplo-identical&#xD;
+        donor will include donor age, weight, health status and comorbidities, compliance, venous&#xD;
+        access, recipent donor specific HLA-antibody status, and NK cell alloreactivity.&#xD;
+&#xD;
+          -  The donor must meet criteria outlined in the FACT-approved SOP for &quot;DONOR EVALUATION&#xD;
+             AND SELECTION FOR ALLOGENEIC TRANSPLANTATION&quot; in the Blood and Marrow Transplant&#xD;
+             Program Manual, document E-1 (see attached, or link to&#xD;
+             URL:(https://one.mskcc.org/sites/pub/corp/bmt/Documents/D2_SOP_Donor%20Selection%20and&#xD;
+             %20Evaluation_04_2015.pdf)&#xD;
+&#xD;
+          -  The donor must have adequate peripheral venous catheter access for leukapheresis or&#xD;
+             must agree to placement of a central catheter.&#xD;
+&#xD;
+          -  The donor must be &gt;25 kg in weight.&#xD;
+&#xD;
+        Haploidentical Donor Exclusion Criteria:&#xD;
+&#xD;
+        Evidence of active infection (including active urinary tract infection, or upper&#xD;
+        respiratory tract infection) or evidence of viral hepatitis exposure on screening unless&#xD;
+        only HbsAb+ and HBV DNA negative.&#xD;
+&#xD;
+          -  Medical or physical reason which makes the donor unlikely to tolerate or cooperate&#xD;
+             with growth factor therapy and leukapheresis.&#xD;
+&#xD;
+          -  Factors which place the donor at increased risk for complications from leukapheresis&#xD;
+             or G-CSF therapy (e.g., active autoimmune disease, sickle cell trait, symptomatic&#xD;
+             coronary artery disease requiring therapy).&#xD;
+&#xD;
+          -  Pregnancy (positive serum or urine β-HCG) or breastfeeding. Women of childbearing age&#xD;
+             must avoid becoming pregnant while on the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>2 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Juliet Barker, M.B.B.S.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Memorial Sloan Kettering Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.mskcc.org/</url>
+    <description>Memorial Sloan Kettering Cancer Center</description>
+  </link>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>September 6, 2012</study_first_submitted>
+  <study_first_submitted_qc>September 6, 2012</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 10, 2012</study_first_posted>
+  <results_first_submitted>January 7, 2022</results_first_submitted>
+  <results_first_submitted_qc>July 12, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">August 5, 2022</results_first_posted>
+  <last_update_submitted>July 12, 2022</last_update_submitted>
+  <last_update_submitted_qc>July 12, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 5, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>CYCLOPHOSPHAMIDE (CYTOXAN)</keyword>
+  <keyword>CYCLOSPORINE</keyword>
+  <keyword>FLUDARABINE</keyword>
+  <keyword>G-CSF</keyword>
+  <keyword>MYCOPHENOLATE MOFETIL (MMF)</keyword>
+  <keyword>Cord Blood Transplantation</keyword>
+  <keyword>CliniMACS</keyword>
+  <keyword>12-153</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hematologic Neoplasms</mesh_term>
+    <mesh_term>Myelodysplastic Syndromes</mesh_term>
+  </condition_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>January 29, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/26/NCT01682226/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>Patients were accrued to this protocol in 2 arms based on the patients risk of transplant-related mortality. The division into 2 arms was for the purposes of the creation of clinically appropriate stopping rules to promote access to this therapy while ensuring safety. As the safety stopping rules were not reached in either arm all patients were combined for the analysis and analysis by individual arms was not indicated and not performed.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Adult Haplo-dCBT Recipients</title>
+          <description>Participants included adult patients with high-risk hematologic malignancies without a suitable human leukocyte antigen (HLA)-matched related or unrelated donor, who had a suitable CB graft and a suitable haplo-identical donor.&#xD;
+Patients were accrued to this protocol in 2 arms based on the patients risk of transplant-related mortality. The division into 2 arms was for the purposes of the creation of clinically appropriate stopping rules to promote access to this therapy while ensuring safety. As the safety stopping rules were not reached in either arm all patients were combined for the analysis and analysis by individual arms was not indicated and not performed.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="84"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="78"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="6"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Participants were pediatric subjects and not adults subjects</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Participants did not receive treatment</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Participants received a transplant under a different protocol</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Of the 84 participants who were consented, only 78 participants received treatment and completed the study. See Overall Participants for detailed descriptions on the 6 participants who are not included in the Baseline Participants.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Adult Haplo-dCBT Recipients</title>
+          <description>Participants included adult patients with high-risk hematologic malignancies without a suitable human leukocyte antigen (HLA)-matched related or unrelated donor, who had a suitable CB graft and a suitable haplo-identical donor.</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="78"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="49.5" lower_limit="18" upper_limit="68"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="37"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="41"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="72"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="59"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="78"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Percent of Engrafted Participants With Successful Neutrophil Recovery</title>
+        <description>The primary endpoint is neutrophil recovery ie the speed [median (range) days to recovery] and success [day 45 cumulative incidence percent].</description>
+        <time_frame>Day 45</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Hematopoietic Engraftment Participants</title>
+            <description>Adult participants who underwent haplodCBT</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percent of Engrafted Participants With Successful Neutrophil Recovery</title>
+          <description>The primary endpoint is neutrophil recovery ie the speed [median (range) days to recovery] and success [day 45 cumulative incidence percent].</description>
+          <units>% w/incidence of neutrophil recovery</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="75"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="96" lower_limit="87" upper_limit="99"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Overall Survival</title>
+        <description>78 adult patients were transplanted and received protocol therapy and that patient number was analyzed.&#xD;
+Survival was analyzed in clinically meaningful patient groups according to having received protocol therapy, the diagnosis and patient comorbidity and have been published separately from the primary endpoint of engraftment.</description>
+        <time_frame>up to 6 years</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Hematopoietic Engraftment Participants</title>
+            <description>Adult participants who underwent haplodCBT</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Overall Survival</title>
+          <description>78 adult patients were transplanted and received protocol therapy and that patient number was analyzed.&#xD;
+Survival was analyzed in clinically meaningful patient groups according to having received protocol therapy, the diagnosis and patient comorbidity and have been published separately from the primary endpoint of engraftment.</description>
+          <units>years</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="78"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.75" lower_limit="1" upper_limit="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Up to 6 years</time_frame>
+      <desc>The research question of this clinical trial was whether the addition of CD34+ selected haploidentical cells to a standard double unit cord blood graft. There were no serious adverse events that were related to the protocol's treatment intervention, the addition of the haplo-identical cells.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Adult Haplo-dCBT Recipients</title>
+          <description>Participants included adult patients with high-risk hematologic malignancies without a suitable human leukocyte antigen (HLA)-matched related or unrelated donor, who had a suitable CB graft and a suitable haplo-identical donor.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="21" subjects_at_risk="78"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="21" subjects_at_risk="78"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Death- NOS</sub_title>
+                <counts group_id="E1" subjects_affected="21" subjects_at_risk="78"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="78"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Juliet Barker, MBBS</name_or_title>
+      <organization>Memorial Sloan Kettering Cancer Center</organization>
+      <phone>646-608-3756</phone>
+      <email>barkerj@mskcc.org</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

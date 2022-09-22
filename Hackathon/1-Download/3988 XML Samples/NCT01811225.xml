@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2157">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01811225</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2012NTLS018</org_study_id>
+    <nct_id>NCT01811225</nct_id>
+  </id_info>
+  <brief_title>Smoking, Sex Hormones, and Pregnancy</brief_title>
+  <official_title>Smoking, Sex Hormones, and Pregnancy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Minnesota</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Minnesota</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The investigators aim to (1) examine the association between levels of progesterone (Prog),&#xD;
+      allopregnanolone (Allo), and the estradiol/progesterone (E2/P) ratios with smoking-related&#xD;
+      symptomatology during ad libitum smoking and (2) determine the association between Prog,&#xD;
+      Allo, and E2/P with the changes in smoking-related symptomatology and response to nicotine&#xD;
+      following overnight abstinence&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The sample population will consist of oral contraceptive users, both &quot;low&quot; and &quot;high&quot; dose&#xD;
+      levels of exogenous progesterone with a consistent dose of exogenous estrogen. Participants&#xD;
+      will complete data collection procedures including providing saliva (cortisol to measure&#xD;
+      stress), urine (cotinine and 3-Hydroxycotinine to measure nicotine exposure), and blood&#xD;
+      (progesterone, allopregnanolone, and estradiol) samples, as well as ecological momentary&#xD;
+      assessments (EMA) daily for seven-days. Participants will also complete a 3-hour smoking&#xD;
+      topography lab session after overnight abstinence and a 4.5-hour nicotine nasal spray lab&#xD;
+      session after a 14-hour abstinence. These sessions will contain a nicotine challenge via&#xD;
+      smoking a cigarette or nasal spray with timed-series physiological, subjective, and&#xD;
+      behavioral responses.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>December 2012</start_date>
+  <completion_date type="Actual">June 2017</completion_date>
+  <primary_completion_date type="Actual">June 2017</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Smoking Urges</measure>
+    <time_frame>after overnight abstinence on day 8</time_frame>
+    <description>Questionnaire on Smoking Urges-Brief (QSU-Brief): This ten-item version of the original form (QSU) was developed by Tiffany and Drobes and has an excellent level of reliability (α = .97). Total QSU-Brief. Scores can average between 1-7. A higher scores means more urges.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Positive and Negative Affect Scale Following Overnight Abstinence</measure>
+    <time_frame>after overnight abstinence on day 8</time_frame>
+    <description>Positive and Negative Affect Scale (PANAS): Participants rate 20 words associated with positive or negative affect using a five-point Likert-type scale. This scale has been shown to have high internal consistency. Positive PANAS scores can range from 10-50. A higher score means greater positive affect. Negative PANAS score can range from 10-50. A higher score means greater negative affect.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Cohen Perceived Stress Scale</measure>
+    <time_frame>after overnight abstinence on day 8</time_frame>
+    <description>Cohen Perceived Stress Scale (PSS): This ten-item questionnaire has been validated in a variety of populations including pregnant and postpartum women. It uses five-items to assess ten questions resulting in two factors negative feelings and inability to handle stress. It has high internal reliability (alpha = 0.75). Score range from 0-56. A higher score means more perceived stress.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">95</enrollment>
+  <condition>Nicotine Dependence</condition>
+  <condition>Contraception</condition>
+  <arm_group>
+    <arm_group_label>Low-Dose Contraceptive, then High-Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Females, 18-35 years old, non-pregnant, using oral contraceptive for at least the last 3 months before enrollment will be given Tri-Sprintec and generic Prometrium.&#xD;
+Participants in this arm will begin with the &quot;low&quot; dose progesterone, which is seven days of placebo Tri-sprintec + placebo generic Prometrium twice daily (7AM and 7PM). Then participants in this arm will move to the &quot;high&quot; dose progesterone, which is seven days of placebo Tri-Sprintec + 200mg of generic Prometrium twice daily (7AM and 7PM).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High-Dose Contraceptive, then Low-Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Females, 18-35 years old, non-pregnant, using oral contraceptive for at least the last 3 months before enrollment will be given Tri-Sprintec and generic Prometrium.&#xD;
+Participants in this arm will begin with the &quot;high&quot; progesterone dose, which is seven days of placebo Tri-Sprintec + 200mg of generic Prometrium twice daily (7AM and 7PM). Then participants in this arm will move to the &quot;low&quot; dose progesterone, which is seven days of placebo Tri-sprintec + placebo generic Prometrium twice daily (7AM and 7PM).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Low-dose Progesterone</intervention_name>
+    <description>The &quot;low&quot; progesterone dose is seven days of placebo Tri-sprintec + placebo generic Prometrium twice a day (7AM and 7PM).</description>
+    <arm_group_label>High-Dose Contraceptive, then Low-Dose</arm_group_label>
+    <arm_group_label>Low-Dose Contraceptive, then High-Dose</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>High-dose Progesterone</intervention_name>
+    <description>The &quot;high&quot; progesterone dose is seven days of placebo Tri-Sprintec + 200mg of generic Prometrium twice a day (7AM and 7PM).</description>
+    <arm_group_label>High-Dose Contraceptive, then Low-Dose</arm_group_label>
+    <arm_group_label>Low-Dose Contraceptive, then High-Dose</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  currently taking oral contraceptives&#xD;
+&#xD;
+          -  English fluency&#xD;
+&#xD;
+          -  Ability to provide informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  use of progestin only contraceptive&#xD;
+&#xD;
+          -  pregnancy&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>35 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sharon S. Allen, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Masonic Cancer Center, University of Minnesota</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Masonic Cancer Center, University of Minnesota</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55455</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>February 21, 2013</study_first_submitted>
+  <study_first_submitted_qc>March 12, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">March 14, 2013</study_first_posted>
+  <results_first_submitted>October 18, 2018</results_first_submitted>
+  <results_first_submitted_qc>October 21, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">November 13, 2020</results_first_posted>
+  <last_update_submitted>October 21, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 21, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 13, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Tobacco Use Disorder</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Progesterone</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>June 2, 2016</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/25/NCT01811225/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Low-Dose Contraceptive, Then High-Dose</title>
+          <description>Females, 18-35 years old, non-pregnant, using oral contraceptive for at least the last 3 months before enrollment will be given Tri-Sprintec and generic Prometrium.&#xD;
+Participants in this arm will begin with the &quot;low&quot; dose progesterone, which is seven days of placebo Tri-sprintec + placebo generic Prometrium twice daily (7AM and 7PM). Then participants in this arm will move to the &quot;high&quot; dose progesterone, which is seven days of placebo Tri-Sprintec + 200mg of generic Prometrium twice daily (7AM and 7PM).</description>
+        </group>
+        <group group_id="P2">
+          <title>High-Dose Contraceptive, Then Low-Dose</title>
+          <description>Females, 18-35 years old, non-pregnant, using oral contraceptive for at least the last 3 months before enrollment will be given Tri-Sprintec and generic Prometrium.&#xD;
+Participants in this arm will begin with the &quot;high&quot; progesterone dose, which is seven days of placebo Tri-Sprintec + 200mg of generic Prometrium twice daily (7AM and 7PM). Then participants in this arm will move to the &quot;low&quot; dose progesterone, which is seven days of placebo Tri-sprintec + placebo generic Prometrium twice daily (7AM and 7PM).</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Treatment Period 1</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="49"/>
+                <participants group_id="P2" count="46"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="24">53 completed one arm of the cross-over and 43 completed two arms of the cross-over</participants>
+                <participants group_id="P2" count="29"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="25"/>
+                <participants group_id="P2" count="17"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Adverse Event</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="3"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="12"/>
+                <participants group_id="P2" count="8"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>transporation</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>unable to remain smoke free overnight</title>
+              <participants_list>
+                <participants group_id="P1" count="10"/>
+                <participants group_id="P2" count="6"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+        <period>
+          <title>Treatment Period 2</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="24"/>
+                <participants group_id="P2" count="29"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="20"/>
+                <participants group_id="P2" count="23"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+                <participants group_id="P2" count="6"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>unable to remain smoke free overnight</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="4"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>This is cross-over study. Baseline data is presented as a pool of all participants at baseline.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>All Participants</title>
+          <description>All participants at baseline</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="70"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="70"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="25" lower_limit="18" upper_limit="36"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="70"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Black</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>White</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="41"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Native American</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Asian</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Mixed Race</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hawaiian/Pacific Islander</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="70"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in Smoking Urges</title>
+        <description>Questionnaire on Smoking Urges-Brief (QSU-Brief): This ten-item version of the original form (QSU) was developed by Tiffany and Drobes and has an excellent level of reliability (α = .97). Total QSU-Brief. Scores can average between 1-7. A higher scores means more urges.</description>
+        <time_frame>after overnight abstinence on day 8</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Low-Dose Contraceptive</title>
+            <description>Females, 18-35 years old, non-pregnant, using oral contraceptive for at least the last 3 months before enrollment will be given a low-dose contraceptive.&#xD;
+The &quot;low&quot; progesterone dose is seven days of placebo Tri-sprintec + placebo generic Prometrium twice a day (7AM and 7PM).</description>
+          </group>
+          <group group_id="O2">
+            <title>High-Dose Contraceptive</title>
+            <description>Females, 18-35 years old, non-pregnant, using oral contraceptive for at least the last 3 months before enrollment will be given a high-dose contraceptive.&#xD;
+The &quot;high&quot; progesterone dose is seven days of placebo Tri-Sprintec + 200mg of generic Prometrium twice a day (7AM and 7PM).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Smoking Urges</title>
+          <description>Questionnaire on Smoking Urges-Brief (QSU-Brief): This ten-item version of the original form (QSU) was developed by Tiffany and Drobes and has an excellent level of reliability (α = .97). Total QSU-Brief. Scores can average between 1-7. A higher scores means more urges.</description>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="34"/>
+                <count group_id="O2" value="36"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.0" spread="1.4"/>
+                    <measurement group_id="O2" value="5.5" spread="2.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Positive and Negative Affect Scale Following Overnight Abstinence</title>
+        <description>Positive and Negative Affect Scale (PANAS): Participants rate 20 words associated with positive or negative affect using a five-point Likert-type scale. This scale has been shown to have high internal consistency. Positive PANAS scores can range from 10-50. A higher score means greater positive affect. Negative PANAS score can range from 10-50. A higher score means greater negative affect.</description>
+        <time_frame>after overnight abstinence on day 8</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Low-Dose Contraceptive</title>
+            <description>Females, 18-35 years old, non-pregnant, using oral contraceptive for at least the last 3 months before enrollment will be given a low-dose contraceptive.&#xD;
+The &quot;low&quot; progesterone dose is seven days of placebo Tri-sprintec + placebo generic Prometrium twice a day (7AM and 7PM).</description>
+          </group>
+          <group group_id="O2">
+            <title>High-Dose Contraceptive</title>
+            <description>Females, 18-35 years old, non-pregnant, using oral contraceptive for at least the last 3 months before enrollment will be given a high-dose contraceptive.&#xD;
+The &quot;high&quot; progesterone dose is seven days of placebo Tri-Sprintec + 200mg of generic Prometrium twice a day (7AM and 7PM).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Positive and Negative Affect Scale Following Overnight Abstinence</title>
+          <description>Positive and Negative Affect Scale (PANAS): Participants rate 20 words associated with positive or negative affect using a five-point Likert-type scale. This scale has been shown to have high internal consistency. Positive PANAS scores can range from 10-50. A higher score means greater positive affect. Negative PANAS score can range from 10-50. A higher score means greater negative affect.</description>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="34"/>
+                <count group_id="O2" value="36"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Positive Affect</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="26.21" lower_limit="10" upper_limit="50"/>
+                    <measurement group_id="O2" value="24.09" lower_limit="10" upper_limit="50"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Negative Affect</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="17.01" lower_limit="10" upper_limit="42"/>
+                    <measurement group_id="O2" value="15.41" lower_limit="10" upper_limit="37"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Cohen Perceived Stress Scale</title>
+        <description>Cohen Perceived Stress Scale (PSS): This ten-item questionnaire has been validated in a variety of populations including pregnant and postpartum women. It uses five-items to assess ten questions resulting in two factors negative feelings and inability to handle stress. It has high internal reliability (alpha = 0.75). Score range from 0-56. A higher score means more perceived stress.</description>
+        <time_frame>after overnight abstinence on day 8</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Low-Dose Contraceptive</title>
+            <description>Females, 18-35 years old, non-pregnant, using oral contraceptive for at least the last 3 months before enrollment will be given a low-dose contraceptive.&#xD;
+The &quot;low&quot; progesterone dose is seven days of placebo Tri-sprintec + placebo generic Prometrium twice a day (7AM and 7PM).</description>
+          </group>
+          <group group_id="O2">
+            <title>High-Dose Contraceptive</title>
+            <description>Females, 18-35 years old, non-pregnant, using oral contraceptive for at least the last 3 months before enrollment will be given a high-dose contraceptive.&#xD;
+The &quot;high&quot; progesterone dose is seven days of placebo Tri-Sprintec + 200mg of generic Prometrium twice a day (7AM and 7PM).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Cohen Perceived Stress Scale</title>
+          <description>Cohen Perceived Stress Scale (PSS): This ten-item questionnaire has been validated in a variety of populations including pregnant and postpartum women. It uses five-items to assess ten questions resulting in two factors negative feelings and inability to handle stress. It has high internal reliability (alpha = 0.75). Score range from 0-56. A higher score means more perceived stress.</description>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="34"/>
+                <count group_id="O2" value="36"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="14" spread="4.3"/>
+                    <measurement group_id="O2" value="15" spread="3.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>AE were collected from oral contraceptive users over 3 months</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Low-Dose Contraceptive</title>
+          <description>Females, 18-35 years old, non-pregnant, using oral contraceptive for at least the last 3 months before enrollment will be given a low-dose contraceptive.&#xD;
+The &quot;low&quot; progesterone dose is seven days of placebo Tri-sprintec + placebo generic Prometrium twice a day (7AM and 7PM).</description>
+        </group>
+        <group group_id="E2">
+          <title>High-Dose Contraceptive</title>
+          <description>Females, 18-35 years old, non-pregnant, using oral contraceptive for at least the last 3 months before enrollment will be given a high-dose contraceptive.&#xD;
+The &quot;high&quot; progesterone dose is seven days of placebo Tri-Sprintec + 200mg of generic Prometrium twice a day (7AM and 7PM).</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="36"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="36"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="19" subjects_at_risk="34"/>
+                <counts group_id="E2" subjects_affected="17" subjects_at_risk="36"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Diarrhea</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="34"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="36"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Breast Tenderness or soreness</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="34"/>
+                <counts group_id="E2" events="4" subjects_affected="4" subjects_at_risk="36"/>
+              </event>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="36"/>
+              </event>
+              <event>
+                <sub_title>Dizzy lightheaded</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="34"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="36"/>
+              </event>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" events="7" subjects_affected="7" subjects_at_risk="34"/>
+                <counts group_id="E2" events="5" subjects_affected="5" subjects_at_risk="36"/>
+              </event>
+              <event>
+                <sub_title>Restless legs</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="36"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="36"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="34"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="36"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Cold and Sinus infection</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="34"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="36"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Pregnancy, puerperium and perinatal conditions</title>
+            <event_list>
+              <event>
+                <sub_title>pain</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="34"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="36"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="34"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="36"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Sharon Allen</name_or_title>
+      <organization>University of Minnesota</organization>
+      <phone>612-624-2446</phone>
+      <email>allen001@umn.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

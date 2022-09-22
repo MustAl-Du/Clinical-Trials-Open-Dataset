@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2142">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01862796</url>
+  </required_header>
+  <id_info>
+    <org_study_id>999913096</org_study_id>
+    <secondary_id>13-DK-N096</secondary_id>
+    <nct_id>NCT01862796</nct_id>
+  </id_info>
+  <brief_title>Predicting Adherence to a Heart-Healthy Diet in Lean and Obese Individuals</brief_title>
+  <official_title>Is Non-Adherence Unique to Weight-Loss? Predictors of Adherence to a Heart-Healthy Diet in Lean vs. Obese Individuals</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institutes of Health Clinical Center (CC)</source>
+  <brief_summary>
+    <textblock>
+      Background:&#xD;
+&#xD;
+      - Sticking to a diet plan can be difficult, but is important for many different health&#xD;
+      reasons. Some people seem to have a harder time following and sticking to a diet plan than&#xD;
+      others. It is not clear whether people of different weights (lean or obese) might have&#xD;
+      differences in the way they adhere to diet plans. Researchers want to study three different&#xD;
+      groups of people based on their body mass index (BMI), which measures people based on their&#xD;
+      weight and height. The study will place the participants on a 6-week diet and see how well&#xD;
+      they follow the diet. The information from this study may help develop better weight-loss&#xD;
+      plans and healthy diet ideas.&#xD;
+&#xD;
+      Objectives:&#xD;
+&#xD;
+        -  To understand what factors affect adherence to a diet plan.&#xD;
+&#xD;
+        -  To collect information for future studies that may improve people's ability to stick to&#xD;
+           diets.&#xD;
+&#xD;
+      Eligibility:&#xD;
+&#xD;
+      - Individuals at least 18 years of age who are lean (BMI between 18.5 and 25) or obese (BMI&#xD;
+      greater than 30).&#xD;
+&#xD;
+      Design:&#xD;
+&#xD;
+        -  Participants will be screened with a physical exam and medical history. Blood and urine&#xD;
+           samples will be collected. They will have a full-body scan to measure fat and muscle.&#xD;
+           They will also answer questions on eating behaviors, mood, and desire to change eating&#xD;
+           patterns.&#xD;
+&#xD;
+        -  Participants will be separated into three groups. Each group will have a different diet.&#xD;
+           The lean group will have a heart-healthy diet designed to maintain the same weight. One&#xD;
+           of the obese groups will also have a heart-healthy diet designed to maintain the same&#xD;
+           weight. The other obese group will have a heart-healthy weight loss diet. In all groups,&#xD;
+           all food will be provided by the study doctors. Participants should not eat any food&#xD;
+           other than that provided for the study.&#xD;
+&#xD;
+        -  Everyone will start with a 1-week food testing period to find the right number of&#xD;
+           calories for each group. After this first week, participants will attend one diet&#xD;
+           counseling session per week and will be contacted randomly once a week to check on the&#xD;
+           foods they have had in the past 24 hours. Participants will complete daily food diaries&#xD;
+           on paper as well as daily food records using a smart phone.&#xD;
+&#xD;
+        -  Participants will come to the clinic twice a week to pick up the diet food. On one of&#xD;
+           those days, they will also have their counseling session.&#xD;
+&#xD;
+        -  The study will last for 6 weeks. At the final study visit, participants will repeat the&#xD;
+           tests from the screening study.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Adherence, or &quot;sticking to your diet&quot; is important for successful initial weight loss and&#xD;
+      keeping off the weight over the long term (1). While early behavioral and dietary adherence&#xD;
+      have been associated with greater weight loss, sticking to a diet plan is difficult. It is&#xD;
+      not clear if adherence to any diet plan (even one which does not produce weight loss) is hard&#xD;
+      or whether people who are overweight have more difficulty with adhering to diet plans&#xD;
+      compared to people who are relatively lean.&#xD;
+&#xD;
+      The main aim of this study is to evaluate dietary adherence in 3 groups of individuals&#xD;
+      participating in a 6-week heart-healthy dietary intervention program. Two groups [1 (BMI &lt; 25&#xD;
+      kg/m(2)) and 2. Obese (BMI greater than or equal to 30 kg/m(2))] will receive a heart-healthy&#xD;
+      diet designed to maintain their weight, and the third group [3. Obese] will be given a&#xD;
+      heart-healthy diet that is 35% less than their daily calorie needs to lose weight.&#xD;
+      Participants will attend one counseling session per week and will be contacted randomly&#xD;
+      1x/week by study staff for completion of a 24-hour dietary recall. They will complete daily&#xD;
+      food diaries and daily records using smart-phones. Prior to starting the assigned&#xD;
+      heart-healthy dietary intervention, participants will complete questionnaires that include&#xD;
+      questions about how motivated they are to follow a diet, lose weight, and change eating&#xD;
+      patterns. These findings may help us understand what factors affect adherence, and help us&#xD;
+      design weight loss studies that improve people's ability to stick to diet interventions.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>May 31, 2013</start_date>
+  <completion_date type="Actual">May 22, 2018</completion_date>
+  <primary_completion_date type="Actual">May 22, 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Adherence Score</measure>
+    <time_frame>Average over 6 weeks</time_frame>
+    <description>An adherence score is calculated each week by summing 7 measurements of adherence and dividing by 21, the maximum score, with range from 0 (no adherence) to 1 (perfectly adherent). For each of the 7 measures a higher score means better adherence: [1] Attendance (0-2), [2] Food diaries (0-3), [3] 24-hour food recall via interview (0-3), [4] computer survey (0-3), [5] 24-hour food recall via interview (0-3), [6] Ecological momentary assessment (0-6), and [7] On time arrival for session (0-1). The final score is calculated as the average of the six weekly scores.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Weight From Baseline to 6 Weeks</measure>
+    <time_frame>6 weeks</time_frame>
+    <description>Weight loss from baseline, calculated as weight at 6 weeks - weight at baseline</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">100</enrollment>
+  <condition>Obesity</condition>
+  <condition>Overweight</condition>
+  <arm_group>
+    <arm_group_label>Obese underfeeding (UF)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Obese randomized to received a 35% calorie reduced diet</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Obese weight maintaining (WMEN)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Randomized to receive a weight-maintaining diet</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Lean weight maintaining (WMEN)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Normal weight individuals receiving a weight-maintaining energy needs diet</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Underfeeding diet</intervention_name>
+    <description>Heart healthy diet with 35% reduced calories</description>
+    <arm_group_label>Obese underfeeding (UF)</arm_group_label>
+    <other_name>UF</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Weight maintaining diet</intervention_name>
+    <description>Heart healthy weight-maintaining diet</description>
+    <arm_group_label>Lean weight maintaining (WMEN)</arm_group_label>
+    <arm_group_label>Obese weight maintaining (WMEN)</arm_group_label>
+    <other_name>WMEN</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        -INCLUSION CRITERIA:&#xD;
+&#xD;
+          1. BMI&#xD;
+&#xD;
+               -  BMI greater than or equal to 30 kg/m(2) for the obese WMEN and UF groups but body&#xD;
+                  weight less than 350 pounds to accommodate the DXA scanner&#xD;
+&#xD;
+               -  BMI less than or equal to 25 kg/m(2) (and BMI greater than or equal to 18.5&#xD;
+                  kg/m(2)) for the lean WMEN group&#xD;
+&#xD;
+          2. Age greater than or equal to 18 years. Minors under the age of 18 will be excluded&#xD;
+             because growth and pubertal issues are significant parameters that could affect our&#xD;
+             outcomes and also because the time requirements of the study are such that they would&#xD;
+             interfere with school schedules. Participants must be healthy, as determined by&#xD;
+             medical history, physical examination, and laboratory tests.&#xD;
+&#xD;
+          3. Weight stable (plus or minus 2 percent) for last 3 months&#xD;
+&#xD;
+        EXCLUSION CRITERIA:&#xD;
+&#xD;
+        Candidates will be screened by phone to exclude those with BMI greater than or equal to 26&#xD;
+        kg/m(2) and BMI less than or equal to 29 kg/m(2), significant health problems, including&#xD;
+        cancer, hypertension, diabetes, current and past 3-month use of certain prescribed&#xD;
+        medications, especially those that could affect body weight, such as antidepressants and&#xD;
+        stimulants as well as smoking, or excess alcohol (greater than 3 drinks/d). Women must not&#xD;
+        be pregnant or lactating, and be at least 1 year postpartum. Candidates with a history of&#xD;
+        psychotic disorder or hospitalization for psychiatric illness within the past 1 year will&#xD;
+        not be eligible. They will need to be weight stable for the past 3 months (plus or minus 2&#xD;
+        percent) and cannot be in treatment for obesity or currently receiving psychotherapy.&#xD;
+        Individuals who meet criteria according to the phone screen will be invited to come to the&#xD;
+        unit for a screening visit and their screening sheets are placed in a locked filing&#xD;
+        cabinet. Forms from potential volunteers who are ineligible are shredded.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Marci Gluck, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>NIDDK, Phoenix</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85014</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Fappa E, Yannakoulia M, Pitsavos C, Skoumas I, Valourdou S, Stefanadis C. Lifestyle intervention in the management of metabolic syndrome: could we improve adherence issues? Nutrition. 2008 Mar;24(3):286-91. doi: 10.1016/j.nut.2007.11.008. Epub 2008 Jan 16. Review.</citation>
+    <PMID>18201869</PMID>
+  </reference>
+  <reference>
+    <citation>Flegal KM, Graubard BI, Williamson DF, Gail MH. Weight-associated deaths in the United States. J Womens Health (Larchmt). 2007 Nov;16(9):1368-70.</citation>
+    <PMID>18001195</PMID>
+  </reference>
+  <reference>
+    <citation>Kassirer JP, Angell M. Losing weight--an ill-fated New Year's resolution. N Engl J Med. 1998 Jan 1;338(1):52-4.</citation>
+    <PMID>9414332</PMID>
+  </reference>
+  <verification_date>May 22, 2018</verification_date>
+  <study_first_submitted>May 23, 2013</study_first_submitted>
+  <study_first_submitted_qc>May 23, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">May 24, 2013</study_first_posted>
+  <results_first_submitted>June 17, 2019</results_first_submitted>
+  <results_first_submitted_qc>July 23, 2019</results_first_submitted_qc>
+  <results_first_posted type="Actual">August 15, 2019</results_first_posted>
+  <last_update_submitted>July 23, 2019</last_update_submitted>
+  <last_update_submitted_qc>July 23, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 15, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Food Intake</keyword>
+  <keyword>Weight Loss</keyword>
+  <keyword>Compliance</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Overweight</mesh_term>
+  </condition_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>April 24, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/96/NCT01862796/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>100 participants were assessed for eligibility, 30 were ineligible and 9 did not complete the run-in phase. Sixty-one were assigned to groups.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Obese Underfeeding (UF)</title>
+          <description>Obese randomized to received a 35% calorie reduced diet&#xD;
+Underfeeding diet: Heart healthy diet with 35% reduced calories</description>
+        </group>
+        <group group_id="P2">
+          <title>Obese Weight Maintaining (WMEN)</title>
+          <description>Randomized to receive a weight-maintaining diet&#xD;
+Weight maintaining diet: Heart healthy weight-maintaining diet</description>
+        </group>
+        <group group_id="P3">
+          <title>Lean Weight Maintaining (WMEN)</title>
+          <description>Normal weight individuals receiving a weight-maintaining energy needs diet&#xD;
+Weight maintaining diet: Heart healthy weight-maintaining diet</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="19"/>
+                <participants group_id="P2" count="18"/>
+                <participants group_id="P3" count="24"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="19"/>
+                <participants group_id="P2" count="18"/>
+                <participants group_id="P3" count="23"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="1"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Prohibited medications</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Obese Underfeeding (UF)</title>
+          <description>Obese randomized to received a 35% calorie reduced diet&#xD;
+Underfeeding diet: Heart healthy diet with 35% reduced calories</description>
+        </group>
+        <group group_id="B2">
+          <title>Obese Weight Maintaining (WMEN)</title>
+          <description>Randomized to receive a weight-maintaining diet&#xD;
+Weight maintaining diet: Heart healthy weight-maintaining diet</description>
+        </group>
+        <group group_id="B3">
+          <title>Lean Weight Maintaining (WMEN)</title>
+          <description>Normal weight individuals receiving a weight-maintaining energy needs diet&#xD;
+Weight maintaining diet: Heart healthy weight-maintaining diet</description>
+        </group>
+        <group group_id="B4">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="19"/>
+            <count group_id="B2" value="18"/>
+            <count group_id="B3" value="23"/>
+            <count group_id="B4" value="60"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="45.3" spread="16.8"/>
+                    <measurement group_id="B2" value="49.8" spread="13.1"/>
+                    <measurement group_id="B3" value="49.7" spread="12.5"/>
+                    <measurement group_id="B4" value="48.3" spread="14.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="13"/>
+                    <measurement group_id="B3" value="14"/>
+                    <measurement group_id="B4" value="37"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="9"/>
+                    <measurement group_id="B4" value="23"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Race/Ethniticy</title>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaskan Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="16"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian of Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="3"/>
+                    <measurement group_id="B4" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Hispanic/Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Caucasian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="17"/>
+                    <measurement group_id="B4" value="29"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="19"/>
+                    <measurement group_id="B2" value="18"/>
+                    <measurement group_id="B3" value="23"/>
+                    <measurement group_id="B4" value="60"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Weight, kg</title>
+          <units>kg</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="111.0" spread="29.1"/>
+                    <measurement group_id="B2" value="88.1" spread="15.3"/>
+                    <measurement group_id="B3" value="63.9" spread="8.0"/>
+                    <measurement group_id="B4" value="86.1" spread="27.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Height, cm</title>
+          <units>cm</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="170.5" spread="10.4"/>
+                    <measurement group_id="B2" value="161.7" spread="9.4"/>
+                    <measurement group_id="B3" value="166.9" spread="8.6"/>
+                    <measurement group_id="B4" value="166.5" spread="9.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>BMI (kg/m^2)</title>
+          <units>kg/m^2</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="38.0" spread="8.7"/>
+                    <measurement group_id="B2" value="33.5" spread="4.0"/>
+                    <measurement group_id="B3" value="22.9" spread="1.8"/>
+                    <measurement group_id="B4" value="30.9" spread="8.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Adherence Score</title>
+        <description>An adherence score is calculated each week by summing 7 measurements of adherence and dividing by 21, the maximum score, with range from 0 (no adherence) to 1 (perfectly adherent). For each of the 7 measures a higher score means better adherence: [1] Attendance (0-2), [2] Food diaries (0-3), [3] 24-hour food recall via interview (0-3), [4] computer survey (0-3), [5] 24-hour food recall via interview (0-3), [6] Ecological momentary assessment (0-6), and [7] On time arrival for session (0-1). The final score is calculated as the average of the six weekly scores.</description>
+        <time_frame>Average over 6 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Obese Underfeeding (UF)</title>
+            <description>Obese randomized to received a 35% calorie reduced diet&#xD;
+Underfeeding diet: Heart healthy diet with 35% reduced calories</description>
+          </group>
+          <group group_id="O2">
+            <title>Obese Weight Maintaining (WMEN)</title>
+            <description>Randomized to receive a weight-maintaining diet&#xD;
+Weight maintaining diet: Heart healthy weight-maintaining diet</description>
+          </group>
+          <group group_id="O3">
+            <title>Lean Weight Maintaining (WMEN)</title>
+            <description>Normal weight individuals receiving a weight-maintaining energy needs diet&#xD;
+Weight maintaining diet: Heart healthy weight-maintaining diet</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Adherence Score</title>
+          <description>An adherence score is calculated each week by summing 7 measurements of adherence and dividing by 21, the maximum score, with range from 0 (no adherence) to 1 (perfectly adherent). For each of the 7 measures a higher score means better adherence: [1] Attendance (0-2), [2] Food diaries (0-3), [3] 24-hour food recall via interview (0-3), [4] computer survey (0-3), [5] 24-hour food recall via interview (0-3), [6] Ecological momentary assessment (0-6), and [7] On time arrival for session (0-1). The final score is calculated as the average of the six weekly scores.</description>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="19"/>
+                <count group_id="O2" value="18"/>
+                <count group_id="O3" value="23"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.57" spread="0.17"/>
+                    <measurement group_id="O2" value="0.54" spread="0.18"/>
+                    <measurement group_id="O3" value="0.59" spread="0.10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Weight From Baseline to 6 Weeks</title>
+        <description>Weight loss from baseline, calculated as weight at 6 weeks - weight at baseline</description>
+        <time_frame>6 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Obese Underfeeding (UF)</title>
+            <description>Obese randomized to received a 35% calorie reduced diet&#xD;
+Underfeeding diet: Heart healthy diet with 35% reduced calories</description>
+          </group>
+          <group group_id="O2">
+            <title>Obese Weight Maintaining (WMEN)</title>
+            <description>Randomized to receive a weight-maintaining diet&#xD;
+Weight maintaining diet: Heart healthy weight-maintaining diet</description>
+          </group>
+          <group group_id="O3">
+            <title>Lean Weight Maintaining (WMEN)</title>
+            <description>Normal weight individuals receiving a weight-maintaining energy needs diet&#xD;
+Weight maintaining diet: Heart healthy weight-maintaining diet</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Weight From Baseline to 6 Weeks</title>
+          <description>Weight loss from baseline, calculated as weight at 6 weeks - weight at baseline</description>
+          <units>kg</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="19"/>
+                <count group_id="O2" value="18"/>
+                <count group_id="O3" value="23"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-3.14" spread="2.76"/>
+                    <measurement group_id="O2" value="-1.64" spread="2.41"/>
+                    <measurement group_id="O3" value="-0.54" spread="1.53"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>6 weeks</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Obese Underfeeding (UF)</title>
+          <description>Obese randomized to received a 35% calorie reduced diet&#xD;
+Underfeeding diet: Heart healthy diet with 35% reduced calories</description>
+        </group>
+        <group group_id="E2">
+          <title>Obese Weight Maintaining (WMEN)</title>
+          <description>Randomized to receive a weight-maintaining diet&#xD;
+Weight maintaining diet: Heart healthy weight-maintaining diet</description>
+        </group>
+        <group group_id="E3">
+          <title>Lean Weight Maintaining (WMEN)</title>
+          <description>Normal weight individuals receiving a weight-maintaining energy needs diet&#xD;
+Weight maintaining diet: Heart healthy weight-maintaining diet</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="19"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="18"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="23"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="19"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="18"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="23"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="19"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="18"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="23"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Marci E. Gluck</name_or_title>
+      <organization>National Institute of Diabetes Digestive and Kidney Diseases/NIH</organization>
+      <phone>602-200-5317</phone>
+      <email>gmarci@mail.nih.gov</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

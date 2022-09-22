@@ -1,0 +1,1489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2246">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00756652</url>
+  </required_header>
+  <id_info>
+    <org_study_id>P030053</org_study_id>
+    <nct_id>NCT00756652</nct_id>
+    <nct_alias>NCT00495534</nct_alias>
+  </id_info>
+  <brief_title>Mentor MemoryGel Post-Approval Study</brief_title>
+  <acronym>MGPAS</acronym>
+  <official_title>MemoryGel Silicone Gel-Filled Breast Implant Post-Approval Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Mentor Worldwide, LLC</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Mentor Worldwide, LLC</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In November 2006, U.S. Food and Drug Administration (FDA) approved Mentor's MemoryGel&#xD;
+      silicone gel-filled breast implants for use in women who are undergoing primary or revisional&#xD;
+      breast augmentation and primary or revisional breast reconstruction surgery. This&#xD;
+      postapproval study is intended to satisfy one element of FDA's postapproval monitoring&#xD;
+      requirements. In January 2015, the FDA approved a protocol amendment that limits the scope of&#xD;
+      data collection for the study to the collection of only secondary procedure/reoperation data&#xD;
+      for MemoryGel participants.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">November 1, 2006</start_date>
+  <completion_date type="Actual">July 31, 2019</completion_date>
+  <primary_completion_date type="Actual">July 31, 2019</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Kaplan Meier Estimated Cumulative Incidence of Reported Complications</measure>
+    <time_frame>10 years</time_frame>
+    <description>The KM estimated cumulative incidence of reoperation and explantation has been estimated on a patient-level basis. The data for the KM analysis used the follow-up and reoperation/explantation reports from the entire data set of the 41,452 participants in the Original study, with follow-up and additional reoperartions/explantations reported on the 11,101 participants in the ReOperation phase. Participants with no post-op follow-up are excluded from the KM analysis.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Kaplan Meier Estimated Cumulative Incidence of Explantation</measure>
+    <time_frame>10 years</time_frame>
+    <description>The KM estimated cumulative incidence of reoperation and explantation has been estimated on a patient-level basis. The data for the KM analysis used the follow-up and reoperation/explantation reports from the entire data set of the 41,452 participants in the Original study, with follow-up and additional reoperartions/explantations reported on the 11,101 participants in the ReOperation phase. Participants with no post-op follow-up are excluded from the KM analysis.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Reasons for Reoperations</measure>
+    <time_frame>10 Years</time_frame>
+    <description>Frequencies of the reason for reoperation will be computed for women with MemoryGel breast implants through 10 years</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">42491</enrollment>
+  <condition>Breast Reconstruction</condition>
+  <condition>Breast Augmentation</condition>
+  <condition>Breast Revision</condition>
+  <arm_group>
+    <arm_group_label>MemoryGel Breast Implant Participants</arm_group_label>
+    <description>MemoryGel Breast Implant Participants received Mentor Silicone Gel-Filled Breast Implants (MemoryGel) during their Breast Augmentation, Breast Reconstruction, or Revision surgery</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Saline Breast Implant Control Participants</arm_group_label>
+    <description>Saline Breast Implant Control Participants received Saline Filled Breast Implants during their Breast Augmentation, Breast Reconstruction, or Revision surgery</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Mentor Silicone Gel-Filled Breast Implants</intervention_name>
+    <arm_group_label>MemoryGel Breast Implant Participants</arm_group_label>
+    <other_name>MemoryGel Breast Implants</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Saline Breast Implants</intervention_name>
+    <arm_group_label>Saline Breast Implant Control Participants</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        MemoryGel™ PAS uses a current cohort design of 41,900 gel participants and 1,000 saline&#xD;
+        participants.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Female, age 18 years or older (22 or older for breast augmentation patients)&#xD;
+&#xD;
+          2. U.S. resident&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. If a saline participant, current or past, unilateral or bilateral, silicone breast&#xD;
+             implants&#xD;
+&#xD;
+          2. Active infection anywhere in her body&#xD;
+&#xD;
+          3. Existing breast cancer or pre-cancer of the breast without adequate treatment for&#xD;
+             those conditions&#xD;
+&#xD;
+          4. Currently pregnant or nursing&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>John Canady, M.D.</last_name>
+    <role>Study Director</role>
+    <affiliation>Mentor Worldwide, LLC</affiliation>
+  </overall_official>
+  <removed_countries>
+    <country>United States</country>
+  </removed_countries>
+  <verification_date>June 2020</verification_date>
+  <study_first_submitted>September 18, 2008</study_first_submitted>
+  <study_first_submitted_qc>September 19, 2008</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 22, 2008</study_first_posted>
+  <results_first_submitted>March 27, 2020</results_first_submitted>
+  <results_first_submitted_qc>June 2, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">June 4, 2020</results_first_posted>
+  <last_update_submitted>June 2, 2020</last_update_submitted>
+  <last_update_submitted_qc>June 2, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 4, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>February 6, 2015</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/52/NCT00756652/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>In January 2015, the FDA approved a protocol amendment that limited the scope of the study to the collection of only secondary procedure and reoperation data for the MemoryGel arm participants. No data collection is required for the Saline Breast Implant Control group participants and no outcome measures are reported for this study arm.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>MemoryGel Breast Implant Participants</title>
+          <description>Subjects who received Mentor Silicone Gel-Filled Breast Implants (MemoryGel) during their Breast Augmentation, Breast Reconstruction, or Revision surgery</description>
+        </group>
+        <group group_id="P2">
+          <title>Saline Breast Implant Control Participants</title>
+          <description>Subjects who received Saline Filled Breast Implants during their Breast Augmentation, Breast Reconstruction, or Revision surgery</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Original Phase</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="41452"/>
+                <participants group_id="P2" count="1039"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="6063">At Year 7</participants>
+                <participants group_id="P2" count="118"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="35389"/>
+                <participants group_id="P2" count="921"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="864"/>
+                <participants group_id="P2" count="23"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="601"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Other Discontinuation</title>
+              <participants_list>
+                <participants group_id="P1" count="797"/>
+                <participants group_id="P2" count="5"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Participant Noncompliance</title>
+              <participants_list>
+                <participants group_id="P1" count="18622"/>
+                <participants group_id="P2" count="424"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Unknown Discontinuation Reason</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Participants without data</title>
+              <participants_list>
+                <participants group_id="P1" count="3259"/>
+                <participants group_id="P2" count="466"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Death</title>
+              <participants_list>
+                <participants group_id="P1" count="168"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Not due for F/U at Phase One closure</title>
+              <participants_list>
+                <participants group_id="P1" count="11076"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+        <period>
+          <title>Re-Op Phase</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="11101"/>
+                <participants group_id="P2" count="0">NA - The Re-Op Phase was limited in scope to data collection for only MemoryGel participants.</participants>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="8225"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="2876"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="62"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Death</title>
+              <participants_list>
+                <participants group_id="P1" count="6"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="340"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Site Closed</title>
+              <participants_list>
+                <participants group_id="P1" count="2454"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawn after explant</title>
+              <participants_list>
+                <participants group_id="P1" count="14"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Original Phase - MemoryGel Participants</title>
+          <description>Subjects implanted with MemoryGel breast implants</description>
+        </group>
+        <group group_id="B2">
+          <title>Original Phase - Saline Breast Implant Control Participants</title>
+          <description>Subjects implanted with saline filled breast implants</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="41452"/>
+            <count group_id="B2" value="1039"/>
+            <count group_id="B3" value="42491"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="40.3" spread="11.4"/>
+                    <measurement group_id="B2" value="32.1" spread="9.9"/>
+                    <measurement group_id="B3" value="40.1" spread="11.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="41452"/>
+                    <measurement group_id="B2" value="1039"/>
+                    <measurement group_id="B3" value="42491"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>White, not of Hispanic origin</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="32216"/>
+                    <measurement group_id="B2" value="575"/>
+                    <measurement group_id="B3" value="32791"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>White, of Hispanic origin</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4123"/>
+                    <measurement group_id="B2" value="262"/>
+                    <measurement group_id="B3" value="4385"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Black, not of Hispanic origin</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="891"/>
+                    <measurement group_id="B2" value="28"/>
+                    <measurement group_id="B3" value="919"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Black, of Hispanic origin</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="146"/>
+                    <measurement group_id="B2" value="11"/>
+                    <measurement group_id="B3" value="157"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Asian, Asian American, Pacific Islander</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1873"/>
+                    <measurement group_id="B2" value="74"/>
+                    <measurement group_id="B3" value="1947"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Native American or Alaskan Native</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="306"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="314"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Other</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1025"/>
+                    <measurement group_id="B2" value="44"/>
+                    <measurement group_id="B3" value="1069"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Missing</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="872"/>
+                    <measurement group_id="B2" value="37"/>
+                    <measurement group_id="B3" value="909"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Surgery Indication</title>
+          <units>Participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>Primary Augmentation</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="26173"/>
+                    <measurement group_id="B2" value="937"/>
+                    <measurement group_id="B3" value="27110"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Revision Augmentation</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8382"/>
+                    <measurement group_id="B2" value="75"/>
+                    <measurement group_id="B3" value="8457"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Primary Reconstruction</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5023"/>
+                    <measurement group_id="B2" value="15"/>
+                    <measurement group_id="B3" value="5038"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Revision Reconstruction</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1761"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="1770"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Unknown Indication</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="113"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="116"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Kaplan Meier Estimated Cumulative Incidence of Reported Complications</title>
+        <description>The KM estimated cumulative incidence of reoperation and explantation has been estimated on a patient-level basis. The data for the KM analysis used the follow-up and reoperation/explantation reports from the entire data set of the 41,452 participants in the Original study, with follow-up and additional reoperartions/explantations reported on the 11,101 participants in the ReOperation phase. Participants with no post-op follow-up are excluded from the KM analysis.</description>
+        <time_frame>10 years</time_frame>
+        <population>Per the FDA-approved protocol amendment, no data collection is required for the Saline Breast Implant Control group participants and no outcome measures are reported for this study arm.&#xD;
+The number of participants each year is based on participants with post-op follow-up in that year</population>
+        <group_list>
+          <group group_id="O1">
+            <title>MemoryGel Participants</title>
+            <description>Subjects who received MemoryGel breast implants</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Kaplan Meier Estimated Cumulative Incidence of Reported Complications</title>
+          <description>The KM estimated cumulative incidence of reoperation and explantation has been estimated on a patient-level basis. The data for the KM analysis used the follow-up and reoperation/explantation reports from the entire data set of the 41,452 participants in the Original study, with follow-up and additional reoperartions/explantations reported on the 11,101 participants in the ReOperation phase. Participants with no post-op follow-up are excluded from the KM analysis.</description>
+          <population>Per the FDA-approved protocol amendment, no data collection is required for the Saline Breast Implant Control group participants and no outcome measures are reported for this study arm.&#xD;
+The number of participants each year is based on participants with post-op follow-up in that year</population>
+          <units>Cumulative Reoperation Events</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="41452"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>0 Years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="11158"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0" lower_limit="0" upper_limit="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>1 Year</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="8779"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.7" lower_limit="6.2" upper_limit="7.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>2 Years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="4792"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10.8" lower_limit="10.1" upper_limit="11.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>3 Years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="4613"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="11.2" lower_limit="10.5" upper_limit="11.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>4 Years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="4525"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="11.7" lower_limit="11.0" upper_limit="12.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>5 Years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="4336"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12.5" lower_limit="11.8" upper_limit="13.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>6 Years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="4228"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="13.0" lower_limit="12.3" upper_limit="13.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>7 Years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="4159"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="13.2" lower_limit="12.5" upper_limit="14.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>8 Years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="4047"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="13.3" lower_limit="12.6" upper_limit="14.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>9 Years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="3910"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="13.6" lower_limit="12.8" upper_limit="14.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>10 Years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="3493"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="13.7" lower_limit="12.9" upper_limit="14.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Kaplan Meier Estimated Cumulative Incidence of Explantation</title>
+        <description>The KM estimated cumulative incidence of reoperation and explantation has been estimated on a patient-level basis. The data for the KM analysis used the follow-up and reoperation/explantation reports from the entire data set of the 41,452 participants in the Original study, with follow-up and additional reoperartions/explantations reported on the 11,101 participants in the ReOperation phase. Participants with no post-op follow-up are excluded from the KM analysis.</description>
+        <time_frame>10 years</time_frame>
+        <population>Per the FDA-approved protocol amendment, no data collection is required for the Saline Breast Implant Control group participants and no outcome measures are reported for this study arm.&#xD;
+The number of participants each year is based on participants with post-op follow-up in that year.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>MemoryGel Participants</title>
+            <description>Subjects who received MemoryGel breast implants</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Kaplan Meier Estimated Cumulative Incidence of Explantation</title>
+          <description>The KM estimated cumulative incidence of reoperation and explantation has been estimated on a patient-level basis. The data for the KM analysis used the follow-up and reoperation/explantation reports from the entire data set of the 41,452 participants in the Original study, with follow-up and additional reoperartions/explantations reported on the 11,101 participants in the ReOperation phase. Participants with no post-op follow-up are excluded from the KM analysis.</description>
+          <population>Per the FDA-approved protocol amendment, no data collection is required for the Saline Breast Implant Control group participants and no outcome measures are reported for this study arm.&#xD;
+The number of participants each year is based on participants with post-op follow-up in that year.</population>
+          <units>Cumulative Explantation Events</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="41452"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>0 Years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="11158"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0" lower_limit="0" upper_limit="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>1 Year</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="9037"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.0" lower_limit="2.7" upper_limit="3.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>2 Years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="5003"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.0" lower_limit="4.6" upper_limit="5.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>3 Years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="4831"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.2" lower_limit="4.7" upper_limit="5.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>4 Years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="4752"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.5" lower_limit="5.0" upper_limit="6.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>5 Years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="4561"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.0" lower_limit="5.4" upper_limit="6.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>6 Years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="4454"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.4" lower_limit="5.8" upper_limit="6.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>7 Years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="4386"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.5" lower_limit="6.0" upper_limit="7.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>8 Years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="4273"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.6" lower_limit="6.1" upper_limit="7.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>9 Years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="4133"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.8" lower_limit="6.2" upper_limit="7.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>10 Years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="3698"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.9" lower_limit="6.3" upper_limit="7.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Reasons for Reoperations</title>
+        <description>Frequencies of the reason for reoperation will be computed for women with MemoryGel breast implants through 10 years</description>
+        <time_frame>10 Years</time_frame>
+        <population>In January 2015, the FDA approved a protocol amendment that limited the scope of the study to the collection of only secondary procedure and reoperation data for the MemoryGel arm participants. No data collection is required for the Saline Breast Implant Control group participants and no outcome measures are reported for this study arm.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>MemoryGel Participants</title>
+            <description>Subjects who received MemoryGel breast implants</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Reasons for Reoperations</title>
+          <description>Frequencies of the reason for reoperation will be computed for women with MemoryGel breast implants through 10 years</description>
+          <population>In January 2015, the FDA approved a protocol amendment that limited the scope of the study to the collection of only secondary procedure and reoperation data for the MemoryGel arm participants. No data collection is required for the Saline Breast Implant Control group participants and no outcome measures are reported for this study arm.</population>
+          <units>Reoperation events</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="1141"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Asymmetry</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="465"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Biopsy</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Breast - unacceptably high sensation</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Breast pain not associated with other complication</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="26"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Calcification</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Capsular Contracture (Baker Grade II)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="238"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Capsular Contracture (Baker Grade III)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="423"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Capsular Contracture (Baker Grade IV)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="224"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Capsule / Pocket tear</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="23"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Delayed wound healing</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="37"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Extrusion</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="90"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Granuloma</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hematoma</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="128"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hypertrophic scarring</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="104"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Implant removal</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="76"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Infection</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="142"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Irritation / Inflammation</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Lack of projection</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="54"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Necrosis</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>New diagnosis of breast cancer</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>New diagnosis of rheumatic disease</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Nipple - unacceptably low sensitivity</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Nipple complications</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="25"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Palpability - implant</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Position change (dissatisfaction)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="313"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Ptosis</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="128"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Rupture</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="41"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Seroma</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="33"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Size change - patient request</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="624"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Size change - physician assessment only</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="37"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Staged Reconstruction</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Symmastia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="26"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Wrinkling</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="76"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Unknown</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="513"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Other</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="139"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <desc>In the Original study, follow-up data were to be collected by survey in years 1-10. Surgeons were also to see MemoryGel participants in years 1, 4-6, and 9-10. All local complications, reasons for reoperation, and reasons for removal reported by the participant or surgeon were to be recorded. In 2015 FDA approved a redesign of the study whereby data collection was limited to only reoperation data for MemoryGel participants and the reasons for reoperation. These are presented as Outcome Measures.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Overall Study</title>
+          <description>Subjects in either the MemoryGel group or the saline breast implant control group</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>The data presented may represent an under-estimation of reoperation and explantation rates due to the lack of mandatory safety reporting and ability for participants to be treated at non-study sites.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Sponsor</name_or_title>
+      <organization>Mentor Worldwide, LLC</organization>
+      <phone>949-453-6408</phone>
+      <email>mgpas@its.jnj.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

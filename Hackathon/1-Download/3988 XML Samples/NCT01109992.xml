@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2236">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01109992</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BWH</org_study_id>
+    <nct_id>NCT01109992</nct_id>
+  </id_info>
+  <brief_title>Integrated Dual Exercise and Lexiscan Positron Emission Tomography: IDEALPET</brief_title>
+  <acronym>IDEALPET</acronym>
+  <official_title>Integrated Dual Exercise and Lexiscan PET: IDEAL PET</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Brigham and Women's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Brigham and Women's Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a single-center study of subjects undergoing clinically indicated heart scans for&#xD;
+      evaluation of known or suspected heart disease. We will also include 10 healthy subjects&#xD;
+      without known heart disease. We would like to study stress testing of the heart using&#xD;
+      exercise and a medication called regadenoson. Imaging of the heart will be performed.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Regadenoson is stress agent approved by the FDA for use with myocardial perfusion imaging&#xD;
+      with technetium-99m single photon emission computed tomography (SPECT) in patients that are&#xD;
+      unable to exercise adequately. We would like to study Regadenoson in conjunction with&#xD;
+      Exercise Rubidium-82 positron emission tomography myocardial perfusion imaging (PET MPI).&#xD;
+      Regadenoson is not approved by FDA for use with Rubidium-82 PET MPI. Also, we would like to&#xD;
+      study a novel stress protocol of Regadenoson combined with symptom limited exercise stress&#xD;
+      (not FDA approved).&#xD;
+&#xD;
+      The objectives of this study are to assess the tolerability and safety of combined symptom&#xD;
+      limited exercise stress test with Lexiscan (Lexercise PET) compared to Lexiscan alone&#xD;
+      (Lexiscan PET), to assess image quality of Lexercise compared to Lexiscan PET and to compare&#xD;
+      relative and absolute myocardial perfusion imaging with Lexercise compared to Lexiscan PET to&#xD;
+      identify CAD.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>February 2011</start_date>
+  <completion_date type="Actual">June 6, 2017</completion_date>
+  <primary_completion_date type="Actual">June 6, 2017</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety and Tolerability of Combined Exercise and Regadenoson Stress</measure>
+    <time_frame>Day of the research scan during the stress test</time_frame>
+    <description>Count of subjects with ischemic ECG changes is reported&#xD;
+Count of subjects with systolic blood pressure decrease &gt; 20 mm Hg is reported&#xD;
+Count of subjects with abnormal serum troponin T levels is reported&#xD;
+Radiation dose to the staff will be measured using personal dosimeters after the Lexiscan as well as the Lexercise PET study.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Image Quality: Heart to Liver Ratio of Counts</measure>
+    <time_frame>Week 1 (day of the clinical scan), and Week 2 (day of the research scan)</time_frame>
+    <description>Sub-diaphragmatic activity: Heart to Liver Ratio was measured on the rubidium-82 and N-13 ammonia scans. Since this measure is a ratio it has no units. Mean and Standard Deviation of Ratio is reported for each group.&#xD;
+This was measured on the clinical scan and on the research scan which were performed about 2 weeks apart in most subjects.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Left Ventricular Function With Dual Exercise and Regadenoson PET</measure>
+    <time_frame>Week 1 (day of the clinical scan), and Week 2 (day of the research scan)</time_frame>
+    <description>Left ventricular ejection fraction (LVEF) at stress was measured at Stress scan 1 (regadenoson) and Stress scan 2 (regadenoson or exercise + regadenoson).&#xD;
+This was measured on the clinical scan and on the research scan which were performed about 2 weeks apart in most subjects.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Peak Stress Myocardial Blood Flow</measure>
+    <time_frame>Week 1 (day of the clinical scan), and Week 2 (day of the research scan)</time_frame>
+    <description>Myocardial Blood Flow Measured at Peak Hyperemia With Regadenoson or Immediately After Exercise + Regadenoson This was measured on the clinical scan and on the research scan which were performed about 2 weeks apart in most subjects.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">43</enrollment>
+  <condition>Coronary Artery Disease</condition>
+  <arm_group>
+    <arm_group_label>Regadenoson (Lexiscan)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Regadenoson Rubidium-82 Positron Emission Tomography</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Exercise + Regadenoson (Lexercise)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Exercise plus Regadenoson (Lexercise) Rubidium-82 Positron Emission Tomography</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Exercise plus Regadenoson (Lexercise)</intervention_name>
+    <description>Standard Bruce exercise stress test with regadenoson injection at maximal stress with Rubidium-82 Positron Emission Tomography</description>
+    <arm_group_label>Exercise + Regadenoson (Lexercise)</arm_group_label>
+    <other_name>Exercise plus Lexiscan</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Regadenoson (Lexiscan)</intervention_name>
+    <description>Regadenoson Rubidium-82 Positron Emission Tomography</description>
+    <arm_group_label>Regadenoson (Lexiscan)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age &gt; 18 years&#xD;
+&#xD;
+          -  Clinically indicated N-13 ammonia PET study or ten healthy volunteers&#xD;
+&#xD;
+          -  Known coronary artery disease (prior percutaneous coronary intervention, prior&#xD;
+             coronary artery bypass surgery or Q wave MI on ECG) or intermediate to high pretest&#xD;
+             likelihood of CAD&#xD;
+&#xD;
+          -  Able to exercise on a treadmill&#xD;
+&#xD;
+          -  Able and willing to provide informed consent to participate in the study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Contraindications to exercise stress testing such as, unstable angina, known severe&#xD;
+             left main coronary artery stenosis, severe heart failure, uncontrolled arrhythmias,&#xD;
+             symptomatic hypotension or severe hypertension (systolic blood pressure &lt; 90 or &gt; 200&#xD;
+             mmHg, respectively), or &gt; 1st degree atrioventricular block in the absence of a&#xD;
+             functioning pacemaker.&#xD;
+&#xD;
+          -  Subject requires emergent cardiac medical intervention or catheterization after the&#xD;
+             clinical study.&#xD;
+&#xD;
+          -  Documented myocardial infarction (MI) ≤ 30 days prior to enrollment.&#xD;
+&#xD;
+          -  History of percutaneous coronary intervention (PCI) ≤ 4weeks prior to enrollment.&#xD;
+&#xD;
+          -  History of coronary artery bypass graft (CABG) ≤ 8 weeks prior to enrollment.&#xD;
+&#xD;
+          -  History of heart transplantation.&#xD;
+&#xD;
+          -  Allergy or intolerance to aminophylline or regadenoson&#xD;
+&#xD;
+          -  Known severe or oxygen dependent bronchoconstrictive or bronchospastic lung disease&#xD;
+             [e.g., asthma, wheezing, chronic obstructive pulmonary disease (COPD), etc.].&#xD;
+&#xD;
+          -  Severe LV dysfunction, with ejection fraction of &lt; 30%&#xD;
+&#xD;
+          -  Serious non-cardiac medical illness (e.g., disseminated malignancy, severe&#xD;
+             neurological dysfunction at time of baseline PET study) or a social situation which&#xD;
+             will preclude research study participation&#xD;
+&#xD;
+          -  History of Seizures.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sharmila Dorbala, MBBS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Brigham and Women's Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Brigham and Womens' Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02421</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Chow BJ, Ananthasubramaniam K, dekemp RA, Dalipaj MM, Beanlands RS, Ruddy TD. Comparison of treadmill exercise versus dipyridamole stress with myocardial perfusion imaging using rubidium-82 positron emission tomography. J Am Coll Cardiol. 2005 Apr 19;45(8):1227-34.</citation>
+    <PMID>15837254</PMID>
+  </reference>
+  <reference>
+    <citation>Di Carli MF, Hachamovitch R. New technology for noninvasive evaluation of coronary artery disease. Circulation. 2007 Mar 20;115(11):1464-80. Review.</citation>
+    <PMID>17372188</PMID>
+  </reference>
+  <reference>
+    <citation>Klocke FJ, Baird MG, Lorell BH, Bateman TM, Messer JV, Berman DS, O'Gara PT, Carabello BA, Russell RO Jr, Cerqueira MD, St John Sutton MG, DeMaria AN, Udelson JE, Kennedy JW, Verani MS, Williams KA, Antman EM, Smith SC Jr, Alpert JS, Gregoratos G, Anderson JL, Hiratzka LF, Faxon DP, Hunt SA, Fuster V, Jacobs AK, Gibbons RJ, Russell RO; American College of Cardiology; American Heart Association Task Force on Practice Guidelines; American Society for Nuclear Cardiology. ACC/AHA/ASNC guidelines for the clinical use of cardiac radionuclide imaging--executive summary: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines (ACC/AHA/ASNC Committee to Revise the 1995 Guidelines for the Clinical Use of Cardiac Radionuclide Imaging). Circulation. 2003 Sep 16;108(11):1404-18.</citation>
+    <PMID>12975245</PMID>
+  </reference>
+  <reference>
+    <citation>Chow BJ, Beanlands RS, Lee A, DaSilva JN, deKemp RA, Alkahtani A, Ruddy TD. Treadmill exercise produces larger perfusion defects than dipyridamole stress N-13 ammonia positron emission tomography. J Am Coll Cardiol. 2006 Jan 17;47(2):411-6.</citation>
+    <PMID>16412870</PMID>
+  </reference>
+  <reference>
+    <citation>Camici PG, Crea F. Coronary microvascular dysfunction. N Engl J Med. 2007 Feb 22;356(8):830-40. Review.</citation>
+    <PMID>17314342</PMID>
+  </reference>
+  <reference>
+    <citation>El Fakhri G, Sitek A, Guérin B, Kijewski MF, Di Carli MF, Moore SC. Quantitative dynamic cardiac 82Rb PET using generalized factor and compartment analyses. J Nucl Med. 2005 Aug;46(8):1264-71.</citation>
+    <PMID>16085581</PMID>
+  </reference>
+  <verification_date>September 2018</verification_date>
+  <study_first_submitted>April 16, 2010</study_first_submitted>
+  <study_first_submitted_qc>April 22, 2010</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 23, 2010</study_first_posted>
+  <results_first_submitted>June 14, 2018</results_first_submitted>
+  <results_first_submitted_qc>September 27, 2018</results_first_submitted_qc>
+  <results_first_posted type="Actual">October 25, 2018</results_first_posted>
+  <last_update_submitted>September 27, 2018</last_update_submitted>
+  <last_update_submitted_qc>September 27, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 25, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Brigham and Women's Hospital</investigator_affiliation>
+    <investigator_full_name>Sharmila Dorbala, MBBS</investigator_full_name>
+    <investigator_title>Director, Nuclear Cardiology</investigator_title>
+  </responsible_party>
+  <keyword>coronary artery disease</keyword>
+  <keyword>exercise</keyword>
+  <keyword>regadenoson</keyword>
+  <keyword>positron emission tomography</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Regadenoson</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>September 12, 2016</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/92/NCT01109992/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>43 subjects consented for the study and 41 subjects completed the study. One subject did not come for the study procedures. One subject could not cooperate with imaging and was moving during the rest scan. Regadenoson scan was not performed.</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Regadenoson</title>
+          <description>Regadenoson Rubidium-82 Positron Emission Tomography&#xD;
+Regadenoson Rubidium-82 Positron Emission Tomography</description>
+        </group>
+        <group group_id="P2">
+          <title>Exercise + Regadenoson</title>
+          <description>Exercise plus Regadenoson Rubidium-82 Positron Emission Tomography&#xD;
+Exercise plus Regadenoson: Standard Bruce exercise stress test with regadenoson injection at maximal stress with Rubidium-82 Positron Emission Tomography</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="11"/>
+                <participants group_id="P2" count="32"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Subjects Enrolled</title>
+              <participants_list>
+                <participants group_id="P1" count="11"/>
+                <participants group_id="P2" count="32"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="11"/>
+                <participants group_id="P2" count="30"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Movement during rest scan.</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Regadenoson</title>
+          <description>Regadenoson Rubidium-82 Positron Emission Tomography&#xD;
+Regadenoson: Regadenoson Rubidium-82 Positron Emission Tomography</description>
+        </group>
+        <group group_id="B2">
+          <title>Exercise + Regadenoson</title>
+          <description>Exercise plus Regadenoson Rubidium-82 Positron Emission Tomography&#xD;
+Exercise plus Regadenoson: Standard Bruce exercise stress test with regadenoson injection at maximal stress with Rubidium-82 Positron Emission Tomography</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="11"/>
+            <count group_id="B2" value="30"/>
+            <count group_id="B3" value="41"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="66" spread="11"/>
+                    <measurement group_id="B2" value="54" spread="15"/>
+                    <measurement group_id="B3" value="57" spread="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="14"/>
+                    <measurement group_id="B3" value="17"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="16"/>
+                    <measurement group_id="B3" value="24"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="22"/>
+                    <measurement group_id="B3" value="31"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="30"/>
+                    <measurement group_id="B3" value="41"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Safety and Tolerability of Combined Exercise and Regadenoson Stress</title>
+        <description>Count of subjects with ischemic ECG changes is reported&#xD;
+Count of subjects with systolic blood pressure decrease &gt; 20 mm Hg is reported&#xD;
+Count of subjects with abnormal serum troponin T levels is reported&#xD;
+Radiation dose to the staff will be measured using personal dosimeters after the Lexiscan as well as the Lexercise PET study.</description>
+        <time_frame>Day of the research scan during the stress test</time_frame>
+        <population>Radiation dose to staff was not measured due to logistical difficulties.Three subjects had blood pressure changes in the Regadenoson (Lexiscan) arm; 3 subjects showed ischemic ECG changes in the exercise + regadenoson (Lexercise) arm; and, none of the subjects showed abnormal troponin levels.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Regadenoson (Lexiscan)</title>
+            <description>Regadenoson Rubidium-82 Positron Emission Tomography&#xD;
+Regadenoson (Lexiscan): Regadenoson Rubidium-82 Positron Emission Tomography.</description>
+          </group>
+          <group group_id="O2">
+            <title>Exercise + Regadenoson (Lexercise)</title>
+            <description>Exercise plus Regadenoson (Lexercise) Rubidium-82 Positron Emission Tomography&#xD;
+Exercise plus Regadenoson (Lexercise): Standard Bruce exercise stress test with regadenoson injection at maximal stress with Rubidium-82 Positron Emission Tomography</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Safety and Tolerability of Combined Exercise and Regadenoson Stress</title>
+          <description>Count of subjects with ischemic ECG changes is reported&#xD;
+Count of subjects with systolic blood pressure decrease &gt; 20 mm Hg is reported&#xD;
+Count of subjects with abnormal serum troponin T levels is reported&#xD;
+Radiation dose to the staff will be measured using personal dosimeters after the Lexiscan as well as the Lexercise PET study.</description>
+          <population>Radiation dose to staff was not measured due to logistical difficulties.Three subjects had blood pressure changes in the Regadenoson (Lexiscan) arm; 3 subjects showed ischemic ECG changes in the exercise + regadenoson (Lexercise) arm; and, none of the subjects showed abnormal troponin levels.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="11"/>
+                <count group_id="O2" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Count of ischemic ECG changes</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Count of subjects systolic blood pressure decrease</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Count of subjects with abnormal troponin</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Image Quality: Heart to Liver Ratio of Counts</title>
+        <description>Sub-diaphragmatic activity: Heart to Liver Ratio was measured on the rubidium-82 and N-13 ammonia scans. Since this measure is a ratio it has no units. Mean and Standard Deviation of Ratio is reported for each group.&#xD;
+This was measured on the clinical scan and on the research scan which were performed about 2 weeks apart in most subjects.</description>
+        <time_frame>Week 1 (day of the clinical scan), and Week 2 (day of the research scan)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Regadenoson (Lexiscan)</title>
+            <description>Regadenoson Rubidium-82 Positron Emission Tomography&#xD;
+Regadenoson (Lexiscan): Regadenoson Rubidium-82 Positron Emission Tomography.&#xD;
+No adverse events</description>
+          </group>
+          <group group_id="O2">
+            <title>Exercise + Regadenoson (Lexiscan)</title>
+            <description>Exercise plus Regadenoson (Lexiscan) Rubidium-82 Positron Emission Tomography&#xD;
+Exercise plus Regadenoson (Lexercise): Standard Bruce exercise stress test with regadenoson injection at maximal stress with Rubidium-82 Positron Emission Tomography&#xD;
+No adverse events</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Image Quality: Heart to Liver Ratio of Counts</title>
+          <description>Sub-diaphragmatic activity: Heart to Liver Ratio was measured on the rubidium-82 and N-13 ammonia scans. Since this measure is a ratio it has no units. Mean and Standard Deviation of Ratio is reported for each group.&#xD;
+This was measured on the clinical scan and on the research scan which were performed about 2 weeks apart in most subjects.</description>
+          <units>mean ratio</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="11"/>
+                <count group_id="O2" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Stress Scan 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.23" spread="0.55"/>
+                    <measurement group_id="O2" value="1.11" spread="0.58"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Stress Scan 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.25" spread="0.57"/>
+                    <measurement group_id="O2" value="1.37" spread="0.82"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Changes in Left Ventricular Function With Dual Exercise and Regadenoson PET</title>
+        <description>Left ventricular ejection fraction (LVEF) at stress was measured at Stress scan 1 (regadenoson) and Stress scan 2 (regadenoson or exercise + regadenoson).&#xD;
+This was measured on the clinical scan and on the research scan which were performed about 2 weeks apart in most subjects.</description>
+        <time_frame>Week 1 (day of the clinical scan), and Week 2 (day of the research scan)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Regadenoson (Lexiscan)</title>
+            <description>Regadenoson Rubidium-82 Positron Emission Tomography&#xD;
+Regadenoson (Lexiscan): Regadenoson Rubidium-82 Positron Emission Tomography.&#xD;
+No adverse events</description>
+          </group>
+          <group group_id="O2">
+            <title>Exercise + Regadenoson (Lexercise)</title>
+            <description>Exercise plus Regadenoson (Lexercise) Rubidium-82 Positron Emission Tomography&#xD;
+Exercise plus Regadenoson (Lexercise): Standard Bruce exercise stress test with regadenoson injection at maximal stress with Rubidium-82 Positron Emission Tomography&#xD;
+No adverse events</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in Left Ventricular Function With Dual Exercise and Regadenoson PET</title>
+          <description>Left ventricular ejection fraction (LVEF) at stress was measured at Stress scan 1 (regadenoson) and Stress scan 2 (regadenoson or exercise + regadenoson).&#xD;
+This was measured on the clinical scan and on the research scan which were performed about 2 weeks apart in most subjects.</description>
+          <units>percentage of LVEF</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="11"/>
+                <count group_id="O2" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Stress 1 Scan</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="58" spread="15"/>
+                    <measurement group_id="O2" value="60" spread="14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Stress 2 Scan</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="59" spread="15"/>
+                    <measurement group_id="O2" value="62" spread="14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Peak Stress Myocardial Blood Flow</title>
+        <description>Myocardial Blood Flow Measured at Peak Hyperemia With Regadenoson or Immediately After Exercise + Regadenoson This was measured on the clinical scan and on the research scan which were performed about 2 weeks apart in most subjects.</description>
+        <time_frame>Week 1 (day of the clinical scan), and Week 2 (day of the research scan)</time_frame>
+        <population>Myocardial blood flow could not be accurately measured in one subject from each arm. Therefore we report information on 10/11 subjects in Regadenoson arm and 29/30 subjects in the Exercise + Regadenoson arm.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Regadenoson (Lexiscan)</title>
+            <description>Regadenoson Rubidium-82 Positron Emission Tomography&#xD;
+Regadenoson (Lexiscan): Regadenoson Rubidium-82 Positron Emission Tomography.&#xD;
+No adverse events</description>
+          </group>
+          <group group_id="O2">
+            <title>Exercise + Regadenoson (Lexiscan)</title>
+            <description>Exercise plus Regadenoson (Lexiscan) Rubidium-82 Positron Emission Tomography&#xD;
+Exercise plus Regadenoson (Lexercise): Standard Bruce exercise stress test with regadenoson injection at maximal stress with Rubidium-82 Positron Emission Tomography&#xD;
+No adverse events</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Peak Stress Myocardial Blood Flow</title>
+          <description>Myocardial Blood Flow Measured at Peak Hyperemia With Regadenoson or Immediately After Exercise + Regadenoson This was measured on the clinical scan and on the research scan which were performed about 2 weeks apart in most subjects.</description>
+          <population>Myocardial blood flow could not be accurately measured in one subject from each arm. Therefore we report information on 10/11 subjects in Regadenoson arm and 29/30 subjects in the Exercise + Regadenoson arm.</population>
+          <units>mL/gm/min</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="29"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Stress 1 Scan</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.82" spread="0.73"/>
+                    <measurement group_id="O2" value="2.04" spread="0.58"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Stress 2 Scan</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.85" spread="0.85"/>
+                    <measurement group_id="O2" value="2.34" spread="0.82"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Adverse events were collected on the day of the research study which was in week 2 for most patients.</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Regadenoson (Lexiscan)</title>
+          <description>Regadenoson Rubidium-82 Positron Emission Tomography&#xD;
+Regadenoson (Lexiscan): Regadenoson Rubidium-82 Positron Emission Tomography</description>
+        </group>
+        <group group_id="E2">
+          <title>Exercise + Regadenoson (Lexiscan)</title>
+          <description>Exercise plus Regadenoson (Lexiscan) Rubidium-82 Positron Emission Tomography&#xD;
+Exercise plus Regadenoson (Lexercise): Standard Bruce exercise stress test with regadenoson injection at maximal stress with Rubidium-82 Positron Emission Tomography</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="30"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="30"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="30"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Sharmila Dorbala</name_or_title>
+      <organization>Brigham and Women's Hospital</organization>
+      <phone>617-732-6215</phone>
+      <email>sdorbala@partners.org</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

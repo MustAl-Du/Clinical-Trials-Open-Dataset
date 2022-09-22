@@ -1,0 +1,239 @@
+{
+  "FullStudy":{
+    "Rank":497,
+    "Study":{
+      "ProtocolSection":{
+        "IdentificationModule":{
+          "NCTId":"NCT05540080",
+          "OrgStudyIdInfo":{
+            "OrgStudyId":"BTL-899_CTUS700"
+          },
+          "Organization":{
+            "OrgFullName":"BTL Industries Ltd.",
+            "OrgClass":"INDUSTRY"
+          },
+          "BriefTitle":"Non-invasive Lipolysis and Improvement of Muscle Tone in Lateral Abdomen",
+          "OfficialTitle":"Simultaneous Application of High-Intensity Focused Electromagnetic Procedure and Radiofrequency for Non-invasive Lipolysis and Improvement of Muscle Tone in Lateral Abdomen"
+        },
+        "StatusModule":{
+          "StatusVerifiedDate":"September 2022",
+          "OverallStatus":"Active, not recruiting",
+          "ExpandedAccessInfo":{
+            "HasExpandedAccess":"No"
+          },
+          "StartDateStruct":{
+            "StartDate":"June 10, 2022",
+            "StartDateType":"Actual"
+          },
+          "PrimaryCompletionDateStruct":{
+            "PrimaryCompletionDate":"December 2022",
+            "PrimaryCompletionDateType":"Anticipated"
+          },
+          "CompletionDateStruct":{
+            "CompletionDate":"February 2023",
+            "CompletionDateType":"Anticipated"
+          },
+          "StudyFirstSubmitDate":"September 12, 2022",
+          "StudyFirstSubmitQCDate":"September 12, 2022",
+          "StudyFirstPostDateStruct":{
+            "StudyFirstPostDate":"September 14, 2022",
+            "StudyFirstPostDateType":"Actual"
+          },
+          "LastUpdateSubmitDate":"September 14, 2022",
+          "LastUpdatePostDateStruct":{
+            "LastUpdatePostDate":"September 15, 2022",
+            "LastUpdatePostDateType":"Actual"
+          }
+        },
+        "SponsorCollaboratorsModule":{
+          "ResponsibleParty":{
+            "ResponsiblePartyType":"Sponsor"
+          },
+          "LeadSponsor":{
+            "LeadSponsorName":"BTL Industries Ltd.",
+            "LeadSponsorClass":"INDUSTRY"
+          }
+        },
+        "OversightModule":{
+          "OversightHasDMC":"No",
+          "IsFDARegulatedDrug":"No",
+          "IsFDARegulatedDevice":"Yes",
+          "IsUSExport":"No"
+        },
+        "DescriptionModule":{
+          "BriefSummary":"This study will evaluate the clinical efficacy and performance of the BTL-899 device for changes in subcutaneous fat and muscle tissue in the lateral abdomen region (also referred to as flanks or \"love handles\"). The study is a prospective, multi-center, open-label, single-arm study. The subjects will be enrolled and assigned into a single study group. Subjects will be required to complete four (4) treatment visits and two follow-up visits. All of the study subjects will receive the treatment with the subject device.",
+          "DetailedDescription":"At the baseline visit, MRI imaging will be performed; the subject's weight and waist circumference will be recorded. Digital photographs of the treated area will be taken.\n\nThe treatment administration phase will consist of four (4) treatments, delivered 5-10 days apart. The applicators of BTL-899 will be applied over the area of flanks. The device will induce visible muscle contractions along with heating of the subcutaneous fat. Each therapy session will last 30 minutes.\n\nAt the last therapy visit, the subject's weight and waist circumference will be recorded, and digital photographs of the treated area will be taken. In addition, subjects will receive Therapy Comfort and Subject Satisfaction Questionnaire to fill in.\n\nSafety measures will include documentation of adverse events (AE), which will be assessed after each procedure and at all of the follow-up visits."
+        },
+        "ConditionsModule":{
+          "ConditionList":{
+            "Condition":[
+              "Fat Burn"
+            ]
+          },
+          "KeywordList":{
+            "Keyword":[
+              "muscle toning",
+              "fat reduction"
+            ]
+          }
+        },
+        "DesignModule":{
+          "StudyType":"Interventional",
+          "PhaseList":{
+            "Phase":[
+              "Not Applicable"
+            ]
+          },
+          "DesignInfo":{
+            "DesignAllocation":"N/A",
+            "DesignInterventionModel":"Single Group Assignment",
+            "DesignPrimaryPurpose":"Treatment",
+            "DesignMaskingInfo":{
+              "DesignMasking":"None (Open Label)"
+            }
+          },
+          "EnrollmentInfo":{
+            "EnrollmentCount":"46",
+            "EnrollmentType":"Actual"
+          }
+        },
+        "ArmsInterventionsModule":{
+          "ArmGroupList":{
+            "ArmGroup":[
+              {
+                "ArmGroupLabel":"Evaluation of change in adipose and muscle layer thickness",
+                "ArmGroupType":"Experimental",
+                "ArmGroupDescription":"Evaluation of change in adipose and muscle layer thickness between pre-treatment and post-treatment based on MRI imaging and waist circumference measurements",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Device: BTL-899"
+                  ]
+                }
+              }
+            ]
+          },
+          "InterventionList":{
+            "Intervention":[
+              {
+                "InterventionType":"Device",
+                "InterventionName":"BTL-899",
+                "InterventionDescription":"Treatment with applicators C4/C5 to the BTL-899 system.",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Evaluation of change in adipose and muscle layer thickness"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "OutcomesModule":{
+          "PrimaryOutcomeList":{
+            "PrimaryOutcome":[
+              {
+                "PrimaryOutcomeMeasure":"Evaluation of change in adipose and muscle layer thickness",
+                "PrimaryOutcomeDescription":"The changes in muscles and adipose tissue of the treatment area between pre-treatment and post-treatment will be evaluated according to the MRI imaging and waist circumference measurements.\n\nUsing the obtained MRI images, changes in adipose and muscular tissues before and after the therapy sessions will be compared for every participant according to the study phase.\n\nThe circumference before and after the study therapy will be compared for each subject, according to the study phase. The circumference will be measured to identify any change in abdominal circumference related to changes in adipose tissue and muscle thickness.\n\nWhen applicable, the statistical analysis will be conducted in Microsoft Excel spreadsheet software with a level of significance set to 5%.",
+                "PrimaryOutcomeTimeFrame":"4 months"
+              }
+            ]
+          },
+          "SecondaryOutcomeList":{
+            "SecondaryOutcome":[
+              {
+                "SecondaryOutcomeMeasure":"Subject Satisfaction",
+                "SecondaryOutcomeDescription":"The 5-point Likert scale Subject Satisfaction Questionnaire will be used for an analysis of the subject's opinion of the therapy results, where the best possible answer would be \"strongly agree\" and the worst \"strongly disagree\".",
+                "SecondaryOutcomeTimeFrame":"4 months"
+              }
+            ]
+          }
+        },
+        "EligibilityModule":{
+          "EligibilityCriteria":"Inclusion Criteria:\n\nAge 22 years and older\nVoluntarily signed an informed consent form\nBMI ≤ 35 kg/m2\nWomen of child-bearing potential are required to use birth control measures during the whole duration of the study\nSubjects willing and able to abstain from partaking in any treatments other than the study procedure to promote body contouring during study participation\nSubjects willing and able to maintain their regular (pre-procedure) diet and exercise regimen without affecting significant change in either direction during study participation\n\nExclusion Criteria:\n\nElectronic implants (such as cardiac pacemakers, defibrillators, and neurostimulators)\nMetal implants\nDrug pumps\nMalignant tumor\nPulmonary insufficiency\nInjured or otherwise impaired muscles\nCardiovascular diseases\nDisturbance of temperature or pain perception\nHemorrhagic conditions\nSeptic conditions and empyema\nAcute inflammations\nSystemic or local infection such as osteomyelitis and tuberculosis\nContagious skin disease\nElevated body temperature\nPregnancy, postpartum period, nursing, and menstruation\nA metal-containing intrauterine device (IUD)\nSwollen or neoplastic tissues, space-occupying lesions or skin eruptions in the treatment area\nGraves' disease",
+          "HealthyVolunteers":"Accepts Healthy Volunteers",
+          "Gender":"All",
+          "MinimumAge":"22 Years",
+          "StdAgeList":{
+            "StdAge":[
+              "Adult",
+              "Older Adult"
+            ]
+          }
+        },
+        "ContactsLocationsModule":{
+          "LocationList":{
+            "Location":[
+              {
+                "LocationFacility":"Laser & Skin Surgery Center of Northern California",
+                "LocationCity":"Sacramento",
+                "LocationState":"California",
+                "LocationZip":"95816",
+                "LocationCountry":"United States"
+              },{
+                "LocationFacility":"AboutSkin Research, LLC",
+                "LocationCity":"Greenwood Village",
+                "LocationState":"Colorado",
+                "LocationZip":"80111",
+                "LocationCountry":"United States"
+              },{
+                "LocationFacility":"Georgia Plastic & Reconstructive Surgery",
+                "LocationCity":"Marietta",
+                "LocationState":"Georgia",
+                "LocationZip":"30008",
+                "LocationCountry":"United States"
+              },{
+                "LocationFacility":"Chicago Cosmetic Surgery and Dermatology",
+                "LocationCity":"Chicago",
+                "LocationState":"Illinois",
+                "LocationZip":"60654",
+                "LocationCountry":"United States"
+              },{
+                "LocationFacility":"New Jersey Plastic Surgery (NJPS)",
+                "LocationCity":"Montclair",
+                "LocationState":"New Jersey",
+                "LocationZip":"07042",
+                "LocationCountry":"United States"
+              },{
+                "LocationFacility":"Integrated Aesthetics",
+                "LocationCity":"Spring",
+                "LocationState":"Texas",
+                "LocationZip":"77388",
+                "LocationCountry":"United States"
+              }
+            ]
+          }
+        },
+        "IPDSharingStatementModule":{
+          "IPDSharing":"No"
+        }
+      },
+      "DerivedSection":{
+        "MiscInfoModule":{
+          "VersionHolder":"September 19, 2022"
+        },
+        "ConditionBrowseModule":{
+          "ConditionBrowseLeafList":{
+            "ConditionBrowseLeaf":[
+              {
+                "ConditionBrowseLeafId":"M4478",
+                "ConditionBrowseLeafName":"Burns",
+                "ConditionBrowseLeafRelevance":"low"
+              }
+            ]
+          },
+          "ConditionBrowseBranchList":{
+            "ConditionBrowseBranch":[
+              {
+                "ConditionBrowseBranchAbbrev":"BC26",
+                "ConditionBrowseBranchName":"Wounds and Injuries"
+              },{
+                "ConditionBrowseBranchAbbrev":"All",
+                "ConditionBrowseBranchName":"All Conditions"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+

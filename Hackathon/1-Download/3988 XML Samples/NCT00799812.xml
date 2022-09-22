@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2244">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00799812</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ENT 371-121</org_study_id>
+    <nct_id>NCT00799812</nct_id>
+  </id_info>
+  <brief_title>Test for Pre Operative Skin Preparations</brief_title>
+  <official_title>Test for Pre Operative Skin Preparations: ChloraPrep Triple Swabsticks, Hibiclens and Sterile Triple Swabsticks (Using Sterile Deionized Water)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>CareFusion</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>CareFusion</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Compare 2 application techniques of ChloraPrep Swabstick--3 swabsticks at once versus 3&#xD;
+      swabsticks used sequentially. Hibiclens applied according to the manufacturer's directions.&#xD;
+      Sterile swabsticks (wetted with sterile deionizd water) applied using the same method as the&#xD;
+      ChloraPrep Swabstick.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Determine differences (if any) in 2 different application techniques of ChloraPrep&#xD;
+      Swabstick--3 swabsticks at once versus 3 swabsticks used sequentially. Hibiclens, a liquid&#xD;
+      antibacterial soap, applied according to the manufacturer's directions as a active/positive&#xD;
+      comparison. Sterile swabsticks (wetted with sterile deionized water) applied as a negative&#xD;
+      comparison using the same method as the ChloraPrep swabstick.&#xD;
+&#xD;
+      Study uses topical sampling from the abdomen and the groin on intact skin and evaluates the&#xD;
+      germs left on the skin after treatment with ChloraPrep Swabsticks.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">November 13, 2007</start_date>
+  <completion_date type="Actual">June 19, 2008</completion_date>
+  <primary_completion_date type="Actual">April 27, 2008</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>log10 Reductions From Baseline for Each Test Parameter in CFU (Colony Forming Unit)/cm2 on Inguinal and Abdominal Sites</measure>
+    <time_frame>10 minutes and 6 hours after application of test solutions</time_frame>
+    <description>The bacterial reductions achieved by the test products and the controls using 2 different application techniques at 10-minute and 6-hour sampling intervals for both groin and abdominal sites were evaluated.</description>
+  </primary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Actual">335</enrollment>
+  <condition>Topical Antisepsis</condition>
+  <arm_group>
+    <arm_group_label>CHG Swabstick (3 @ once)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Chlorhexidine gluconate (CHG) 2% w/v CHG/isopropyl alcohol (IPA) 70% v/v - 3 swabsticks applied @ same time</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CHG Swabstick sequential</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Chlorhexidine gluconate (CHG) 2% w/v and isopropyl alcohol (IPA) 70% v/v - 3 swabsticks applied sequentially</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Hibiclens</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Chlorhexidine gluconate (CHG) 4% w/v in an aqueous base</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sterile water swab (3 @ once)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Sterile swabstick wetted with sterile deionized water - 3 swabsticks applied at the same time.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sterile water swabstick (sequential)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Sterile swabstick wetted with sterile water--3 swabsticks applied sequentially.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>CHG 2% w/v &amp; IPA 70% v/v, swabstick (3 @ once).</intervention_name>
+    <description>3 swabsticks topically applied at the same time to intact skin</description>
+    <arm_group_label>CHG Swabstick (3 @ once)</arm_group_label>
+    <other_name>ChloraPrep Swabstick</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>CHG 2% w/v &amp; IPA 70% v/v swab applied sequentially</intervention_name>
+    <description>Chlorhexidine gluconate 2% w/v and isopropyl alcohol 70% v/v; 3 swabsticks applied sequentially to intact skin.</description>
+    <arm_group_label>CHG Swabstick sequential</arm_group_label>
+    <other_name>ChloraPrep Swabstick</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Aqueous CHG 4% w/v applied according to mfr's directions</intervention_name>
+    <description>Chlorhexidine gluconate 4% w/v in an aqueous base applied according to mfr's directions. Step 1) 5 ml of Hibiclens applied to a sterile gauze pad. Step 2) Product applied to treatment area on intact skin for 2 minutes. Area dried with sterile towel or sterile gauze. Steps 1 and 2 repeated.</description>
+    <arm_group_label>Hibiclens</arm_group_label>
+    <other_name>Hibiclens</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Sterile swabstick with sterile water (3 @ once)</intervention_name>
+    <description>3 sterile swabsticks wetted with sterile water topically applied to intact skin at the same time.</description>
+    <arm_group_label>Sterile water swab (3 @ once)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Sterile swabstick with sterile water (one-at-a-time)</intervention_name>
+    <description>Sterile swabsticks wetted with sterile water topically applied to intact skin one-at-a-time.</description>
+    <arm_group_label>Sterile water swabstick (sequential)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Subjects must read and sign an Informed Consent Form and be cooperative.&#xD;
+&#xD;
+          -  Subjects must be in good general health.&#xD;
+&#xD;
+          -  Subjects must have skin within 6 inches of the test site that is free of tattoos,&#xD;
+             dermatoses, abrasions, cuts, lesions, or other skin disorders.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Use of systemic or topical antimicrobials during the 2-week pretest conditioning&#xD;
+             period. This restriction includes but is not limited to shampoos, lotions, soaps, baby&#xD;
+             powders, and materials, such as solvents, acids, or alkalis.&#xD;
+&#xD;
+          -  A medical diagnosis of a physical condition, which would preclude participation such&#xD;
+             as: diabetes, hepatitis, an organ transplant, a medical surgical implant, or an&#xD;
+             immunocompromised system.&#xD;
+&#xD;
+          -  Any medical condition that in the opinion of the investigator would preclude&#xD;
+             participation.&#xD;
+&#xD;
+          -  Bathed in chemically treated pools or hot tubs 2 weeks prior to any microbial&#xD;
+             sampling.&#xD;
+&#xD;
+          -  Used UV tanning lamps 2 weeks prior to any microbial sampling.&#xD;
+&#xD;
+          -  Bathing or showering less than 48 hours prior to any microbial sampling.&#xD;
+&#xD;
+          -  Known sensitivity to chlorhexidine gluconate.&#xD;
+&#xD;
+          -  Known sensitivity to latex (rubber).&#xD;
+&#xD;
+          -  Known sensitivity to fragrances.&#xD;
+&#xD;
+          -  Pregnant or nursing.&#xD;
+&#xD;
+          -  Unwillingness to fulfill the performance requirements of the study.&#xD;
+&#xD;
+          -  Subjects who have completed part or all of the study will not be reentered in the&#xD;
+             study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>M. Hamid Bashir, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Medical Director</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Microbiotest</name>
+      <address>
+        <city>Sterling</city>
+        <state>Virginia</state>
+        <zip>20164</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2021</verification_date>
+  <study_first_submitted>November 26, 2008</study_first_submitted>
+  <study_first_submitted_qc>November 26, 2008</study_first_submitted_qc>
+  <study_first_posted type="Estimate">December 1, 2008</study_first_posted>
+  <results_first_submitted>March 23, 2018</results_first_submitted>
+  <results_first_submitted_qc>May 26, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">May 27, 2021</results_first_posted>
+  <last_update_submitted>May 26, 2021</last_update_submitted>
+  <last_update_submitted_qc>May 26, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 27, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>antimicrobial</keyword>
+  <keyword>antisepsis</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Chlorhexidine gluconate</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>August 24, 2007</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/12/NCT00799812/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>Each subject received more than one treatment. Randomization was done by testing site and each subject had 4 testing sites.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>All Study Participants</title>
+          <description>Study Participants that were treated</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="335"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>CHG Swabstick (3 @ Once)</title>
+              <participants_list>
+                <participants group_id="P1" count="139"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>CHG Swabstick Sequential</title>
+              <participants_list>
+                <participants group_id="P1" count="138"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Hibiclens</title>
+              <participants_list>
+                <participants group_id="P1" count="133"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Sterile Water Swab (3 @ Once)</title>
+              <participants_list>
+                <participants group_id="P1" count="132"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Sterile Water Swabstick (Sequential)</title>
+              <participants_list>
+                <participants group_id="P1" count="126"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="335"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Participants treated in the study with adequate baseline bacterial load.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>All Study Participants</title>
+          <description>All Participants Who Completed Evaluations</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="335"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="34.9" spread="14.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>All Participants</title>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="149"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="186"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>371-121 Preoperative Skin Preparations</title>
+          <description>Note: Participants received 2 of the 5 study products. One product is applied to on the left abdomen and groin and one product is applied on the right abdomen and groin.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>CHG Swabstick (3 @ Once)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="139"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>CHG Swabstick (Sequential)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="138"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hibiclens</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="133"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Sterile Water Swab (3 @ Once)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="132"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Sterile Water Swabstick (Sequential)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="126"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>log10 Reductions From Baseline for Each Test Parameter in CFU (Colony Forming Unit)/cm2 on Inguinal and Abdominal Sites</title>
+        <description>The bacterial reductions achieved by the test products and the controls using 2 different application techniques at 10-minute and 6-hour sampling intervals for both groin and abdominal sites were evaluated.</description>
+        <time_frame>10 minutes and 6 hours after application of test solutions</time_frame>
+        <population>Measure Analysis Population Description: Number analyzed is not equal to participants treated but rather equal to the number of treated sites for individuals who met the baseline bacterial load criteria on treatment day</population>
+        <group_list>
+          <group group_id="O1">
+            <title>CHG Swabstick (3 @ Once)</title>
+            <description>Chlorhexidine gluconate (CHG) 2% w/v CHG/isopropyl alcohol (IPA) 70% v/v - 3 swabsticks applied @ same time&#xD;
+CHG 2% w/v &amp; IPA 70% v/v, swabstick (3 @ once).: 3 swabsticks topically applied at the same time to intact skin</description>
+          </group>
+          <group group_id="O2">
+            <title>CHG Swabstick Sequential</title>
+            <description>Chlorhexidine gluconate (CHG) 2% w/v and isopropyl alcohol (IPA) 70% v/v - 3 swabsticks applied sequentially&#xD;
+CHG 2% w/v &amp; IPA 70% v/v swab applied sequentially: Chlorhexidine gluconate 2% w/v and isopropyl alcohol 70% v/v; 3 swabsticks applied sequentially to intact skin.</description>
+          </group>
+          <group group_id="O3">
+            <title>Hibiclens</title>
+            <description>Chlorhexidine gluconate (CHG) 4% w/v in an aqueous base&#xD;
+Aqueous CHG 4% w/v applied according to mfr's directions: Chlorhexidine gluconate 4% w/v in an aqueous base applied according to mfr's directions. Step 1) 5 ml of Hibiclens applied to a sterile gauze pad. Step 2) Product applied to treatment area on intact skin for 2 minutes. Area dried with sterile towel or sterile gauze. Steps 1 and 2 repeated.</description>
+          </group>
+          <group group_id="O4">
+            <title>Sterile Water Swab (3 @ Once)</title>
+            <description>Sterile swabstick wetted with sterile deionized water - 3 swabsticks applied at the same time.&#xD;
+Sterile swabstick with sterile water (3 @ once): 3 sterile swabsticks wetted with sterile water topically applied to intact skin at the same time.</description>
+          </group>
+          <group group_id="O5">
+            <title>Sterile Water Swabstick (Sequential)</title>
+            <description>Sterile swabstick wetted with sterile water--3 swabsticks applied sequentially.&#xD;
+Sterile swabstick with sterile water (one-at-a-time): Sterile swabsticks wetted with sterile water topically applied to intact skin one-at-a-time.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>log10 Reductions From Baseline for Each Test Parameter in CFU (Colony Forming Unit)/cm2 on Inguinal and Abdominal Sites</title>
+          <description>The bacterial reductions achieved by the test products and the controls using 2 different application techniques at 10-minute and 6-hour sampling intervals for both groin and abdominal sites were evaluated.</description>
+          <population>Measure Analysis Population Description: Number analyzed is not equal to participants treated but rather equal to the number of treated sites for individuals who met the baseline bacterial load criteria on treatment day</population>
+          <units>Average log10 reductions in CFU/cm2</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <units_analyzed>Number of Sites Analyzed</units_analyzed>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="111"/>
+                <count group_id="O2" value="112"/>
+                <count group_id="O3" value="111"/>
+                <count group_id="O4" value="111"/>
+                <count group_id="O5" value="112"/>
+              </count_list>
+            </analyzed>
+            <analyzed>
+              <units>Number of Sites Analyzed</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="276"/>
+                <count group_id="O2" value="273"/>
+                <count group_id="O3" value="264"/>
+                <count group_id="O4" value="260"/>
+                <count group_id="O5" value="251"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Groin site - 10 minutes</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="111"/>
+                    <count group_id="O2" value="112"/>
+                    <count group_id="O3" value="111"/>
+                    <count group_id="O4" value="111"/>
+                    <count group_id="O5" value="112"/>
+                  </count_list>
+                </analyzed>
+                <analyzed>
+                  <units>Number of Sites Analyzed</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="111"/>
+                    <count group_id="O2" value="111"/>
+                    <count group_id="O3" value="111"/>
+                    <count group_id="O4" value="111"/>
+                    <count group_id="O5" value="111"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.51" spread="0.62"/>
+                    <measurement group_id="O2" value="3.44" spread="0.64"/>
+                    <measurement group_id="O3" value="3.15" spread="0.53"/>
+                    <measurement group_id="O4" value="0.92" spread="0.47"/>
+                    <measurement group_id="O5" value="0.97" spread="0.55"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Groin site - 6 hours</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="111"/>
+                    <count group_id="O2" value="112"/>
+                    <count group_id="O3" value="111"/>
+                    <count group_id="O4" value="111"/>
+                    <count group_id="O5" value="112"/>
+                  </count_list>
+                </analyzed>
+                <analyzed>
+                  <units>Number of Sites Analyzed</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="111"/>
+                    <count group_id="O2" value="111"/>
+                    <count group_id="O3" value="111"/>
+                    <count group_id="O4" value="111"/>
+                    <count group_id="O5" value="111"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.22" spread="0.65"/>
+                    <measurement group_id="O2" value="3.24" spread="0.58"/>
+                    <measurement group_id="O3" value="2.89" spread="0.62"/>
+                    <measurement group_id="O4" value="0.82" spread="0.47"/>
+                    <measurement group_id="O5" value="0.85" spread="0.58"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Abdomen site - 10 minutes</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="111"/>
+                    <count group_id="O2" value="112"/>
+                    <count group_id="O3" value="111"/>
+                    <count group_id="O4" value="111"/>
+                    <count group_id="O5" value="112"/>
+                  </count_list>
+                </analyzed>
+                <analyzed>
+                  <units>Number of Sites Analyzed</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="111"/>
+                    <count group_id="O2" value="112"/>
+                    <count group_id="O3" value="111"/>
+                    <count group_id="O4" value="111"/>
+                    <count group_id="O5" value="112"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.56" spread="0.50"/>
+                    <measurement group_id="O2" value="2.58" spread="0.48"/>
+                    <measurement group_id="O3" value="2.76" spread="0.49"/>
+                    <measurement group_id="O4" value="0.54" spread="0.37"/>
+                    <measurement group_id="O5" value="0.50" spread="0.35"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Abdomen site - 6 hours</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="111"/>
+                    <count group_id="O2" value="112"/>
+                    <count group_id="O3" value="111"/>
+                    <count group_id="O4" value="111"/>
+                    <count group_id="O5" value="112"/>
+                  </count_list>
+                </analyzed>
+                <analyzed>
+                  <units>Number of Sites Analyzed</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="111"/>
+                    <count group_id="O2" value="112"/>
+                    <count group_id="O3" value="111"/>
+                    <count group_id="O4" value="111"/>
+                    <count group_id="O5" value="112"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.38" spread="0.60"/>
+                    <measurement group_id="O2" value="2.39" spread="0.64"/>
+                    <measurement group_id="O3" value="2.51" spread="0.66"/>
+                    <measurement group_id="O4" value="0.47" spread="0.38"/>
+                    <measurement group_id="O5" value="0.46" spread="0.39"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>During the study through the 6-hour time point evaluations</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>CHG Swabstick (3 @ Once)</title>
+          <description>Chlorhexidine gluconate (CHG) 2% CHG/isopropyl alcohol (IPA) 70%-3 swabsticks applied @ same time&#xD;
+CHG 2% w/v &amp; IPA 70% v/v, swabstick (3 @ once): 3 swabsticks topically applied at the same time to intact skin</description>
+        </group>
+        <group group_id="E2">
+          <title>CHG Swabstick Sequential</title>
+          <description>Chlorhexidine gluconate (CHG) 2% w/v and isopropyl alcohol (IPA) 70% v/v--3 swabsticks applied sequentially&#xD;
+CHG 2% w/v &amp; IPA 70% v/v swabstick: 3 swabsticks applied sequentially to intact skin.</description>
+        </group>
+        <group group_id="E3">
+          <title>Hibiclens</title>
+          <description>Chlorhexidine gluconate 4% w/v in an aqueous base&#xD;
+Aqueous CHG 4% w/v applied according to manufacturer's directions: Step 1) 5 mL of Hibiclens applied to a sterile gauze pad. Step 2) Product applied to treatment area on intact skin for 2 minutes. Area dried with sterile towel or sterile gauze. Steps 1 and 2 repeated.</description>
+        </group>
+        <group group_id="E4">
+          <title>Sterile Water Swab (3 @ Once)</title>
+          <description>Sterile swabstick wetted with sterile deionized water--3 swabsticks applied at the same time.&#xD;
+Sterile swabstick with sterile deionized water (3 @ once): 3 swabsticks wetted with sterile water topically applied to intact skin at the same time.</description>
+        </group>
+        <group group_id="E5">
+          <title>Sterile Water Swabstick (Sequential)</title>
+          <description>Sterile swabstick wetted with sterile deionized water--3 swabsticks applied sequentially.&#xD;
+Sterile swabstick with sterile deionized water (sequentially): swabsticks wetted with sterile water topically applied to intact skin sequentially.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="139"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="138"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="133"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="132"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="126"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="139"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="138"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="133"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="132"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="126"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="139"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="138"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="133"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="132"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="126"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There IS an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Erin Zook</name_or_title>
+      <organization>BD</organization>
+      <phone>847-362-9047</phone>
+      <email>erin.zook@bd.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

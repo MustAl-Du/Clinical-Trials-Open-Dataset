@@ -1,0 +1,1451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2154">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01821300</url>
+  </required_header>
+  <id_info>
+    <org_study_id>12-009233</org_study_id>
+    <secondary_id>1R01HD071981-01A1</secondary_id>
+    <nct_id>NCT01821300</nct_id>
+  </id_info>
+  <brief_title>Down Syndrome Metabolic Health Study</brief_title>
+  <official_title>Cardiometabolic Risk and Obesity in Adolescents With Down Syndrome</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Children's Hospital of Philadelphia</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institutes of Health (NIH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Children's Hospital of Philadelphia</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this research study is to determine which measures best capture cardiovascular&#xD;
+      disease (CVD) risk and type 2 diabetes (T2DM) risk in children and adolescents with Down&#xD;
+      syndrome (DS).&#xD;
+&#xD;
+      We hypothesize that DS is associated with worse cardiometabolic risk factors for a given body&#xD;
+      mass index compared to controls. This difference arises at least in part, from increased fat&#xD;
+      tissue.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      DS affects 1 per 800 births and is one of the most common causes of developmental disability&#xD;
+      in the US. Life expectancy for Down syndrome has increased significantly: estimated median&#xD;
+      survival in the US in 1997 was 49 years. DS is associated with an increased risk for obesity,&#xD;
+      with an estimated prevalence of 47-48% in adults and 30-50% in children with DS. Adolescents&#xD;
+      with DS are more likely to have increased adiposity compared to unaffected peers and may be&#xD;
+      at increased risk for obesity-related co-morbidities, such as type 2 diabetes and&#xD;
+      cardiovascular disease. How one defines obesity in DS is not clear. Individuals with DS have&#xD;
+      short stature and possibly increased adiposity, and the body mass index (BMI) used to define&#xD;
+      obesity for otherwise healthy populations may not accurately depict body fatness or capture&#xD;
+      cardiometabolic risk in DS.&#xD;
+&#xD;
+      Congenital heart disease (CHD) affects approximately 50% of individuals with DS; the National&#xD;
+      Institutes of Health Heart Lung and Blood Institute (NHLBI) Working Group on Obesity and&#xD;
+      Other Cardiovascular Risk Factors in Congenital Heart Disease highlighted the high prevalence&#xD;
+      of obesity in the setting of CHD, and called for studies to identify obesity measures that&#xD;
+      are more sensitive than BMI as well as studies of CVD risk prevention. Unfortunately,&#xD;
+      clinicians caring for obese adolescents with DS with or without CHD have little scientific&#xD;
+      evidence upon which to base guidance regarding cardiometabolic risk (CMR): data regarding CVD&#xD;
+      risk and prevalence of pre-diabetes and T2DM in obese adolescents with DS are lacking.&#xD;
+&#xD;
+      The measure of body fatness which best predicts CMR in DS is not known. We plan to compare&#xD;
+      BMI and other measures of body fatness in healthy controls and adolescents with DS to&#xD;
+      determine which measures best capture CVD and/or T2DM risk. These data will equip medical&#xD;
+      providers with the tools to better assess risk, initiate prevention measures, and guide&#xD;
+      screening in adolescents with DS.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>February 2013</start_date>
+  <completion_date type="Actual">August 25, 2017</completion_date>
+  <primary_completion_date type="Actual">August 25, 2017</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Non-HDL Cholesterol</measure>
+    <time_frame>Study Visit 1</time_frame>
+    <description>Non-HDL cholesterol measured via fasting blood draw</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Lipid Subparticles</measure>
+    <time_frame>Study Visit 1</time_frame>
+    <description>Lipoprotein subclass particle analysis run on samples from fasting blood drawn Study Visit 1.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Lipid Subparticles (Size)</measure>
+    <time_frame>Study Visit 1</time_frame>
+    <description>Lipoprotein subclass particle analysis run on samples from fasting blood drawn Study Visit 1.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Insulin Resistance</measure>
+    <time_frame>Study Visit 1</time_frame>
+    <description>Insulin Resistance (HOMA-IR) was calculated as [fasting insulin (uIU/mL) x fasting glycemia (mmol/L)]/22.5</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cardiometabolic Risk Biomarker Proteins</measure>
+    <time_frame>Study Visit 1</time_frame>
+    <description>hs-CRP, PAI-1, and IL-6 run on samples from fasting blood drawn Study Visit 1.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Abnormal Glucose Tolerance</measure>
+    <time_frame>Study Visit 1</time_frame>
+    <description>Impaired fasting glucose (IFG) was defined as fasting glucose ≥ 100 mg/dl. Impaired glucose tolerance (IGT) was defined as 2-hour glucose 140-199 mg/dl measured as part of an oral glucose tolerance test.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Visceral Fat</measure>
+    <time_frame>Study Visit 1</time_frame>
+    <description>Adiposity measured by Dual-energy X-ray absorptiometry</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Body Mass Measures</measure>
+    <time_frame>Study Visit 1</time_frame>
+    <description>Adiposity measured by Dual-energy X-ray absorptiometry</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Left Ventricular Mass</measure>
+    <time_frame>Study Visit 1</time_frame>
+    <description>Cardiac end organ injury assessed by echocardiography. Left Ventricular Mass (LVM) was measured by area/length method using the apical four-chamber and parasternal short-axis views. LVM was calculated as LV area × LV length × 1.05 × 5/6.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pulse Wave Velocity</measure>
+    <time_frame>Study Visit 1</time_frame>
+    <description>Cardiac end organ injury assessed by Pulse Wave Velocity (PWV)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Health Related Quality of Life - PedsQL</measure>
+    <time_frame>Study Visit 1</time_frame>
+    <description>Caregiver-perception of his/her child's health-related QOL was assessed with the use of the parent-proxy report of the Pediatric Quality of Life Inventory (PedsQL) Version 4.0. Sub-scale scores are converted to a 0-100 scale so that greater scores indicate better QOL. Scale scores are computed as the sum of the items divided by the number of items answered (this accounts for missing data). If more than 50% of the items in the scale are missing, the scale score is not computed. The Physical Health Summary Score (8 items) is the same as the Physical Functioning Scale. To create the Psychosocial Health Summary Score (15 items), the mean is computed as the sum of the items divided by the number of items answered in the Emotional, Social, and School Functioning Scales.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health Related Quality of Life - IWQOL</measure>
+    <time_frame>Study Visit 1</time_frame>
+    <description>Parent perception of the effects of weight on his/her child's QOL was assessed with a caregiver-proxy version of the Impact of Weight on Quality of Life - Kids (IWQOL-Kids) questionnaire. The IWQOL-Kids is a validated, 27-item, self-report measure of weight-related QOL for youth ages 11-19 years. It yields 4 subscales (Physical Comfort, Body Esteem, Social Life, and Family Relations) and a Total score, which have strong psychometric properties, discriminate among weight status groups, and are responsive to weight change. Scaled scores are standardized and range from 0 to 100, with greater scores representing better weight-related QOL.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">257</enrollment>
+  <condition>Down Syndrome</condition>
+  <condition>Trisomy 21</condition>
+  <arm_group>
+    <arm_group_label>Down syndrome</arm_group_label>
+    <description>No intervention occurred as this was a cross sectional observational study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <description>No intervention occurred as this was a cross sectional observational study.</description>
+  </arm_group>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood serum will be retained.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Participants will be recruited from primary care and speciality clinics, Trisomy 21 events,&#xD;
+        T21 interest groups, and referrals.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Both groups: Ages 10 - 20&#xD;
+&#xD;
+          -  Both groups: Parental/guardian permission (informed consent) and if appropriate, child&#xD;
+             assent.&#xD;
+&#xD;
+          -  Down syndrome group only: diagnosis of Down syndrome&#xD;
+&#xD;
+        Exclusion Criteria (both groups):&#xD;
+&#xD;
+          -  Major organ system illness (such as leukemia), except for type 2 Diabetes&#xD;
+&#xD;
+          -  Cyanotic congenital heart disease and/or pulmonary hypertension&#xD;
+&#xD;
+          -  Medically unstable congenital heart disease&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  Genetic syndrome known to affect glucose tolerance&#xD;
+&#xD;
+          -  Familial hypercholesterolemia&#xD;
+&#xD;
+          -  Currently treated with medications known to affect insulin sensitivity (other than&#xD;
+             diabetes agents in participants with type 2 diabetes)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>10 Years</minimum_age>
+    <maximum_age>20 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Andrea Kelly, MD, MSCE</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Children's Hospital of Philadelphia</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Children's National Medical Center</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Children's Hospital of Philadelphia</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>July 2019</verification_date>
+  <study_first_submitted>March 27, 2013</study_first_submitted>
+  <study_first_submitted_qc>March 27, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 1, 2013</study_first_posted>
+  <results_first_submitted>October 31, 2018</results_first_submitted>
+  <results_first_submitted_qc>December 20, 2018</results_first_submitted_qc>
+  <results_first_posted type="Actual">January 9, 2019</results_first_posted>
+  <last_update_submitted>July 19, 2019</last_update_submitted>
+  <last_update_submitted_qc>July 19, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 31, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Down syndrome</keyword>
+  <keyword>Philadelphia</keyword>
+  <keyword>The Children's Hospital of Philadelphia</keyword>
+  <keyword>Body composition</keyword>
+  <keyword>Obesity</keyword>
+  <keyword>Cardiovascular</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Down Syndrome</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+    <mesh_term>Trisomy</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>June 21, 2017</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/00/NCT01821300/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Down Syndrome</title>
+          <description>154 participants ages 10-20 years old.&#xD;
+No intervention occurred as this is a cross-sectional observational study.</description>
+        </group>
+        <group group_id="P2">
+          <title>Control</title>
+          <description>103 age-, sex-, race-, ethnicity-, and BMI percentile-matched control subjects.&#xD;
+No intervention occurred as this is a cross-sectional observational study.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="154"/>
+                <participants group_id="P2" count="103"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="154"/>
+                <participants group_id="P2" count="103"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Participants from the Down syndrome and control groups were matched on BMI percentile, age, race, ethnicity, and sex.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Down Syndrome</title>
+          <description>Our goal is to enroll 155 subjects with Down syndrome, and to compare their data to our control group.</description>
+        </group>
+        <group group_id="B2">
+          <title>Control</title>
+          <description>Our goal is to enroll 105 typically developing controls, who are matched to the Down syndrome group by age, sex, race, ethnicity, and BMI-z score.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="154"/>
+            <count group_id="B2" value="103"/>
+            <count group_id="B3" value="257"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14.4" spread="0.3"/>
+                    <measurement group_id="B2" value="14.7" spread="0.3"/>
+                    <measurement group_id="B3" value="14.7" spread="0.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="87"/>
+                    <measurement group_id="B2" value="61"/>
+                    <measurement group_id="B3" value="148"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="67"/>
+                    <measurement group_id="B2" value="42"/>
+                    <measurement group_id="B3" value="109"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="19"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="141"/>
+                    <measurement group_id="B2" value="97"/>
+                    <measurement group_id="B3" value="238"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="30"/>
+                    <measurement group_id="B2" value="24"/>
+                    <measurement group_id="B3" value="54"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="117"/>
+                    <measurement group_id="B2" value="74"/>
+                    <measurement group_id="B3" value="191"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="154"/>
+                    <measurement group_id="B2" value="103"/>
+                    <measurement group_id="B3" value="257"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>BMI Percentile</title>
+          <description>Height &amp; weight were measured and entered into the online CDC BMI Calculator for children and teens to determine percentile.</description>
+          <units>percentile</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="81.4" spread="1.8"/>
+                    <measurement group_id="B2" value="79.3" spread="2.5"/>
+                    <measurement group_id="B3" value="80.5" spread="1.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Non-HDL Cholesterol</title>
+        <description>Non-HDL cholesterol measured via fasting blood draw</description>
+        <time_frame>Study Visit 1</time_frame>
+        <population>Participants excluded from lipid analysis if they failed to complete blood draw or were diagnosed with Type 1 Diabetes: DS=7, Controls=0</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Down Syndrome</title>
+            <description>Down syndrome participants in observational study.</description>
+          </group>
+          <group group_id="O2">
+            <title>Control</title>
+            <description>Control participants in observational study.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Non-HDL Cholesterol</title>
+          <description>Non-HDL cholesterol measured via fasting blood draw</description>
+          <population>Participants excluded from lipid analysis if they failed to complete blood draw or were diagnosed with Type 1 Diabetes: DS=7, Controls=0</population>
+          <units>mg/dl</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="147"/>
+                <count group_id="O2" value="103"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="128" lower_limit="104" upper_limit="153"/>
+                    <measurement group_id="O2" value="107" lower_limit="92" upper_limit="123"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Lipid Subparticles</title>
+        <description>Lipoprotein subclass particle analysis run on samples from fasting blood drawn Study Visit 1.</description>
+        <time_frame>Study Visit 1</time_frame>
+        <population>Participants excluded from lipid analysis if they failed to complete blood draw or were diagnosed with Type 1 Diabetes: DS=7, Controls=0.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Down Syndrome</title>
+            <description>Down syndrome participants in observational study.</description>
+          </group>
+          <group group_id="O2">
+            <title>Control</title>
+            <description>Control participants in observational study.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Lipid Subparticles</title>
+          <description>Lipoprotein subclass particle analysis run on samples from fasting blood drawn Study Visit 1.</description>
+          <population>Participants excluded from lipid analysis if they failed to complete blood draw or were diagnosed with Type 1 Diabetes: DS=7, Controls=0.</population>
+          <units>nmol/L</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="147"/>
+                <count group_id="O2" value="103"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Small HDL-P (nmol/L)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9.8" lower_limit="5.3" upper_limit="14"/>
+                    <measurement group_id="O2" value="11.7" lower_limit="8.9" upper_limit="14.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Large VLDL-P (nmol/L)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.9" lower_limit="2.3" upper_limit="5.7"/>
+                    <measurement group_id="O2" value="2.4" lower_limit="1.5" upper_limit="4.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Small LDL-P (nmol/L)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="518" lower_limit="401" upper_limit="639"/>
+                    <measurement group_id="O2" value="420" lower_limit="315" upper_limit="529"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Total LDL-P (nmol/L)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="977" lower_limit="806" upper_limit="1193"/>
+                    <measurement group_id="O2" value="850" lower_limit="693" upper_limit="997"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Lipid Subparticles (Size)</title>
+        <description>Lipoprotein subclass particle analysis run on samples from fasting blood drawn Study Visit 1.</description>
+        <time_frame>Study Visit 1</time_frame>
+        <population>Participants excluded from lipid analysis if they failed to complete blood draw or were diagnosed with Type 1 Diabetes: DS=7, Controls=0.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Down Syndrome</title>
+            <description>Down syndrome participants in observational study.</description>
+          </group>
+          <group group_id="O2">
+            <title>Control</title>
+            <description>Control participants in observational study.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Lipid Subparticles (Size)</title>
+          <description>Lipoprotein subclass particle analysis run on samples from fasting blood drawn Study Visit 1.</description>
+          <population>Participants excluded from lipid analysis if they failed to complete blood draw or were diagnosed with Type 1 Diabetes: DS=7, Controls=0.</population>
+          <units>nm</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="147"/>
+                <count group_id="O2" value="103"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>HDL-P size (nm)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9.6" lower_limit="9.2" upper_limit="9.9"/>
+                    <measurement group_id="O2" value="9.6" lower_limit="9.1" upper_limit="9.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>VLDL-P size (nm)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="49.2" lower_limit="45.8" upper_limit="53.6"/>
+                    <measurement group_id="O2" value="47.1" lower_limit="44.2" upper_limit="50.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>LDL-P size (nm)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="20.7" lower_limit="20.3" upper_limit="21.2"/>
+                    <measurement group_id="O2" value="20.7" lower_limit="20.2" upper_limit="21.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Insulin Resistance</title>
+        <description>Insulin Resistance (HOMA-IR) was calculated as [fasting insulin (uIU/mL) x fasting glycemia (mmol/L)]/22.5</description>
+        <time_frame>Study Visit 1</time_frame>
+        <population>Participants excluded from insulin resistance analysis if they failed to complete blood draw or were diagnosed with Type 1 Diabetes: DS=147, Controls=103.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Down Syndrome</title>
+            <description>Down syndrome participants in observational study.</description>
+          </group>
+          <group group_id="O2">
+            <title>Control</title>
+            <description>Control participants in observational study.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Insulin Resistance</title>
+          <description>Insulin Resistance (HOMA-IR) was calculated as [fasting insulin (uIU/mL) x fasting glycemia (mmol/L)]/22.5</description>
+          <population>Participants excluded from insulin resistance analysis if they failed to complete blood draw or were diagnosed with Type 1 Diabetes: DS=147, Controls=103.</population>
+          <units>HOMA-IR</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="147"/>
+                <count group_id="O2" value="103"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.8" lower_limit="1.0" upper_limit="2.7"/>
+                    <measurement group_id="O2" value="1.95" lower_limit="0.92" upper_limit="3.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Cardiometabolic Risk Biomarker Proteins</title>
+        <description>hs-CRP, PAI-1, and IL-6 run on samples from fasting blood drawn Study Visit 1.</description>
+        <time_frame>Study Visit 1</time_frame>
+        <population>Participants excluded from analysis if they failed to complete blood draw or were diagnosed with Type 1 Diabetes: DS=7, Controls=0.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Down Syndrome</title>
+            <description>Down syndrome participants in observational study.</description>
+          </group>
+          <group group_id="O2">
+            <title>Control</title>
+            <description>Control participants in observational study.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Cardiometabolic Risk Biomarker Proteins</title>
+          <description>hs-CRP, PAI-1, and IL-6 run on samples from fasting blood drawn Study Visit 1.</description>
+          <population>Participants excluded from analysis if they failed to complete blood draw or were diagnosed with Type 1 Diabetes: DS=7, Controls=0.</population>
+          <units>ng/dL</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="147"/>
+                <count group_id="O2" value="103"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>IL-6</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.3" lower_limit="1.4" upper_limit="3.5"/>
+                    <measurement group_id="O2" value="1.5" lower_limit="1.4" upper_limit="2.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>PAI-1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0204" lower_limit="0.0132" upper_limit="0.0327"/>
+                    <measurement group_id="O2" value="0.0254" lower_limit="0.0147" upper_limit="0.0385"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>hs-CRP</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.5" lower_limit="0.64" upper_limit="6.9"/>
+                    <measurement group_id="O2" value="1.0" lower_limit="0.32" upper_limit="4.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Abnormal Glucose Tolerance</title>
+        <description>Impaired fasting glucose (IFG) was defined as fasting glucose ≥ 100 mg/dl. Impaired glucose tolerance (IGT) was defined as 2-hour glucose 140-199 mg/dl measured as part of an oral glucose tolerance test.</description>
+        <time_frame>Study Visit 1</time_frame>
+        <population>Participants completed an oral glucose tolerance test if they were in the overweight or obese categories: DS n=96, Control n=64.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Down Syndrome (Overweight &amp; Obese Only)</title>
+            <description>Down syndrome participants in observational study.</description>
+          </group>
+          <group group_id="O2">
+            <title>Control (Overweight Obese Only)</title>
+            <description>Control participants in observational study.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Abnormal Glucose Tolerance</title>
+          <description>Impaired fasting glucose (IFG) was defined as fasting glucose ≥ 100 mg/dl. Impaired glucose tolerance (IGT) was defined as 2-hour glucose 140-199 mg/dl measured as part of an oral glucose tolerance test.</description>
+          <population>Participants completed an oral glucose tolerance test if they were in the overweight or obese categories: DS n=96, Control n=64.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="96"/>
+                <count group_id="O2" value="64"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Impaired Fasting Glucose</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Abnormal Glucose Tolerance</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Visceral Fat</title>
+        <description>Adiposity measured by Dual-energy X-ray absorptiometry</description>
+        <time_frame>Study Visit 1</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Down Syndrome</title>
+            <description>Down syndrome participants in observational study.</description>
+          </group>
+          <group group_id="O2">
+            <title>Control</title>
+            <description>Control participants in observational study.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Visceral Fat</title>
+          <description>Adiposity measured by Dual-energy X-ray absorptiometry</description>
+          <units>cm^2</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="154"/>
+                <count group_id="O2" value="103"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="54.5" lower_limit="39.9" upper_limit="81.9"/>
+                    <measurement group_id="O2" value="55.9" lower_limit="40.6" upper_limit="95.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Body Mass Measures</title>
+        <description>Adiposity measured by Dual-energy X-ray absorptiometry</description>
+        <time_frame>Study Visit 1</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Down Syndrome</title>
+            <description>Down syndrome participants in observational study.</description>
+          </group>
+          <group group_id="O2">
+            <title>Control</title>
+            <description>Control participants in observational study.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Body Mass Measures</title>
+          <description>Adiposity measured by Dual-energy X-ray absorptiometry</description>
+          <units>g</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="154"/>
+                <count group_id="O2" value="103"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Whole Body Fat Mass</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="18607.5" lower_limit="12034.8" upper_limit="27557.7"/>
+                    <measurement group_id="O2" value="22372.1" lower_limit="16143" upper_limit="39723.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Whole Body Lean Mass</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="34927.16" lower_limit="27527.39" upper_limit="42383.86"/>
+                    <measurement group_id="O2" value="44108.3" lower_limit="32439.9" upper_limit="52181.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Left Ventricular Mass</title>
+        <description>Cardiac end organ injury assessed by echocardiography. Left Ventricular Mass (LVM) was measured by area/length method using the apical four-chamber and parasternal short-axis views. LVM was calculated as LV area × LV length × 1.05 × 5/6.</description>
+        <time_frame>Study Visit 1</time_frame>
+        <population>LVM was available in 136 adolescents with DS (60M/76F) and 101nonDS controls (41M/60F).</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Down Syndrome</title>
+            <description>Down syndrome participants in observational study.</description>
+          </group>
+          <group group_id="O2">
+            <title>Control</title>
+            <description>Control participants in observational study.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Left Ventricular Mass</title>
+          <description>Cardiac end organ injury assessed by echocardiography. Left Ventricular Mass (LVM) was measured by area/length method using the apical four-chamber and parasternal short-axis views. LVM was calculated as LV area × LV length × 1.05 × 5/6.</description>
+          <population>LVM was available in 136 adolescents with DS (60M/76F) and 101nonDS controls (41M/60F).</population>
+          <units>g</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="136"/>
+                <count group_id="O2" value="101"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="68.3" lower_limit="32.1" upper_limit="135"/>
+                    <measurement group_id="O2" value="64" lower_limit="53" upper_limit="77"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Pulse Wave Velocity</title>
+        <description>Cardiac end organ injury assessed by Pulse Wave Velocity (PWV)</description>
+        <time_frame>Study Visit 1</time_frame>
+        <population>PWV was available in 129 adolescents with DS and 97 controls</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Down Syndrome</title>
+            <description>Down syndrome participants in observational study.</description>
+          </group>
+          <group group_id="O2">
+            <title>Control</title>
+            <description>Control participants in observational study.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pulse Wave Velocity</title>
+          <description>Cardiac end organ injury assessed by Pulse Wave Velocity (PWV)</description>
+          <population>PWV was available in 129 adolescents with DS and 97 controls</population>
+          <units>m/s</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="129"/>
+                <count group_id="O2" value="97"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5" lower_limit="4.5" upper_limit="5.6"/>
+                    <measurement group_id="O2" value="4.9" lower_limit="4.5" upper_limit="5.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Health Related Quality of Life - PedsQL</title>
+        <description>Caregiver-perception of his/her child's health-related QOL was assessed with the use of the parent-proxy report of the Pediatric Quality of Life Inventory (PedsQL) Version 4.0. Sub-scale scores are converted to a 0-100 scale so that greater scores indicate better QOL. Scale scores are computed as the sum of the items divided by the number of items answered (this accounts for missing data). If more than 50% of the items in the scale are missing, the scale score is not computed. The Physical Health Summary Score (8 items) is the same as the Physical Functioning Scale. To create the Psychosocial Health Summary Score (15 items), the mean is computed as the sum of the items divided by the number of items answered in the Emotional, Social, and School Functioning Scales.</description>
+        <time_frame>Study Visit 1</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Down Syndrome, Obese</title>
+            <description>For the Psychosocial risk factors secondary analysis Down Syndrome and Control Groups were further divided into Obese and Not Obese sub groups for analysis.</description>
+          </group>
+          <group group_id="O2">
+            <title>Down Syndrome, Not Obese</title>
+            <description>Our goal is to enroll 155 subjects with Down syndrome, and to compare their data to our control group.&#xD;
+For the Psychosocial risk factors secondary analysis Down Syndrome and Control Groups were further divided into Obese and Not Obese sub groups for analysis.</description>
+          </group>
+          <group group_id="O3">
+            <title>Control, Obese</title>
+            <description>For the Psychosocial risk factors secondary analysis Down Syndrome and Control Groups were further divided into Obese and Not Obese sub groups for analysis.</description>
+          </group>
+          <group group_id="O4">
+            <title>Control, Not Obese</title>
+            <description>Our goal is to enroll 105 typically developing controls, who are matched to the Down syndrome group by age, sex, race, ethnicity, and BMI-z score.&#xD;
+For the Psychosocial risk factors secondary analysis Down Syndrome and Control Groups were further divided into Obese and Not Obese sub groups for analysis.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Health Related Quality of Life - PedsQL</title>
+          <description>Caregiver-perception of his/her child's health-related QOL was assessed with the use of the parent-proxy report of the Pediatric Quality of Life Inventory (PedsQL) Version 4.0. Sub-scale scores are converted to a 0-100 scale so that greater scores indicate better QOL. Scale scores are computed as the sum of the items divided by the number of items answered (this accounts for missing data). If more than 50% of the items in the scale are missing, the scale score is not computed. The Physical Health Summary Score (8 items) is the same as the Physical Functioning Scale. To create the Psychosocial Health Summary Score (15 items), the mean is computed as the sum of the items divided by the number of items answered in the Emotional, Social, and School Functioning Scales.</description>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="63"/>
+                <count group_id="O2" value="87"/>
+                <count group_id="O3" value="24"/>
+                <count group_id="O4" value="34"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Physical Functioning (PedsQL)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="68.3" spread="18.5"/>
+                    <measurement group_id="O2" value="73.2" spread="21.4"/>
+                    <measurement group_id="O3" value="78.9" spread="18.8"/>
+                    <measurement group_id="O4" value="89.7" spread="19.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Emotional (PedsQL)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="73.3" spread="76.0"/>
+                    <measurement group_id="O2" value="76.0" spread="14.9"/>
+                    <measurement group_id="O3" value="75.6" spread="19.5"/>
+                    <measurement group_id="O4" value="77.2" spread="25.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Social (PedsQL)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="60.7" spread="20.9"/>
+                    <measurement group_id="O2" value="63.3" spread="19.2"/>
+                    <measurement group_id="O3" value="80.4" spread="16.4"/>
+                    <measurement group_id="O4" value="85.0" spread="22.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>School (PedsQL)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="65.1" spread="18.2"/>
+                    <measurement group_id="O2" value="64.0" spread="17.2"/>
+                    <measurement group_id="O3" value="75.6" spread="18.5"/>
+                    <measurement group_id="O4" value="80.0" spread="24.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Psychosocial (PedsQL)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="65.1" spread="14.3"/>
+                    <measurement group_id="O2" value="67.8" spread="13.8"/>
+                    <measurement group_id="O3" value="77.2" spread="15.4"/>
+                    <measurement group_id="O4" value="80.7" spread="22.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Total Score (PedsQL)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="66.2" spread="13.2"/>
+                    <measurement group_id="O2" value="69.6" spread="14.2"/>
+                    <measurement group_id="O3" value="77.8" spread="14.0"/>
+                    <measurement group_id="O4" value="83.9" spread="21.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Health Related Quality of Life - IWQOL</title>
+        <description>Parent perception of the effects of weight on his/her child's QOL was assessed with a caregiver-proxy version of the Impact of Weight on Quality of Life - Kids (IWQOL-Kids) questionnaire. The IWQOL-Kids is a validated, 27-item, self-report measure of weight-related QOL for youth ages 11-19 years. It yields 4 subscales (Physical Comfort, Body Esteem, Social Life, and Family Relations) and a Total score, which have strong psychometric properties, discriminate among weight status groups, and are responsive to weight change. Scaled scores are standardized and range from 0 to 100, with greater scores representing better weight-related QOL.</description>
+        <time_frame>Study Visit 1</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Down Syndrome, Obese</title>
+            <description>For the Psychosocial risk factors secondary analysis Down Syndrome and Control Groups were further divided into Obese and Not Obese sub groups for analysis.</description>
+          </group>
+          <group group_id="O2">
+            <title>Down Syndrome, Not Obese</title>
+            <description>Our goal is to enroll 155 subjects with Down syndrome, and to compare their data to our control group.&#xD;
+For the Psychosocial risk factors secondary analysis Down Syndrome and Control Groups were further divided into Obese and Not Obese sub groups for analysis.</description>
+          </group>
+          <group group_id="O3">
+            <title>Control, Obese</title>
+            <description>For the Psychosocial risk factors secondary analysis Down Syndrome and Control Groups were further divided into Obese and Not Obese sub groups for analysis.</description>
+          </group>
+          <group group_id="O4">
+            <title>Control, Not Obese</title>
+            <description>Our goal is to enroll 105 typically developing controls, who are matched to the Down syndrome group by age, sex, race, ethnicity, and BMI-z score.&#xD;
+For the Psychosocial risk factors secondary analysis Down Syndrome and Control Groups were further divided into Obese and Not Obese sub groups for analysis.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Health Related Quality of Life - IWQOL</title>
+          <description>Parent perception of the effects of weight on his/her child's QOL was assessed with a caregiver-proxy version of the Impact of Weight on Quality of Life - Kids (IWQOL-Kids) questionnaire. The IWQOL-Kids is a validated, 27-item, self-report measure of weight-related QOL for youth ages 11-19 years. It yields 4 subscales (Physical Comfort, Body Esteem, Social Life, and Family Relations) and a Total score, which have strong psychometric properties, discriminate among weight status groups, and are responsive to weight change. Scaled scores are standardized and range from 0 to 100, with greater scores representing better weight-related QOL.</description>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="63"/>
+                <count group_id="O2" value="87"/>
+                <count group_id="O3" value="24"/>
+                <count group_id="O4" value="34"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Physical Comfort (IWQOL-Kids)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="83.3" spread="18.6"/>
+                    <measurement group_id="O2" value="97.1" spread="7.5"/>
+                    <measurement group_id="O3" value="86.0" spread="16.6"/>
+                    <measurement group_id="O4" value="98.2" spread="7.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Body Esteem (IWQOL-Kids)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="91.4" spread="11.1"/>
+                    <measurement group_id="O2" value="98.0" spread="5.4"/>
+                    <measurement group_id="O3" value="73.9" spread="25.7"/>
+                    <measurement group_id="O4" value="93.9" spread="12.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Social Life (IWQOL-Kids)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="89.7" spread="17.6"/>
+                    <measurement group_id="O2" value="98.4" spread="5.9"/>
+                    <measurement group_id="O3" value="80.7" spread="21.0"/>
+                    <measurement group_id="O4" value="95.0" spread="14.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Family Relationships (IWQOL-Kids)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="93.8" spread="13.5"/>
+                    <measurement group_id="O2" value="98.6" spread="5.3"/>
+                    <measurement group_id="O3" value="93.2" spread="11.2"/>
+                    <measurement group_id="O4" value="97.5" spread="8.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Total (IWQOL-Kids)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="89.8" spread="11.7"/>
+                    <measurement group_id="O2" value="98.0" spread="5.1"/>
+                    <measurement group_id="O3" value="82.4" spread="16.7"/>
+                    <measurement group_id="O4" value="95.9" spread="10.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Adverse Events are monitored throughout participants' roughly 6 hour study visit, and for the 2 weeks following study visit while participants are wearing accelerator armbands and completing dietary recalls at home.</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Down Syndrome</title>
+          <description>Our goal is to enroll 155 subjects with Down syndrome, and to compare their data to our control group.</description>
+        </group>
+        <group group_id="E2">
+          <title>Control</title>
+          <description>Our goal is to enroll 105 typically developing controls, who are matched to the Down syndrome group by age, sex, race, ethnicity, and BMI-z score.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="154"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="103"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="154"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="103"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="7" subjects_at_risk="154"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="103"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Endocrine disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypoglycemia</sub_title>
+                <description>Hypoglycemia occurring during oral glucose tolerance test. Test prematurely stopped so that participant could ingest food.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="154"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="103"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <description>Vomiting in reaction to glucola ingestion associated with oral glucose tolerance test.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="154"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="103"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Fainting</sub_title>
+                <description>Fainting in reaction to blood draw.</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="154"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="103"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Skin irritation</sub_title>
+                <description>Skin irritation due to physical activity armband wear. If irritation occurred armband wear was discontinued.</description>
+                <counts group_id="E1" events="5" subjects_affected="5" subjects_at_risk="154"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="103"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Andrea Kelly</name_or_title>
+      <organization>The Children's Hopsital of Philadelphia</organization>
+      <phone>215590-3174</phone>
+      <email>kellya@email.chop.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

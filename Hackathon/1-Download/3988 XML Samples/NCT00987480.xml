@@ -1,0 +1,1181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2240">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00987480</url>
+  </required_header>
+  <id_info>
+    <org_study_id>08-031</org_study_id>
+    <nct_id>NCT00987480</nct_id>
+    <nct_alias>NCT00850317</nct_alias>
+    <nct_alias>NCT01082133</nct_alias>
+  </id_info>
+  <brief_title>Hematopoietic Stem Cell Transplantation for the Treatment of Patients With Fanconi Anemia Lacking a Genotypically Identical Donor, Using a Chemotherapy Only Cytoreduction With Busulfan, Cyclophosphamide and Fludarabine</brief_title>
+  <official_title>A Multicenter Phase II Trial of Hematopoietic Stem Cell Transplantation for the Treatment of Patients With Fanconi Anemia Lacking a Genotypically Identical Donor, Using a Chemotherapy Only Cytoreduction With Busulfan, Cyclophosphamide and Fludarabine</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Memorial Sloan Kettering Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Boston Children's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Children's Hospital Medical Center, Cincinnati</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Children's Hospital and Health System Foundation, Wisconsin</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Rockefeller University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Fred Hutchinson Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Memorial Sloan Kettering Cancer Center</source>
+  <brief_summary>
+    <textblock>
+      This is a genetic disease (transmitted through the parents' genes) called Fanconi Anemia.&#xD;
+      Because of that genetic disease, the bone marrow has changed and now has failed, or has given&#xD;
+      rise to a preleukemia called myelodysplastic syndrome (MDS) or leukemia (acute myelogenous&#xD;
+      leukemia or AML).&#xD;
+&#xD;
+      Without treatment these complications of Fanconia anemia (FA) are fatal. The only treatment&#xD;
+      that can cure these complications is an allogeneic transplant of stem cells, meaning, giving&#xD;
+      the patient bone marrow cells from a healthy donor that can produce normal blood cells that&#xD;
+      will replace the bone marrow that is sick.&#xD;
+&#xD;
+      What has been given for the treatment of FA in the past is to use a combination of low doses&#xD;
+      of radiation to the whole body (total body irradiation) and low doses of the chemotherapy&#xD;
+      drugs (cyclophosphamide and fludarabine) before the transplant. However, the use of radiation&#xD;
+      can, later on, increase the chances of getting a second cancer of the skin, head or the neck.&#xD;
+      These chances of a second cancer are higher than normal in patients with FA.&#xD;
+&#xD;
+      The purpose of this study is to find out if the doctors can do the same thing with the same&#xD;
+      chemotherapy drugs used in the past. However physicians will use another chemotherapy drug&#xD;
+      called busulfan instead of the radiation. The goal of this study is to get rid of the short&#xD;
+      term and long term risks of the radiation. The first new part of this treatment will be to&#xD;
+      replace drugs for radiation with chemotherapy drugs.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">September 25, 2009</start_date>
+  <completion_date type="Actual">July 10, 2017</completion_date>
+  <primary_completion_date type="Actual">July 10, 2017</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Successful Neutrophil Engraftment</measure>
+    <time_frame>2 years</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The Incidence of Early Transplant Related Mortality</measure>
+    <time_frame>2 years</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The Incidence of Acute GvHD</measure>
+    <time_frame>100 days</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The Incidence of Chronic GvHD</measure>
+    <time_frame>2 years</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival at 3 Years</measure>
+    <time_frame>3 years</time_frame>
+    <description>Overall Survival is defined as time from date of transplant to event (death from any cause) or last follow-up.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease-free Survival at 3 Years</measure>
+    <time_frame>3 years</time_frame>
+    <description>Defined as time from date of transplant to relapse, graft rejection or graft failure, or death.&#xD;
+Primary non-engraftment is diagnosed when the participants fails to achieve an ANC &gt;/= 500/ul at any time in the first 28 days post-transplant.&#xD;
+For participants with MDS or AML, relapse will be analyzed as to type and genetic origin of the MDS/leukemic cells. These will be defined by an increasing number of blasts in the marrow over 5% by the presence of circulating peripheral blasts, or by the presence of blasts in any extramedullary site. Cytogenetic analysis of the marrow and/or peripheral blood will also be obtained for the diagnosis of relapse.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">45</enrollment>
+  <condition>Aplastic Anemia</condition>
+  <condition>Leukemia</condition>
+  <condition>Myelodysplastic Syndrome</condition>
+  <arm_group>
+    <arm_group_label>chemotherapy-based cytoreductive regimen plus a CD34+ selected</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This phase II trial is designed to investigate the safety and efficacy of a chemotherapy-based cytoreductive regimen plus a CD34+ selected T-cell depleted peripheral blood stem cell (PBSC) stem cell transplant for the treatment of patients with Fanconi anemia and severe hematologic disease.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Busulfan, fludarabine, &amp; cyclophosphamide with immunosuppression with ATG and cyclosporine.</intervention_name>
+    <description>There are three parts in this transplant study. 1) There will be a pre-transplant - preparation - period to see if patient qualifies for the transplant study. This will be done as an outpatient and lasts 2-4 weeks. Once this is completed, there will be 2) the transplant period itself, during which the patient will be admitted and will be an inpatient. This period usually last for 4-6 weeks. Following that, there will be a 3) post transplant period, during which the patient will be watched carefully and monitored in clinic as an out patient. The post transplant period lasts from three months to one year.</description>
+    <arm_group_label>chemotherapy-based cytoreductive regimen plus a CD34+ selected</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>CliniMACS device</intervention_name>
+    <description>CD34+ T-cell depleted peripheral blood stem cell transplant</description>
+    <arm_group_label>chemotherapy-based cytoreductive regimen plus a CD34+ selected</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients must have a diagnosis of Fanconi anemia (confirmed by mitomycin C or&#xD;
+             diepoxybutane [DEB] chromosomal breakage testing at an approved laboratory).&#xD;
+&#xD;
+          -  Hematologic Diagnosis and Status - Patients must have one of the following hematologic&#xD;
+             diagnoses:&#xD;
+&#xD;
+               -  Severe Aplastic Anemia (SAA) with bone marrow cellularity of &lt;25%, or Severe&#xD;
+                  Isolated Single lineage Cytopenia&#xD;
+&#xD;
+        AND at least one of the following features:&#xD;
+&#xD;
+          -  Platelet count &lt;20 x 109/L or platelet transfusion dependence*&#xD;
+&#xD;
+          -  ANC &lt;1000 x 109/L&#xD;
+&#xD;
+          -  Hgb &lt;8 gm/dl or red cell transfusion dependence*&#xD;
+&#xD;
+          -  Myelodysplastic Syndrome (MDS) (Appendix 1: MDS Classification) - MDS at any stage,&#xD;
+             based on either one of the following classifications:&#xD;
+&#xD;
+               -  WHO Classification&#xD;
+&#xD;
+               -  Refractory anemia and transfusion dependence*&#xD;
+&#xD;
+               -  Any of other stages&#xD;
+&#xD;
+               -  IPSS Classification&#xD;
+&#xD;
+               -  Low risk (score 0) and transfusion dependence*&#xD;
+&#xD;
+               -  Any other risk groups Score &gt; or = to 0.5&#xD;
+&#xD;
+          -  Acute Myelogenous Leukemia&#xD;
+&#xD;
+               -  Patients with acute leukemia are included in this trial in remission, refractory&#xD;
+                  or relapsed disease.&#xD;
+&#xD;
+               -  Transfusion dependence will be defined as greater than ONE transfusion of&#xD;
+                  platelets or red blood cells in the last year prior to evaluation on protocol.&#xD;
+&#xD;
+                    -  Donors:&#xD;
+&#xD;
+          -  Donor choices will be determined by the investigators at each of the centers according&#xD;
+             to their own institutional criteria.&#xD;
+&#xD;
+          -  All patients evaluated at trial sites and eligible for this trial by virtue of disease&#xD;
+             and lack of an HLA-genotypically matched related donor will be captured in the&#xD;
+             database of this trial. Patients who will be enrolled on this protocol must have one&#xD;
+             of the following donor choices:&#xD;
+&#xD;
+               -  HLA-compatible Unrelated volunteer donors&#xD;
+&#xD;
+               -  Patients who do not have a related HLA-matched donor but have an unrelated donor&#xD;
+                  who is either matched at all A, B, C and DRB1 (8/8) loci or who is mismatched at&#xD;
+                  1/8 loci (A, B, C or DRB1) (7/8) as tested by DNA analysis (high resolution),&#xD;
+                  will be eligible for entry on this protocol.&#xD;
+&#xD;
+               -  HLA-mismatched Related donors&#xD;
+&#xD;
+               -  Patients who do not have a related or unrelated HLA-compatible donor must have a&#xD;
+                  healthy family member who is at least HLA-haplotype identical to the recipient.&#xD;
+                  First degree related donors must have a normal DEB test.&#xD;
+&#xD;
+               -  The donor must be healthy and willing and able to receive a 4-6 day course of&#xD;
+                  G-CSF and undergo 1-3 daily leukaphereses.&#xD;
+&#xD;
+               -  Related and Unrelated donors must be medically evaluated and fulfill the criteria&#xD;
+                  for collection of PBSCs as per institutional guidelines.&#xD;
+&#xD;
+                    -  Patients:&#xD;
+&#xD;
+          -  Patients and donors may be of either gender or any ethnic background.&#xD;
+&#xD;
+          -  Patients must have a Karnofsky adult, or Lansky pediatric performance scale status &gt;&#xD;
+             or = 70%.&#xD;
+&#xD;
+          -  At the time of referral for transplantation, patients must have no co-existing medical&#xD;
+             problems that would significantly increase the risk of the transplant procedure.&#xD;
+&#xD;
+          -  Patients must have adequate physical function measured by :&#xD;
+&#xD;
+               -  Cardiac: asymptomatic or if symptomatic then 1) LVEF at rest must be &gt; or = to&#xD;
+                  50% and must improve with exercise or 2) Shortening Fraction &gt; or = to 29%&#xD;
+&#xD;
+               -  Hepatic: &lt; 5 x ULN SGOT and &lt; 2.0 mg/dl total serum bilirubin.&#xD;
+&#xD;
+               -  Renal: serum creatinine &lt; or = to 1.5 mg/dl or if serum creatinine is outside the&#xD;
+                  normal range, then CrCl &gt; 60-ml/min/1.73 m2&#xD;
+&#xD;
+               -  Pulmonary: asymptomatic or if symptomatic, DLCO &gt; 50% of predicted (corrected for&#xD;
+                  hemoglobin)&#xD;
+&#xD;
+          -  Each patient must be willing to participate as a research subject and must sign an&#xD;
+             informed consent form. Parent or legal guardians of patients who are minors will sign&#xD;
+             the informed consent form. Assents will be obtained as age appropriate.&#xD;
+&#xD;
+          -  Female patients and donors must not be pregnant or breastfeeding at the time of&#xD;
+             signing consent. Women must be willing to undergo a pregnancy test prior to transplant&#xD;
+             and avoid becoming pregnant while on study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Active CNS leukemic involvement&#xD;
+&#xD;
+          -  Female patients who are pregnant (positive serum or urine HCG) or breast-feeding.&#xD;
+             Women of childbearing age must avoid becoming pregnant while on study.&#xD;
+&#xD;
+          -  Active uncontrolled viral, bacterial or fungal infection&#xD;
+&#xD;
+          -  Patient seropositive for HIV-I/II; HTLV -I/II&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Faird Boulad, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Memorial Sloan Kettering Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Children's Hospital Boston</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Rockefeller University</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cincinnati Children's Hospital</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fred Hutchinson Cancer Research Center</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Wisconsin</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.mskcc.org/mskcc/html/44.cfm</url>
+    <description>Memorial Sloan-Kettering Cancer Center</description>
+  </link>
+  <verification_date>June 2018</verification_date>
+  <study_first_submitted>September 30, 2009</study_first_submitted>
+  <study_first_submitted_qc>September 30, 2009</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 1, 2009</study_first_posted>
+  <results_first_submitted>March 2, 2018</results_first_submitted>
+  <results_first_submitted_qc>June 14, 2018</results_first_submitted_qc>
+  <results_first_posted type="Actual">July 10, 2018</results_first_posted>
+  <last_update_submitted>June 14, 2018</last_update_submitted>
+  <last_update_submitted_qc>June 14, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 10, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Stem Cell Transplantation</keyword>
+  <keyword>Anemia</keyword>
+  <keyword>Busulfan</keyword>
+  <keyword>Cyclophosphamide</keyword>
+  <keyword>Fludarabine</keyword>
+  <keyword>08-031</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Anemia</mesh_term>
+    <mesh_term>Myelodysplastic Syndromes</mesh_term>
+    <mesh_term>Anemia, Aplastic</mesh_term>
+    <mesh_term>Fanconi Anemia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cyclosporine</mesh_term>
+    <mesh_term>Cyclophosphamide</mesh_term>
+    <mesh_term>Busulfan</mesh_term>
+    <mesh_term>Fludarabine</mesh_term>
+    <mesh_term>Cyclosporins</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>June 18, 2014</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/80/NCT00987480/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>This is a multicenter site and MSK is the site responsible for data collection and analysis for all sites.&#xD;
+11 participants were enrolled at Memorial Sloan Kettering Cancer Center. The remaining 34 participants were enrolled at the participating institutions. This makes a total of 45 participants enrolled and treated on this study.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Chemotherapy-based Cytoreductive Regimen Plus a CD34+ Selected</title>
+          <description>This phase II trial is designed to investigate the safety and efficacy of a chemotherapy-based cytoreductive regimen plus a CD34+ selected T-cell depleted peripheral blood stem cell (PBSC) stem cell transplant for the treatment of patients with Fanconi anemia and severe hematologic disease.&#xD;
+Busulfan, fludarabine, &amp; cyclophosphamide with immunosuppression with ATG and cyclosporine.: There are three parts in this transplant study. 1) There will be a pre-transplant - preparation - period to see if patient qualifies for the transplant study. This will be done as an outpatient and lasts 2-4 weeks. Once this is completed, there will be 2) the transplant period itself, during which the patient will be admitted and will be an inpatient. This period usually last for 4-6 weeks. Following that, there will be a 3) post transplant period, during which the patient will be watched carefully and monitored in clinic as an out patient. The post transplant period lasts from three months to one year.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="45"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="45"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Chemotherapy-based Cytoreductive Regimen Plus a CD34+ Selected</title>
+          <description>This phase II trial is designed to investigate the safety and efficacy of a chemotherapy-based cytoreductive regimen plus a CD34+ selected T-cell depleted peripheral blood stem cell (PBSC) stem cell transplant for the treatment of patients with Fanconi anemia and severe hematologic disease.&#xD;
+Busulfan, fludarabine, &amp; cyclophosphamide with immunosuppression with ATG and cyclosporine.: There are three parts in this transplant study. 1) There will be a pre-transplant - preparation - period to see if patient qualifies for the transplant study. This will be done as an outpatient and lasts 2-4 weeks. Once this is completed, there will be 2) the transplant period itself, during which the patient will be admitted and will be an inpatient. This period usually last for 4-6 weeks. Following that, there will be a 3) post transplant period, during which the patient will be watched carefully and monitored in clinic as an out patient. The post transplant period lasts from three months to one year.</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="45"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8.2" lower_limit="4.3" upper_limit="44"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="25"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="20"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="40"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="36"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="45"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Successful Neutrophil Engraftment</title>
+        <time_frame>2 years</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Chemotherapy-based Cytoreductive Regimen Plus a CD34+ Selected</title>
+            <description>This phase II trial is designed to investigate the safety and efficacy of a chemotherapy-based cytoreductive regimen plus a CD34+ selected T-cell depleted peripheral blood stem cell (PBSC) stem cell transplant for the treatment of patients with Fanconi anemia and severe hematologic disease.&#xD;
+Busulfan, fludarabine, &amp; cyclophosphamide with immunosuppression with ATG and cyclosporine.: There are three parts in this transplant study. 1) There will be a pre-transplant - preparation - period to see if patient qualifies for the transplant study. This will be done as an outpatient and lasts 2-4 weeks. Once this is completed, there will be 2) the transplant period itself, during which the patient will be admitted and will be an inpatient. This period usually last for 4-6 weeks. Following that, there will be a 3) post transplant period, during which the patient will be watched carefully and monitored in clinic as an out patient. The post transplant period lasts from three months to one year.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Successful Neutrophil Engraftment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="45"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Achieved neutrophil engraftment</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="44"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Did not achieve neutrophil engraftment</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>The Incidence of Early Transplant Related Mortality</title>
+        <time_frame>2 years</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Chemotherapy-based Cytoreductive Regimen Plus a CD34+ Selected</title>
+            <description>This phase II trial is designed to investigate the safety and efficacy of a chemotherapy-based cytoreductive regimen plus a CD34+ selected T-cell depleted peripheral blood stem cell (PBSC) stem cell transplant for the treatment of patients with Fanconi anemia and severe hematologic disease.&#xD;
+Busulfan, fludarabine, &amp; cyclophosphamide with immunosuppression with ATG and cyclosporine.: There are three parts in this transplant study. 1) There will be a pre-transplant - preparation - period to see if patient qualifies for the transplant study. This will be done as an outpatient and lasts 2-4 weeks. Once this is completed, there will be 2) the transplant period itself, during which the patient will be admitted and will be an inpatient. This period usually last for 4-6 weeks. Following that, there will be a 3) post transplant period, during which the patient will be watched carefully and monitored in clinic as an out patient. The post transplant period lasts from three months to one year.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>The Incidence of Early Transplant Related Mortality</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="45"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>The Incidence of Acute GvHD</title>
+        <time_frame>100 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Chemotherapy-based Cytoreductive Regimen Plus a CD34+ Selected</title>
+            <description>This phase II trial is designed to investigate the safety and efficacy of a chemotherapy-based cytoreductive regimen plus a CD34+ selected T-cell depleted peripheral blood stem cell (PBSC) stem cell transplant for the treatment of patients with Fanconi anemia and severe hematologic disease.&#xD;
+Busulfan, fludarabine, &amp; cyclophosphamide with immunosuppression with ATG and cyclosporine.: There are three parts in this transplant study. 1) There will be a pre-transplant - preparation - period to see if patient qualifies for the transplant study. This will be done as an outpatient and lasts 2-4 weeks. Once this is completed, there will be 2) the transplant period itself, during which the patient will be admitted and will be an inpatient. This period usually last for 4-6 weeks. Following that, there will be a 3) post transplant period, during which the patient will be watched carefully and monitored in clinic as an out patient. The post transplant period lasts from three months to one year.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>The Incidence of Acute GvHD</title>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="45"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>The Incidence of Chronic GvHD</title>
+        <time_frame>2 years</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Chemotherapy-based Cytoreductive Regimen Plus a CD34+ Selected</title>
+            <description>This phase II trial is designed to investigate the safety and efficacy of a chemotherapy-based cytoreductive regimen plus a CD34+ selected T-cell depleted peripheral blood stem cell (PBSC) stem cell transplant for the treatment of patients with Fanconi anemia and severe hematologic disease.&#xD;
+Busulfan, fludarabine, &amp; cyclophosphamide with immunosuppression with ATG and cyclosporine.: There are three parts in this transplant study. 1) There will be a pre-transplant - preparation - period to see if patient qualifies for the transplant study. This will be done as an outpatient and lasts 2-4 weeks. Once this is completed, there will be 2) the transplant period itself, during which the patient will be admitted and will be an inpatient. This period usually last for 4-6 weeks. Following that, there will be a 3) post transplant period, during which the patient will be watched carefully and monitored in clinic as an out patient. The post transplant period lasts from three months to one year.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>The Incidence of Chronic GvHD</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="45"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Developed limited chronic GVHD</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Did not develop limited chronic GVHD</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="42"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Overall Survival at 3 Years</title>
+        <description>Overall Survival is defined as time from date of transplant to event (death from any cause) or last follow-up.</description>
+        <time_frame>3 years</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Chemotherapy-based Cytoreductive Regimen Plus a CD34+ Selected</title>
+            <description>This phase II trial is designed to investigate the safety and efficacy of a chemotherapy-based cytoreductive regimen plus a CD34+ selected T-cell depleted peripheral blood stem cell (PBSC) stem cell transplant for the treatment of patients with Fanconi anemia and severe hematologic disease.&#xD;
+Busulfan, fludarabine, &amp; cyclophosphamide with immunosuppression with ATG and cyclosporine.: There are three parts in this transplant study. 1) There will be a pre-transplant - preparation - period to see if patient qualifies for the transplant study. This will be done as an outpatient and lasts 2-4 weeks. Once this is completed, there will be 2) the transplant period itself, during which the patient will be admitted and will be an inpatient. This period usually last for 4-6 weeks. Following that, there will be a 3) post transplant period, during which the patient will be watched carefully and monitored in clinic as an out patient. The post transplant period lasts from three months to one year.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Overall Survival at 3 Years</title>
+          <description>Overall Survival is defined as time from date of transplant to event (death from any cause) or last follow-up.</description>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="45"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="80"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Disease-free Survival at 3 Years</title>
+        <description>Defined as time from date of transplant to relapse, graft rejection or graft failure, or death.&#xD;
+Primary non-engraftment is diagnosed when the participants fails to achieve an ANC &gt;/= 500/ul at any time in the first 28 days post-transplant.&#xD;
+For participants with MDS or AML, relapse will be analyzed as to type and genetic origin of the MDS/leukemic cells. These will be defined by an increasing number of blasts in the marrow over 5% by the presence of circulating peripheral blasts, or by the presence of blasts in any extramedullary site. Cytogenetic analysis of the marrow and/or peripheral blood will also be obtained for the diagnosis of relapse.</description>
+        <time_frame>3 years</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Chemotherapy-based Cytoreductive Regimen Plus a CD34+ Selected</title>
+            <description>This phase II trial is designed to investigate the safety and efficacy of a chemotherapy-based cytoreductive regimen plus a CD34+ selected T-cell depleted peripheral blood stem cell (PBSC) stem cell transplant for the treatment of patients with Fanconi anemia and severe hematologic disease.&#xD;
+Busulfan, fludarabine, &amp; cyclophosphamide with immunosuppression with ATG and cyclosporine.: There are three parts in this transplant study. 1) There will be a pre-transplant - preparation - period to see if patient qualifies for the transplant study. This will be done as an outpatient and lasts 2-4 weeks. Once this is completed, there will be 2) the transplant period itself, during which the patient will be admitted and will be an inpatient. This period usually last for 4-6 weeks. Following that, there will be a 3) post transplant period, during which the patient will be watched carefully and monitored in clinic as an out patient. The post transplant period lasts from three months to one year.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Disease-free Survival at 3 Years</title>
+          <description>Defined as time from date of transplant to relapse, graft rejection or graft failure, or death.&#xD;
+Primary non-engraftment is diagnosed when the participants fails to achieve an ANC &gt;/= 500/ul at any time in the first 28 days post-transplant.&#xD;
+For participants with MDS or AML, relapse will be analyzed as to type and genetic origin of the MDS/leukemic cells. These will be defined by an increasing number of blasts in the marrow over 5% by the presence of circulating peripheral blasts, or by the presence of blasts in any extramedullary site. Cytogenetic analysis of the marrow and/or peripheral blood will also be obtained for the diagnosis of relapse.</description>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="45"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="77.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>1 year</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Chemotherapy-based Cytoreductive Regimen Plus a CD34+ Selected</title>
+          <description>This phase II trial is designed to investigate the safety and efficacy of a chemotherapy-based cytoreductive regimen plus a CD34+ selected T-cell depleted peripheral blood stem cell (PBSC) stem cell transplant for the treatment of patients with Fanconi anemia and severe hematologic disease</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="11" subjects_at_risk="45"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Blood/Bone Marrow, Other</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="45"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cardiopulmonary arrest, cause unknkown</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="45"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Gastrointestinal, other</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Hemorrhage, Oral cavity</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Hemorrhage, Stoma (GI)</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Ileus, GI (func obstruction of bowel)</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Mucositis (Clin exam)- Oral cavity</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="45"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Death NOS</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="45"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Inf norm ANC/gr1/2 neut-Blood</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Inf norm ANC/gr1/2 neut-Meningitis(meninges)</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Inf norm ANC/gr1/2 neut-Myositis infection(muscle)</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Infection w/ Gr 3/4 neut, Blood</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Infection, other</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="45"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Bilirubin (hyperbilirubinemia)</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="45"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Neurology - Other (specify)</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Neuropathy: motor</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Seizure</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="45"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Confusion</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="45"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dyspnea</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Hemorrhage, Respiratory tract NOS</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Hypoxia</sub_title>
+                <counts group_id="E1" subjects_affected="7" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Pneumonitis/pulm infiltrates</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Pulm/upp respiratory - Other (spec)</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Pulmonary hypertension</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="45"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="31" subjects_at_risk="45"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Lymphopenia</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="45"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Mucositis (Clin exam)- Pharynx</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Mucositis (Clin exam)- Oral cavity</sub_title>
+                <counts group_id="E1" subjects_affected="15" subjects_at_risk="45"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Infection, other</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="45"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Aspartate aminotransferase increased</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Bicarbonate, serum-low</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Blood bilirubin increased</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Alanine aminotransferase increased</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>INR</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Alkaline phosphatase</sub_title>
+                <counts group_id="E1" subjects_affected="7" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>PTT</sub_title>
+                <counts group_id="E1" subjects_affected="7" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Creatinine</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Hemoglobin</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Leukocytes (total WBC)</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Neutrophils/granulocytes (ANC/AGC)</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Platelets</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>AST, SGOT</sub_title>
+                <counts group_id="E1" subjects_affected="10" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>ALT, SGPT</sub_title>
+                <counts group_id="E1" subjects_affected="11" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Bilirubin (hyperbilirubinemia)</sub_title>
+                <counts group_id="E1" subjects_affected="11" subjects_at_risk="45"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Sodium, high (hypernatremia)</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Glucose, low (hypoglycemia)</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Hypermagnesemia</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Phosphate, low (hypophosphatemia)</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Hyperglycemia</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Magnesium, high (hypermagnesemia)</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Magnesium, low (hypomagnesemia)</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Trglycrde, high (hypertriglyceridemia)</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Potassium, high (hyperkalemia)</sub_title>
+                <counts group_id="E1" subjects_affected="7" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Albumin, low (hypoalbuminemia)</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Sodium, low (hyponatremia)</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Potassium, low (hypokalemia)</sub_title>
+                <counts group_id="E1" subjects_affected="10" subjects_at_risk="45"/>
+              </event>
+              <event>
+                <sub_title>Glucose, high (hyperglycemia)</sub_title>
+                <counts group_id="E1" subjects_affected="14" subjects_at_risk="45"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypertension</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="45"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Farid Boulad</name_or_title>
+      <organization>Memorial Sloan Kettering Cancer Center</organization>
+      <phone>212-639-2429</phone>
+      <email>bouladf@mskcc.org</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

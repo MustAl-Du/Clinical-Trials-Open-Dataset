@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2217">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01474018</url>
+  </required_header>
+  <id_info>
+    <org_study_id>QR-Bromo</org_study_id>
+    <nct_id>NCT01474018</nct_id>
+  </id_info>
+  <brief_title>QR-Bromocriptine as an Adjunct to Insulin and Metformin in the Treatment of Type 2 Diabetes</brief_title>
+  <official_title>QR-Bromocriptine as an Adjunct to Insulin and Metformin in the Treatment of Type 2 Diabetes</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Texas Southwestern Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Texas Southwestern Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      QR-Bromocriptine as an add-on treatment to insulin and metformin in the management of type 2&#xD;
+      diabetes will result in improved glycemic control, reduced exogenous insulin requirement,&#xD;
+      increased lean fat mass and improved pancreatic beta-cell function.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      To assess improvement in glycemic control, reliance on exogenous insulin, improvements in&#xD;
+      lean body mass composition, and improvements in pancreatic beta-cell function.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>November 2011</start_date>
+  <completion_date type="Actual">June 2012</completion_date>
+  <primary_completion_date type="Actual">May 2012</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in A1c</measure>
+    <time_frame>Baseline - 24 weeks</time_frame>
+    <description>Change from baseline HbA1c between subjects receiving QR-Bromocriptine + metformin + insulin compared to those subjects receiving metformin + insulin</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Total Daily Insulin Dose</measure>
+    <time_frame>Baseline - 24 weeks</time_frame>
+    <description>Change in total daily insulin dose in patients treated with QR-Bromocriptine +metformin +insulin compared to metformin + insulin alone</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">15</enrollment>
+  <condition>Diabetes Mellitus, Type 2</condition>
+  <arm_group>
+    <arm_group_label>Metformin + Insulin</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>5 patients to continue on usual type 2 diabetic treatment consisting of 70/30 insulin, metformin and exercise and nutrition counseling.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>QR-Bromocriptine +metformin+insulin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>study drug add-on the usual therapy</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>QR-bromocriptine</intervention_name>
+    <description>The study drug is added-on to patients on existing type 2 diabetes treatment with insulin +metformin+exercise/nutritional counseling. The study drug is titrated up starting at one 0.8mg tab daily for 1 week, then 2 (0.8mg) tablets for week 2, then 3 tablets for week 3, then 4 tablets for week 4, then 5 tablets for week 5, then six tablets for week 6 (total 4.8). The limiting factor is nausea at which point the patients will back down the highest tolerated dose and continue on that dose for the remainder of the 6 months of the study.</description>
+    <arm_group_label>QR-Bromocriptine +metformin+insulin</arm_group_label>
+    <other_name>NDC 6801225820</other_name>
+    <other_name>Cycloset (brand)</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Male and female patients, age 30 to 65 years of age,&#xD;
+&#xD;
+          2. Clinical diagnosis of type 2 diabetes at least 6 months prior to enrollment,&#xD;
+&#xD;
+          3. Stable on current treatment consisting of either human or recombinant multi-dose&#xD;
+             insulin therapy (MDI) with metformin,&#xD;
+&#xD;
+          4. HbA1c of 7.5-12%, inclusive,&#xD;
+&#xD;
+          5. Demonstrated willingness to check and record blood glucose readings at seven time&#xD;
+             points as instructed in the study protocol.&#xD;
+&#xD;
+          6. Medically controlled hypertension, at least on one anti-hypertensive&#xD;
+&#xD;
+          7. Medically controlled hyperlipidemia, on or off cholesterol-lowering therapy&#xD;
+&#xD;
+          8. BMI &gt;30&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Pregnancy or Lactating,&#xD;
+&#xD;
+          2. Type 1 Diabetes,&#xD;
+&#xD;
+          3. Concomitant use of forbidden medications: prescription sympathomimetics (within seven&#xD;
+             days of screening), ergot alkaloid derivatives, and anti-migraine medications,&#xD;
+&#xD;
+          4. Patients with history of drug or alcohol abuse within 3 years of enrollment,&#xD;
+&#xD;
+          5. Patients at risk for hypotension, including those who have:&#xD;
+&#xD;
+               -  Recent blood donation within 30 days of enrollment,&#xD;
+&#xD;
+               -  A history of syncopal migraines, or&#xD;
+&#xD;
+               -  Significant gastroparesis or orthostatic hypotension which could signify advanced&#xD;
+                  autonomic neuropathy.&#xD;
+&#xD;
+          6. Uncontrolled mental illness especially with history of psychosis,&#xD;
+&#xD;
+          7. Any severe, uncontrolled or terminal medical condition which the investigator feels&#xD;
+             would interfere with the patient's ability to participate and comply with the study&#xD;
+             protocol,&#xD;
+&#xD;
+          8. Serum creatinine &gt;1.4mg/dL in females or &gt;1.5mg/dL in males that would preclude the&#xD;
+             patient from taking metformin,&#xD;
+&#xD;
+          9. LFTs elevated &gt;3x upper limit of normal,&#xD;
+&#xD;
+         10. Patients working rotating, varying or night shifts, or&#xD;
+&#xD;
+         11. Patient with circumstances or abnormalities (e.g. blindness or history of&#xD;
+             non-compliance) that would interfere with the interpretation of safety or efficacy&#xD;
+             data or completion of the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>30 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Philip Raskin, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>UTexas Southwestern</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>UT Southwestern Medical Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UT Southwestern</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2019</verification_date>
+  <study_first_submitted>November 2, 2011</study_first_submitted>
+  <study_first_submitted_qc>November 14, 2011</study_first_submitted_qc>
+  <study_first_posted type="Estimate">November 17, 2011</study_first_posted>
+  <results_first_submitted>January 7, 2019</results_first_submitted>
+  <results_first_submitted_qc>September 13, 2019</results_first_submitted_qc>
+  <results_first_posted type="Actual">September 16, 2019</results_first_posted>
+  <last_update_submitted>September 13, 2019</last_update_submitted>
+  <last_update_submitted_qc>September 13, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 16, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 2</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Bromocriptine</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>November 21, 2011</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/18/NCT01474018/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Metformin + Insulin</title>
+          <description>5 patients to continue on usual type 2 diabetic treatment consisting of 70/30 insulin, metformin and exercise and nutrition counseling.&#xD;
+Study has completed</description>
+        </group>
+        <group group_id="P2">
+          <title>QR-Bromocriptine +Metformin+Insulin</title>
+          <description>study drug add-on the usual therapy&#xD;
+QR-bromocriptine: The study drug is added-on to patients on existing type 2 diabetes treatment with insulin +metformin+exercise/nutritional counseling. The study drug is titrated up starting at one 0.8mg tab daily for 1 week, then 2 (0.8mg) tablets for week 2, then 3 tablets for week 3, then 4 tablets for week 4, then 5 tablets for week 5, then six tablets for week 6 (total 4.8). The limiting factor is nausea at which point the patients will back down the highest tolerated dose and continue on that dose for the remainder of the 6 months of the study.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="5"/>
+                <participants group_id="P2" count="10"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="5">Writing paper</participants>
+                <participants group_id="P2" count="7"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="3"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Patients age 30-65 years with the clinical diagnosis of T2DM on multiple daily injections of insulin plus metformin and HbA1c between 7.5-12.0% were eligible.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Metformin + Insulin</title>
+          <description>5 patients to continue on usual type 2 diabetic treatment consisting of 70/30 insulin, metformin and exercise and nutrition counseling.&#xD;
+No Change</description>
+        </group>
+        <group group_id="B2">
+          <title>QR-Bromocriptine +Metformin+Insulin</title>
+          <description>study drug add-on the usual therapy&#xD;
+QR-bromocriptine: The study drug is added-on to patients on existing type 2 diabetes treatment with insulin +metformin+exercise/nutritional counseling. The study drug is titrated up starting at one 0.8mg tab daily for 1 week, then 2 (0.8mg) tablets for week 2, then 3 tablets for week 3, then 4 tablets for week 4, then 5 tablets for week 5, then six tablets for week 6 (total 4.8). The limiting factor is nausea at which point the patients will back down the highest tolerated dose and continue on that dose for the remainder of the 6 months of the study.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="5"/>
+            <count group_id="B2" value="10"/>
+            <count group_id="B3" value="15"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="15"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="46" spread="3"/>
+                    <measurement group_id="B2" value="54" spread="3"/>
+                    <measurement group_id="B3" value="50" spread="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="11"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in A1c</title>
+        <description>Change from baseline HbA1c between subjects receiving QR-Bromocriptine + metformin + insulin compared to those subjects receiving metformin + insulin</description>
+        <time_frame>Baseline - 24 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Metformin + Insulin</title>
+            <description>5 patients to continue on usual type 2 diabetic treatment consisting of 70/30 insulin, metformin and exercise / nutrition counseling.</description>
+          </group>
+          <group group_id="O2">
+            <title>QR-Bromocriptine + Metformin + Insulin</title>
+            <description>study drug add-on to usual therapy with insulin + metformin + exercise / nutritional counseling. The study drug is titrated up starting at one 0.8mg tab daily for 1 week, then 2 (0.8mg) tablets for week 2, then 3 tablets for week 3, then 4 tablets for week 4, then 5 tablets for week 5, then six tablets for week 6 (total 4.8). The titration was stopped when the patient reported side effects and the dose was subsequently reduced to the highest tolerable dose at which the side effect did not occur. The patient maintained this dose for the duration of the 24-week treatment period.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in A1c</title>
+          <description>Change from baseline HbA1c between subjects receiving QR-Bromocriptine + metformin + insulin compared to those subjects receiving metformin + insulin</description>
+          <units>percent HbA1c</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+                <count group_id="O2" value="7"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9.74" spread="0.56"/>
+                    <measurement group_id="O2" value="7.98" spread="0.36"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority or Other (legacy)</non_inferiority_type>
+            <p_value>0.004</p_value>
+            <method>ANOVA</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Total Daily Insulin Dose</title>
+        <description>Change in total daily insulin dose in patients treated with QR-Bromocriptine +metformin +insulin compared to metformin + insulin alone</description>
+        <time_frame>Baseline - 24 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Metformin + Insulin</title>
+            <description>5 patients to continue on usual type 2 diabetic treatment consisting of 70/30 insulin, metformin and exercise / nutrition counseling.</description>
+          </group>
+          <group group_id="O2">
+            <title>QR-Bromocriptine + Metformin + Insulin</title>
+            <description>study drug add-on to usual therapy with insulin + metformin + exercise / nutritional counseling. The study drug is titrated up starting at one 0.8mg tab daily for 1 week, then 2 (0.8mg) tablets for week 2, then 3 tablets for week 3, then 4 tablets for week 4, then 5 tablets for week 5, then six tablets for week 6 (total 4.8). The titration was stopped when the patient reported side effects and the dose was subsequently reduced to the highest tolerable dose at which the side effect did not occur. The patient maintained this dose for the duration of the 24-week treatment period.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Total Daily Insulin Dose</title>
+          <description>Change in total daily insulin dose in patients treated with QR-Bromocriptine +metformin +insulin compared to metformin + insulin alone</description>
+          <units>units of insulin</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+                <count group_id="O2" value="7"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="199" spread="33"/>
+                    <measurement group_id="O2" value="147" spread="31"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority or Other (legacy)</non_inferiority_type>
+            <p_value>0.01</p_value>
+            <method>ANOVA</method>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority or Other (legacy)</non_inferiority_type>
+            <p_value>0.009</p_value>
+            <method>ANOVA</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <group_list>
+        <group group_id="E1">
+          <title>Metformin + Insulin</title>
+          <description>5 patients to continue on usual type 2 diabetic treatment consisting of 70/30 insulin, metformin and exercise / nutrition counseling.</description>
+        </group>
+        <group group_id="E2">
+          <title>QR-Bromocriptine + Metformin + Insulin</title>
+          <description>study drug add-on to usual therapy with insulin + metformin + exercise / nutritional counseling. The study drug is titrated up starting at one 0.8mg tab daily for 1 week, then 2 (0.8mg) tablets for week 2, then 3 tablets for week 3, then 4 tablets for week 4, then 5 tablets for week 5, then six tablets for week 6 (total 4.8). The titration was stopped when the patient reported side effects and the dose was subsequently reduced to the highest tolerable dose at which the side effect did not occur. The patient maintained this dose for the duration of the 24-week treatment period.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="5"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="7"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="5"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="7"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Erin D. Roe</name_or_title>
+      <organization>Baylor Endocrine Center</organization>
+      <phone>214-820-3466</phone>
+      <email>edr@roemd.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

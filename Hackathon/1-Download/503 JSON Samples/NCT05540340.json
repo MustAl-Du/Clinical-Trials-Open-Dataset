@@ -1,0 +1,427 @@
+{
+  "FullStudy":{
+    "Rank":477,
+    "Study":{
+      "ProtocolSection":{
+        "IdentificationModule":{
+          "NCTId":"NCT05540340",
+          "OrgStudyIdInfo":{
+            "OrgStudyId":"22-086"
+          },
+          "Organization":{
+            "OrgFullName":"Memorial Sloan Kettering Cancer Center",
+            "OrgClass":"OTHER"
+          },
+          "BriefTitle":"A Study of Melphalan in People With Lymphoma Getting an Autologous Hematopoietic Cell Transplant",
+          "OfficialTitle":"Pharmacokinetic Directed Melphalan for Lymphoma Patients Undergoing Autologous Hematopoietic Cell Transplantation"
+        },
+        "StatusModule":{
+          "StatusVerifiedDate":"September 2022",
+          "OverallStatus":"Recruiting",
+          "ExpandedAccessInfo":{
+            "HasExpandedAccess":"No"
+          },
+          "StartDateStruct":{
+            "StartDate":"September 9, 2022",
+            "StartDateType":"Actual"
+          },
+          "PrimaryCompletionDateStruct":{
+            "PrimaryCompletionDate":"September 2023",
+            "PrimaryCompletionDateType":"Anticipated"
+          },
+          "CompletionDateStruct":{
+            "CompletionDate":"September 2023",
+            "CompletionDateType":"Anticipated"
+          },
+          "StudyFirstSubmitDate":"September 12, 2022",
+          "StudyFirstSubmitQCDate":"September 12, 2022",
+          "StudyFirstPostDateStruct":{
+            "StudyFirstPostDate":"September 14, 2022",
+            "StudyFirstPostDateType":"Actual"
+          },
+          "LastUpdateSubmitDate":"September 12, 2022",
+          "LastUpdatePostDateStruct":{
+            "LastUpdatePostDate":"September 14, 2022",
+            "LastUpdatePostDateType":"Actual"
+          }
+        },
+        "SponsorCollaboratorsModule":{
+          "ResponsibleParty":{
+            "ResponsiblePartyType":"Sponsor"
+          },
+          "LeadSponsor":{
+            "LeadSponsorName":"Memorial Sloan Kettering Cancer Center",
+            "LeadSponsorClass":"OTHER"
+          }
+        },
+        "OversightModule":{
+          "IsFDARegulatedDrug":"No",
+          "IsFDARegulatedDevice":"No"
+        },
+        "DescriptionModule":{
+          "BriefSummary":"The purpose of this study is to find out whether it is practical to use a newer way to calculate melphalan dose given (called population PK model) in BEAM chemotherapy before AHCT. Standard dose is fixed for everybody and is calculated using height and weight. The population PK model, tested in this study, uses information based on people who have previously received melphalan and aims to calculate an optimal dose separately for each person. Study researchers think that the dose calculated using the population PK model may still be effective but have less side effects than the standard melphalan dose."
+        },
+        "ConditionsModule":{
+          "ConditionList":{
+            "Condition":[
+              "Lymphoma",
+              "Lymphoma, B-Cell",
+              "Lymphoma, T-Cell",
+              "Lymphoma, Hodgkin",
+              "Lymphoma, Non-Hodgkin"
+            ]
+          },
+          "KeywordList":{
+            "Keyword":[
+              "Pharmacokinetics",
+              "Carmustine",
+              "Etoposide",
+              "Melphalan",
+              "Cytarabine",
+              "22-086"
+            ]
+          }
+        },
+        "DesignModule":{
+          "StudyType":"Interventional",
+          "PhaseList":{
+            "Phase":[
+              "Not Applicable"
+            ]
+          },
+          "DesignInfo":{
+            "DesignAllocation":"N/A",
+            "DesignInterventionModel":"Single Group Assignment",
+            "DesignPrimaryPurpose":"Treatment",
+            "DesignMaskingInfo":{
+              "DesignMasking":"None (Open Label)"
+            }
+          },
+          "EnrollmentInfo":{
+            "EnrollmentCount":"20",
+            "EnrollmentType":"Anticipated"
+          }
+        },
+        "ArmsInterventionsModule":{
+          "ArmGroupList":{
+            "ArmGroup":[
+              {
+                "ArmGroupLabel":"Pharmacokinetic directed melphalan",
+                "ArmGroupType":"Experimental",
+                "ArmGroupDescription":"This is a feasibility study of pharmacokinetic (PK)-directed Captisol Enabled (CE) melphalan dosing to target an AUC of 8.5 (+/- 1.5) using a population PK model in lymphoma patients receiving BEAM [carmustine (BCNU) (B), etoposide (E), cytarabine (Ara-C) (A), and melphalan (M)], followed by autologous hematopoietic cell transplantation (AHCT). This study will enroll 20 patients with lymphoma planned for BEAM-AHCT. Carmustine IV will be given on day -6, followed by etoposide IV and cytarabine IV from day -5 to -2 as per the MSK inpatient or outpatient standard of care. The calculated melphalan dose based on population PK model to achieve the proposed melphalan target exposure [8.5 (+/- 1.5) mg*h/L], will be administered on day -1, and six peripheral blood samples of 5 ml in lithium heparin tubes will be collected at 5, 15, 30, 40, 75, and 150 minutes after the melphalan, for PK testing to determine if the goal AUC was achieved.",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Other: Pharmacokinetics"
+                  ]
+                }
+              }
+            ]
+          },
+          "InterventionList":{
+            "Intervention":[
+              {
+                "InterventionType":"Other",
+                "InterventionName":"Pharmacokinetics",
+                "InterventionDescription":"Six peripheral blood samples of 5 ml in lithium heparin tubes will be collected at 5, 15, 30, 40, 75, and 150 minutes after the melphalan, for PK testing. The first four time points are +/- 2 min and the last two time points are +/- 5 minutes.",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Pharmacokinetic directed melphalan"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "OutcomesModule":{
+          "PrimaryOutcomeList":{
+            "PrimaryOutcome":[
+              {
+                "PrimaryOutcomeMeasure":"determine if this target AUC can be achieved",
+                "PrimaryOutcomeDescription":"within a range of 8.5 (+/- 1.5) mg*h/L using population PK model.",
+                "PrimaryOutcomeTimeFrame":"1 year"
+              }
+            ]
+          }
+        },
+        "EligibilityModule":{
+          "EligibilityCriteria":"Inclusion Criteria:\n\nAge18 - 79 years old\nDiagnosed with any type of lymphoma [Hodgkin, non-Hodgkin (B- or T-cell)] and planned for BEAM-AHCT\nKPS > 70\nCardiac ejection fraction of > 45%\nHemoglobin-adjusted diffusing capacity of carbon monoxide (DLCO) of ≥45%\nCreatinine clearance of ≥ 40 mL/min\nCompletion of most recent systemic therapy within 12 weeks of enrollment\nComplete or partial response to systemic chemotherapy by IWG Working Group Criteria.\nTotal bilirubin < 2.0 mg/dL in the absence of suspected Gilbert's disease (if Gilbert's disease is suspected, the total bilirubin must be ≤3.0 mg/dL), and AST & ALT < 2.5 ULN.\nMinimum stem cell dose of 2 x 10*6 CD34+ cells/kg\n\nExclusion Criteria:\n\nDisease progression by IWG Working Group since last therapy\nPregnant or lactating females\nContraindication to CE melphalan or any of the required supportive treatments, including hypersensitivity to G-CSF or pegfilgrastim\nAny known allergy or allergic reactions to Captisol\nAny other medical condition or laboratory evaluation that, in the treating physician's or principal investigator's opinion, makes the patient unsuitable to participate in this clinical trial",
+          "HealthyVolunteers":"No",
+          "Gender":"All",
+          "MinimumAge":"18 Years",
+          "MaximumAge":"70 Years",
+          "StdAgeList":{
+            "StdAge":[
+              "Adult",
+              "Older Adult"
+            ]
+          }
+        },
+        "ContactsLocationsModule":{
+          "CentralContactList":{
+            "CentralContact":[
+              {
+                "CentralContactName":"Parastoo Dahi, MD",
+                "CentralContactRole":"Contact",
+                "CentralContactPhone":"646-608-3733",
+                "CentralContactEMail":"dahip@mskcc.org"
+              },{
+                "CentralContactName":"Matthew Matasar, MD",
+                "CentralContactRole":"Contact",
+                "CentralContactPhone":"212-639-8889"
+              }
+            ]
+          },
+          "OverallOfficialList":{
+            "OverallOfficial":[
+              {
+                "OverallOfficialName":"Parastoo Dahi, MD",
+                "OverallOfficialAffiliation":"Memorial Sloan Kettering Cancer Center",
+                "OverallOfficialRole":"Principal Investigator"
+              }
+            ]
+          },
+          "LocationList":{
+            "Location":[
+              {
+                "LocationFacility":"Memorial Sloan Kettering Cancer Center",
+                "LocationStatus":"Recruiting",
+                "LocationCity":"New York",
+                "LocationState":"New York",
+                "LocationZip":"10065",
+                "LocationCountry":"United States",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactName":"Parastoo Dahi, MD",
+                      "LocationContactRole":"Contact",
+                      "LocationContactPhone":"646-608-3733"
+                    },{
+                      "LocationContactName":"Matthew Matasar, MD",
+                      "LocationContactRole":"Contact",
+                      "LocationContactPhone":"212-639-8889"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "ReferencesModule":{
+          "SeeAlsoLinkList":{
+            "SeeAlsoLink":[
+              {
+                "SeeAlsoLinkLabel":"Memorial Sloan Kettering Cancer Center",
+                "SeeAlsoLinkURL":"http://www.mskcc.org/mskcc/html/44.cfm"
+              }
+            ]
+          }
+        },
+        "IPDSharingStatementModule":{
+          "IPDSharing":"Yes",
+          "IPDSharingDescription":"Memorial Sloan Kettering Cancer Center supports the international committee of medical journal editors (ICMJE) and the ethical obligation of responsible sharing of data from clinical trials. The protocol summary, a statistical summary, and informed consent form will be made available on clinicaltrials.gov when required as a condition of Federal awards, other agreements supporting the research and/or as otherwise required. Requests for deidentified individual participant data can be made beginning 12 months after publication and for up to 36 months post publication. Deidentified individual participant data reported in the manuscript will be shared under the terms of a Data Use Agreement and may only be used for approved proposals. Requests may be made to: crdatashare@mskcc.org."
+        }
+      },
+      "DerivedSection":{
+        "MiscInfoModule":{
+          "VersionHolder":"September 19, 2022"
+        },
+        "ConditionBrowseModule":{
+          "ConditionMeshList":{
+            "ConditionMesh":[
+              {
+                "ConditionMeshId":"D000008223",
+                "ConditionMeshTerm":"Lymphoma"
+              },{
+                "ConditionMeshId":"D000008228",
+                "ConditionMeshTerm":"Lymphoma, Non-Hodgkin"
+              },{
+                "ConditionMeshId":"D000016393",
+                "ConditionMeshTerm":"Lymphoma, B-Cell"
+              },{
+                "ConditionMeshId":"D000016399",
+                "ConditionMeshTerm":"Lymphoma, T-Cell"
+              },{
+                "ConditionMeshId":"D000006689",
+                "ConditionMeshTerm":"Hodgkin Disease"
+              }
+            ]
+          },
+          "ConditionAncestorList":{
+            "ConditionAncestor":[
+              {
+                "ConditionAncestorId":"D000009370",
+                "ConditionAncestorTerm":"Neoplasms by Histologic Type"
+              },{
+                "ConditionAncestorId":"D000009369",
+                "ConditionAncestorTerm":"Neoplasms"
+              },{
+                "ConditionAncestorId":"D000008232",
+                "ConditionAncestorTerm":"Lymphoproliferative Disorders"
+              },{
+                "ConditionAncestorId":"D000008206",
+                "ConditionAncestorTerm":"Lymphatic Diseases"
+              },{
+                "ConditionAncestorId":"D000007160",
+                "ConditionAncestorTerm":"Immunoproliferative Disorders"
+              },{
+                "ConditionAncestorId":"D000007154",
+                "ConditionAncestorTerm":"Immune System Diseases"
+              }
+            ]
+          },
+          "ConditionBrowseLeafList":{
+            "ConditionBrowseLeaf":[
+              {
+                "ConditionBrowseLeafId":"M10372",
+                "ConditionBrowseLeafName":"Lymphoma",
+                "ConditionBrowseLeafAsFound":"Lymphoma",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M8903",
+                "ConditionBrowseLeafName":"Hodgkin Disease",
+                "ConditionBrowseLeafAsFound":"Lymphoma, Hodgkin",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M17980",
+                "ConditionBrowseLeafName":"Lymphoma, B-Cell",
+                "ConditionBrowseLeafAsFound":"Lymphoma, B-Cell",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M10374",
+                "ConditionBrowseLeafName":"Lymphoma, Non-Hodgkin",
+                "ConditionBrowseLeafAsFound":"Lymphoma, Non-Hodgkin",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M17981",
+                "ConditionBrowseLeafName":"Lymphoma, T-Cell",
+                "ConditionBrowseLeafAsFound":"Lymphoma, T-Cell",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M11467",
+                "ConditionBrowseLeafName":"Neoplasms by Histologic Type",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M10377",
+                "ConditionBrowseLeafName":"Lymphoproliferative Disorders",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M10355",
+                "ConditionBrowseLeafName":"Lymphatic Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M9358",
+                "ConditionBrowseLeafName":"Immunoproliferative Disorders",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M9352",
+                "ConditionBrowseLeafName":"Immune System Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"T3543",
+                "ConditionBrowseLeafName":"Lymphosarcoma",
+                "ConditionBrowseLeafAsFound":"Lymphoma",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"T640",
+                "ConditionBrowseLeafName":"B-cell Lymphoma",
+                "ConditionBrowseLeafAsFound":"Lymphoma, B-Cell",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"T2817",
+                "ConditionBrowseLeafName":"Hodgkin Lymphoma",
+                "ConditionBrowseLeafAsFound":"Lymphoma, Hodgkin",
+                "ConditionBrowseLeafRelevance":"high"
+              }
+            ]
+          },
+          "ConditionBrowseBranchList":{
+            "ConditionBrowseBranch":[
+              {
+                "ConditionBrowseBranchAbbrev":"BC04",
+                "ConditionBrowseBranchName":"Neoplasms"
+              },{
+                "ConditionBrowseBranchAbbrev":"BC15",
+                "ConditionBrowseBranchName":"Blood and Lymph Conditions"
+              },{
+                "ConditionBrowseBranchAbbrev":"BC20",
+                "ConditionBrowseBranchName":"Immune System Diseases"
+              },{
+                "ConditionBrowseBranchAbbrev":"All",
+                "ConditionBrowseBranchName":"All Conditions"
+              },{
+                "ConditionBrowseBranchAbbrev":"Rare",
+                "ConditionBrowseBranchName":"Rare Diseases"
+              }
+            ]
+          }
+        },
+        "InterventionBrowseModule":{
+          "InterventionBrowseLeafList":{
+            "InterventionBrowseLeaf":[
+              {
+                "InterventionBrowseLeafId":"M7343",
+                "InterventionBrowseLeafName":"Etoposide",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M8731",
+                "InterventionBrowseLeafName":"Heparin",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M5918",
+                "InterventionBrowseLeafName":"Cytarabine",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M18174",
+                "InterventionBrowseLeafName":"Lithium Carbonate",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M4737",
+                "InterventionBrowseLeafName":"Carmustine",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M10693",
+                "InterventionBrowseLeafName":"Melphalan",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M341694",
+                "InterventionBrowseLeafName":"Etoposide phosphate",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M45326",
+                "InterventionBrowseLeafName":"Calcium heparin",
+                "InterventionBrowseLeafRelevance":"low"
+              }
+            ]
+          },
+          "InterventionBrowseBranchList":{
+            "InterventionBrowseBranch":[
+              {
+                "InterventionBrowseBranchAbbrev":"ANeo",
+                "InterventionBrowseBranchName":"Antineoplastic Agents"
+              },{
+                "InterventionBrowseBranchAbbrev":"All",
+                "InterventionBrowseBranchName":"All Drugs and Chemicals"
+              },{
+                "InterventionBrowseBranchAbbrev":"FiAg",
+                "InterventionBrowseBranchName":"Fibrinolytic Agents"
+              },{
+                "InterventionBrowseBranchAbbrev":"AnCoag",
+                "InterventionBrowseBranchName":"Anticoagulants"
+              },{
+                "InterventionBrowseBranchAbbrev":"Infe",
+                "InterventionBrowseBranchName":"Anti-Infective Agents"
+              },{
+                "InterventionBrowseBranchAbbrev":"CNSDep",
+                "InterventionBrowseBranchName":"Central Nervous System Depressants"
+              },{
+                "InterventionBrowseBranchAbbrev":"PsychDr",
+                "InterventionBrowseBranchName":"Psychotropic Drugs"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+

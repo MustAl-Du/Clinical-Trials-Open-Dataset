@@ -1,0 +1,3748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3590">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01766206</url>
+  </required_header>
+  <id_info>
+    <org_study_id>205341</org_study_id>
+    <secondary_id>V59_62</secondary_id>
+    <nct_id>NCT01766206</nct_id>
+  </id_info>
+  <brief_title>Safety of One Dose of Meningococcal ACWY Conjugate Vaccine in Subjects From 2 Months to 55 Years of Age in the Republic of South Korea</brief_title>
+  <official_title>A Multicenter Post Marketing Surveillance Study to Monitor the Safety of GlaxoSmithKline (GSK) Biologicals' Meningococcal ACWY Conjugate Vaccine(MenACWY-CRM) Administered According to the Prescribing Information to Healthy Subjects From 2 Months to 55 Years of Age in the Republic of South Korea.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>GlaxoSmithKline</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>GlaxoSmithKline</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A multicenter, single arm, post-marketing surveillance study. This study is a postlicensure&#xD;
+      requirement of the Korea Food and Drug Administration (KFDA) to provide continued safety&#xD;
+      evaluation of MenACWY in the Korean population from 2 months to 55 years of age, receiving&#xD;
+      MenACWY-CRM vaccination according to routine clinical practice and prescribing information.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 15, 2013</start_date>
+  <completion_date type="Actual">January 22, 2018</completion_date>
+  <primary_completion_date type="Actual">January 22, 2018</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Subjects Reporting Any Local and Systemic Solicited Adverse Events (AEs)</measure>
+    <time_frame>From Day 1 of vaccination to Day 7 post vaccination</time_frame>
+    <description>Assessed solicited local AEs include: injection site erythema, injection site induration, injection site tenderness, injection site pain. Assessed solicited systemic AEs include: change in eating habits, sleepiness, irritability, rash, vomiting, diarrhea, fever, chills, nausea, malaise, generalized myalgia, generalized arthralgia, headache. &quot;Any&quot; is defined as any report of the specified symptom irrespective of intensity grade. Subjects from 2 months to 55 years of age were evaluated for the outcome measure.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Subjects Reporting Any Unsolicited Adverse Events (AEs)</measure>
+    <time_frame>From Day 1 of vaccination to Day 7 post vaccination</time_frame>
+    <description>An AE is defined as any untoward medical occurrence in a subject or clinical investigation subject administered a pharmaceutical product at any dose that does not necessarily have to have a causal relationship with this treatment. All unsolicited AEs reported from day 1 to day 7 post vaccination were assessed. &quot;Any&quot; is defined as any report of the specified symptom irrespective of intensity grade. Subjects from 2 months to 55 years of age were evaluated for the outcome measure.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Subjects Reporting Medically Attended AEs (MAAEs)</measure>
+    <time_frame>From Day 1 of vaccination to study termination (Day 29/early termination)</time_frame>
+    <description>MAAEs are defined as events that require a physician's visit or an emergency room visit. All reported MAAEs from day 1 to day 29 were assessed. Subjects from 2 months to 55 years of age were evaluated for the outcome measure.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Subjects Reporting Serious AEs (SAEs)</measure>
+    <time_frame>From Day 1 of vaccination to study termination (Day 29/early termination)</time_frame>
+    <description>An SAE is defined as any untoward medical occurrence that at any dose results in death, is life-threatening (i.e., the subject was, in the opinion of the investigator, at immediate risk of death from the event as it occurred); it does not refer to an event which hypothetically might have caused death if it were more severe, requires or prolongs subject's hospitalization, results in persistent or significant disability/incapacity (i.e., the event causes a substantial disruption of a person's ability to conduct normal life functions), results in a congenital anomaly/birth defect, is an important and significant medical event that may not be immediately life threatening or resulting in death or hospitalization but, based upon appropriate medical judgment, may jeopardize the subject or may require intervention to prevent one of the other outcomes listed above. Subjects from 2 months to 55 years of age were evaluated for the outcome measure.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">3948</enrollment>
+  <condition>Meningococcal Disease</condition>
+  <arm_group>
+    <arm_group_label>MenACWY-CRM Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Healthy subjects from 2 months to 55 years of age in South Korea, who received MenACWY-CRM (Menveo) vaccination, according to routine clinical care.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>MenACWY-CRM (Menveo)</intervention_name>
+    <description>One dose administered intramuscularly preferably into the anterolateral aspect of the thigh in infants or into the deltoid muscle in children, adolescents and adults.</description>
+    <arm_group_label>MenACWY-CRM Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Individuals eligible for enrolment in this study are those:&#xD;
+&#xD;
+          1. male and female subjects from 2 months to 55 years of the age at the time of Visit 1&#xD;
+             (including all 55 years old subjects, up to one day before their 56th year birthday),&#xD;
+             who are scheduled to receive vaccination with MenACWY-CRM conjugate vaccine, according&#xD;
+             to the local prescribing information and routine clinical practice;&#xD;
+&#xD;
+          2. to whom the nature of the study has been described and the subject or subject's&#xD;
+             parent/legal representative has provided written informed consent;&#xD;
+&#xD;
+          3. whom the investigator believes that the subject can and will comply with the&#xD;
+             requirements of the protocol (e.g., completion of the Diary Card);&#xD;
+&#xD;
+          4. who are in good health as determined by the outcome of medical history, physical&#xD;
+             assessment and clinical judgment of the investigator.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        1. Contraindication, special warnings and/or precautions, as evaluated by the&#xD;
+        investigators, reported in the MenACWY-CRM conjugate vaccine Korean prescribing&#xD;
+        information. In particular, should not be included in the study a subject who has ever had:&#xD;
+&#xD;
+          -  an allergic reaction to the active substances or any of the other ingredients of the&#xD;
+             study vaccine; an allergic reaction to diphtheria toxoid;&#xD;
+&#xD;
+          -  an illness with high fever; however, a mild fever or upper respiratory infection (for&#xD;
+             example cold) itself is not a reason to delay vaccination. Special care should be&#xD;
+             taken for subjects having haemophilia or any other problem that may stop your blood&#xD;
+             from clotting properly, such as persons receiving blood thinners (anticoagulants).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>2 Months</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>GSK Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>GlaxoSmithKline</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Ansan</city>
+        <zip>15381</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Anyang</city>
+        <zip>431 062</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Bucheon</city>
+        <zip>14610</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Busan</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Changwon</city>
+        <zip>51503</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Daegu</city>
+        <zip>706 090</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>DaeJeon</city>
+        <zip>34189</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Daejeon</city>
+        <zip>34944</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Donghae</city>
+        <zip>25768</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Gimhae-si</city>
+        <zip>51004</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Goyang-si, Gyeonggi-do</city>
+        <zip>10503</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Goyang-si</city>
+        <zip>10589</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Guro Gu</city>
+        <zip>152703</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Gwangmyeong-si</city>
+        <zip>14250</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Gwangmyeong</city>
+        <zip>484 5</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Gyeonggi do</city>
+        <zip>158 774</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Gyeonggi-do</city>
+        <zip>16481</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Gyeonggi-do</city>
+        <zip>463 707</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Gyeonggi-do</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Incheon</city>
+        <zip>22214</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Incheon</city>
+        <zip>22397</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Incheon</city>
+        <zip>22736</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>JeJu</city>
+        <zip>63070</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Jeollanam Do</city>
+        <zip>530822</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Kyeonggido</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Pyeongtaek</city>
+        <zip>450 832</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>02598</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>02717</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>03966</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>04143</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>04154</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>04168</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>06591</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>100 032</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>110746</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>130 702</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>130-702</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>130-711</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>132-703</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>135 244</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>135720</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>135951</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>137 873</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>138 162</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>138201</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>140 887</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>143729</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>156-070</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>156755</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>158 885</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Ulsan</city>
+        <zip>683380</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Ulsan</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Yangju-si, Gyeonggi-do</city>
+        <zip>11440</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <reference>
+    <citation>Al-Tawfiq JA, Clark TA, Memish ZA. Meningococcal disease: the organism, clinical presentation, and worldwide epidemiology. J Travel Med. 2010 Sep-Oct;17 Suppl:3-8. doi: 10.1111/j.1708-8305.2010.00448.x.</citation>
+    <PMID>20849427</PMID>
+  </reference>
+  <reference>
+    <citation>Bae SM, Kang YH. Serological and genetic characterization of meningococcal isolates in Korea. Jpn J Infect Dis. 2008 Nov;61(6):434-7.</citation>
+    <PMID>19050348</PMID>
+  </reference>
+  <reference>
+    <citation>Cho HK, Lee H, Kang JH, Kim KN, Kim DS, Kim YK, Kim JS, Kim JH, Kim CH, Kim HM, Park SE, Oh SH, Chung EH, Cha SH, Choi YY, Hur JK, Hong YJ, Lee HJ, Kim KH. The causative organisms of bacterial meningitis in Korean children in 1996-2005. J Korean Med Sci. 2010 Jun;25(6):895-9. doi: 10.3346/jkms.2010.25.6.895. Epub 2010 May 24.</citation>
+    <PMID>20514311</PMID>
+  </reference>
+  <reference>
+    <citation>Deasy A, Read RC. Challenges for development of meningococcal vaccines in infants and children. Expert Rev Vaccines. 2011 Mar;10(3):335-43. doi: 10.1586/erv.11.3. Review.</citation>
+    <PMID>21434801</PMID>
+  </reference>
+  <reference>
+    <citation>Hill DJ, Griffiths NJ, Borodina E, Virji M. Cellular and molecular biology of Neisseria meningitidis colonization and invasive disease. Clin Sci (Lond). 2010 Feb 9;118(9):547-64. doi: 10.1042/CS20090513. Review.</citation>
+    <PMID>20132098</PMID>
+  </reference>
+  <reference>
+    <citation>Lee JH, Cho HK, Kim KH, Kim CH, Kim DS, Kim KN, Cha SH, Oh SH, Hur JK, Kang JH, Kim JH, Kim YK, Hong YJ, Chung EH, Park SE, Choi YY, Kim JS, Kim HM, Choi EH, Lee HJ. Etiology of invasive bacterial infections in immunocompetent children in Korea (1996-2005): a retrospective multicenter study. J Korean Med Sci. 2011 Feb;26(2):174-83. doi: 10.3346/jkms.2011.26.2.174. Epub 2011 Jan 24.</citation>
+    <PMID>21286006</PMID>
+  </reference>
+  <reference>
+    <citation>Moon SY, Chung DR, Kim SW, Chang HH, Lee H, Jung DS, Kim YS, Jung SI, Ryu SY, Heo ST, Moon C, Ki HK, Son JS, Kwon KT, Shin SY, Lee JS, Lee SS, Rhee JY, Lee JA, Joung MK, Cheong HS, Peck KR, Song JH. Changing etiology of community-acquired bacterial meningitis in adults: a nationwide multicenter study in Korea. Eur J Clin Microbiol Infect Dis. 2010 Jul;29(7):793-800. doi: 10.1007/s10096-010-0929-8. Epub 2010 May 1.</citation>
+    <PMID>20432052</PMID>
+  </reference>
+  <reference>
+    <citation>Obaro SK, Madhi SA. Bacterial pneumonia vaccines and childhood pneumonia: are we winning, refining, or redefining? Lancet Infect Dis. 2006 Mar;6(3):150-61. Review.</citation>
+    <PMID>16500596</PMID>
+  </reference>
+  <reference>
+    <citation>Rouphael NG, Stephens DS. Neisseria meningitidis: biology, microbiology, and epidemiology. Methods Mol Biol. 2012;799:1-20. doi: 10.1007/978-1-61779-346-2_1. Review.</citation>
+    <PMID>21993636</PMID>
+  </reference>
+  <reference>
+    <citation>Trotter CL, Andrews NJ, Kaczmarski EB, Miller E, Ramsay ME. Effectiveness of meningococcal serogroup C conjugate vaccine 4 years after introduction. Lancet. 2004 Jul 24-30;364(9431):365-7.</citation>
+    <PMID>15276396</PMID>
+  </reference>
+  <verification_date>July 2018</verification_date>
+  <study_first_submitted>January 8, 2013</study_first_submitted>
+  <study_first_submitted_qc>January 9, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">January 11, 2013</study_first_posted>
+  <results_first_submitted>July 20, 2018</results_first_submitted>
+  <results_first_submitted_qc>August 22, 2018</results_first_submitted_qc>
+  <results_first_posted type="Actual">September 21, 2018</results_first_posted>
+  <last_update_submitted>August 22, 2018</last_update_submitted>
+  <last_update_submitted_qc>August 22, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 21, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>conjugate vaccine</keyword>
+  <keyword>phase IV clinical trial</keyword>
+  <keyword>Neisseria meningitidis</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Meningococcal Infections</mesh_term>
+  </condition_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>June 13, 2012</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/06/NCT01766206/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>March 6, 2013</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/06/NCT01766206/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Healthy subjects from 2 months to 55 years of age were enrolled in 46 centres in South Korea.</recruitment_details>
+      <pre_assignment_details>Out of the 3,948 subjects enrolled, only 3,939 subjects were exposed to vaccination as 1 subject did not receive a study vaccination and 8 subjects did not provide post vaccination safety data. Among 3939 subjects, 15 subjects are in the ≥ 56 age category (outside the range defined as per the protocol).</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>MenACWY-CRM Group</title>
+          <description>Healthy subjects from 2 months to 55 years of age in South Korea, who received MenACWY-CRM (Menveo) vaccination, according to routine clinical care.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="3939"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="3888"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="51"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="22"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="10"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Inappropriate enrollment</title>
+              <participants_list>
+                <participants group_id="P1" count="18"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal and inappropriate enrollment</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>MenACWY-CRM Group</title>
+          <description>Healthy subjects from 2 months to 55 years of age in South Korea, who received MenACWY-CRM (Menveo) vaccination, according to routine clinical care.</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="3939"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="18.37" spread="15.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age, Customized</title>
+          <units>Participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>2- 23 months</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="654"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>2-10 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="890"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>2-5 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="551"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>6-10 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="339"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>11-18 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="433"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>19-34 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1286"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>35 - 55 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="661"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>≥ 56 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2181"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1758"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Asian</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3937"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Caucasian</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hispanic</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Subjects Reporting Any Local and Systemic Solicited Adverse Events (AEs)</title>
+        <description>Assessed solicited local AEs include: injection site erythema, injection site induration, injection site tenderness, injection site pain. Assessed solicited systemic AEs include: change in eating habits, sleepiness, irritability, rash, vomiting, diarrhea, fever, chills, nausea, malaise, generalized myalgia, generalized arthralgia, headache. &quot;Any&quot; is defined as any report of the specified symptom irrespective of intensity grade. Subjects from 2 months to 55 years of age were evaluated for the outcome measure.</description>
+        <time_frame>From Day 1 of vaccination to Day 7 post vaccination</time_frame>
+        <population>This analysis was performed on the Safety per protocol set, which included enrolled subjects aged from 2 months to 55 years, who signed an informed consent, underwent screening, received a subject number and received a study vaccination and provided post vaccination data. Excluding 19 subjects from safety set with protocol violations.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>MenACWY-CRM Group</title>
+            <description>Healthy subjects from 2 months to 55 years of age in South Korea, who received MenACWY-CRM (Menveo) vaccination, according to routine clinical care.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Subjects Reporting Any Local and Systemic Solicited Adverse Events (AEs)</title>
+          <description>Assessed solicited local AEs include: injection site erythema, injection site induration, injection site tenderness, injection site pain. Assessed solicited systemic AEs include: change in eating habits, sleepiness, irritability, rash, vomiting, diarrhea, fever, chills, nausea, malaise, generalized myalgia, generalized arthralgia, headache. &quot;Any&quot; is defined as any report of the specified symptom irrespective of intensity grade. Subjects from 2 months to 55 years of age were evaluated for the outcome measure.</description>
+          <population>This analysis was performed on the Safety per protocol set, which included enrolled subjects aged from 2 months to 55 years, who signed an informed consent, underwent screening, received a subject number and received a study vaccination and provided post vaccination data. Excluding 19 subjects from safety set with protocol violations.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="3920"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Any injection site tenderness, 2 - 23 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="653"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="67"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any injection site erythema, 2 - 23 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="653"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="32"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any injection site induration, 2 - 23 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="653"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="28"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any change in eating habbits, 2 - 23 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="653"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="110"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any sleepiness, 2 - 23 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="653"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="126"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any irritability, 2 - 23 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="653"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="219"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any vomiting, 2 - 23 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="653"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="66"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any diarrhea, 2 - 23 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="653"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="82"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any rash, 2 - 23 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="653"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="20"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any fever, 2 - 23 months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="653"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="57"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any injection site tenderness, 2 - 5 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="551"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="135"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any injection site erythema, 2 - 5 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="551"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="71"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any injection site induration, 2 - 5 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="551"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="49"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any change in eating habits, 2 - 5 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="551"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="22"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any sleepiness, 2 - 5 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="551"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any irritability, 2 - 5 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="551"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="35"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any vomiting, 2 - 5 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="551"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any diarrhea, 2 - 5 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="551"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any rash, 2 - 5 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="551"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="18"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any fever, 2 - 5 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="551"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any injection site tenderness, 6 - 10 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="338"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="108"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any injection site erythema, 6 - 10 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="338"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="53"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any injection site induration, 6 - 10 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="338"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="45"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any chills, 6 - 10 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="338"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any nausea, 6 - 10 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="338"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any malaise, 6 - 10 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="338"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any myalgia, 6 - 10 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="338"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any arthralgia, 6 - 10 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="338"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any headache, 6 - 10 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="338"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any rash, 6 - 10 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="338"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any fever, 6 - 10 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="338"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any injection site tenderness, 11 - 18 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="431"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="91"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any injection site erythema, 11 - 18 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="431"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any injection site induration, 11 - 18 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="431"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="21"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any chills, 11 - 18 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="431"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any nausea, 11 - 18 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="431"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any malaise, 11 - 18 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="431"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any myalgia, 11 - 18 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="431"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any arthralgia, 11 - 18 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="431"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any headache, 11 - 18 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="431"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any rash, 11 - 18 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="431"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any fever, 11 - 18 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="431"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any injenction site tenderness, 19 - 34 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1286"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="214"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any injection site erythema, 19 - 34 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1286"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any injection site induration, 19 - 34 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1286"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any chills, 19 - 34 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1286"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any nausea, 19 - 34 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1286"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any malaise, 19 - 34 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1286"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="20"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any myalgia, 19 - 34 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1286"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="21"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any arthralgia, 19 - 34 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1286"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any headache, 19 - 34 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1286"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="29"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any rash, 19 - 34 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1286"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any fever, 19 - 34 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1286"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any injection site tenderness, 35 - 55 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="661"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="174"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any injection site erythema, 35 - 55 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="661"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any injection site induration, 35 - 55 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="661"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any chills, 35 - 55 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="661"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any nausea, 35 - 55 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="661"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any malaise, 35 - 55 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="661"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="16"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any myalgia, 35 - 55 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="661"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="23"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any arthralgia, 35 - 55 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="661"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any headache, 35 - 55 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="661"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="19"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any rash, 35 - 55 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="661"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any fever, 35 - 55 years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="661"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Subjects Reporting Any Unsolicited Adverse Events (AEs)</title>
+        <description>An AE is defined as any untoward medical occurrence in a subject or clinical investigation subject administered a pharmaceutical product at any dose that does not necessarily have to have a causal relationship with this treatment. All unsolicited AEs reported from day 1 to day 7 post vaccination were assessed. &quot;Any&quot; is defined as any report of the specified symptom irrespective of intensity grade. Subjects from 2 months to 55 years of age were evaluated for the outcome measure.</description>
+        <time_frame>From Day 1 of vaccination to Day 7 post vaccination</time_frame>
+        <population>This analysis was performed on the Safety per protocol set, which included all enrolled subjects who signed an informed consent,underwent screening, received a subject number, received a study vaccination and provided post vaccination data. Excluding 19 subjects from safety set with protocol violations.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>MenACWY-CRM Group</title>
+            <description>Healthy subjects from 2 months to 55 years of age in South Korea, who received MenACWY-CRM (Menveo) vaccination, according to routine clinical care.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Subjects Reporting Any Unsolicited Adverse Events (AEs)</title>
+          <description>An AE is defined as any untoward medical occurrence in a subject or clinical investigation subject administered a pharmaceutical product at any dose that does not necessarily have to have a causal relationship with this treatment. All unsolicited AEs reported from day 1 to day 7 post vaccination were assessed. &quot;Any&quot; is defined as any report of the specified symptom irrespective of intensity grade. Subjects from 2 months to 55 years of age were evaluated for the outcome measure.</description>
+          <population>This analysis was performed on the Safety per protocol set, which included all enrolled subjects who signed an informed consent,underwent screening, received a subject number, received a study vaccination and provided post vaccination data. Excluding 19 subjects from safety set with protocol violations.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="3920"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>2 - 23 Months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="653"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="82"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>2 - 5 Years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="551"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="56"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>6 - 10 Years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="338"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="18"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>11 - 18 Years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="431"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>19 - 34 Years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1286"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>35 - 55 Years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="661"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Subjects Reporting Medically Attended AEs (MAAEs)</title>
+        <description>MAAEs are defined as events that require a physician's visit or an emergency room visit. All reported MAAEs from day 1 to day 29 were assessed. Subjects from 2 months to 55 years of age were evaluated for the outcome measure.</description>
+        <time_frame>From Day 1 of vaccination to study termination (Day 29/early termination)</time_frame>
+        <population>This analysis was performed on the Safety per protocol set, which included all enrolled subjects who signed an informed consent, underwent screening, received a subject number, received a study vaccination and provided post vaccination data. Excluding 19 subjects from safety set with protocol violations.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>MenACWY-CRM Group</title>
+            <description>Healthy subjects from 2 months to 55 years of age in South Korea, who received MenACWY-CRM (Menveo) vaccination, according to routine clinical care.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Subjects Reporting Medically Attended AEs (MAAEs)</title>
+          <description>MAAEs are defined as events that require a physician's visit or an emergency room visit. All reported MAAEs from day 1 to day 29 were assessed. Subjects from 2 months to 55 years of age were evaluated for the outcome measure.</description>
+          <population>This analysis was performed on the Safety per protocol set, which included all enrolled subjects who signed an informed consent, underwent screening, received a subject number, received a study vaccination and provided post vaccination data. Excluding 19 subjects from safety set with protocol violations.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="3920"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>2 - 23 Months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="653"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="238"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>2 - 5 Years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="551"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="120"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>6 - 10 Years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="338"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="28"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>11 - 18 Years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="431"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="20"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>19 - 34 Years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1286"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="16"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>35 - 55 Years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="661"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Subjects Reporting Serious AEs (SAEs)</title>
+        <description>An SAE is defined as any untoward medical occurrence that at any dose results in death, is life-threatening (i.e., the subject was, in the opinion of the investigator, at immediate risk of death from the event as it occurred); it does not refer to an event which hypothetically might have caused death if it were more severe, requires or prolongs subject's hospitalization, results in persistent or significant disability/incapacity (i.e., the event causes a substantial disruption of a person's ability to conduct normal life functions), results in a congenital anomaly/birth defect, is an important and significant medical event that may not be immediately life threatening or resulting in death or hospitalization but, based upon appropriate medical judgment, may jeopardize the subject or may require intervention to prevent one of the other outcomes listed above. Subjects from 2 months to 55 years of age were evaluated for the outcome measure.</description>
+        <time_frame>From Day 1 of vaccination to study termination (Day 29/early termination)</time_frame>
+        <population>This analysis was performed on the Safety per protocol set, which included all enrolled subjects who signed an informed consent, underwent screening, received a subject number, received a study vaccination and provided post vaccination data. Excluding 19 subjects from safety set with protocol violations.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>MenACWY-CRM Group</title>
+            <description>Healthy subjects from 2 months to 55 years of age in South Korea, who received MenACWY-CRM (Menveo) vaccination, according to routine clinical care.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Subjects Reporting Serious AEs (SAEs)</title>
+          <description>An SAE is defined as any untoward medical occurrence that at any dose results in death, is life-threatening (i.e., the subject was, in the opinion of the investigator, at immediate risk of death from the event as it occurred); it does not refer to an event which hypothetically might have caused death if it were more severe, requires or prolongs subject's hospitalization, results in persistent or significant disability/incapacity (i.e., the event causes a substantial disruption of a person's ability to conduct normal life functions), results in a congenital anomaly/birth defect, is an important and significant medical event that may not be immediately life threatening or resulting in death or hospitalization but, based upon appropriate medical judgment, may jeopardize the subject or may require intervention to prevent one of the other outcomes listed above. Subjects from 2 months to 55 years of age were evaluated for the outcome measure.</description>
+          <population>This analysis was performed on the Safety per protocol set, which included all enrolled subjects who signed an informed consent, underwent screening, received a subject number, received a study vaccination and provided post vaccination data. Excluding 19 subjects from safety set with protocol violations.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="3920"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>2 - 23 Months</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="653"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>2 - 5 Years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="551"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>6 - 10 Years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="338"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>11 - 18 Years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="431"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>19 - 34 Years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1286"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>35 - 55 Years</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="661"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Solicited and unsolicited AEs were reported from Day 1 to Day 7. MAAEs and SAEs were reported from study day 1 to study termination (Day 29/early termination).</time_frame>
+      <desc>Total number of subjects at risk for SAEs, all cause mortality and FAEs were analyzed from the Safety set (including 15 subjects of ≥ 56 years age category).</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>MenACWY-CRM Group</title>
+          <description>Healthy subjects from 2 months to 55 years of age in South Korea, who received MenACWY-CRM (Menveo) vaccination, according to routine clinical care.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedDRA 21.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="3939"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pyrexia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Bronchiolitis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Tonsillitis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_vocab>MedDRA 21.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="1379" subjects_at_risk="3939"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Lymphadentitis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Anaemia</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Iron deficiency anaemia</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Lymphadenitis</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Ear and labyrinth disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Ear pain</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Eye disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Conjunctivitis allergic</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Eye discharge</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Ocular hyperaemia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Conjunctivitis allergic</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Keratitis</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <description>This symptom was assessed as a general AE.</description>
+                <counts group_id="E1" events="70" subjects_affected="70" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Enteritis</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="5" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="6" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="5" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Constipation</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Stomatitis</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Abdominal pain</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Colitis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Dental caries</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Gastritis erosive</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Gastrooesophageal reflux disease</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Enteritis</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="23" subjects_affected="22" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="7" subjects_affected="7" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="8" subjects_affected="8" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Constipation</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="7" subjects_affected="7" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Stomatitis</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="7" subjects_affected="7" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Gastritis</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="6" subjects_affected="6" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Abdominal pain</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Colitis</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Chronic gastritis</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Dental caries</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Gastritis erosive</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Gastrooesophageal reflux disease</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Irritable bowel syndrome</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title vocab="21.0">Injection site tenderness</sub_title>
+                <description>This symptom was assessed as a solicited local AE.</description>
+                <counts group_id="E1" events="202" subjects_affected="202" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Injection site pain</sub_title>
+                <description>This symptom was assessed as a solicited local AE.</description>
+                <counts group_id="E1" events="592" subjects_affected="592" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Injection site erythema</sub_title>
+                <description>This symptom was assessed as a solicited local AE.</description>
+                <counts group_id="E1" events="195" subjects_affected="195" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Injection site induration</sub_title>
+                <description>This symptom was assessed as a solicited local AE.</description>
+                <counts group_id="E1" events="158" subjects_affected="158" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Diarrhea</sub_title>
+                <description>This symptom was assessed as a solicited general AE.</description>
+                <counts group_id="E1" events="89" subjects_affected="89" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Chills</sub_title>
+                <description>This symptom was assessed as a solicited general AE.</description>
+                <counts group_id="E1" events="31" subjects_affected="31" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <description>This symptom was assessed as a solicited general AE.</description>
+                <counts group_id="E1" events="28" subjects_affected="28" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Malaise</sub_title>
+                <description>This symptom was assessed as a solicited general AE,</description>
+                <counts group_id="E1" events="53" subjects_affected="53" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Myalgia</sub_title>
+                <description>This symptom was assessed as a solicited general AE.</description>
+                <counts group_id="E1" events="64" subjects_affected="64" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Arthralgia</sub_title>
+                <description>This symptom was assessed as a solicited general AE.</description>
+                <counts group_id="E1" events="34" subjects_affected="34" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Fever</sub_title>
+                <description>This symptom was assessed as a solicited general AE.</description>
+                <counts group_id="E1" events="87" subjects_affected="87" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Pyrexia</sub_title>
+                <counts group_id="E1" events="8" subjects_affected="8" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Injection site erythema</sub_title>
+                <counts group_id="E1" events="9" subjects_affected="9" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Injection site induration</sub_title>
+                <counts group_id="E1" events="7" subjects_affected="7" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Injection site pruritus</sub_title>
+                <counts group_id="E1" events="7" subjects_affected="7" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Injection site pain</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Injection site warmth</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Oedema peripheral</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Chest pain</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Injection site bruising</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Injection site swelling</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Pyrexia</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="17" subjects_affected="15" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Injection site erythema</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Injection site pruritus</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Oedema peripheral</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Chest pain</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Injection site rash</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Injection site swelling</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Immune system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Atopy</sub_title>
+                <assessment>Non-systematic Assessment</assessment>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Bronchitis</sub_title>
+                <counts group_id="E1" events="21" subjects_affected="21" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Nasopharyngitis</sub_title>
+                <counts group_id="E1" events="31" subjects_affected="31" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Pharyngitis</sub_title>
+                <counts group_id="E1" events="13" subjects_affected="13" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Gastroenteritis</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="5" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Bronchiolitis</sub_title>
+                <counts group_id="E1" events="11" subjects_affected="11" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Otitis media</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="6" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Rhinitis</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="6" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Conjunctivitis</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Tonsillitis</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="6" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Upper respiratory tract infection</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Influenza</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Cellulitis</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Acute sinusitis</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Herpangina</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Laryngitis</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Viral pharyngitis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Cystitis</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Oral herpes</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Periodontitis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Pharyngitis streptococcal</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Sinusitis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Bronchitis</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="100" subjects_affected="94" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Nasopharyngitis</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="93" subjects_affected="82" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Pharyngitis</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="42" subjects_affected="40" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Gastroenteritis</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="31" subjects_affected="30" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Bronchiolitis</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="29" subjects_affected="28" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Otitis media</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="22" subjects_affected="22" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="16" subjects_affected="15" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Rhinitis</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="13" subjects_affected="13" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Conjunctivitis</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="12" subjects_affected="12" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Tonsillitis</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="17" subjects_affected="17" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Upper respiratory tract infection</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="11" subjects_affected="11" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Influenza</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="8" subjects_affected="8" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Cellulitis</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="6" subjects_affected="6" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Acute sinusitis</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="5" subjects_affected="5" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Impetigo</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="5" subjects_affected="5" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Herpes dermatitis</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Otitis media acute</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Hand-foot-and-mouth disease</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Herpangina</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Laryngitis</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Oral candidiasis</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Viral pharyngitis</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Cystitis</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Oral herpes</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Pharyngitis bacterial</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Pharyngotonsillitis</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Tracheitis</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Bacterial infection</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Croup infectious</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Exanthema subitum</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Gastrointestinal infection</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Hordeolum</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Periodontitis</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Pharyngitis streptococcal</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Sinusitis</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Urinary tract infection</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Arthropod bite</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Laceration</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Nail injury</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Arthropod bite</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Contusion</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Laceration</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="2" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Ligament sprain</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Muscle strain</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Skin abrasion</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Vitamin D deficiency</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Vitamin D deficiency</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Myalgia</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Arthralgia</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Neck pain</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Sleepiness</sub_title>
+                <description>This symptom was assessed as a solicited general AE.</description>
+                <counts group_id="E1" events="143" subjects_affected="143" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Headache</sub_title>
+                <description>This symptom was assessed as a solicited general AE.</description>
+                <counts group_id="E1" events="73" subjects_affected="73" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Burning sensation</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Somnolence</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>sleepiness</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Eating disorder</sub_title>
+                <description>This symptom was assessed as a solicited general AE.</description>
+                <counts group_id="E1" events="132" subjects_affected="132" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Irritability</sub_title>
+                <description>This symptom was assessed as a solicited general AE.</description>
+                <counts group_id="E1" events="254" subjects_affected="254" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Eating disorder</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="6" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Irritability</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Eating disorder</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Irritability</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Haematuria</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Renal cyst</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Tubulointerstitial nephritis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Haematuria</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Renal cyst</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Tubulointerstitial nephritis</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Reproductive system and breast disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Prostatic cyst</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Prostatic cyst</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Rhinitis allergic</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="6" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Asthma</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Cough</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Rhinorrhoea</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Nasal congestion</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Productive cough</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Oropharyngeal pain</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Rhinitis allergic</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="18" subjects_affected="18" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Asthma</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="8" subjects_affected="8" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Cough</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Rhinorrhoea</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Nasal congestion</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Productive cough</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Rash</sub_title>
+                <description>This symptom was assessed as a solicited general AE.</description>
+                <counts group_id="E1" events="74" subjects_affected="74" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Dermatitis atopic</sub_title>
+                <counts group_id="E1" events="7" subjects_affected="7" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Dermatitis</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="5" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Urticaria</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="5" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Dermatitis contact</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Dermatitis allergic</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Rash</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Cold sweat</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Dyshidrotic eczema</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Eczema</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Generalised erythema</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Pruritus</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Dermatitis atopic</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="20" subjects_affected="20" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Dermatitis</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="11" subjects_affected="11" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Urticaria</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="12" subjects_affected="10" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Dermatitis contact</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="8" subjects_affected="8" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Blister</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Dermatitis allergic</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Dermatitis diaper</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Eczema</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Generalised erythema</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Miliaria</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Seborrhoeic dermatitis</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Orthostatic hypotension</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+              <event>
+                <sub_title>Orthostatic hypotension</sub_title>
+                <description>This symptom was assessed as a MAAE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3939"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>GSK agreements may vary with individual investigators, but will not prohibit any investigator from publishing. GSK supports the publication of results from all centers of a multi-center trial but requests that reports based on single-site data not precede the primary publication of the entire clinical trial.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>GSK Response Center</name_or_title>
+      <organization>GlaxoSmithKline</organization>
+      <phone>866-435-7343</phone>
+      <email>sss42438@gsk.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

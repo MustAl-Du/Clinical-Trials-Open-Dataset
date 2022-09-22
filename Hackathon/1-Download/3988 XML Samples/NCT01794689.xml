@@ -1,0 +1,1410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2161">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01794689</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NA_00071465</org_study_id>
+    <secondary_id>1R01DA032922-01</secondary_id>
+    <nct_id>NCT01794689</nct_id>
+  </id_info>
+  <brief_title>Mechanisms of Sleep Disruption Hyperalgesia</brief_title>
+  <acronym>ESP2</acronym>
+  <official_title>Mechanisms of Sleep Disruption Hyperalgesia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Johns Hopkins University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Johns Hopkins University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Twenty percent of Americans suffer from chronic pain. Sleep disturbance is similarly&#xD;
+      prevalent and among the most common and disabling neurobehavioral problems associated with&#xD;
+      chronic pain. This research is designed to evaluate the effects of disrupted sleep patterns&#xD;
+      on mood, inflammation, the perception of pain, and pain relief. This study will help&#xD;
+      researchers understand the relationship between sleep and pain, and how sleep disturbance&#xD;
+      might influence chronic pain conditions.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This research is being conducted in order to evaluate the effects of disrupted sleep patterns&#xD;
+      on mood, inflammation, the perception of pain, and pain relief. This study will help&#xD;
+      researchers understand the relationship between sleep and pain, and how sleep disturbance&#xD;
+      might influence chronic pain conditions. Healthy participants will undergo baseline sleep and&#xD;
+      sleep disruption conditions. Following undisturbed sleep and sleep disruption conditions,&#xD;
+      sensitivity to pain and analgesic response (via morphine or placebo administration) will be&#xD;
+      assessed using a heat-capsaicin pain model.&#xD;
+&#xD;
+      This study will be conducted in 2 major parts-3 screening visits (2 outpatient and 1&#xD;
+      inpatient) and 2 experimental inpatient visits. Part 1 of the study will involve a 1-week&#xD;
+      screening period. This will involve two separate screening visits lasting about 2 hours each.&#xD;
+      At Screening Visit 1, participants will complete questionnaires, an interview, and undergo&#xD;
+      toxicology screening. At Screening Visit 2, participants will complete questionnaires,&#xD;
+      undergo a physical exam, and be familiarized with pain testing procedures. At Screening Visit&#xD;
+      3, participants will undergo an inpatient sleep study.&#xD;
+&#xD;
+      Part 2 will involve two different inpatient admissions. The two admissions will be separated&#xD;
+      by at least two weeks. During each of the admissions, participants' sleep will be studied at&#xD;
+      night. The first admission will begin immediately following the overnight sleep study in&#xD;
+      Screening Visit 3. One of the admissions will be for one night and the other admission will&#xD;
+      be for three nights. For the one night admission, participants will sleep undisturbed for an&#xD;
+      8-hour period. For the three night admission, participants will undergo sleep disruption for&#xD;
+      two nights in a row. On the third night, participants will be allowed to sleep undisturbed&#xD;
+      for 8 hours for recovery.&#xD;
+&#xD;
+      During both inpatient admissions, pain testing procedures will be completed that will last&#xD;
+      approximately 5 hours during the day. During testing, small amounts of blood will be drawn&#xD;
+      for analysis. Participants will be randomly assigned to two groups. Group A will be given a&#xD;
+      standard dose of morphine during pain testing. Group B will be given a placebo during pain&#xD;
+      testing.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 2013</start_date>
+  <completion_date type="Actual">March 12, 2019</completion_date>
+  <primary_completion_date type="Actual">January 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Double (Participant, Care Provider)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Spinal Sensitization as Assessed by Area of Secondary Hyperalgesia (2HA) After Two Nights of Uninterrupted Sleep and Two Nights of 8 Forced Awakenings</measure>
+    <time_frame>Next day during quantitative sensory testing after 2 nights of forced awakenings or uninterrupted sleep</time_frame>
+    <description>The area of secondary hyperalgesia (2HA) to mechanical stimulation was quantified by stimulating along eight linear paths near the capsaicin treated site using a 15 gram nonpainful von Frey filament. Stimulation occurred until the participant reported a change in sensation from which a border was marked on the skin. The degree of 2HA was assessed by measuring the total surface area (mm^2) of the marked borders. Data were collapsed by group to analyze the effects of FA vs US, irrespective of randomization group. Our Primary Secondary Hyperalgesia outcome was measured prior to injection of either morphine or placebo.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Opioid Analgesia as Assessed by Analgesia Index (Seconds)</measure>
+    <time_frame>Next day after 2 nights of forced awakenings or uninterrupted sleep</time_frame>
+    <description>After 2 nights of forced awakenings and after two nights of uninterrupted sleep, opioid analgesia will be assessed by an analgesia index. The analgesia index is calculated using withdrawal latency during cold pressor testing (lasting maximum of 300 seconds). Cold Pressor Testing is done before and after morphine or placebo injection. The difference in withdrawal time before and after morphine or placebo injection is the analgesia index with a minimum score of -300 seconds and maximum score of 300 seconds. These data were log transformed. Mean analgesia index was then calculated for each group. Higher means represent greater analgesia.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean Change in Percentage of Peripheral Blood Mononuclear Cells Expressing Interleukin-6 After LPS Stimulation</measure>
+    <time_frame>Next day after 2 nights of forced awakenings or uninterrupted sleep, every 60 minutes up to 7 hours</time_frame>
+    <description>After 2 nights of forced awakenings, and two nights of uninterrupted sleep, blood is drawn (approximately every 60 minutes) during quantitative sensory testing; 4 hours pre-morphine/placebo administration and 2 hours post-morphine/placebo administration to examine markers of inflammation. Two blood samples for each participant are analyzed at 7 separate time points. The marker of inflammation assessed is the number of peripheral blood mononuclear cells expressing Interleukin-6 (IL-6), and the outcome measure represents the mean change in IL-6 levels pre and post stimulation with lipopolysaccharide (LPS). Cellular IL-6 expression was was quantified via flow cytometry.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Total Sleep Time</measure>
+    <time_frame>Next day during quantitative sensory testing after 2 nights of forced awakenings or uninterrupted sleep.</time_frame>
+    <description>The degree of sleep deprivation will be assessed by total sleep time (TST) in minutes during the uninterrupted sleep condition compared to the forced awakenings conditions.</description>
+  </other_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">100</enrollment>
+  <condition>Sleep Deprivation</condition>
+  <condition>Pain</condition>
+  <arm_group>
+    <arm_group_label>Morphine US then Morphine FA</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants randomized to receive Morphine and the Uninterrupted Sleep (US) condition first. After a polysomnography (PSG) screening night, participants were randomized to receive two consecutive nights of uninterrupted sleep (US). With a minimum of a two week washout period, participants then completed the opposing sleep condition of two nights of forced awakenings (FA). They will receive the Morphine injection (0.08mg/kg) via IV bolus over 30 seconds during each experimental quantitative sensory testing session that occurs after the US and FA sleep conditions are completed.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo US then Placebo FA</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants randomized to receive the saline placebo and the Uninterrupted Sleep (US) condition first. After a polysomnography (PSG) screening night, participants were randomized to receive two consecutive nights of uninterrupted sleep (US). With a minimum of a two week washout period, participants then completed the opposing sleep condition of two nights of forced awakenings (FA). They will receive the injection via IV bolus over 30 seconds during each experimental quantitative sensory testing session that occurs after the US and FA sleep conditions are completed.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Morphine FA then Morphine US</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants randomized to receive Morphine and the Forced Awakenings (FA) condition first. After a polysomnography (PSG) screening night, participants were randomized to receive two consecutive nights of forced awakenings (FA). With a minimum of a two week washout period, participants then completed the opposing sleep condition of two nights of uninterrupted sleep (US). They will receive the Morphine injection (0.08mg/kg) via IV bolus over 30 seconds during each experimental quantitative sensory testing session that occurs after the FA and US sleep conditions are completed.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo FA then Placebo US</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants randomized to receive the saline placebo and the Forced Awakenings (FA) condition first. After a polysomnography (PSG) screening night, participants were randomized to receive two consecutive nights of forced awakenings (FA). With a minimum of a two week washout period, participants then completed the opposing sleep condition of two nights of uninterrupted sleep (US). They will receive the injection via IV bolus over 30 seconds during each experimental quantitative sensory testing session that occurs after the FA and US sleep conditions are completed.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Morphine</intervention_name>
+    <description>0.08mg/kg will be administered to participants randomly assigned to receive the drug via IV bolus during each quantitative sensory testing session (after one night of uninterrupted sleep and after 2 nights of forced awakenings).</description>
+    <arm_group_label>Morphine FA then Morphine US</arm_group_label>
+    <arm_group_label>Morphine US then Morphine FA</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Saline Placebo</intervention_name>
+    <description>Saline Placebo will administered to participants randomly assigned to receive the placebo via IV bolus during each quantitative sensory testing session (after one night of uninterrupted sleep and after 2 nights of forced awakenings).</description>
+    <arm_group_label>Placebo FA then Placebo US</arm_group_label>
+    <arm_group_label>Placebo US then Placebo FA</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Forced Awakenings</intervention_name>
+    <description>Participants will be awakened each hour during an 8 hour sleep opportunity period. One of the awakenings is for 60 minutes and randomly determined. The other 7 awakenings are for 20 minutes each, and are randomly scheduled to occur in either the first second or third tertile of each hour. The maximum total sleep time a participant will receive is 280 minutes.</description>
+    <arm_group_label>Morphine FA then Morphine US</arm_group_label>
+    <arm_group_label>Morphine US then Morphine FA</arm_group_label>
+    <arm_group_label>Placebo FA then Placebo US</arm_group_label>
+    <arm_group_label>Placebo US then Placebo FA</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Uninterrupted Sleep</intervention_name>
+    <description>Participants will receive an 8 hour period of undisturbed sleep</description>
+    <arm_group_label>Morphine FA then Morphine US</arm_group_label>
+    <arm_group_label>Morphine US then Morphine FA</arm_group_label>
+    <arm_group_label>Placebo FA then Placebo US</arm_group_label>
+    <arm_group_label>Placebo US then Placebo FA</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Healthy&#xD;
+&#xD;
+          -  Age 18-48&#xD;
+&#xD;
+          -  Meets Research Diagnostic Criteria for Normal Sleepers&#xD;
+&#xD;
+          -  Stable sleep phase within 21:00 and 08:00&#xD;
+&#xD;
+          -  Total sleep time between 6.5 and 8.5 hours per night&#xD;
+&#xD;
+          -  Sleep efficiency ≥85%&#xD;
+&#xD;
+          -  Epworth Sleepiness Scale Score &lt;10&#xD;
+&#xD;
+          -  Non-smoker/non-nicotine users&#xD;
+&#xD;
+          -  Low Caffeine Users (≤2 cups per day)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Body Mass Index ≥35&#xD;
+&#xD;
+          -  Lifetime history of chronic pain (&gt;6 months)&#xD;
+&#xD;
+          -  Acute pain&#xD;
+&#xD;
+          -  Significant medical or psychiatric morbidity within 6 months&#xD;
+&#xD;
+          -  Lifetime history of bipolar disorder, psychotic disorder, serious recurrent major&#xD;
+             depression, serious post-traumatic stress disorder, or seizure disorder&#xD;
+&#xD;
+          -  Respiratory, hepatic, renal, or cardiac conditions that would contraindicate opioid&#xD;
+             use&#xD;
+&#xD;
+          -  Lifetime history of alcohol or substance abuse or dependence&#xD;
+&#xD;
+          -  Lifetime history of opioid use &gt;36 doses or &gt;7 days of consecutive use&#xD;
+&#xD;
+          -  Prior adverse reaction to general anesthetics, opioids, or capsaicin&#xD;
+&#xD;
+          -  Clinically significant abnormal complete blood count or comprehensive metabolic&#xD;
+             profile&#xD;
+&#xD;
+          -  Positive toxicology screen for opioids or recreational drugs&#xD;
+&#xD;
+          -  Pregnant or lactating women&#xD;
+&#xD;
+          -  Significant pre-admission psychological distress (T-scores &gt;64 on the Brief Symptom&#xD;
+             Inventory Global Scales)&#xD;
+&#xD;
+          -  Significant lifetime history of serious head injury that is determined to influence&#xD;
+             pain processing or sleep systems&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>48 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michael Smith, Ph.D</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Johns Hopkins University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Johns Hopkins University Bayview Medical Center</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2019</verification_date>
+  <study_first_submitted>February 15, 2013</study_first_submitted>
+  <study_first_submitted_qc>February 15, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">February 20, 2013</study_first_posted>
+  <results_first_submitted>January 31, 2019</results_first_submitted>
+  <results_first_submitted_qc>January 31, 2019</results_first_submitted_qc>
+  <results_first_posted type="Actual">February 22, 2019</results_first_posted>
+  <last_update_submitted>August 1, 2019</last_update_submitted>
+  <last_update_submitted_qc>August 1, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 2, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hyperalgesia</mesh_term>
+    <mesh_term>Sleep Deprivation</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Morphine</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>August 30, 2016</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/89/NCT01794689/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>During screening for the study we evaluated whether participants were generally healthy, pain free, and good sleepers. We screened 255 to obtain 100 participants who met criteria and were randomized to the experimental portion of the study. The experimental phase occurred at an inpatient clinical research unit.</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Morphine US Then Morphine FA</title>
+          <description>Participants randomized to receive Morphine and the Uninterrupted Sleep (US) condition first. After a polysomnography (PSG) screening night, participants were randomized to receive two consecutive nights of uninterrupted sleep (US). With a minimum of a two week washout period, participants then completed the opposing sleep condition of two nights of forced awakenings (FA). They will receive the Morphine injection (0.08mg/kg) via IV bolus over 30 seconds during each experimental quantitative sensory testing session that occurs after the US and FA sleep conditions are completed.</description>
+        </group>
+        <group group_id="P2">
+          <title>Morphine FA Then Morphine US</title>
+          <description>Participants randomized to receive Morphine and the Forced Awakenings (FA) condition first. After a polysomnography (PSG) screening night, participants were randomized to receive two consecutive nights of forced awakenings (FA). With a minimum of a two week washout period, participants then completed the opposing sleep condition of two nights of uninterrupted sleep (US). They will receive the Morphine injection (0.08mg/kg) via IV bolus over 30 seconds during each experimental quantitative sensory testing session that occurs after the FA and US sleep conditions are completed.</description>
+        </group>
+        <group group_id="P3">
+          <title>Placebo US Then Placebo FA</title>
+          <description>Participants randomized to receive the saline placebo and the Uninterrupted Sleep (US) condition first. After a polysomnography (PSG) screening night, participants were randomized to receive two consecutive nights of uninterrupted sleep (US). With a minimum of a two week washout period, participants then completed the opposing sleep condition of two nights of forced awakenings (FA). They will receive the injection via IV bolus over 30 seconds during each experimental quantitative sensory testing session that occurs after the US and FA sleep conditions are completed.</description>
+        </group>
+        <group group_id="P4">
+          <title>Placebo FA Then Placebo US</title>
+          <description>Participants randomized to receive the saline placebo and the Forced Awakenings (FA) condition first. After a polysomnography (PSG) screening night, participants were randomized to receive two consecutive nights of forced awakenings (FA). With a minimum of a two week washout period, participants then completed the opposing sleep condition of two nights of uninterrupted sleep (US). They will receive the injection via IV bolus over 30 seconds during each experimental quantitative sensory testing session that occurs after the FA and US sleep conditions are completed.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Intervention 1 (2 Nights)</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="25"/>
+                <participants group_id="P2" count="29"/>
+                <participants group_id="P3" count="24"/>
+                <participants group_id="P4" count="22"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="20"/>
+                <participants group_id="P2" count="27"/>
+                <participants group_id="P3" count="21"/>
+                <participants group_id="P4" count="18"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="5"/>
+                <participants group_id="P2" count="2"/>
+                <participants group_id="P3" count="3"/>
+                <participants group_id="P4" count="4"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="2"/>
+                <participants group_id="P4" count="4"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Protocol Violation</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="1"/>
+                <participants group_id="P4" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Physician Decision</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="1"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Adverse Event</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+        <period>
+          <title>Washout (2 Weeks)</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="20"/>
+                <participants group_id="P2" count="27"/>
+                <participants group_id="P3" count="21"/>
+                <participants group_id="P4" count="18"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="20"/>
+                <participants group_id="P2" count="27"/>
+                <participants group_id="P3" count="21"/>
+                <participants group_id="P4" count="18"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+        <period>
+          <title>Intervention 2 (2 Nights)</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="20"/>
+                <participants group_id="P2" count="27"/>
+                <participants group_id="P3" count="21"/>
+                <participants group_id="P4" count="18"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="20"/>
+                <participants group_id="P2" count="27"/>
+                <participants group_id="P3" count="21"/>
+                <participants group_id="P4" count="18"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Morphine US Then Morphine FA</title>
+          <description>Participants randomized to receive Morphine and the Uninterrupted Sleep (US) condition first. After a polysomnography (PSG) screening night, participants were randomized to receive two consecutive nights of uninterrupted sleep (US). With a minimum of a two week washout period, participants then completed the opposing sleep condition of two nights of forced awakenings (FA). They will receive the Morphine injection (0.08mg/kg) via IV bolus over 30 seconds during each experimental quantitative sensory testing session that occurs after the US and FA sleep conditions are completed.</description>
+        </group>
+        <group group_id="B2">
+          <title>Morphine FA Then Morphine US</title>
+          <description>Participants randomized to receive Morphine and the Forced Awakenings (FA) condition first. After a polysomnography (PSG) screening night, participants were randomized to receive two consecutive nights of forced awakenings (FA). With a minimum of a two week washout period, participants then completed the opposing sleep condition of two nights of uninterrupted sleep (US). They will receive the Morphine injection (0.08mg/kg) via IV bolus over 30 seconds during each experimental quantitative sensory testing session that occurs after the FA and US sleep conditions are completed.</description>
+        </group>
+        <group group_id="B3">
+          <title>Placebo US Then Placebo FA</title>
+          <description>Participants randomized to receive the saline placebo and the Uninterrupted Sleep (US) condition first. After a polysomnography (PSG) screening night, participants were randomized to receive two consecutive nights of uninterrupted sleep (US). With a minimum of a two week washout period, participants then completed the opposing sleep condition of two nights of forced awakenings (FA). They will receive the injection via IV bolus over 30 seconds during each experimental quantitative sensory testing session that occurs after the US and FA sleep conditions are completed.</description>
+        </group>
+        <group group_id="B4">
+          <title>Placebo FA Then Placebo US</title>
+          <description>Participants randomized to receive the saline placebo and the Forced Awakenings (FA) condition first. After a polysomnography (PSG) screening night, participants were randomized to receive two consecutive nights of forced awakenings (FA). With a minimum of a two week washout period, participants then completed the opposing sleep condition of two nights of uninterrupted sleep (US). They will receive the injection via IV bolus over 30 seconds during each experimental quantitative sensory testing session that occurs after the FA and US sleep conditions are completed.</description>
+        </group>
+        <group group_id="B5">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="25"/>
+            <count group_id="B2" value="29"/>
+            <count group_id="B3" value="24"/>
+            <count group_id="B4" value="22"/>
+            <count group_id="B5" value="100"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="27.1348" spread="5.97835"/>
+                    <measurement group_id="B2" value="29.6819" spread="7.54226"/>
+                    <measurement group_id="B3" value="27.3609" spread="5.22747"/>
+                    <measurement group_id="B4" value="27.7272" spread="8.18124"/>
+                    <measurement group_id="B5" value="28.0581" spread="6.81392"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                    <measurement group_id="B2" value="15"/>
+                    <measurement group_id="B3" value="12"/>
+                    <measurement group_id="B4" value="17"/>
+                    <measurement group_id="B5" value="58"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="14"/>
+                    <measurement group_id="B3" value="12"/>
+                    <measurement group_id="B4" value="5"/>
+                    <measurement group_id="B5" value="42"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="6"/>
+                    <measurement group_id="B4" value="1"/>
+                    <measurement group_id="B5" value="11"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="6"/>
+                    <measurement group_id="B4" value="11"/>
+                    <measurement group_id="B5" value="37"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="14"/>
+                    <measurement group_id="B3" value="11"/>
+                    <measurement group_id="B4" value="10"/>
+                    <measurement group_id="B5" value="45"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Body Mass Index</title>
+          <units>kg/m^2</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="26.1490" spread="4.16713"/>
+                    <measurement group_id="B2" value="25.2645" spread="3.95007"/>
+                    <measurement group_id="B3" value="25.8440" spread="3.63156"/>
+                    <measurement group_id="B4" value="25.7134" spread="4.17552"/>
+                    <measurement group_id="B5" value="25.7235" spread="3.93648"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Spinal Sensitization as Assessed by Area of Secondary Hyperalgesia (2HA) After Two Nights of Uninterrupted Sleep and Two Nights of 8 Forced Awakenings</title>
+        <description>The area of secondary hyperalgesia (2HA) to mechanical stimulation was quantified by stimulating along eight linear paths near the capsaicin treated site using a 15 gram nonpainful von Frey filament. Stimulation occurred until the participant reported a change in sensation from which a border was marked on the skin. The degree of 2HA was assessed by measuring the total surface area (mm^2) of the marked borders. Data were collapsed by group to analyze the effects of FA vs US, irrespective of randomization group. Our Primary Secondary Hyperalgesia outcome was measured prior to injection of either morphine or placebo.</description>
+        <time_frame>Next day during quantitative sensory testing after 2 nights of forced awakenings or uninterrupted sleep</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Morphine US</title>
+            <description>Participants that received morphine with Uninterrupted sleep (US).</description>
+          </group>
+          <group group_id="O2">
+            <title>Morphine FA</title>
+            <description>Participants that received morphine with forced awakenings (FA).</description>
+          </group>
+          <group group_id="O3">
+            <title>Placebo US</title>
+            <description>Participants that received placebo with Uninterrupted sleep (US).</description>
+          </group>
+          <group group_id="O4">
+            <title>Placebo FA</title>
+            <description>Participants that received placebo with forced awakenings (FA).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Spinal Sensitization as Assessed by Area of Secondary Hyperalgesia (2HA) After Two Nights of Uninterrupted Sleep and Two Nights of 8 Forced Awakenings</title>
+          <description>The area of secondary hyperalgesia (2HA) to mechanical stimulation was quantified by stimulating along eight linear paths near the capsaicin treated site using a 15 gram nonpainful von Frey filament. Stimulation occurred until the participant reported a change in sensation from which a border was marked on the skin. The degree of 2HA was assessed by measuring the total surface area (mm^2) of the marked borders. Data were collapsed by group to analyze the effects of FA vs US, irrespective of randomization group. Our Primary Secondary Hyperalgesia outcome was measured prior to injection of either morphine or placebo.</description>
+          <units>mm^2</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="47"/>
+                <count group_id="O2" value="47"/>
+                <count group_id="O3" value="39"/>
+                <count group_id="O4" value="39"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1276.25" spread="1096.761"/>
+                    <measurement group_id="O2" value="1582.67" spread="1590.784"/>
+                    <measurement group_id="O3" value="1302.93" spread="1301.457"/>
+                    <measurement group_id="O4" value="1447.9" spread="1322.52"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Opioid Analgesia as Assessed by Analgesia Index (Seconds)</title>
+        <description>After 2 nights of forced awakenings and after two nights of uninterrupted sleep, opioid analgesia will be assessed by an analgesia index. The analgesia index is calculated using withdrawal latency during cold pressor testing (lasting maximum of 300 seconds). Cold Pressor Testing is done before and after morphine or placebo injection. The difference in withdrawal time before and after morphine or placebo injection is the analgesia index with a minimum score of -300 seconds and maximum score of 300 seconds. These data were log transformed. Mean analgesia index was then calculated for each group. Higher means represent greater analgesia.</description>
+        <time_frame>Next day after 2 nights of forced awakenings or uninterrupted sleep</time_frame>
+        <population>Each participant had to do four visits and two testing sessions to be termed complete. The data needed for analysis for this outcome measure was obtained from some participants but not all who completed or couldn't complete the entire study. This explains the differences in the number of units analyzed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Morphine US</title>
+            <description>Participants that received morphine with Uninterrupted sleep (US).</description>
+          </group>
+          <group group_id="O2">
+            <title>Morphine FA</title>
+            <description>Participants that received morphine with forced awakenings (FA).</description>
+          </group>
+          <group group_id="O3">
+            <title>Placebo US</title>
+            <description>Participants that received placebo with Uninterrupted sleep (US).</description>
+          </group>
+          <group group_id="O4">
+            <title>Placebo FA</title>
+            <description>Participants that received placebo with forced awakenings (FA).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Opioid Analgesia as Assessed by Analgesia Index (Seconds)</title>
+          <description>After 2 nights of forced awakenings and after two nights of uninterrupted sleep, opioid analgesia will be assessed by an analgesia index. The analgesia index is calculated using withdrawal latency during cold pressor testing (lasting maximum of 300 seconds). Cold Pressor Testing is done before and after morphine or placebo injection. The difference in withdrawal time before and after morphine or placebo injection is the analgesia index with a minimum score of -300 seconds and maximum score of 300 seconds. These data were log transformed. Mean analgesia index was then calculated for each group. Higher means represent greater analgesia.</description>
+          <population>Each participant had to do four visits and two testing sessions to be termed complete. The data needed for analysis for this outcome measure was obtained from some participants but not all who completed or couldn't complete the entire study. This explains the differences in the number of units analyzed.</population>
+          <units>seconds (log transformed)</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <units_analyzed>cold pressor test</units_analyzed>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="47"/>
+                <count group_id="O2" value="47"/>
+                <count group_id="O3" value="39"/>
+                <count group_id="O4" value="39"/>
+              </count_list>
+            </analyzed>
+            <analyzed>
+              <units>cold pressor test</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="48"/>
+                <count group_id="O2" value="45"/>
+                <count group_id="O3" value="42"/>
+                <count group_id="O4" value="39"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.315" spread="0.540"/>
+                    <measurement group_id="O2" value="0.156" spread="0.712"/>
+                    <measurement group_id="O3" value="-0.124" spread="0.346"/>
+                    <measurement group_id="O4" value="-0.006" spread="0.263"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Mean Change in Percentage of Peripheral Blood Mononuclear Cells Expressing Interleukin-6 After LPS Stimulation</title>
+        <description>After 2 nights of forced awakenings, and two nights of uninterrupted sleep, blood is drawn (approximately every 60 minutes) during quantitative sensory testing; 4 hours pre-morphine/placebo administration and 2 hours post-morphine/placebo administration to examine markers of inflammation. Two blood samples for each participant are analyzed at 7 separate time points. The marker of inflammation assessed is the number of peripheral blood mononuclear cells expressing Interleukin-6 (IL-6), and the outcome measure represents the mean change in IL-6 levels pre and post stimulation with lipopolysaccharide (LPS). Cellular IL-6 expression was was quantified via flow cytometry.</description>
+        <time_frame>Next day after 2 nights of forced awakenings or uninterrupted sleep, every 60 minutes up to 7 hours</time_frame>
+        <population>For some participants we could not collect blood samples for all time points and testing sessions. This explains the differences in the numbers of samples analyzed at various timepoints.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Morphine US</title>
+            <description>Participants that received morphine with Uninterrupted Sleep (US).</description>
+          </group>
+          <group group_id="O2">
+            <title>Morphine FA</title>
+            <description>Participants that received morphine with forced awakenings (FA).</description>
+          </group>
+          <group group_id="O3">
+            <title>Placebo US</title>
+            <description>Participants that received placebo with Uninterrupted Sleep (US).</description>
+          </group>
+          <group group_id="O4">
+            <title>Placebo FA</title>
+            <description>Participants that received placebo with forced awakenings (FA).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Mean Change in Percentage of Peripheral Blood Mononuclear Cells Expressing Interleukin-6 After LPS Stimulation</title>
+          <description>After 2 nights of forced awakenings, and two nights of uninterrupted sleep, blood is drawn (approximately every 60 minutes) during quantitative sensory testing; 4 hours pre-morphine/placebo administration and 2 hours post-morphine/placebo administration to examine markers of inflammation. Two blood samples for each participant are analyzed at 7 separate time points. The marker of inflammation assessed is the number of peripheral blood mononuclear cells expressing Interleukin-6 (IL-6), and the outcome measure represents the mean change in IL-6 levels pre and post stimulation with lipopolysaccharide (LPS). Cellular IL-6 expression was was quantified via flow cytometry.</description>
+          <population>For some participants we could not collect blood samples for all time points and testing sessions. This explains the differences in the numbers of samples analyzed at various timepoints.</population>
+          <units>percentage of IL-6 expression</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <units_analyzed>blood samples</units_analyzed>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="47"/>
+                <count group_id="O2" value="47"/>
+                <count group_id="O3" value="39"/>
+                <count group_id="O4" value="39"/>
+              </count_list>
+            </analyzed>
+            <analyzed>
+              <units>blood samples</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="265"/>
+                <count group_id="O2" value="256"/>
+                <count group_id="O3" value="225"/>
+                <count group_id="O4" value="213"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Timepoint 1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="47"/>
+                    <count group_id="O2" value="47"/>
+                    <count group_id="O3" value="39"/>
+                    <count group_id="O4" value="39"/>
+                  </count_list>
+                </analyzed>
+                <analyzed>
+                  <units>blood samples</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="38"/>
+                    <count group_id="O2" value="38"/>
+                    <count group_id="O3" value="31"/>
+                    <count group_id="O4" value="32"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="41.98" spread="21.18"/>
+                    <measurement group_id="O2" value="51.82" spread="21.13"/>
+                    <measurement group_id="O3" value="42.91" spread="19.53"/>
+                    <measurement group_id="O4" value="43.32" spread="19.04"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Timepoint 2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="47"/>
+                    <count group_id="O2" value="47"/>
+                    <count group_id="O3" value="39"/>
+                    <count group_id="O4" value="39"/>
+                  </count_list>
+                </analyzed>
+                <analyzed>
+                  <units>blood samples</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="38"/>
+                    <count group_id="O2" value="37"/>
+                    <count group_id="O3" value="32"/>
+                    <count group_id="O4" value="32"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="45.44" spread="22.95"/>
+                    <measurement group_id="O2" value="51.84" spread="20.34"/>
+                    <measurement group_id="O3" value="42.93" spread="21.81"/>
+                    <measurement group_id="O4" value="43.79" spread="18.01"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Timepoint 3</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="47"/>
+                    <count group_id="O2" value="47"/>
+                    <count group_id="O3" value="39"/>
+                    <count group_id="O4" value="39"/>
+                  </count_list>
+                </analyzed>
+                <analyzed>
+                  <units>blood samples</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="38"/>
+                    <count group_id="O2" value="37"/>
+                    <count group_id="O3" value="34"/>
+                    <count group_id="O4" value="32"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="45.99" spread="19.12"/>
+                    <measurement group_id="O2" value="48.99" spread="18.96"/>
+                    <measurement group_id="O3" value="40.76" spread="20.1"/>
+                    <measurement group_id="O4" value="41.65" spread="21.87"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Timepoint 4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="47"/>
+                    <count group_id="O2" value="47"/>
+                    <count group_id="O3" value="39"/>
+                    <count group_id="O4" value="39"/>
+                  </count_list>
+                </analyzed>
+                <analyzed>
+                  <units>blood samples</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="38"/>
+                    <count group_id="O2" value="38"/>
+                    <count group_id="O3" value="34"/>
+                    <count group_id="O4" value="32"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="43.96" spread="18.2"/>
+                    <measurement group_id="O2" value="46.94" spread="17.81"/>
+                    <measurement group_id="O3" value="39.06" spread="20.48"/>
+                    <measurement group_id="O4" value="41.34" spread="21.36"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Timepoint 5</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="47"/>
+                    <count group_id="O2" value="47"/>
+                    <count group_id="O3" value="39"/>
+                    <count group_id="O4" value="39"/>
+                  </count_list>
+                </analyzed>
+                <analyzed>
+                  <units>blood samples</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="38"/>
+                    <count group_id="O2" value="35"/>
+                    <count group_id="O3" value="33"/>
+                    <count group_id="O4" value="31"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="38.67" spread="17.93"/>
+                    <measurement group_id="O2" value="43.45" spread="18.3"/>
+                    <measurement group_id="O3" value="38.71" spread="19.11"/>
+                    <measurement group_id="O4" value="34.63" spread="20.74"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Timepoint 6</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="47"/>
+                    <count group_id="O2" value="47"/>
+                    <count group_id="O3" value="39"/>
+                    <count group_id="O4" value="39"/>
+                  </count_list>
+                </analyzed>
+                <analyzed>
+                  <units>blood samples</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="38"/>
+                    <count group_id="O2" value="36"/>
+                    <count group_id="O3" value="31"/>
+                    <count group_id="O4" value="27"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="36.83" spread="19.39"/>
+                    <measurement group_id="O2" value="39.15" spread="21.23"/>
+                    <measurement group_id="O3" value="35.64" spread="18.58"/>
+                    <measurement group_id="O4" value="36.28" spread="19.38"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Timepoint 7</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="47"/>
+                    <count group_id="O2" value="47"/>
+                    <count group_id="O3" value="39"/>
+                    <count group_id="O4" value="39"/>
+                  </count_list>
+                </analyzed>
+                <analyzed>
+                  <units>blood samples</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="37"/>
+                    <count group_id="O2" value="35"/>
+                    <count group_id="O3" value="29"/>
+                    <count group_id="O4" value="27"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="36.47" spread="18.9"/>
+                    <measurement group_id="O2" value="39.92" spread="19.6"/>
+                    <measurement group_id="O3" value="35.49" spread="17.03"/>
+                    <measurement group_id="O4" value="35.25" spread="19.35"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Total Sleep Time</title>
+        <description>The degree of sleep deprivation will be assessed by total sleep time (TST) in minutes during the uninterrupted sleep condition compared to the forced awakenings conditions.</description>
+        <time_frame>Next day during quantitative sensory testing after 2 nights of forced awakenings or uninterrupted sleep.</time_frame>
+        <population>Each participant had to do four visits to be termed complete. The data needed for analysis for this outcome measure was obtained from some participants but not all who completed or couldn't complete the entire study. This explains the differences in the numbers analyzed for each total sleep time.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Morphine US</title>
+            <description>Participants randomized to receive Morphine and the Uninterrupted Sleep (US) condition first. After a polysomnography (PSG) screening night, participants were randomized to receive two consecutive nights of uninterrupted sleep (US). With a minimum of a two week washout period, participants then completed the opposing sleep condition of two nights of forced awakenings (FA). They will receive the Morphine injection (0.08mg/kg) via IV bolus over 30 seconds during each experimental quantitative sensory testing session that occurs after the US and FA sleep conditions are completed.</description>
+          </group>
+          <group group_id="O2">
+            <title>Morphine FA</title>
+            <description>Participants randomized to receive Morphine and the Forced Awakenings (FA) condition first. After a polysomnography (PSG) screening night, participants were randomized to receive two consecutive nights of forced awakenings (FA). With a minimum of a two week washout period, participants then completed the opposing sleep condition of two nights of uninterrupted sleep (US). They will receive the Morphine injection (0.08mg/kg) via IV bolus over 30 seconds during each experimental quantitative sensory testing session that occurs after the FA and US sleep conditions are completed.</description>
+          </group>
+          <group group_id="O3">
+            <title>Placebo US</title>
+            <description>Participants randomized to receive the saline placebo and the Uninterrupted Sleep (US) condition first. After a polysomnography (PSG) screening night, participants were randomized to receive two consecutive nights of uninterrupted sleep (US). With a minimum of a two week washout period, participants then completed the opposing sleep condition of two nights of forced awakenings (FA). They will receive the injection via IV bolus over 30 seconds during each experimental quantitative sensory testing session that occurs after the US and FA sleep conditions are completed.</description>
+          </group>
+          <group group_id="O4">
+            <title>Placebo FA</title>
+            <description>Participants randomized to receive the saline placebo and the Forced Awakenings (FA) condition first. After a polysomnography (PSG) screening night, participants were randomized to receive two consecutive nights of forced awakenings (FA). With a minimum of a two week washout period, participants then completed the opposing sleep condition of two nights of uninterrupted sleep (US). They will receive the injection via IV bolus over 30 seconds during each experimental quantitative sensory testing session that occurs after the FA and US sleep conditions are completed.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Total Sleep Time</title>
+          <description>The degree of sleep deprivation will be assessed by total sleep time (TST) in minutes during the uninterrupted sleep condition compared to the forced awakenings conditions.</description>
+          <population>Each participant had to do four visits to be termed complete. The data needed for analysis for this outcome measure was obtained from some participants but not all who completed or couldn't complete the entire study. This explains the differences in the numbers analyzed for each total sleep time.</population>
+          <units>minutes</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="25"/>
+                <count group_id="O2" value="29"/>
+                <count group_id="O3" value="24"/>
+                <count group_id="O4" value="22"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>TST: Uninterrupted Sleep-Night 1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="22"/>
+                    <count group_id="O2" value="25"/>
+                    <count group_id="O3" value="24"/>
+                    <count group_id="O4" value="15"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="442.8909" spread="23.06461"/>
+                    <measurement group_id="O2" value="425.0280" spread="52.40921"/>
+                    <measurement group_id="O3" value="443.2375" spread="38.99631"/>
+                    <measurement group_id="O4" value="435.1467" spread="29.12669"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>TST: Uninterrupted Sleep-Night 2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="22"/>
+                    <count group_id="O2" value="24"/>
+                    <count group_id="O3" value="24"/>
+                    <count group_id="O4" value="15"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="435.2045" spread="41.16120"/>
+                    <measurement group_id="O2" value="420.1375" spread="71.39364"/>
+                    <measurement group_id="O3" value="439.0417" spread="47.06713"/>
+                    <measurement group_id="O4" value="441.1400" spread="35.93814"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>TST: Forced Awakenings-Night 1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="18"/>
+                    <count group_id="O2" value="26"/>
+                    <count group_id="O3" value="22"/>
+                    <count group_id="O4" value="20"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="217.4556" spread="46.00094"/>
+                    <measurement group_id="O2" value="225.4192" spread="38.47452"/>
+                    <measurement group_id="O3" value="235.1727" spread="50.91526"/>
+                    <measurement group_id="O4" value="252.0950" spread="32.70550"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>TST: Forced Awakenings-Night 2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="18"/>
+                    <count group_id="O2" value="24"/>
+                    <count group_id="O3" value="21"/>
+                    <count group_id="O4" value="17"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="270.3333" spread="35.23125"/>
+                    <measurement group_id="O2" value="258.1083" spread="29.47026"/>
+                    <measurement group_id="O3" value="267.7714" spread="16.90080"/>
+                    <measurement group_id="O4" value="261.9941" spread="32.01372"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Participants were enrolled and actively participating in the study across a time frame of four years and 7.5 months. With no scheduling difficulties each participant remained in the study for 5-6 weeks.</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Morphine US</title>
+          <description>Participants that received morphine with Uninterrupted sleep (US).</description>
+        </group>
+        <group group_id="E2">
+          <title>Morphine FA</title>
+          <description>Participants that received morphine with forced awakenings (FA).</description>
+        </group>
+        <group group_id="E3">
+          <title>Placebo US</title>
+          <description>Participants that received placebo with Uninterrupted sleep (US).</description>
+        </group>
+        <group group_id="E4">
+          <title>Placebo FA</title>
+          <description>Participants that received placebo with forced awakenings (FA).</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="52"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="49"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="42"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="43"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="52"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="49"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="42"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="43"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="52"/>
+                <counts group_id="E2" subjects_affected="7" subjects_at_risk="49"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="42"/>
+                <counts group_id="E4" subjects_affected="2" subjects_at_risk="43"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypotension</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="52"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="49"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="42"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="43"/>
+              </event>
+              <event>
+                <sub_title>Tachycardia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="52"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="49"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="42"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="43"/>
+              </event>
+              <event>
+                <sub_title>Syncope</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="52"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="49"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="42"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="43"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" events="8" subjects_affected="6" subjects_at_risk="52"/>
+                <counts group_id="E2" events="8" subjects_affected="5" subjects_at_risk="49"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="42"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="43"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="4" subjects_at_risk="52"/>
+                <counts group_id="E2" events="9" subjects_affected="5" subjects_at_risk="49"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="42"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="43"/>
+              </event>
+              <event>
+                <sub_title>Stomach Pain</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="52"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="49"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="42"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="43"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Back Pain</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="52"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="49"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="42"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="43"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="52"/>
+                <counts group_id="E2" events="4" subjects_affected="2" subjects_at_risk="49"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="42"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="43"/>
+              </event>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="52"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="49"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="42"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="43"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Claustrophobia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="52"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="49"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="42"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="43"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Shortness of Breath</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="52"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="49"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="42"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="43"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Laceration</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="52"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="49"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="42"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="43"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>Participants were mostly young adults, were generally healthy, pain free and good sleepers. Strict inclusion/exclusion criteria and high participant burden (laboratory pain testing, overnight sleep studies) impacted sample size and study completion.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Dr. Michael T. Smith, PhD</name_or_title>
+      <organization>Johns Hopkins University</organization>
+      <phone>410-550-7000</phone>
+      <email>msmith62@jhmi.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

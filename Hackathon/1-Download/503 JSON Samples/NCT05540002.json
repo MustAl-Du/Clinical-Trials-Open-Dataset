@@ -1,0 +1,403 @@
+{
+  "FullStudy":{
+    "Rank":503,
+    "Study":{
+      "ProtocolSection":{
+        "IdentificationModule":{
+          "NCTId":"NCT05540002",
+          "OrgStudyIdInfo":{
+            "OrgStudyId":"2022P002083"
+          },
+          "Organization":{
+            "OrgFullName":"Brigham and Women's Hospital",
+            "OrgClass":"OTHER"
+          },
+          "BriefTitle":"Efficacy of the Quell Wearable Device for Chronic Overlapping Pain Conditions",
+          "OfficialTitle":"Efficacy of the Quell Wearable Device for Treatment of Central Sensitization-related Pain Among Persons With Chronic Overlapping Pain Conditions"
+        },
+        "StatusModule":{
+          "StatusVerifiedDate":"September 2022",
+          "OverallStatus":"Not yet recruiting",
+          "ExpandedAccessInfo":{
+            "HasExpandedAccess":"No"
+          },
+          "StartDateStruct":{
+            "StartDate":"October 2022",
+            "StartDateType":"Anticipated"
+          },
+          "PrimaryCompletionDateStruct":{
+            "PrimaryCompletionDate":"April 2023",
+            "PrimaryCompletionDateType":"Anticipated"
+          },
+          "CompletionDateStruct":{
+            "CompletionDate":"October 2024",
+            "CompletionDateType":"Anticipated"
+          },
+          "StudyFirstSubmitDate":"September 12, 2022",
+          "StudyFirstSubmitQCDate":"September 12, 2022",
+          "StudyFirstPostDateStruct":{
+            "StudyFirstPostDate":"September 14, 2022",
+            "StudyFirstPostDateType":"Actual"
+          },
+          "LastUpdateSubmitDate":"September 12, 2022",
+          "LastUpdatePostDateStruct":{
+            "LastUpdatePostDate":"September 14, 2022",
+            "LastUpdatePostDateType":"Actual"
+          }
+        },
+        "SponsorCollaboratorsModule":{
+          "ResponsibleParty":{
+            "ResponsiblePartyType":"Principal Investigator",
+            "ResponsiblePartyInvestigatorFullName":"Robert N. Jamison, PhD",
+            "ResponsiblePartyInvestigatorTitle":"Clinical Psychologist",
+            "ResponsiblePartyInvestigatorAffiliation":"Brigham and Women's Hospital"
+          },
+          "LeadSponsor":{
+            "LeadSponsorName":"Brigham and Women's Hospital",
+            "LeadSponsorClass":"OTHER"
+          },
+          "CollaboratorList":{
+            "Collaborator":[
+              {
+                "CollaboratorName":"NeuroMetrix, Inc.",
+                "CollaboratorClass":"INDUSTRY"
+              }
+            ]
+          }
+        },
+        "OversightModule":{
+          "OversightHasDMC":"No",
+          "IsFDARegulatedDrug":"No",
+          "IsFDARegulatedDevice":"Yes"
+        },
+        "DescriptionModule":{
+          "BriefSummary":"This study will examine the pain-relieving effects of a transcutaneous electrical nerve stimulator device called a Quell for persons with multiple chronic overlapping pain conditions.",
+          "DetailedDescription":"This study will examine the pain-relieving effects of a transcutaneous electrical nerve stimulator device called a Quell for persons with multiple chronic overlapping pain conditions. Patients will attend two quantitative sensory testing visits in order to determine their level of pain sensitivity, one at the beginning of the study and the second at the 3-month follow-up session. Subjects will be asked to test out the Quell device to see if they can tolerate the sensation, and will then be randomized into one of the two treatment groups: the High Intensity Quell group or the Low Intensity Quell group. Participants will be asked to wear the device for at least 3 hours every day. They will be asked to complete daily assessments, along with a total of three sets of questionnaires, one at the start of the study, the second 6 weeks from the date of consent, and the third 3 months after the date of consent. We will also call participants once a week for a brief phone interview throughout the study. Participants will be in this study for 3 months."
+        },
+        "ConditionsModule":{
+          "ConditionList":{
+            "Condition":[
+              "Chronic Pain",
+              "Adults 21 and Older",
+              "Multiple Chronic Overlapping Pain Conditions",
+              "Hypersensitivity"
+            ]
+          },
+          "KeywordList":{
+            "Keyword":[
+              "Multiple Chronic Overlapping Pain Conditions",
+              "Adults 21 and older"
+            ]
+          }
+        },
+        "DesignModule":{
+          "StudyType":"Interventional",
+          "PhaseList":{
+            "Phase":[
+              "Not Applicable"
+            ]
+          },
+          "DesignInfo":{
+            "DesignAllocation":"Randomized",
+            "DesignInterventionModel":"Parallel Assignment",
+            "DesignInterventionModelDescription":"Participants will be equally randomized to one of the two treatment groups: the High Intensity Quell group or the Low Intensity Quell group. All groups will receive the same questionnaires and undergo quantitative sensory testing.",
+            "DesignPrimaryPurpose":"Treatment",
+            "DesignMaskingInfo":{
+              "DesignMasking":"Double",
+              "DesignMaskingDescription":"Neither the principal investigator, the co-investigators, the research assistant, or the subjects will know if they are given the high intensity Quell device or the low intensity Quell device.",
+              "DesignWhoMaskedList":{
+                "DesignWhoMasked":[
+                  "Participant",
+                  "Investigator"
+                ]
+              }
+            }
+          },
+          "EnrollmentInfo":{
+            "EnrollmentCount":"115",
+            "EnrollmentType":"Anticipated"
+          }
+        },
+        "ArmsInterventionsModule":{
+          "ArmGroupList":{
+            "ArmGroup":[
+              {
+                "ArmGroupLabel":"High Intensity Stimulation",
+                "ArmGroupType":"Active Comparator",
+                "ArmGroupDescription":"Patients will be randomly assigned to the High Intensity Quell group and will receive higher intensity stimulation every day for 12 weeks.",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Device: High Intensity Quell"
+                  ]
+                }
+              },{
+                "ArmGroupLabel":"Low Intensity Stimulation",
+                "ArmGroupType":"Sham Comparator",
+                "ArmGroupDescription":"Patients will be randomly assigned to the Low intensity Quell group and will receive lower intensity stimulation every day for 12 weeks.",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Device: Low Intensity Quell"
+                  ]
+                }
+              }
+            ]
+          },
+          "InterventionList":{
+            "Intervention":[
+              {
+                "InterventionType":"Device",
+                "InterventionName":"High Intensity Quell",
+                "InterventionDescription":"Participants will receive 1 hour of continuous stimulation during each therapy session. Subjects are asked to complete a minimum of 3 sessions per day.",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "High Intensity Stimulation"
+                  ]
+                }
+              },{
+                "InterventionType":"Device",
+                "InterventionName":"Low Intensity Quell",
+                "InterventionDescription":"Participants will receive only three 2-minute periods of stimulation (at 0, 28, 58 minutes) during each 60-minute therapeutic session. Subjects are asked to complete a minimum of 3 sessions per day.",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Low Intensity Stimulation"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "OutcomesModule":{
+          "PrimaryOutcomeList":{
+            "PrimaryOutcome":[
+              {
+                "PrimaryOutcomeMeasure":"The Brief Pain Inventory Interference Scale (BPI)",
+                "PrimaryOutcomeDescription":"Measures and validates measures of pain",
+                "PrimaryOutcomeTimeFrame":"Changes from Baseline to 3-month Follow-Up"
+              }
+            ]
+          },
+          "SecondaryOutcomeList":{
+            "SecondaryOutcome":[
+              {
+                "SecondaryOutcomeMeasure":"Pain Catastrophizing Scale (PCS)",
+                "SecondaryOutcomeDescription":"Measures thoughts and feelings when patient is experiencing pain",
+                "SecondaryOutcomeTimeFrame":"Changes from Baseline to 3-month Follow-Up"
+              },{
+                "SecondaryOutcomeMeasure":"Pain Disability Index (PDI)",
+                "SecondaryOutcomeDescription":"Rating scales designed to measure levels of pain disability, or the degree to which pain is preventing a patient from doing what they normally would be doing, or doing it as well as they normally would",
+                "SecondaryOutcomeTimeFrame":"Changes from Baseline to 3-month Follow-Up"
+              },{
+                "SecondaryOutcomeMeasure":"Hospital Anxiety and Depression Scale (HADS)",
+                "SecondaryOutcomeDescription":"Measures mood",
+                "SecondaryOutcomeTimeFrame":"Changes from Baseline to 3-month Follow-Up"
+              },{
+                "SecondaryOutcomeMeasure":"Pain Detect Neuropathic Pain Questionnaire (painDETECT)",
+                "SecondaryOutcomeDescription":"Measures the presence of neuropathic pain",
+                "SecondaryOutcomeTimeFrame":"Changes from Baseline to 3-month Follow-Up"
+              },{
+                "SecondaryOutcomeMeasure":"Symptom Impact Questionnaire (SIQR)",
+                "SecondaryOutcomeDescription":"Measures pain symptoms and function",
+                "SecondaryOutcomeTimeFrame":"Changes from Baseline to 3-month Follow-Up"
+              },{
+                "SecondaryOutcomeMeasure":"Patient's Global Impression of Change (PGIC)",
+                "SecondaryOutcomeDescription":"Measures patients impression of change in activity limitations, emotions, symptoms, and overall quality of life",
+                "SecondaryOutcomeTimeFrame":"Changes from Baseline to 3-month Follow-Up"
+              },{
+                "SecondaryOutcomeMeasure":"Healthcare Utilization",
+                "SecondaryOutcomeDescription":"Monthly clinic and ED visits",
+                "SecondaryOutcomeTimeFrame":"Changes from Baseline to 3-month Follow-Up"
+              },{
+                "SecondaryOutcomeMeasure":"Satisfaction and Qualitative Questions",
+                "SecondaryOutcomeDescription":"Overall satisfaction questions developed for this study, specifically related to use of a pain management device",
+                "SecondaryOutcomeTimeFrame":"3-month Follow-up"
+              },{
+                "SecondaryOutcomeMeasure":"Quantitative Sensory Testing (QST)",
+                "SecondaryOutcomeDescription":"Set of psychophysical methods used to quantify somatosensory function",
+                "SecondaryOutcomeTimeFrame":"Changes from Baseline to 3-month Follow-Up"
+              },{
+                "SecondaryOutcomeMeasure":"The Brief Pain Inventory Pain Intensity Scale",
+                "SecondaryOutcomeDescription":"Worst, least, average and now pain",
+                "SecondaryOutcomeTimeFrame":"Changes from Baseline to 3-month Follow-Up"
+              },{
+                "SecondaryOutcomeMeasure":"MasterMyPain App",
+                "SecondaryOutcomeDescription":"Daily ratings of pain related factors on smartphone pain app",
+                "SecondaryOutcomeTimeFrame":"Daily ratings over 3-months"
+              }
+            ]
+          }
+        },
+        "EligibilityModule":{
+          "EligibilityCriteria":"Inclusion Criteria:\n\nAges 21 and older\nPain duration > 3 months\nDiagnosed by physician with multiple chronic pain conditions\nHave chronic pain related to multiple chronic pain diagnoses (headaches, joint pain, back pain, or any of the other COPCs)\nAverage 4 or greater on pain intensity scale of 0 to 10\nPain is not accounted for by any other progressive disease (e.g., cancer, MS)\nMeets sensory hypersensitivity cutoffs based on QST-assessed evidence\nOwn a smartphone (iPhone or Android device) and can download the pain app (MasterMyPain) and the Quell Relief mobile app onto their device\nAble to speak and understand English\n\nExclusion Criteria:\n\nDiagnosis of cancer or any other malignant disease\nAcute osteomyelitis or acute bone disease\nPresent of past DSM-V diagnosis of schizophrenia, delusional disorder, psychotic disorder, or dissociative disorder that would be judged to interfere with study participation\nPregnancy\nAny clinically unstable systemic illness judged to interfere with treatment\nA pain condition requiring urgent surgery\nAn active substance use disorder, such as cocaine or IV heroin use that would interfere with study participation\nHave an implanted cardiac pacemaker, defibrillator, or other implanted device.\nReynaud's syndrome\nOpen cuts/sores",
+          "HealthyVolunteers":"No",
+          "Gender":"All",
+          "MinimumAge":"21 Years",
+          "MaximumAge":"99 Years",
+          "StdAgeList":{
+            "StdAge":[
+              "Adult",
+              "Older Adult"
+            ]
+          }
+        },
+        "ContactsLocationsModule":{
+          "CentralContactList":{
+            "CentralContact":[
+              {
+                "CentralContactName":"Robert N. Jamison, Ph.D.",
+                "CentralContactRole":"Contact",
+                "CentralContactPhone":"617-732-9046",
+                "CentralContactEMail":"rjamison@bwh.harvard.edu"
+              },{
+                "CentralContactName":"Carlicia D. Nelson, BA",
+                "CentralContactRole":"Contact",
+                "CentralContactPhone":"617-732-9718",
+                "CentralContactEMail":"cnelson18@bwh.harvard.edu"
+              }
+            ]
+          },
+          "OverallOfficialList":{
+            "OverallOfficial":[
+              {
+                "OverallOfficialName":"Robert N. Jamison, Ph.D.",
+                "OverallOfficialAffiliation":"Brigham and Women's Hospital",
+                "OverallOfficialRole":"Principal Investigator"
+              }
+            ]
+          },
+          "LocationList":{
+            "Location":[
+              {
+                "LocationFacility":"Brigham and Women's Hospital Pain Management Center",
+                "LocationCity":"Chestnut Hill",
+                "LocationState":"Massachusetts",
+                "LocationZip":"02467",
+                "LocationCountry":"United States",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactName":"Robert N. Jamison, Ph.D.",
+                      "LocationContactRole":"Contact",
+                      "LocationContactPhone":"617-732-9046",
+                      "LocationContactEMail":"rjamison@bwh.harvard.edu"
+                    },{
+                      "LocationContactName":"Carlicia D. Nelson, BA",
+                      "LocationContactRole":"Contact",
+                      "LocationContactPhone":"617-732-9718",
+                      "LocationContactEMail":"cnelson18@bwh.harvard.edu"
+                    },{
+                      "LocationContactName":"Robert N. Jamison, Ph.D.",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "ReferencesModule":{
+          "SeeAlsoLinkList":{
+            "SeeAlsoLink":[
+              {
+                "SeeAlsoLinkLabel":"Link to rally website to Quell COPCs",
+                "SeeAlsoLinkURL":"https://rally.massgeneralbrigham.org/study/_quellcopcs"
+              }
+            ]
+          }
+        },
+        "IPDSharingStatementModule":{
+          "IPDSharing":"No"
+        }
+      },
+      "DerivedSection":{
+        "MiscInfoModule":{
+          "VersionHolder":"September 19, 2022"
+        },
+        "ConditionBrowseModule":{
+          "ConditionMeshList":{
+            "ConditionMesh":[
+              {
+                "ConditionMeshId":"D000006967",
+                "ConditionMeshTerm":"Hypersensitivity"
+              },{
+                "ConditionMeshId":"D000004194",
+                "ConditionMeshTerm":"Disease"
+              },{
+                "ConditionMeshId":"D000059350",
+                "ConditionMeshTerm":"Chronic Pain"
+              }
+            ]
+          },
+          "ConditionAncestorList":{
+            "ConditionAncestor":[
+              {
+                "ConditionAncestorId":"D000010335",
+                "ConditionAncestorTerm":"Pathologic Processes"
+              },{
+                "ConditionAncestorId":"D000010146",
+                "ConditionAncestorTerm":"Pain"
+              },{
+                "ConditionAncestorId":"D000009461",
+                "ConditionAncestorTerm":"Neurologic Manifestations"
+              },{
+                "ConditionAncestorId":"D000007154",
+                "ConditionAncestorTerm":"Immune System Diseases"
+              }
+            ]
+          },
+          "ConditionBrowseLeafList":{
+            "ConditionBrowseLeaf":[
+              {
+                "ConditionBrowseLeafId":"M9170",
+                "ConditionBrowseLeafName":"Hypersensitivity",
+                "ConditionBrowseLeafAsFound":"Hypersensitivity",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M28595",
+                "ConditionBrowseLeafName":"Chronic Pain",
+                "ConditionBrowseLeafAsFound":"Chronic Pain",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M12218",
+                "ConditionBrowseLeafName":"Pain",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M11556",
+                "ConditionBrowseLeafName":"Neurologic Manifestations",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M9352",
+                "ConditionBrowseLeafName":"Immune System Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"T1303",
+                "ConditionBrowseLeafName":"Chronic Graft Versus Host Disease",
+                "ConditionBrowseLeafRelevance":"low"
+              }
+            ]
+          },
+          "ConditionBrowseBranchList":{
+            "ConditionBrowseBranch":[
+              {
+                "ConditionBrowseBranchAbbrev":"BC20",
+                "ConditionBrowseBranchName":"Immune System Diseases"
+              },{
+                "ConditionBrowseBranchAbbrev":"All",
+                "ConditionBrowseBranchName":"All Conditions"
+              },{
+                "ConditionBrowseBranchAbbrev":"BC23",
+                "ConditionBrowseBranchName":"Symptoms and General Pathology"
+              },{
+                "ConditionBrowseBranchAbbrev":"BC10",
+                "ConditionBrowseBranchName":"Nervous System Diseases"
+              },{
+                "ConditionBrowseBranchAbbrev":"Rare",
+                "ConditionBrowseBranchName":"Rare Diseases"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+

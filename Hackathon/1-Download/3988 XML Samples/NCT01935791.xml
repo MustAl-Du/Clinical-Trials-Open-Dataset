@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3529">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01935791</url>
+  </required_header>
+  <id_info>
+    <org_study_id>13HH0688</org_study_id>
+    <nct_id>NCT01935791</nct_id>
+  </id_info>
+  <brief_title>Investigating Brown Adipose Tissue Activation in Humans</brief_title>
+  <official_title>Investigating Brown Adipose Tissue Activation in Humans</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Imperial College London</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Imperial College London</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine what can activate brown adipose tissue (BAT).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      We will investigate different stimuli (i.e. hormones) to determine which can stimulate BAT.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>July 2013</start_date>
+  <completion_date type="Actual">November 5, 2018</completion_date>
+  <primary_completion_date type="Actual">November 5, 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Brown Adipose Tissue Activation Following Glucagon or Saline Infusion</measure>
+    <time_frame>2hours</time_frame>
+    <description>Period 1 Brown Adipose Tissue (BAT) activation measured using metabolic rate of glucose (MR[gluc]) during F-fluorodeoxyglucose (18F-FDG) positron emission tomography (PET-CT) for Cold PET-CT Vehicle vs Warm PET-CT Vehicle vs warm PET-CT Glucagon.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Increase in Energy Expenditure Following Glucagon or Saline Infusion</measure>
+    <time_frame>2hours</time_frame>
+    <description>Period 2 Increase in energy expenditure measured using indirect calorimetry for Cold control vs Warm Control vs Warm Glucagon.</description>
+  </primary_outcome>
+  <number_of_arms>9</number_of_arms>
+  <enrollment type="Actual">11</enrollment>
+  <condition>Metabolic Diseases</condition>
+  <arm_group>
+    <arm_group_label>Period 1 Visit 1 - Cold PET-CT Vehicle, Visit 2 -Warm PET-CT Vehicle</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Visit 1. Participants underwent F-fluorodeoxyglucose (18F-FDG) positron emission tomography, computerised tomography-(PET)CT, whilst wearing a cooling vest and receiving an infusion of gelofusine.&#xD;
+Visit 2 Participants underwent F-fluorodeoxyglucose (18F-FDG) positron emission tomography, computerised tomography-(PET)CT, whilst receiving an infusion of gelofusine without a cooling vest.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Period 1 Visit 1 - Cold PET-CT Vehicle, Visit 2 -Warm PET-CT Glucagon</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Visit 1. Participants underwent F-fluorodeoxyglucose (18F-FDG) positron emission tomography, computerised tomography-(PET)CT, whilst wearing a cooling vest and receiving an infusion of gelofusine Visit 2 Participants underwent F-fluorodeoxyglucose (18F-FDG) positron emission tomography, computerised tomography-(PET)CT, whilst receiving an infusion of Glucagon at a dose of 50ng/kg/min without a cooling vest.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Period 1 Visit 1 - Cold PET-CT Vehicle, no visit 2 as BAT negative</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Visit 1. Participants underwent F-fluorodeoxyglucose (18F-FDG) positron emission tomography, computerised tomography-(PET)CT, whilst wearing a cooling vest and receiving an infusion of gelofusine.&#xD;
+No brown adipose tissue (BAT) identified on visit 1, therefore no visit 2.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Period 2 - Visit 1 Warm Control vehicle, Visit 2 Warm Glucagon, Visit 3 Cold control</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Visit 1- Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of gelofusine. They were situated in an ambient temperature of 22-25 degrees celsius.&#xD;
+Visit 2 - Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of Glucagon at a dose of 50ng/kg/min. They were situated in an ambient temperature of 22-25 degrees celsius. Visit 3 - Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of gelofusine and wearing a cooling vest.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Period 2 - Visit 1 Warm Glucagon, Visit 2 Cold control , Visit 3 Warm control</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Visit 1- Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of Glucagon at a dose of 50ng/kg/min. They were situated in an ambient temperature of 22-25 degrees celsius.&#xD;
+Visit 2 - Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of gelofusine and wearing a cooling vest.&#xD;
+Visit 3 Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of gelofusine. They were situated in an ambient temperature of 22-25 degrees celsius.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Period 2 -Visit 1 cold control, Visit 2 warm control, Visit 3 Warm glucagon</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Visit 1 - Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of gelofusine and wearing a cooling vest.&#xD;
+Visit 2 - Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of gelofusine. They were situated in an ambient temperature of 22-25 degrees celsius.&#xD;
+Visit 3 - Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of Glucagon at a dose of 50ng/kg/min. They were situated in an ambient temperature of 22-25 degrees celsius.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Period 2 -Visit 1 cold control, visit 2 warm glucagon, visit 3 warm control</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Visit 1 - Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of gelofusine and wearing a cooling vest.&#xD;
+Visit 2- Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of Glucagon at a dose of 50ng/kg/min. They were situated in an ambient temperature of 22-25 degrees Celsius.&#xD;
+Visit 3 - Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of gelofusine. They were situated in an ambient temperature of 22-25 degrees Celsius.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Period 2- Visit 1 Warm glucagon, visit 2 warm control, visit 3 cold control</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Visit 1- Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of Glucagon at a dose of 50ng/kg/min. They were situated in an ambient temperature of 22-25 degrees Celsius.&#xD;
+Visit 2 Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of gelofusine. They were situated in an ambient temperature of 22-25 degrees Celsius.&#xD;
+Visit 3- Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of gelofusine and wearing a cooling vest.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Period 2 - Visit 1 Warm control, visit 2 cold control, visit 3 warm glucagon</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Visit 1 Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of gelofusine. They were situated in an ambient temperature of 22-25 degrees Celsius.&#xD;
+Visit 2- Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of gelofusine and wearing a cooling vest.&#xD;
+Visit 3 Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of Glucagon at a dose of 50ng/kg/min. They were situated in an ambient temperature of 22-25 degrees Celsius</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Period 1 Visit 1 - Cold PET-CT Vehicle, Visit 2 -Warm PET-CT Vehicle</intervention_name>
+    <description>Temperature</description>
+    <arm_group_label>Period 1 Visit 1 - Cold PET-CT Vehicle, Visit 2 -Warm PET-CT Vehicle</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Period 1 Visit 1 - Cold PET-CT Vehicle, Visit 2 -Warm PET-CT Glucagon</intervention_name>
+    <description>Hormone</description>
+    <arm_group_label>Period 1 Visit 1 - Cold PET-CT Vehicle, Visit 2 -Warm PET-CT Glucagon</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Period 1 Visit 1 - Cold PET-CT Vehicle, no visit 2 as BAT negative</intervention_name>
+    <description>Temperature</description>
+    <arm_group_label>Period 1 Visit 1 - Cold PET-CT Vehicle, no visit 2 as BAT negative</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Period 2 - Visit 1 Warm Control vehicle, Visit 2 Warm Glucagon, Visit 3 Cold control</intervention_name>
+    <description>Hormone</description>
+    <arm_group_label>Period 2 - Visit 1 Warm Control vehicle, Visit 2 Warm Glucagon, Visit 3 Cold control</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Period 2 - Visit 1 Warm Glucagon, Visit 2 Cold control , Visit 3 Warm control</intervention_name>
+    <description>Hormone</description>
+    <arm_group_label>Period 2 - Visit 1 Warm Glucagon, Visit 2 Cold control , Visit 3 Warm control</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Period 2 -Visit 1 cold control, Visit 2 warm control, Visit 3 Warm glucagon</intervention_name>
+    <description>hormone</description>
+    <arm_group_label>Period 2 -Visit 1 cold control, Visit 2 warm control, Visit 3 Warm glucagon</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Period 2 -Visit 1 cold control, visit 2 warm glucagon, visit 3 warm control</intervention_name>
+    <description>hormone</description>
+    <arm_group_label>Period 2 -Visit 1 cold control, visit 2 warm glucagon, visit 3 warm control</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Period 2- Visit 1 Warm glucagon, visit 2 warm control, visit 3 cold control</intervention_name>
+    <description>hormone</description>
+    <arm_group_label>Period 2- Visit 1 Warm glucagon, visit 2 warm control, visit 3 cold control</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Period 2 - Visit 1 Warm control, visit 2 cold control, visit 3 warm glucagon</intervention_name>
+    <description>Hormone</description>
+    <arm_group_label>Period 2 - Visit 1 Warm control, visit 2 cold control, visit 3 warm glucagon</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  aged &gt;18 years&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  medical conditions&#xD;
+&#xD;
+          -  recreational drug use&#xD;
+&#xD;
+          -  participation in other trials within the preceding 2 months&#xD;
+&#xD;
+          -  blood donation within 3 months of study participation&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Waljit Dhillo</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Imperial College London</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Imperial College London</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <link>
+    <url>https://onlinelibrary.wiley.com/doi/full/10.1111/dom.12585</url>
+    <description>Glucagon increases energy expenditure independently of brown adipose tissue activation in humans.</description>
+  </link>
+  <link>
+    <url>http://jnm.snmjournals.org/content/59/3/516.long</url>
+    <description>Thermal Imaging Is a Noninvasive Alternative to PET/CT for Measurement of Brown Adipose Tissue Activity in Humans</description>
+  </link>
+  <results_reference>
+    <citation>Salem V, Izzi-Engbeaya C, Coello C, Thomas DB, Chambers ES, Comninos AN, Buckley A, Win Z, Al-Nahhas A, Rabiner EA, Gunn RN, Budge H, Symonds ME, Bloom SR, Tan TM, Dhillo WS. Glucagon increases energy expenditure independently of brown adipose tissue activation in humans. Diabetes Obes Metab. 2016 Jan;18(1):72-81. doi: 10.1111/dom.12585. Epub 2015 Nov 20.</citation>
+    <PMID>26434748</PMID>
+  </results_reference>
+  <verification_date>May 2021</verification_date>
+  <study_first_submitted>July 25, 2013</study_first_submitted>
+  <study_first_submitted_qc>September 4, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 5, 2013</study_first_posted>
+  <results_first_submitted>June 6, 2019</results_first_submitted>
+  <results_first_submitted_qc>May 17, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">May 18, 2021</results_first_posted>
+  <last_update_submitted>May 17, 2021</last_update_submitted>
+  <last_update_submitted_qc>May 17, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 18, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Metabolic Diseases</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Metabolic Diseases</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Glucagon</mesh_term>
+    <mesh_term>Glucagon-Like Peptide 1</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>May 29, 2014</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/91/NCT01935791/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>May 29, 2014</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/91/NCT01935791/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Period 1 Visit 1 - Cold PET-CT Vehicle, Visit 2 -Warm PET-CT Vehicle</title>
+          <description>Visit 1. Participants underwent F-fluorodeoxyglucose (18F-FDG) positron emission tomography, computerised tomography-(PET)CT, whilst wearing a cooling vest and receiving an infusion of gelofusine.&#xD;
+Visit 2 Participants underwent F-fluorodeoxyglucose (18F-FDG) positron emission tomography, computerised tomography-(PET)CT, whilst receiving an infusion of gelofusine without a cooling vest.</description>
+        </group>
+        <group group_id="P2">
+          <title>Period 1 Visit 1 - Cold PET-CT Vehicle, Visit 2 -Warm PET-CT Glucagon</title>
+          <description>Visit 1. Participants underwent F-fluorodeoxyglucose (18F-FDG) positron emission tomography, computerised tomography-(PET)CT, whilst wearing a cooling vest and receiving an infusion of gelofusine Visit 2 Participants underwent F-fluorodeoxyglucose (18F-FDG) positron emission tomography, computerised tomography-(PET)CT, whilst receiving an infusion of Glucagon at a dose of 50ng/kg/min without a cooling vest.</description>
+        </group>
+        <group group_id="P3">
+          <title>Period 1 Visit 1 - Cold PET-CT Vehicle, no Visit 2 as BAT Negative</title>
+          <description>Visit 1. Participants underwent F-fluorodeoxyglucose (18F-FDG) positron emission tomography, computerised tomography-(PET)CT, whilst wearing a cooling vest and receiving an infusion of gelofusine.&#xD;
+No brown adipose tissue (BAT) identified on visit 1, therefore no visit 2.</description>
+        </group>
+        <group group_id="P4">
+          <title>Period 2 - Visit 1 Warm Control Vehicle, Visit 2 Warm Glucagon, Visit 3 Cold Control</title>
+          <description>Visit 1- Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of gelofusine. They were situated in an ambient temperature of 22-25 degrees celsius.&#xD;
+Visit 2 - Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of Glucagon at a dose of 50ng/kg/min. They were situated in an ambient temperature of 22-25 degrees celsius.&#xD;
+Visit 3 - Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of gelofusine and wearing a cooling vest.</description>
+        </group>
+        <group group_id="P5">
+          <title>Period 2 - Visit 1 Warm Glucagon, Visit 2 Cold Control , Visit 3 Warm Control</title>
+          <description>Visit 1- Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of Glucagon at a dose of 50ng/kg/min. They were situated in an ambient temperature of 22-25 degrees celsius.&#xD;
+Visit 2 - Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of gelofusine and wearing a cooling vest.&#xD;
+Visit 3 Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of gelofusine. They were situated in an ambient temperature of 22-25 degrees celsius.</description>
+        </group>
+        <group group_id="P6">
+          <title>Period 2 -Visit 1 Cold Control, Visit 2 Warm Control, Visit 3 Warm Glucagon</title>
+          <description>Visit 1 - Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of gelofusine and wearing a cooling vest.&#xD;
+Visit 2 - Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of gelofusine. They were situated in an ambient temperature of 22-25 degrees celsius.&#xD;
+Visit 3 - Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of Glucagon at a dose of 50ng/kg/min. They were situated in an ambient temperature of 22-25 degrees celsius.</description>
+        </group>
+        <group group_id="P7">
+          <title>Period 2 -Visit 1 Cold Control, Visit 2 Warm Glucagon, Visit 3 Warm Control</title>
+          <description>Visit 1 - Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of gelofusine and wearing a cooling vest.&#xD;
+Visit 2- Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of Glucagon at a dose of 50ng/kg/min. They were situated in an ambient temperature of 22-25 degrees Celsius.&#xD;
+Visit 3 - Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of gelofusine. They were situated in an ambient temperature of 22-25 degrees Celsius.</description>
+        </group>
+        <group group_id="P8">
+          <title>Period 2- Visit 1 Warm Glucagon, Visit 2 Warm Control, Visit 3 Cold Control</title>
+          <description>Visit 1- Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of Glucagon at a dose of 50ng/kg/min. They were situated in an ambient temperature of 22-25 degrees Celsius.&#xD;
+Visit 2 Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of gelofusine. They were situated in an ambient temperature of 22-25 degrees Celsius.&#xD;
+Visit 3- Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of gelofusine and wearing a cooling vest.</description>
+        </group>
+        <group group_id="P9">
+          <title>Period 2 -Visit 1 Warm Control, Visit 2 Cold Control, Visit 3 Warm Glucagon</title>
+          <description>Visit 1 Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of gelofusine. They were situated in an ambient temperature of 22-25 degrees Celsius.&#xD;
+Visit 2- Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of gelofusine and wearing a cooling vest.&#xD;
+Visit 3 Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of Glucagon at a dose of 50ng/kg/min. They were situated in an ambient temperature of 22-25 degrees Celsius</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Period 1</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+                <participants group_id="P2" count="4"/>
+                <participants group_id="P3" count="3"/>
+                <participants group_id="P4" count="0"/>
+                <participants group_id="P5" count="0"/>
+                <participants group_id="P6" count="0"/>
+                <participants group_id="P7" count="0"/>
+                <participants group_id="P8" count="0"/>
+                <participants group_id="P9" count="0"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+                <participants group_id="P2" count="4"/>
+                <participants group_id="P3" count="3"/>
+                <participants group_id="P4" count="0"/>
+                <participants group_id="P5" count="0"/>
+                <participants group_id="P6" count="0"/>
+                <participants group_id="P7" count="0"/>
+                <participants group_id="P8" count="0"/>
+                <participants group_id="P9" count="0"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+                <participants group_id="P5" count="0"/>
+                <participants group_id="P6" count="0"/>
+                <participants group_id="P7" count="0"/>
+                <participants group_id="P8" count="0"/>
+                <participants group_id="P9" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+        <period>
+          <title>Period 2</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="2"/>
+                <participants group_id="P5" count="3"/>
+                <participants group_id="P6" count="1"/>
+                <participants group_id="P7" count="1"/>
+                <participants group_id="P8" count="3"/>
+                <participants group_id="P9" count="1"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="2"/>
+                <participants group_id="P5" count="3"/>
+                <participants group_id="P6" count="1"/>
+                <participants group_id="P7" count="1"/>
+                <participants group_id="P8" count="3"/>
+                <participants group_id="P9" count="1"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+                <participants group_id="P5" count="0"/>
+                <participants group_id="P6" count="0"/>
+                <participants group_id="P7" count="0"/>
+                <participants group_id="P8" count="0"/>
+                <participants group_id="P9" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>All Participants</title>
+          <description>All participants who were randomised</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="11"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="11"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="26" lower_limit="20" upper_limit="40"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="11"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race and Ethnicity Not Collected</title>
+          <population>Race and Ethnicity were not collected from any participant.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <description>All participants were recruited from the Greater London area in England</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>United Kingdom</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="11"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>BMI</title>
+          <units>kg/m2</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="11"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="22.5" lower_limit="20.5" upper_limit="25.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Brown Adipose Tissue Activation Following Glucagon or Saline Infusion</title>
+        <description>Period 1 Brown Adipose Tissue (BAT) activation measured using metabolic rate of glucose (MR[gluc]) during F-fluorodeoxyglucose (18F-FDG) positron emission tomography (PET-CT) for Cold PET-CT Vehicle vs Warm PET-CT Vehicle vs warm PET-CT Glucagon.</description>
+        <time_frame>2hours</time_frame>
+        <population>Period 1 Parallel design (3 out of 11 participants did not have BAT activation and therefore they were not included in the analysis).&#xD;
+Period 2 Crossover design</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Period 1 Cold PET-CT Vehicle</title>
+            <description>Visit 1. emission tomography, computerised tomography-(PET)CT, whilst wearing a cooling vest and receiving an infusion of gelofusine.</description>
+          </group>
+          <group group_id="O2">
+            <title>Period 1 Warm PET-CT Vehicle</title>
+            <description>Participants underwent F-fluorodeoxyglucose (18F-FDG) positron emission tomography, computerised tomography-(PET)CT, whilst receiving an infusion of gelofusine without a cooling vest.</description>
+          </group>
+          <group group_id="O3">
+            <title>Period 1 Warm PET(CT) Glucagon</title>
+            <description>Participants underwent F-fluorodeoxyglucose (18F-FDG) positron emission tomography, computerised tomography-(PET)CT, whilst receiving an infusion of Glucagon at a dose of 50ng/kg/min without a cooling vest.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Brown Adipose Tissue Activation Following Glucagon or Saline Infusion</title>
+          <description>Period 1 Brown Adipose Tissue (BAT) activation measured using metabolic rate of glucose (MR[gluc]) during F-fluorodeoxyglucose (18F-FDG) positron emission tomography (PET-CT) for Cold PET-CT Vehicle vs Warm PET-CT Vehicle vs warm PET-CT Glucagon.</description>
+          <population>Period 1 Parallel design (3 out of 11 participants did not have BAT activation and therefore they were not included in the analysis).&#xD;
+Period 2 Crossover design</population>
+          <units>MR[gluc] umol/kg/min</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="8"/>
+                <count group_id="O2" value="4"/>
+                <count group_id="O3" value="4"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.074" spread="0.007"/>
+                    <measurement group_id="O2" value="0.010" spread="0.003"/>
+                    <measurement group_id="O3" value="0.029" spread="0.008"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+              <group_id>O3</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>&lt;0.01</p_value>
+            <p_value_desc>The p-values were adjusted for multiple comparisons. The a priori threshold for statistical significance is p&lt;0.05.</p_value_desc>
+            <method>ANOVA</method>
+            <method_desc>plus Tukey test</method_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Increase in Energy Expenditure Following Glucagon or Saline Infusion</title>
+        <description>Period 2 Increase in energy expenditure measured using indirect calorimetry for Cold control vs Warm Control vs Warm Glucagon.</description>
+        <time_frame>2hours</time_frame>
+        <population>Period 2 Crossover design</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Period 2 - Cold Control</title>
+            <description>Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of gelofusine and wearing a cooling vest.</description>
+          </group>
+          <group group_id="O2">
+            <title>Period 2 - Warm Control</title>
+            <description>Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of gelofusine. They were situated in an ambient temperature of 22-25 degrees celsius.</description>
+          </group>
+          <group group_id="O3">
+            <title>Period 2 -Warm Glucagon</title>
+            <description>Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of Glucagon at a dose of 50ng/kg/min. They were situated in an ambient temperature of 22-25 degrees celsius.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Increase in Energy Expenditure Following Glucagon or Saline Infusion</title>
+          <description>Period 2 Increase in energy expenditure measured using indirect calorimetry for Cold control vs Warm Control vs Warm Glucagon.</description>
+          <population>Period 2 Crossover design</population>
+          <units>increase in energy expenditure kcal/day</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="11"/>
+                <count group_id="O2" value="11"/>
+                <count group_id="O3" value="11"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="193.0" spread="27.2"/>
+                    <measurement group_id="O2" value="41.1" spread="70"/>
+                    <measurement group_id="O3" value="230.8" spread="30.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+              <group_id>O3</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>&lt;0.001</p_value>
+            <method>ANOVA</method>
+            <method_desc>plus Tukey test</method_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>3 years</time_frame>
+      <desc>Patients were monitored for adverse events throughout each visit and had the contact details of the main investigator for any issues in between visits.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Period 1 Visit 1 Cold Vehicle</title>
+          <description>Participants underwent F-fluorodeoxyglucose (18F-FDG) positron emission tomography, computerised tomography-(PET)CT, whilst wearing a cooling vest and receiving an infusion of gelofusine.</description>
+        </group>
+        <group group_id="E2">
+          <title>Period 1 Visit 2 Warm Glucagon</title>
+          <description>Participants underwent F-fluorodeoxyglucose (18F-FDG) positron emission tomography, computerised tomography-(PET)CT, whilst receiving an infusion of Glucagon at a dose of 50ng/kg/min without a cooling vest.</description>
+        </group>
+        <group group_id="E3">
+          <title>Period 1 Visit 2 Warm Vehicle</title>
+          <description>Participants underwent F-fluorodeoxyglucose (18F-FDG) positron emission tomography, computerised tomography-(PET)CT, whilst receiving an infusion of gelofusine without a cooling vest.</description>
+        </group>
+        <group group_id="E4">
+          <title>Period 2 Cold Control</title>
+          <description>Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of gelofusine and wearing a cooling vest.</description>
+        </group>
+        <group group_id="E5">
+          <title>Period 2 Warm Control</title>
+          <description>Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of gelofusine. They were situated in an ambient temperature of 22-25 degrees celsius.</description>
+        </group>
+        <group group_id="E6">
+          <title>Period 2 Warm Glucagon</title>
+          <description>Each participant had calorimetry testing and thermal imaging whilst receiving an infusion of Glucagon at a dose of 50ng/kg/min. They were situated in an ambient temperature of 22-25 degrees celsius.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="4"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="4"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="4"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="4"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="4"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="4"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr Chioma Izzi-Engbeaya</name_or_title>
+      <organization>Imperial College London</organization>
+      <phone>02075942454</phone>
+      <email>c.izzi@imperial.ac.uk</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

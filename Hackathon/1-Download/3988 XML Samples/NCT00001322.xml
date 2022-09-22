@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2253">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00001322</url>
+  </required_header>
+  <id_info>
+    <org_study_id>920174</org_study_id>
+    <secondary_id>92-M-0174</secondary_id>
+    <nct_id>NCT00001322</nct_id>
+  </id_info>
+  <brief_title>The Effects of Reproductive Hormones on Mood and Behavior</brief_title>
+  <official_title>The Central Nervous System Effects of Pharmacologically Induced Hypogonadotropic Hypogonadism With and Without Estrogen and Progesterone Replacement</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Mental Health (NIMH)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institutes of Health Clinical Center (CC)</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study evaluates the effects of estrogen and progesterone on mood, the stress response,&#xD;
+      and brain function in healthy women.&#xD;
+&#xD;
+      The purpose of this study is to evaluate how low levels of estrogen and progesterone (that&#xD;
+      occur during treatment with leuprolide acetate) compare to menstrual cycle levels of estrogen&#xD;
+      and progesterone (given during individual months of hormone add-back) on a variety of&#xD;
+      physiologic measures (brain imaging, stress testing, etc.) in healthy volunteer women without&#xD;
+      PMS.&#xD;
+&#xD;
+      This study will investigate effects of reproductive hormones by temporarily stopping the&#xD;
+      menstrual cycle with leuprolide acetate and then giving, in sequence, the menstrual cycle&#xD;
+      hormones progesterone and estrogen. Tests (such as brain imaging or stress testing, etc.)&#xD;
+      will be performed during the different hormonal conditions (low estrogen and progesterone,&#xD;
+      progesterone add-back, estrogen add-back). The results of these studies will be compared&#xD;
+      between women without PMS and women with PMS (see also protocol 90-M-0088).&#xD;
+&#xD;
+      At study entry, participants will undergo a physical examination. Blood, urine, and pregnancy&#xD;
+      tests will be performed. Cognitive functioning and stress response will be evaluated during&#xD;
+      the study along with brain imaging and genetic studies.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Evidence suggests that the gonadal steroids may exert clinically significant effects on&#xD;
+      central nervous system function. For example, the menstrual cycle may influence the&#xD;
+      occurrence of seizures in some female epileptics and the performance on certain cognitive&#xD;
+      tests. Central nervous system effects of gonadal steroids have been inferred largely from&#xD;
+      changes in behavior occurring in association with presumed changes in gonadal steroids during&#xD;
+      the normal menstrual cycle, during the administration of ovarian hormones, or in a&#xD;
+      gender-specific context. These inferences are, by definition, indirect and associational in&#xD;
+      nature and further are incapable of disentangling the effects of hormones which are&#xD;
+      simultaneously present in women of reproductive age. This study is designed to address those&#xD;
+      problems by comparing measures during Lupron-induced hypogonadism with those during&#xD;
+      replacement with estrogen or progesterone. On the basis of prior findings from our group and&#xD;
+      from others, we will be asking the following questions: 1) Is the decreased r-CBF that we&#xD;
+      observed in the prefrontal cortex during the hypogonadal state confirmed in individual women&#xD;
+      using new imaging techniques; 2) Will variation in genotype (e.g., COMT val/met, BDNF&#xD;
+      val/met) confer differential sensitivity to ovarian steroids in brain circuitry and 3) Are&#xD;
+      the menstrual cycle phase-related changes in reward systems that we previously observed&#xD;
+      related to estradiol or progesterone actions within the brain (1). Additionally, this&#xD;
+      protocol will serve as a control study for protocol # 90-M-0088.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">June 9, 1994</start_date>
+  <completion_date type="Actual">March 3, 2020</completion_date>
+  <primary_completion_date type="Actual">March 3, 2020</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mean Beck Depression Inventory Score</measure>
+    <time_frame>Phase 1: Weeks 6 and 8 or 10 and 12; Phase 2: Weeks 2 and 4 of estradiol or progesterone</time_frame>
+    <description>The Beck Depression Inventory (BDI) is a 21-item, self-report rating inventory that measures the severity of symptoms accompanying depression. Each item has a minimum score of 0 and a maximum score of 3, with higher numbers consistent with more severe symptoms. The score of each item is summed to amount the overall BDI score, with a minimum score of 0 and a maximum score of 63. Higher BDI scores are consistent with more severe depression. Score of 16 or greater is consistent with clinical depression.&#xD;
+Each participant completed the BDI every 2 weeks during each of the study phases (i.e., GnRH agonist alone, estradiol and progesterone) throughout the 6-month study. Outcome measures reported consist of the average of two BDI scores from each phase of the study: the last 4 weeks of the GnRH agonist alone (phase 1), during the 4-week long estradiol phase (phase 2: weeks 2 and 4 of estradiol) and the 4-week long progesterone phase (phase 2: weeks 2 and 4 of progesterone).</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">100</enrollment>
+  <condition>Healthy Volunteers</condition>
+  <arm_group>
+    <arm_group_label>Phase 1 - Lupron</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Eight to 12 weeks of GnRH agonist treatment 3.75 mg given intramuscularly monthly.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2, Arm 1 - Estradiol, then progesterone</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>12 weeks of GnRH agonist treatment 3.75 mg given intramuscularly monthly. Additionally, 4 weeks of transdermal Estradiol (100mcg/day by skin patch) and placebo suppositories. Week 5 involves 100mcg/day transdermal Estradiol and active Progesterone suppositories (200mg vaginally twice/day). Followed by 1-2 weeks (weeks 6-7) washout period. Then crossover to 5 weeks (week 8-12) of Progesterone suppositories (200mg vaginally twice/day) and placebo patches.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2, Arm 2 - Progesterone, then estradiol</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>12 weeks of GnRH agonist treatment 3.75 mg given intramuscularly monthly. Additionally, 5 weeks of Progesterone suppositories (200mg vaginally twice/day) and placebo patches. Followed by 1-2 weeks (weeks 6-7) washout period. Then crossover to 4 weeks (weeks 8-11) of transdermal Estradiol (100mcg/day by skin patch) and placebo suppositories. Week 12 involves 100mcg/day transdermal Estradiol and active Progesterone suppositories (200mg vaginally twice/day).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Leuprolide Acetate 3.75</intervention_name>
+    <description>Eight to 12 weeks of GnRH agonist, Leuprolide Acetate 3.75 mg given intramuscularly monthly</description>
+    <arm_group_label>Phase 1 - Lupron</arm_group_label>
+    <arm_group_label>Phase 2, Arm 1 - Estradiol, then progesterone</arm_group_label>
+    <arm_group_label>Phase 2, Arm 2 - Progesterone, then estradiol</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Estradiol</intervention_name>
+    <description>Transdermal Estradiol, 100mcg/day by skin patch</description>
+    <arm_group_label>Phase 2, Arm 1 - Estradiol, then progesterone</arm_group_label>
+    <arm_group_label>Phase 2, Arm 2 - Progesterone, then estradiol</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Progesterone</intervention_name>
+    <description>Progesterone suppository, 200mg vaginally twice/day</description>
+    <arm_group_label>Phase 2, Arm 1 - Estradiol, then progesterone</arm_group_label>
+    <arm_group_label>Phase 2, Arm 2 - Progesterone, then estradiol</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo suppository</intervention_name>
+    <description>Placebo suppository twice daily</description>
+    <arm_group_label>Phase 2, Arm 1 - Estradiol, then progesterone</arm_group_label>
+    <arm_group_label>Phase 2, Arm 2 - Progesterone, then estradiol</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo patch</intervention_name>
+    <description>Placebo by skin patch</description>
+    <arm_group_label>Phase 2, Arm 1 - Estradiol, then progesterone</arm_group_label>
+    <arm_group_label>Phase 2, Arm 2 - Progesterone, then estradiol</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        -  INCLUSION CRITERIA:&#xD;
+&#xD;
+        Volunteers participating in this study will be women meeting the following criteria:&#xD;
+&#xD;
+        Between the ages of 18 and 50 years,&#xD;
+&#xD;
+        Not pregnant,&#xD;
+&#xD;
+        In good medical health,&#xD;
+&#xD;
+        Medication free,&#xD;
+&#xD;
+        No history of menstrual-related mood or behavioral disturbances.&#xD;
+&#xD;
+        Additionally, we will recruit a subsample of 20 asymptomatic women who will meet all&#xD;
+        inclusion and exclusion criteria in this protocol except they will have a history of a past&#xD;
+        major depressive episode.&#xD;
+&#xD;
+        Finally, a third sample of 10 women who meet all the inclusion and exclusion criteria&#xD;
+        listed above for this protocol will be recruited to establish the dose range of transdermal&#xD;
+        estrogen gel for this and related protocols (i.e., 90-M-0088 and 05-M-0059).&#xD;
+&#xD;
+        EXCLUSION CRITERIA:&#xD;
+&#xD;
+        The following conditions will constitute contraindications to treatment with hormonal&#xD;
+        therapy and will preclude a subject's participation in this protocol:&#xD;
+&#xD;
+        Current Axis I psychiatric diagnosis (with the exception of this women with a past major&#xD;
+        depression who will be studied on this protocol);&#xD;
+&#xD;
+        History consistent with endometriosis;&#xD;
+&#xD;
+        Diagnosis of ill-defined, obscure pelvic lesions, particularly undiagnosed ovarian&#xD;
+        enlargement;&#xD;
+&#xD;
+        Hepatic disease as manifested by abnormal liver function tests;&#xD;
+&#xD;
+        History of mammary carcinoma;&#xD;
+&#xD;
+        History of pulmonary embolism or phlebothrombosis;&#xD;
+&#xD;
+        Undiagnosed vaginal bleeding;&#xD;
+&#xD;
+        Porphyria;&#xD;
+&#xD;
+        Diabetes mellitus;&#xD;
+&#xD;
+        History of malignant melanoma;&#xD;
+&#xD;
+        Cholecystitis or pancreatitis;&#xD;
+&#xD;
+        Cardiovascular or renal disease;&#xD;
+&#xD;
+        Pregnancy;&#xD;
+&#xD;
+        Any woman meeting the Stages of Reproductive Aging Workshop Criteria (STRAW) for the&#xD;
+        perimenopause (129). Specifically, we will exclude any woman with an elevated plasma&#xD;
+        follicle stimulating hormone (FSH) level (greater than or equal to 14 IU/L) and with&#xD;
+        menstrual cycle variability of &gt; 7 days different from their normal cycle length.&#xD;
+&#xD;
+        National Institute of Mental Health (NIMH) employees/staff and their immediate family&#xD;
+        members will be excluded from the study per NIMH policy.&#xD;
+&#xD;
+        Subjects taking birth control pills will be excluded from the study.&#xD;
+&#xD;
+        Subjects taking diuretics, prostaglandin inhibitors, or pyridoxine (putative treatments for&#xD;
+        MRMD) will similarly be excluded from the study, as will patients taking psychotropic&#xD;
+        agents (e.g., lithium carbonate, tricyclic antidepressants).&#xD;
+&#xD;
+        All subjects will be required to use non-hormonal forms of birth control (e.g., barrier&#xD;
+        methods) to avoid pregnancy during this study.&#xD;
+&#xD;
+        Participants who have an active condition that places them at an increased risk for&#xD;
+        osteoporosis will be excluded from this protocol.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>50 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Peter J Schmidt, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Institute of Mental Health (NIMH)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>National Institutes of Health Clinical Center, 9000 Rockville Pike</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://clinicalstudies.info.nih.gov/cgi/detail.cgi?B_1992-M-0174.html</url>
+    <description>NIH Clinical Center Detailed Web Page</description>
+  </link>
+  <reference>
+    <citation>Schmidt PJ, Nieman LK, Danaceau MA, Adams LF, Rubinow DR. Differential behavioral effects of gonadal steroids in women with and in those without premenstrual syndrome. N Engl J Med. 1998 Jan 22;338(4):209-16.</citation>
+    <PMID>9435325</PMID>
+  </reference>
+  <reference>
+    <citation>Burgess LH, Handa RJ. Chronic estrogen-induced alterations in adrenocorticotropin and corticosterone secretion, and glucocorticoid receptor-mediated functions in female rats. Endocrinology. 1992 Sep;131(3):1261-9.</citation>
+    <PMID>1324155</PMID>
+  </reference>
+  <reference>
+    <citation>Berman KF, Schmidt PJ, Rubinow DR, Danaceau MA, Van Horn JD, Esposito G, Ostrem JL, Weinberger DR. Modulation of cognition-specific cortical activity by gonadal steroids: a positron-emission tomography study in women. Proc Natl Acad Sci U S A. 1997 Aug 5;94(16):8836-41.</citation>
+    <PMID>9238064</PMID>
+  </reference>
+  <verification_date>February 25, 2021</verification_date>
+  <study_first_submitted>November 3, 1999</study_first_submitted>
+  <study_first_submitted_qc>November 3, 1999</study_first_submitted_qc>
+  <study_first_posted type="Estimate">November 4, 1999</study_first_posted>
+  <results_first_submitted>December 17, 2021</results_first_submitted>
+  <results_first_submitted_qc>January 31, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">February 24, 2022</results_first_posted>
+  <last_update_submitted>February 28, 2022</last_update_submitted>
+  <last_update_submitted_qc>February 28, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 22, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Behavior</keyword>
+  <keyword>Brain Function</keyword>
+  <keyword>Progesterone</keyword>
+  <keyword>Central Nervous System Function</keyword>
+  <keyword>gonadotropin-releasing hormone (GnRH) Agonist</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Leuprolide</mesh_term>
+    <mesh_term>Estradiol</mesh_term>
+    <mesh_term>Progesterone</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>May 20, 2019</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/22/NCT00001322/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>4 participants were screen failures, 4 withdrew prior to start of study and 92 started and completed phase 1 the study. 10 participants did not proceed to phase 2 (crossover arm) of the study.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Phase 1 - Lupron</title>
+          <description>Eight to 12 weeks of GnRH agonist treatment 3.75 mg given intramuscularly monthly.</description>
+        </group>
+        <group group_id="P2">
+          <title>Phase 2, Arm 1 - Estradiol, Then Progesterone</title>
+          <description>12 weeks of GnRH agonist treatment 3.75 mg given intramuscularly monthly. Additionally, 4 weeks of transdermal Estradiol (100mcg/day by skin patch) and placebo suppositories. Week 5 involves 100mcg/day transdermal Estradiol and active Progesterone suppositories (200mg vaginally twice/day). Followed by 1-2 weeks (weeks 6-7) washout period. Then crossover to 5 weeks (week 8-12) of Progesterone suppositories (200mg vaginally twice/day) and placebo patches.</description>
+        </group>
+        <group group_id="P3">
+          <title>Phase 2, Arm 2 - Progesterone, Then Estradiol</title>
+          <description>12 weeks of GnRH agonist treatment 3.75 mg given intramuscularly monthly. Additionally, 5 weeks of Progesterone suppositories (200mg vaginally twice/day) and placebo patches. Followed by 1-2 weeks (weeks 6-7) washout period. Then crossover to 4 weeks (weeks 8-11) of transdermal Estradiol (100mcg/day by skin patch) and placebo suppositories. Week 12 involves 100mcg/day transdermal Estradiol and active Progesterone suppositories (200mg vaginally twice/day).</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Phase 1 - Lupron Only</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="92"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="92"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+        <period>
+          <title>Phase 2, Period 1 - Crossover Phase</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="42"/>
+                <participants group_id="P3" count="40"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="42"/>
+                <participants group_id="P3" count="40"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+        <period>
+          <title>Phase 2, Period 2 - Crossover Phase</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="42"/>
+                <participants group_id="P3" count="40"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="42"/>
+                <participants group_id="P3" count="40"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Phase 1 - Lupron</title>
+          <description>Eight to 12 weeks of GnRH agonist treatment 3.75 mg given intramuscularly monthly before randomization to estradiol or progesterone arm in the crossover phase of the study.</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="92"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="92"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="92"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="82"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="27"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="55"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Mean Beck Depression Inventory Score</title>
+        <description>The Beck Depression Inventory (BDI) is a 21-item, self-report rating inventory that measures the severity of symptoms accompanying depression. Each item has a minimum score of 0 and a maximum score of 3, with higher numbers consistent with more severe symptoms. The score of each item is summed to amount the overall BDI score, with a minimum score of 0 and a maximum score of 63. Higher BDI scores are consistent with more severe depression. Score of 16 or greater is consistent with clinical depression.&#xD;
+Each participant completed the BDI every 2 weeks during each of the study phases (i.e., GnRH agonist alone, estradiol and progesterone) throughout the 6-month study. Outcome measures reported consist of the average of two BDI scores from each phase of the study: the last 4 weeks of the GnRH agonist alone (phase 1), during the 4-week long estradiol phase (phase 2: weeks 2 and 4 of estradiol) and the 4-week long progesterone phase (phase 2: weeks 2 and 4 of progesterone).</description>
+        <time_frame>Phase 1: Weeks 6 and 8 or 10 and 12; Phase 2: Weeks 2 and 4 of estradiol or progesterone</time_frame>
+        <population>Analyses included comparison of mean BDI scores during each phase of the study</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Phase 1 - Lupron</title>
+            <description>Eight to 12 weeks of GnRH agonist treatment 3.75 mg given intramuscularly monthly.</description>
+          </group>
+          <group group_id="O2">
+            <title>Phase 2 - Estradiol</title>
+            <description>4 weeks of transdermal Estradiol (100mcg/day by skin patch) and placebo suppositories. Week 5 involves 100mcg/day transdermal Estradiol and active Progesterone suppositories (200mg vaginally twice/day).</description>
+          </group>
+          <group group_id="O3">
+            <title>Phase 2 - Progesterone</title>
+            <description>5 weeks of Progesterone suppositories (200mg vaginally twice/day) and placebo patches.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Mean Beck Depression Inventory Score</title>
+          <description>The Beck Depression Inventory (BDI) is a 21-item, self-report rating inventory that measures the severity of symptoms accompanying depression. Each item has a minimum score of 0 and a maximum score of 3, with higher numbers consistent with more severe symptoms. The score of each item is summed to amount the overall BDI score, with a minimum score of 0 and a maximum score of 63. Higher BDI scores are consistent with more severe depression. Score of 16 or greater is consistent with clinical depression.&#xD;
+Each participant completed the BDI every 2 weeks during each of the study phases (i.e., GnRH agonist alone, estradiol and progesterone) throughout the 6-month study. Outcome measures reported consist of the average of two BDI scores from each phase of the study: the last 4 weeks of the GnRH agonist alone (phase 1), during the 4-week long estradiol phase (phase 2: weeks 2 and 4 of estradiol) and the 4-week long progesterone phase (phase 2: weeks 2 and 4 of progesterone).</description>
+          <population>Analyses included comparison of mean BDI scores during each phase of the study</population>
+          <units>Units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="92"/>
+                <count group_id="O2" value="82"/>
+                <count group_id="O3" value="82"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.4" spread="2.1"/>
+                    <measurement group_id="O2" value="1" spread="2"/>
+                    <measurement group_id="O3" value="1.1" spread="1.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>6 months</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Lupron</title>
+          <description>Eight to 12 weeks of GnRH agonist treatment 3.75 mg given intramuscularly monthly.</description>
+        </group>
+        <group group_id="E2">
+          <title>Phase 2 - Estradiol</title>
+          <description>4 weeks of transdermal Estradiol (100mcg/day by skin patch)</description>
+        </group>
+        <group group_id="E3">
+          <title>Phase 2 - Progesterone</title>
+          <description>5 weeks of Progesterone suppositories (200mg vaginally twice/day)</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="92"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="82"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="82"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="92"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="82"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="82"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Reproductive system and breast disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Breast fibroma</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="92"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="82"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="82"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="92"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="82"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="82"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Epigastric discomfort</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="92"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="82"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="82"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pain in extremity</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="92"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="82"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="82"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Schmidt, Peter</name_or_title>
+      <organization>National Institute of Mental Health</organization>
+      <phone>+1 301 496 6120</phone>
+      <email>peterschmidt@mail.nih.gov</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

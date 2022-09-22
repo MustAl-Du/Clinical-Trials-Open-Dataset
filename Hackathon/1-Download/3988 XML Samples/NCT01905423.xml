@@ -1,0 +1,1555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2133">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01905423</url>
+  </required_header>
+  <id_info>
+    <org_study_id>201103313</org_study_id>
+    <nct_id>NCT01905423</nct_id>
+  </id_info>
+  <brief_title>Optimization of Mass Drug Administration With Existing Drug Regimens for Lymphatic Filariasis and Onchocerciasis</brief_title>
+  <acronym>DOLF-Indo</acronym>
+  <official_title>Optimization of Mass Drug Administration With Existing Drug Regimens for Lymphatic Filariasis and Onchocerciasis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Washington University School of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Washington University School of Medicine</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Approximately 3,500 people will participate per year. The study population will include&#xD;
+      females and males over 5 years of age who live in filariasis endemic areas. The study will be&#xD;
+      performed in Indonesia in B. timori and W. bancrofti endemic areas over a period of 4 years.&#xD;
+      Participants will be studied only once in cross-sectional surveys. Some subjects may be&#xD;
+      included in more than one annual population survey, but this is not a longitudinal study.&#xD;
+      Purpose of the study is to evaluate different mass drug administration (MDA) regimens for&#xD;
+      lymphatic filariasis and also to study the impact of MDA on soil transmitted helminth&#xD;
+      infections (STH). MDA will administered by others (e.g., Ministry of Health). Results of this&#xD;
+      study may enhance efforts to control and eliminate these important neglected tropical&#xD;
+      diseases.&#xD;
+&#xD;
+      The investigators will test the hypothesis that accelerated mass drug administration will be&#xD;
+      superior to annual MDA for elimination of lymphatic filariasis and for control of soil&#xD;
+      transmitted helminth infections (STH):&#xD;
+&#xD;
+        1. Compare the relative impact and cost effectiveness of annual vs. twice yearly mass drug&#xD;
+           administration (MDA) for elimination of lymphatic filariasis (LF).&#xD;
+&#xD;
+        2. Study the impact of annual vs. semiannual MDA on soil transmitted helminth (STH)&#xD;
+           infection in these populations.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Lymphatic filariasis (LF) is a deforming and disabling infectious disease that causes&#xD;
+      elephantiasis and genital deformity (especially hydroceles). The infection affects some 120&#xD;
+      million people in 81 countries in tropical and subtropical regions with well over 1 billion&#xD;
+      people at risk of acquiring the disease. LF is caused by Wuchereria bancrofti and Brugia spp.&#xD;
+      (B. malayi and B.timori), nematode parasites that are transmitted by mosquitoes. This study&#xD;
+      is based on the assumption that currently used mass drug administration (MDA) regimens and&#xD;
+      schedules are not optimal for achieving elimination of LF. These regimens (either annual&#xD;
+      Albendazole (Alb) 400 mg plus diethylcarbamazine (DEC) 6 mg/kg or Alb 400 mg plus ivermectin&#xD;
+      (Iver) 200 µg/kg for LF) were developed more than 10 years ago.&#xD;
+&#xD;
+      Drugs used for LF MDA are also active against soil transmitted helminth infections (STH,&#xD;
+      e.g., Ascaris, Hookworm, and Trichuris). De-worming campaigns using anthelminthics usually&#xD;
+      target special groups of the population, such as schoolchildren, and have limited impact on&#xD;
+      the transmission. Treatment of the total population and semiannual treatments may reduce&#xD;
+      re-infection considerably and will most likely lead to reduced infection densities and&#xD;
+      infection prevalences. Suppression of STH is an important ancillary benefit of MDA programs&#xD;
+      for filarial infections.&#xD;
+&#xD;
+      Purpose: The study aims to compare the effectiveness once yearly (1X) versus twice yearly&#xD;
+      (2X) mass drug administration (MDA) for the elimination of lymphatic filariasis and for&#xD;
+      control of soil-transmitted helminths (intestinal parasites) in large populations. Mass drug&#xD;
+      administration will be provided by the Indonesia Ministry of Health. This project will assess&#xD;
+      the impact of the public health program.&#xD;
+&#xD;
+      Procedures: Study procedures include collection of finger prick blood that will be tested for&#xD;
+      microfilaremia and for serology testing (antigenemia and antibody testing). Stool samples&#xD;
+      will be collected to detect STH infections. All assays will be performed in Indonesia&#xD;
+      (filarial serology tests, blood smears for detection of microfilariae (MF), and stool&#xD;
+      examinations for detection of worm eggs).&#xD;
+&#xD;
+      Washington University researchers developed the protocol, will provide training and guidance&#xD;
+      to Indonesian researchers, and work with them to analyze the data. Indonesian researchers&#xD;
+      will consent the participants, obtain stool and blood specimens, perform laboratory tests on&#xD;
+      the specimens, and enter data on participants and lab results.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 2011</start_date>
+  <completion_date type="Actual">December 2015</completion_date>
+  <primary_completion_date type="Actual">March 2015</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Ecologic or Community</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Prevalence of Microfilaria in Blood as Determined by Microscopy of Participant Blood</measure>
+    <time_frame>3 years</time_frame>
+    <description>Microfilariae (filarial parasites) will be detected in blood smears by microscopy. Samples will be collected in annual and semiannual community surveys. Prevalence rates (a measure of the disease rates in the population sampled) are expressed as % positive for microfilaremia (having microfilaria in the blood).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Prevalence of Positive Brugia Rapid Antifilarial Antibody Tests</measure>
+    <time_frame>3 years</time_frame>
+    <description>This outcome is reported as the frequency of participants with positive Brugia Rapid antifilarial antibody tests. Data was only collected at baseline and at year 3 for this outcome measure and no antibody data was collected for the Pekalongan study sites.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prevalence of Circulating Filarial Antigen in Blood as Determined by ICT Card Test</measure>
+    <time_frame>3 years</time_frame>
+    <description>Prevalence of filarial antigenemia (detected with the Binax Filariasis Now card test &quot;ICT&quot; card test) among the population surveyed. Prevalence data are expressed as %.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prevalence of Ascaris Infection</measure>
+    <time_frame>2 Years</time_frame>
+    <description>Prevalence of Ascaris infection is defined by the number of participants with any Ascaris worm eggs present in their stool sample as analyzed with microscopy.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prevalence of Hookworm Infection</measure>
+    <time_frame>2 years</time_frame>
+    <description>Prevalence of hookworm infection is defined by the number of participants with any hookworm eggs present in their stool sample as analyzed with microscopy.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prevalence of Trichuris Infection</measure>
+    <time_frame>2 years</time_frame>
+    <description>Prevalence of trichuris infection is defined by the number of participants with any trichuris worm eggs present in their stool sample as analyzed with microscopy.</description>
+  </secondary_outcome>
+  <number_of_groups>5</number_of_groups>
+  <enrollment type="Actual">17108</enrollment>
+  <condition>Lymphatic Filariasis</condition>
+  <condition>Soil Transmitted Helminth Infections</condition>
+  <arm_group>
+    <arm_group_label>Paga (annual MDA)</arm_group_label>
+    <description>This group includes eligible residents of the village of Paga. This cohort will receive once yearly MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will be administered by the Indonesian Ministry of Health as part of their national filariasis elimination program.&#xD;
+Paga received a total of three rounds of MDA over a period of 24 months (once every 12 months).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Lewomada (annual MDA)</arm_group_label>
+    <description>This group includes eligible residents of the village of Lewomada. This cohort will receive once yearly MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will be administered by the Indonesian Ministry of Health as part of their national filariasis elimination program.&#xD;
+Lewomada received a total of three rounds of MDA over a period of 24 months (once every 12 months).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Pruda (semiannual MDA)</arm_group_label>
+    <description>This group includes eligible residents of the village of Pruda. This cohort will receive twice yearly MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will also be administered by the Indonesian Ministry of Health.&#xD;
+Pruda received a total of five rounds of MDA over a period of 24 months (once every 6 months).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Pekalongan (annual MDA)</arm_group_label>
+    <description>This group includes the villages of Banyurip Ageng and Jenggot. This cohort will receive once yearly MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will be administered by the Indonesian Ministry of Health as part of their national filariasis elimination program.&#xD;
+Pekalongan study sites were dropped after the first year follow-up due to lower than expected rates of lymphatic filariasis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Pekalongan (semiannual MDA)</arm_group_label>
+    <description>This group includes the villages of Kertoharjo and Pabean. This cohort will receive twice yearly MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will also be administered by the Indonesian Ministry of Health.&#xD;
+Pekalongan study sites were dropped after the first year follow-up due to lower than expected rates of lymphatic filariasis.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Albendazole (annual)</intervention_name>
+    <description>Albendazole 400 mg pnce annually</description>
+    <arm_group_label>Lewomada (annual MDA)</arm_group_label>
+    <arm_group_label>Paga (annual MDA)</arm_group_label>
+    <arm_group_label>Pekalongan (annual MDA)</arm_group_label>
+    <other_name>Albenza (Albendazole, also known as ALB)</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Diethylcarbamazine (annual)</intervention_name>
+    <description>Diethylcarbamazine 6 mg/kg once annually</description>
+    <arm_group_label>Lewomada (annual MDA)</arm_group_label>
+    <arm_group_label>Paga (annual MDA)</arm_group_label>
+    <arm_group_label>Pekalongan (annual MDA)</arm_group_label>
+    <other_name>Diethylcarbamazine, Also known as DEC, (N, N-diethyl-4-methyl-1-piperazine carboxamide dihydrogen citrate). ATC Code: P02CB02 QP52AH02</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Albendazole (semiannual)</intervention_name>
+    <description>Albendazole 400 mg twice annually</description>
+    <arm_group_label>Pekalongan (semiannual MDA)</arm_group_label>
+    <arm_group_label>Pruda (semiannual MDA)</arm_group_label>
+    <other_name>Albenza (Albendazole, also known as ALB)</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Diethylcarbamazine (semiannual)</intervention_name>
+    <description>Diethylcarbamazine 6 mg/kg twice annually</description>
+    <arm_group_label>Pekalongan (semiannual MDA)</arm_group_label>
+    <arm_group_label>Pruda (semiannual MDA)</arm_group_label>
+    <other_name>Diethylcarbamazine, Also known as DEC, (N, N-diethyl-4-methyl-1-piperazine carboxamide dihydrogen citrate). ATC Code: P02CB02 QP52AH02</other_name>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Study procedures include collection of finger prick blood that will be tested for&#xD;
+      microfilaremia and for serology testing (antigenemia and antibody testing). We will also&#xD;
+      collect stool samples to detect STH infections.&#xD;
+&#xD;
+      All assays will be performed in Indonesia (filarial serology tests, MF smears, stool&#xD;
+      examinations).&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study populations are people who live in areas of Indonesia that are endemic for&#xD;
+        lymphatic filariasis.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Areas should be endemic for filariasis and have limited or no prior experience with&#xD;
+             MDA. Males and Females greater than or equal to 5 years of age.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Children less than 5 years of age.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>5 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Peter U Fischer, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Washington University School of Medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Gary J Weil, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Washington University School of Medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Taniawati Supali, Ph.D.</last_name>
+    <role>Study Director</role>
+    <affiliation>Indonesia University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Indonesia, Department of Parasitology</name>
+      <address>
+        <city>Jakarta</city>
+        <state>Java</state>
+        <zip>10430</zip>
+        <country>Indonesia</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Indonesia</country>
+  </location_countries>
+  <link>
+    <url>http://www.dolf.wustl.edu/</url>
+    <description>Death to Onchocerciasis and Lymphatic Filariasis (DOLF)</description>
+  </link>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>April 11, 2012</study_first_submitted>
+  <study_first_submitted_qc>July 18, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">July 23, 2013</study_first_posted>
+  <results_first_submitted>May 24, 2017</results_first_submitted>
+  <results_first_submitted_qc>May 24, 2017</results_first_submitted_qc>
+  <results_first_posted type="Actual">October 16, 2017</results_first_posted>
+  <last_update_submitted>October 26, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 26, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 17, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Washington University School of Medicine</investigator_affiliation>
+    <investigator_full_name>Gary Weil, MD</investigator_full_name>
+    <investigator_title>Professor of Medicine/ Microbiology</investigator_title>
+  </responsible_party>
+  <keyword>Filariasis</keyword>
+  <keyword>Albendazole</keyword>
+  <keyword>Diethylcarbamazine</keyword>
+  <keyword>STH Soil Transmitted Helminths</keyword>
+  <keyword>MDA Mass Drug Administration</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Filariasis</mesh_term>
+    <mesh_term>Elephantiasis, Filarial</mesh_term>
+    <mesh_term>Helminthiasis</mesh_term>
+    <mesh_term>Onchocerciasis</mesh_term>
+    <mesh_term>Elephantiasis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Albendazole</mesh_term>
+    <mesh_term>Diethylcarbamazine</mesh_term>
+    <mesh_term>Piperazine</mesh_term>
+    <mesh_term>Mebendazole</mesh_term>
+    <mesh_term>Piperazine citrate</mesh_term>
+    <mesh_term>Citric Acid</mesh_term>
+    <mesh_term>Sodium Citrate</mesh_term>
+    <mesh_term>DMP 777</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>December 31, 2013</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/23/NCT01905423/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>This was a cross-sectional study. The final end points of the study are measures of community prevalence. Participant involvement in the study ended after each survey period. Participants were not followed across survey periods, but could be and were likely recruited into more than one survey period.</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Paga (1x Annual MDA)</title>
+          <description>The village of Paga received once annual MDA for a total of 3 rounds over 24 months.</description>
+        </group>
+        <group group_id="P2">
+          <title>Lewomada (1x Annual MDA)</title>
+          <description>Village of Lewomada received once annual MDA for a total of 3 rounds over 24 months.</description>
+        </group>
+        <group group_id="P3">
+          <title>Pruda (2x Annual MDA)</title>
+          <description>The village of Pruda received twice annual MDA for a total of 5 rounds over 24 months.</description>
+        </group>
+        <group group_id="P4">
+          <title>Pekalongan (1x Annual MDA)</title>
+          <description>The Pekalongan study site was dropped from further analysis after the first year follow-up due to lower than expected prevalence of lymphatic filariasis infections. Baseline and year 1 follow-up results are presented separately from the other study sites. This group received one round of MDA and was surveyed one year later.</description>
+        </group>
+        <group group_id="P5">
+          <title>Pekalongan (2x Annual MDA)</title>
+          <description>The Pekalongan study site was dropped from further analysis after the first year follow-up due to lower than expected prevalence of lymphatic filariasis infections. Baseline and year 1 follow-up results are presented separately from the other study sites. This group received two rounds of MDA and was surveyed one year later.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="4456"/>
+                <participants group_id="P2" count="3297"/>
+                <participants group_id="P3" count="4111"/>
+                <participants group_id="P4" count="2757"/>
+                <participants group_id="P5" count="2487"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Baseline</title>
+              <participants_list>
+                <participants group_id="P1" count="1443"/>
+                <participants group_id="P2" count="722"/>
+                <participants group_id="P3" count="1033"/>
+                <participants group_id="P4" count="1482"/>
+                <participants group_id="P5" count="1326"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Year 1 Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="994"/>
+                <participants group_id="P2" count="846"/>
+                <participants group_id="P3" count="1007"/>
+                <participants group_id="P4" count="1275"/>
+                <participants group_id="P5" count="1161"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Year 2 Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="1114"/>
+                <participants group_id="P2" count="858"/>
+                <participants group_id="P3" count="1043"/>
+                <participants group_id="P4" count="0"/>
+                <participants group_id="P5" count="0"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Year 3 Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="905"/>
+                <participants group_id="P2" count="871"/>
+                <participants group_id="P3" count="1028"/>
+                <participants group_id="P4" count="0"/>
+                <participants group_id="P5" count="0"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="4456"/>
+                <participants group_id="P2" count="3297"/>
+                <participants group_id="P3" count="4111"/>
+                <participants group_id="P4" count="2757"/>
+                <participants group_id="P5" count="2487"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+                <participants group_id="P5" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>The Number of Baseline Participants that is reported is actually the total number of participants surveyed before the first round of treatment. This is a cross-sectional study. The Pekalongan study site was dropped from further study following the first year follow-up due to lower than expected prevalence of lymphatic filariasis infections.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Annual MDA Treated Group (Paga)</title>
+          <description>This group will receive annual MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will be administered by the Indonesian Ministry of Health as part of their national filariasis elimination program.&#xD;
+Albendazole and diethylcarbamazine: Albendazole 400 mg plus diethylcarbamazine 6 mg/kg once yearly vs twice yearly</description>
+        </group>
+        <group group_id="B2">
+          <title>Annual MDA Treated Group (Lewomada)</title>
+          <description>This group will receive annual MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will be administered by the Indonesian Ministry of Health as part of their national filariasis elimination program.&#xD;
+Albendazole and diethylcarbamazine: Albendazole 400 mg plus diethylcarbamazine 6 mg/kg once yearly vs twice yearly</description>
+        </group>
+        <group group_id="B3">
+          <title>Semiannual MDA Treated Group</title>
+          <description>This group will receive semiannual MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will also be administered by the Indonesian Ministry of Health.&#xD;
+Albendazole and diethylcarbamazine: Albendazole 400 mg plus diethylcarbamazine 6 mg/kg once yearly vs twice yearly</description>
+        </group>
+        <group group_id="B4">
+          <title>Annual MDA Treated Group (Pekalongan)</title>
+          <description>The Pekalongan study site was dropped from further analysis after the first year follow-up due to lower than expected prevalence of lymphatic filariasis infections. Baseline and year 1 follow-up results are presented separately from the other study sites.&#xD;
+This group will receive annual MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will be administered by the Indonesian Ministry of Health as part of their national filariasis elimination program.&#xD;
+Albendazole and diethylcarbamazine: Albendazole 400 mg plus diethylcarbamazine 6 mg/kg once yearly vs twice yearly</description>
+        </group>
+        <group group_id="B5">
+          <title>Semiannual MDA Treated Group (Pekalongan)</title>
+          <description>The Pekalongan study site was dropped from further analysis after the first year follow-up due to lower than expected prevalence of lymphatic filariasis infections. Baseline and year 1 follow-up results are presented separately from the other study sites.&#xD;
+This group will receive semiannual MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will also be administered by the Indonesian Ministry of Health.&#xD;
+Albendazole and diethylcarbamazine: Albendazole 400 mg plus diethylcarbamazine 6 mg/kg once yearly vs twice yearly</description>
+        </group>
+        <group group_id="B6">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="1443"/>
+            <count group_id="B2" value="722"/>
+            <count group_id="B3" value="1033"/>
+            <count group_id="B4" value="1482"/>
+            <count group_id="B5" value="1326"/>
+            <count group_id="B6" value="6006"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Age at Baseline (pre-MDA)</title>
+              <category_list>
+                <category>
+                  <title>15 years and younger</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="597"/>
+                    <measurement group_id="B2" value="285"/>
+                    <measurement group_id="B3" value="374"/>
+                    <measurement group_id="B4" value="353"/>
+                    <measurement group_id="B5" value="372"/>
+                    <measurement group_id="B6" value="1981"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Older than 15</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="794"/>
+                    <measurement group_id="B2" value="437"/>
+                    <measurement group_id="B3" value="653"/>
+                    <measurement group_id="B4" value="1129"/>
+                    <measurement group_id="B5" value="954"/>
+                    <measurement group_id="B6" value="3967"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Age unknown</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="52"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="6"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="58"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex/Gender, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Gender at Baseline (pre-MDA)</title>
+              <category_list>
+                <category>
+                  <title>Females</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="897"/>
+                    <measurement group_id="B2" value="411"/>
+                    <measurement group_id="B3" value="545"/>
+                    <measurement group_id="B4" value="816"/>
+                    <measurement group_id="B5" value="721"/>
+                    <measurement group_id="B6" value="3390"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Males</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="546"/>
+                    <measurement group_id="B2" value="311"/>
+                    <measurement group_id="B3" value="488"/>
+                    <measurement group_id="B4" value="666"/>
+                    <measurement group_id="B5" value="605"/>
+                    <measurement group_id="B6" value="2616"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Gender unknown</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Prevalence of Microfilaria in Blood as Determined by Microscopy of Participant Blood</title>
+        <description>Microfilariae (filarial parasites) will be detected in blood smears by microscopy. Samples will be collected in annual and semiannual community surveys. Prevalence rates (a measure of the disease rates in the population sampled) are expressed as % positive for microfilaremia (having microfilaria in the blood).</description>
+        <time_frame>3 years</time_frame>
+        <population>The Pekalongan study sites were dropped after the first year due to lower than expected prevalence of lymphatic filariasis infections. The overall number of participants analyzed for each group may be slightly less than the total sample size for that group due to the fact that not all data was collected for all participants.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Paga (1x Annual MDA)</title>
+            <description>Participants from this village receive annual MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will be administered by the Indonesian Ministry of Health as part of their national filariasis elimination program.&#xD;
+Albendazole and diethylcarbamazine Annual: Albendazole and diethylcarbamazine Annual Albendazole 400 mg plus diethylcarbamazine 6 mg/kg once yearly</description>
+          </group>
+          <group group_id="O2">
+            <title>Lewomada (1x Annual MDA)</title>
+            <description>Participants from this village receive annual MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will be administered by the Indonesian Ministry of Health as part of their national filariasis elimination program.&#xD;
+Albendazole and diethylcarbamazine Annual: Albendazole and diethylcarbamazine Annual Albendazole 400 mg plus diethylcarbamazine 6 mg/kg once yearly</description>
+          </group>
+          <group group_id="O3">
+            <title>Pruda (2x Annual MDA)</title>
+            <description>Participants from this village receive semiannual MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will also be administered by the Indonesian Ministry of Health.&#xD;
+Albendazole and diethylcarbamazine Semiannual: Albendazole and diethylcarbamazine Semiannual Albendazole 400 mg plus diethylcarbamazine 6 mg/kg twice yearly</description>
+          </group>
+          <group group_id="O4">
+            <title>Pekalongan (1x Annual MDA)</title>
+            <description>Participants from this village receive annual MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will be administered by the Indonesian Ministry of Health as part of their national filariasis elimination program.&#xD;
+Albendazole and diethylcarbamazine Annual: Albendazole and diethylcarbamazine Annual Albendazole 400 mg plus diethylcarbamazine 6 mg/kg once yearly</description>
+          </group>
+          <group group_id="O5">
+            <title>Pekalongan (2x Annual MDA)</title>
+            <description>Participants from this village receive annual MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will be administered by the Indonesian Ministry of Health as part of their national filariasis elimination program.&#xD;
+Albendazole and diethylcarbamazine Annual: Albendazole and diethylcarbamazine Annual Albendazole 400 mg plus diethylcarbamazine 6 mg/kg once yearly</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Prevalence of Microfilaria in Blood as Determined by Microscopy of Participant Blood</title>
+          <description>Microfilariae (filarial parasites) will be detected in blood smears by microscopy. Samples will be collected in annual and semiannual community surveys. Prevalence rates (a measure of the disease rates in the population sampled) are expressed as % positive for microfilaremia (having microfilaria in the blood).</description>
+          <population>The Pekalongan study sites were dropped after the first year due to lower than expected prevalence of lymphatic filariasis infections. The overall number of participants analyzed for each group may be slightly less than the total sample size for that group due to the fact that not all data was collected for all participants.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="4401"/>
+                <count group_id="O2" value="3297"/>
+                <count group_id="O3" value="4079"/>
+                <count group_id="O4" value="2730"/>
+                <count group_id="O5" value="2427"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline (pre-MDA)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1391"/>
+                    <count group_id="O2" value="722"/>
+                    <count group_id="O3" value="1027"/>
+                    <count group_id="O4" value="1455"/>
+                    <count group_id="O5" value="1266"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="54"/>
+                    <measurement group_id="O2" value="36"/>
+                    <measurement group_id="O3" value="146"/>
+                    <measurement group_id="O4" value="46"/>
+                    <measurement group_id="O5" value="45"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Year 1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="994"/>
+                    <count group_id="O2" value="846"/>
+                    <count group_id="O3" value="982"/>
+                    <count group_id="O4" value="1275"/>
+                    <count group_id="O5" value="1161"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="11"/>
+                    <measurement group_id="O2" value="9"/>
+                    <measurement group_id="O3" value="37"/>
+                    <measurement group_id="O4" value="28"/>
+                    <measurement group_id="O5" value="30"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Year 2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1114"/>
+                    <count group_id="O2" value="858"/>
+                    <count group_id="O3" value="1043"/>
+                    <count group_id="O4" value="0"/>
+                    <count group_id="O5" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                    <measurement group_id="O2" value="6"/>
+                    <measurement group_id="O3" value="15"/>
+                    <measurement group_id="O4" value="0"/>
+                    <measurement group_id="O5" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Year 3</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="902"/>
+                    <count group_id="O2" value="871"/>
+                    <count group_id="O3" value="1027"/>
+                    <count group_id="O4" value="0"/>
+                    <count group_id="O5" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="3"/>
+                    <measurement group_id="O3" value="12"/>
+                    <measurement group_id="O4" value="0"/>
+                    <measurement group_id="O5" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Prevalence of Positive Brugia Rapid Antifilarial Antibody Tests</title>
+        <description>This outcome is reported as the frequency of participants with positive Brugia Rapid antifilarial antibody tests. Data was only collected at baseline and at year 3 for this outcome measure and no antibody data was collected for the Pekalongan study sites.</description>
+        <time_frame>3 years</time_frame>
+        <population>This outcome data was only collected at baseline and at year 3 for Paga &amp; Pruda and no antibody data was collected at all for the Pekalongan study sites. The overall number of participants analyzed for each group may be less than the total sample size for that group due to the fact that not all data was collected for all participants.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Paga (1x Annual MDA)</title>
+            <description>Participants from this village receive annual MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will be administered by the Indonesian Ministry of Health as part of their national filariasis elimination program.&#xD;
+Albendazole and diethylcarbamazine Annual: Albendazole and diethylcarbamazine Annual Albendazole 400 mg plus diethylcarbamazine 6 mg/kg once yearly</description>
+          </group>
+          <group group_id="O2">
+            <title>Lewomada (1x Annual MDA)</title>
+            <description>Participants from this village receive annual MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will be administered by the Indonesian Ministry of Health as part of their national filariasis elimination program.&#xD;
+Albendazole and diethylcarbamazine Annual: Albendazole and diethylcarbamazine Annual Albendazole 400 mg plus diethylcarbamazine 6 mg/kg once yearly</description>
+          </group>
+          <group group_id="O3">
+            <title>Pruda (2x Annual MDA)</title>
+            <description>Participants from this village receive semiannual MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will also be administered by the Indonesian Ministry of Health.&#xD;
+Albendazole and diethylcarbamazine Semiannual: Albendazole and diethylcarbamazine Semiannual Albendazole 400 mg plus diethylcarbamazine 6 mg/kg twice yearly</description>
+          </group>
+          <group group_id="O4">
+            <title>Pekalongan (1x Annual MDA)</title>
+            <description>Participants from this village receive annual MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will be administered by the Indonesian Ministry of Health as part of their national filariasis elimination program.&#xD;
+Albendazole and diethylcarbamazine Annual: Albendazole and diethylcarbamazine Annual Albendazole 400 mg plus diethylcarbamazine 6 mg/kg once yearly</description>
+          </group>
+          <group group_id="O5">
+            <title>Pekalongan (2x Annual MDA)</title>
+            <description>Participants from this village receive annual MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will be administered by the Indonesian Ministry of Health as part of their national filariasis elimination program.&#xD;
+Albendazole and diethylcarbamazine Annual: Albendazole and diethylcarbamazine Annual Albendazole 400 mg plus diethylcarbamazine 6 mg/kg once yearly</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Prevalence of Positive Brugia Rapid Antifilarial Antibody Tests</title>
+          <description>This outcome is reported as the frequency of participants with positive Brugia Rapid antifilarial antibody tests. Data was only collected at baseline and at year 3 for this outcome measure and no antibody data was collected for the Pekalongan study sites.</description>
+          <population>This outcome data was only collected at baseline and at year 3 for Paga &amp; Pruda and no antibody data was collected at all for the Pekalongan study sites. The overall number of participants analyzed for each group may be less than the total sample size for that group due to the fact that not all data was collected for all participants.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="2308"/>
+                <count group_id="O2" value="3297"/>
+                <count group_id="O3" value="2054"/>
+                <count group_id="O4" value="0"/>
+                <count group_id="O5" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1403"/>
+                    <count group_id="O2" value="722"/>
+                    <count group_id="O3" value="1027"/>
+                    <count group_id="O4" value="0"/>
+                    <count group_id="O5" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="175"/>
+                    <measurement group_id="O2" value="229"/>
+                    <measurement group_id="O3" value="297"/>
+                    <measurement group_id="O4" value="0"/>
+                    <measurement group_id="O5" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Year 1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="0"/>
+                    <count group_id="O2" value="846"/>
+                    <count group_id="O3" value="0"/>
+                    <count group_id="O4" value="0"/>
+                    <count group_id="O5" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="168"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                    <measurement group_id="O5" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Year 2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="0"/>
+                    <count group_id="O2" value="858"/>
+                    <count group_id="O3" value="0"/>
+                    <count group_id="O4" value="0"/>
+                    <count group_id="O5" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="134"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                    <measurement group_id="O5" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Year 3</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="905"/>
+                    <count group_id="O2" value="871"/>
+                    <count group_id="O3" value="1027"/>
+                    <count group_id="O4" value="0"/>
+                    <count group_id="O5" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="16"/>
+                    <measurement group_id="O2" value="36"/>
+                    <measurement group_id="O3" value="37"/>
+                    <measurement group_id="O4" value="0"/>
+                    <measurement group_id="O5" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Prevalence of Circulating Filarial Antigen in Blood as Determined by ICT Card Test</title>
+        <description>Prevalence of filarial antigenemia (detected with the Binax Filariasis Now card test &quot;ICT&quot; card test) among the population surveyed. Prevalence data are expressed as %.</description>
+        <time_frame>3 years</time_frame>
+        <population>This outcome data was not collected for Paga at year 3 or for Pekalongan sites after year 1 (Pekalongan study site was dropped completely after year 1). The overall number of participants analyzed for each group may be less than the total sample size for that group due to the fact that not all data was collected for all participants.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Paga (1x Annual MDA)</title>
+            <description>Participants from this village receive annual MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will be administered by the Indonesian Ministry of Health as part of their national filariasis elimination program.&#xD;
+Albendazole and diethylcarbamazine Annual: Albendazole and diethylcarbamazine Annual Albendazole 400 mg plus diethylcarbamazine 6 mg/kg once yearly</description>
+          </group>
+          <group group_id="O2">
+            <title>Lewomada (1x Annual MDA)</title>
+            <description>Participants from this village receive annual MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will be administered by the Indonesian Ministry of Health as part of their national filariasis elimination program.&#xD;
+Albendazole and diethylcarbamazine Annual: Albendazole and diethylcarbamazine Annual Albendazole 400 mg plus diethylcarbamazine 6 mg/kg once yearly</description>
+          </group>
+          <group group_id="O3">
+            <title>Pruda (2x Annual MDA)</title>
+            <description>Participants from this village receive semiannual MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will also be administered by the Indonesian Ministry of Health.&#xD;
+Albendazole and diethylcarbamazine Semiannual: Albendazole and diethylcarbamazine Semiannual Albendazole 400 mg plus diethylcarbamazine 6 mg/kg twice yearly</description>
+          </group>
+          <group group_id="O4">
+            <title>Pekalongan (1x Annual MDA)</title>
+            <description>Participants from this village receive annual MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will be administered by the Indonesian Ministry of Health as part of their national filariasis elimination program.&#xD;
+Albendazole and diethylcarbamazine Annual: Albendazole and diethylcarbamazine Annual Albendazole 400 mg plus diethylcarbamazine 6 mg/kg once yearly</description>
+          </group>
+          <group group_id="O5">
+            <title>Pekalongan (2x Annual MDA)</title>
+            <description>Participants from this village receive annual MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will be administered by the Indonesian Ministry of Health as part of their national filariasis elimination program.&#xD;
+Albendazole and diethylcarbamazine Annual: Albendazole and diethylcarbamazine Annual Albendazole 400 mg plus diethylcarbamazine 6 mg/kg once yearly</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Prevalence of Circulating Filarial Antigen in Blood as Determined by ICT Card Test</title>
+          <description>Prevalence of filarial antigenemia (detected with the Binax Filariasis Now card test &quot;ICT&quot; card test) among the population surveyed. Prevalence data are expressed as %.</description>
+          <population>This outcome data was not collected for Paga at year 3 or for Pekalongan sites after year 1 (Pekalongan study site was dropped completely after year 1). The overall number of participants analyzed for each group may be less than the total sample size for that group due to the fact that not all data was collected for all participants.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="3511"/>
+                <count group_id="O2" value="3297"/>
+                <count group_id="O3" value="4095"/>
+                <count group_id="O4" value="2696"/>
+                <count group_id="O5" value="2407"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1403"/>
+                    <count group_id="O2" value="722"/>
+                    <count group_id="O3" value="1027"/>
+                    <count group_id="O4" value="1448"/>
+                    <count group_id="O5" value="1285"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="14"/>
+                    <measurement group_id="O2" value="47"/>
+                    <measurement group_id="O3" value="235"/>
+                    <measurement group_id="O4" value="118"/>
+                    <measurement group_id="O5" value="102"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Year 1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="994"/>
+                    <count group_id="O2" value="846"/>
+                    <count group_id="O3" value="998"/>
+                    <count group_id="O4" value="1248"/>
+                    <count group_id="O5" value="1122"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="12"/>
+                    <measurement group_id="O3" value="91"/>
+                    <measurement group_id="O4" value="51"/>
+                    <measurement group_id="O5" value="63"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Year 2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1114"/>
+                    <count group_id="O2" value="858"/>
+                    <count group_id="O3" value="1043"/>
+                    <count group_id="O4" value="0"/>
+                    <count group_id="O5" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="13"/>
+                    <measurement group_id="O3" value="106"/>
+                    <measurement group_id="O4" value="0"/>
+                    <measurement group_id="O5" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Year 3</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="0"/>
+                    <count group_id="O2" value="871"/>
+                    <count group_id="O3" value="1027"/>
+                    <count group_id="O4" value="0"/>
+                    <count group_id="O5" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="36"/>
+                    <measurement group_id="O3" value="72"/>
+                    <measurement group_id="O4" value="0"/>
+                    <measurement group_id="O5" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Prevalence of Ascaris Infection</title>
+        <description>Prevalence of Ascaris infection is defined by the number of participants with any Ascaris worm eggs present in their stool sample as analyzed with microscopy.</description>
+        <time_frame>2 Years</time_frame>
+        <population>The Pekalongan study sites were dropped after the first year. No soil transmitted helminth infection data was collected after year 2. The overall number of participants analyzed for each group may be slightly less than the total sample size for that group due to the fact that not all data was collected for all participants.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Paga (1x Annual MDA)</title>
+            <description>Participants from this village receive annual MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will be administered by the Indonesian Ministry of Health as part of their national filariasis elimination program.&#xD;
+Albendazole and diethylcarbamazine Annual: Albendazole and diethylcarbamazine Annual Albendazole 400 mg plus diethylcarbamazine 6 mg/kg once yearly</description>
+          </group>
+          <group group_id="O2">
+            <title>Lewomada (1x Annual MDA)</title>
+            <description>Participants from this village receive annual MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will be administered by the Indonesian Ministry of Health as part of their national filariasis elimination program.&#xD;
+Albendazole and diethylcarbamazine Annual: Albendazole and diethylcarbamazine Annual Albendazole 400 mg plus diethylcarbamazine 6 mg/kg once yearly</description>
+          </group>
+          <group group_id="O3">
+            <title>Pruda (2x Annual MDA)</title>
+            <description>Participants from this village receive semiannual MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will also be administered by the Indonesian Ministry of Health.&#xD;
+Albendazole and diethylcarbamazine Semiannual: Albendazole and diethylcarbamazine Semiannual Albendazole 400 mg plus diethylcarbamazine 6 mg/kg twice yearly</description>
+          </group>
+          <group group_id="O4">
+            <title>Pekalongan (1x Annual MDA)</title>
+            <description>Participants from this village receive annual MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will be administered by the Indonesian Ministry of Health as part of their national filariasis elimination program.&#xD;
+Albendazole and diethylcarbamazine Annual: Albendazole and diethylcarbamazine Annual Albendazole 400 mg plus diethylcarbamazine 6 mg/kg once yearly</description>
+          </group>
+          <group group_id="O5">
+            <title>Pekalongan (2x Annual MDA)</title>
+            <description>Participants from this village receive annual MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will be administered by the Indonesian Ministry of Health as part of their national filariasis elimination program.&#xD;
+Albendazole and diethylcarbamazine Annual: Albendazole and diethylcarbamazine Annual Albendazole 400 mg plus diethylcarbamazine 6 mg/kg once yearly</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Prevalence of Ascaris Infection</title>
+          <description>Prevalence of Ascaris infection is defined by the number of participants with any Ascaris worm eggs present in their stool sample as analyzed with microscopy.</description>
+          <population>The Pekalongan study sites were dropped after the first year. No soil transmitted helminth infection data was collected after year 2. The overall number of participants analyzed for each group may be slightly less than the total sample size for that group due to the fact that not all data was collected for all participants.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="708"/>
+                <count group_id="O2" value="1230"/>
+                <count group_id="O3" value="523"/>
+                <count group_id="O4" value="699"/>
+                <count group_id="O5" value="792"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="147"/>
+                    <count group_id="O2" value="375"/>
+                    <count group_id="O3" value="132"/>
+                    <count group_id="O4" value="474"/>
+                    <count group_id="O5" value="618"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="88"/>
+                    <measurement group_id="O2" value="56"/>
+                    <measurement group_id="O3" value="34"/>
+                    <measurement group_id="O4" value="19"/>
+                    <measurement group_id="O5" value="58"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Year 1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="317"/>
+                    <count group_id="O2" value="357"/>
+                    <count group_id="O3" value="202"/>
+                    <count group_id="O4" value="225"/>
+                    <count group_id="O5" value="174"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="135"/>
+                    <measurement group_id="O2" value="17"/>
+                    <measurement group_id="O3" value="7"/>
+                    <measurement group_id="O4" value="11"/>
+                    <measurement group_id="O5" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Year 2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="244"/>
+                    <count group_id="O2" value="498"/>
+                    <count group_id="O3" value="189"/>
+                    <count group_id="O4" value="0"/>
+                    <count group_id="O5" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="107"/>
+                    <measurement group_id="O2" value="18"/>
+                    <measurement group_id="O3" value="3"/>
+                    <measurement group_id="O4" value="0"/>
+                    <measurement group_id="O5" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Prevalence of Hookworm Infection</title>
+        <description>Prevalence of hookworm infection is defined by the number of participants with any hookworm eggs present in their stool sample as analyzed with microscopy.</description>
+        <time_frame>2 years</time_frame>
+        <population>Hookworm prevalence was not analyzed for Pekalongan sites. Hookworm data was not collected after year 2 for any sites. The overall number of participants analyzed for each group may be slightly less than the total sample size for that group due to the fact that not all data was collected for all participants.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Paga (1x Annual MDA)</title>
+            <description>Participants from this village receive annual MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will be administered by the Indonesian Ministry of Health as part of their national filariasis elimination program.&#xD;
+Albendazole and diethylcarbamazine Annual: Albendazole and diethylcarbamazine Annual Albendazole 400 mg plus diethylcarbamazine 6 mg/kg once yearly</description>
+          </group>
+          <group group_id="O2">
+            <title>Lewomada (1x Annual MDA)</title>
+            <description>Participants from this village receive annual MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will be administered by the Indonesian Ministry of Health as part of their national filariasis elimination program.&#xD;
+Albendazole and diethylcarbamazine Annual: Albendazole and diethylcarbamazine Annual Albendazole 400 mg plus diethylcarbamazine 6 mg/kg once yearly</description>
+          </group>
+          <group group_id="O3">
+            <title>Pruda (2x Annual MDA)</title>
+            <description>Participants from this village receive semiannual MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will also be administered by the Indonesian Ministry of Health.&#xD;
+Albendazole and diethylcarbamazine Semiannual: Albendazole and diethylcarbamazine Semiannual Albendazole 400 mg plus diethylcarbamazine 6 mg/kg twice yearly</description>
+          </group>
+          <group group_id="O4">
+            <title>Pekalongan (1x Annual MDA)</title>
+            <description>Participants from this village receive annual MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will be administered by the Indonesian Ministry of Health as part of their national filariasis elimination program.&#xD;
+Albendazole and diethylcarbamazine Annual: Albendazole and diethylcarbamazine Annual Albendazole 400 mg plus diethylcarbamazine 6 mg/kg once yearly</description>
+          </group>
+          <group group_id="O5">
+            <title>Pekalongan (2x Annual MDA)</title>
+            <description>Participants from this village receive annual MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will be administered by the Indonesian Ministry of Health as part of their national filariasis elimination program.&#xD;
+Albendazole and diethylcarbamazine Annual: Albendazole and diethylcarbamazine Annual Albendazole 400 mg plus diethylcarbamazine 6 mg/kg once yearly</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Prevalence of Hookworm Infection</title>
+          <description>Prevalence of hookworm infection is defined by the number of participants with any hookworm eggs present in their stool sample as analyzed with microscopy.</description>
+          <population>Hookworm prevalence was not analyzed for Pekalongan sites. Hookworm data was not collected after year 2 for any sites. The overall number of participants analyzed for each group may be slightly less than the total sample size for that group due to the fact that not all data was collected for all participants.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="708"/>
+                <count group_id="O2" value="1230"/>
+                <count group_id="O3" value="523"/>
+                <count group_id="O4" value="0"/>
+                <count group_id="O5" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="147"/>
+                    <count group_id="O2" value="375"/>
+                    <count group_id="O3" value="132"/>
+                    <count group_id="O4" value="0"/>
+                    <count group_id="O5" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="25"/>
+                    <measurement group_id="O2" value="226"/>
+                    <measurement group_id="O3" value="35"/>
+                    <measurement group_id="O4" value="0"/>
+                    <measurement group_id="O5" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Year 1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="317"/>
+                    <count group_id="O2" value="357"/>
+                    <count group_id="O3" value="202"/>
+                    <count group_id="O4" value="0"/>
+                    <count group_id="O5" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="118"/>
+                    <measurement group_id="O2" value="118"/>
+                    <measurement group_id="O3" value="90"/>
+                    <measurement group_id="O4" value="0"/>
+                    <measurement group_id="O5" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Year 2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="244"/>
+                    <count group_id="O2" value="498"/>
+                    <count group_id="O3" value="189"/>
+                    <count group_id="O4" value="0"/>
+                    <count group_id="O5" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="65"/>
+                    <measurement group_id="O2" value="97"/>
+                    <measurement group_id="O3" value="87"/>
+                    <measurement group_id="O4" value="0"/>
+                    <measurement group_id="O5" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Prevalence of Trichuris Infection</title>
+        <description>Prevalence of trichuris infection is defined by the number of participants with any trichuris worm eggs present in their stool sample as analyzed with microscopy.</description>
+        <time_frame>2 years</time_frame>
+        <population>The Pekalongan study sites were dropped after the first year. No soil transmitted helminth infection data was collected after year 2. The overall number of participants analyzed for each group may be slightly less than the total sample size for that group due to the fact that not all data was collected for all participants.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Paga (1x Annual MDA)</title>
+            <description>Participants from this village receive annual MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will be administered by the Indonesian Ministry of Health as part of their national filariasis elimination program.&#xD;
+Albendazole and diethylcarbamazine Annual: Albendazole and diethylcarbamazine Annual Albendazole 400 mg plus diethylcarbamazine 6 mg/kg once yearly</description>
+          </group>
+          <group group_id="O2">
+            <title>Lewomada (1x Annual MDA)</title>
+            <description>Participants from this village receive annual MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will be administered by the Indonesian Ministry of Health as part of their national filariasis elimination program.&#xD;
+Albendazole and diethylcarbamazine Annual: Albendazole and diethylcarbamazine Annual Albendazole 400 mg plus diethylcarbamazine 6 mg/kg once yearly</description>
+          </group>
+          <group group_id="O3">
+            <title>Pruda (2x Annual MDA)</title>
+            <description>Participants from this village receive semiannual MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will also be administered by the Indonesian Ministry of Health.&#xD;
+Albendazole and diethylcarbamazine Semiannual: Albendazole and diethylcarbamazine Semiannual Albendazole 400 mg plus diethylcarbamazine 6 mg/kg twice yearly</description>
+          </group>
+          <group group_id="O4">
+            <title>Pekalongan (1x Annual MDA)</title>
+            <description>Participants from this village receive annual MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will be administered by the Indonesian Ministry of Health as part of their national filariasis elimination program.&#xD;
+Albendazole and diethylcarbamazine Annual: Albendazole and diethylcarbamazine Annual Albendazole 400 mg plus diethylcarbamazine 6 mg/kg once yearly</description>
+          </group>
+          <group group_id="O5">
+            <title>Pekalongan (2x Annual MDA)</title>
+            <description>Participants from this village receive annual MDA (Albendazole 400 mg plus diethylcarbamazine 6 mg/kg) which will be administered by the Indonesian Ministry of Health as part of their national filariasis elimination program.&#xD;
+Albendazole and diethylcarbamazine Annual: Albendazole and diethylcarbamazine Annual Albendazole 400 mg plus diethylcarbamazine 6 mg/kg once yearly</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Prevalence of Trichuris Infection</title>
+          <description>Prevalence of trichuris infection is defined by the number of participants with any trichuris worm eggs present in their stool sample as analyzed with microscopy.</description>
+          <population>The Pekalongan study sites were dropped after the first year. No soil transmitted helminth infection data was collected after year 2. The overall number of participants analyzed for each group may be slightly less than the total sample size for that group due to the fact that not all data was collected for all participants.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="708"/>
+                <count group_id="O2" value="1230"/>
+                <count group_id="O3" value="523"/>
+                <count group_id="O4" value="699"/>
+                <count group_id="O5" value="792"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="147"/>
+                    <count group_id="O2" value="375"/>
+                    <count group_id="O3" value="132"/>
+                    <count group_id="O4" value="474"/>
+                    <count group_id="O5" value="618"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="68"/>
+                    <measurement group_id="O2" value="45"/>
+                    <measurement group_id="O3" value="8"/>
+                    <measurement group_id="O4" value="120"/>
+                    <measurement group_id="O5" value="352"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Year 1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="317"/>
+                    <count group_id="O2" value="357"/>
+                    <count group_id="O3" value="202"/>
+                    <count group_id="O4" value="225"/>
+                    <count group_id="O5" value="174"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="93"/>
+                    <measurement group_id="O2" value="25"/>
+                    <measurement group_id="O3" value="8"/>
+                    <measurement group_id="O4" value="35"/>
+                    <measurement group_id="O5" value="65"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Year 2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="244"/>
+                    <count group_id="O2" value="498"/>
+                    <count group_id="O3" value="189"/>
+                    <count group_id="O4" value="0"/>
+                    <count group_id="O5" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="84"/>
+                    <measurement group_id="O2" value="23"/>
+                    <measurement group_id="O3" value="13"/>
+                    <measurement group_id="O4" value="0"/>
+                    <measurement group_id="O5" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Subjects will be monitored for adverse events related to blood collection at each year of observation.</time_frame>
+      <desc>This is a minimal risk and nonintervention study. Adverse events are not expected to be an issue. However, subjects will be monitored for adverse events related to blood collection.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Paga (Annual MDA)</title>
+          <description>This group includes eligible residents of the village of Paga. This cohort will receive once yearly MDA (albendazole 400 mg + diethylcarbamazing 6 mg/kg) which will be administered by the Indonesian Ministry of Health as part of their national filariasis elimination program.&#xD;
+Paga received a total of three rounds of MDA over a period of 24 months (once every 12 months).</description>
+        </group>
+        <group group_id="E2">
+          <title>Lewomada (Annual MDA)</title>
+          <description>This group includes eligible residents of the village of Lewomada. This cohort will receive once yearly MDA (albendazole 400 mg + diethylcarbamazing 6 mg/kg) which will be administered by the Indonesian Ministry of Health as part of their national filariasis elimination program.&#xD;
+Lewomada received a total of three rounds of MDA over a period of 24 months (once every 12 months).</description>
+        </group>
+        <group group_id="E3">
+          <title>Pruda (Semiannual MDA)</title>
+          <description>This group includes eligible residents of the village of Pruda. This cohort will receive twice yearly MDA (albendazole 400 mg + diethylcarbamazing 6 mg/kg) which will be administered by the Indonesian Ministry of Health as part of their national filariasis elimination program.&#xD;
+Pruda received a total of five rounds of MDA over a period of 24 months (once every 6 months).</description>
+        </group>
+        <group group_id="E4">
+          <title>Pekalongan (Annual MDA)</title>
+          <description>This group includes villages of Banyurip Ageng and Jenggot. This cohort will receive once yearly MDA (albendazole 400 mg + diethylcarbamazing 6 mg/kg) which will be administered by the Indonesian Ministry of Health as part of their national filariasis elimination program.&#xD;
+Pekalongan study sites were dropped after the first year follow-up due to lower than expected rates of lymphatic filariasis.</description>
+        </group>
+        <group group_id="E5">
+          <title>Pekalongan (Semiannual MDA)</title>
+          <description>This group includes villages of Kertoharjo and Pabean. This cohort will receive twice yearly MDA (albendazole 400 mg + diethylcarbamazing 6 mg/kg) which will be administered by the Indonesian Ministry of Health as part of their national filariasis elimination program.&#xD;
+Pekalongan study sites were dropped after the first year follow-up due to lower than expected rates of lymphatic filariasis.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="4456"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="3297"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="4111"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="2757"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="2487"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="4456"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="3297"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="4111"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="2757"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="2487"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="4456"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="3297"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="4111"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="2757"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="2487"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Peter Fischer</name_or_title>
+      <organization>Washington University in St Louis Medical School</organization>
+      <phone>+1 (314) 747-5198</phone>
+      <email>pufischer@wustl.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

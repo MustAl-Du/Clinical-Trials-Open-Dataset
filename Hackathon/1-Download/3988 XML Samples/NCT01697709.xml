@@ -1,0 +1,1280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3606">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01697709</url>
+  </required_header>
+  <id_info>
+    <org_study_id>6623</org_study_id>
+    <secondary_id>1R01DA031826</secondary_id>
+    <nct_id>NCT01697709</nct_id>
+  </id_info>
+  <brief_title>Quetiapine Pharmacotherapy for Cannabis Dependence</brief_title>
+  <acronym>QUEST</acronym>
+  <official_title>Quetiapine Pharmacotherapy for Cannabis Dependence</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>New York State Psychiatric Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>New York State Psychiatric Institute</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Despite a benign public perception, marijuana use disorders represent a significant public&#xD;
+      health problem. The development of safe and effective pharmacotherapies for marijuana&#xD;
+      dependence is an important unmet public health need. Quetiapine, an effective atypical&#xD;
+      antipsychotic that acts by blocking serotonin type 2A, dopamine type 2, histamine type 1, and&#xD;
+      adrenergic receptors, is a promising treatment for substance use disorders. In animal models,&#xD;
+      quetiapine blocks the enhancement of reward by cocaine, which is likely due to its actions on&#xD;
+      both dopamine and non-dopamine neurotransmission. Clinical studies of quetiapine have shown&#xD;
+      benefit for the treatment of alcohol and cocaine use disorders.&#xD;
+&#xD;
+      Conceptually, the clinically prominent effects of quetiapine, namely sedation, anxiolysis,&#xD;
+      mood stabilization and appetite stimulation, are a good match for the symptoms of marijuana&#xD;
+      withdrawal. Most importantly, an open-label dose-finding study of quetiapine for the&#xD;
+      treatment of marijuana dependence conducted by our research group determined that quetiapine&#xD;
+      was well-tolerated and associated with reductions in marijuana use indicating that it is a&#xD;
+      promising agent deserving of further study in marijuana-dependent outpatients.&#xD;
+&#xD;
+      The proposed research project is a randomized double-blind placebo-controlled clinical trial&#xD;
+      to evaluate the efficacy of quetiapine for the treatment of marijuana dependence over a&#xD;
+      12-week period. All participants will receive Medical Management, a medication adherence&#xD;
+      focused psychosocial intervention that facilitates compliance with study medication and other&#xD;
+      study procedures, promotes abstinence from marijuana and other substances, and encourages&#xD;
+      mutual-support group attendance. All participants will receive voucher incentives for&#xD;
+      compliance with study visit attendance, returning study medication bottles, and completing&#xD;
+      other study procedures, with the objective of achieving a highly compliant sample. The goal&#xD;
+      of this phase II clinical trial is to build on our promising open-label pilot study results&#xD;
+      and examine the efficacy of quetiapine on participants' marijuana consumption under&#xD;
+      placebo-controlled double-blind conditions using an abstinence-initiation model, where&#xD;
+      participants will be using marijuana regularly at study entry, reduce their use, and then&#xD;
+      achieve abstinence. The specific aims of the projects are to determine whether quetiapine is&#xD;
+      superior to placebo in 1) reducing marijuana use and 2) achieving abstinence.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In a 12-week randomized double-blind placebo-controlled clinical trial, we will evaluate the&#xD;
+      efficacy of quetiapine for the treatment of marijuana dependence in 150 outpatients.&#xD;
+      Participants will be randomly assigned to treatment under double-blind conditions with either&#xD;
+      a fixed dosing schedule of quetiapine or placebo. All participants will receive Medical&#xD;
+      Management, a medication adherence focused psychosocial intervention that facilitates&#xD;
+      compliance with study medication and other study procedures, and promotes abstinence from&#xD;
+      marijuana and other substances. All participants will receive progressive voucher incentives&#xD;
+      for compliance with study visit attendance and completing other study procedures, with the&#xD;
+      objective of achieving a highly compliant sample.&#xD;
+&#xD;
+      The results of a dose-finding pilot study of quetiapine for the treatment of marijuana&#xD;
+      dependence (see Preliminary Studies) suggests that the ideal dosing for the proposed project&#xD;
+      is a single 300 mg dose every evening, achieved after a gradual three-week titration.&#xD;
+      Clinical experience with this medication for treatment of marijuana dependence indicates that&#xD;
+      a gradual upward titration of dose is advisable to maximize tolerability and that morning&#xD;
+      dosing was poorly tolerated. Quetiapine (immediate release formulation) will be administered&#xD;
+      in 25 and 100 mg capsules; placebo capsules will appear identical to the quetiapine capsules.&#xD;
+      Participants in both treatment arms will take the same number of pills on the same schedule.&#xD;
+      Study medication will be dispensed on a weekly basis starting with the baseline visit.&#xD;
+      Quetiapine will be titrated over a three-week period to the target dose of 300 mg or the&#xD;
+      maximum tolerated dose. The research psychiatrist will make dose reductions for tolerability&#xD;
+      if necessary.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">October 1, 2012</start_date>
+  <completion_date type="Actual">April 30, 2017</completion_date>
+  <primary_completion_date type="Actual">April 30, 2017</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Marijuana Use, Daily Dollar Averaged Over 7 Days During Each of 12 Weeks of Study</measure>
+    <time_frame>12 weeks or length of participants involvement</time_frame>
+    <description>The median daily dollar value of marijuana used averaged over a one-week period for each of the 12 weeks as recorded by the Timeline Followback method</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants Stratified by Marijuana Abstinence Days Per Week</measure>
+    <time_frame>12 weeks or length of participation</time_frame>
+    <description>The number of abstinent days per week over the 12 weeks of study as recorded by the Timeline Followback method. High Use group defined as 0-2 abstinent days per week, Medium Use Group as 3-5 abstinent days per week and Low Use Group as 6-7 abstinent days per week.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">130</enrollment>
+  <condition>Cannabis Dependence</condition>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo medication</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>quetiapine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Quetiapine treatment</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Quetiapine</intervention_name>
+    <description>Quetiapine pharmacotherapy for cannabis dependence</description>
+    <arm_group_label>quetiapine</arm_group_label>
+    <other_name>Seroquel</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>placebo capsules</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <other_name>Matched Placebo</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Meets DSM-IV-TR criteria for current marijuana dependence&#xD;
+&#xD;
+          2. Reports using marijuana an average of 5 days per week over the past 28 days&#xD;
+&#xD;
+          3. Between the ages of 18 and 60&#xD;
+&#xD;
+          4. Able to provide informed consent and comply with study procedures&#xD;
+&#xD;
+          5. Seeking treatment for cannabis dependence&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Lifetime DSM-IV diagnosis of schizophrenia, schizoaffective disorder, or bipolar&#xD;
+             disorder.&#xD;
+&#xD;
+          2. Current DSM-IV criteria for any other psychiatric disorder that may, according to&#xD;
+             investigator's judgment, require either pharmacological or non-pharmacological&#xD;
+             intervention over the course of the study.&#xD;
+&#xD;
+          3. Patients prescribed psychotropic medications.&#xD;
+&#xD;
+          4. History of allergic reaction, intolerance, or hypersensitivity to Quetiapine.&#xD;
+&#xD;
+          5. Pregnancy, lactation, or failure to use adequate contraceptive methods in female&#xD;
+             patients who are currently engaging in sexual activity with men.&#xD;
+&#xD;
+          6. Unstable medical conditions, such as poorly controlled hypertension which might make&#xD;
+             participation hazardous.&#xD;
+&#xD;
+          7. Diabetes (whether controlled or not), meeting criteria for metabolic syndrome as&#xD;
+             defined by the NCEP (any 3 of the following: a. obesity [waist circumference &gt; 40&#xD;
+             inches], b. hyperglycemia [fasting glucose &gt; 100 mg/dl or Rx], c. dyslipidemia [TG &gt;&#xD;
+             150 mg/dl or Rx], d. dyslipidemia [HDL cholesterol; 40 mg/dl (male), 50 mg/dl (female)&#xD;
+             or Rx], e. hypertension [130 mmHg systolic or &gt; 85 mmHg diastolic or Rx]. Participants&#xD;
+             with a BMI &gt; 35 will be excluded.&#xD;
+&#xD;
+          8. Current DSM-IV diagnosis of an alcohol or substance use disorder (abuse or dependence)&#xD;
+             other than marijuana or nicotine dependence.&#xD;
+&#xD;
+          9. Positive confirmed result on urine toxicology screen.&#xD;
+&#xD;
+         10. Are legally mandated to participate in a substance use disorder treatment program.&#xD;
+&#xD;
+         11. Increased risk for suicide.&#xD;
+&#xD;
+         12. QTc prolongation (screening electrocardiogram with Qtc &gt; 450 msec for men, QTc &gt; 470&#xD;
+             msec for women) or history of QTc prolongation or using concomitant medications which&#xD;
+             prolong QTc interval.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>John J Mariani, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Columbia University/NYSPI</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>New York State Psychiatric Institute</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.stars.columbia.edu</url>
+    <description>Study web site</description>
+  </link>
+  <verification_date>February 2019</verification_date>
+  <study_first_submitted>September 28, 2012</study_first_submitted>
+  <study_first_submitted_qc>October 1, 2012</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 2, 2012</study_first_posted>
+  <results_first_submitted>January 17, 2019</results_first_submitted>
+  <results_first_submitted_qc>January 17, 2019</results_first_submitted_qc>
+  <results_first_posted type="Actual">February 5, 2019</results_first_posted>
+  <last_update_submitted>February 8, 2019</last_update_submitted>
+  <last_update_submitted_qc>February 8, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 5, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>New York State Psychiatric Institute</investigator_affiliation>
+    <investigator_full_name>John Mariani MD</investigator_full_name>
+    <investigator_title>research psychiatrist</investigator_title>
+  </responsible_party>
+  <keyword>cannabis</keyword>
+  <keyword>marijuana</keyword>
+  <keyword>pharmacotherapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Marijuana Abuse</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Quetiapine Fumarate</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>June 11, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/09/NCT01697709/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>November 7, 2011</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/09/NCT01697709/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>Patients were randomized to one of the treatment arms at time of enrollment</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Placebo</title>
+          <description>Placebo medication&#xD;
+Placebo: placebo capsules</description>
+        </group>
+        <group group_id="P2">
+          <title>Quetiapine</title>
+          <description>Quetiapine treatment&#xD;
+Quetiapine: Quetiapine pharmacotherapy for cannabis dependence</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="64"/>
+                <participants group_id="P2" count="66"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="34"/>
+                <participants group_id="P2" count="38"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="30"/>
+                <participants group_id="P2" count="28"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Placebo</title>
+          <description>Placebo medication&#xD;
+Placebo: placebo capsules</description>
+        </group>
+        <group group_id="B2">
+          <title>Quetiapine</title>
+          <description>Quetiapine treatment&#xD;
+Quetiapine: Quetiapine pharmacotherapy for cannabis dependence</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="64"/>
+            <count group_id="B2" value="66"/>
+            <count group_id="B3" value="130"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="33.1" spread="8.7"/>
+                    <measurement group_id="B2" value="32.7" spread="9.5"/>
+                    <measurement group_id="B3" value="32.9" spread="9.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                    <measurement group_id="B2" value="14"/>
+                    <measurement group_id="B3" value="28"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="50"/>
+                    <measurement group_id="B2" value="52"/>
+                    <measurement group_id="B3" value="102"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                    <measurement group_id="B2" value="17"/>
+                    <measurement group_id="B3" value="32"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="49"/>
+                    <measurement group_id="B2" value="49"/>
+                    <measurement group_id="B3" value="98"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="32"/>
+                    <measurement group_id="B2" value="24"/>
+                    <measurement group_id="B3" value="56"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="18"/>
+                    <measurement group_id="B2" value="25"/>
+                    <measurement group_id="B3" value="43"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="11"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="16"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>mood/anxiety disorder</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                    <measurement group_id="B2" value="14"/>
+                    <measurement group_id="B3" value="28"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Marijuana using days past 28 days</title>
+          <units>days</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="26.8" spread="2.1"/>
+                    <measurement group_id="B2" value="26.4" spread="2.5"/>
+                    <measurement group_id="B3" value="26.6" spread="2.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Marijuana Use, Daily Dollar Averaged Over 7 Days During Each of 12 Weeks of Study</title>
+        <description>The median daily dollar value of marijuana used averaged over a one-week period for each of the 12 weeks as recorded by the Timeline Followback method</description>
+        <time_frame>12 weeks or length of participants involvement</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo</title>
+            <description>Placebo medication&#xD;
+Placebo: placebo capsules</description>
+          </group>
+          <group group_id="O2">
+            <title>Quetiapine</title>
+            <description>Quetiapine treatment&#xD;
+Quetiapine: Quetiapine pharmacotherapy for cannabis dependence</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Marijuana Use, Daily Dollar Averaged Over 7 Days During Each of 12 Weeks of Study</title>
+          <description>The median daily dollar value of marijuana used averaged over a one-week period for each of the 12 weeks as recorded by the Timeline Followback method</description>
+          <units>dollars</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="64"/>
+                <count group_id="O2" value="66"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>week 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="14.00" lower_limit="5.42" upper_limit="21.25"/>
+                    <measurement group_id="O2" value="7.00" lower_limit="3.18" upper_limit="12.86"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>week 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10.00" lower_limit="2.86" upper_limit="22.00"/>
+                    <measurement group_id="O2" value="8.00" lower_limit="3.02" upper_limit="12.70"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>week 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7.14" lower_limit="2.64" upper_limit="17.69"/>
+                    <measurement group_id="O2" value="5.86" lower_limit="3.29" upper_limit="11.61"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>week 4</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.43" lower_limit="1.61" upper_limit="16.25"/>
+                    <measurement group_id="O2" value="5.71" lower_limit="2.57" upper_limit="12.00"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>week 5</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.43" lower_limit="1.07" upper_limit="17.86"/>
+                    <measurement group_id="O2" value="4.29" lower_limit="1.43" upper_limit="9.29"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>week 6</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.71" lower_limit="0.96" upper_limit="13.82"/>
+                    <measurement group_id="O2" value="4.11" lower_limit="1.32" upper_limit="9.79"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>week 7</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.70" lower_limit="1.03" upper_limit="12.59"/>
+                    <measurement group_id="O2" value="3.57" lower_limit="1.43" upper_limit="7.52"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>week 8</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.86" lower_limit="1.12" upper_limit="12.26"/>
+                    <measurement group_id="O2" value="3.43" lower_limit="1.18" upper_limit="6.00"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>week 9</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.43" lower_limit="1.03" upper_limit="11.96"/>
+                    <measurement group_id="O2" value="3.00" lower_limit="1.43" upper_limit="7.00"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>week 10</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.35" lower_limit="0.00" upper_limit="12.32"/>
+                    <measurement group_id="O2" value="2.86" lower_limit="0.29" upper_limit="5.14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>week 11</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.21" lower_limit="0.00" upper_limit="11.79"/>
+                    <measurement group_id="O2" value="2.86" lower_limit="0.00" upper_limit="5.14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>week 12</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.00" lower_limit="0.00" upper_limit="12.29"/>
+                    <measurement group_id="O2" value="2.14" lower_limit="0.00" upper_limit="5.25"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants Stratified by Marijuana Abstinence Days Per Week</title>
+        <description>The number of abstinent days per week over the 12 weeks of study as recorded by the Timeline Followback method. High Use group defined as 0-2 abstinent days per week, Medium Use Group as 3-5 abstinent days per week and Low Use Group as 6-7 abstinent days per week.</description>
+        <time_frame>12 weeks or length of participation</time_frame>
+        <population>participants were included in the weekly analysis who were still active in the trial at each given week.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo</title>
+            <description>Placebo medication&#xD;
+Placebo: placebo capsules</description>
+          </group>
+          <group group_id="O2">
+            <title>Quetiapine</title>
+            <description>Quetiapine treatment&#xD;
+Quetiapine: Quetiapine pharmacotherapy for cannabis dependence</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Stratified by Marijuana Abstinence Days Per Week</title>
+          <description>The number of abstinent days per week over the 12 weeks of study as recorded by the Timeline Followback method. High Use group defined as 0-2 abstinent days per week, Medium Use Group as 3-5 abstinent days per week and Low Use Group as 6-7 abstinent days per week.</description>
+          <population>participants were included in the weekly analysis who were still active in the trial at each given week.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="64"/>
+                <count group_id="O2" value="66"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Week 1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="54"/>
+                    <count group_id="O2" value="59"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>high use</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>medium use</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                    <measurement group_id="O2" value="9"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>low use</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="40"/>
+                    <measurement group_id="O2" value="46"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="49"/>
+                    <count group_id="O2" value="55"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>high use</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8"/>
+                    <measurement group_id="O2" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>medium use</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7"/>
+                    <measurement group_id="O2" value="7"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>low use</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="34"/>
+                    <measurement group_id="O2" value="44"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 3</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="42"/>
+                    <count group_id="O2" value="52"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>high use</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>medium use</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="14"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>low use</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="28"/>
+                    <measurement group_id="O2" value="33"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="40"/>
+                    <count group_id="O2" value="49"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>high use</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8"/>
+                    <measurement group_id="O2" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>medium use</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                    <measurement group_id="O2" value="15"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>low use</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="23"/>
+                    <measurement group_id="O2" value="26"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 5</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="39"/>
+                    <count group_id="O2" value="47"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>high use</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10"/>
+                    <measurement group_id="O2" value="10"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>medium use</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7"/>
+                    <measurement group_id="O2" value="16"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>low use</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="22"/>
+                    <measurement group_id="O2" value="21"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 6</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="39"/>
+                    <count group_id="O2" value="46"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>high use</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="13"/>
+                    <measurement group_id="O2" value="10"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>medium use</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="13"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>low use</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="22"/>
+                    <measurement group_id="O2" value="23"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 7</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="38"/>
+                    <count group_id="O2" value="43"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>high use</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12"/>
+                    <measurement group_id="O2" value="11"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>medium use</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                    <measurement group_id="O2" value="15"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>low use</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="17"/>
+                    <measurement group_id="O2" value="17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 8</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="38"/>
+                    <count group_id="O2" value="43"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>high use</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12"/>
+                    <measurement group_id="O2" value="10"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>medium use</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                    <measurement group_id="O2" value="16"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>low use</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="17"/>
+                    <measurement group_id="O2" value="17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 9</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="38"/>
+                    <count group_id="O2" value="43"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>high use</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="13"/>
+                    <measurement group_id="O2" value="13"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>medium use</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7"/>
+                    <measurement group_id="O2" value="15"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>low use</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="18"/>
+                    <measurement group_id="O2" value="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 10</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="36"/>
+                    <count group_id="O2" value="41"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>high use</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="14"/>
+                    <measurement group_id="O2" value="13"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>medium use</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="13"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>low use</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="17"/>
+                    <measurement group_id="O2" value="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 11</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="36"/>
+                    <count group_id="O2" value="37"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>high use</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="15"/>
+                    <measurement group_id="O2" value="14"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>medium use</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="12"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>low use</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="16"/>
+                    <measurement group_id="O2" value="11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 12</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="34"/>
+                    <count group_id="O2" value="37"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>high use</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="17"/>
+                    <measurement group_id="O2" value="15"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>medium use</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="11"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>low use</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="14"/>
+                    <measurement group_id="O2" value="11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>over 12 weeks of study or length of participation</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Placebo</title>
+          <description>Placebo medication&#xD;
+Placebo: placebo capsules</description>
+        </group>
+        <group group_id="E2">
+          <title>Quetiapine</title>
+          <description>Quetiapine treatment&#xD;
+Quetiapine: Quetiapine pharmacotherapy for cannabis dependence</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="64"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="66"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="64"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="66"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="34" subjects_at_risk="64"/>
+                <counts group_id="E2" subjects_affected="46" subjects_at_risk="66"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypertension</sub_title>
+                <description>&gt;130 or &gt; 85</description>
+                <counts group_id="E1" events="24" subjects_affected="24" subjects_at_risk="64"/>
+                <counts group_id="E2" events="36" subjects_affected="36" subjects_at_risk="66"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Endocrine disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dyslipidemia</sub_title>
+                <description>TG &gt;150mg</description>
+                <counts group_id="E1" events="11" subjects_affected="11" subjects_at_risk="64"/>
+                <counts group_id="E2" events="10" subjects_affected="10" subjects_at_risk="66"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hyperglycemia</sub_title>
+                <description>&gt;100 mg</description>
+                <counts group_id="E1" events="15" subjects_affected="15" subjects_at_risk="64"/>
+                <counts group_id="E2" events="18" subjects_affected="18" subjects_at_risk="66"/>
+              </event>
+              <event>
+                <sub_title>drowsiness</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="64"/>
+                <counts group_id="E2" events="8" subjects_affected="8" subjects_at_risk="66"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>john mariani. MD</name_or_title>
+      <organization>NYSPI</organization>
+      <phone>212-923-3031</phone>
+      <email>John.mariani@nyspi.columbia.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

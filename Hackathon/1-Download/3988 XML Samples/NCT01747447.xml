@@ -1,0 +1,1465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2169">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01747447</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2012P000560</org_study_id>
+    <secondary_id>1R01AR059775-01A1</secondary_id>
+    <secondary_id>5R01AR060574-03</secondary_id>
+    <nct_id>NCT01747447</nct_id>
+  </id_info>
+  <brief_title>VITamin D and OmegA-3 TriaL: Effects on Bone Structure and Architecture (VITAL)</brief_title>
+  <acronym>VITAL</acronym>
+  <official_title>VITamin D and OmegA-3 TriaL: Effects on Bone Structure and Architecture</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Brigham and Women's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Brigham and Women's Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The VITamin D and OmegA-3 TriaL (VITAL; NCT 01169259) is a randomized clinical trial in&#xD;
+      25,871 U.S. men and women investigating whether taking daily dietary supplements of vitamin&#xD;
+      D3 (2000 IU) or fish oil (1 gram of omega-3 fatty acids) reduces the risk of developing&#xD;
+      cancer, heart disease, and stroke in people who do not have a prior history of these&#xD;
+      illnesses. This ancillary study is being conducted among a sub-cohort of 771 participants in&#xD;
+      VITAL and will test the efficacy and safety of high-dose vitamin D supplementation vs.&#xD;
+      placebo on skeletal health and body composition.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The VITAL: Effects on Bone Structure and Architecture is an ancillary study of the parent&#xD;
+      VITAL. This study has enrolled a sub-cohort of 771 VITAL participants at the NIH-sponsored&#xD;
+      Harvard Catalyst Clinical and Translational Science Center (CTSC). The following measurements&#xD;
+      will be performed at baseline and 2 years post-randomization to determine whether high-dose&#xD;
+      vitamin D supplementation vs. placebo: 1) produces small increases or reduces bone loss in&#xD;
+      spine, hip, and total body areal bone density as assessed by dual x-ray absorptiometry (DXA);&#xD;
+      2) reduces bone turnover as assessed by biomarkers of bone resorption and formation; 3)&#xD;
+      improves (a) volumetric bone mineral density (vBMD) and measures of bone structure as&#xD;
+      assessed by peripheral quantitative computed tomography (pQCT) and (b) bone microarchitecture&#xD;
+      as assessed by high resolution pQCT (HR-pQCT) at the distal radius and tibia as well as&#xD;
+      trabecular bone score (TBS) at the spine; and 4) results in changes in body composition as&#xD;
+      assessed by DXA. Parallel assessments of the effects of omega-3 fatty acids will be&#xD;
+      performed. This study may elucidate the mechanisms through which high-dose vitamin D may&#xD;
+      prevent age-related fractures and provide new insights into the role of vitamin D on skeletal&#xD;
+      health and body composition.&#xD;
+&#xD;
+      We are currently analyzing the effects of daily dietary supplements of fish oil (1 gram of&#xD;
+      omega-3 fatty acids) vs. placebo on skeletal health and body composition.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">August 2012</start_date>
+  <completion_date type="Actual">December 2017</completion_date>
+  <primary_completion_date type="Actual">December 2017</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Factorial Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Double Blind</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Bone Density</measure>
+    <time_frame>2 years</time_frame>
+    <description>To determine whether vitamin D supplementation produces small increases or reduces bone loss in spine, hip, and total body areal bone density, as assessed by DXA.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Bone Turnover</measure>
+    <time_frame>2 years</time_frame>
+    <description>To determine whether vitamin D supplementation reduces bone turnover, as assessed biomarkers of bone resorption (Collagen Type 1 c-telopeptide) and bone formation (propeptide of type 1 collagen). We are still finalizing analyses for biomarkers of bone resorption (Collagen Type 1 c-telopeptide) and bone formation (propeptide of type 1 collagen). Blood samples have been collected and assays and analyses are in progress.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Bone Structure</measure>
+    <time_frame>2 years</time_frame>
+    <description>To determine whether vitamin D supplementation results in changes in bone structure.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Body Composition</measure>
+    <time_frame>2 years</time_frame>
+    <description>To determine whether vitamin D supplementation results in changes in body composition as assessed by DXA: total body fat and lean mass, and fat mass index and lean mass index, regional fat and lean mass and derived ratios.</description>
+  </other_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">771</enrollment>
+  <condition>Bone Density</condition>
+  <condition>Body Composition</condition>
+  <condition>Bone Health</condition>
+  <arm_group>
+    <arm_group_label>Vitamin D placebo + fish oil placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Vitamin D placebo + fish oil</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Vitamin D + fish oil placebo</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Vitamin D + fish oil</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Vitamin D3 placebo</intervention_name>
+    <description>Vitamin D placebo</description>
+    <arm_group_label>Vitamin D placebo + fish oil</arm_group_label>
+    <arm_group_label>Vitamin D placebo + fish oil placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Fish oil placebo</intervention_name>
+    <description>Fish oil placebo</description>
+    <arm_group_label>Vitamin D + fish oil placebo</arm_group_label>
+    <arm_group_label>Vitamin D placebo + fish oil placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>omega-3 fatty acids (fish oil)</intervention_name>
+    <description>Omacor, 1 capsule per day. Each capsule of Omacor contains 840 milligrams of marine omega-3 fatty acids (465 mg of eicosapentaenoic acid [EPA] and 375 mg of docosahexaenoic acid [DHA]).</description>
+    <arm_group_label>Vitamin D + fish oil</arm_group_label>
+    <arm_group_label>Vitamin D placebo + fish oil</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Vitamin D3</intervention_name>
+    <description>Vitamin D3 (cholecalciferol), 2000 IU per day.</description>
+    <arm_group_label>Vitamin D + fish oil</arm_group_label>
+    <arm_group_label>Vitamin D + fish oil placebo</arm_group_label>
+    <other_name>cholecalciferol</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Participants in VITAL (NCT 01169259) who meet the following criteria are eligible to&#xD;
+        participate in this ancillary study:&#xD;
+&#xD;
+          -  Those who are using bisphosphonates currently or within the past 2 years, or other&#xD;
+             bone-active medications currently or within the past year are not eligible for this&#xD;
+             study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Meryl S LeBoff, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Brigham and Women's Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Brigham and Women's Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.vitalstudy.org/</url>
+    <description>VITAL Study Website</description>
+  </link>
+  <reference>
+    <citation>LeBoff MS, Yue AY, Copeland T, Cook NR, Buring JE, Manson JE. VITAL-Bone Health: rationale and design of two ancillary studies evaluating the effects of vitamin D and/or omega-3 fatty acid supplements on incident fractures and bone health outcomes in the VITamin D and OmegA-3 TriaL (VITAL). Contemp Clin Trials. 2015 Mar;41:259-68. doi: 10.1016/j.cct.2015.01.007. Epub 2015 Jan 24.</citation>
+    <PMID>25623291</PMID>
+  </reference>
+  <reference>
+    <citation>Donlon CM, LeBoff MS, Chou SH, Cook NR, Copeland T, Buring JE, Bubes V, Kotler G, Manson JE. Baseline characteristics of participants in the VITamin D and OmegA-3 TriaL (VITAL): Effects on Bone Structure and Architecture. Contemp Clin Trials. 2018 Apr;67:56-67. doi: 10.1016/j.cct.2018.02.003. Epub 2018 Feb 23.</citation>
+    <PMID>29408561</PMID>
+  </reference>
+  <reference>
+    <citation>Goldman AL, Donlon CM, Cook NR, Manson JE, Buring JE, Copeland T, Yu CY, LeBoff MS. VITamin D and OmegA-3 TriaL (VITAL) bone health ancillary study: clinical factors associated with trabecular bone score in women and men. Osteoporos Int. 2018 Nov;29(11):2505-2515. doi: 10.1007/s00198-018-4633-3. Epub 2018 Jul 18.</citation>
+    <PMID>30022253</PMID>
+  </reference>
+  <reference>
+    <citation>LeBoff MS, Chou SH, Murata EM, Donlon CM, Cook NR, Mora S, Lee IM, Kotler G, Bubes V, Buring JE, Manson JE. Effects of Supplemental Vitamin D on Bone Health Outcomes in Women and Men in the VITamin D and OmegA-3 TriaL (VITAL). J Bone Miner Res. 2020 May;35(5):883-893. doi: 10.1002/jbmr.3958. Epub 2020 Jan 30.</citation>
+    <PMID>31923341</PMID>
+  </reference>
+  <verification_date>February 2022</verification_date>
+  <study_first_submitted>December 7, 2012</study_first_submitted>
+  <study_first_submitted_qc>December 10, 2012</study_first_submitted_qc>
+  <study_first_posted type="Estimate">December 11, 2012</study_first_posted>
+  <results_first_submitted>January 20, 2021</results_first_submitted>
+  <results_first_submitted_qc>March 23, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">March 29, 2021</results_first_posted>
+  <last_update_submitted>February 1, 2022</last_update_submitted>
+  <last_update_submitted_qc>February 1, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 3, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Brigham and Women's Hospital</investigator_affiliation>
+    <investigator_full_name>Meryl LeBoff</investigator_full_name>
+    <investigator_title>Director of Skeletal Health and Osteoporosis Center</investigator_title>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vitamin D</mesh_term>
+    <mesh_term>Ergocalciferols</mesh_term>
+    <mesh_term>Cholecalciferol</mesh_term>
+    <mesh_term>Vitamins</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>December 28, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/47/NCT01747447/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Vitamin D Group</title>
+          <description>Received active Vitamin D</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo Group</title>
+          <description>Received placebo Vitamin D</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="388"/>
+                <participants group_id="P2" count="383"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="347"/>
+                <participants group_id="P2" count="340"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="41"/>
+                <participants group_id="P2" count="43"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Vitamin D Group</title>
+          <description>Received active Vitamin D</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo Group</title>
+          <description>Received placebo Vitamin D</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="388"/>
+            <count group_id="B2" value="383"/>
+            <count group_id="B3" value="771"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="236"/>
+                    <measurement group_id="B2" value="230"/>
+                    <measurement group_id="B3" value="466"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="152"/>
+                    <measurement group_id="B2" value="153"/>
+                    <measurement group_id="B3" value="305"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>Years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="63.7" spread="6.0"/>
+                    <measurement group_id="B2" value="63.9" spread="6.3"/>
+                    <measurement group_id="B3" value="63.8" spread="6.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="179"/>
+                    <measurement group_id="B2" value="181"/>
+                    <measurement group_id="B3" value="360"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="209"/>
+                    <measurement group_id="B2" value="202"/>
+                    <measurement group_id="B3" value="411"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                    <measurement group_id="B2" value="16"/>
+                    <measurement group_id="B3" value="29"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="355"/>
+                    <measurement group_id="B2" value="348"/>
+                    <measurement group_id="B3" value="703"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="20"/>
+                    <measurement group_id="B2" value="19"/>
+                    <measurement group_id="B3" value="39"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="15"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="NA">Information not collected</measurement>
+                    <measurement group_id="B2" value="NA">Information not collected</measurement>
+                    <measurement group_id="B3" value="NA">Total not calculated because data are not available (NA) in one or more arms.</measurement>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="40"/>
+                    <measurement group_id="B2" value="38"/>
+                    <measurement group_id="B3" value="78"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="317"/>
+                    <measurement group_id="B2" value="313"/>
+                    <measurement group_id="B3" value="630"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="9"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="388"/>
+                    <measurement group_id="B2" value="383"/>
+                    <measurement group_id="B3" value="771"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Body Mass Index</title>
+          <units>kg/m^2</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="27.2" spread="4.7"/>
+                    <measurement group_id="B2" value="27.3" spread="4.8"/>
+                    <measurement group_id="B3" value="27.2" spread="4.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Fat Mass Index</title>
+          <units>kg/m^2</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10.26" spread="4.03"/>
+                    <measurement group_id="B2" value="10.28" spread="3.74"/>
+                    <measurement group_id="B3" value="10.27" spread="3.89"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Leisure Time Physical Activity</title>
+          <units>hr/wk</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="21.61" lower_limit="7.86" upper_limit="37.80"/>
+                    <measurement group_id="B2" value="20.99" lower_limit="7.97" upper_limit="36.00"/>
+                    <measurement group_id="B3" value="21.47" lower_limit="7.86" upper_limit="37.80"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Diabetes History</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="44"/>
+                    <measurement group_id="B2" value="40"/>
+                    <measurement group_id="B3" value="84"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Current Smoking</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="26"/>
+                    <measurement group_id="B2" value="22"/>
+                    <measurement group_id="B3" value="48"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Any Fracture History</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="32"/>
+                    <measurement group_id="B2" value="29"/>
+                    <measurement group_id="B3" value="61"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Parental History of Hip Fracture</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="54"/>
+                    <measurement group_id="B2" value="48"/>
+                    <measurement group_id="B3" value="102"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Baseline Calcium Supplement Use</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="69"/>
+                    <measurement group_id="B2" value="63"/>
+                    <measurement group_id="B3" value="132"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Baseline Vitamin D Use</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="157"/>
+                    <measurement group_id="B2" value="169"/>
+                    <measurement group_id="B3" value="326"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Baseline Total 25(OH)D</title>
+          <units>nmol/L</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="67.4" spread="22.2"/>
+                    <measurement group_id="B2" value="71.1" spread="23.2"/>
+                    <measurement group_id="B3" value="69.1" spread="22.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Baseline Free 25(OH)D</title>
+          <units>pmol/L</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14.4" spread="4.5"/>
+                    <measurement group_id="B2" value="14.8" spread="4.8"/>
+                    <measurement group_id="B3" value="14.6" spread="4.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in Bone Density</title>
+        <description>To determine whether vitamin D supplementation produces small increases or reduces bone loss in spine, hip, and total body areal bone density, as assessed by DXA.</description>
+        <time_frame>2 years</time_frame>
+        <population>Some measurements were excluded due to metal artifacts, severe osteoarthritis, severe scoliosis, degenerative disc disease, and bilateral breast implants.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Vitamin D Group</title>
+            <description>Received active Vitamin D</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Group</title>
+            <description>Received placebo Vitamin D</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Bone Density</title>
+          <description>To determine whether vitamin D supplementation produces small increases or reduces bone loss in spine, hip, and total body areal bone density, as assessed by DXA.</description>
+          <population>Some measurements were excluded due to metal artifacts, severe osteoarthritis, severe scoliosis, degenerative disc disease, and bilateral breast implants.</population>
+          <units>g/cm^2</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="388"/>
+                <count group_id="O2" value="383"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline Spine Areal Bone Mineral Density</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="368"/>
+                    <count group_id="O2" value="352"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.022" spread="0.161"/>
+                    <measurement group_id="O2" value="1.022" spread="0.169"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Year 2 Spine Areal Bone Mineral Density</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="327"/>
+                    <count group_id="O2" value="307"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.028" spread="0.164"/>
+                    <measurement group_id="O2" value="1.028" spread="0.171"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline Femoral Neck Hip Areal Bone Mineral Density</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="380"/>
+                    <count group_id="O2" value="381"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.767" spread="0.129"/>
+                    <measurement group_id="O2" value="0.765" spread="0.125"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Year 2 Femoral Neck Hip Areal Bone Mineral Density</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="336"/>
+                    <count group_id="O2" value="339"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.765" spread="0.131"/>
+                    <measurement group_id="O2" value="0.766" spread="0.124"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline Total Hip Areal Bone Mineral Density</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="384"/>
+                    <count group_id="O2" value="381"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.936" spread="0.145"/>
+                    <measurement group_id="O2" value="0.934" spread="0.149"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Year 2 Total Hip Areal Bone Mineral Density</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="340"/>
+                    <count group_id="O2" value="339"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.931" spread="0.150"/>
+                    <measurement group_id="O2" value="0.935" spread="0.148"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline Whole Body Areal Bone Mineral Density</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="371"/>
+                    <count group_id="O2" value="369"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.152" spread="0.131"/>
+                    <measurement group_id="O2" value="1.146" spread="0.130"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Year 2 Whole Body Areal Bone Mineral Density</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="310"/>
+                    <count group_id="O2" value="318"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.154" spread="0.132"/>
+                    <measurement group_id="O2" value="1.153" spread="0.127"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Bone Turnover</title>
+        <description>To determine whether vitamin D supplementation reduces bone turnover, as assessed biomarkers of bone resorption (Collagen Type 1 c-telopeptide) and bone formation (propeptide of type 1 collagen). We are still finalizing analyses for biomarkers of bone resorption (Collagen Type 1 c-telopeptide) and bone formation (propeptide of type 1 collagen). Blood samples have been collected and assays and analyses are in progress.</description>
+        <time_frame>2 years</time_frame>
+        <posting_date>01/2022</posting_date>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Bone Structure</title>
+        <description>To determine whether vitamin D supplementation results in changes in bone structure.</description>
+        <time_frame>2 years</time_frame>
+        <population>Some participants excluded due to motion</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Vitamin D Group</title>
+            <description>Received active Vitamin D</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Group</title>
+            <description>Received placebo Vitamin D</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Bone Structure</title>
+          <description>To determine whether vitamin D supplementation results in changes in bone structure.</description>
+          <population>Some participants excluded due to motion</population>
+          <units>mg/cm^3</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="388"/>
+                <count group_id="O2" value="383"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline Total Volumetric Bone Mineral Density at the Radius</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="326"/>
+                    <count group_id="O2" value="321"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="369.678" spread="69.484"/>
+                    <measurement group_id="O2" value="373.903" spread="72.498"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Year 2 Total Volumetric Bone Mineral Density at the Radius</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="282"/>
+                    <count group_id="O2" value="278"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="376.236" spread="74.480"/>
+                    <measurement group_id="O2" value="382.252" spread="71.676"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline Trabecular Volumetric Bone Mineral Density at the Radius</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="326"/>
+                    <count group_id="O2" value="321"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="196.447" spread="43.156"/>
+                    <measurement group_id="O2" value="202.796" spread="46.074"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Year 2 Trabecular Volumetric Bone Mineral Density at the Radius</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="282"/>
+                    <count group_id="O2" value="278"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="199.563" spread="44.647"/>
+                    <measurement group_id="O2" value="205.112" spread="46.019"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline Cortical Volumetric Bone Mineral Density at the Radius</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="311"/>
+                    <count group_id="O2" value="308"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1197.75" spread="31.572"/>
+                    <measurement group_id="O2" value="1196.98" spread="30.816"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Year 2 Cortical Volumetric Bone Mineral Density at the Radius</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="258"/>
+                    <count group_id="O2" value="257"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1199.41" spread="33.686"/>
+                    <measurement group_id="O2" value="1201.55" spread="30.098"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline Total Volumetric Bone Mineral Density at the Tibia</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="331"/>
+                    <count group_id="O2" value="330"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="295.291" spread="48.045"/>
+                    <measurement group_id="O2" value="299.232" spread="49.285"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Year 2 Total Volumetric Bone Mineral Density at the Tibia</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="294"/>
+                    <count group_id="O2" value="284"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="296.756" spread="49.312"/>
+                    <measurement group_id="O2" value="303.213" spread="48.755"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline Trabecular Volumetric Bone Mineral Density at the Tibia</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="331"/>
+                    <count group_id="O2" value="330"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="246.626" spread="40.741"/>
+                    <measurement group_id="O2" value="250.139" spread="42.283"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Year 2 Trabecular Volumetric Bone Mineral Density at the Tibia</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="294"/>
+                    <count group_id="O2" value="284"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="249.300" spread="41.539"/>
+                    <measurement group_id="O2" value="254.067" spread="42.019"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline Cortical Volumetric Bone Mineral Density at the Tibia</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="322"/>
+                    <count group_id="O2" value="329"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1167.39" spread="32.258"/>
+                    <measurement group_id="O2" value="1162.02" spread="30.375"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Year 2 Cortical Volumetric Bone Mineral Density at the Tibia</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="294"/>
+                    <count group_id="O2" value="285"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1169.98" spread="32.739"/>
+                    <measurement group_id="O2" value="1166.38" spread="30.624"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Body Composition</title>
+        <description>To determine whether vitamin D supplementation results in changes in body composition as assessed by DXA: total body fat and lean mass, and fat mass index and lean mass index, regional fat and lean mass and derived ratios.</description>
+        <time_frame>2 years</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Vitamin D Group</title>
+            <description>Received active Vitamin D</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Group</title>
+            <description>Received placebo Vitamin D</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Body Composition</title>
+          <description>To determine whether vitamin D supplementation results in changes in body composition as assessed by DXA: total body fat and lean mass, and fat mass index and lean mass index, regional fat and lean mass and derived ratios.</description>
+          <units>kg/m^2</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="388"/>
+                <count group_id="O2" value="383"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Body Mass Index</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="28.3" spread="5.1"/>
+                    <measurement group_id="O2" value="28.3" spread="5.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Fat Mass Index</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10.3" spread="4.04"/>
+                    <measurement group_id="O2" value="10.3" spread="3.74"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Lean Mass Index</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="16.5" spread="2.3"/>
+                    <measurement group_id="O2" value="16.5" spread="2.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Baseline - 2 years</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Vitamin D Group</title>
+          <description>Received active Vitamin D</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo Group</title>
+          <description>Received placebo Vitamin D</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="388"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="383"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="39" subjects_at_risk="388"/>
+                <counts group_id="E2" subjects_affected="37" subjects_at_risk="383"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Major Cardiovascular Events</sub_title>
+                <counts group_id="E1" subjects_affected="7" subjects_at_risk="388"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="383"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Endocrine disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypercalcemia</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="388"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="383"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Gastrointestinal Bleeding</sub_title>
+                <counts group_id="E1" subjects_affected="10" subjects_at_risk="388"/>
+                <counts group_id="E2" subjects_affected="10" subjects_at_risk="383"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Malignant Cancer</sub_title>
+                <counts group_id="E1" subjects_affected="22" subjects_at_risk="388"/>
+                <counts group_id="E2" subjects_affected="19" subjects_at_risk="383"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="301" subjects_at_risk="388"/>
+                <counts group_id="E2" subjects_affected="280" subjects_at_risk="383"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Endocrine disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Parathyroid Condition</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="388"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="383"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Stomach Pain</sub_title>
+                <counts group_id="E1" subjects_affected="145" subjects_at_risk="388"/>
+                <counts group_id="E2" subjects_affected="128" subjects_at_risk="383"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" subjects_affected="88" subjects_at_risk="388"/>
+                <counts group_id="E2" subjects_affected="77" subjects_at_risk="383"/>
+              </event>
+              <event>
+                <sub_title>Constipation</sub_title>
+                <counts group_id="E1" subjects_affected="121" subjects_at_risk="388"/>
+                <counts group_id="E2" subjects_affected="133" subjects_at_risk="383"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Frequent Nosebleeds</sub_title>
+                <counts group_id="E1" subjects_affected="10" subjects_at_risk="388"/>
+                <counts group_id="E2" subjects_affected="20" subjects_at_risk="383"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Kidney Stones</sub_title>
+                <counts group_id="E1" subjects_affected="17" subjects_at_risk="388"/>
+                <counts group_id="E2" subjects_affected="11" subjects_at_risk="383"/>
+              </event>
+              <event>
+                <sub_title>Kidney Failure or Dialysis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="388"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="383"/>
+              </event>
+              <event>
+                <sub_title>Blood in Urine</sub_title>
+                <counts group_id="E1" subjects_affected="18" subjects_at_risk="388"/>
+                <counts group_id="E2" subjects_affected="27" subjects_at_risk="383"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Easy Bruising</sub_title>
+                <counts group_id="E1" subjects_affected="62" subjects_at_risk="388"/>
+                <counts group_id="E2" subjects_affected="61" subjects_at_risk="383"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>Timeline limited to 2 years of follow-up; results not adjusted for multiple hypothesis testing, so findings from the secondary and subgroup analyses are exploratory; results are not generalizable to younger individuals or adults with osteoporosis.&#xD;
+Analyses of effects of fish oil supplementation against placebo on these outcomes are in progress.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Meryl S LeBoff, M.D.</name_or_title>
+      <organization>Brigham and Women's Hospital</organization>
+      <phone>1-800-388-3963</phone>
+      <email>vitalstudy@partners.org</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

@@ -1,0 +1,381 @@
+{
+  "FullStudy":{
+    "Rank":484,
+    "Study":{
+      "ProtocolSection":{
+        "IdentificationModule":{
+          "NCTId":"NCT05540249",
+          "OrgStudyIdInfo":{
+            "OrgStudyId":"2019-ZX40"
+          },
+          "Organization":{
+            "OrgFullName":"China National Center for Cardiovascular Diseases",
+            "OrgClass":"OTHER_GOV"
+          },
+          "BriefTitle":"Pre-operative Carbohydrates in Diabetic Patients Undergoing CABG",
+          "OfficialTitle":"Effects of Pre-operative Oral Carbohydrates on Insulin Resistance and Postoperative Recovery in Diabetic Patients Undergoing Coronary Artery Bypass Grafting"
+        },
+        "StatusModule":{
+          "StatusVerifiedDate":"September 2022",
+          "OverallStatus":"Not yet recruiting",
+          "ExpandedAccessInfo":{
+            "HasExpandedAccess":"No"
+          },
+          "StartDateStruct":{
+            "StartDate":"September 2022",
+            "StartDateType":"Anticipated"
+          },
+          "PrimaryCompletionDateStruct":{
+            "PrimaryCompletionDate":"December 2022",
+            "PrimaryCompletionDateType":"Anticipated"
+          },
+          "CompletionDateStruct":{
+            "CompletionDate":"January 2023",
+            "CompletionDateType":"Anticipated"
+          },
+          "StudyFirstSubmitDate":"September 3, 2022",
+          "StudyFirstSubmitQCDate":"September 12, 2022",
+          "StudyFirstPostDateStruct":{
+            "StudyFirstPostDate":"September 14, 2022",
+            "StudyFirstPostDateType":"Actual"
+          },
+          "LastUpdateSubmitDate":"September 12, 2022",
+          "LastUpdatePostDateStruct":{
+            "LastUpdatePostDate":"September 14, 2022",
+            "LastUpdatePostDateType":"Actual"
+          }
+        },
+        "SponsorCollaboratorsModule":{
+          "ResponsibleParty":{
+            "ResponsiblePartyType":"Principal Investigator",
+            "ResponsiblePartyInvestigatorFullName":"Wei Feng",
+            "ResponsiblePartyInvestigatorTitle":"Clinical Professor",
+            "ResponsiblePartyInvestigatorAffiliation":"China National Center for Cardiovascular Diseases"
+          },
+          "LeadSponsor":{
+            "LeadSponsorName":"China National Center for Cardiovascular Diseases",
+            "LeadSponsorClass":"OTHER_GOV"
+          }
+        },
+        "OversightModule":{
+          "OversightHasDMC":"Yes",
+          "IsFDARegulatedDrug":"No",
+          "IsFDARegulatedDevice":"No"
+        },
+        "DescriptionModule":{
+          "BriefSummary":"Preoperative carbohydrates (CHO) supplement has been shown to alleviate postoperative insulin resistance (IR) in nondiabetic patients undergoing a variety of surgeries. However, it remains controversial whether preoperative CHO could yield similar effects in diabetic patients. Thus, the investigators design a randomized controlled trial investigating the impact of preoperative CHO on postoperative IR and clinical outcomes in diabetic patients undergoing cardiac surgery. The results of the study may give some clinical implications and further improve perioperative care for diabetic patients.",
+          "DetailedDescription":"CHO supplement has been widely investigated in nondiabetic patients undergoing various surgeries. It has been proved that preoperative CHO could alleviate postoperative insulin resistance (IR) and improve patients' well-being in nondiabetic patients. However, whether preoperative CHO could yield similar effects in diabetic patients remains controversial. Till now, seldom has the administration of preoperative CHO been investigated in diabetic patients and few studies reported IR and postoperative recovery of diabetic patients undergoing cardiac surgery. The investigators present a prospective, single-center, single-blind, randomized, no-treatment controlled trial of preoperative CHO on diabetic patients undergoing off-pump coronary artery bypass grafting (OPCAB). A total of 62 patients will be enrolled and randomized to either Group CHO or Group control (CTRL). Patients in group CHO will receive CHO fluid containing 50 g of carbohydrates the evening before surgery (20:00-24:00) while their counterparts in Group CTRL will be fasted after 20:00 the evening before surgery. The primary endpoints are postoperative insulin resistance (IR) assessed via homeostasis model assessment (HOMA). The secondary endpoints are the potential mediators relating to IR including inflammatory factors and stress reactions assessed by serum cortisol. Exploratory endpoints are in-hospital clinical endpoints."
+        },
+        "ConditionsModule":{
+          "ConditionList":{
+            "Condition":[
+              "Insulin Resistance",
+              "Diabetes Mellitus, Type 2",
+              "Coronary Artery Bypass Surgery"
+            ]
+          },
+          "KeywordList":{
+            "Keyword":[
+              "preoperative carbohydrates",
+              "diabetes mellitus",
+              "off-pump coronary artery bypass grafting",
+              "insulin resistance"
+            ]
+          }
+        },
+        "DesignModule":{
+          "StudyType":"Interventional",
+          "PhaseList":{
+            "Phase":[
+              "Not Applicable"
+            ]
+          },
+          "DesignInfo":{
+            "DesignAllocation":"Randomized",
+            "DesignInterventionModel":"Parallel Assignment",
+            "DesignPrimaryPurpose":"Treatment",
+            "DesignMaskingInfo":{
+              "DesignMasking":"Triple",
+              "DesignMaskingDescription":"The surgeons, anesthesiologists, ICU staff, nurses, outcome assessors, data collectors and data analysts will be blinded to the grouping.",
+              "DesignWhoMaskedList":{
+                "DesignWhoMasked":[
+                  "Care Provider",
+                  "Investigator",
+                  "Outcomes Assessor"
+                ]
+              }
+            }
+          },
+          "EnrollmentInfo":{
+            "EnrollmentCount":"62",
+            "EnrollmentType":"Anticipated"
+          }
+        },
+        "ArmsInterventionsModule":{
+          "ArmGroupList":{
+            "ArmGroup":[
+              {
+                "ArmGroupLabel":"Group CHO",
+                "ArmGroupType":"Experimental",
+                "ArmGroupDescription":"Patients in Group CHO will orally consume CHO 355ml containing 50 g of carbohydrates 8-12 hours before operation (20:00 -24:00 the evening before operation).",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Dietary Supplement: carbohydrates"
+                  ]
+                }
+              },{
+                "ArmGroupLabel":"Group CTRL",
+                "ArmGroupType":"No Intervention",
+                "ArmGroupDescription":"Patients in Group CTRL will consume no food or drink 12 hours before operation (20:00 the evening before operation)."
+              }
+            ]
+          },
+          "InterventionList":{
+            "Intervention":[
+              {
+                "InterventionType":"Dietary Supplement",
+                "InterventionName":"carbohydrates",
+                "InterventionDescription":"Patients will orally consume 355mL CHO after 20:00 the evening before surgery.",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Group CHO"
+                  ]
+                },
+                "InterventionOtherNameList":{
+                  "InterventionOtherName":[
+                    "Outfast"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "OutcomesModule":{
+          "PrimaryOutcomeList":{
+            "PrimaryOutcome":[
+              {
+                "PrimaryOutcomeMeasure":"Peri-operative Change from baseline HOMA-IR",
+                "PrimaryOutcomeDescription":"HOMA-IR = [blood insulin (mu/L) × Blood glucose (mmol/L)]/22.5",
+                "PrimaryOutcomeTimeFrame":"Before anesthesia induction"
+              },{
+                "PrimaryOutcomeMeasure":"Peri-operative Change from baseline HOMA-IR",
+                "PrimaryOutcomeDescription":"HOMA-IR = [blood insulin (mu/L) × Blood glucose (mmol/L)]/22.5",
+                "PrimaryOutcomeTimeFrame":"Immediately after surgery"
+              },{
+                "PrimaryOutcomeMeasure":"Peri-operative Change from baseline HOMA-IR",
+                "PrimaryOutcomeDescription":"HOMA-IR = [blood insulin (mu/L) × Blood glucose (mmol/L)]/22.5",
+                "PrimaryOutcomeTimeFrame":"The first morning after surgery"
+              },{
+                "PrimaryOutcomeMeasure":"Peri-operative Change from baseline HOMA-IR",
+                "PrimaryOutcomeDescription":"HOMA-IR = [blood insulin (mu/L) × Blood glucose (mmol/L)]/22.5",
+                "PrimaryOutcomeTimeFrame":"The second morning after surgery"
+              },{
+                "PrimaryOutcomeMeasure":"Peri-operative Change from baseline HOMA-IR",
+                "PrimaryOutcomeDescription":"HOMA-IR = [blood insulin (mu/L) × Blood glucose (mmol/L)]/22.5",
+                "PrimaryOutcomeTimeFrame":"The third morning after surgery"
+              },{
+                "PrimaryOutcomeMeasure":"Peri-operative Change from baseline HOMA-IR",
+                "PrimaryOutcomeDescription":"HOMA-IR = [blood insulin (mu/L) × Blood glucose (mmol/L)]/22.5",
+                "PrimaryOutcomeTimeFrame":"The fifth morning after surgery"
+              }
+            ]
+          },
+          "SecondaryOutcomeList":{
+            "SecondaryOutcome":[
+              {
+                "SecondaryOutcomeMeasure":"Interleukin -1 (IL-1)",
+                "SecondaryOutcomeDescription":"Inflammatory factors",
+                "SecondaryOutcomeTimeFrame":"The first morning after surgery"
+              },{
+                "SecondaryOutcomeMeasure":"Interleukin-6 (IL-6)",
+                "SecondaryOutcomeDescription":"Inflammatory factors",
+                "SecondaryOutcomeTimeFrame":"The first morning after surgery"
+              },{
+                "SecondaryOutcomeMeasure":"Interleukin-8 (IL-8),",
+                "SecondaryOutcomeDescription":"Inflammatory factors",
+                "SecondaryOutcomeTimeFrame":"The first morning after surgery"
+              },{
+                "SecondaryOutcomeMeasure":"Interleukin-10 (IL-10),",
+                "SecondaryOutcomeDescription":"Inflammatory factors",
+                "SecondaryOutcomeTimeFrame":"The first morning after surgery"
+              },{
+                "SecondaryOutcomeMeasure":"Tumor necrosis fator-α (TNF-α)",
+                "SecondaryOutcomeDescription":"Inflammatory factors",
+                "SecondaryOutcomeTimeFrame":"The first morning after surgery"
+              },{
+                "SecondaryOutcomeMeasure":"High-sensitivity C-reactive protein (hs-CRP)",
+                "SecondaryOutcomeDescription":"Inflammatory factors",
+                "SecondaryOutcomeTimeFrame":"The first morning after surgery"
+              }
+            ]
+          },
+          "OtherOutcomeList":{
+            "OtherOutcome":[
+              {
+                "OtherOutcomeMeasure":"Nausea or vomiting",
+                "OtherOutcomeDescription":"Nausea or vomiting requiring medical treatment such as ondansetron",
+                "OtherOutcomeTimeFrame":"In-hospital period after surgery (up to day 5)"
+              },{
+                "OtherOutcomeMeasure":"New-onset postoperative atrial fibrillation (POAF)",
+                "OtherOutcomeDescription":"POAF is defined as new onset atrial fibrillation lasting at least 10min on the electrocardiogram (ECG) monitor or atrial fibrillation that requires treatment with medication after surgery.",
+                "OtherOutcomeTimeFrame":"In-hospital period after surgery (up to day 5)"
+              },{
+                "OtherOutcomeMeasure":"Major adverse cardiovascular and cerebral events (MACCEs)",
+                "OtherOutcomeDescription":"A composite endpoints of all-cause death, non-fatal myocardial infarction, stroke.",
+                "OtherOutcomeTimeFrame":"In-hospital period after surgery (up to day 5)"
+              },{
+                "OtherOutcomeMeasure":"ICU length",
+                "OtherOutcomeDescription":"The length of patient's stay in the ICU",
+                "OtherOutcomeTimeFrame":"In-hospital period after surgery (up to day 5)"
+              },{
+                "OtherOutcomeMeasure":"Mechanical ventilation time",
+                "OtherOutcomeDescription":"Duration of patient ventilator-assisted breathing",
+                "OtherOutcomeTimeFrame":"In-hospital period after surgery (up to day 5)"
+              }
+            ]
+          }
+        },
+        "EligibilityModule":{
+          "EligibilityCriteria":"Inclusion Criteria:\n\nPreviously diagnosed T2DM\nDiagnosed with CAD with coronary angiography and indicated for OPCAB\nAge between 18 and 75 years old\nFirst operation in the morning and anesthesia induced around 8:00\nWritten informed consent by the patients\n\nExclusion Criteria:\n\nCombined with other heart diseases or vascular malformations that require surgery in addition to OPCAB\nPresence of symptoms or signs of heart failure such as orthopnea, distended jugular vein, lower extremity edema, etc.\nReduced LVEF (lower than 50%)\nCombined with gastroesophageal reflux\nCombined with thyroid insufficiency requiring replacement therapy with levothyroxine\nCombined with adrenal insufficiency requiring replacement therapy with corticosteroids\nRefuse to participate.",
+          "HealthyVolunteers":"No",
+          "Gender":"All",
+          "MinimumAge":"18 Years",
+          "MaximumAge":"75 Years",
+          "StdAgeList":{
+            "StdAge":[
+              "Adult",
+              "Older Adult"
+            ]
+          }
+        },
+        "IPDSharingStatementModule":{
+          "IPDSharing":"Yes",
+          "IPDSharingDescription":"Except for the identifying data such as patients name and admission ID, all the IPD could be available to other researchers on reasonable request.",
+          "IPDSharingInfoTypeList":{
+            "IPDSharingInfoType":[
+              "Study Protocol",
+              "Clinical Study Report (CSR)"
+            ]
+          },
+          "IPDSharingTimeFrame":"The data will become available after the publication of the study report.",
+          "IPDSharingAccessCriteria":"IPD could be accessed on reasonable request after approval of the principal investigator."
+        }
+      },
+      "DerivedSection":{
+        "MiscInfoModule":{
+          "VersionHolder":"September 19, 2022"
+        },
+        "ConditionBrowseModule":{
+          "ConditionMeshList":{
+            "ConditionMesh":[
+              {
+                "ConditionMeshId":"D000003920",
+                "ConditionMeshTerm":"Diabetes Mellitus"
+              },{
+                "ConditionMeshId":"D000003924",
+                "ConditionMeshTerm":"Diabetes Mellitus, Type 2"
+              },{
+                "ConditionMeshId":"D000007333",
+                "ConditionMeshTerm":"Insulin Resistance"
+              }
+            ]
+          },
+          "ConditionAncestorList":{
+            "ConditionAncestor":[
+              {
+                "ConditionAncestorId":"D000044882",
+                "ConditionAncestorTerm":"Glucose Metabolism Disorders"
+              },{
+                "ConditionAncestorId":"D000008659",
+                "ConditionAncestorTerm":"Metabolic Diseases"
+              },{
+                "ConditionAncestorId":"D000004700",
+                "ConditionAncestorTerm":"Endocrine System Diseases"
+              },{
+                "ConditionAncestorId":"D000006946",
+                "ConditionAncestorTerm":"Hyperinsulinism"
+              }
+            ]
+          },
+          "ConditionBrowseLeafList":{
+            "ConditionBrowseLeaf":[
+              {
+                "ConditionBrowseLeafId":"M6267",
+                "ConditionBrowseLeafName":"Diabetes Mellitus",
+                "ConditionBrowseLeafAsFound":"Diabetes Mellitus",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M6271",
+                "ConditionBrowseLeafName":"Diabetes Mellitus, Type 2",
+                "ConditionBrowseLeafAsFound":"Diabetes Mellitus, Type 2",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M9522",
+                "ConditionBrowseLeafName":"Insulin Resistance",
+                "ConditionBrowseLeafAsFound":"Insulin Resistance",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M10791",
+                "ConditionBrowseLeafName":"Metabolic Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M24556",
+                "ConditionBrowseLeafName":"Glucose Metabolism Disorders",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M7014",
+                "ConditionBrowseLeafName":"Endocrine System Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M9149",
+                "ConditionBrowseLeafName":"Hyperinsulinism",
+                "ConditionBrowseLeafRelevance":"low"
+              }
+            ]
+          },
+          "ConditionBrowseBranchList":{
+            "ConditionBrowseBranch":[
+              {
+                "ConditionBrowseBranchAbbrev":"BC18",
+                "ConditionBrowseBranchName":"Nutritional and Metabolic Diseases"
+              },{
+                "ConditionBrowseBranchAbbrev":"BC19",
+                "ConditionBrowseBranchName":"Gland and Hormone Related Diseases"
+              },{
+                "ConditionBrowseBranchAbbrev":"All",
+                "ConditionBrowseBranchName":"All Conditions"
+              }
+            ]
+          }
+        },
+        "InterventionBrowseModule":{
+          "InterventionBrowseLeafList":{
+            "InterventionBrowseLeaf":[
+              {
+                "InterventionBrowseLeafId":"M9517",
+                "InterventionBrowseLeafName":"Insulin",
+                "InterventionBrowseLeafRelevance":"low"
+              },{
+                "InterventionBrowseLeafId":"M172956",
+                "InterventionBrowseLeafName":"Insulin, Globin Zinc",
+                "InterventionBrowseLeafRelevance":"low"
+              }
+            ]
+          },
+          "InterventionBrowseBranchList":{
+            "InterventionBrowseBranch":[
+              {
+                "InterventionBrowseBranchAbbrev":"Hypo",
+                "InterventionBrowseBranchName":"Hypoglycemic Agents"
+              },{
+                "InterventionBrowseBranchAbbrev":"All",
+                "InterventionBrowseBranchName":"All Drugs and Chemicals"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+

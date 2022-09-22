@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2189">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01627574</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HD065942</org_study_id>
+    <secondary_id>R01HD065942</secondary_id>
+    <nct_id>NCT01627574</nct_id>
+  </id_info>
+  <brief_title>Contraceptive Awareness and Reproductive Education</brief_title>
+  <official_title>Contraceptive Awareness and Reproductive Education</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Rhode Island</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Brown University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Rhode Island</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The long-term objectives of this research are to develop effective treatments to reduce&#xD;
+      unplanned pregnancy and Sexually Transmitted Infections (STIs) for a highly under-served&#xD;
+      at-risk youth population.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This trial will evaluate a Motivational Interviewing (MI) intervention designed to improve&#xD;
+      contraceptive use and decrease STIs for at-risk youth for both those who do and do not want a&#xD;
+      pregnancy. Those interested in becoming pregnant will be counseled in the risks associated&#xD;
+      with teen pregnancy and what it means to have a healthy pregnancy and raise a child. The&#xD;
+      investigators will utilize Title X programs in Rhode Island to provide reproductive health&#xD;
+      services in the community. The investigators will recruit 325 at risk youth from Juvenile&#xD;
+      Justice programs, alternative schools, group homes, and Community Mental Health Centers and&#xD;
+      randomize them to two interventions: two sessions of personalized MI or two sessions of&#xD;
+      Awareness for Sexual Health (ASH), both delivered individually by trained counselors. MI is&#xD;
+      based on the principles of the Transtheoretical Model (TTM) and on MI, an empirically&#xD;
+      supported counseling technique designed to enhance readiness to change targeted behaviors.&#xD;
+      ASH provides didactic information about contraception, STI prevention and abstinence, and is&#xD;
+      intended to control for the effects of assessment and attention.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">February 2013</start_date>
+  <completion_date type="Actual">June 30, 2018</completion_date>
+  <primary_completion_date type="Actual">June 30, 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants With Continuous Use of Highly Effective Contraceptives Over 9 Months.</measure>
+    <time_frame>9 month follow-up</time_frame>
+    <description>Using the Timeline Followback (TLFB): Contraceptive use was measured via a calendar recall for both interventions.Continuous use of highly effective contraceptives at 9 Month follow up is determined if a participant remains on a highly effective contraceptive for 9 months. A participant switching from one highly effective contraceptive method to another is recorded as maintaining continuous contraceptive use at follow-up if she switches methods during times when the original method is still effective.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With a Positive STI Test After A Baseline Negative Test.</measure>
+    <time_frame>9 month follow-up</time_frame>
+    <description>Conducted STI testing for T. vaginalis, N. gonorrhoeae, and C. trachomatis through urine specimen collection. If a participant is diagnosed with an STI at baseline the youth will be referred for treatment at a Title X clinic and will be retested at the next follow-up visit. Any positive test after a baseline negative test will be documented as an incident infection.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants Who Initiated a Highly Effective Contraceptive Post Treatment in 9 Months.</measure>
+    <time_frame>9 month follow up</time_frame>
+    <description>Using the Timeline Followback (TLFB): The types of contraceptives used was captured via a calendar recall for both interventions. Initiation of highly effective contraceptives is determined if a participant ever endorses beginning a highly effective contraceptive at any time within 9 months.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With a Positive Pregnancy Test After Baseline Assessment</measure>
+    <time_frame>9 month follow up</time_frame>
+    <description>The secondary outcome is pregnancy as documented by a positive pregnancy test by at follow-up visit. Pregnancy tests were administered by urine collection and Home Pregnancy Test sticks.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants Who Used Condoms 100% of the Time Thus Reducing the Risk of STIs.</measure>
+    <time_frame>9 month follow up</time_frame>
+    <description>Using the Timeline Followback (TLFB): Condom use was measured via a calendar recall for both interventions. Participants indicate whether or not condoms were used each time sex was reported.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">272</enrollment>
+  <condition>Pregnancy</condition>
+  <condition>Sexually Transmitted Infections</condition>
+  <arm_group>
+    <arm_group_label>Motivational Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>There are two, 45-60 minute sessions of tailored Motivational Interviewing (MI). The first session occurs at the enrollment of the study, the second at 3 month follow-up.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Didactic Educational Intervention</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>There are two, 45-60 minute sessions of didactic educational intervention related to promoting awareness for sexual health involving contraception and STI prevention. The first session occurs at the enrollment of the study, the second at 3 month follow-up.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Motivational Intervention</intervention_name>
+    <description>There are two, 45-60 minutes sessions of tailored MI that occur at the enrollment of the study, and at 3 month follow-up.</description>
+    <arm_group_label>Motivational Intervention</arm_group_label>
+    <other_name>Motivational Interviewing (MI)</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Didactic Educational Intervention</intervention_name>
+    <description>There are two, 45-60 minute didactic sessions designed to provide information and awareness for sexual health involving contraception and STI prevention. The first session occurs after enrollment in the study, the second at 3 month follow-up.</description>
+    <arm_group_label>Didactic Educational Intervention</arm_group_label>
+    <other_name>Awareness of Sexual Health (ASH)</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  1) Age 14-21;&#xD;
+&#xD;
+          -  2) Currently sexually active with males defined as having had coital sex and intending&#xD;
+             to have coital sex within the next 6 months;&#xD;
+&#xD;
+          -  3) Willing to comply with protocol, follow-up assessments, and provide at least one&#xD;
+             locator; and&#xD;
+&#xD;
+          -  4) Fluent in English.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  1) Inability to give informed consent secondary to organic brain dysfunction, or&#xD;
+             active psychosis or otherwise not able to participate in the intervention or&#xD;
+             assessments (deaf, blind, or impaired communication skills that preclude participation&#xD;
+             in assessment or counseling);&#xD;
+&#xD;
+          -  2) Girls who are not sexually active; or&#xD;
+&#xD;
+          -  3) Currently pregnant.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>14 Years</minimum_age>
+    <maximum_age>21 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Lynda Stein, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Rhode Island</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Juvenile Probation</name>
+      <address>
+        <city>Cranston</city>
+        <state>Rhode Island</state>
+        <zip>02920</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2022</verification_date>
+  <study_first_submitted>June 15, 2012</study_first_submitted>
+  <study_first_submitted_qc>June 25, 2012</study_first_submitted_qc>
+  <study_first_posted type="Estimate">June 26, 2012</study_first_posted>
+  <results_first_submitted>October 26, 2018</results_first_submitted>
+  <results_first_submitted_qc>November 4, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">December 1, 2020</results_first_posted>
+  <last_update_submitted>May 16, 2022</last_update_submitted>
+  <last_update_submitted_qc>May 16, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 10, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Rhode Island</investigator_affiliation>
+    <investigator_full_name>Lynda Stein, Ph.D.</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Pregnancy</keyword>
+  <keyword>STI prevention</keyword>
+  <keyword>adolescents</keyword>
+  <keyword>probation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sexually Transmitted Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>April 2, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/74/NCT01627574/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>This project enrolled 272 at-risk females aged 14-21. Participants were eligible if they had sexual intercourse with a male partner in the past four months, were not pregnant and intended to have intercourse with a male in the next 6 months. Recruitment began in February of 2013 and the last participant was recruited in August of 2017.</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Motivational Intervention</title>
+          <description>There are two, 45-60 minute sessions of tailored Motivational Interviewing (MI). The first session occurs at the enrollment of the study, the second at 3 month follow-up.&#xD;
+Motivational Intervention: There are two, 45-60 minutes sessions of tailored MI that occur at the enrollment of the study, and at 3 month follow-up.</description>
+        </group>
+        <group group_id="P2">
+          <title>Didactic Educational Intervention</title>
+          <description>There are two, 45-60 minute sessions of didactic educational intervention related to promoting awareness for sexual health involving contraception and STI prevention. The first session occurs at the enrollment of the study, the second at 3 month follow-up.&#xD;
+Didactic Educational Intervention: There are two, 45-60 minute didactic sessions designed to provide information and awareness for sexual health involving contraception and STI prevention. The first session occurs after enrollment in the study, the second at 3 month follow-up.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="142"/>
+                <participants group_id="P2" count="130"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="121"/>
+                <participants group_id="P2" count="112"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="21"/>
+                <participants group_id="P2" count="18"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="8"/>
+                <participants group_id="P2" count="5"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="13"/>
+                <participants group_id="P2" count="13"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Motivational Intervention</title>
+          <description>There are two, 45-60 minute sessions of tailored Motivational Interviewing (MI). The first session occurs at the enrollment of the study, the second at 3 month follow-up.&#xD;
+Motivational Intervention: There are two, 45-60 minutes sessions of tailored MI that occur at the enrollment of the study, and at 3 month follow-up.</description>
+        </group>
+        <group group_id="B2">
+          <title>Didactic Educational Intervention</title>
+          <description>There are two, 45-60 minute sessions of didactic educational intervention related to promoting awareness for sexual health involving contraception and STI prevention. The first session occurs at the enrollment of the study, the second at 3 month follow-up.&#xD;
+Didactic Educational Intervention: There are two, 45-60 minute didactic sessions designed to provide information and awareness for sexual health involving contraception and STI prevention. The first session occurs after enrollment in the study, the second at 3 month follow-up.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="142"/>
+            <count group_id="B2" value="130"/>
+            <count group_id="B3" value="272"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16.97" spread="1.71"/>
+                    <measurement group_id="B2" value="16.99" spread="1.70"/>
+                    <measurement group_id="B3" value="16.98" spread="1.70"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="142"/>
+                    <measurement group_id="B2" value="130"/>
+                    <measurement group_id="B3" value="272"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="69"/>
+                    <measurement group_id="B2" value="51"/>
+                    <measurement group_id="B3" value="120"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="73"/>
+                    <measurement group_id="B2" value="79"/>
+                    <measurement group_id="B3" value="152"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="26"/>
+                    <measurement group_id="B2" value="32"/>
+                    <measurement group_id="B3" value="58"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="48"/>
+                    <measurement group_id="B2" value="47"/>
+                    <measurement group_id="B3" value="95"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="52"/>
+                    <measurement group_id="B2" value="40"/>
+                    <measurement group_id="B3" value="92"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="142"/>
+                    <measurement group_id="B2" value="130"/>
+                    <measurement group_id="B3" value="272"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With Continuous Use of Highly Effective Contraceptives Over 9 Months.</title>
+        <description>Using the Timeline Followback (TLFB): Contraceptive use was measured via a calendar recall for both interventions.Continuous use of highly effective contraceptives at 9 Month follow up is determined if a participant remains on a highly effective contraceptive for 9 months. A participant switching from one highly effective contraceptive method to another is recorded as maintaining continuous contraceptive use at follow-up if she switches methods during times when the original method is still effective.</description>
+        <time_frame>9 month follow-up</time_frame>
+        <population>Continuous use of highly effective birth control is defined as those who are using effective birth control for 6 months or more. Thus this analysis only includes participants who initiated effective birth control for at least 6 months of data collection.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Motivational Intervention</title>
+            <description>There are two, 45-60 minute sessions of tailored Motivational Interviewing (MI). The first session occurs at the enrollment of the study, the second at 3 month follow-up.&#xD;
+Motivational Intervention: There are two, 45-60 minutes sessions of tailored MI that occur at the enrollment of the study, and at 3 month follow-up.</description>
+          </group>
+          <group group_id="O2">
+            <title>Didactic Educational Intervention</title>
+            <description>There are two, 45-60 minute sessions of didactic educational intervention related to promoting awareness for sexual health involving contraception and STI prevention. The first session occurs at the enrollment of the study, the second at 3 month follow-up.&#xD;
+Didactic Educational Intervention: There are two, 45-60 minute didactic sessions designed to provide information and awareness for sexual health involving contraception and STI prevention. The first session occurs after enrollment in the study, the second at 3 month follow-up.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Continuous Use of Highly Effective Contraceptives Over 9 Months.</title>
+          <description>Using the Timeline Followback (TLFB): Contraceptive use was measured via a calendar recall for both interventions.Continuous use of highly effective contraceptives at 9 Month follow up is determined if a participant remains on a highly effective contraceptive for 9 months. A participant switching from one highly effective contraceptive method to another is recorded as maintaining continuous contraceptive use at follow-up if she switches methods during times when the original method is still effective.</description>
+          <population>Continuous use of highly effective birth control is defined as those who are using effective birth control for 6 months or more. Thus this analysis only includes participants who initiated effective birth control for at least 6 months of data collection.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="112"/>
+                <count group_id="O2" value="94"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="39"/>
+                    <measurement group_id="O2" value="29"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>&gt;.05</p_value>
+            <method>Chi-squared, Corrected</method>
+            <param_type>Risk Ratio, log</param_type>
+            <param_value>.281</param_value>
+            <dispersion_type>Standard Error of the Mean</dispersion_type>
+            <dispersion_value>.07</dispersion_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>.056</ci_lower_limit>
+            <ci_upper_limit>1.42</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With a Positive STI Test After A Baseline Negative Test.</title>
+        <description>Conducted STI testing for T. vaginalis, N. gonorrhoeae, and C. trachomatis through urine specimen collection. If a participant is diagnosed with an STI at baseline the youth will be referred for treatment at a Title X clinic and will be retested at the next follow-up visit. Any positive test after a baseline negative test will be documented as an incident infection.</description>
+        <time_frame>9 month follow-up</time_frame>
+        <population>Analysis conducted on all participants who provided a urine sample at baseline. 1 participant refused.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Motivational Intervention</title>
+            <description>There are two, 45-60 minute sessions of tailored Motivational Interviewing (MI). The first session occurs at the enrollment of the study, the second at 3 month follow-up.&#xD;
+Motivational Intervention: There are two, 45-60 minutes sessions of tailored MI that occur at the enrollment of the study, and at 3 month follow-up.</description>
+          </group>
+          <group group_id="O2">
+            <title>Didactic Educational Intervention</title>
+            <description>There are two, 45-60 minute sessions of didactic educational intervention related to promoting awareness for sexual health involving contraception and STI prevention. The first session occurs at the enrollment of the study, the second at 3 month follow-up.&#xD;
+Didactic Educational Intervention: There are two, 45-60 minute didactic sessions designed to provide information and awareness for sexual health involving contraception and STI prevention. The first session occurs after enrollment in the study, the second at 3 month follow-up.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With a Positive STI Test After A Baseline Negative Test.</title>
+          <description>Conducted STI testing for T. vaginalis, N. gonorrhoeae, and C. trachomatis through urine specimen collection. If a participant is diagnosed with an STI at baseline the youth will be referred for treatment at a Title X clinic and will be retested at the next follow-up visit. Any positive test after a baseline negative test will be documented as an incident infection.</description>
+          <population>Analysis conducted on all participants who provided a urine sample at baseline. 1 participant refused.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="142"/>
+                <count group_id="O2" value="129"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="18"/>
+                    <measurement group_id="O2" value="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants Who Initiated a Highly Effective Contraceptive Post Treatment in 9 Months.</title>
+        <description>Using the Timeline Followback (TLFB): The types of contraceptives used was captured via a calendar recall for both interventions. Initiation of highly effective contraceptives is determined if a participant ever endorses beginning a highly effective contraceptive at any time within 9 months.</description>
+        <time_frame>9 month follow up</time_frame>
+        <population>Analysis conducted on participants who initiated highly effective contraceptive use post treatment intervention. Those who initiated highly effective contraceptives at baseline (pre treatment) were not included in this analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Motivational Intervention</title>
+            <description>There are two, 45-60 minute sessions of tailored Motivational Interviewing (MI). The first session occurs at the enrollment of the study, the second at 3 month follow-up.&#xD;
+Motivational Intervention: There are two, 45-60 minutes sessions of tailored MI that occur at the enrollment of the study, and at 3 month follow-up.</description>
+          </group>
+          <group group_id="O2">
+            <title>Didactic Educational Intervention</title>
+            <description>There are two, 45-60 minute sessions of didactic educational intervention related to promoting awareness for sexual health involving contraception and STI prevention. The first session occurs at the enrollment of the study, the second at 3 month follow-up.&#xD;
+Didactic Educational Intervention: There are two, 45-60 minute didactic sessions designed to provide information and awareness for sexual health involving contraception and STI prevention. The first session occurs after enrollment in the study, the second at 3 month follow-up.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Who Initiated a Highly Effective Contraceptive Post Treatment in 9 Months.</title>
+          <description>Using the Timeline Followback (TLFB): The types of contraceptives used was captured via a calendar recall for both interventions. Initiation of highly effective contraceptives is determined if a participant ever endorses beginning a highly effective contraceptive at any time within 9 months.</description>
+          <population>Analysis conducted on participants who initiated highly effective contraceptive use post treatment intervention. Those who initiated highly effective contraceptives at baseline (pre treatment) were not included in this analysis.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="85"/>
+                <count group_id="O2" value="77"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="61"/>
+                    <measurement group_id="O2" value="51"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants With a Positive Pregnancy Test After Baseline Assessment</title>
+        <description>The secondary outcome is pregnancy as documented by a positive pregnancy test by at follow-up visit. Pregnancy tests were administered by urine collection and Home Pregnancy Test sticks.</description>
+        <time_frame>9 month follow up</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Motivational Intervention</title>
+            <description>There are two, 45-60 minute sessions of tailored Motivational Interviewing (MI). The first session occurs at the enrollment of the study, the second at 3 month follow-up.&#xD;
+Motivational Intervention: There are two, 45-60 minutes sessions of tailored MI that occur at the enrollment of the study, and at 3 month follow-up.</description>
+          </group>
+          <group group_id="O2">
+            <title>Didactic Educational Intervention</title>
+            <description>There are two, 45-60 minute sessions of didactic educational intervention related to promoting awareness for sexual health involving contraception and STI prevention. The first session occurs at the enrollment of the study, the second at 3 month follow-up.&#xD;
+Didactic Educational Intervention: There are two, 45-60 minute didactic sessions designed to provide information and awareness for sexual health involving contraception and STI prevention. The first session occurs after enrollment in the study, the second at 3 month follow-up.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With a Positive Pregnancy Test After Baseline Assessment</title>
+          <description>The secondary outcome is pregnancy as documented by a positive pregnancy test by at follow-up visit. Pregnancy tests were administered by urine collection and Home Pregnancy Test sticks.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="142"/>
+                <count group_id="O2" value="130"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                    <measurement group_id="O2" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants Who Used Condoms 100% of the Time Thus Reducing the Risk of STIs.</title>
+        <description>Using the Timeline Followback (TLFB): Condom use was measured via a calendar recall for both interventions. Participants indicate whether or not condoms were used each time sex was reported.</description>
+        <time_frame>9 month follow up</time_frame>
+        <posting_date>11/2023</posting_date>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Clients were assessed over a 9 month period.</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Motivational Intervention</title>
+          <description>There are two, 45-60 minute sessions of tailored Motivational Interviewing (MI). The first session occurs at the enrollment of the study, the second at 3 month follow-up.&#xD;
+Motivational Intervention: There are two, 45-60 minutes sessions of tailored MI that occur at the enrollment of the study, and at 3 month follow-up.</description>
+        </group>
+        <group group_id="E2">
+          <title>Didactic Educational Intervention</title>
+          <description>There are two, 45-60 minute sessions of didactic educational intervention related to promoting awareness for sexual health involving contraception and STI prevention. The first session occurs at the enrollment of the study, the second at 3 month follow-up.&#xD;
+Didactic Educational Intervention: There are two, 45-60 minute didactic sessions designed to provide information and awareness for sexual health involving contraception and STI prevention. The first session occurs after enrollment in the study, the second at 3 month follow-up.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="142"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="130"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="142"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="130"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="142"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="130"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Lynda Stein, Ph.D.</name_or_title>
+      <organization>University of Rhode Island</organization>
+      <phone>401-874-5562</phone>
+      <email>lmurphy@uri.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

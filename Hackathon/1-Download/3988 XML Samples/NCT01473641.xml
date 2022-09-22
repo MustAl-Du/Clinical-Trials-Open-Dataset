@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3663">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01473641</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ZEG2011_03</org_study_id>
+    <nct_id>NCT01473641</nct_id>
+  </id_info>
+  <brief_title>Nexplanon Observational Risk Assessment Study (NORA)</brief_title>
+  <acronym>NORA</acronym>
+  <official_title>Nexplanon Observational Risk Assessment Study (NORA)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Center for Epidemiology and Health Research, Germany</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Merck Sharp &amp; Dohme LLC</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Center for Epidemiology and Health Research, Germany</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study characterises the frequency of specific insertion-, localization- and&#xD;
+      removal-related events and clinically significant consequences thereof among Nexplanon users&#xD;
+      in the US during routine clinical use.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Nexplanon is a subdermal contraceptive implant containing the progestogen etonogestrel. It&#xD;
+      provides contraceptive protection for three years. In addition to the progestogen, Nexplanon&#xD;
+      contains barium sulfate and a Next Generation Implanon Applicator (NGIA). Nexplanon was&#xD;
+      developed to further facilitate correct insertion of the implant by using the NGIA, and to&#xD;
+      extend the diagnostic modalities for localization of the implant by making it radiopaque and&#xD;
+      visible via X-ray imaging and X-ray Computerized Tomography (CT).&#xD;
+&#xD;
+      A large, descriptive, prospective, non-interventional, observational cohort study is planned&#xD;
+      to follow a cohort of new users of the contraceptive implant Nexplanon. Women will be&#xD;
+      recruited through health care professionals who have completed the Nexplanon Clinical&#xD;
+      Training Program. Baseline and follow-up information will be collected via a&#xD;
+      self-administered questionnaire. Data analysis will include characterizing the frequency of&#xD;
+      specific insertion-, localization- and removal-related events via point-estimates of the&#xD;
+      event rate as well as 95% confidence intervals. The impact of potential prognostic factors&#xD;
+      will be analyzed using multivariate regression models and/or stratified analyses.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>November 2011</start_date>
+  <completion_date type="Actual">October 31, 2017</completion_date>
+  <primary_completion_date type="Actual">October 31, 2017</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Insertion-, localization- and removal-related events</measure>
+    <time_frame>Within 42 months after insertion</time_frame>
+    <description>Incorrect insertion (i.e. unrecognized non-insertion, partial insertion, deep insertion); palpability of the implant at insertion and removal; localization of a non-palpable implant; difficult removals; pregnancy due to unrecognized non-insertion of the implant; injury to neurovascular structures in the arm; hospitalization and/or surgical procedures for localization and/or removal.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pregnancy</measure>
+    <time_frame>Within 42 months after insertion</time_frame>
+    <description>Pre-treatment, in-treatment, post-treatment and non-insertion pregnancies.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pregnancy outcomes</measure>
+    <time_frame>Within 42 months after insertion</time_frame>
+    <description>Pregnancy outcomes in pregnancies where fetal exposure to etonogestrel may have taken place.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Reasons for (premature) discontinuation of Nexplanon</measure>
+    <time_frame>Within 42 months after insertion</time_frame>
+    <description>The reason(s) the patient had the implant removed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Baseline characteristics of Nexplanon users</measure>
+    <time_frame>Within 42 months after insertion</time_frame>
+    <description>Baseline characteristics (including contraceptive history, medical history, gynecological history and socio-demongraphic details).</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Actual">7364</enrollment>
+  <condition>Contraception</condition>
+  <arm_group>
+    <arm_group_label>New users of Nexplanon</arm_group_label>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Women using the contraceptive implant Nexplanon&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Women prescribed a new Nexplanon implant&#xD;
+&#xD;
+          -  Women who are capable of understanding the major aspects of the study and can complete&#xD;
+             the self-administered questionnaire in English&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Women who are not willing to sign the informed consent form&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Klaas Heinemann, MD, MBA, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Center for Epidemiology and Health Research, Berlin, Germany</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Center for Epidemiology and Health Research</name>
+      <address>
+        <city>Berlin</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <results_reference>
+    <citation>Reed S, Do Minh T, Lange JA, Koro C, Fox M, Heinemann K. Real world data on Nexplanon® procedure-related events: final results from the Nexplanon Observational Risk Assessment study (NORA). Contraception. 2019 Jul;100(1):31-36. doi: 10.1016/j.contraception.2019.03.052. Epub 2019 Apr 10.</citation>
+    <PMID>30980829</PMID>
+  </results_reference>
+  <verification_date>November 2019</verification_date>
+  <study_first_submitted>November 15, 2011</study_first_submitted>
+  <study_first_submitted_qc>November 16, 2011</study_first_submitted_qc>
+  <study_first_posted type="Estimate">November 17, 2011</study_first_posted>
+  <last_update_submitted>November 4, 2019</last_update_submitted>
+  <last_update_submitted_qc>November 4, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 7, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Center for Epidemiology and Health Research, Germany</investigator_affiliation>
+    <investigator_full_name>Klaas Heinemann, MD, PhD</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Etonogestrel</keyword>
+  <keyword>Contraceptive implant</keyword>
+  <keyword>Safety</keyword>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>July 15, 2011</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/41/NCT01473641/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>August 1, 2011</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/41/NCT01473641/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

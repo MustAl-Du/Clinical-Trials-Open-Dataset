@@ -1,0 +1,1514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3660">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01479478</url>
+  </required_header>
+  <id_info>
+    <org_study_id>18840</org_study_id>
+    <nct_id>NCT01479478</nct_id>
+  </id_info>
+  <brief_title>Effects of Oral Probiotic Supplementation on Group B Strep (GBS) Rectovaginal Colonization in Pregnancy</brief_title>
+  <official_title>Oral Probiotic Supplementation and Group B Streptococcus Rectovaginal Colonization in Pregnant Women: a Randomized Double-blind Placebo-controlled Trial.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Stanford University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The investigators wish to determine if oral probiotic supplementation during the second half&#xD;
+      of pregnancy decreases maternal GBS recto-vaginal colonization at 35-37 weeks' gestational&#xD;
+      age, thereby decreasing need for maternal antibiotic administration at time of labor. The&#xD;
+      importance of this study is that it may offer a safer alternative to antibiotic treatment of&#xD;
+      group B Streptococcus (GBS) colonized pregnant women.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      1. Screening: All pregnant women prior to 28 weeks gestational age. Patients who choose to&#xD;
+           enroll and who will not deliver at Lucile Packard Childrens Hospital at Stanford will&#xD;
+           sign release of medical information forms for study personnel to access pregnancy&#xD;
+           outcomes. Patients receiving obstetric care at any of the satellite research sites in&#xD;
+           Santa Cruz will also be offered enrollment in the study.&#xD;
+&#xD;
+        2. Women will continue regular and routine obstetric care and clinic visits.&#xD;
+&#xD;
+        3. Placebo vs probiotic daily regimen: We plan to begin administration of product and&#xD;
+           placebo at 20 weeks gestation, and no later than 28 weeks gestation until delivery. Once&#xD;
+           a women is enrolled in the study, she will be randomized to either the placebo or the&#xD;
+           probiotic group.&#xD;
+&#xD;
+        4. At the time of randomization, the patient will receive her month supply of 30 capsules;&#xD;
+           The allocation arm will be double-blinded.&#xD;
+&#xD;
+        5. The investigators will schedule the women for routine monthly obstetric visits (more&#xD;
+           often if clinically required) during which time they will also meet with one of the&#xD;
+           investigators. The investigator at each monthly visit will provide an additional monthly&#xD;
+           allotment of 30 capsules. The capsule bottle from the previous cycle will be collected&#xD;
+           and dated if there are capsules remaining in the bottle. Remaining capsules will be&#xD;
+           counted and refrigerated for future use.&#xD;
+&#xD;
+        6. The investigators will collect history data including safety data per the questionnaire&#xD;
+           and will document compliance with the study.&#xD;
+&#xD;
+        7. GBS recto-vaginal screening: The investigators will enroll the women in the study and we&#xD;
+           will perform the standard GBS colonization screening (using standard GBS recto-vaginal&#xD;
+           cultures) at 36 weeks.&#xD;
+&#xD;
+        8. Additionally, subjects may opt to have serial vaginal swabs collected to assess&#xD;
+           potential beneficial effects of probiotics on the vaginal microbiota and bacterial&#xD;
+           vaginosis (BV) status. Vaginal swabs will be collected (either by study personnel or&#xD;
+           self-collected by the study participant). Swabs will be inserted 1-2 inches into the&#xD;
+           vaginal introitus and spun for 20 seconds and then withdrawn. Swabs will be collected at&#xD;
+           the following time points: prior to probiotic/placebo initiation, every 1-4 weeks from&#xD;
+           time of enrollment to time of delivery, and postpartum serially up to 12 months. These&#xD;
+           swabs will be stored at -20 degrees Celsius or colder for additional microbiologic&#xD;
+           analyses.&#xD;
+&#xD;
+        9. Additionally, placental tissue may be collected at time of delivery for possible future&#xD;
+           microbiome and/or other analyses.&#xD;
+&#xD;
+       10. Women who suffer a premature rupture of the membranes, deliver before 36 weeks&#xD;
+           gestation, or go into labor before the GBS culture result is available, will receive the&#xD;
+           standard GBS antibiotic prophylaxis.&#xD;
+&#xD;
+       11. Labor: The patient will receive standard delivery and newborn care. Patients with a&#xD;
+           positive GBS culture will be treated with standard antibiotics in labor.&#xD;
+&#xD;
+       12. Postpartum and neonatal care: The patient will receive routine postpartum care per the&#xD;
+           obstetric team. Data regarding her postpartum course and neonatal outcomes will be&#xD;
+           collected.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>November 2011</start_date>
+  <completion_date type="Actual">July 26, 2017</completion_date>
+  <primary_completion_date type="Actual">July 26, 2017</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Count of Participants With Positive Group B Streptococcus Rectovaginal Colonization Status at 35- 37 Weeks' Gestational Age</measure>
+    <time_frame>35 to 37 weeks gestational age</time_frame>
+    <description>Gestational age is given in a format of full weeks.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Count of Participants With Urinary Tract Infection</measure>
+    <time_frame>From enrollment up to delivery hospitalization (up to 42 weeks gestation)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Count of Participants With Intrapartum Chorioamnionitis</measure>
+    <time_frame>From time of labor onset until delivery (up to 42 weeks of gestation)</time_frame>
+    <description>Intrapartum chorioamnionitis is maternal temperature above 38.0 degrees Celsius and one or more of the following findings: fetal tachycardia; maternal tachycardia; uterine tenderness; purulent or malodorous amniotic fluid, or elevated maternal white blood cell count.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Count of Participants With Endometritis</measure>
+    <time_frame>From time of delivery up to 6 weeks postpartum</time_frame>
+    <description>Endometritis is a uterine (myometrial) infection.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Count of Participants With Cellulitis</measure>
+    <time_frame>From time of delivery up to 6 weeks postpartum</time_frame>
+    <description>Cellulitis is a bacterial skin infection.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Count of Participants With Bacteremia</measure>
+    <time_frame>From time of labor onset up to 6 weeks postpartum</time_frame>
+    <description>Bacteremia is defined as presence of bacteria in the blood.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Count of Participants With Sepsis</measure>
+    <time_frame>From labor onset up to 6 weeks postpartum</time_frame>
+    <description>Sepsis is defined as life-threatening organ dysfunction caused by a dysregulated response of the body to an infection.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Count of Participants With Other Infectious Morbidity</measure>
+    <time_frame>From time of labor onset up to 6 weeks postpartum</time_frame>
+    <description>Other infectious morbidity included maternal mastitis or pneumonia.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Gestational Age at Delivery</measure>
+    <time_frame>At time of delivery (up to 42 weeks of gestation)</time_frame>
+    <description>Gestational age at delivery is presented as weeks.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Apgar Score at 1 and 5 Minutes Following Delivery</measure>
+    <time_frame>At time of delivery (up to 42 weeks of gestation)</time_frame>
+    <description>Apgar score is a measure to quickly assess the neonatal health status from time of delivery. Score ranges from 0-10. Lower scores correspond to worse health state; neonates with scores below 5 are considered to have poor prognosis.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neonatal Bilirubin Level</measure>
+    <time_frame>Up to 14 days following delivery</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neonatal C-reactive Protein Level</measure>
+    <time_frame>Up to 14 days following delivery</time_frame>
+    <description>Maximum neonatal C-reactive protein level</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Count of Neonates Requiring a &quot;Rule-out Sepsis Evaluation&quot;</measure>
+    <time_frame>Up to 14 days following delivery</time_frame>
+    <description>Outcome was based on performance of neonatal blood culture.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Count of Neonates With Sepsis</measure>
+    <time_frame>Up to 14 days following delivery</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Count of Neonates With Pneumonia</measure>
+    <time_frame>Up to 14 days following delivery</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Count of Neonates With Meningitis</measure>
+    <time_frame>Up to 14 days following delivery</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Count of Neonates With Intensive-care Unit Admission</measure>
+    <time_frame>Up to 14 days following delivery</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of Neonatal Hospital Stay</measure>
+    <time_frame>Up to 14 days following delivery</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">251</enrollment>
+  <condition>Infection</condition>
+  <condition>Pregnancy</condition>
+  <arm_group>
+    <arm_group_label>Probiotic dietary supplement</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Probiotic dietary supplement one capsule once per day until delivery.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo capsule, one daily until delivery.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>One placebo capsule daily.</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <other_name>Sugar pill</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Probiotic dietary supplement</intervention_name>
+    <description>Dietary Supplement: Lactobacillus rhamnosus GR-1, Lactobacillus reuteri RC -14</description>
+    <arm_group_label>Probiotic dietary supplement</arm_group_label>
+    <other_name>Other Names:</other_name>
+    <other_name>Jarrow's fem-dophilus</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Pregnant women between 20-28 weeks gestation.&#xD;
+&#xD;
+          2. 18 years of age or older.&#xD;
+&#xD;
+          3. Singleton gestation.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Preexisting morbidity: Immunocompromised status (HIV +; malignancy; history of organ&#xD;
+             transplant; chronic steroid therapy; autoimmune disease requiring treatment during&#xD;
+             pregnancy, and other immunocompromised states); Type 1 diabetes and type 2&#xD;
+             diabetes;congenital cardiac disease and cardiac valvular disease requiring antibiotic&#xD;
+             prophylaxis during procedure/labor; pulmonary disease (except mild asthma); renal&#xD;
+             disease; chronic hepatic disease (Hepatitis B, C); inflammatory bowel disease (Crohn's&#xD;
+             disease or ulcerative colitis); stomach or duodenal ulcer; bowel resection, gastric&#xD;
+             bypass, and chronic indwelling venous, bladder, or gastric catheter.&#xD;
+&#xD;
+          2. Multi-fetal gestation.&#xD;
+&#xD;
+          3. Use of probiotics preparations in the 3 months prior to beginning of the study&#xD;
+             treatment or use of any additional probiotics preparations (other than study&#xD;
+             treatment) at any time during the study period (including over the counter food&#xD;
+             supplements such as Activia, BioK, other oral or vaginal probiotics products (BUT not&#xD;
+             including other common forms of yogurt).&#xD;
+&#xD;
+          4. Chronic (daily) use of broad spectrum antibiotics.&#xD;
+&#xD;
+          5. History of infant with GBS sepsis.&#xD;
+&#xD;
+          6. Intrauterine Growth Restriction (IUGR), Fetal Anomalies-major diagnosed at time of&#xD;
+             second trimester anatomy ultrasound&#xD;
+&#xD;
+          7. Anticipated delivery &lt;35 wks for maternal/fetal indication&#xD;
+&#xD;
+          8. Placenta previa or accreta (with anticipated delivery prior to 35 weeks)&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Natali Aziz, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Stanford University School of Medicine/Lucile Packard Children's Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Aptos Women's Health Center</name>
+      <address>
+        <city>Aptos</city>
+        <state>California</state>
+        <zip>95003</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dominican Hospital</name>
+      <address>
+        <city>Santa Cruz</city>
+        <state>California</state>
+        <zip>95065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford University School of Medicine/Lucile Packard Children's Hospital</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2018</verification_date>
+  <study_first_submitted>November 22, 2011</study_first_submitted>
+  <study_first_submitted_qc>November 23, 2011</study_first_submitted_qc>
+  <study_first_posted type="Estimate">November 24, 2011</study_first_posted>
+  <results_first_submitted>July 18, 2018</results_first_submitted>
+  <results_first_submitted_qc>August 14, 2018</results_first_submitted_qc>
+  <results_first_posted type="Actual">August 20, 2018</results_first_posted>
+  <last_update_submitted>August 14, 2018</last_update_submitted>
+  <last_update_submitted_qc>August 14, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 20, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Stanford University</investigator_affiliation>
+    <investigator_full_name>Natali Aziz</investigator_full_name>
+    <investigator_title>Clinical Assistant Professor</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>November 19, 2013</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/78/NCT01479478/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>July 14, 2017</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/78/NCT01479478/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>Only expecting mothers were enrolled in this study. Neonatal data were collected from respective pregnancies, however, the neonates were not considered to be enrolled in this study.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Probiotic Dietary Supplement</title>
+          <description>Probiotic dietary supplement one capsule once per day until delivery.&#xD;
+Probiotic dietary supplement: Dietary Supplement: Lactobacillus rhamnosus GR-1, Lactobacillus reuteri RC -14</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo</title>
+          <description>Placebo capsule, one daily until delivery.&#xD;
+Placebo: One placebo capsule daily.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="125"/>
+                <participants group_id="P2" count="126"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="125"/>
+                <participants group_id="P2" count="126"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Probiotic Dietary Supplement</title>
+          <description>Probiotic dietary supplement one capsule once per day until delivery.&#xD;
+Probiotic dietary supplement: Dietary Supplement: Lactobacillus rhamnosus GR-1, Lactobacillus reuteri RC -14</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo</title>
+          <description>Placebo capsule, one daily until delivery.&#xD;
+Placebo: One placebo capsule daily.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="125"/>
+            <count group_id="B2" value="126"/>
+            <count group_id="B3" value="251"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="31.4" spread="5.7"/>
+                    <measurement group_id="B2" value="31.9" spread="5.3"/>
+                    <measurement group_id="B3" value="31.7" spread="5.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="125"/>
+                    <measurement group_id="B2" value="126"/>
+                    <measurement group_id="B3" value="251"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Non-Hispanic white</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="66"/>
+                    <measurement group_id="B2" value="71"/>
+                    <measurement group_id="B3" value="137"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Non-Hispanic other</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="21"/>
+                    <measurement group_id="B2" value="22"/>
+                    <measurement group_id="B3" value="43"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hispanic</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="32"/>
+                    <measurement group_id="B2" value="26"/>
+                    <measurement group_id="B3" value="58"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Unknown</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="125"/>
+                    <measurement group_id="B2" value="126"/>
+                    <measurement group_id="B3" value="251"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Pre-pregnancy Body Mass Index</title>
+          <units>kg/m^2</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="26.1" spread="6.5"/>
+                    <measurement group_id="B2" value="26.0" spread="7.5"/>
+                    <measurement group_id="B3" value="26.1" spread="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Count of Participants With Positive Group B Streptococcus Rectovaginal Colonization Status at 35- 37 Weeks' Gestational Age</title>
+        <description>Gestational age is given in a format of full weeks.</description>
+        <time_frame>35 to 37 weeks gestational age</time_frame>
+        <population>Participants with available data were included in the analysis</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Probiotic Dietary Supplement</title>
+            <description>Probiotic dietary supplement one capsule once per day until delivery.&#xD;
+Probiotic dietary supplement: Dietary Supplement: Lactobacillus rhamnosus GR-1, Lactobacillus reuteri RC -14</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo capsule, one daily until delivery.&#xD;
+Placebo: One placebo capsule daily.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Count of Participants With Positive Group B Streptococcus Rectovaginal Colonization Status at 35- 37 Weeks' Gestational Age</title>
+          <description>Gestational age is given in a format of full weeks.</description>
+          <population>Participants with available data were included in the analysis</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="108"/>
+                <count group_id="O2" value="117"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="20"/>
+                    <measurement group_id="O2" value="23"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.87</p_value>
+            <method>Cochran-Mantel-Haenszel</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Count of Participants With Urinary Tract Infection</title>
+        <time_frame>From enrollment up to delivery hospitalization (up to 42 weeks gestation)</time_frame>
+        <population>Participants with available data were included in the analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Probiotic Dietary Supplement</title>
+            <description>Probiotic dietary supplement one capsule once per day until delivery.&#xD;
+Probiotic dietary supplement: Dietary Supplement: Lactobacillus rhamnosus GR-1, Lactobacillus reuteri RC -14</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo capsule, one daily until delivery.&#xD;
+Placebo: One placebo capsule daily.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Count of Participants With Urinary Tract Infection</title>
+          <population>Participants with available data were included in the analysis.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="118"/>
+                <count group_id="O2" value="123"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8"/>
+                    <measurement group_id="O2" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Count of Participants With Intrapartum Chorioamnionitis</title>
+        <description>Intrapartum chorioamnionitis is maternal temperature above 38.0 degrees Celsius and one or more of the following findings: fetal tachycardia; maternal tachycardia; uterine tenderness; purulent or malodorous amniotic fluid, or elevated maternal white blood cell count.</description>
+        <time_frame>From time of labor onset until delivery (up to 42 weeks of gestation)</time_frame>
+        <population>Participants with available data were included in the analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Probiotic Dietary Supplement</title>
+            <description>Probiotic dietary supplement one capsule once per day until delivery.&#xD;
+Probiotic dietary supplement: Dietary Supplement: Lactobacillus rhamnosus GR-1, Lactobacillus reuteri RC -14</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo capsule, one daily until delivery.&#xD;
+Placebo: One placebo capsule daily.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Count of Participants With Intrapartum Chorioamnionitis</title>
+          <description>Intrapartum chorioamnionitis is maternal temperature above 38.0 degrees Celsius and one or more of the following findings: fetal tachycardia; maternal tachycardia; uterine tenderness; purulent or malodorous amniotic fluid, or elevated maternal white blood cell count.</description>
+          <population>Participants with available data were included in the analysis.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="118"/>
+                <count group_id="O2" value="121"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Count of Participants With Endometritis</title>
+        <description>Endometritis is a uterine (myometrial) infection.</description>
+        <time_frame>From time of delivery up to 6 weeks postpartum</time_frame>
+        <population>Participants with available data were included in the analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Probiotic Dietary Supplement</title>
+            <description>Probiotic dietary supplement one capsule once per day until delivery.&#xD;
+Probiotic dietary supplement: Dietary Supplement: Lactobacillus rhamnosus GR-1, Lactobacillus reuteri RC -14</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo capsule, one daily until delivery.&#xD;
+Placebo: One placebo capsule daily.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Count of Participants With Endometritis</title>
+          <description>Endometritis is a uterine (myometrial) infection.</description>
+          <population>Participants with available data were included in the analysis.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="116"/>
+                <count group_id="O2" value="119"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Count of Participants With Cellulitis</title>
+        <description>Cellulitis is a bacterial skin infection.</description>
+        <time_frame>From time of delivery up to 6 weeks postpartum</time_frame>
+        <population>Participants with available data were included in the analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Probiotic Dietary Supplement</title>
+            <description>Probiotic dietary supplement one capsule once per day until delivery.&#xD;
+Probiotic dietary supplement: Dietary Supplement: Lactobacillus rhamnosus GR-1, Lactobacillus reuteri RC -14</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo capsule, one daily until delivery.&#xD;
+Placebo: One placebo capsule daily.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Count of Participants With Cellulitis</title>
+          <description>Cellulitis is a bacterial skin infection.</description>
+          <population>Participants with available data were included in the analysis.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="118"/>
+                <count group_id="O2" value="123"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Count of Participants With Bacteremia</title>
+        <description>Bacteremia is defined as presence of bacteria in the blood.</description>
+        <time_frame>From time of labor onset up to 6 weeks postpartum</time_frame>
+        <population>Participants with available data were included in the analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Probiotic Dietary Supplement</title>
+            <description>Probiotic dietary supplement one capsule once per day until delivery.&#xD;
+Probiotic dietary supplement: Dietary Supplement: Lactobacillus rhamnosus GR-1, Lactobacillus reuteri RC -14</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo capsule, one daily until delivery.&#xD;
+Placebo: One placebo capsule daily.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Count of Participants With Bacteremia</title>
+          <description>Bacteremia is defined as presence of bacteria in the blood.</description>
+          <population>Participants with available data were included in the analysis.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="116"/>
+                <count group_id="O2" value="119"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Count of Participants With Sepsis</title>
+        <description>Sepsis is defined as life-threatening organ dysfunction caused by a dysregulated response of the body to an infection.</description>
+        <time_frame>From labor onset up to 6 weeks postpartum</time_frame>
+        <population>Participants with available data were included in the analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Probiotic Dietary Supplement</title>
+            <description>Probiotic dietary supplement one capsule once per day until delivery.&#xD;
+Probiotic dietary supplement: Dietary Supplement: Lactobacillus rhamnosus GR-1, Lactobacillus reuteri RC -14</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo capsule, one daily until delivery.&#xD;
+Placebo: One placebo capsule daily.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Count of Participants With Sepsis</title>
+          <description>Sepsis is defined as life-threatening organ dysfunction caused by a dysregulated response of the body to an infection.</description>
+          <population>Participants with available data were included in the analysis.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="116"/>
+                <count group_id="O2" value="119"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Count of Participants With Other Infectious Morbidity</title>
+        <description>Other infectious morbidity included maternal mastitis or pneumonia.</description>
+        <time_frame>From time of labor onset up to 6 weeks postpartum</time_frame>
+        <population>Participants with available data were included in the analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Probiotic Dietary Supplement</title>
+            <description>Probiotic dietary supplement one capsule once per day until delivery.&#xD;
+Probiotic dietary supplement: Dietary Supplement: Lactobacillus rhamnosus GR-1, Lactobacillus reuteri RC -14</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo capsule, one daily until delivery.&#xD;
+Placebo: One placebo capsule daily.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Count of Participants With Other Infectious Morbidity</title>
+          <description>Other infectious morbidity included maternal mastitis or pneumonia.</description>
+          <population>Participants with available data were included in the analysis.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="116"/>
+                <count group_id="O2" value="119"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Gestational Age at Delivery</title>
+        <description>Gestational age at delivery is presented as weeks.</description>
+        <time_frame>At time of delivery (up to 42 weeks of gestation)</time_frame>
+        <population>Participants with available data were included in the analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Probiotic Dietary Supplement</title>
+            <description>Probiotic dietary supplement one capsule once per day until delivery.&#xD;
+Probiotic dietary supplement: Dietary Supplement: Lactobacillus rhamnosus GR-1, Lactobacillus reuteri RC -14</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo capsule, one daily until delivery.&#xD;
+Placebo: One placebo capsule daily.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Gestational Age at Delivery</title>
+          <description>Gestational age at delivery is presented as weeks.</description>
+          <population>Participants with available data were included in the analysis.</population>
+          <units>weeks</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="117"/>
+                <count group_id="O2" value="121"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="39.6" lower_limit="39.0" upper_limit="40.6"/>
+                    <measurement group_id="O2" value="39.4" lower_limit="38.7" upper_limit="40.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Apgar Score at 1 and 5 Minutes Following Delivery</title>
+        <description>Apgar score is a measure to quickly assess the neonatal health status from time of delivery. Score ranges from 0-10. Lower scores correspond to worse health state; neonates with scores below 5 are considered to have poor prognosis.</description>
+        <time_frame>At time of delivery (up to 42 weeks of gestation)</time_frame>
+        <population>Participants with available data were included in the analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Probiotic Dietary Supplement</title>
+            <description>Probiotic dietary supplement one capsule once per day until delivery.&#xD;
+Probiotic dietary supplement: Dietary Supplement: Lactobacillus rhamnosus GR-1, Lactobacillus reuteri RC -14</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo capsule, one daily until delivery.&#xD;
+Placebo: One placebo capsule daily.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Apgar Score at 1 and 5 Minutes Following Delivery</title>
+          <description>Apgar score is a measure to quickly assess the neonatal health status from time of delivery. Score ranges from 0-10. Lower scores correspond to worse health state; neonates with scores below 5 are considered to have poor prognosis.</description>
+          <population>Participants with available data were included in the analysis.</population>
+          <units>units on a scale</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="113"/>
+                <count group_id="O2" value="119"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>At 1 minute</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8" lower_limit="7" upper_limit="9"/>
+                    <measurement group_id="O2" value="8" lower_limit="8" upper_limit="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>At 5 minutes</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9" lower_limit="9" upper_limit="9"/>
+                    <measurement group_id="O2" value="9" lower_limit="9" upper_limit="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Neonatal Bilirubin Level</title>
+        <time_frame>Up to 14 days following delivery</time_frame>
+        <population>Participants with available data were included in the analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Probiotic Dietary Supplement</title>
+            <description>Probiotic dietary supplement one capsule once per day until delivery.&#xD;
+Probiotic dietary supplement: Dietary Supplement: Lactobacillus rhamnosus GR-1, Lactobacillus reuteri RC -14</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo capsule, one daily until delivery.&#xD;
+Placebo: One placebo capsule daily.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Neonatal Bilirubin Level</title>
+          <population>Participants with available data were included in the analysis.</population>
+          <units>mg/dL</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="104"/>
+                <count group_id="O2" value="94"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.4" lower_limit="5.1" upper_limit="9.6"/>
+                    <measurement group_id="O2" value="6.5" lower_limit="4.9" upper_limit="9.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Neonatal C-reactive Protein Level</title>
+        <description>Maximum neonatal C-reactive protein level</description>
+        <time_frame>Up to 14 days following delivery</time_frame>
+        <population>Participants with available data were included in the analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Probiotic Dietary Supplement</title>
+            <description>Probiotic dietary supplement one capsule once per day until delivery.&#xD;
+Probiotic dietary supplement: Dietary Supplement: Lactobacillus rhamnosus GR-1, Lactobacillus reuteri RC -14</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo capsule, one daily until delivery.&#xD;
+Placebo: One placebo capsule daily.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Neonatal C-reactive Protein Level</title>
+          <description>Maximum neonatal C-reactive protein level</description>
+          <population>Participants with available data were included in the analysis.</population>
+          <units>mg/L</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="23"/>
+                <count group_id="O2" value="18"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.6" lower_limit="0.3" upper_limit="4.1"/>
+                    <measurement group_id="O2" value="1.2" lower_limit="0.4" upper_limit="2.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Count of Neonates Requiring a &quot;Rule-out Sepsis Evaluation&quot;</title>
+        <description>Outcome was based on performance of neonatal blood culture.</description>
+        <time_frame>Up to 14 days following delivery</time_frame>
+        <population>Participants with available data were included in the analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Probiotic Dietary Supplement</title>
+            <description>Probiotic dietary supplement one capsule once per day until delivery.&#xD;
+Probiotic dietary supplement: Dietary Supplement: Lactobacillus rhamnosus GR-1, Lactobacillus reuteri RC -14</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo capsule, one daily until delivery.&#xD;
+Placebo: One placebo capsule daily.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Count of Neonates Requiring a &quot;Rule-out Sepsis Evaluation&quot;</title>
+          <description>Outcome was based on performance of neonatal blood culture.</description>
+          <population>Participants with available data were included in the analysis.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="115"/>
+                <count group_id="O2" value="121"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                    <measurement group_id="O2" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Count of Neonates With Sepsis</title>
+        <time_frame>Up to 14 days following delivery</time_frame>
+        <population>Participants with available data were included in the analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Probiotic Dietary Supplement</title>
+            <description>Probiotic dietary supplement one capsule once per day until delivery.&#xD;
+Probiotic dietary supplement: Dietary Supplement: Lactobacillus rhamnosus GR-1, Lactobacillus reuteri RC -14</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo capsule, one daily until delivery.&#xD;
+Placebo: One placebo capsule daily.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Count of Neonates With Sepsis</title>
+          <population>Participants with available data were included in the analysis.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="115"/>
+                <count group_id="O2" value="121"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Count of Neonates With Pneumonia</title>
+        <time_frame>Up to 14 days following delivery</time_frame>
+        <population>Participants with available data were included in the analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Probiotic Dietary Supplement</title>
+            <description>Probiotic dietary supplement one capsule once per day until delivery.&#xD;
+Probiotic dietary supplement: Dietary Supplement: Lactobacillus rhamnosus GR-1, Lactobacillus reuteri RC -14</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo capsule, one daily until delivery.&#xD;
+Placebo: One placebo capsule daily.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Count of Neonates With Pneumonia</title>
+          <population>Participants with available data were included in the analysis.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="115"/>
+                <count group_id="O2" value="121"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Count of Neonates With Meningitis</title>
+        <time_frame>Up to 14 days following delivery</time_frame>
+        <population>Participants with available data were included in the analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Probiotic Dietary Supplement</title>
+            <description>Probiotic dietary supplement one capsule once per day until delivery.&#xD;
+Probiotic dietary supplement: Dietary Supplement: Lactobacillus rhamnosus GR-1, Lactobacillus reuteri RC -14</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo capsule, one daily until delivery.&#xD;
+Placebo: One placebo capsule daily.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Count of Neonates With Meningitis</title>
+          <population>Participants with available data were included in the analysis.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="115"/>
+                <count group_id="O2" value="121"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Count of Neonates With Intensive-care Unit Admission</title>
+        <time_frame>Up to 14 days following delivery</time_frame>
+        <population>Participants with available data were included in the analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Probiotic Dietary Supplement</title>
+            <description>Probiotic dietary supplement one capsule once per day until delivery.&#xD;
+Probiotic dietary supplement: Dietary Supplement: Lactobacillus rhamnosus GR-1, Lactobacillus reuteri RC -14</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo capsule, one daily until delivery.&#xD;
+Placebo: One placebo capsule daily.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Count of Neonates With Intensive-care Unit Admission</title>
+          <population>Participants with available data were included in the analysis.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="115"/>
+                <count group_id="O2" value="121"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12"/>
+                    <measurement group_id="O2" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Length of Neonatal Hospital Stay</title>
+        <time_frame>Up to 14 days following delivery</time_frame>
+        <population>Participants with available data were included in the analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Probiotic Dietary Supplement</title>
+            <description>Probiotic dietary supplement one capsule once per day until delivery.&#xD;
+Probiotic dietary supplement: Dietary Supplement: Lactobacillus rhamnosus GR-1, Lactobacillus reuteri RC -14</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo capsule, one daily until delivery.&#xD;
+Placebo: One placebo capsule daily.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Length of Neonatal Hospital Stay</title>
+          <population>Participants with available data were included in the analysis.</population>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="113"/>
+                <count group_id="O2" value="116"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2" lower_limit="2" upper_limit="3"/>
+                    <measurement group_id="O2" value="2" lower_limit="2" upper_limit="2.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>From enrollment up to 6 weeks following delivery.</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Probiotic Dietary Supplement</title>
+          <description>Probiotic dietary supplement one capsule once per day until delivery.&#xD;
+Probiotic dietary supplement: Dietary Supplement: Lactobacillus rhamnosus GR-1, Lactobacillus reuteri RC -14</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo</title>
+          <description>Placebo capsule, one daily until delivery.&#xD;
+Placebo: One placebo capsule daily.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="125"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="126"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="125"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="126"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Pregnancy, puerperium and perinatal conditions</title>
+            <event_list>
+              <event>
+                <sub_title>Any other anticipated or unanticipated life-threatening event:intra-uterine fetal growth restriction</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="125"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="126"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="125"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="126"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Natali Aziz, MD</name_or_title>
+      <organization>Stanford University</organization>
+      <phone>650-725-5720</phone>
+      <email>mfmresearch@stanford.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

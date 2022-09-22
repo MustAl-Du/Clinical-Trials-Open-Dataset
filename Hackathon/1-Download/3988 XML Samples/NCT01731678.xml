@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3759">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01731678</url>
+  </required_header>
+  <id_info>
+    <org_study_id>E-24656</org_study_id>
+    <nct_id>NCT01731678</nct_id>
+  </id_info>
+  <brief_title>Transcranial Magnetic Stimulation for Adolescent Depression</brief_title>
+  <acronym>TMSAD</acronym>
+  <official_title>Transcranial Magnetic Stimulation for Adolescent Depression</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Calgary</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Calgary</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Major depression (or MDD) in adolescents is a major public health problem. MDD affects&#xD;
+      approximately 15% of adolescents; it is associated with impairment in social, family, and&#xD;
+      academic functioning, and it is a major risk factor for suicide - a leading cause of death in&#xD;
+      adolescents . Unfortunately, there is a paucity of treatment options for this age group.&#xD;
+      Selective serotonin reuptake inhibitors (SSRIs) are the only class of medications approved&#xD;
+      for treating MDD in adolescents, but rates of remission following treatment with SSRIs are&#xD;
+      only 30 to 45 percent. Cognitive behavior therapy is associated with similar remission rates&#xD;
+      and access is limited. Most adolescents will require more than one therapeutic intervention&#xD;
+      in order to achieve full symptom control. Collectively, there is overwhelming evidence that&#xD;
+      additional treatment options are urgently needed to improve outcomes for teens with MDD. One&#xD;
+      novel treatment for adolescent MDD is repetitive transcranial magnetic stimulation (rTMS).&#xD;
+      Studies in children have been limited (a total of 23 cases). This is surprising given the&#xD;
+      evidence suggesting younger adult subjects with MDD respond better to rTMS (56% response&#xD;
+      rate) than older subjects. This limited experience with rTMS for adolescent MDD represents a&#xD;
+      substantial gap in the knowledge, recently recognized in publications calling for further&#xD;
+      study of rTMS in adolescent depression. Most importantly, the mechanism of action of rTMS in&#xD;
+      adolescent MDD is not well understood. The objective of this application is to develop an&#xD;
+      understanding of the brain alterations associated with the positive clinical changes that&#xD;
+      occur with rTMS in adolescent MDD. Such knowledge will provide the basis for pursuing rTMS&#xD;
+      for adolescent MDD as a rational therapeutic technique.&#xD;
+&#xD;
+      Specific Aim: To compare the effect of rTMS on DLPFC glutamate concentration in adolescent&#xD;
+      MDD. The investigators hypothesize an increase (normalization to controls) in DLPFC glutamate&#xD;
+      after three weeks of rTMS. Furthermore, the change in glutamate concentration will correlate&#xD;
+      with a change in MDD symptoms.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PURPOSE: The purpose of this study is to identify neuroimaging, physiological, and clinical&#xD;
+      predictors of response, remission, and recovery to repetitive transcranial magnetic&#xD;
+      stimulation in youth with treatment resistant major depressive disorder.&#xD;
+&#xD;
+      BACKGROUND: Major depressive disorder (MDD) is a major public health problem in adolescents.&#xD;
+      Unfortunately, there are no effectively targeted treatment options for this age group.&#xD;
+      Current remedies are limited in their effectiveness in youth with response and remission&#xD;
+      rates no greater than 60 to 30% respectively and treatment effects are not sustained&#xD;
+      throughout the life cycle. Further, ongoing controversies persist regarding the safety of&#xD;
+      antidepressants in youth. Current interventions were developed to solely target the symptoms&#xD;
+      of rather than the underlying neurobiology. Most importantly, there is no way to accurately&#xD;
+      predict an individual patient's response to interventions. Consequently, there is a critical&#xD;
+      need for optimally targeted interventions that directly address the relevant pathophysiology&#xD;
+      of depression.&#xD;
+&#xD;
+      Repetitive transcranial magnetic stimulation (rTMS) targeting the left dorsolateral&#xD;
+      prefrontal cortex (DLPFC) is effective in adults with depression. rTMS is twice as likely to&#xD;
+      result in response (relative risk or RR: 2.35 [95% confidence interval or CI: 1.70-3.25]) and&#xD;
+      remission (RR: 2.24 [95% CI: 1.53-3.27] than a sham procedure Evidence in youth is also&#xD;
+      encouraging, with a 66% response rate in our pilot data (see Summary of Progress). The DLPFC&#xD;
+      plays a critical role in emotional regulation, directly connecting it to depressive&#xD;
+      symptomology. Our lab and others have clearly implicated structural and functional deficits&#xD;
+      in the DLPFC in youth with MDD. What is not known is what biomarkers best predict response,&#xD;
+      remission, and recovery with rTMS in youth with treatment resistant MDD. As response is not&#xD;
+      universal, this is a significant gap in our knowledge. Our basic model is that rTMS increases&#xD;
+      expression of BDNF, up-regulates activity of endocannabinoids, increases glutamate&#xD;
+      concentrations, and increases DLPFC activity - correcting the deficit seen in MDD. These&#xD;
+      biologic changes enhance executive control of mood state (see our pilot data in the Summary&#xD;
+      of Progress). These positive effects may be moderated by comorbidity (i.e., social phobia)&#xD;
+      and genotype (i.e., BDNF). How this model fits with response, remission, and recovery has yet&#xD;
+      to be fully tested and this information has the potential to be directly clinically&#xD;
+      meaningful. The central aim of the project is to evaluate predictors of rTMS response,&#xD;
+      remission, and recovery based on integrated neuroimaging, physiological, and clinical&#xD;
+      measures. While not a clinical trial per se (efficacy is not the primary outcome measure), we&#xD;
+      will use a non-randomized sham lead in to a single active (rTMS) arm study design as a&#xD;
+      framework for biomarker discovery.&#xD;
+&#xD;
+      To accomplish this goal, we will pursue the following specific aims: The primary aim is to&#xD;
+      identify baseline neuroimaging, physiological, and clinical predictors of response to 3 weeks&#xD;
+      of rTMS treatment in adolescents with treatment resistant MDD.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">November 2012</start_date>
+  <completion_date type="Actual">December 2018</completion_date>
+  <primary_completion_date type="Actual">April 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>Open label rTMS</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Hamilton Depression Rating Scale</measure>
+    <time_frame>Three weeks</time_frame>
+    <description>Response defined as: a reduction of Hamilton Depression Rating Scale score of 50% or more Name: Hamilton Depression Rating Scale Construct: Depression Range: 0-52 Direction: Higher is worse depression symptoms/severity Sub-scales: Not applicable. Reference: Hamilton M. Development of a rating scale for primary depressive illness. Br J Soc Clin Psychol. 1967 Dec;6(4):278-96.</description>
+  </primary_outcome>
+  <other_outcome>
+    <measure>Interim Analysis - rTMS Tolerability Scale</measure>
+    <time_frame>After the first 10 patients are completed</time_frame>
+    <description>There will be an interim analysis to review safety, tolerability (as measured by our rTMS tolerability scale) after the first 10 rTMS patients. Should there be significant concerns, the team will terminate the study. Ten was selected as it is close to previous reports and should be informative.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Interim Analysis - Ham-D</measure>
+    <time_frame>After the first 10 patients are completed</time_frame>
+    <description>There will be an interim analysis to review response (Ham-D) after the first 10 rTMS patients. Should there be significant concerns, the team will terminate the study. Ten was selected as it is close to previous reports and should be informative.</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">39</enrollment>
+  <condition>Major Depressive Disorder</condition>
+  <arm_group>
+    <arm_group_label>Transcranial Magnetic Stimulation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The standardized treatment location will be the left DLPFC. Anatomical T1 images from the pre-intervention MRI will be loaded into our Transcranial Magnetic Stimulation (TMS) lab neuronavigation software (Brainsight2, Rogue Research, Montreal). Following 3D co-registration of the TMS coil with the patient's MRI images and head, the coil will be placed over the left DLPFC (tangential to scalp, angle of 45 degrees to midline). Interventional repetitive TMS (rTMS) (Magstim Rapid2, Wales, UK) will consist of 40 suprathreshold (120% RMT) pulses over 4 seconds (10 Hz) with an inter-train interval of 26 seconds. Treatment sessions will last 37.5 minutes (75 trains/3000 pulses). Treatments will occur on each weekday for three weeks (15 days total).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Transcranial Magnetic Stimulation</intervention_name>
+    <description>The standardized treatment location will be the left DLPFC. Anatomical T1 images from the pre-intervention MRI will be loaded into our Transcranial Magnetic Stimulation (TMS) lab neuronavigation software (Brainsight2, Rogue Research, Montreal). Following 3D co-registration of the TMS coil with the patient's MRI images and head, the coil will be placed over the left DLPFC (tangential to scalp, angle of 45 degrees to midline). Interventional repetitive TMS (rTMS) (Magstim Rapid2, Wales, UK) will consist of 40 suprathreshold (120% RMT) pulses over 4 seconds (10 Hz) with an inter-train interval of 26 seconds. Treatment sessions will last 37.5 minutes (75 trains/3000 pulses). Treatments will occur on each weekday for three weeks (15 days total).</description>
+    <arm_group_label>Transcranial Magnetic Stimulation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  age (12-22 years),&#xD;
+&#xD;
+          -  MDD failing to respond to at least one SSRI trial (minimum 8 weeks treatment at an&#xD;
+             adequate dose; determined retrospectively), and&#xD;
+&#xD;
+          -  informed consent. Healthy controls with no psychiatric history (who do not receive&#xD;
+             rTMS) will undergo MRI scans to allow for comparison with MDD patients.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  previous seizures or epilepsy,&#xD;
+&#xD;
+          -  hypertension,&#xD;
+&#xD;
+          -  additional neurological or psychiatric diagnoses (specifically: bipolar disorder,&#xD;
+             psychosis, pervasive developmental disorder, eating disorders, and post-traumatic&#xD;
+             stress disorder).&#xD;
+&#xD;
+        As 3T MRI will be used, pregnancy is exclusionary.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>21 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Frank P MacMaster, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Calgary</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Alberta Children's Hospital</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <zip>T3B 6A8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>November 3, 2012</study_first_submitted>
+  <study_first_submitted_qc>November 21, 2012</study_first_submitted_qc>
+  <study_first_posted type="Estimate">November 22, 2012</study_first_posted>
+  <results_first_submitted>September 24, 2019</results_first_submitted>
+  <results_first_submitted_qc>October 25, 2019</results_first_submitted_qc>
+  <results_first_posted type="Actual">November 15, 2019</results_first_posted>
+  <last_update_submitted>September 3, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 3, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 25, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Calgary</investigator_affiliation>
+    <investigator_full_name>Frank MacMaster, PhD</investigator_full_name>
+    <investigator_title>Cuthbertson and Fischer Chair in Paediatric Mental Health</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Depressive Disorder</mesh_term>
+    <mesh_term>Depressive Disorder, Major</mesh_term>
+  </condition_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>April 29, 2012</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/78/NCT01731678/ICF_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>April 29, 2012</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/78/NCT01731678/Prot_SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Transcranial Magnetic Stimulation</title>
+          <description>The standardized treatment location is the left DLPFC. Anatomical T1 images from the pre-intervention MRI were loaded into our neuronavigation software (Brainsight2, Rogue Research, Montreal). The coil was placed over the left DLPFC (tangential to scalp, angle of 45 degrees to midline). Interventional repetitive TMS (rTMS) (Magstim Rapid2, Wales, UK) consisted of 40 suprathreshold (120% RMT) pulses over 4 seconds (10 Hz) with an inter-train interval of 26 seconds. Treatment sessions will last 37.5 minutes (75 trains/3000 pulses). Treatments will occur on each weekday for three weeks (15 days total).</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="39"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="32"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="7"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Did not meet inclusion criteria</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>RMT too high, making TMS difficult</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Transcranial Magnetic Stimulation</title>
+          <description>The standardized treatment location is the left DLPFC. Anatomical T1 images from the pre-intervention MRI were loaded into our neuronavigation software (Brainsight2, Rogue Research, Montreal). The coil was placed over the left DLPFC (tangential to scalp, angle of 45 degrees to midline). Interventional repetitive TMS (rTMS) (Magstim Rapid2, Wales, UK) consisted of 40 suprathreshold (120% RMT) pulses over 4 seconds (10 Hz) with an inter-train interval of 26 seconds. Treatment sessions will last 37.5 minutes (75 trains/3000 pulses). Treatments will occur on each weekday for three weeks (15 days total).</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="32"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="32"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17.57" spread="1.98"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="32"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race and Ethnicity Not Collected</title>
+          <population>Race and Ethnicity were not collected from any participant.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>Canada</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="32"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="32"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Baseline Hamilton Depression Rating Scale Score</title>
+          <description>Name: Hamilton Depression Rating Scale Construct: Depression Range: 0-52 Direction: Higher is worse depression symptoms/severity Sub-scales: Not applicable. Reference: Hamilton M. Development of a rating scale for primary depressive illness. Br J Soc Clin Psychol. 1967 Dec;6(4):278-96.</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="32"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="20.25" spread="6.37"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Hamilton Depression Rating Scale</title>
+        <description>Response defined as: a reduction of Hamilton Depression Rating Scale score of 50% or more Name: Hamilton Depression Rating Scale Construct: Depression Range: 0-52 Direction: Higher is worse depression symptoms/severity Sub-scales: Not applicable. Reference: Hamilton M. Development of a rating scale for primary depressive illness. Br J Soc Clin Psychol. 1967 Dec;6(4):278-96.</description>
+        <time_frame>Three weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Transcranial Magnetic Stimulation</title>
+            <description>The standardized treatment location is the left DLPFC. Anatomical T1 images from the pre-intervention MRI were loaded into our neuronavigation software (Brainsight2, Rogue Research, Montreal). The coil was placed over the left DLPFC (tangential to scalp, angle of 45 degrees to midline). Interventional repetitive TMS (rTMS) (Magstim Rapid2, Wales, UK) consisted of 40 suprathreshold (120% RMT) pulses over 4 seconds (10 Hz) with an inter-train interval of 26 seconds. Treatment sessions will last 37.5 minutes (75 trains/3000 pulses). Treatments will occur on each weekday for three weeks (15 days total).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Hamilton Depression Rating Scale</title>
+          <description>Response defined as: a reduction of Hamilton Depression Rating Scale score of 50% or more Name: Hamilton Depression Rating Scale Construct: Depression Range: 0-52 Direction: Higher is worse depression symptoms/severity Sub-scales: Not applicable. Reference: Hamilton M. Development of a rating scale for primary depressive illness. Br J Soc Clin Psychol. 1967 Dec;6(4):278-96.</description>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="32"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9.38" spread="5.44"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Interim Analysis - rTMS Tolerability Scale</title>
+        <description>There will be an interim analysis to review safety, tolerability (as measured by our rTMS tolerability scale) after the first 10 rTMS patients. Should there be significant concerns, the team will terminate the study. Ten was selected as it is close to previous reports and should be informative.</description>
+        <time_frame>After the first 10 patients are completed</time_frame>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Interim Analysis - Ham-D</title>
+        <description>There will be an interim analysis to review response (Ham-D) after the first 10 rTMS patients. Should there be significant concerns, the team will terminate the study. Ten was selected as it is close to previous reports and should be informative.</description>
+        <time_frame>After the first 10 patients are completed</time_frame>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Six weeks</time_frame>
+      <desc>We used a TMS tolerability scale to monitor participants weekly.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Transcranial Magnetic Stimulation</title>
+          <description>The standardized treatment location is the left DLPFC. Anatomical T1 images from the pre-intervention MRI were loaded into our neuronavigation software (Brainsight2, Rogue Research, Montreal). The coil was placed over the left DLPFC (tangential to scalp, angle of 45 degrees to midline). Interventional repetitive TMS (rTMS) (Magstim Rapid2, Wales, UK) consisted of 40 suprathreshold (120% RMT) pulses over 4 seconds (10 Hz) with an inter-train interval of 26 seconds. Treatment sessions will last 37.5 minutes (75 trains/3000 pulses). Treatments will occur on each weekday for three weeks (15 days total).</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="32"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="32"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="32"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Frank MacMaster, PI of the project</name_or_title>
+      <organization>University of Calgary</organization>
+      <phone>403-955-2784</phone>
+      <email>fmacmast@ucalgary.ca</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

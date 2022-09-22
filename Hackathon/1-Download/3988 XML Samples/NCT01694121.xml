@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3610">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01694121</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R01MH096657</org_study_id>
+    <nct_id>NCT01694121</nct_id>
+  </id_info>
+  <brief_title>Evaluating a Structural and Behavioral HIV Risk Reduction Program for Black Men</brief_title>
+  <acronym>MENCount</acronym>
+  <official_title>Evaluating a Structural and Behavioral HIV Risk Reduction Program for Black Men</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, San Diego</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of California, San Diego</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the effectiveness of the Making Employment Needs&#xD;
+      (MEN) Count intervention, an HIV intervention and prevention program for heterosexual Black&#xD;
+      men. The MEN Count model integrates HIV risk reduction and gender-equity counseling with&#xD;
+      housing and employment case management via multiple one-on-one sessions delivered by a peer&#xD;
+      case manager over 60-90 day period. MEN Count was developed and pilot tested using a&#xD;
+      Community-based participatory research (CBPR) approach via funding from a National Institutes&#xD;
+      of Health (NIH) R21, in Boston, Massachusetts. A more larger scale, two-armed&#xD;
+      quasi-experimental controlled trial design will be used to test MEN Count among Black men&#xD;
+      recruited/enrolled from an STD clinic and other community-recruitment methods in Washington,&#xD;
+      DC. Study participants (N=504) will be Black men reporting heterosexual risk for HIV&#xD;
+      [unprotected sex with a woman and 2+ female sex partners in the past 6 months] and either&#xD;
+      current unemployment or homeless in the past 6 months. To evaluate the effectiveness of MEN&#xD;
+      Count, a two-armed quasi-experimental design will be conducted in which participants will&#xD;
+      receive either MEN Count or an attention comparison program similar to MEN Count in&#xD;
+      structure. We will assess program impact on reduction in number of unprotected sex episodes&#xD;
+      and incident cases of STI (Chlamydia, gonorrhea, syphilis) via survey and STI testing,&#xD;
+      respectively, at baseline and 6 and 12 month follow-ups. Additionally, quality assurance and&#xD;
+      process evaluation efforts will be conducted to ensure high quality program adherence and&#xD;
+      delivery, as well as to support program replication should the model prove effective.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 2013</start_date>
+  <completion_date type="Actual">May 2018</completion_date>
+  <primary_completion_date type="Actual">April 2017</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Condom Use/Unprotected Sex - Redefined as Sexual Risk - 12 Month Follow-up</measure>
+    <time_frame>12 month follow-up</time_frame>
+    <description>Behavioral assessment of the ratio of protected to total number of sex episodes -- changed to sexual risk inclusive of inconsistent condom use in past 90 days + multiple sex partners + sex trade involvement. Very low sexual risk was defined as having one partner and consistent condom use. Low sexual risk was defined as having multiple partners and consistent condom use OR one partner and no/inconsistent condom use. Medium sexual risk was defined as having multiple partners, no/inconsistent condom use and not participating in transactional sex. High risk was defined as having multiple partners, no/inconsistent condom use, and participating in transactional sex. Participants reporting sex with men in the prior 90 days or who reported that they themselves or (one of) their partner(s) was HIV-positive were excluded from the sexual risk outcome given the known differential HIV risk profile for these subpopulations and small numbers of participants in each.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Condom Use/Unprotected Sex - Redefined as Sexual Risk - 6 Month Follow-up</measure>
+    <time_frame>6 month follow-up</time_frame>
+    <description>Behavioral assessment of the ratio of protected to total number of sex episodes -- changed to sexual risk inclusive of inconsistent condom use in past 90 days + multiple sex partners + sex trade involvement. Very low sexual risk was defined as having one partner and consistent condom use. Low sexual risk was defined as having multiple partners and consistent condom use OR one partner and no/inconsistent condom use. Medium sexual risk was defined as having multiple partners, no/inconsistent condom use and not participating in transactional sex. High risk was defined as having multiple partners, no/inconsistent condom use, and participating in transactional sex. Participants reporting sex with men in the prior 90 days or who reported that they themselves or (one of) their partner(s) was HIV-positive were excluded from the sexual risk outcome given the known differential HIV risk profile for these subpopulations and small numbers of participants in each.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Non-viral STI - 12 Month Follow-up</measure>
+    <time_frame>12 month follow-up</time_frame>
+    <description>HIV and STI testing via blood and urine tests was conducted; outcome based on non-viral STI to allow for incidence assessment and change over time</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Non-viral STI - 6 Month Follow-up</measure>
+    <time_frame>6 month follow-up</time_frame>
+    <description>HIV and STI testing via blood and urine tests was conducted; outcome based on non-viral STI to allow for incidence assessment and change over time</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">455</enrollment>
+  <condition>HIV</condition>
+  <arm_group>
+    <arm_group_label>MEN Count</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>3 session HIV intervention including a) HIV risk reduction, inclusive of gender equity and healthy relationship counseling and b) case management support for stable employment and housing.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Comparison</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>An attention comparison program similar to the MEN Count intervention in structure (3 one-on-one sessions delivered over 60-90 days) but focused on stress reduction and healthy lifestyle.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>MEN Count</intervention_name>
+    <description>The MEN Count model integrates HIV risk reduction and gender-equity counseling with housing and employment case management via multiple one-on-one sessions delivered by a peer case manager over 60-90 day period.</description>
+    <arm_group_label>MEN Count</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Comparison</intervention_name>
+    <description>general health intervention for men, not inclusive of HIV or relationship health</description>
+    <arm_group_label>Comparison</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria: Black men aged 18 and older, reporting heterosexual risk for HIV&#xD;
+        [unprotected sex with a woman and 2+ female sex partners in the past 6 months] and either&#xD;
+        current unemployment or homeless in the past 6 months.&#xD;
+&#xD;
+        Exclusion Criteria: planned to leave Washington D.C., Maryland, or Virginia in the next 6&#xD;
+        months, were cognitively impaired (based on Folstein Mini-Mental Exam at recruitment or&#xD;
+        baseline testing), and/or had self-reported health status that prohibited them from&#xD;
+        participating in the program&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>40 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Anita Raj, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>UCSD</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Lisa Bowleg, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>George Washington University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>George Washington University</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20052</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2018</verification_date>
+  <study_first_submitted>September 22, 2012</study_first_submitted>
+  <study_first_submitted_qc>September 25, 2012</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 26, 2012</study_first_posted>
+  <results_first_submitted>November 14, 2018</results_first_submitted>
+  <results_first_submitted_qc>December 4, 2018</results_first_submitted_qc>
+  <results_first_posted type="Actual">December 28, 2018</results_first_posted>
+  <last_update_submitted>December 4, 2018</last_update_submitted>
+  <last_update_submitted_qc>December 4, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 28, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of California, San Diego</investigator_affiliation>
+    <investigator_full_name>Anita Raj</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>HIV prevention</keyword>
+  <keyword>African American men</keyword>
+  <keyword>evaluation study</keyword>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>May 29, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/21/NCT01694121/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>February 10, 2015</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/21/NCT01694121/ICF_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>one individual was enrolled and surveyed twice. He remained in the study, but the initial survey was not included.</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>MEN Count</title>
+          <description>3 session HIV intervention including a) HIV risk reduction, inclusive of gender equity and healthy relationship counseling and b) case management support for stable employment and housing.&#xD;
+MEN Count: The MEN Count model integrates HIV risk reduction and gender-equity counseling with housing and employment case management via multiple one-on-one sessions delivered by a peer case manager over 60-90 day period.</description>
+        </group>
+        <group group_id="P2">
+          <title>Comparison</title>
+          <description>An attention comparison program similar to the MEN Count intervention in structure (3 one-on-one sessions delivered over 60-90 days) but focused on stress reduction and healthy lifestyle.&#xD;
+Comparison: general health intervention for men, not inclusive of HIV or relationship health</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="228"/>
+                <participants group_id="P2" count="227"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="227"/>
+                <participants group_id="P2" count="227"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Participant used false ID, was withdrawn</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>MEN Count</title>
+          <description>3 session HIV intervention including a) HIV risk reduction, inclusive of gender equity and healthy relationship counseling and b) case management support for stable employment and housing.&#xD;
+MEN Count: The MEN Count model integrates HIV risk reduction and gender-equity counseling with housing and employment case management via multiple one-on-one sessions delivered by a peer case manager over 60-90 day period.</description>
+        </group>
+        <group group_id="B2">
+          <title>Comparison</title>
+          <description>An attention comparison program similar to the MEN Count intervention in structure (3 one-on-one sessions delivered over 60-90 days) but focused on stress reduction and healthy lifestyle.&#xD;
+Comparison: general health intervention for men, not inclusive of HIV or relationship health</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="227"/>
+            <count group_id="B2" value="227"/>
+            <count group_id="B3" value="454"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="227"/>
+                    <measurement group_id="B2" value="227"/>
+                    <measurement group_id="B3" value="454"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="227"/>
+                    <measurement group_id="B2" value="227"/>
+                    <measurement group_id="B3" value="454"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="227"/>
+                    <measurement group_id="B2" value="227"/>
+                    <measurement group_id="B3" value="454"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="227"/>
+                    <measurement group_id="B2" value="227"/>
+                    <measurement group_id="B3" value="454"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="227"/>
+                    <measurement group_id="B2" value="227"/>
+                    <measurement group_id="B3" value="454"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>full time employment status</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="19"/>
+                    <measurement group_id="B2" value="34"/>
+                    <measurement group_id="B3" value="53"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>non-Viral STI</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="55"/>
+                    <measurement group_id="B2" value="51"/>
+                    <measurement group_id="B3" value="106"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>homeless in a shelter or on the streets in past 90 days</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="116"/>
+                    <measurement group_id="B2" value="104"/>
+                    <measurement group_id="B3" value="220"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Condom Use/Unprotected Sex - Redefined as Sexual Risk - 12 Month Follow-up</title>
+        <description>Behavioral assessment of the ratio of protected to total number of sex episodes -- changed to sexual risk inclusive of inconsistent condom use in past 90 days + multiple sex partners + sex trade involvement. Very low sexual risk was defined as having one partner and consistent condom use. Low sexual risk was defined as having multiple partners and consistent condom use OR one partner and no/inconsistent condom use. Medium sexual risk was defined as having multiple partners, no/inconsistent condom use and not participating in transactional sex. High risk was defined as having multiple partners, no/inconsistent condom use, and participating in transactional sex. Participants reporting sex with men in the prior 90 days or who reported that they themselves or (one of) their partner(s) was HIV-positive were excluded from the sexual risk outcome given the known differential HIV risk profile for these subpopulations and small numbers of participants in each.</description>
+        <time_frame>12 month follow-up</time_frame>
+        <population>Those retained at 12 mo follow up</population>
+        <group_list>
+          <group group_id="O1">
+            <title>MEN Count</title>
+            <description>3 session HIV intervention including a) HIV risk reduction, inclusive of gender equity and healthy relationship counseling and b) case management support for stable employment and housing.&#xD;
+MEN Count: The MEN Count model integrates HIV risk reduction and gender-equity counseling with housing and employment case management via multiple one-on-one sessions delivered by a peer case manager over 60-90 day period.</description>
+          </group>
+          <group group_id="O2">
+            <title>Comparison</title>
+            <description>An attention comparison program similar to the MEN Count intervention in structure (3 one-on-one sessions delivered over 60-90 days) but focused on stress reduction and healthy lifestyle.&#xD;
+Comparison: general health intervention for men, not inclusive of HIV or relationship health</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Condom Use/Unprotected Sex - Redefined as Sexual Risk - 12 Month Follow-up</title>
+          <description>Behavioral assessment of the ratio of protected to total number of sex episodes -- changed to sexual risk inclusive of inconsistent condom use in past 90 days + multiple sex partners + sex trade involvement. Very low sexual risk was defined as having one partner and consistent condom use. Low sexual risk was defined as having multiple partners and consistent condom use OR one partner and no/inconsistent condom use. Medium sexual risk was defined as having multiple partners, no/inconsistent condom use and not participating in transactional sex. High risk was defined as having multiple partners, no/inconsistent condom use, and participating in transactional sex. Participants reporting sex with men in the prior 90 days or who reported that they themselves or (one of) their partner(s) was HIV-positive were excluded from the sexual risk outcome given the known differential HIV risk profile for these subpopulations and small numbers of participants in each.</description>
+          <population>Those retained at 12 mo follow up</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="120"/>
+                <count group_id="O2" value="123"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Very low risk</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="28"/>
+                    <measurement group_id="O2" value="18"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Low risk</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="26"/>
+                    <measurement group_id="O2" value="40"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Medium risk</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="30"/>
+                    <measurement group_id="O2" value="34"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>High risk</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7"/>
+                    <measurement group_id="O2" value="9"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Excluded or missing risk</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="29"/>
+                    <measurement group_id="O2" value="22"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Non-viral STI - 12 Month Follow-up</title>
+        <description>HIV and STI testing via blood and urine tests was conducted; outcome based on non-viral STI to allow for incidence assessment and change over time</description>
+        <time_frame>12 month follow-up</time_frame>
+        <population>Participants retained at 12mo follow-up</population>
+        <group_list>
+          <group group_id="O1">
+            <title>MEN Count</title>
+            <description>3 session HIV intervention including a) HIV risk reduction, inclusive of gender equity and healthy relationship counseling and b) case management support for stable employment and housing.&#xD;
+MEN Count: The MEN Count model integrates HIV risk reduction and gender-equity counseling with housing and employment case management via multiple one-on-one sessions delivered by a peer case manager over 60-90 day period.</description>
+          </group>
+          <group group_id="O2">
+            <title>Comparison</title>
+            <description>An attention comparison program similar to the MEN Count intervention in structure (3 one-on-one sessions delivered over 60-90 days) but focused on stress reduction and healthy lifestyle.&#xD;
+Comparison: general health intervention for men, not inclusive of HIV or relationship health</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Non-viral STI - 12 Month Follow-up</title>
+          <description>HIV and STI testing via blood and urine tests was conducted; outcome based on non-viral STI to allow for incidence assessment and change over time</description>
+          <population>Participants retained at 12mo follow-up</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="120"/>
+                <count group_id="O2" value="123"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Positive for non-viral STI at 12mo follow-up</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="17"/>
+                    <measurement group_id="O2" value="15"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Negative for all non-viral STI at 12mo follow-up</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="87"/>
+                    <measurement group_id="O2" value="98"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Did not complete STI testing at 12mo follow-up</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="16"/>
+                    <measurement group_id="O2" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Non-viral STI - 6 Month Follow-up</title>
+        <description>HIV and STI testing via blood and urine tests was conducted; outcome based on non-viral STI to allow for incidence assessment and change over time</description>
+        <time_frame>6 month follow-up</time_frame>
+        <population>Participants retained at 6mo follow-up</population>
+        <group_list>
+          <group group_id="O1">
+            <title>MEN Count</title>
+            <description>3 session HIV intervention including a) HIV risk reduction, inclusive of gender equity and healthy relationship counseling and b) case management support for stable employment and housing.&#xD;
+MEN Count: The MEN Count model integrates HIV risk reduction and gender-equity counseling with housing and employment case management via multiple one-on-one sessions delivered by a peer case manager over 60-90 day period.</description>
+          </group>
+          <group group_id="O2">
+            <title>Comparison</title>
+            <description>An attention comparison program similar to the MEN Count intervention in structure (3 one-on-one sessions delivered over 60-90 days) but focused on stress reduction and healthy lifestyle.&#xD;
+Comparison: general health intervention for men, not inclusive of HIV or relationship health</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Non-viral STI - 6 Month Follow-up</title>
+          <description>HIV and STI testing via blood and urine tests was conducted; outcome based on non-viral STI to allow for incidence assessment and change over time</description>
+          <population>Participants retained at 6mo follow-up</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="95"/>
+                <count group_id="O2" value="105"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Positive for non-viral STI at 6mo follow-up</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7"/>
+                    <measurement group_id="O2" value="13"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Negative for all non-viral STI at 6mo follow-up</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="83"/>
+                    <measurement group_id="O2" value="85"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Did not complete STI testing at 6mo follow-up</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Condom Use/Unprotected Sex - Redefined as Sexual Risk - 6 Month Follow-up</title>
+        <description>Behavioral assessment of the ratio of protected to total number of sex episodes -- changed to sexual risk inclusive of inconsistent condom use in past 90 days + multiple sex partners + sex trade involvement. Very low sexual risk was defined as having one partner and consistent condom use. Low sexual risk was defined as having multiple partners and consistent condom use OR one partner and no/inconsistent condom use. Medium sexual risk was defined as having multiple partners, no/inconsistent condom use and not participating in transactional sex. High risk was defined as having multiple partners, no/inconsistent condom use, and participating in transactional sex. Participants reporting sex with men in the prior 90 days or who reported that they themselves or (one of) their partner(s) was HIV-positive were excluded from the sexual risk outcome given the known differential HIV risk profile for these subpopulations and small numbers of participants in each.</description>
+        <time_frame>6 month follow-up</time_frame>
+        <population>Those retained at 6 mo follow up</population>
+        <group_list>
+          <group group_id="O1">
+            <title>MEN Count</title>
+            <description>3 session HIV intervention including a) HIV risk reduction, inclusive of gender equity and healthy relationship counseling and b) case management support for stable employment and housing.&#xD;
+MEN Count: The MEN Count model integrates HIV risk reduction and gender-equity counseling with housing and employment case management via multiple one-on-one sessions delivered by a peer case manager over 60-90 day period.</description>
+          </group>
+          <group group_id="O2">
+            <title>Comparison</title>
+            <description>An attention comparison program similar to the MEN Count intervention in structure (3 one-on-one sessions delivered over 60-90 days) but focused on stress reduction and healthy lifestyle.&#xD;
+Comparison: general health intervention for men, not inclusive of HIV or relationship health</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Condom Use/Unprotected Sex - Redefined as Sexual Risk - 6 Month Follow-up</title>
+          <description>Behavioral assessment of the ratio of protected to total number of sex episodes -- changed to sexual risk inclusive of inconsistent condom use in past 90 days + multiple sex partners + sex trade involvement. Very low sexual risk was defined as having one partner and consistent condom use. Low sexual risk was defined as having multiple partners and consistent condom use OR one partner and no/inconsistent condom use. Medium sexual risk was defined as having multiple partners, no/inconsistent condom use and not participating in transactional sex. High risk was defined as having multiple partners, no/inconsistent condom use, and participating in transactional sex. Participants reporting sex with men in the prior 90 days or who reported that they themselves or (one of) their partner(s) was HIV-positive were excluded from the sexual risk outcome given the known differential HIV risk profile for these subpopulations and small numbers of participants in each.</description>
+          <population>Those retained at 6 mo follow up</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="95"/>
+                <count group_id="O2" value="105"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Very low risk</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="15"/>
+                    <measurement group_id="O2" value="18"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Low risk</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="32"/>
+                    <measurement group_id="O2" value="29"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Medium risk</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="25"/>
+                    <measurement group_id="O2" value="28"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>High risk</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                    <measurement group_id="O2" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Excluded or missing risk</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="17"/>
+                    <measurement group_id="O2" value="22"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Duration of the study (up to 12 months)</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>MEN Count</title>
+          <description>3 session HIV intervention including a) HIV risk reduction, inclusive of gender equity and healthy relationship counseling and b) case management support for stable employment and housing.&#xD;
+MEN Count: The MEN Count model integrates HIV risk reduction and gender-equity counseling with housing and employment case management via multiple one-on-one sessions delivered by a peer case manager over 60-90 day period.</description>
+        </group>
+        <group group_id="E2">
+          <title>Comparison</title>
+          <description>An attention comparison program similar to the MEN Count intervention in structure (3 one-on-one sessions delivered over 60-90 days) but focused on stress reduction and healthy lifestyle.&#xD;
+Comparison: general health intervention for men, not inclusive of HIV or relationship health</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="227"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="227"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="227"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="227"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="227"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="227"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Anita Raj</name_or_title>
+      <organization>Center on Gender Equity and Health at UCSD</organization>
+      <phone>8588220229</phone>
+      <email>anitaraj@ucsd.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

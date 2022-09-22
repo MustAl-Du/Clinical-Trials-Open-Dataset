@@ -1,0 +1,340 @@
+{
+  "FullStudy":{
+    "Rank":499,
+    "Study":{
+      "ProtocolSection":{
+        "IdentificationModule":{
+          "NCTId":"NCT05540054",
+          "OrgStudyIdInfo":{
+            "OrgStudyId":"BLVR_IMT"
+          },
+          "Organization":{
+            "OrgFullName":"Saglik Bilimleri Universitesi",
+            "OrgClass":"OTHER"
+          },
+          "BriefTitle":"Inspiratory Muscle Training Efficiency Before Bronchoscopic Procedure",
+          "OfficialTitle":"Investigation of Inspiratory Muscle Training Efficiency Before Bronchoscopic Procedure in Chronic Obstructive Pulmonary Diseases"
+        },
+        "StatusModule":{
+          "StatusVerifiedDate":"September 2022",
+          "OverallStatus":"Not yet recruiting",
+          "ExpandedAccessInfo":{
+            "HasExpandedAccess":"No"
+          },
+          "StartDateStruct":{
+            "StartDate":"October 1, 2022",
+            "StartDateType":"Anticipated"
+          },
+          "PrimaryCompletionDateStruct":{
+            "PrimaryCompletionDate":"October 1, 2023",
+            "PrimaryCompletionDateType":"Anticipated"
+          },
+          "CompletionDateStruct":{
+            "CompletionDate":"December 1, 2023",
+            "CompletionDateType":"Anticipated"
+          },
+          "StudyFirstSubmitDate":"September 10, 2022",
+          "StudyFirstSubmitQCDate":"September 10, 2022",
+          "StudyFirstPostDateStruct":{
+            "StudyFirstPostDate":"September 14, 2022",
+            "StudyFirstPostDateType":"Actual"
+          },
+          "LastUpdateSubmitDate":"September 10, 2022",
+          "LastUpdatePostDateStruct":{
+            "LastUpdatePostDate":"September 14, 2022",
+            "LastUpdatePostDateType":"Actual"
+          }
+        },
+        "SponsorCollaboratorsModule":{
+          "ResponsibleParty":{
+            "ResponsiblePartyType":"Sponsor"
+          },
+          "LeadSponsor":{
+            "LeadSponsorName":"Saglik Bilimleri Universitesi",
+            "LeadSponsorClass":"OTHER"
+          }
+        },
+        "OversightModule":{
+          "OversightHasDMC":"No",
+          "IsFDARegulatedDrug":"No",
+          "IsFDARegulatedDevice":"No"
+        },
+        "DescriptionModule":{
+          "BriefSummary":"The aim of this study is to examine the effectiveness of inspiratory muscle training (IMT) before bronchoscopic procedure in Chronic Obstructive Pulmonary Patients (COPD). Patients with a diagnosis of COPD, who are listed for a bronchoscopic procedure and referred to the pulmonary rehabilitation (PR) clinic, will be randomly divided into two groups. Standard PR exercise program will be applied to both groups. In addition to the standard program, IMT will be applied to one of the groups. The effect of IMT on exercise program gains will be examined.",
+          "DetailedDescription":"Cases diagnosed with COPD by a chest diseases specialist at Yedikule Chest Diseases and Thoracic Surgery Training and Research Hospital will be included in the study.\nThe cases meeting the inclusion criteria will be randomized and divided into two groups, called the standard rehabilitation group (PRGr) and the inspiratory muscle training group (IMTGr).\nInitial exercise sessions and all evaluations of all cases will be performed in the hospital. The 2nd and 3rd training repetitions will be held at their homes via online synchronized videoconferencing. The exercise video will be sent to the smart phones of the cases who have completed 3 training sessions. Participants will be called once a week by phone and exercise follow-up will be carried out.\nAll subjects will continue to exercise 5 days a week for 2 months. The standard PR consists of breathing exercises, peripheral muscle strength and self walking training. In addition, IMT was applied to IMTGr."
+        },
+        "ConditionsModule":{
+          "ConditionList":{
+            "Condition":[
+              "Copd",
+              "IMT"
+            ]
+          },
+          "KeywordList":{
+            "Keyword":[
+              "IMT",
+              "COPD",
+              "pulmonary rehabilitation",
+              "bronchoscopic procedure",
+              "Bronchoscopic lung volume reduction",
+              "valve",
+              "coil",
+              "balloon"
+            ]
+          }
+        },
+        "DesignModule":{
+          "StudyType":"Interventional",
+          "PhaseList":{
+            "Phase":[
+              "Not Applicable"
+            ]
+          },
+          "DesignInfo":{
+            "DesignAllocation":"Randomized",
+            "DesignInterventionModel":"Parallel Assignment",
+            "DesignPrimaryPurpose":"Treatment",
+            "DesignMaskingInfo":{
+              "DesignMasking":"Single",
+              "DesignWhoMaskedList":{
+                "DesignWhoMasked":[
+                  "Participant"
+                ]
+              }
+            }
+          },
+          "EnrollmentInfo":{
+            "EnrollmentCount":"66",
+            "EnrollmentType":"Anticipated"
+          }
+        },
+        "ArmsInterventionsModule":{
+          "ArmGroupList":{
+            "ArmGroup":[
+              {
+                "ArmGroupLabel":"Standard pulmonary rehabilitation group (PR)",
+                "ArmGroupType":"Experimental",
+                "ArmGroupDescription":"Patients diagnosed with COPD and listed for bronchoscopic procedure.",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Other: Standard pulmonary rehabilitation programme"
+                  ]
+                }
+              },{
+                "ArmGroupLabel":"Inspiratory muscle training group (PR+IMT)",
+                "ArmGroupType":"Experimental",
+                "ArmGroupDescription":"Patients diagnosed with COPD and listed for bronchoscopic procedure.",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Other: Inspiratory muscle training",
+                    "Other: Standard pulmonary rehabilitation programme"
+                  ]
+                }
+              }
+            ]
+          },
+          "InterventionList":{
+            "Intervention":[
+              {
+                "InterventionType":"Other",
+                "InterventionName":"Inspiratory muscle training",
+                "InterventionDescription":"Respiratory muscle strengthening training will be given with a resistive threshold inspiratory muscle strengthening device.",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Inspiratory muscle training group (PR+IMT)"
+                  ]
+                }
+              },{
+                "InterventionType":"Other",
+                "InterventionName":"Standard pulmonary rehabilitation programme",
+                "InterventionDescription":"The standard PR consisted of breathing exercises, peripheral muscle strengthening and self walking training.",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "Inspiratory muscle training group (PR+IMT)",
+                    "Standard pulmonary rehabilitation group (PR)"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "OutcomesModule":{
+          "PrimaryOutcomeList":{
+            "PrimaryOutcome":[
+              {
+                "PrimaryOutcomeMeasure":"Exercise capacity",
+                "PrimaryOutcomeDescription":"The 6-minute walking test will conduct in a 30-meter corridor in line with American Thoracic Society (ATS) guidelines. Participants will ask to walk as far as they can. Prior to and following the test, oxygen saturation, heart rate and Borg fatigue rating will measure, and the walking distance will record.",
+                "PrimaryOutcomeTimeFrame":"Change from baseline at 2 months"
+              },{
+                "PrimaryOutcomeMeasure":"Dyspnea perception",
+                "PrimaryOutcomeDescription":"Modified Medical Council Dyspnea score will rate the sensation of dyspnea as the person perceives it.The severity of dyspnea is rated on a scale of 0 to 4.\"0 point\" means no dyspnea perception and \"4point\" means severe dyspnea perception.",
+                "PrimaryOutcomeTimeFrame":"Change from baseline at 2 months"
+              },{
+                "PrimaryOutcomeMeasure":"Respiratory muscle strength",
+                "PrimaryOutcomeDescription":"The mouth pressure measurement (maximum inspiratory and expiratory pressure) will perform with the Pony Fx spirometry device. Patient will place a rubber mouthpiece with flanges, on the device, exhale/inhale slowly and completely, and then will try to breath in as hard as possible. The patient will allow to rest for about a minute and the maneuver will repeat. The aim is that the variability between measurements is less than 10 cm H2O. The maximum value will obtain.",
+                "PrimaryOutcomeTimeFrame":"Change from baseline at 2 months"
+              },{
+                "PrimaryOutcomeMeasure":"Clinical status follow-up after bronchoscopic procedure",
+                "PrimaryOutcomeDescription":"Complications and clinical status will be followed up for 1 year after the bronchoscopic procedure.",
+                "PrimaryOutcomeTimeFrame":"Change from baseline at 1 year after bronchoscopic procedure"
+              }
+            ]
+          },
+          "SecondaryOutcomeList":{
+            "SecondaryOutcome":[
+              {
+                "SecondaryOutcomeMeasure":"Fatigue severity",
+                "SecondaryOutcomeDescription":"The fatigue severity scale: A 9-item questionnaire with questions related to how fatigue interferes with certain activities and rates its severity.",
+                "SecondaryOutcomeTimeFrame":"Change from baseline at 2 months"
+              },{
+                "SecondaryOutcomeMeasure":"Physical activity level",
+                "SecondaryOutcomeDescription":"The International Physical Activity Questionnaire (IPAQ) was developed as an instrument for cross-national monitoring of physical activity and inactivity. This measure assesses the types of intensity of physical activity and sitting time that people do as part of daily lives are considered to estimate total physical activity in MET-min/week and time spent sitting.",
+                "SecondaryOutcomeTimeFrame":"Change from baseline at 2 months"
+              },{
+                "SecondaryOutcomeMeasure":"Anxiety level",
+                "SecondaryOutcomeDescription":"Hospital Anxiety Depression scale:The levels of anxiety will asses by Hospital Anxiety Depression Scale (HADS) .The HADS is a self-report rating scale of 14 items on a 4-point Likert scale (range 0-3). It is designed to measure anxiety and depression (7 items for each subscale). The total score is the sum of the 14 items, and for each subscale the score is the sum of the respective seven items (ranging from 0-21).Several studies suggest a cut-off score of ≥8 to be optimal for best sensitivity and specificity. The HADS has sensitivity and specificity of about 80%, and a predictive validity for identification of about 70%.",
+                "SecondaryOutcomeTimeFrame":"Change from baseline at 2 months"
+              },{
+                "SecondaryOutcomeMeasure":"Depression level",
+                "SecondaryOutcomeDescription":"Hospital Anxiety Depression scale:The levels of depression will asses by Hospital Anxiety Depression Scale (HADS) .The HADS is a self-report rating scale of 14 items on a 4-point Likert scale (range 0-3). It is designed to measure anxiety and depression (7 items for each subscale). The total score is the sum of the 14 items, and for each subscale the score is the sum of the respective seven items (ranging from 0-21).Several studies suggest a cut-off score of ≥8 to be optimal for best sensitivity and specificity. The HADS has sensitivity and specificity of about 80%, and a predictive validity for identification of about 70%.",
+                "SecondaryOutcomeTimeFrame":"Change from baseline at 2 months"
+              },{
+                "SecondaryOutcomeMeasure":"Quality of life level",
+                "SecondaryOutcomeDescription":"Saint George Respiratory Questionaire (SGRQ) score: The SGRQ ranges from 0 (no impairment of quality of life) to 100 (highest impairment of quality of life).",
+                "SecondaryOutcomeTimeFrame":"Change from baseline at 2 months"
+              },{
+                "SecondaryOutcomeMeasure":"Pulmonary function tests (PFTs)",
+                "SecondaryOutcomeDescription":"PFTs will perform by using the Pony Fx spirometry device, and according to the American Thoracic Society (ATS) guidelines",
+                "SecondaryOutcomeTimeFrame":"Change from baseline at 2 months"
+              },{
+                "SecondaryOutcomeMeasure":"Peripheral muscle strength measurement",
+                "SecondaryOutcomeDescription":"Peripheral muscle strength measurement will be performed on major muscle groups (quadriceps femoris, tibialis anterior, iliopsoas, biceps brachii, triceps, hand grip force) with a digital muscle strength measurement device.",
+                "SecondaryOutcomeTimeFrame":"Change from baseline at 2 months"
+              }
+            ]
+          }
+        },
+        "EligibilityModule":{
+          "EligibilityCriteria":"Inclusion Criteria:\n\nBeing between the ages of 18-75\nHaving a diagnosis of COPD diagnosed according to clinical diagnostic criteria according to -American Thoracic and European Respiratory Societies (ATS-ERS) and being a candidate patient for bronchoscopic lung volume reduction procedure\nPresence of dyspnea on exertion\nStable clinical state at the time of inclusion without infection or exacerbation in the previous 4 weeks\nAbility to use a smart phone\n\nExclusion Criteria:\n\nPatients with severe comorbid diseases, unstable coronary artery disease, collagen vascular diseases and needing high flow oxygen therapy (˃ 3-4 L \\min).\nA history of effort-related syncope or any comorbidity (such as severe orthopedic or neurological deficits or unstable heart disease) that precludes exercise training.\nParticipation in a pulmonary rehabilitation program within the past 12 months.",
+          "HealthyVolunteers":"No",
+          "Gender":"All",
+          "MinimumAge":"18 Years",
+          "MaximumAge":"75 Years",
+          "StdAgeList":{
+            "StdAge":[
+              "Adult",
+              "Older Adult"
+            ]
+          }
+        },
+        "ContactsLocationsModule":{
+          "CentralContactList":{
+            "CentralContact":[
+              {
+                "CentralContactName":"Zeynep Betül Özcan",
+                "CentralContactRole":"Contact",
+                "CentralContactPhone":"+90.0212 409 02 00",
+                "CentralContactEMail":"zbetulozcan@gmail.com"
+              }
+            ]
+          },
+          "LocationList":{
+            "Location":[
+              {
+                "LocationFacility":"Esra Pehlivan",
+                "LocationCity":"İstanbul",
+                "LocationState":"Üsküdar",
+                "LocationZip":"34668",
+                "LocationCountry":"Turkey"
+              }
+            ]
+          }
+        },
+        "IPDSharingStatementModule":{
+          "IPDSharing":"Undecided"
+        }
+      },
+      "DerivedSection":{
+        "MiscInfoModule":{
+          "VersionHolder":"September 19, 2022"
+        },
+        "ConditionBrowseModule":{
+          "ConditionMeshList":{
+            "ConditionMesh":[
+              {
+                "ConditionMeshId":"D000053120",
+                "ConditionMeshTerm":"Respiratory Aspiration"
+              }
+            ]
+          },
+          "ConditionAncestorList":{
+            "ConditionAncestor":[
+              {
+                "ConditionAncestorId":"D000012120",
+                "ConditionAncestorTerm":"Respiration Disorders"
+              },{
+                "ConditionAncestorId":"D000012140",
+                "ConditionAncestorTerm":"Respiratory Tract Diseases"
+              },{
+                "ConditionAncestorId":"D000010335",
+                "ConditionAncestorTerm":"Pathologic Processes"
+              }
+            ]
+          },
+          "ConditionBrowseLeafList":{
+            "ConditionBrowseLeaf":[
+              {
+                "ConditionBrowseLeafId":"M10322",
+                "ConditionBrowseLeafName":"Lung Diseases, Obstructive",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M22602",
+                "ConditionBrowseLeafName":"Pulmonary Disease, Chronic Obstructive",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M10320",
+                "ConditionBrowseLeafName":"Lung Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M26290",
+                "ConditionBrowseLeafName":"Respiratory Aspiration",
+                "ConditionBrowseLeafAsFound":"Inspiratory",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M14109",
+                "ConditionBrowseLeafName":"Respiration Disorders",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M14129",
+                "ConditionBrowseLeafName":"Respiratory Tract Diseases",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"T1303",
+                "ConditionBrowseLeafName":"Chronic Graft Versus Host Disease",
+                "ConditionBrowseLeafRelevance":"low"
+              }
+            ]
+          },
+          "ConditionBrowseBranchList":{
+            "ConditionBrowseBranch":[
+              {
+                "ConditionBrowseBranchAbbrev":"BC08",
+                "ConditionBrowseBranchName":"Respiratory Tract (Lung and Bronchial) Diseases"
+              },{
+                "ConditionBrowseBranchAbbrev":"All",
+                "ConditionBrowseBranchName":"All Conditions"
+              },{
+                "ConditionBrowseBranchAbbrev":"BC23",
+                "ConditionBrowseBranchName":"Symptoms and General Pathology"
+              },{
+                "ConditionBrowseBranchAbbrev":"Rare",
+                "ConditionBrowseBranchName":"Rare Diseases"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+

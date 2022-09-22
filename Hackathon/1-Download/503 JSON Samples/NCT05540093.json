@@ -1,0 +1,282 @@
+{
+  "FullStudy":{
+    "Rank":496,
+    "Study":{
+      "ProtocolSection":{
+        "IdentificationModule":{
+          "NCTId":"NCT05540093",
+          "OrgStudyIdInfo":{
+            "OrgStudyId":"p.t.REC/012/003619"
+          },
+          "Organization":{
+            "OrgFullName":"Cairo University",
+            "OrgClass":"OTHER"
+          },
+          "BriefTitle":"Influence of Adding High Power Pain Threshold Ultrasound to Traditional Therapy on Axioappendicular Muscles Amplitude and Fatigue in Mechanical Neck Pain Randomized Clinical Trials",
+          "OfficialTitle":"Influence of Adding High Power Pain Threshold Ultrasound to Traditional Therapy on Axioappendicular Muscles Amplitude and Fatigue in Mechanical Neck Pain Randomized Clinical Trials",
+          "Acronym":"MNP"
+        },
+        "StatusModule":{
+          "StatusVerifiedDate":"September 2022",
+          "OverallStatus":"Not yet recruiting",
+          "ExpandedAccessInfo":{
+            "HasExpandedAccess":"No"
+          },
+          "StartDateStruct":{
+            "StartDate":"September 20, 2022",
+            "StartDateType":"Anticipated"
+          },
+          "PrimaryCompletionDateStruct":{
+            "PrimaryCompletionDate":"November 30, 2022",
+            "PrimaryCompletionDateType":"Anticipated"
+          },
+          "CompletionDateStruct":{
+            "CompletionDate":"November 30, 2022",
+            "CompletionDateType":"Anticipated"
+          },
+          "StudyFirstSubmitDate":"September 12, 2022",
+          "StudyFirstSubmitQCDate":"September 12, 2022",
+          "StudyFirstPostDateStruct":{
+            "StudyFirstPostDate":"September 14, 2022",
+            "StudyFirstPostDateType":"Actual"
+          },
+          "LastUpdateSubmitDate":"September 12, 2022",
+          "LastUpdatePostDateStruct":{
+            "LastUpdatePostDate":"September 14, 2022",
+            "LastUpdatePostDateType":"Actual"
+          }
+        },
+        "SponsorCollaboratorsModule":{
+          "ResponsibleParty":{
+            "ResponsiblePartyType":"Principal Investigator",
+            "ResponsiblePartyInvestigatorFullName":"Al Shaymaa Shaaban Abd El Azeim",
+            "ResponsiblePartyInvestigatorTitle":"principle investigator",
+            "ResponsiblePartyInvestigatorAffiliation":"Cairo University"
+          },
+          "LeadSponsor":{
+            "LeadSponsorName":"Cairo University",
+            "LeadSponsorClass":"OTHER"
+          }
+        },
+        "OversightModule":{
+          "IsFDARegulatedDrug":"No",
+          "IsFDARegulatedDevice":"No"
+        },
+        "DescriptionModule":{
+          "BriefSummary":"The purpose of this study will investigate the effect of adding high power pain threshold ultrasound to traditional therapy on axioappendicular muscles amplitude and fatigue in neck pain",
+          "DetailedDescription":"Myofascial pain syndrome is a common musculoskeletal pain disorder affecting almost 95% of people with chronic pain disorders and is a common finding in especially pain management centres.It is characterized by trigger points, defined as hyperirritable spots within taut bands of skeletal muscle fibers. The syndrome is associated with tenderness in the muscle, referred pain, spasm and restriction of motion. Patients with MPS begin with one active MTrP (called the primary MTrP) in the affected muscles due to chronic repetitive minor muscle strain, poor posture, systemic diseases, or neuro-musculoskeletal lesions. When not treated correctly, expansion of the pain region and additional active MTrPs (called secondary or satellite MTrPs) will develop one of the most appropriate treatments for trigger points ultrasound therapy. The high-power pain threshold ultrasound (HPPTUS) technique is one of the ultrasound modifications used to treat trigger points In 2004, Majlesi et al. performed the first clinical study to compare this technique with the traditional ultrasound technique in patients with myofascial trigger points. The results showed that HPPTUS was much more effective than the traditional technique, and pain reduction and improved range of motion (ROM) were significant in a smaller number of sessions.sixty patients with mechanical neck pain will be assigned randomly to two equal group. one group will receive high power pain threshold ultrasound and traditional therapy and the other receive traditional therapy alone for four weeks.\n\n."
+        },
+        "ConditionsModule":{
+          "ConditionList":{
+            "Condition":[
+              "Neck Pain"
+            ]
+          },
+          "KeywordList":{
+            "Keyword":[
+              "high power pain threshold ultrasound",
+              "mechanical neck pain"
+            ]
+          }
+        },
+        "DesignModule":{
+          "StudyType":"Interventional",
+          "PhaseList":{
+            "Phase":[
+              "Not Applicable"
+            ]
+          },
+          "DesignInfo":{
+            "DesignAllocation":"Randomized",
+            "DesignInterventionModel":"Parallel Assignment",
+            "DesignInterventionModelDescription":"high power pain threshold ultrasound and traditional therapy",
+            "DesignPrimaryPurpose":"Treatment",
+            "DesignMaskingInfo":{
+              "DesignMasking":"Single",
+              "DesignMaskingDescription":"permuted block randomization",
+              "DesignWhoMaskedList":{
+                "DesignWhoMasked":[
+                  "Outcomes Assessor"
+                ]
+              }
+            }
+          },
+          "EnrollmentInfo":{
+            "EnrollmentCount":"60",
+            "EnrollmentType":"Anticipated"
+          }
+        },
+        "ArmsInterventionsModule":{
+          "ArmGroupList":{
+            "ArmGroup":[
+              {
+                "ArmGroupLabel":"high power pain threshold ultrasound",
+                "ArmGroupType":"Experimental",
+                "ArmGroupDescription":"the patients will receive high power pain threshold ultrasound and traditional therapy twice a week for four weeks",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Other: high power pain threshold ultrasound",
+                    "Other: traditional therapy"
+                  ]
+                }
+              },{
+                "ArmGroupLabel":"traditional therapy",
+                "ArmGroupType":"Active Comparator",
+                "ArmGroupDescription":"the patients will receive traditional therapy twice a week for four weeks",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Other: traditional therapy"
+                  ]
+                }
+              }
+            ]
+          },
+          "InterventionList":{
+            "Intervention":[
+              {
+                "InterventionType":"Other",
+                "InterventionName":"high power pain threshold ultrasound",
+                "InterventionDescription":"After explaining the procedure, and the trigger points will be marked by a physical therapist that . Then, the hand placed next to the prone position with the head in the neutral position, and the hands placed next to the body. The frequency was set to 1 MHz, and the intensity increased from 0.5 to 2 until the patient reported an unpleasant sensation. The probe will be held there for 4 s; then, the intensity was reduced by 50%, and the probe was moved over and around the trigger point. This process is done several times for three minutes.",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "high power pain threshold ultrasound"
+                  ]
+                }
+              },{
+                "InterventionType":"Other",
+                "InterventionName":"traditional therapy",
+                "InterventionDescription":"the patients will receive traditional therapy in the form of postural correction exercise, active range of motion and stretching exercise for cervical muscles",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "high power pain threshold ultrasound",
+                    "traditional therapy"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "OutcomesModule":{
+          "PrimaryOutcomeList":{
+            "PrimaryOutcome":[
+              {
+                "PrimaryOutcomeMeasure":"pain intensity",
+                "PrimaryOutcomeDescription":"pain will be measured by visual analogue scale",
+                "PrimaryOutcomeTimeFrame":"up to four weeks"
+              },{
+                "PrimaryOutcomeMeasure":"pressure pain threshold",
+                "PrimaryOutcomeDescription":"commander algometer device will be used to measure pressure pain threshold",
+                "PrimaryOutcomeTimeFrame":"up to four weeks"
+              }
+            ]
+          },
+          "SecondaryOutcomeList":{
+            "SecondaryOutcome":[
+              {
+                "SecondaryOutcomeMeasure":"neck disability",
+                "SecondaryOutcomeDescription":"neck disability index will be used to measure neck disability.",
+                "SecondaryOutcomeTimeFrame":"up to four weeks"
+              },{
+                "SecondaryOutcomeMeasure":"muscle amplitude and fatigue",
+                "SecondaryOutcomeDescription":"electromyography will be used to measure muscle amplitude and fatigue",
+                "SecondaryOutcomeTimeFrame":"up to four weeks"
+              }
+            ]
+          }
+        },
+        "EligibilityModule":{
+          "EligibilityCriteria":"Inclusion Criteria:\n\npatients with mechanical neck pain from both genders.\nage between 19 and 38 years\npatients will be required to have active TrPs in the upper trapezius and levator muscle and neck pain\n\nExclusion Criteria:\n\nPatients will be excluded if they have History of whiplash injury,\nHistory of cervical spine surgery,\nCervical radiculopathy or myelopathy,\nHaving undergone physical therapy within the past 3 months before the study\nNon- rheumatologic diseases as multiple sclerosis,\nthyroid dysfunction and chronic infection and Rheumatologic condition as mild systemic lupus erythematosus, poly-articular osteoarthritis, rheumatoid arthritis and advanced cervical spine degenerative diseases.",
+          "HealthyVolunteers":"No",
+          "Gender":"All",
+          "MinimumAge":"19 Years",
+          "MaximumAge":"38 Years",
+          "StdAgeList":{
+            "StdAge":[
+              "Adult"
+            ]
+          }
+        },
+        "ContactsLocationsModule":{
+          "CentralContactList":{
+            "CentralContact":[
+              {
+                "CentralContactName":"al shaymaa sh abd el azeim, lecturer",
+                "CentralContactRole":"Contact",
+                "CentralContactPhone":"01033771553",
+                "CentralContactEMail":"alshaymaa.shaaban@pt.cu.edu.eg"
+              },{
+                "CentralContactName":"al shaymaa sh abd el azeim, lecturer",
+                "CentralContactRole":"Contact",
+                "CentralContactPhone":"01033771553",
+                "CentralContactEMail":"alshaymaa.ahaaban@pt.cu.edu.eg"
+              }
+            ]
+          }
+        }
+      },
+      "DerivedSection":{
+        "MiscInfoModule":{
+          "VersionHolder":"September 19, 2022"
+        },
+        "ConditionBrowseModule":{
+          "ConditionMeshList":{
+            "ConditionMesh":[
+              {
+                "ConditionMeshId":"D000019547",
+                "ConditionMeshTerm":"Neck Pain"
+              }
+            ]
+          },
+          "ConditionAncestorList":{
+            "ConditionAncestor":[
+              {
+                "ConditionAncestorId":"D000010146",
+                "ConditionAncestorTerm":"Pain"
+              },{
+                "ConditionAncestorId":"D000009461",
+                "ConditionAncestorTerm":"Neurologic Manifestations"
+              }
+            ]
+          },
+          "ConditionBrowseLeafList":{
+            "ConditionBrowseLeaf":[
+              {
+                "ConditionBrowseLeafId":"M7516",
+                "ConditionBrowseLeafName":"Fatigue",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M20638",
+                "ConditionBrowseLeafName":"Neck Pain",
+                "ConditionBrowseLeafAsFound":"Neck Pain",
+                "ConditionBrowseLeafRelevance":"high"
+              },{
+                "ConditionBrowseLeafId":"M12218",
+                "ConditionBrowseLeafName":"Pain",
+                "ConditionBrowseLeafRelevance":"low"
+              },{
+                "ConditionBrowseLeafId":"M11556",
+                "ConditionBrowseLeafName":"Neurologic Manifestations",
+                "ConditionBrowseLeafRelevance":"low"
+              }
+            ]
+          },
+          "ConditionBrowseBranchList":{
+            "ConditionBrowseBranch":[
+              {
+                "ConditionBrowseBranchAbbrev":"BC23",
+                "ConditionBrowseBranchName":"Symptoms and General Pathology"
+              },{
+                "ConditionBrowseBranchAbbrev":"All",
+                "ConditionBrowseBranchName":"All Conditions"
+              },{
+                "ConditionBrowseBranchAbbrev":"BC10",
+                "ConditionBrowseBranchName":"Nervous System Diseases"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+

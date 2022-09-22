@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2159">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on September 19, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01797835</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1R01AA021786</org_study_id>
+    <nct_id>NCT01797835</nct_id>
+  </id_info>
+  <brief_title>Alcohol Screening in an Ethnically Diverse Sample of Adolescents in Primary Care</brief_title>
+  <official_title>Alcohol Screening in an Ethnically Diverse Sample of Adolescents in Primary Care</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>RAND</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Valley Community Clinic</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Pittsburgh</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>RAND</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Screening youth in the primary care setting is one way to identify adolescents who may be&#xD;
+      at-risk for future alcohol problems. The current study tests the new NIAAA screening guide&#xD;
+      questions, which ask about friend and adolescent drinking, to see how well these questions&#xD;
+      work to predict subsequent alcohol use, problems, and involvement in other risk behaviors,&#xD;
+      such as sexual risk-taking and delinquency. In addition, the investigators plan to provide a&#xD;
+      brief motivational intervention for some at-risk teens and see whether alcohol use differs&#xD;
+      for those teens who receive the intervention and those teens who receive enhanced usual care.&#xD;
+      The results of this study have the potential to significantly impact the standard of care for&#xD;
+      identifying and intervening with at- risk youth in primary care settings.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>March 2013</start_date>
+  <completion_date type="Actual">August 2018</completion_date>
+  <primary_completion_date type="Actual">November 2015</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Times Used Alcohol</measure>
+    <time_frame>Past 3 months</time_frame>
+    <description>in the past three months: Number of times used alcohol; The 6-point frequency response scale (0= &quot;Never&quot; to 5= &quot;More than 20 times&quot;) was rescaled to a pseudo-continuous variable ranging from 0 to 20 using the mid-point of any range as the new value (e.g. 3-10 times was recoded as 6.5 times).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Times Used Marijuana</measure>
+    <time_frame>Past 3 months</time_frame>
+    <description>number of times used marijuana in the past 3 months; The 6-point frequency response scale (0= &quot;Never&quot; to 5= &quot;More than 20 times&quot;) was rescaled to a pseudo-continuous variable ranging from 0 to 20 using the mid-point of any range as the new value (e.g. 3-10 times was recoded as 6.5 times).</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">294</enrollment>
+  <condition>Alcohol Use</condition>
+  <condition>Drug Use</condition>
+  <arm_group>
+    <arm_group_label>Usual Care</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Youth in usual care will receive screening for alcohol and drug use. Those youth who are at risk will have a chance to talk to their provider about their use. They will also receive an informational brochure.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CHAT brief MI intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Youth in CHAT will receive screening for alcohol and drug use. Those youth who are at risk will have a chance to talk to their provider about their use. In addition, these youth will CHAT. CHAT is a brief motivational intervention that takes places in the primary care setting. It is a 15-20 minute intervention for adolescents age 12-18 focused on discussing alcohol and drug use. They will also receive a booster call one month later to check in on how they are doing.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>CHAT brief MI intervention</intervention_name>
+    <description>CHAT is one 15-20 minute session delivered in a single PC visit and utilizes motivational interviewing with youth to target alcohol and drug use in primary care.</description>
+    <arm_group_label>CHAT brief MI intervention</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>usual care</intervention_name>
+    <description>Youth receive a brochure with information on AOD use.</description>
+    <arm_group_label>Usual Care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria: 1&#xD;
+&#xD;
+          -  12-18&#xD;
+&#xD;
+          -  speak English&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  cognitive impairment&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>18 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Elizabeth J D'Amico, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>RAND</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Valley Community Clinic</name>
+      <address>
+        <city>North Hollywood</city>
+        <state>California</state>
+        <zip>91605</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UPMC St. Margaret</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>July 2019</verification_date>
+  <study_first_submitted>February 21, 2013</study_first_submitted>
+  <study_first_submitted_qc>February 22, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">February 25, 2013</study_first_posted>
+  <results_first_submitted>March 26, 2019</results_first_submitted>
+  <results_first_submitted_qc>May 31, 2019</results_first_submitted_qc>
+  <results_first_posted type="Actual">June 26, 2019</results_first_posted>
+  <last_update_submitted>July 3, 2019</last_update_submitted>
+  <last_update_submitted_qc>July 3, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 17, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>adolescents</keyword>
+  <keyword>intervention</keyword>
+  <keyword>motivational interviewing</keyword>
+  <keyword>alcohol and drug use</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alcohol Drinking</mesh_term>
+  </condition_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>April 22, 2019</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/35/NCT01797835/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>this study included an examination of screening; thus, not all youth were part of the randomized controlled trial as they screened in at low risk. This is why there is a larger N for the overall sample. The 294 are the youth that screened in as at-risk who were then part of the RCT.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>CHAT Brief MI Intervention</title>
+          <description>Youth in CHAT will receive screening for alcohol and drug use. Those youth who are at risk will have a chance to talk to their provider about their use. In addition, these youth will CHAT. CHAT is a brief motivational intervention that takes places in the primary care setting. It is a 15-20 minute intervention for adolescents age 12-18 focused on discussing alcohol and drug use. They will also receive a booster call one month later to check in on how they are doing.&#xD;
+CHAT brief MI intervention: CHAT is one 15-20 minute session delivered in a single PC visit and utilizes motivational interviewing with youth to target alcohol and drug use in primary care.</description>
+        </group>
+        <group group_id="P2">
+          <title>Usual Care</title>
+          <description>Youth in usual care will receive screening for alcohol and drug use. Those youth who are at risk will have a chance to talk to their provider about their use. They will also receive an informational brochure.&#xD;
+usual care: Youth receive a brochure with information on AOD use.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="153"/>
+                <participants group_id="P2" count="141"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="122"/>
+                <participants group_id="P2" count="114"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="31"/>
+                <participants group_id="P2" count="27"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="31"/>
+                <participants group_id="P2" count="27"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>CHAT Brief MI Intervention</title>
+          <description>Youth in CHAT will receive screening for alcohol and drug use. Those youth who are at risk will have a chance to talk to their provider about their use. In addition, these youth will CHAT. CHAT is a brief motivational intervention that takes places in the primary care setting. It is a 15-20 minute intervention for adolescents age 12-18 focused on discussing alcohol and drug use. They will also receive a booster call one month later to check in on how they are doing.&#xD;
+CHAT brief MI intervention: CHAT is one 15-20 minute session delivered in a single PC visit and utilizes motivational interviewing with youth to target alcohol and drug use in primary care.</description>
+        </group>
+        <group group_id="B2">
+          <title>Usual Care</title>
+          <description>Youth in usual care will receive screening for alcohol and drug use. Those youth who are at risk will have a chance to talk to their provider about their use. They will also receive an informational brochure.&#xD;
+usual care: Youth receive a brochure with information on AOD use.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="153"/>
+            <count group_id="B2" value="141"/>
+            <count group_id="B3" value="294"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <description>asked how old they were</description>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16.16" spread="1.61"/>
+                    <measurement group_id="B2" value="15.91" spread="1.61"/>
+                    <measurement group_id="B3" value="16" spread="1.61"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="90"/>
+                    <measurement group_id="B2" value="77"/>
+                    <measurement group_id="B3" value="167"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="63"/>
+                    <measurement group_id="B2" value="64"/>
+                    <measurement group_id="B3" value="127"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="99"/>
+                    <measurement group_id="B2" value="96"/>
+                    <measurement group_id="B3" value="195"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="54"/>
+                    <measurement group_id="B2" value="45"/>
+                    <measurement group_id="B3" value="99"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="31"/>
+                    <measurement group_id="B2" value="18"/>
+                    <measurement group_id="B3" value="49"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="118"/>
+                    <measurement group_id="B2" value="111"/>
+                    <measurement group_id="B3" value="229"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="12"/>
+                    <measurement group_id="B3" value="16"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="153"/>
+                    <measurement group_id="B2" value="141"/>
+                    <measurement group_id="B3" value="294"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Times Used Alcohol</title>
+        <description>in the past three months: Number of times used alcohol; The 6-point frequency response scale (0= &quot;Never&quot; to 5= &quot;More than 20 times&quot;) was rescaled to a pseudo-continuous variable ranging from 0 to 20 using the mid-point of any range as the new value (e.g. 3-10 times was recoded as 6.5 times).</description>
+        <time_frame>Past 3 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Usual Care</title>
+            <description>Youth in usual care will receive screening for alcohol and drug use. Those youth who are at risk will have a chance to talk to their provider about their use. They will also receive an informational brochure.&#xD;
+usual care: Youth receive a brochure with information on AOD use.</description>
+          </group>
+          <group group_id="O2">
+            <title>CHAT Brief MI Intervention</title>
+            <description>Youth in CHAT will receive screening for alcohol and drug use. Those youth who are at risk will have a chance to talk to their provider about their use. In addition, these youth will CHAT. CHAT is a brief motivational intervention that takes places in the primary care setting. It is a 15-20 minute intervention for adolescents age 12-18 focused on discussing alcohol and drug use. They will also receive a booster call one month later to check in on how they are doing.&#xD;
+CHAT brief MI intervention: CHAT is one 15-20 minute session delivered in a single PC visit and utilizes motivational interviewing with youth to target alcohol and drug use in primary care.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Times Used Alcohol</title>
+          <description>in the past three months: Number of times used alcohol; The 6-point frequency response scale (0= &quot;Never&quot; to 5= &quot;More than 20 times&quot;) was rescaled to a pseudo-continuous variable ranging from 0 to 20 using the mid-point of any range as the new value (e.g. 3-10 times was recoded as 6.5 times).</description>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="141"/>
+                <count group_id="O2" value="153"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.64" lower_limit="0" upper_limit="20"/>
+                    <measurement group_id="O2" value="5.18" lower_limit="0" upper_limit="20"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Times Used Marijuana</title>
+        <description>number of times used marijuana in the past 3 months; The 6-point frequency response scale (0= &quot;Never&quot; to 5= &quot;More than 20 times&quot;) was rescaled to a pseudo-continuous variable ranging from 0 to 20 using the mid-point of any range as the new value (e.g. 3-10 times was recoded as 6.5 times).</description>
+        <time_frame>Past 3 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Usual Care</title>
+            <description>Youth in usual care will receive screening for alcohol and drug use. Those youth who are at risk will have a chance to talk to their provider about their use. They will also receive an informational brochure.&#xD;
+usual care: Youth receive a brochure with information on AOD use.</description>
+          </group>
+          <group group_id="O2">
+            <title>CHAT Brief MI Intervention</title>
+            <description>Youth in CHAT will receive screening for alcohol and drug use. Those youth who are at risk will have a chance to talk to their provider about their use. In addition, these youth will CHAT. CHAT is a brief motivational intervention that takes places in the primary care setting. It is a 15-20 minute intervention for adolescents age 12-18 focused on discussing alcohol and drug use. They will also receive a booster call one month later to check in on how they are doing.&#xD;
+CHAT brief MI intervention: CHAT is one 15-20 minute session delivered in a single PC visit and utilizes motivational interviewing with youth to target alcohol and drug use in primary care.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Times Used Marijuana</title>
+          <description>number of times used marijuana in the past 3 months; The 6-point frequency response scale (0= &quot;Never&quot; to 5= &quot;More than 20 times&quot;) was rescaled to a pseudo-continuous variable ranging from 0 to 20 using the mid-point of any range as the new value (e.g. 3-10 times was recoded as 6.5 times).</description>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="141"/>
+                <count group_id="O2" value="153"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.95" lower_limit="0" upper_limit="20"/>
+                    <measurement group_id="O2" value="6.38" lower_limit="0" upper_limit="20"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>12 months</time_frame>
+      <desc>Adverse Event (AE): any untoward medical occurrence that may present itself during treatment or administration of an intervention, and which may or may not have a causal relationship with the treatment. Adverse events could arise from the study (e.g., breach of confidentiality) or could arise due to the population under study (e.g., a youth reports extensive use of drugs or that he/she &quot;huffs&quot; daily).</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Usual Care</title>
+          <description>Youth in usual care will receive screening for alcohol and drug use. Those youth who are at risk will have a chance to talk to their provider about their use. They will also receive an informational brochure.&#xD;
+usual care: Youth receive a brochure with information on AOD use.</description>
+        </group>
+        <group group_id="E2">
+          <title>CHAT Brief MI Intervention</title>
+          <description>Youth in CHAT will receive screening for alcohol and drug use. Those youth who are at risk will have a chance to talk to their provider about their use. In addition, these youth will CHAT. CHAT is a brief motivational intervention that takes places in the primary care setting. It is a 15-20 minute intervention for adolescents age 12-18 focused on discussing alcohol and drug use. They will also receive a booster call one month later to check in on how they are doing.&#xD;
+CHAT brief MI intervention: CHAT is one 15-20 minute session delivered in a single PC visit and utilizes motivational interviewing with youth to target alcohol and drug use in primary care.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="141"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="153"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="141"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="153"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="141"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="153"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Elizabeth D'Amico</name_or_title>
+      <organization>RAND</organization>
+      <phone>3103930411 ext 6487</phone>
+      <email>damico@rand.org</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

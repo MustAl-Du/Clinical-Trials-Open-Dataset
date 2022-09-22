@@ -1,0 +1,228 @@
+{
+  "FullStudy":{
+    "Rank":487,
+    "Study":{
+      "ProtocolSection":{
+        "IdentificationModule":{
+          "NCTId":"NCT05540210",
+          "OrgStudyIdInfo":{
+            "OrgStudyId":"87RI22_0021 (AB-PSP-006)"
+          },
+          "Organization":{
+            "OrgFullName":"University Hospital, Limoges",
+            "OrgClass":"OTHER"
+          },
+          "BriefTitle":"Analytical Validation of the abioSCOPE Device With the in Vitro Device (IVD) CAPSULE PSP Test: Comparison of PSP Values Measured With Venous Whole Blood and Those Measured With Arterial Whole Blood",
+          "OfficialTitle":"Analytical Validation of the abioSCOPE Device With the IVD CAPSULE PSP Test: Comparison of PSP Values Measured With Venous Whole Blood and Those Measured With Arterial Whole Blood",
+          "Acronym":"AB-PSP-006"
+        },
+        "StatusModule":{
+          "StatusVerifiedDate":"September 2022",
+          "OverallStatus":"Recruiting",
+          "ExpandedAccessInfo":{
+            "HasExpandedAccess":"No"
+          },
+          "StartDateStruct":{
+            "StartDate":"August 29, 2022",
+            "StartDateType":"Actual"
+          },
+          "PrimaryCompletionDateStruct":{
+            "PrimaryCompletionDate":"March 29, 2023",
+            "PrimaryCompletionDateType":"Anticipated"
+          },
+          "CompletionDateStruct":{
+            "CompletionDate":"March 29, 2023",
+            "CompletionDateType":"Anticipated"
+          },
+          "StudyFirstSubmitDate":"September 9, 2022",
+          "StudyFirstSubmitQCDate":"September 9, 2022",
+          "StudyFirstPostDateStruct":{
+            "StudyFirstPostDate":"September 14, 2022",
+            "StudyFirstPostDateType":"Actual"
+          },
+          "LastUpdateSubmitDate":"September 9, 2022",
+          "LastUpdatePostDateStruct":{
+            "LastUpdatePostDate":"September 14, 2022",
+            "LastUpdatePostDateType":"Actual"
+          }
+        },
+        "SponsorCollaboratorsModule":{
+          "ResponsibleParty":{
+            "ResponsiblePartyType":"Sponsor"
+          },
+          "LeadSponsor":{
+            "LeadSponsorName":"University Hospital, Limoges",
+            "LeadSponsorClass":"OTHER"
+          }
+        },
+        "OversightModule":{
+          "OversightHasDMC":"No",
+          "IsFDARegulatedDrug":"No",
+          "IsFDARegulatedDevice":"No"
+        },
+        "DescriptionModule":{
+          "BriefSummary":"Abionic society has developed a novel point-of-care (POC) platform, the abioSCOPE, and an in vitro diagnostic kit for the quantification of the pancreatic stone protein (PSP) to be analyzed specifically with the abioSCOPE® device. The PSP is a host protein biomarker produced by the pancreas in response to a sepsis-related organ dysfunction and has shown a great potential in the early identification of septic patients This test is intended to be used to aid in the early recognition of sepsis. The test is extremely easy to use and has a total turnaround time of approximately 8 minutes. This test uses only 50 microliters of K2/K3-EDTA venous anticoagulated whole blood. Results are quantitative (ng/ml). The product is for Investigational Use Only in the US and bears CE-marking. It is commercially available in selected European and non-European countries. The test has also been clinically validated in a multicentric, prospective, observational study performed (AB-PSP-001, clinicaltrials.gov identifier NCT03474809).\n\nThe main goal of this study is to evaluate the analytical performances components of this product in a point-of-care environment, in particular the sample type comparability between arterial and venous whole blood."
+        },
+        "ConditionsModule":{
+          "ConditionList":{
+            "Condition":[
+              "Pancreatic Stone Protein",
+              "Device"
+            ]
+          },
+          "KeywordList":{
+            "Keyword":[
+              "Pancreatic Stone Protein"
+            ]
+          }
+        },
+        "DesignModule":{
+          "StudyType":"Interventional",
+          "PhaseList":{
+            "Phase":[
+              "Not Applicable"
+            ]
+          },
+          "DesignInfo":{
+            "DesignAllocation":"N/A",
+            "DesignInterventionModel":"Single Group Assignment",
+            "DesignPrimaryPurpose":"Other",
+            "DesignMaskingInfo":{
+              "DesignMasking":"None (Open Label)"
+            }
+          },
+          "EnrollmentInfo":{
+            "EnrollmentCount":"100",
+            "EnrollmentType":"Anticipated"
+          }
+        },
+        "ArmsInterventionsModule":{
+          "ArmGroupList":{
+            "ArmGroup":[
+              {
+                "ArmGroupLabel":"PSP sample",
+                "ArmGroupType":"Experimental",
+                "ArmGroupInterventionList":{
+                  "ArmGroupInterventionName":[
+                    "Device: measurement of PSP"
+                  ]
+                }
+              }
+            ]
+          },
+          "InterventionList":{
+            "Intervention":[
+              {
+                "InterventionType":"Device",
+                "InterventionName":"measurement of PSP",
+                "InterventionDescription":"one or two blood samples",
+                "InterventionArmGroupLabelList":{
+                  "InterventionArmGroupLabel":[
+                    "PSP sample"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "OutcomesModule":{
+          "PrimaryOutcomeList":{
+            "PrimaryOutcome":[
+              {
+                "PrimaryOutcomeMeasure":"PSP measurement",
+                "PrimaryOutcomeDescription":"Pairwise comparability of test results when performed with K2-EDTA anticoagulated venous whole blood or K2-EDTA anticoagulated arterial whole blood, represented as percent recovery of arterial whole blood compared to venous whole blood, as well as scatter plots with Weighted Deming and Passing Bablok Regression, and bias plots.",
+                "PrimaryOutcomeTimeFrame":"Day 1"
+              }
+            ]
+          }
+        },
+        "EligibilityModule":{
+          "EligibilityCriteria":"Inclusion Criteria:\n\nProvide signed and dated written informed consent by patient or close / family / trusted person prior to any mandatory study-specific procedures, sample collection, or analysis;\nMale or female, 18 years of age or older;\nPatient admitted to hospital\nNeed for venous and arterial blood samples as part of standard of care\nCovered by a social security scheme.\n\nExclusion Criteria:\n\nSubject suffering from a hematological pathology (coagulation disorder, severe anemia) that could interfere with the blood draw procedure;\nSubject under juridical protection.",
+          "HealthyVolunteers":"No",
+          "Gender":"All",
+          "MinimumAge":"18 Years",
+          "StdAgeList":{
+            "StdAge":[
+              "Adult",
+              "Older Adult"
+            ]
+          }
+        },
+        "ContactsLocationsModule":{
+          "CentralContactList":{
+            "CentralContact":[
+              {
+                "CentralContactName":"DAIX Thomas, MD",
+                "CentralContactRole":"Contact",
+                "CentralContactPhone":"555056240",
+                "CentralContactPhoneExt":"+33",
+                "CentralContactEMail":"thomas.daix@chu-limoges.fr"
+              },{
+                "CentralContactName":"HERAFA Isabelle",
+                "CentralContactRole":"Contact",
+                "CentralContactPhone":"555054042",
+                "CentralContactPhoneExt":"+33",
+                "CentralContactEMail":"isabelle.herafa@chu-limoges.fr"
+              }
+            ]
+          },
+          "LocationList":{
+            "Location":[
+              {
+                "LocationFacility":"Limoges University Hospital",
+                "LocationStatus":"Recruiting",
+                "LocationCity":"Limoges",
+                "LocationZip":"87042",
+                "LocationCountry":"France",
+                "LocationContactList":{
+                  "LocationContact":[
+                    {
+                      "LocationContactName":"DAIX Thomas, MD",
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"thomas.daix@chu-limoges.fr"
+                    },{
+                      "LocationContactName":"HERAFA Isabelle",
+                      "LocationContactRole":"Contact",
+                      "LocationContactEMail":"isabelle.herafa@chu-limoges.fr"
+                    },{
+                      "LocationContactName":"DAIX THomas, MD",
+                      "LocationContactRole":"Principal Investigator"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      },
+      "DerivedSection":{
+        "MiscInfoModule":{
+          "VersionHolder":"September 19, 2022"
+        },
+        "ConditionBrowseModule":{
+          "ConditionBrowseLeafList":{
+            "ConditionBrowseLeaf":[
+              {
+                "ConditionBrowseLeafId":"M4551",
+                "ConditionBrowseLeafName":"Calculi",
+                "ConditionBrowseLeafRelevance":"low"
+              }
+            ]
+          },
+          "ConditionBrowseBranchList":{
+            "ConditionBrowseBranch":[
+              {
+                "ConditionBrowseBranchAbbrev":"BC23",
+                "ConditionBrowseBranchName":"Symptoms and General Pathology"
+              },{
+                "ConditionBrowseBranchAbbrev":"All",
+                "ConditionBrowseBranchName":"All Conditions"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+
