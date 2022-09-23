@@ -1,0 +1,7 @@
+endpoint,https://kdh-hackathon-nlp.cognitiveservices.azure.com/
+key,yourkeystringhere
+input_file,172_flattened_cleaned.csv
+condition_project,ConditionProject
+condition_deployment,ConditionDeployment
+funding_project,FundingProject
+funding_deployment,FundingDeployment
