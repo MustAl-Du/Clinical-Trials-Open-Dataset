@@ -1,10 +1,11 @@
-Postoperative Morbidity,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Postoperative Morbidity,"Surgery, Abdominal Disease, Emergency and ICU"
+CPOD,Pulmonary Disease
 Heart Failure,Heart Disease
 Hypoxia,Others
 "Urinary Incontinence, Urge",Kidney Disease
 Cognitive Performance (Focus),Mental Health
 Lung Cancer,Oncology
-Liver Transplantation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Liver Transplantation,"Surgery, Abdominal Disease, Emergency and ICU"
 Healthy,Others
 Intermittent Claudication,Heart Disease
 Non Coeliac Gluten Sensitivity,Obesity and Physical Activity
@@ -37,16 +38,16 @@ Colorectal Neoplasms,Oncology
 Metabolic Syndrome,Obesity and Physical Activity
 Peripheral Vascular Disease,"Ear, Nose and Throat"
 Malocclusion,Oral Health
-Incisional Hernia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Incisional Hernia,"Surgery, Abdominal Disease, Emergency and ICU"
 Hemiparesis,Others
 Lung,Pulmonary Disease
 Bladder Cancer,Oncology
 Peripheral T-cell Lymphoma NOS,Oncology
 Dyspnea,Pulmonary Disease
 Stable Angina,Heart Disease
-Venous Leg Ulcer,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Venous Leg Ulcer,"Surgery, Abdominal Disease, Emergency and ICU"
 Selenium and Iodine Status,Obesity and Physical Activity
-Pelvic Floor Disorders,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Pelvic Floor Disorders,"Surgery, Abdominal Disease, Emergency and ICU"
 Fatigue,Others
 Type 1 Diabetes Mellitus,Diabetes
 Coronary Artery Disease,Heart Disease
@@ -61,24 +62,24 @@ Depressive Symptoms,Mental Health
 HIV,Reproduction and Sexual Health
 Asthma,Pulmonary Disease
 "LPS Challenge, Neutrophils",Others
-Infectious Diseases,Skin Condition
+Infectious Diseases,Infection and Allergy
 Tinnitus,"Ear, Nose and Throat"
-Coagulopathy in Patients Having Thoraco-Abdominal Aneurysm Repair,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Coagulopathy in Patients Having Thoraco-Abdominal Aneurysm Repair,"Surgery, Abdominal Disease, Emergency and ICU"
 Kidney Transplantation,Kidney Disease
 "Transplantation, Organ",Others
 Generalized Anxiety Disorder,Mental Health
-Constipation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Constipation,"Surgery, Abdominal Disease, Emergency and ICU"
 "Depression, Postpartum",Mental Health
 Hypertension,Heart Disease
-Inflammatory Bowel Disease,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Inflammatory Bowel Disease,"Surgery, Abdominal Disease, Emergency and ICU"
 Chronic Obstructive Pulmonary Disease,Pulmonary Disease
-Failed Back Surgery Syndrome,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Failed Back Surgery Syndrome,"Surgery, Abdominal Disease, Emergency and ICU"
 Peripheral Vascular Disease,"Ear, Nose and Throat"
 Acute Coronary Syndrome,Heart Disease
 Hypertension,Heart Disease
 Hypertension,Heart Disease
 Lung Tumour,Pulmonary Disease
-Critical Illness,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Critical Illness,"Surgery, Abdominal Disease, Emergency and ICU"
 Cardiac Surgery,Heart Disease
 Lung Cancer,Oncology
 Perioperative Myocardial Injury,Heart Disease
@@ -86,7 +87,7 @@ Pain,Arthritis and Injuries
 Total Hip Arthroplasty,Arthritis and Injuries
 Unipolar Depression,Mental Health
 Cancer,Oncology
-Venous Leg Ulcer,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Venous Leg Ulcer,"Surgery, Abdominal Disease, Emergency and ICU"
 Growth and Development,Others
 Achilles Tendon Rupture,Arthritis and Injuries
 Chronic Arthritis,Arthritis and Injuries
@@ -102,7 +103,7 @@ Cough,Pulmonary Disease
 Surgical Site Infection,Skin Condition
 Non-Alcoholic Fatty Liver Disease,Addiction
 Stroke,Heart Disease
-Acquired Brain Injury,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Acquired Brain Injury,"Surgery, Abdominal Disease, Emergency and ICU"
 Gestational Diabetes Mellitus,Diabetes
 Stroke,Heart Disease
 Gout,Arthritis and Injuries
@@ -128,7 +129,7 @@ Severe Malaria,Skin Condition
 Malaria,Skin Condition
 Malaria,Skin Condition
 Sickle Cell Crisis,Heart Disease
-Myomectomy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Myomectomy,"Surgery, Abdominal Disease, Emergency and ICU"
 Neck Pain,Arthritis and Injuries
 Cerebral Palsy,Mental Health
 "Early Amniotomy, Unfavorable Cervix",Reproduction and Sexual Health
@@ -141,7 +142,7 @@ Dysmenorrhea,Reproduction and Sexual Health
 Embryo,Reproduction and Sexual Health
 Pregnancy Termination,Reproduction and Sexual Health
 Postpartum Bleeding,Reproduction and Sexual Health
-Nasal Polyps,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Nasal Polyps,"Surgery, Abdominal Disease, Emergency and ICU"
 Respiratory Failure,Pulmonary Disease
 Musculoskeletal Pain,Arthritis and Injuries
 Bartholin Abscess,Others
@@ -153,12 +154,12 @@ Nocturnal Enuresis,Kidney Disease
 "Obesity, Morbid",Obesity and Physical Activity
 Bronchiectasis,Pulmonary Disease
 Warfarin Knowledge Level,Others
-Bariatric Surgery Candidate,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Bariatric Surgery Candidate,"Surgery, Abdominal Disease, Emergency and ICU"
 Distal Radius Fracture,Arthritis and Injuries
 Postoperative Pain,Arthritis and Injuries
 Incomplete Reversal of Neuromuscular Block,Mental Health
-Delayed Emergence From Anesthesia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
-Effect of CO2 Was Removed by Means Trandelenburg Position at Laparascopic Surgery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Delayed Emergence From Anesthesia,"Surgery, Abdominal Disease, Emergency and ICU"
+Effect of CO2 Was Removed by Means Trandelenburg Position at Laparascopic Surgery,"Surgery, Abdominal Disease, Emergency and ICU"
 Labor Induction,Reproduction and Sexual Health
 Emergence Delirium,Mental Health
 Postoperative Pain,Arthritis and Injuries
@@ -197,7 +198,7 @@ HIV,Reproduction and Sexual Health
 Malaria,Skin Condition
 "Sterilization, Tubal",Others
 Contraception,Reproduction and Sexual Health
-One Lung Ventilation in Thoracic Surgery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+One Lung Ventilation in Thoracic Surgery,"Surgery, Abdominal Disease, Emergency and ICU"
 Type 2 Diabetes,Diabetes
 "Neoplasms, Pulmonary",Oncology
 Latent Tuberculosis Infection,Pulmonary Disease
@@ -211,7 +212,7 @@ Trauma,Mental Health
 Osteoporosis,Arthritis and Injuries
 Atopic Dermatitis,Skin Condition
 Chronic Shoulder Pain,Arthritis and Injuries
-Helicobacter,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Helicobacter,"Surgery, Abdominal Disease, Emergency and ICU"
 Drug Hypersensitivity,Skin Condition
 Bladder Pain Syndrome,Kidney Disease
 Schizophrenia,Mental Health
@@ -227,7 +228,7 @@ Flat Foot,Arthritis and Injuries
 Hypertrophic Scars,Skin Condition
 Carpal Tunnel Syndrome,Arthritis and Injuries
 Shoulder Impingement,Arthritis and Injuries
-Surgical Incision,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Surgical Incision,"Surgery, Abdominal Disease, Emergency and ICU"
 White Spot Lesion,Others
 "Malocclusion, Angle Class II",Oral Health
 Sleep-wake Disturbances in Motor-phase Parkinson`s Disease,Mental Health
@@ -239,7 +240,7 @@ Cerebrovascular Accident,"Ear, Nose and Throat"
 Femoral Neck Fracture,Arthritis and Injuries
 Football Injuries in Children,Arthritis and Injuries
 Knee Osteoarthritis,Arthritis and Injuries
-Diabetic Foot Ulcer,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Diabetic Foot Ulcer,"Surgery, Abdominal Disease, Emergency and ICU"
 Pain,Arthritis and Injuries
 Hypogonadism,Reproduction and Sexual Health
 Parathyroid Function Low Adverse Event,"Ear, Nose and Throat"
@@ -252,18 +253,18 @@ Thyroid Dysfunction,"Ear, Nose and Throat"
 Spinal Cord Injury,Arthritis and Injuries
 Chronic Obstructive Pulmonary Disease (COPD),Pulmonary Disease
 Accidental Falls,Arthritis and Injuries
-Frequent Users of the Emergency Department,"Surgery, Abdominal Disease, Emergency and Intensive Care"
-Polypharmacy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
-Postoperative Delirium,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Frequent Users of the Emergency Department,"Surgery, Abdominal Disease, Emergency and ICU"
+Polypharmacy,"Surgery, Abdominal Disease, Emergency and ICU"
+Postoperative Delirium,"Surgery, Abdominal Disease, Emergency and ICU"
 Asthma,Pulmonary Disease
 Attention Deficit Hyperactivity Disorder,Mental Health
 Healthy Volunteers,Others
 Pain,Arthritis and Injuries
 Impaired Social Functioning,Mental Health
 Periarthritis,Arthritis and Injuries
-Wound Contamination,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Wound Contamination,"Surgery, Abdominal Disease, Emergency and ICU"
 Edentulous Complete Denture Wearers,Oral Health
-Incisional Hernia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Incisional Hernia,"Surgery, Abdominal Disease, Emergency and ICU"
 Herniated Disk Lumbar,Arthritis and Injuries
 Low Back Pain,Arthritis and Injuries
 Aortic Stenosis,Heart Disease
@@ -276,7 +277,7 @@ Physical Activity,Obesity and Physical Activity
 Community-acquired Pneumonia,Pulmonary Disease
 Pediatric Cancer,Oncology
 Obese,Obesity and Physical Activity
-Anesthesia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Anesthesia,"Surgery, Abdominal Disease, Emergency and ICU"
 Heart,Heart Disease
 Benign Gallbladder Disease,Kidney Disease
 Glioblastoma,Oncology
@@ -284,7 +285,7 @@ EEG With Periodic Abnormalities,Others
 Community-dwelling Seniors,Aging and Palliative Care
 Preoxygenation,Others
 Coronary Artery Disease,Heart Disease
-Incisional Hernias,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Incisional Hernias,"Surgery, Abdominal Disease, Emergency and ICU"
 "Overweight, Obesity Grade I",Obesity and Physical Activity
 Insomnia Disorder,Mental Health
 Severe Health Anxiety,Mental Health
@@ -301,14 +302,14 @@ Pathogenic Bacteria in the Oropharynx,"Ear, Nose and Throat"
 "Sleep Apnea, Obstructive",Mental Health
 Muscle Weakness,Arthritis and Injuries
 Obstructive Sleep Apnea,Mental Health
-The Prevalence of Surgery for Small Bowel Obstruction After LGBP Procedure.,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+The Prevalence of Surgery for Small Bowel Obstruction After LGBP Procedure.,"Surgery, Abdominal Disease, Emergency and ICU"
 Vitamin D Deficiency,Obesity and Physical Activity
 Cardiorenal Syndrome,Kidney Disease
 Cardiac Surgery,Heart Disease
 Small Cell Lung Cancer,Oncology
 Cardiovascular Diseases,Heart Disease
 Obesity,Obesity and Physical Activity
-Pancreatitis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Pancreatitis,"Surgery, Abdominal Disease, Emergency and ICU"
 Osteo Arthritis,Arthritis and Injuries
 Hearing Loss,"Ear, Nose and Throat"
 Overweight,Obesity and Physical Activity
@@ -324,7 +325,7 @@ Femoral Neck Fractures,Arthritis and Injuries
 Acute Kidney Injury,Kidney Disease
 Colorectal Peritoneal Carcinomatosis,Oncology
 Scars,Skin Condition
-Inguinal Hernia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Inguinal Hernia,"Surgery, Abdominal Disease, Emergency and ICU"
 "Tooth, Impacted",Oral Health
 "Diabetes Mellitus, Type 1",Diabetes
 Depression,Mental Health
@@ -351,14 +352,14 @@ Coronary Artery Disease,Heart Disease
 Obstructive Sleep Apnea Syndrome,Mental Health
 Stable Claudication (Fontaine IIa and IIb),Heart Disease
 Cardiovascular Mortality,Heart Disease
-Radiculopathy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Radiculopathy,"Surgery, Abdominal Disease, Emergency and ICU"
 Exhaustion,Others
 Well Being,Others
 "Osteoarthritis, Knee",Arthritis and Injuries
 Type 2 Diabetes Mellitus,Diabetes
 Anxiety Disorders,Mental Health
 Depression,Mental Health
-Postoperative Complications,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Postoperative Complications,"Surgery, Abdominal Disease, Emergency and ICU"
 "Sleep Apnea, Obstructive",Mental Health
 Metastatic Castration Resistant Prostate Cancer,Oncology
 Arthralgia,Arthritis and Injuries
@@ -371,7 +372,7 @@ Recurrent Low Back Pain,Arthritis and Injuries
 COPD,Pulmonary Disease
 Procrastination,Others
 Cardiovascular Disease,Heart Disease
-Wound Infection,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Wound Infection,"Surgery, Abdominal Disease, Emergency and ICU"
 Methicillin Resistant Staphylococcus Aureus,Others
 Atelectasis,Pulmonary Disease
 Overweight,Obesity and Physical Activity
@@ -389,7 +390,7 @@ Colorectal Cancer,Oncology
 Falling Injury,Arthritis and Injuries
 Shoulder Pain,Arthritis and Injuries
 Hypertension,Heart Disease
-Crohn´s Disease,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Crohn´s Disease,"Surgery, Abdominal Disease, Emergency and ICU"
 Hockey Players Whith Lower Back and Hamstring Pain,Arthritis and Injuries
 Shoulder Pain,Arthritis and Injuries
 Overweight,Obesity and Physical Activity
@@ -409,7 +410,7 @@ Postoperative Pain,Arthritis and Injuries
 Hip Osteoarthritis,Arthritis and Injuries
 Manual Therapies,Others
 Achilles Tendinopathy,Arthritis and Injuries
-Pelvic Congestion Syndrome,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Pelvic Congestion Syndrome,"Surgery, Abdominal Disease, Emergency and ICU"
 Acute Injury of Anterior Cruciate Ligament,Arthritis and Injuries
 Respiratory,Pulmonary Disease
 Metabolic Syndrome X,Obesity and Physical Activity
@@ -433,7 +434,7 @@ Pain,Arthritis and Injuries
 Metabolic Syndrome X,Obesity and Physical Activity
 Breast Cancer,Oncology
 Negative Symptoms of Schizophrenia in Post-menopausal Women.,Reproduction and Sexual Health
-Postoperative Complications,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Postoperative Complications,"Surgery, Abdominal Disease, Emergency and ICU"
 Colorectal Cancer,Oncology
 Frail Elderly,Arthritis and Injuries
 Individuality,Others
@@ -446,7 +447,7 @@ Obstructive Sleep Apnea,Mental Health
 Colorectal Carcinoma,Oncology
 Diabetes Mellitus,Diabetes
 Oral Hygiene,Oral Health
-"Anesthesia, Obstetrical","Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Anesthesia, Obstetrical","Surgery, Abdominal Disease, Emergency and ICU"
 Stroke,Heart Disease
 Osteoarthritis,Arthritis and Injuries
 Obstructive Sleep Apnea Syndrome,Mental Health
@@ -455,7 +456,7 @@ Compassion,Others
 In-stent Restenosis,Heart Disease
 Chronic Kidney Disease Stage 4,Kidney Disease
 COPD,Pulmonary Disease
-Gastrointestinal Diseases,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Gastrointestinal Diseases,"Surgery, Abdominal Disease, Emergency and ICU"
 Smoking,Addiction
 Pregnancy,Reproduction and Sexual Health
 Interprofessional Relations,Others
@@ -463,7 +464,7 @@ Infertility,Reproduction and Sexual Health
 Fibromyalgia,Arthritis and Injuries
 Asymptomatic Subjects,Others
 Weight Gain,Obesity and Physical Activity
-"Vomiting, Postoperative","Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Vomiting, Postoperative","Surgery, Abdominal Disease, Emergency and ICU"
 Autonomic Nervous System,Mental Health
 Lactose Intolerance,Obesity and Physical Activity
 Persistent Occiput Posterior Position During Labor,Reproduction and Sexual Health
@@ -491,7 +492,7 @@ Infective Endocarditis,Others
 Ankle Sprain,Arthritis and Injuries
 "Diabetes Mellitus, Adult-Onset",Diabetes
 Pulmonary Hypertension,Heart Disease
-Early Onset of Delivery Before 37 Weeks,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Early Onset of Delivery Before 37 Weeks,"Surgery, Abdominal Disease, Emergency and ICU"
 Functional Impairment,Others
 Depression,Mental Health
 Pregnancy,Reproduction and Sexual Health
@@ -501,19 +502,19 @@ Myocardial Infarction,Heart Disease
 Hypercholesterolemia,Heart Disease
 COPD,Pulmonary Disease
 "Dermatitis, Atopic",Skin Condition
-Abdominal Surgical Patient,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Abdominal Surgical Patient,"Surgery, Abdominal Disease, Emergency and ICU"
 Myopia,Eye Disease
 Midwifery,Reproduction and Sexual Health
 Fibromyalgia,Arthritis and Injuries
 Shoulder Pain,Arthritis and Injuries
 Cardiac Index,Heart Disease
-Wounds and Injuries,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Wounds and Injuries,"Surgery, Abdominal Disease, Emergency and ICU"
 Rectal Neoplasm,Oncology
 Acute Kidney Injury,Kidney Disease
 Mechanical Ventilation Complication,Pulmonary Disease
 Angina Pectoris,Heart Disease
 "Osteoarthritis, Knee",Arthritis and Injuries
-Brain Ischemia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Brain Ischemia,"Surgery, Abdominal Disease, Emergency and ICU"
 Trigger Finger,Arthritis and Injuries
 Core Body Temperature,Others
 Obstructive Sleep Apnea,Mental Health
@@ -523,7 +524,7 @@ Coronary Artery Disease,Heart Disease
 Rheumatoid Arthritis,Arthritis and Injuries
 Venous Thromboembolism,Heart Disease
 Idiopathic Short Stature,Others
-"Anesthesia, General","Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Anesthesia, General","Surgery, Abdominal Disease, Emergency and ICU"
 Malnourished,Obesity and Physical Activity
 Septic Shock,Skin Condition
 Low Back Pain,Arthritis and Injuries
@@ -533,10 +534,10 @@ Malignant Tumor,Oncology
 Out-of-hospital Cardiac Arrest,Heart Disease
 Metastatic Breast Cancer,Oncology
 The Elderly Patients Aged Between 65 and 85,Aging and Palliative Care
-Surgery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Surgery,"Surgery, Abdominal Disease, Emergency and ICU"
 "Pain, Postoperative",Arthritis and Injuries
 Type 2 Diabetes Mellitus,Diabetes
-Vitrectomy Operation Under General Anesthesia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Vitrectomy Operation Under General Anesthesia,"Surgery, Abdominal Disease, Emergency and ICU"
 Valvular Heart Disease Patients,Heart Disease
 Type 2 Diabetes,Diabetes
 Hypertension,Heart Disease
@@ -551,10 +552,10 @@ Kidney Transplantation,Kidney Disease
 Stomach Cancer,Oncology
 HCC,Others
 Coronary Artery Disease,Heart Disease
-Orthopedic Surgery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
-"Anesthesia, Spinal","Surgery, Abdominal Disease, Emergency and Intensive Care"
+Orthopedic Surgery,"Surgery, Abdominal Disease, Emergency and ICU"
+"Anesthesia, Spinal","Surgery, Abdominal Disease, Emergency and ICU"
 Postural Orthostatic Tachycardia Syndrome,Mental Health
-Gastric Tumor,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Gastric Tumor,"Surgery, Abdominal Disease, Emergency and ICU"
 Respiratory Disease,Pulmonary Disease
 Gastric Cancer,Oncology
 Attention Deficit Hyperactivity Disorder,Mental Health
@@ -563,7 +564,7 @@ Ovarian Cancer,Oncology
 Healthy,Others
 Scrub Typhus,Skin Condition
 Mixed Hyperlipidemia,Heart Disease
-Intubation Complication,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Intubation Complication,"Surgery, Abdominal Disease, Emergency and ICU"
 Colon Neoplasms,Oncology
 Midazolam Premedication,Others
 Gastric Adenocarcinoma,Oncology
@@ -580,9 +581,9 @@ Muscle Relaxation,Arthritis and Injuries
 Ischemic Heart Disease,Heart Disease
 Congenital Muscular Torticollis,Heart Disease
 "Lung Cancer,",Oncology
-Appendicitis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Appendicitis,"Surgery, Abdominal Disease, Emergency and ICU"
 Pancreatic Cancer,Oncology
-Sedation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Sedation,"Surgery, Abdominal Disease, Emergency and ICU"
 Pancreatic Cancer,Oncology
 Voiding Dysfunction,Kidney Disease
 Neuromuscular Blockade,Mental Health
@@ -602,17 +603,17 @@ Type 2 Diabetes,Diabetes
 Spinal Diseases,Arthritis and Injuries
 Type 2 Diabetes Mellitus,Diabetes
 "Cholecystitis, Acute",Kidney Disease
-Robot Assisted Laparoscopic Prostatectomy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Robot Assisted Laparoscopic Prostatectomy,"Surgery, Abdominal Disease, Emergency and ICU"
 Lumbar Radiculopathy Due to Spinal Nerve Compression,Arthritis and Injuries
-Postoperative Sore Throat,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Postoperative Sore Throat,"Surgery, Abdominal Disease, Emergency and ICU"
 Gynecologic Diseases,Reproduction and Sexual Health
-Chronic Hepatitis B,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Chronic Hepatitis B,"Surgery, Abdominal Disease, Emergency and ICU"
 Skin Reaction to Suture Material,Skin Condition
 "Stress, Psychological",Mental Health
 Lumbosacral Radicular Pain,Arthritis and Injuries
 Gynecologic Diseases,Reproduction and Sexual Health
 Stroke,Heart Disease
-Emergency Medicine,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Emergency Medicine,"Surgery, Abdominal Disease, Emergency and ICU"
 Human Immunodeficiency Virus,Reproduction and Sexual Health
 Gender Relations,Reproduction and Sexual Health
 HIV,Reproduction and Sexual Health
@@ -653,7 +654,7 @@ Malaria,Skin Condition
 "Influenza, Human",Skin Condition
 Urinary Schistosomiasis,Kidney Disease
 Influenza,Skin Condition
-Postoperative Care,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Postoperative Care,"Surgery, Abdominal Disease, Emergency and ICU"
 Agitation States as Acute Reaction to Gross Stress,Mental Health
 Upper Respiratory Tract Infections,Pulmonary Disease
 Labor Pain,Reproduction and Sexual Health
@@ -676,14 +677,14 @@ Acupuncture,Others
 ST Elevation Myocardial Infarction,Heart Disease
 Spinal Cord Injuries,Arthritis and Injuries
 Mass Screening,Others
-Functional Constipation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
-Children Prior to Colonoscopy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Functional Constipation,"Surgery, Abdominal Disease, Emergency and ICU"
+Children Prior to Colonoscopy,"Surgery, Abdominal Disease, Emergency and ICU"
 Coronary Artery Disease,Heart Disease
-Brain Metastases,"Surgery, Abdominal Disease, Emergency and Intensive Care"
-Celiac Disease,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Brain Metastases,"Surgery, Abdominal Disease, Emergency and ICU"
+Celiac Disease,"Surgery, Abdominal Disease, Emergency and ICU"
 Nutrition,Obesity and Physical Activity
 Schizophrenia,Mental Health
-Liver Failure,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Liver Failure,"Surgery, Abdominal Disease, Emergency and ICU"
 Supplementation,Others
 Multiple Myeloma,Oncology
 Gastric Cancer,Oncology
@@ -694,7 +695,7 @@ Temporomandibular Disorder,Arthritis and Injuries
 Goiter,"Ear, Nose and Throat"
 Hypertension,Heart Disease
 Acute Gastroenteritis,Obesity and Physical Activity
-Diarrhea,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Diarrhea,"Surgery, Abdominal Disease, Emergency and ICU"
 HIV,Reproduction and Sexual Health
 Partner Notification Following STI Diagnosis,Others
 Pneumonia,Pulmonary Disease
@@ -757,7 +758,7 @@ Angina,Heart Disease
 Academic Performance,Others
 Diabetic Foot,Diabetes
 Depression,Mental Health
-Colonic Diseases,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Colonic Diseases,"Surgery, Abdominal Disease, Emergency and ICU"
 Oxidative Stress,Mental Health
 Psychosis,Mental Health
 COPD,Pulmonary Disease
@@ -772,9 +773,9 @@ Prostatic Neoplasms,Oncology
 Chronic Pain,Arthritis and Injuries
 Healthy,Others
 Muscle Weakness,Arthritis and Injuries
-Traumatic Brain Injury,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Traumatic Brain Injury,"Surgery, Abdominal Disease, Emergency and ICU"
 Major Depressive Disorder,Mental Health
-Irritable Bowel Syndrome,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Irritable Bowel Syndrome,"Surgery, Abdominal Disease, Emergency and ICU"
 Femoral Neck Fracture,Arthritis and Injuries
 Obesity,Obesity and Physical Activity
 Obesity,Obesity and Physical Activity
@@ -807,9 +808,9 @@ Disorder of Glucose Regulation,Diabetes
 Intermittent Claudication,Heart Disease
 Tetralogy of Fallot,Arthritis and Injuries
 Endometrial Cancer,Oncology
-Polypharmacy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Polypharmacy,"Surgery, Abdominal Disease, Emergency and ICU"
 Hypertension,Heart Disease
-Elective Hepatic Resection,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Elective Hepatic Resection,"Surgery, Abdominal Disease, Emergency and ICU"
 Hip Fracture,Arthritis and Injuries
 Varicose Veins,Heart Disease
 Esophageal Cancer,Oncology
@@ -817,14 +818,14 @@ Spinal Deformity,Arthritis and Injuries
 Anterior Cruciate Ligament Injury,Arthritis and Injuries
 Growth Hormone Deficiency,Others
 Distress,Mental Health
-Symptomatic Dominant Liver Cyst,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Symptomatic Dominant Liver Cyst,"Surgery, Abdominal Disease, Emergency and ICU"
 Pelvic Organ Prolapse,Kidney Disease
 Esophageal Carcinoma,Oncology
 Malaria,Skin Condition
 Infections,Skin Condition
 Self-management for Mobility Improvement in the Elderly,Aging and Palliative Care
 Neoplasms,Oncology
-Inflammatory Bowel Disease (IBD),"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Inflammatory Bowel Disease (IBD),"Surgery, Abdominal Disease, Emergency and ICU"
 Smoking Cessation,Addiction
 Cerebral Ischemia,Heart Disease
 Obesity,Obesity and Physical Activity
@@ -832,9 +833,9 @@ Type 2 Diabetes Mellitus,Diabetes
 Stable Angina Pectoris,Heart Disease
 Substance Dependency,Addiction
 Renal Insufficiency,Kidney Disease
-"Analgesia, Epidural","Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Analgesia, Epidural","Surgery, Abdominal Disease, Emergency and ICU"
 Morbid Obesity,Obesity and Physical Activity
-Constipation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Constipation,"Surgery, Abdominal Disease, Emergency and ICU"
 Diabetes Mellitus,Diabetes
 Conductive Hearing Loss,"Ear, Nose and Throat"
 "Neoplasms, Adipose Tissue",Oncology
@@ -853,7 +854,7 @@ Sepsis,Skin Condition
 Healthy,Others
 Atrial Fibrillation,Heart Disease
 ADHD,Mental Health
-Constipation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Constipation,"Surgery, Abdominal Disease, Emergency and ICU"
 Risk Reduction Behavior,Others
 Urinary Tract Infection,Kidney Disease
 Delirium,Mental Health
@@ -878,7 +879,7 @@ Heart Failure,Heart Disease
 Psychotic Disorders,Mental Health
 Postcancer Fatigue,Oncology
 Hearing Loss,"Ear, Nose and Throat"
-Low Grade Glioma of Brain,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Low Grade Glioma of Brain,"Surgery, Abdominal Disease, Emergency and ICU"
 Superficial Basal Cell Carcinoma,Oncology
 Meniscal Tear,Arthritis and Injuries
 Antibiotic Prescriptions,Others
@@ -892,23 +893,23 @@ Cutaneous Warts,Skin Condition
 Breast Cancer,Oncology
 Undernutrition,Obesity and Physical Activity
 Hypertension,Heart Disease
-"Postoperative Sore Throat, Cough, Hoarseness","Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Postoperative Sore Throat, Cough, Hoarseness","Surgery, Abdominal Disease, Emergency and ICU"
 Anemia,Heart Disease
 Influenza Human,Skin Condition
 Acute Cholecystitis,Kidney Disease
 "Pulmonary Disease, Chronic Obstructive (COPD)",Pulmonary Disease
 Malaria,Skin Condition
-Chronic Hepatitis B,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Chronic Hepatitis B,"Surgery, Abdominal Disease, Emergency and ICU"
 Influenza,Skin Condition
 Poliomyelitis,Skin Condition
 Malnutrition,Obesity and Physical Activity
 Helminthiasis,Skin Condition
-Cholera,"Surgery, Abdominal Disease, Emergency and Intensive Care"
-Cholera,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Cholera,"Surgery, Abdominal Disease, Emergency and ICU"
+Cholera,"Surgery, Abdominal Disease, Emergency and ICU"
 Malnutrition,Obesity and Physical Activity
 High Blood Arsenic Due to Chronic Arsenic Exposure,Heart Disease
 Hand Disinfection,Skin Condition
-Escherichia Coli Diarrhea,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Escherichia Coli Diarrhea,"Surgery, Abdominal Disease, Emergency and ICU"
 Stunting,Others
 SEPTIC SHOCK,Skin Condition
 Interstitial Lung Disease,Pulmonary Disease
@@ -943,28 +944,28 @@ Bronchiolitis Obliterans,Pulmonary Disease
 Healthy Volunteers,Others
 Unexpected Hospital Mortality,Others
 Coronary Artery Disease (CAD),Heart Disease
-Surgery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Surgery,"Surgery, Abdominal Disease, Emergency and ICU"
 Prostate Cancer,Oncology
 Stress Urinary Incontinence,Kidney Disease
 Study Focus: Prescribing of Drugs,Others
 Healthy,Others
 Diabetic Neuropathies,Mental Health
-Mycobacterium Ulcerans Disease,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Mycobacterium Ulcerans Disease,"Surgery, Abdominal Disease, Emergency and ICU"
 Zinc Deficiency,Obesity and Physical Activity
 "Chronic Chagas Disease, Indeterminate",Others
 "Leishmaniasis, Cutaneous",Skin Condition
-Appendicitis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Appendicitis,"Surgery, Abdominal Disease, Emergency and ICU"
 Pain,Arthritis and Injuries
 Weak,Others
 "Sleep Apnea, Obstructive",Mental Health
 Asthma,Pulmonary Disease
 Acute Myocardial Infarction,Heart Disease
 Feeding and Eating Disorders of Childhood,Mental Health
-Postoperative Nausea and Vomiting,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Postoperative Nausea and Vomiting,"Surgery, Abdominal Disease, Emergency and ICU"
 Pain,Arthritis and Injuries
 Low Back Pain,Arthritis and Injuries
 Kidney Disease,Kidney Disease
-"Hepatitis C, Chronic","Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Hepatitis C, Chronic","Surgery, Abdominal Disease, Emergency and ICU"
 Bone Mineral Density Quantitative Trait Locus 3,Arthritis and Injuries
 Cerebral Palsy,Mental Health
 Low Back Pain,Arthritis and Injuries
@@ -973,12 +974,12 @@ Denture Hygiene Protocol,Oral Health
 Shoulder Impingement Syndrome,Arthritis and Injuries
 Bipolar I Disorder,Mental Health
 Aging,Aging and Palliative Care
-Postoperative; Dysfunction Following Cardiac Surgery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Postoperative; Dysfunction Following Cardiac Surgery,"Surgery, Abdominal Disease, Emergency and ICU"
 "Diabetes Mellitus, Type 2",Diabetes
 Vulvovaginal Atrophy,Reproduction and Sexual Health
 Caries Involving Multiple Surfaces of Tooth,Oral Health
 Type2 Diabetes Mellitus,Diabetes
-Pelvic Floor Disorders,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Pelvic Floor Disorders,"Surgery, Abdominal Disease, Emergency and ICU"
 Mild Cognitive Impairment,Mental Health
 Major Depression,Mental Health
 Pelvic Organ Prolapse,Kidney Disease
@@ -1026,7 +1027,7 @@ Knee Osteoarthritis,Arthritis and Injuries
 Peri-Implantitis,Others
 "Diabetes Mellitus, Type 1",Diabetes
 Thirst,Others
-Cirrhosis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Cirrhosis,"Surgery, Abdominal Disease, Emergency and ICU"
 Systemic Lupus Erythematosus,Mental Health
 Gingival Recession,Oral Health
 Anxiety,Mental Health
@@ -1040,7 +1041,7 @@ Psoriatic Arthritis,Arthritis and Injuries
 Addiction,Addiction
 Acute Pain,Arthritis and Injuries
 Chronic Obstructive Pulmonary Disease (COPD,Pulmonary Disease
-Chronic Ulcer,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Chronic Ulcer,"Surgery, Abdominal Disease, Emergency and ICU"
 Myofascial Pain Syndromes,Arthritis and Injuries
 Post and Core Failure,Others
 Hypertension,Heart Disease
@@ -1055,7 +1056,7 @@ Type 2 Diabetes Mellitus,Diabetes
 Pain,Arthritis and Injuries
 Hand Osteoarthritis,Arthritis and Injuries
 Cardiovascular Diseases,Heart Disease
-"Hepatitis, Autoimmune","Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Hepatitis, Autoimmune","Surgery, Abdominal Disease, Emergency and ICU"
 Hypoactive Sexual Desire Disfunction,Reproduction and Sexual Health
 Discolored Teeth,Oral Health
 Cardiovascular Diseases,Heart Disease
@@ -1083,7 +1084,7 @@ Osteoarthritis,Arthritis and Injuries
 Bipolar Depression,Mental Health
 Osteoarthritis of the Knee,Arthritis and Injuries
 Systemic Hypertension,Heart Disease
-Management of Delivery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Management of Delivery,"Surgery, Abdominal Disease, Emergency and ICU"
 Non-specific Chronic Low Back Pain,Arthritis and Injuries
 KERATOCONJUNCTIVITIS SICCA,Eye Disease
 Parkinson Disease,Mental Health
@@ -1095,7 +1096,7 @@ Renal Failure,Kidney Disease
 Type 2 Diabetes Mellitus,Diabetes
 Herpes Zoster,Skin Condition
 Leg Injuries,Arthritis and Injuries
-Endometriosis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Endometriosis,"Surgery, Abdominal Disease, Emergency and ICU"
 Parkinson's Disease,Mental Health
 Weaning of Mechanical Ventilation,Pulmonary Disease
 Labour Pain,Reproduction and Sexual Health
@@ -1114,7 +1115,7 @@ Recurrent Urinary Tract Infection,Kidney Disease
 Acute Malnutrition,Obesity and Physical Activity
 Child Abuse,Mental Health
 Malaria,Skin Condition
-Diarrhoea,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Diarrhoea,"Surgery, Abdominal Disease, Emergency and ICU"
 Postpartum Period,Reproduction and Sexual Health
 Malnutrition,Obesity and Physical Activity
 Household Food Security,Obesity and Physical Activity
@@ -1163,8 +1164,8 @@ Morbid Obesity,Obesity and Physical Activity
 Laryngeal Masks,Others
 Knee Osteoarthritis,Arthritis and Injuries
 Hypertension,Heart Disease
-Sport-related Concussion,"Surgery, Abdominal Disease, Emergency and Intensive Care"
-Difficult Breathing,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Sport-related Concussion,"Surgery, Abdominal Disease, Emergency and ICU"
+Difficult Breathing,"Surgery, Abdominal Disease, Emergency and ICU"
 Coronary Heart Disease,Heart Disease
 Quality Improvement in Patient Handoff,Others
 Early Enteral Feeding Advancement,Reproduction and Sexual Health
@@ -1192,8 +1193,8 @@ Fundoscopy,Others
 Prostate Cancer,Oncology
 Developmental Coordination Disorder,Mental Health
 "Stress Disorders, Post-Traumatic",Mental Health
-Nasal Polyps,"Surgery, Abdominal Disease, Emergency and Intensive Care"
-Soft Tissue Anaesthesia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Nasal Polyps,"Surgery, Abdominal Disease, Emergency and ICU"
+Soft Tissue Anaesthesia,"Surgery, Abdominal Disease, Emergency and ICU"
 Glenohumeral Joint Dislocation,Arthritis and Injuries
 "Cognitive Ability, General",Mental Health
 Twin Pregnancy,Reproduction and Sexual Health
@@ -1204,7 +1205,7 @@ Obesity,Obesity and Physical Activity
 Common Cold,Skin Condition
 Healthy Children,Others
 Breast Neoplasms,Oncology
-Moderately Difficult to Intubate,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Moderately Difficult to Intubate,"Surgery, Abdominal Disease, Emergency and ICU"
 Attention Deficit Hyperactivity Disorder,Mental Health
 Coronary Artery Disease,Heart Disease
 Type II Diabetes Control,Diabetes
@@ -1242,7 +1243,7 @@ Colorectal Cancer,Oncology
 Pre-diabetic,Diabetes
 Shoulder Pain,Arthritis and Injuries
 Cubital Tunnel Syndrome,Arthritis and Injuries
-Anesthesia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Anesthesia,"Surgery, Abdominal Disease, Emergency and ICU"
 Breast Cancer,Oncology
 Breast Neoplasms,Oncology
 Prostate Cancer,Oncology
@@ -1252,7 +1253,7 @@ Depression,Mental Health
 Chronic Obstructive Pulmonary Disease (COPD),Pulmonary Disease
 Knee Osteoarthritis,Arthritis and Injuries
 Mobility Limitation,Arthritis and Injuries
-Abdominal Sepsis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Abdominal Sepsis,"Surgery, Abdominal Disease, Emergency and ICU"
 "Pain, Postoperative",Arthritis and Injuries
 Obesity,Obesity and Physical Activity
 Leukemia,Oncology
@@ -1267,7 +1268,7 @@ Chronic Kidney Disease,Kidney Disease
 Metabolic Syndrome,Obesity and Physical Activity
 Fibromyalgia Syndrome,Arthritis and Injuries
 Stroke,Heart Disease
-Wound Closure,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Wound Closure,"Surgery, Abdominal Disease, Emergency and ICU"
 Labour Dystocia,Reproduction and Sexual Health
 Healthy,Others
 Persistent Atrial Fibrillation,Heart Disease
@@ -1275,7 +1276,7 @@ Hypotension,Heart Disease
 Alcohol Consumption,Addiction
 Hypoxia,Others
 Osteoarthritis,Arthritis and Injuries
-Postoperative Ileus,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Postoperative Ileus,"Surgery, Abdominal Disease, Emergency and ICU"
 Breast Cancer,Oncology
 Sleep,Mental Health
 Major Depressive Disorder,Mental Health
@@ -1290,7 +1291,7 @@ Bacteremia,Others
 Non Small Cell Lung Cancer,Oncology
 Diabetic Polyneuropathy,Mental Health
 Tobacco Use Cessation,Addiction
-Spinal Anesthesia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Spinal Anesthesia,"Surgery, Abdominal Disease, Emergency and ICU"
 Early Detection of Cancer,Oncology
 Osteoporosis,Arthritis and Injuries
 Schizophrenia,Mental Health
@@ -1305,7 +1306,7 @@ Esophageal Cancer,Oncology
 Early Stage Breast Cancer,Oncology
 Healthy Volunteers,Others
 Lifestyle,Others
-WOUNDS,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+WOUNDS,"Surgery, Abdominal Disease, Emergency and ICU"
 Bacteriuria,Kidney Disease
 Dysphonia,"Ear, Nose and Throat"
 Type 1 Diabetes,Diabetes
@@ -1324,26 +1325,26 @@ Pain,Arthritis and Injuries
 Postpartum Women,Reproduction and Sexual Health
 Latent Tuberculosis Infection,Pulmonary Disease
 Prostate Cancer,Oncology
-Postoperative Surgical Site Infections,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Postoperative Surgical Site Infections,"Surgery, Abdominal Disease, Emergency and ICU"
 Type 1 Diabetes,Diabetes
 Rhegmatogenous Retinal Detachment,Eye Disease
 Sinusitis,"Ear, Nose and Throat"
 Coronary Artery Disease,Heart Disease
-Hypothermia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Hypothermia,"Surgery, Abdominal Disease, Emergency and ICU"
 Actively Undergoing Cancer Treatment,Oncology
 Glaucoma,Eye Disease
 Knee Arthroplasty,Arthritis and Injuries
-Laparoscopic Colectomy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Laparoscopic Colectomy,"Surgery, Abdominal Disease, Emergency and ICU"
 Epistaxis,"Ear, Nose and Throat"
 Chronic Obstructive Pulmonary Disease With (Acute) Exacerbation,Pulmonary Disease
-Cigarette Smoking,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Cigarette Smoking,"Surgery, Abdominal Disease, Emergency and ICU"
 "Osteoarthritis, Knee",Arthritis and Injuries
 Pelvic Organ Prolapse,Kidney Disease
 Acute Gastroenteritis,Obesity and Physical Activity
 Fibromyalgia,Arthritis and Injuries
 Prostatic Neoplasms,Oncology
 Motor Activity,Arthritis and Injuries
-Appendicitis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Appendicitis,"Surgery, Abdominal Disease, Emergency and ICU"
 Coronary Artery Disease,Heart Disease
 "Stress Disorders, Post Traumatic",Mental Health
 Falls,Arthritis and Injuries
@@ -1354,38 +1355,38 @@ Polio,Others
 Acne,Skin Condition
 Primary Sjogren,Others
 Chronic Periodontitis,Oral Health
-Postoperative Nausea and Vomiting,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Postoperative Nausea and Vomiting,"Surgery, Abdominal Disease, Emergency and ICU"
 Hip Fractures,Arthritis and Injuries
 Diabetes Mellitus.,Diabetes
 Dental Caries,Oral Health
 Osteoarthritis,Arthritis and Injuries
 Depression,Mental Health
 Colorectal Cancer,Oncology
-Hypothermia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Hypothermia,"Surgery, Abdominal Disease, Emergency and ICU"
 Sleep Deprivation,Mental Health
 Nasopharyngeal Neoplasms,Oncology
 Advanced Gastric Cancer,Oncology
-Hepatitis B,"Surgery, Abdominal Disease, Emergency and Intensive Care"
-Inguinal Hernia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Hepatitis B,"Surgery, Abdominal Disease, Emergency and ICU"
+Inguinal Hernia,"Surgery, Abdominal Disease, Emergency and ICU"
 Cardiovascular Disease,Heart Disease
 Non-small Cell Lung Cancer,Oncology
 Ischemic Heart Disease,Heart Disease
 Complications,Others
-Pancreatic Duct Cannulation During Endoscopic Retrograde Choledochopancreatography,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Pancreatic Duct Cannulation During Endoscopic Retrograde Choledochopancreatography,"Surgery, Abdominal Disease, Emergency and ICU"
 Thromboangiitis Obliterans,Heart Disease
 Nasopharyngeal Carcinoma,Oncology
 Lung Neoplasm,Oncology
 Breast Cancer,Oncology
 Type 2 Diabetes Mellitus ,Diabetes
-Esophagogastroduodenoscopy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Esophagogastroduodenoscopy,"Surgery, Abdominal Disease, Emergency and ICU"
 Pregnancy,Reproduction and Sexual Health
 Colorectal Cancer,Oncology
-Liver Diseases,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Liver Diseases,"Surgery, Abdominal Disease, Emergency and ICU"
 Renal Calculi,Kidney Disease
 "Carcinoma, Non-small Cell Lung",Oncology
 Anticoagulation Treatment Overdose,Others
 Hepatocellular Carcinoma,Oncology
-"Hernia, Inguinal","Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Hernia, Inguinal","Surgery, Abdominal Disease, Emergency and ICU"
 Osteoarthritis,Arthritis and Injuries
 Pancreas Neoplasms,Oncology
 HIV,Reproduction and Sexual Health
@@ -1395,12 +1396,12 @@ Metastatic Colorectal Cancer,Oncology
 Chronic Obstructive Pulmonary Disease,Pulmonary Disease
 Coronary Artery Disease,Heart Disease
 Esophageal Cancer,Oncology
-Glioma,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Glioma,"Surgery, Abdominal Disease, Emergency and ICU"
 Agitation,Mental Health
 Oral Mucositis,Oral Health
 Nasopharyngeal Carcinoma,Oncology
 Breast Cancer,Oncology
-Surgery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Surgery,"Surgery, Abdominal Disease, Emergency and ICU"
 Supraventricular Tachycardia,Mental Health
 "Diabetes Mellitus, Type 2",Diabetes
 Blood Loss,Heart Disease
@@ -1408,16 +1409,16 @@ Lumbar Herniated Disc,Arthritis and Injuries
 Non-small Cell Lung Cancer Stage III,Oncology
 Stress-related Problem,Mental Health
 Stroke,Heart Disease
-Colonoscopy Insertion,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Colonoscopy Insertion,"Surgery, Abdominal Disease, Emergency and ICU"
 Rectal Cancer,Oncology
 Gestational Diabetes Mellitus (GDM),Diabetes
 Vascular Dementia,"Ear, Nose and Throat"
 Lumbar Disc Herniation,Arthritis and Injuries
-Bowel Preparation Scale,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Bowel Preparation Scale,"Surgery, Abdominal Disease, Emergency and ICU"
 Parkinson's Disease,Mental Health
 Child,Others
 Depressive Episodes of Bipolar Disorder,Mental Health
-Major Surgery Under General Anesthesia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Major Surgery Under General Anesthesia,"Surgery, Abdominal Disease, Emergency and ICU"
 Hepatic Carcinoma,Oncology
 Stroke,Heart Disease
 Leukemia,Oncology
@@ -1426,8 +1427,8 @@ Non-Alcoholic Fatty Liver Disease,Addiction
 Acute Kidney Injury,Kidney Disease
 Shoulder Pain,Arthritis and Injuries
 Type 1 Diabetes,Diabetes
-Stomach Diseases,"Surgery, Abdominal Disease, Emergency and Intensive Care"
-Crohn Disease,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Stomach Diseases,"Surgery, Abdominal Disease, Emergency and ICU"
+Crohn Disease,"Surgery, Abdominal Disease, Emergency and ICU"
 Head and Neck Cancer,Oncology
 Coronary Heart Disease,Heart Disease
 Squamous Cell Carcinoma,Oncology
@@ -1445,49 +1446,49 @@ Gastric Cancer,Oncology
 Schizophrenia,Mental Health
 Healthy,Others
 Non-small Cell Lung Cancer,Oncology
-Ascites,"Surgery, Abdominal Disease, Emergency and Intensive Care"
-Liver Dysfunction,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Ascites,"Surgery, Abdominal Disease, Emergency and ICU"
+Liver Dysfunction,"Surgery, Abdominal Disease, Emergency and ICU"
 Blood Loss,Heart Disease
 Reinfection Pulmonary Tuberculosis,Pulmonary Disease
 Bleeding,Heart Disease
 Early Childhood Caries,Oral Health
-Abdominal Pain,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Abdominal Pain,"Surgery, Abdominal Disease, Emergency and ICU"
 Chronic Obstructive Pulmonary Disease,Pulmonary Disease
 Cholangiocarcinoma,Oncology
 Squamous Cell Esophageal Carcinoma,Oncology
 Carotid Stenosis,Heart Disease
-Fecal Impaction,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Fecal Impaction,"Surgery, Abdominal Disease, Emergency and ICU"
 Blood Loss,Heart Disease
 Type 2 Diabetes Mellitus,Diabetes
 Diffuse Large B-cell Lymphoma,Oncology
-Irritable Bowel Syndrome,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Irritable Bowel Syndrome,"Surgery, Abdominal Disease, Emergency and ICU"
 Childhood Cancer,Oncology
 Esophageal Squamous Cell Carcinoma,Oncology
 Poliomyelitis,Skin Condition
 Neuropathic Pain,Mental Health
 "Carcinoma, Hepatocellular",Oncology
-Perioperative Pain Experiences,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Perioperative Pain Experiences,"Surgery, Abdominal Disease, Emergency and ICU"
 Fire,Others
-Intubation;Difficult,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Intubation;Difficult,"Surgery, Abdominal Disease, Emergency and ICU"
 Ischemic Stroke,Heart Disease
 Septic Shock,Skin Condition
 Nasopharyngeal Carcinoma,Oncology
 Esophageal Neoplasms,Oncology
-Polyp,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Polyp,"Surgery, Abdominal Disease, Emergency and ICU"
 Type 2 Diabetes Mellitus,Diabetes
 Stage III Esophageal Squamous Cell Carcinoma,Oncology
 Compliance,Others
 Postoperative Pain,Arthritis and Injuries
 Lung Neoplasms,Oncology
 Intracranial Arteriovenous Malformations,Heart Disease
-Esophageal Varices,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Esophageal Varices,"Surgery, Abdominal Disease, Emergency and ICU"
 Cancer,Oncology
 Type 2 Diabetes,Diabetes
 Erectile Dysfunction,Reproduction and Sexual Health
 Stomach Neoplasm,Oncology
 Bell's Palsy,Mental Health
 Health Behavior,Others
-Diarrhea-predominant Irritable Bowel Syndrome,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Diarrhea-predominant Irritable Bowel Syndrome,"Surgery, Abdominal Disease, Emergency and ICU"
 "Diabetic Neuropathy, Painful",Mental Health
 Menopausal Syndrome,Reproduction and Sexual Health
 Gastric Cancer,Oncology
@@ -1495,11 +1496,11 @@ Esophageal Cancer,Oncology
 Type 2 Diabetes Mellitus,Diabetes
 Cerebral Tumor,Oncology
 Early Systolic Blood Pressure Control Rate,Heart Disease
-Functional Constipation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Functional Constipation,"Surgery, Abdominal Disease, Emergency and ICU"
 Post-dural Puncture Headache,Mental Health
 Amphetamine Addiction,Addiction
 Empyhsema,Pulmonary Disease
-Postoperative Sleep Quality,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Postoperative Sleep Quality,"Surgery, Abdominal Disease, Emergency and ICU"
 NASH (Non-Alcoholic Steatohepatitis),Addiction
 Gestational Diabetes Mellitus,Diabetes
 Polycystic Ovary Syndrome,Reproduction and Sexual Health
@@ -1510,15 +1511,15 @@ Scar,Skin Condition
 Hyperglycemia,Diabetes
 Chronic Prostatitis,Reproduction and Sexual Health
 Type2 Diabetes Mellitus,Diabetes
-Decompensated Cirrhosis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Decompensated Cirrhosis,"Surgery, Abdominal Disease, Emergency and ICU"
 Antiplatelet Therapy of Coronary Artery Bypass,Heart Disease
 Hepatocellular Carcinoma,Oncology
-Effect of Clostridium Butyricum in Treating Irritable Bowel Syndrome,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Effect of Clostridium Butyricum in Treating Irritable Bowel Syndrome,"Surgery, Abdominal Disease, Emergency and ICU"
 Type 2 Diabetes,Diabetes
 Diabetes,Diabetes
 Leukemia,Oncology
 Acute Stroke,Heart Disease
-Postoperative Nausea and Vomiting,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Postoperative Nausea and Vomiting,"Surgery, Abdominal Disease, Emergency and ICU"
 Chronic Obstructive Pulmonary Disease(COPD),Pulmonary Disease
 Benzodiazepine Dependence,Addiction
 Type 2 Diabetes,Diabetes
@@ -1531,11 +1532,11 @@ Post-Traumatic Stress Disorder,Mental Health
 Hypochlorous Acid,Others
 Fear of Falling,Arthritis and Injuries
 Cardiovascular Diseases,Heart Disease
-Hookworm Stool Burden,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Hookworm Stool Burden,"Surgery, Abdominal Disease, Emergency and ICU"
 Fever,Skin Condition
 Depression,Mental Health
 Gestational Diabetes Mellitus,Diabetes
-Pancreaticoduodenectomy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Pancreaticoduodenectomy,"Surgery, Abdominal Disease, Emergency and ICU"
 Coronary Artery Disease,Heart Disease
 Hip Joint Disorders,Arthritis and Injuries
 Embolic Stroke,Heart Disease
@@ -1549,7 +1550,7 @@ Lumbar Spine Fusion,Arthritis and Injuries
 Metabolic Syndrome,Obesity and Physical Activity
 "Diabetes Mellitus, Type 1",Diabetes
 Childhood Asthma With Acute Exacerbation,Pulmonary Disease
-Plantar Fasciopathy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Plantar Fasciopathy,"Surgery, Abdominal Disease, Emergency and ICU"
 Activities of Daily Living,Others
 Repeated-sprint Ability,Others
 Cluster Headache,Mental Health
@@ -1558,7 +1559,7 @@ Postoperative Pain,Arthritis and Injuries
 Attention Deficit Hyperactivity Disorder,Mental Health
 Postoperative Pain,Arthritis and Injuries
 Spondyloarthritis,Arthritis and Injuries
-Abdominal Aortic Aneurysm,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Abdominal Aortic Aneurysm,"Surgery, Abdominal Disease, Emergency and ICU"
 Febrile Illness Acute,Skin Condition
 Drug Overdose,Others
 Ischaemic Heart Disease,Heart Disease
@@ -1595,10 +1596,10 @@ Atrial Fibrillation,Heart Disease
 Heart Disease,Heart Disease
 Schizophrenia,Mental Health
 Muscle Hypertrophy in Healthy Young Men,Arthritis and Injuries
-Liver Cirrhosis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Liver Cirrhosis,"Surgery, Abdominal Disease, Emergency and ICU"
 ST Segment Elevation Myocardial Infarction,Heart Disease
 Medication-overuse Headache,Mental Health
-Hypothermia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Hypothermia,"Surgery, Abdominal Disease, Emergency and ICU"
 Lung Cancer,Oncology
 Geriatric Disorder,Aging and Palliative Care
 Body Composition,Others
@@ -1629,14 +1630,14 @@ Stroke,Heart Disease
 Disorder Related to Renal Transplantation,Kidney Disease
 Morbid Obesity,Obesity and Physical Activity
 "Aortic Aneurysm, Thoracic",Heart Disease
-Other Acute Postoperative Pain,"Surgery, Abdominal Disease, Emergency and Intensive Care"
-Surgical Wound Infection,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Other Acute Postoperative Pain,"Surgery, Abdominal Disease, Emergency and ICU"
+Surgical Wound Infection,"Surgery, Abdominal Disease, Emergency and ICU"
 Parkinson Disease,Mental Health
 Breast Cancer,Oncology
 Postoperative Pain,Arthritis and Injuries
 Laparotomy,Others
 Lymphoedema,Arthritis and Injuries
-Constipation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Constipation,"Surgery, Abdominal Disease, Emergency and ICU"
 No Medical Condition,Others
 Overweight and Obesity,Obesity and Physical Activity
 Lung Cancer,Oncology
@@ -1661,21 +1662,21 @@ Type 2 Diabetes,Diabetes
 Fragility,Others
 Days Absent From Daycare,Others
 Triage,Others
-Ventral Hernia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
-Brain Injuries,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Ventral Hernia,"Surgery, Abdominal Disease, Emergency and ICU"
+Brain Injuries,"Surgery, Abdominal Disease, Emergency and ICU"
 Functionally-Impaired Elderly,Aging and Palliative Care
 Ketone Body Metabolism,Obesity and Physical Activity
 Infertility,Reproduction and Sexual Health
 Musculoskeletal Disorders,Arthritis and Injuries
-Suspected Appendicitis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Suspected Appendicitis,"Surgery, Abdominal Disease, Emergency and ICU"
 Cardiorespiratory Fitness,Pulmonary Disease
 Dyspnea,Pulmonary Disease
 Overweight and Obesity,Obesity and Physical Activity
 Ankle Fractures,Arthritis and Injuries
 Chronic Obstructive Pulmonary Disease (COPD),Pulmonary Disease
-Roux-en-Y Gastric Bypass,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Roux-en-Y Gastric Bypass,"Surgery, Abdominal Disease, Emergency and ICU"
 Kidney Failure Chronic,Kidney Disease
-Ventricular Septal Defect,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Ventricular Septal Defect,"Surgery, Abdominal Disease, Emergency and ICU"
 Adherence,Others
 Focus of Study is STEMI,Others
 Chronic Obstructive Lung Disease,Pulmonary Disease
@@ -1688,7 +1689,7 @@ Mercury Poisoning,Others
 Invitro Fertilization,Reproduction and Sexual Health
 Alopecia Areata,Others
 Hepatocellular Cancer,Oncology
-Post Operative Hemorrhage,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Post Operative Hemorrhage,"Surgery, Abdominal Disease, Emergency and ICU"
 Induction of Abortion,Reproduction and Sexual Health
 "Carcinoma of Urinary Bladder, Superficial",Oncology
 Quality of Life,Others
@@ -1703,7 +1704,7 @@ Iron Deficiency Anemia,Heart Disease
 Reduction in Pain,Arthritis and Injuries
 Intrauterine Growth Restriction Asymmetrical,Reproduction and Sexual Health
 Periampullary Carcinoma Resectable,Oncology
-Anal Fissure,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Anal Fissure,"Surgery, Abdominal Disease, Emergency and ICU"
 Pulpitis,Oral Health
 Polycystic Ovary Syndrome,Reproduction and Sexual Health
 Postpartum Hemorrhage,Reproduction and Sexual Health
@@ -1718,7 +1719,7 @@ Postpartum Hemorrhage,Reproduction and Sexual Health
 Abdominal Cancer,Oncology
 Osteo Arthritis Knee,Arthritis and Injuries
 Menorrhagia,Reproduction and Sexual Health
-Postoperative Nausea and Vomiting,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Postoperative Nausea and Vomiting,"Surgery, Abdominal Disease, Emergency and ICU"
 Contraceptive Device; Complications,Reproduction and Sexual Health
 "Pain, Postoperative",Arthritis and Injuries
 Dystocia,Reproduction and Sexual Health
@@ -1730,12 +1731,12 @@ Intra-Uterine Growth Retardation,Reproduction and Sexual Health
 Iron Deficiency Anemia,Heart Disease
 Beta Thalassemia Major,Heart Disease
 Cesarean Section,Reproduction and Sexual Health
-"Encephalopathy, Hepatic","Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Encephalopathy, Hepatic","Surgery, Abdominal Disease, Emergency and ICU"
 Improving Quality of Life,Others
 Postpartum Hemorrhage,Reproduction and Sexual Health
-Endoscopy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
-Liver Cirrhosis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
-"Anesthesia, Spinal","Surgery, Abdominal Disease, Emergency and Intensive Care"
+Endoscopy,"Surgery, Abdominal Disease, Emergency and ICU"
+Liver Cirrhosis,"Surgery, Abdominal Disease, Emergency and ICU"
+"Anesthesia, Spinal","Surgery, Abdominal Disease, Emergency and ICU"
 Pulmonary Tuberculosis (TB),Pulmonary Disease
 Fever,Skin Condition
 Prenatal Care,Reproduction and Sexual Health
@@ -1746,7 +1747,7 @@ Child Malnutrition,Obesity and Physical Activity
 Breast Neoplasms,Oncology
 Chronic Lower Limb Ischemia,Arthritis and Injuries
 Low Back Pain,Arthritis and Injuries
-Acute Appendicitis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Acute Appendicitis,"Surgery, Abdominal Disease, Emergency and ICU"
 Persistent Ductus Arteriosus,Heart Disease
 Hypertension,Heart Disease
 Cognitive Impairment,Mental Health
@@ -1763,7 +1764,7 @@ Gestational Diabetes,Diabetes
 Subacromial Impingement Syndrome,Arthritis and Injuries
 Morbid Obesity,Obesity and Physical Activity
 Venous Insufficiency,Heart Disease
-Surgery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Surgery,"Surgery, Abdominal Disease, Emergency and ICU"
 Wheezy Bronchitis,Pulmonary Disease
 Obesity,Obesity and Physical Activity
 "Infections, Papillomavirus",Skin Condition
@@ -1774,7 +1775,7 @@ Vitamin D Status,Obesity and Physical Activity
 "Infections, Streptococcal",Skin Condition
 Serum 25-hydroxyvitamin D Concentrations (25OHD),Obesity and Physical Activity
 Atopic Dermatitis,Skin Condition
-Tracheal Intubation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Tracheal Intubation,"Surgery, Abdominal Disease, Emergency and ICU"
 ICU Patients Requiring Invasive Mechanical Ventilation,Pulmonary Disease
 Dementia,Mental Health
 "Respiratory Distress Syndrome, Newborn",Pulmonary Disease
@@ -1792,11 +1793,11 @@ Healthy,Others
 Neuropathic Traumatic Pain,Mental Health
 Professional Stress,Mental Health
 Lower Uterine Segment,Reproduction and Sexual Health
-Rapid Sequence Induction of General Anesthesia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Rapid Sequence Induction of General Anesthesia,"Surgery, Abdominal Disease, Emergency and ICU"
 Down Syndrome,Mental Health
 Healthy Volunteers (Middle-aged Smokers),Addiction
-Sedation for Mechanical Ventilation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
-Crohn's Disease,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Sedation for Mechanical Ventilation,"Surgery, Abdominal Disease, Emergency and ICU"
+Crohn's Disease,"Surgery, Abdominal Disease, Emergency and ICU"
 Metabolic Acidosis,Others
 Severe Sepsis With Septic Shock,Infection and Allergy
 Infections and Respiratory Infectious,Pulmonary Disease
@@ -1818,13 +1819,13 @@ Sciatica,Mental Health
 Child,Others
 Self Efficacy,Others
 Overweight,Obesity and Physical Activity
-Hepatectomy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Hepatectomy,"Surgery, Abdominal Disease, Emergency and ICU"
 Menopause,Reproduction and Sexual Health
 Colorectal Cancer Screening,Oncology
 Angiosarcoma,Oncology
 Colorectal Cancer,Oncology
 Sickle Cell Hemoglobin C Disease,Heart Disease
-Anesthesia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Anesthesia,"Surgery, Abdominal Disease, Emergency and ICU"
 Colorectal Cancer,Oncology
 Invasive Breast Cancer,Oncology
 Colorectal Cancer,Oncology
@@ -1851,9 +1852,9 @@ Refractory Hypertension,Heart Disease
 Atrial Fibrillation,Heart Disease
 Breast Cancer,Oncology
 COPD,Pulmonary Disease
-"Anesthesia, General","Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Anesthesia, General","Surgery, Abdominal Disease, Emergency and ICU"
 Untreated Operable Early Breast Cancer,Oncology
-Emergency Patients,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Emergency Patients,"Surgery, Abdominal Disease, Emergency and ICU"
 Parkinson's Disease,Mental Health
 Primary Prevention,Others
 Premedication,Others
@@ -1873,7 +1874,7 @@ Colorectal Cancer,Oncology
 Complication of Hemodialysis,Kidney Disease
 Acute Respiratory Failure,Pulmonary Disease
 Granulomatosis With Polyangiitis,Skin Condition
-Postoperative Peritonitis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Postoperative Peritonitis,"Surgery, Abdominal Disease, Emergency and ICU"
 Alpha-Mannosidosis,Others
 Resectable Pancreatic Duct Adenocarcinoma,Oncology
 "Leukemia, Promyelocytic, Acute",Oncology
@@ -1883,8 +1884,8 @@ ICU-acquired Muscle Weakness,Arthritis and Injuries
 Facilitated Tucking,Others
 Metabolism,Obesity and Physical Activity
 Alzheimer Disease,Mental Health
-Diabetic Foot Ulcer(s),"Surgery, Abdominal Disease, Emergency and Intensive Care"
-Constipation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Diabetic Foot Ulcer(s),"Surgery, Abdominal Disease, Emergency and ICU"
+Constipation,"Surgery, Abdominal Disease, Emergency and ICU"
 Hepatocellular Carcinoma,Oncology
 Akathisia,Others
 Uveitis,Eye Disease
@@ -1893,25 +1894,25 @@ COPD,Pulmonary Disease
 the Treatment of Knee Osteoarthritis,Arthritis and Injuries
 Morbid Obesity,Obesity and Physical Activity
 Infertility,Reproduction and Sexual Health
-"Endometriosis, Rectum","Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Endometriosis, Rectum","Surgery, Abdominal Disease, Emergency and ICU"
 Patients Having Realized a Suicide Attempt,Mental Health
 Out-of-hospital Cardiac Arrest,Heart Disease
-Critical Illness,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Critical Illness,"Surgery, Abdominal Disease, Emergency and ICU"
 Sedentary Lifestyle in Patients Over 70,Obesity and Physical Activity
-Emergency Patients,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Emergency Patients,"Surgery, Abdominal Disease, Emergency and ICU"
 Cystic Fibrosis,Pulmonary Disease
 Aplasia With Expected Thrombocytopenia,Heart Disease
-Major Abdominal Surgery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Major Abdominal Surgery,"Surgery, Abdominal Disease, Emergency and ICU"
 Gastric Cancer,Oncology
 Critically Ill Patients Under Mechanical Ventilation,Pulmonary Disease
 Acute Myocardial Infarction,Heart Disease
 Upper Limb Surgery,Arthritis and Injuries
 HIV Infections,Reproduction and Sexual Health
 Colorectal Cancer,Oncology
-Colonic Neoplasms,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Colonic Neoplasms,"Surgery, Abdominal Disease, Emergency and ICU"
 Rectal Cancer,Oncology
 Neonatal Infection,Skin Condition
-Traumatic Brain Injury,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Traumatic Brain Injury,"Surgery, Abdominal Disease, Emergency and ICU"
 Osteoarthritis,Arthritis and Injuries
 Multiple Sclerosis,Mental Health
 Rectal Neoplasms,Oncology
@@ -1927,10 +1928,10 @@ Hemodynamic Instability,Others
 Chronic Low Back Pain,Arthritis and Injuries
 Tobacco Reduction,Addiction
 Flexible Bronchoscopy,Pulmonary Disease
-Development of Pulmonary Dysfunction Following Open Abdominal Surgery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Development of Pulmonary Dysfunction Following Open Abdominal Surgery,"Surgery, Abdominal Disease, Emergency and ICU"
 Macular Hole,Eye Disease
 "Diabetes Mellitus, Insulin-Dependent",Diabetes
-Hemispatial Neglect,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Hemispatial Neglect,"Surgery, Abdominal Disease, Emergency and ICU"
 Obesity,Obesity and Physical Activity
 Alcohol Consumption,Addiction
 COPD,Pulmonary Disease
@@ -1947,9 +1948,9 @@ Lipid Metabolism Disorders,Obesity and Physical Activity
 Coronary Angiography,Heart Disease
 COPD,Pulmonary Disease
 Acute Kidney Injury,Kidney Disease
-Elevated Liver Fat Content and Insulin Resistance,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Elevated Liver Fat Content and Insulin Resistance,"Surgery, Abdominal Disease, Emergency and ICU"
 Subjective Cognitive Decline,Mental Health
-Liver Failure,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Liver Failure,"Surgery, Abdominal Disease, Emergency and ICU"
 Acute Ischemic Stroke,Heart Disease
 Dystonia,Mental Health
 Adenocarcinoma,Oncology
@@ -1959,7 +1960,7 @@ Acute Renal Failure,Kidney Disease
 Neoplasm Metastasis,Oncology
 Cancer,Oncology
 Kidney Diseases,Kidney Disease
-Liver Resection,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Liver Resection,"Surgery, Abdominal Disease, Emergency and ICU"
 Rectal Cancer,Oncology
 Pain,Arthritis and Injuries
 Healthy,Others
@@ -1980,7 +1981,7 @@ Overweight,Obesity and Physical Activity
 Stable Coronary Artery Disease,Heart Disease
 Heart Diseases,Heart Disease
 Diabetes,Diabetes
-"Laparoscopic Surgery of Uterus, Adnex or Ovaries","Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Laparoscopic Surgery of Uterus, Adnex or Ovaries","Surgery, Abdominal Disease, Emergency and ICU"
 Muscles Ischemia,Arthritis and Injuries
 "Pain, Postoperative",Arthritis and Injuries
 Stable Coronary Heart Disease,Heart Disease
@@ -2003,7 +2004,7 @@ Diabetes Mellitus Type 2,Diabetes
 Anorexia Nervosa,Mental Health
 Actinic Keratosis (AK),Oncology
 Peripheral Arterial Disease (PAD),Heart Disease
-Pancreatic Resection,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Pancreatic Resection,"Surgery, Abdominal Disease, Emergency and ICU"
 Cancer,Oncology
 Uterine Cervical Dysplasia,Reproduction and Sexual Health
 Vertebral Bony Metastases,Arthritis and Injuries
@@ -2015,9 +2016,9 @@ Spondylolisthesis,Arthritis and Injuries
 Heparin Induced Thrombocytopenia (HIT),Heart Disease
 Glioblastoma Multiforme,Oncology
 Fall Prevention,Arthritis and Injuries
-"Brain Metastases, Adult","Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Brain Metastases, Adult","Surgery, Abdominal Disease, Emergency and ICU"
 Active Ulcerative Colitis,Obesity and Physical Activity
-Irritable Bowel Syndrome,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Irritable Bowel Syndrome,"Surgery, Abdominal Disease, Emergency and ICU"
 Impact of Oxytocin on Social Learning,Others
 Breast Cancer,Oncology
 Plasma Volume Replacement,Others
@@ -2028,7 +2029,7 @@ Tubular Breast Cancer Stage II,Oncology
 Myocardial Infarction,Heart Disease
 Chronic Heart Failure,Heart Disease
 Chronic Disease,Others
-Hydrocephalus,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Hydrocephalus,"Surgery, Abdominal Disease, Emergency and ICU"
 Traumatic Lesion of Sensory Nerves of the Hand,Mental Health
 Myocardial Infarction,Heart Disease
 Complication of Ventilation Therapy,Pulmonary Disease
@@ -2043,7 +2044,7 @@ Mental Disorders,Mental Health
 Diabetes,Diabetes
 Stroke,Heart Disease
 Dementia,Mental Health
-Anesthesia With Use of LMA (Laryngeal Mask Airway),"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Anesthesia With Use of LMA (Laryngeal Mask Airway),"Surgery, Abdominal Disease, Emergency and ICU"
 "Chronic Obstructive Pulmonary Disease, COPD",Pulmonary Disease
 Pancreatic Cancer,Oncology
 Hypertension,Heart Disease
@@ -2052,12 +2053,12 @@ Schizophrenia,Mental Health
 Stroke,Heart Disease
 Anemia,Heart Disease
 Varicosity,Others
-Inflammatory Bowel Diseases,"Surgery, Abdominal Disease, Emergency and Intensive Care"
-Colonic Polyps,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Inflammatory Bowel Diseases,"Surgery, Abdominal Disease, Emergency and ICU"
+Colonic Polyps,"Surgery, Abdominal Disease, Emergency and ICU"
 Colorectal Resection,Oncology
 Acne Vulgaris,Skin Condition
 Atherothrombosis,Others
-Non-alcoholic Fatty Liver Disease (NAFLD),"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Non-alcoholic Fatty Liver Disease (NAFLD),"Surgery, Abdominal Disease, Emergency and ICU"
 Circuit-based High Intensity Interval Training,Others
 Thalassemia Major,Heart Disease
 Autoimmune Thyroiditis,"Ear, Nose and Throat"
@@ -2079,17 +2080,17 @@ Schizophrenia,Mental Health
 End Stage Heart Disease,Heart Disease
 Schizophrenia,Mental Health
 Postoperative Pain,Arthritis and Injuries
-Functional Gastrointestinal Disorder,"Surgery, Abdominal Disease, Emergency and Intensive Care"
-Liver Cirrhosis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Functional Gastrointestinal Disorder,"Surgery, Abdominal Disease, Emergency and ICU"
+Liver Cirrhosis,"Surgery, Abdominal Disease, Emergency and ICU"
 Soft Tissue Injuries,Others
 "Insomnia, Primary",Mental Health
 Nasopharyngeal Cancer,Oncology
 Schizophrenia,Mental Health
 Dementia,Mental Health
-Anaesthesia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Anaesthesia,"Surgery, Abdominal Disease, Emergency and ICU"
 Parkinson Disease,Mental Health
 Sarcoidosis,Others
-Cirrhosis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Cirrhosis,"Surgery, Abdominal Disease, Emergency and ICU"
 Uncomplicated Severe Acute Malnutrition,Obesity and Physical Activity
 Immune Response to MMR Vaccine,Skin Condition
 Health Promotion,Others
@@ -2111,19 +2112,19 @@ Tuberculosis,Pulmonary Disease
 Allergic Bronchopulmonary Aspergilloses,Pulmonary Disease
 Cancer of Cervix,Oncology
 Cancer of Cervix,Oncology
-Diarrhea,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Diarrhea,"Surgery, Abdominal Disease, Emergency and ICU"
 Acute Coronary Syndrome,Heart Disease
 Tuberculosis,Pulmonary Disease
 HIV Infection,Reproduction and Sexual Health
 Pregnancy,Reproduction and Sexual Health
-Diarrhea,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Diarrhea,"Surgery, Abdominal Disease, Emergency and ICU"
 Hypertension,Heart Disease
 PCOS,Others
 Pregnancy,Reproduction and Sexual Health
 Non Alcoholic Fatty Liver Disease,Addiction
 Atrophic Post Acne Scarring,Skin Condition
 Allergic Bronchopulmonary Aspergillosis,Pulmonary Disease
-Hypoxic Ischemic Encephalopathy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Hypoxic Ischemic Encephalopathy,"Surgery, Abdominal Disease, Emergency and ICU"
 "Seizures, Focal",Mental Health
 Nephrotic Syndrome,Kidney Disease
 Presbyopia,Eye Disease
@@ -2131,7 +2132,7 @@ Malaria,Skin Condition
 Healthy,Others
 Muscle Weakness,Arthritis and Injuries
 Urinary Tract Infection,Kidney Disease
-Irritable Bowel Syndrome Predominant Constipation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Irritable Bowel Syndrome Predominant Constipation,"Surgery, Abdominal Disease, Emergency and ICU"
 Mental Disorders,Mental Health
 Sleep,Mental Health
 Diabetic Nephropathy,Kidney Disease
@@ -2152,7 +2153,7 @@ Symptomatic Irreversible Pulpitis,Oral Health
 Postpartum Hemorrhage,Reproduction and Sexual Health
 Esophageal Neoplasms,Oncology
 Diabetes Mellitus Type II,Diabetes
-Gastric Bypass Surgery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Gastric Bypass Surgery,"Surgery, Abdominal Disease, Emergency and ICU"
 Cow's Milk Allergy,Skin Condition
 Body Mass Index Quantitative Trait Locus 7 Disorder,Others
 Pain,Arthritis and Injuries
@@ -2163,21 +2164,21 @@ Obesity,Obesity and Physical Activity
 Osteoarthritis,Arthritis and Injuries
 Metabolic Syndrome,Obesity and Physical Activity
 Hyperlipidemias,Heart Disease
-Fatty Liver,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Fatty Liver,"Surgery, Abdominal Disease, Emergency and ICU"
 Acute Pyelonephritis(APN),Kidney Disease
 Osseointegrated Dental Implantation,Oral Health
 Depression,Mental Health
 Chronic Obstructive Pulmonary Disease,Pulmonary Disease
 Asthma,Pulmonary Disease
-Breast Diseases,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Breast Diseases,"Surgery, Abdominal Disease, Emergency and ICU"
 Depression,Mental Health
-Laparoscopic TAP Block in TEP Inguinal Hernia Repair.,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Laparoscopic TAP Block in TEP Inguinal Hernia Repair.,"Surgery, Abdominal Disease, Emergency and ICU"
 Schizophrenia,Mental Health
 Hypertension,Heart Disease
 Spinal Cord Compression,Arthritis and Injuries
 Esophageal Cancer,Oncology
 Overweight,Obesity and Physical Activity
-Outpatients General Surgery Virtual Clinic,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Outpatients General Surgery Virtual Clinic,"Surgery, Abdominal Disease, Emergency and ICU"
 Vitamin D Deficiency,Obesity and Physical Activity
 Peripheral Arterial Diseases,Heart Disease
 Physical Disability,Obesity and Physical Activity
@@ -2195,29 +2196,29 @@ Anorexia,Mental Health
 Fibromyalgia,Arthritis and Injuries
 Cesarean Section,Reproduction and Sexual Health
 Social Skills,Others
-Plantar Fasciitis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Plantar Fasciitis,"Surgery, Abdominal Disease, Emergency and ICU"
 Pain,Arthritis and Injuries
 Post-traumatic Stress Disorder,Mental Health
 Alveolar Bone Loss,Oral Health
-Crohn's Disease,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Crohn's Disease,"Surgery, Abdominal Disease, Emergency and ICU"
 Social Anxiety Disorder,Mental Health
 Prolonged Pregnancy,Reproduction and Sexual Health
-Surgical Wound Infection,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Surgical Wound Infection,"Surgery, Abdominal Disease, Emergency and ICU"
 Hemoptisis,Others
 Alzheimer's Disease (AD),Mental Health
 "Labor, Induced",Reproduction and Sexual Health
 Obesity,Obesity and Physical Activity
 Social Phobia,Mental Health
-NAFLD,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+NAFLD,"Surgery, Abdominal Disease, Emergency and ICU"
 Stroke,Heart Disease
-Acute Appendicitis Without Peritonitis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
-Surgical Wound Dehiscence,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Acute Appendicitis Without Peritonitis,"Surgery, Abdominal Disease, Emergency and ICU"
+Surgical Wound Dehiscence,"Surgery, Abdominal Disease, Emergency and ICU"
 Gastric Cancer,Oncology
 Nervous System Neoplasms,Oncology
 Complex Patients in Rehabilitation Phase,Arthritis and Injuries
 Ischemic Reperfusion Injury,Arthritis and Injuries
 Pancreatic Cancer,Oncology
-Irritable Bowel Syndrome,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Irritable Bowel Syndrome,"Surgery, Abdominal Disease, Emergency and ICU"
 Motor Neuron Disease,Mental Health
 Pancreatic Cancer,Oncology
 Migraine,Mental Health
@@ -2230,7 +2231,7 @@ Infantile Colic,Reproduction and Sexual Health
 Cardiovascular Risk Factors,Heart Disease
 Cerebrovascular Disease,"Ear, Nose and Throat"
 Parkinson's Disease,Mental Health
-"Ataxia, Cerebellar","Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Ataxia, Cerebellar","Surgery, Abdominal Disease, Emergency and ICU"
 Peripheral Neuropathy,Mental Health
 Dental Anxiety,Mental Health
 Oral Soft Tissue Conditions,Oral Health
@@ -2242,7 +2243,7 @@ Cystic Fibrosis,Pulmonary Disease
 Fibromyalgia Syndrome,Arthritis and Injuries
 Metabolic Syndrome,Obesity and Physical Activity
 Type 1 Diabetes,Diabetes
-Surgical Flaps,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Surgical Flaps,"Surgery, Abdominal Disease, Emergency and ICU"
 Plaque Ph Lowering After Use of Probiotics,Others
 Periodontal Diseases,Oral Health
 Dentin Sensitivity,Oral Health
@@ -2255,7 +2256,7 @@ Multiple Sclerosis,Mental Health
 Head and Neck Squamous Cell Carcinoma,Oncology
 Diabetes Mellitus,Diabetes
 "Pulmonary Disease, Chronic Obstructive",Pulmonary Disease
-Irritable Bowel Syndrome,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Irritable Bowel Syndrome,"Surgery, Abdominal Disease, Emergency and ICU"
 Healthy,Others
 Metabolic Syndrome X,Obesity and Physical Activity
 Uterine Myoma,Oncology
@@ -2263,7 +2264,7 @@ Prostate Cancer,Oncology
 Metastatic Colorectal Cancer,Oncology
 Human Epidermal Growth Factor 2 Negative Carcinoma of Breast,Oncology
 Chronic Obstructive Pulmonary Disease (COPD),Pulmonary Disease
-Celiac Disease,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Celiac Disease,"Surgery, Abdominal Disease, Emergency and ICU"
 Safety Issues,Others
 Diabetes Type 2,Diabetes
 Knee Chondropathy,Arthritis and Injuries
@@ -2276,14 +2277,14 @@ Chronic Obstructive Pulmonary Disease (COPD),Pulmonary Disease
 Bioavailability,Others
 Chronic Respiratory Insufficiency,Pulmonary Disease
 Stroke,Heart Disease
-Liver Failure,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Liver Failure,"Surgery, Abdominal Disease, Emergency and ICU"
 Multiple Sclerosis,Mental Health
 HIV-1 Infection,Reproduction and Sexual Health
 Persistent Atrial Fibrillation,Heart Disease
 Attention Deficit Hyperactivity Disorder,Mental Health
 Atopic Dermatitis,Skin Condition
 Glioblastoma Multiforme,Oncology
-Post-operative Cognitive Dysfunction,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Post-operative Cognitive Dysfunction,"Surgery, Abdominal Disease, Emergency and ICU"
 Premature Birth,Reproduction and Sexual Health
 Face Aging/Photo Aging of Moderate Grade,Others
 Type 2 Diabetes Mellitus,Diabetes
@@ -2306,10 +2307,10 @@ IBS in Celiac Desease,Others
 Tooth Loss,Oral Health
 Tertiary Prevention in Colon Cancer,Oncology
 Clinical and Nutritional Safety.,Obesity and Physical Activity
-Surgery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Surgery,"Surgery, Abdominal Disease, Emergency and ICU"
 Acute Coronary Syndromes,Heart Disease
 Pre-hypertension,Heart Disease
-Liver Cirrhosis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Liver Cirrhosis,"Surgery, Abdominal Disease, Emergency and ICU"
 Infant Colics,Reproduction and Sexual Health
 Multiple Sclerosis,Mental Health
 Type 2 Diabetes,Diabetes
@@ -2322,7 +2323,7 @@ Diabetes Mellitus,Diabetes
 Periodontitis,Oral Health
 Portal Vein Thrombosis,Heart Disease
 Coronary Artery Disease,Heart Disease
-Tuberous Sclerosis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Tuberous Sclerosis,"Surgery, Abdominal Disease, Emergency and ICU"
 Head and Neck Cancer,Oncology
 Major Depressive Disorder,Mental Health
 Advanced Hepatocellular Carcinoma,Oncology
@@ -2334,7 +2335,7 @@ Kawasaki Disease Refractory to Initial Therapy With Intravenous Immunoglobulin,H
 "Diabetes Mellitus, Type 2",Diabetes
 Femoral Artery Stenosis,Oral Health
 Colorectal Cancer,Oncology
-Chronic Constipation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Chronic Constipation,"Surgery, Abdominal Disease, Emergency and ICU"
 Chronic Obstructive Pulmonary Disease (COPD),Pulmonary Disease
 Colorectal Cancer,Oncology
 Major Depressive Disorder,Mental Health
@@ -2342,7 +2343,7 @@ Major Depressive Disorder,Mental Health
 Non-Small-Cell Lung Carcinoma,Oncology
 Chronic Obstructive Pulmonary Disease,Pulmonary Disease
 Osteoporosis,Arthritis and Injuries
-Pancreatic Tumor,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Pancreatic Tumor,"Surgery, Abdominal Disease, Emergency and ICU"
 Hypertension,Heart Disease
 Hypertension,Heart Disease
 Grade I or II Essential Hypertension,Heart Disease
@@ -2350,7 +2351,7 @@ H. Pylori Infection,Skin Condition
 Coronary Disease,Heart Disease
 Rectal Cancer,Oncology
 Ischemic Stroke,Heart Disease
-"Brain Injuries, Traumatic","Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Brain Injuries, Traumatic","Surgery, Abdominal Disease, Emergency and ICU"
 Diabetes,Diabetes
 Osteoarthritis of the Knee,Arthritis and Injuries
 Diabetes,Diabetes
@@ -2358,7 +2359,7 @@ Diabetes,Diabetes
 "Pulmonary Disease, Chronic Obstructive",Pulmonary Disease
 Atrial Fibrillation,Heart Disease
 Palmoplantaris Pustulosis,Skin Condition
-Functional Dyspepsia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Functional Dyspepsia,"Surgery, Abdominal Disease, Emergency and ICU"
 Colorectal Neoplasms,Oncology
 Diabetes,Diabetes
 Unipolar Major Depressive Episode,Mental Health
@@ -2379,7 +2380,7 @@ Human Immunodeficiency Virus,Reproduction and Sexual Health
 Zinc Deficiency,Obesity and Physical Activity
 HIV Infections,Reproduction and Sexual Health
 Pregnancy,Reproduction and Sexual Health
-Cryptosporidium; Diarrhea,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Cryptosporidium; Diarrhea,"Surgery, Abdominal Disease, Emergency and ICU"
 "Pneumonia, Pneumococcal",Pulmonary Disease
 HIV/AIDS,Reproduction and Sexual Health
 Malnutrition,Obesity and Physical Activity
@@ -2387,14 +2388,14 @@ Fever,Skin Condition
 HIV Infections,Reproduction and Sexual Health
 Malaria,Skin Condition
 Chronic Obstructive Pulmonary Disease (COPD),Pulmonary Disease
-Diarrhea,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Diarrhea,"Surgery, Abdominal Disease, Emergency and ICU"
 Hookworm Infection,Skin Condition
 Brow Lifting,Others
 Bronchoscopy,Pulmonary Disease
 Post-operative Pain,Arthritis and Injuries
 "Tinnitus, Subjective","Ear, Nose and Throat"
 Browlift,Others
-Inguinal Hernia Repair,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Inguinal Hernia Repair,"Surgery, Abdominal Disease, Emergency and ICU"
 HIV Infection,Reproduction and Sexual Health
 Pregnancy,Reproduction and Sexual Health
 HIV Infections,Reproduction and Sexual Health
@@ -2407,7 +2408,7 @@ Pneumonia,Pulmonary Disease
 Opiate Dependence,Addiction
 Cardiovascular Risk Factor,Heart Disease
 "Sexual Dysfunctions, Psychological",Reproduction and Sexual Health
-Anaesthesia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Anaesthesia,"Surgery, Abdominal Disease, Emergency and ICU"
 Overweight,Obesity and Physical Activity
 Gestational Diabetes Mellitus,Diabetes
 "Diabetes Mellitus, Type 2",Diabetes
@@ -2427,7 +2428,7 @@ Obesity,Obesity and Physical Activity
 Cardiovascular Diseases,Heart Disease
 Urinary Tract Infection,Kidney Disease
 Influenza,Skin Condition
-Mucositis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Mucositis,"Surgery, Abdominal Disease, Emergency and ICU"
 Pregnancy,Reproduction and Sexual Health
 Fetal Growth Restriction,Reproduction and Sexual Health
 Endometrial Cancer,Oncology
@@ -2457,7 +2458,7 @@ Asthma,Pulmonary Disease
 Idiopathic Pulmonary Fibrosis,Pulmonary Disease
 Chronic Obstructive Pulmonary Disease (COPD),Pulmonary Disease
 Colorectal Neoplasms,Oncology
-Ostomy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Ostomy,"Surgery, Abdominal Disease, Emergency and ICU"
 Idiopathic Pulmonary Fibrosis,Pulmonary Disease
 Coronary Stenosis,Heart Disease
 Type 2 Diabetes Mellitus,Diabetes
@@ -2502,7 +2503,7 @@ Anaplastic Large-Cell Lymphoma,Oncology
 OESOPHAGO-GASTRIC CARCINOMA,Oncology
 Malignant Pleural Mesothelioma,Oncology
 Osteoporosis in Men,Arthritis and Injuries
-Polypoidal Choroidal Vasculopathy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Polypoidal Choroidal Vasculopathy,"Surgery, Abdominal Disease, Emergency and ICU"
 "Lymphoma, Non-Hodgkin",Oncology
 Gingival Recession,Oral Health
 Gastric Cancer,Oncology
@@ -2533,7 +2534,7 @@ Atrial Fibrillation,Heart Disease
 Idiopathic Pulmonary Fibrosis,Pulmonary Disease
 Severe Spasticity,Skin Condition
 Atopic Dermatitis,Skin Condition
-Liver Transplantation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Liver Transplantation,"Surgery, Abdominal Disease, Emergency and ICU"
 HER2/Neu Positive,Others
 Chronic Plaque Psoriasis,Skin Condition
 Acidosis,Others
@@ -2560,7 +2561,7 @@ Colorectal Cancer,Oncology
 HIV,Reproduction and Sexual Health
 "Jaw, Edentulous, Partially",Oral Health
 Gastric Cancer,Oncology
-Incontinence,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Incontinence,"Surgery, Abdominal Disease, Emergency and ICU"
 Generalized Anxiety Disorder,Mental Health
 Renal Function and Chronic Allograft Vasculopathy,Kidney Disease
 Aging,Aging and Palliative Care
@@ -2574,19 +2575,19 @@ Colorectal Cancer,Oncology
 Dementia of the Alzheimer's Type,Mental Health
 Ulcerative Colitis,Obesity and Physical Activity
 HIV Infection,Reproduction and Sexual Health
-Critically Ill Mechanically Ventilated Subjects,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Critically Ill Mechanically Ventilated Subjects,"Surgery, Abdominal Disease, Emergency and ICU"
 Stable Angina Pectoris,Heart Disease
 Psoriatic Arthritis,Arthritis and Injuries
 Neuroblastoma,Oncology
 Acute Coronary Syndrome,Heart Disease
-Diabetic Foot Ulcer,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Diabetic Foot Ulcer,"Surgery, Abdominal Disease, Emergency and ICU"
 Breast Cancer,Oncology
 Prostate Cancer,Oncology
 Sleep Deprivation,Mental Health
 HIV,Reproduction and Sexual Health
 NYHA Class III Heart Failure,Heart Disease
 "Behavior, Consumer",Others
-Umbilical Hernia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Umbilical Hernia,"Surgery, Abdominal Disease, Emergency and ICU"
 Postthrombotic Syndrome,Others
 Hypotension,Heart Disease
 Primary Myelofibrosis,Heart Disease
@@ -2600,7 +2601,7 @@ Metastatic Melanoma,Oncology
 Breast Cancer,Oncology
 Metabolic Syndrome,Obesity and Physical Activity
 Indications for Warfarin Therapy,Others
-ICU-ecology (Multidrug Resistant Bacteria),"Surgery, Abdominal Disease, Emergency and Intensive Care"
+ICU-ecology (Multidrug Resistant Bacteria),"Surgery, Abdominal Disease, Emergency and ICU"
 Cytomegalovirus Infections,Skin Condition
 Cardiac Surgery,Heart Disease
 HIV,Reproduction and Sexual Health
@@ -2611,21 +2612,21 @@ Uterine Bleeding in Women With Leiomyomas,Oncology
 Lymphoma,Oncology
 Polymyositis,Arthritis and Injuries
 Coronary Artery Disease,Heart Disease
-Critical Illness,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Critical Illness,"Surgery, Abdominal Disease, Emergency and ICU"
 Prostate Cancer,Oncology
-Critical Illness,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Critical Illness,"Surgery, Abdominal Disease, Emergency and ICU"
 Leukemia,Oncology
 HIV Infections,Reproduction and Sexual Health
 HIV/AIDS,Reproduction and Sexual Health
 Trachoma,Eye Disease
-Brain Ischemia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Brain Ischemia,"Surgery, Abdominal Disease, Emergency and ICU"
 Dental Caries,Oral Health
 Dialysis Catheter Infections,Kidney Disease
 Prostate Cancer,Oncology
 Acute Myocardial Infarction,Heart Disease
 Thrombocytopenia,Heart Disease
 Endometrioma,Reproduction and Sexual Health
-Variceal Hemorrhage,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Variceal Hemorrhage,"Surgery, Abdominal Disease, Emergency and ICU"
 Prostatic Neoplasms,Oncology
 "Infections, Meningococcal",Skin Condition
 Hormone Receptor Positive Breast Cancer,Oncology
@@ -2652,9 +2653,9 @@ Influenza Virus,Skin Condition
 HIV Infections,Reproduction and Sexual Health
 Systemic Lupus Erythematosus,Mental Health
 HIV Infection,Reproduction and Sexual Health
-Critical Illness,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Critical Illness,"Surgery, Abdominal Disease, Emergency and ICU"
 Advanced Metastatic Breast Cancer,Oncology
-"Liver Cirrhosis, Biliary","Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Liver Cirrhosis, Biliary","Surgery, Abdominal Disease, Emergency and ICU"
 "Diabetes Mellitus, Type 2",Diabetes
 Diabetes,Diabetes
 Measles,Skin Condition
@@ -2666,14 +2667,14 @@ Bulimia Nervosa,Mental Health
 Aortic Stenosis,Heart Disease
 COPD,Pulmonary Disease
 Cardiovascular Diseases,Heart Disease
-"Brain Injuries, Traumatic","Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Brain Injuries, Traumatic","Surgery, Abdominal Disease, Emergency and ICU"
 Colorectal Cancer,Oncology
 Smoking Cessation,Addiction
 Refractory Metastatic Gastric Cancer,Oncology
 Psoriatic Arthritis,Arthritis and Injuries
 Acute Kidney Injury,Kidney Disease
 Coronary Artery Disease,Heart Disease
-Critically Ill Children,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Critically Ill Children,"Surgery, Abdominal Disease, Emergency and ICU"
 Breast Cancer,Oncology
 Yaws,Skin Condition
 Mania,Others
@@ -2694,10 +2695,10 @@ Non-Hodgkin's Lymphoma,Oncology
 Schizophrenia,Mental Health
 Renal Replacement Therapy,Kidney Disease
 Adult Acute Megakaryoblastic Leukemia (M7),Oncology
-Tuberous Sclerosis Complex,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Tuberous Sclerosis Complex,"Surgery, Abdominal Disease, Emergency and ICU"
 Metastatic Breast Cancer,Oncology
 Ulcerative Colitis,Obesity and Physical Activity
-Corneal Ulcer,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Corneal Ulcer,"Surgery, Abdominal Disease, Emergency and ICU"
 Anaplastic Medulloblastoma,Oncology
 "Myelogenous Leukemia, Chronic",Oncology
 Acute Lymphoblastic Leukemia,Oncology
@@ -2706,7 +2707,7 @@ Diabetes,Diabetes
 HIV,Reproduction and Sexual Health
 Asthma,Pulmonary Disease
 Pulmonary Arterial Hypertension,Heart Disease
-Failed Back Surgery Syndrome,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Failed Back Surgery Syndrome,"Surgery, Abdominal Disease, Emergency and ICU"
 Benign Esophageal Lesions,Oncology
 Epilepsy,Mental Health
 Diabetes,Diabetes
@@ -2723,12 +2724,12 @@ Gram Negative Bacteremia,Others
 Fragile X Syndrome,Others
 Epilepsy,Mental Health
 "Arthritis, Rheumatoid",Arthritis and Injuries
-Gastroparesis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Gastroparesis,"Surgery, Abdominal Disease, Emergency and ICU"
 Knee Osteoarthritis,Arthritis and Injuries
 "Spondylitis, Ankylosing",Arthritis and Injuries
 Malaria,Skin Condition
 "Infection, Human Immunodeficiency Virus",Reproduction and Sexual Health
-Irritable Bowel Syndrome With Constipation (IBS-C),"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Irritable Bowel Syndrome With Constipation (IBS-C),"Surgery, Abdominal Disease, Emergency and ICU"
 Neovascular Macular Degeneration,"Ear, Nose and Throat"
 Plaque Psoriasis,Skin Condition
 Non-Hodgkin's Lymphoma,Oncology
@@ -2767,7 +2768,7 @@ Sexual Assault,Reproduction and Sexual Health
 Infant Nutrition,Obesity and Physical Activity
 Onchocerciasis,Eye Disease
 Bronchiectasis,Pulmonary Disease
-Wound Infection,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Wound Infection,"Surgery, Abdominal Disease, Emergency and ICU"
 "Diabetes Mellitus, Type 2",Diabetes
 Secrecy Versus Disclosure Among Adolescents With Mental Illness,Mental Health
 HIV,Reproduction and Sexual Health
@@ -2788,7 +2789,7 @@ Myocardial Injury After Noncardiac Surgery (MINS),Heart Disease
 Cancer,Oncology
 Prostate Neoplasms,Oncology
 Dental Pain,Oral Health
-Postoperative Ileus,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Postoperative Ileus,"Surgery, Abdominal Disease, Emergency and ICU"
 Atherosclerosis of Native Arteries of the Extremities,Heart Disease
 Femoroacetabular Impingement,Arthritis and Injuries
 Type 2 Diabetes Mellitus,Diabetes
@@ -2797,15 +2798,15 @@ Migraine,Mental Health
 Head and Neck Cancer,Oncology
 Hay Fever,Skin Condition
 Patent Ductus Arteriosus,Heart Disease
-Pancreatic Masses,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Pancreatic Masses,"Surgery, Abdominal Disease, Emergency and ICU"
 Unresectable or Metastatic Melanoma,Oncology
 Chronic Kidney Disease,Kidney Disease
 Urinary Tract Infection Complicated,Kidney Disease
 Chikungunya Virus Infection,Skin Condition
 Nonalcoholic Steatohepatitis,Addiction
-Postoperative Nausea and Vomiting,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Postoperative Nausea and Vomiting,"Surgery, Abdominal Disease, Emergency and ICU"
 Vitiligo,Skin Condition
-Traumatic Brain Injury,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Traumatic Brain Injury,"Surgery, Abdominal Disease, Emergency and ICU"
 Type 2 Diabetes Mellitus,Diabetes
 Human African Trypanosomiasis (HAT),Others
 Glioblastoma,Oncology
@@ -2816,7 +2817,7 @@ Type 1 Diabetes Mellitus,Diabetes
 Diabetes,Diabetes
 "Infections, Papillomavirus",Skin Condition
 Migraine,Mental Health
-Articular Cartilage Defects,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Articular Cartilage Defects,"Surgery, Abdominal Disease, Emergency and ICU"
 Hypertension,Heart Disease
 Symptomatic Aortic Stenosis,Heart Disease
 Renal Cell Carcinoma,Kidney Disease
@@ -2839,7 +2840,7 @@ Central Nervous System Tumors,Mental Health
 Acute ST Segment Elevation Myocardial Infarction,Heart Disease
 Diabetes Mellitus,Diabetes
 HIV-1 Infection,Reproduction and Sexual Health
-Primary Biliary Cirrhosis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Primary Biliary Cirrhosis,"Surgery, Abdominal Disease, Emergency and ICU"
 Central Line-Associated Bloodstream Infection,Heart Disease
 HIV Infections,Reproduction and Sexual Health
 Lymphoma,Oncology
@@ -2848,11 +2849,11 @@ Septic Shock,Skin Condition
 Obesity,Obesity and Physical Activity
 Acute Lymphoblastic Leukemia,Oncology
 Juvenile Idiopathic Arthritis,Arthritis and Injuries
-Liver Lesions Requiring Hemihepatectomy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Liver Lesions Requiring Hemihepatectomy,"Surgery, Abdominal Disease, Emergency and ICU"
 Tuberculosis,Pulmonary Disease
 Adenomas,Oncology
 Childhood Mortality,Reproduction and Sexual Health
-Critical Illness,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Critical Illness,"Surgery, Abdominal Disease, Emergency and ICU"
 Labor Preterm Requiring Hospitalization,Reproduction and Sexual Health
 Clostridium Difficile,Others
 Diabetes,Diabetes
@@ -2902,7 +2903,7 @@ Diabetes,Diabetes
 Type 2 Diabetes Mellitus,Diabetes
 Spondyloarthritis,Arthritis and Injuries
 Atherosclerosis,Heart Disease
-High Grade Glioma,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+High Grade Glioma,"Surgery, Abdominal Disease, Emergency and ICU"
 Retinopathy of Prematurity (ROP),Reproduction and Sexual Health
 Herpes Zoster,Skin Condition
 Type 2 Diabetes Mellitus,Diabetes
@@ -2931,13 +2932,13 @@ Metastatic,Oncology
 "Stroke, Acute",Heart Disease
 Spondyloarthritis,Arthritis and Injuries
 Rheumatoid Arthritis,Arthritis and Injuries
-Gastroparesis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Gastroparesis,"Surgery, Abdominal Disease, Emergency and ICU"
 "Infections, Meningococcal",Skin Condition
 Asthma,Pulmonary Disease
 "Malaria, Antepartum",Skin Condition
 Treatment Resistant Depressive Disorder,Mental Health
 Acne Vulgaris,Skin Condition
-Complicated Intra-abdominal Infections,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Complicated Intra-abdominal Infections,"Surgery, Abdominal Disease, Emergency and ICU"
 Malnutrition,Obesity and Physical Activity
 Disseminated Neuroblastoma,Oncology
 Macular Telangiectasia Type 2,Eye Disease
@@ -2948,7 +2949,7 @@ Recurrent/Metastatic Squamous Cell Carcinoma of Head & Neck,Oncology
 Bronchiectasis,Pulmonary Disease
 Venous Thromboembolism,Heart Disease
 Septic Shock,Skin Condition
-Enterocolitis Clostridium Difficile Recurrent,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Enterocolitis Clostridium Difficile Recurrent,"Surgery, Abdominal Disease, Emergency and ICU"
 Child Development,Reproduction and Sexual Health
 Bacteremia,Others
 Vocal Fold Nodules,Others
@@ -2960,7 +2961,7 @@ Colorectal Disorders,Oncology
 Obesity,Obesity and Physical Activity
 Type 2 Diabetes,Diabetes
 Diabetic Retinopathy,Diabetes
-Pediculosis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Pediculosis,"Surgery, Abdominal Disease, Emergency and ICU"
 Bipolar Disorder,Mental Health
 Age-related Macular Degeneration,Aging and Palliative Care
 Major Depressive Disorder,Mental Health
@@ -2990,14 +2991,14 @@ Diabetes,Diabetes
 Hypertension,Heart Disease
 Aortic Aneurysm,Heart Disease
 ST-elevation Myocardial Infarction,Heart Disease
-Cholestasis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Cholestasis,"Surgery, Abdominal Disease, Emergency and ICU"
 Effect of Breastfeeding on Maternal and Child Health Outcomes,Reproduction and Sexual Health
 Hematological Infection,Skin Condition
 Head and Neck Cancer,Oncology
 Antisocial,Mental Health
 Growth,Others
 Stunting,Others
-Hypothermia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Hypothermia,"Surgery, Abdominal Disease, Emergency and ICU"
 HIV Seropositivity,Reproduction and Sexual Health
 Hypertension,Heart Disease
 Respiratory Infection,Pulmonary Disease
@@ -3012,8 +3013,8 @@ Hypertension,Heart Disease
 Osteoporosis,Arthritis and Injuries
 Percutaneous Coronary Intervention,Heart Disease
 In Vitro Fertilization,Reproduction and Sexual Health
-Diarrhea,"Surgery, Abdominal Disease, Emergency and Intensive Care"
-Crohn's Disease,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Diarrhea,"Surgery, Abdominal Disease, Emergency and ICU"
+Crohn's Disease,"Surgery, Abdominal Disease, Emergency and ICU"
 Type 2 Diabetes,Diabetes
 Post Cesarean Section Patient,Reproduction and Sexual Health
 Rectal Cancer,Oncology
@@ -3031,7 +3032,7 @@ Healthy,Others
 Aging,Aging and Palliative Care
 Psoriasis,Skin Condition
 "Arthritis, Rheumatoid",Arthritis and Injuries
-Gastroesophageal Reflux Disease,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Gastroesophageal Reflux Disease,"Surgery, Abdominal Disease, Emergency and ICU"
 Psoriatic Arthritis,Arthritis and Injuries
 Overactive Bladder,Kidney Disease
 Anhedonia in Healthy Volunteers,Others
@@ -3049,7 +3050,7 @@ Energy Metabolism,Obesity and Physical Activity
 Molluscum Contagiosum,Skin Condition
 Survivorship Care,Arthritis and Injuries
 "Glaucoma, Angle-Closure",Eye Disease
-Periappendicular Abscess,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Periappendicular Abscess,"Surgery, Abdominal Disease, Emergency and ICU"
 Laryngopharyngeal Reflux,Others
 Obstructive Sleep Apnea of Adult,Mental Health
 Rheumatic Heart Disease,Heart Disease
@@ -3059,7 +3060,7 @@ Running,Obesity and Physical Activity
 Aging,Aging and Palliative Care
 Dental Caries,Oral Health
 Diabetic Mellitus,Diabetes
-"Pressure Ulcer, Buttock","Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Pressure Ulcer, Buttock","Surgery, Abdominal Disease, Emergency and ICU"
 Serious Emotional Disturbance,Mental Health
 Acute Pain Due to Trauma,Mental Health
 Healthy Individuals,Others
@@ -3075,15 +3076,15 @@ Dental Caries,Oral Health
 Hypertension,Heart Disease
 Hypertension,Heart Disease
 Chronic Periodontitis,Oral Health
-Colonoscopy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Colonoscopy,"Surgery, Abdominal Disease, Emergency and ICU"
 Chronic Periodontitis,Oral Health
-Cerebellar Ataxia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Cerebellar Ataxia,"Surgery, Abdominal Disease, Emergency and ICU"
 Educational Problems,Others
 Premature Ejaculation,Reproduction and Sexual Health
 Healthy,Others
 Chronic Pain,Arthritis and Injuries
 "Gingival Recession, Localized",Oral Health
-Postoperative Analgesia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Postoperative Analgesia,"Surgery, Abdominal Disease, Emergency and ICU"
 Pregnancy,Reproduction and Sexual Health
 Postoperative Pain,Arthritis and Injuries
 Clinical Decision-Making,Others
@@ -3104,18 +3105,18 @@ Obesity,Obesity and Physical Activity
 Sun Protection,Skin Condition
 MYOSITIS,Arthritis and Injuries
 Tooth Sensitivity,Oral Health
-Pelvic Floor Disorders,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Pelvic Floor Disorders,"Surgery, Abdominal Disease, Emergency and ICU"
 Zygomatic Fractures,Arthritis and Injuries
 Amblyopia,Eye Disease
 Rotator Cuff Injury,Arthritis and Injuries
 Pneumonia,Pulmonary Disease
 Text Messaging,Others
 Low Back Pain,Arthritis and Injuries
-Abdominal Mass,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Abdominal Mass,"Surgery, Abdominal Disease, Emergency and ICU"
 "Pain, Postoperative",Arthritis and Injuries
 Vitamin D Deficiency,Obesity and Physical Activity
 GDM,Others
-Functional Dyspepsia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Functional Dyspepsia,"Surgery, Abdominal Disease, Emergency and ICU"
 Alcohol Drinking,Addiction
 Spinal Diseases,Arthritis and Injuries
 "Solid Tumor, Adult",Oncology
@@ -3175,7 +3176,7 @@ Other Peripheral Nerve Disease,Mental Health
 Musculoskeletal Pain,Arthritis and Injuries
 Breast Cancer,Oncology
 Head and Neck Cancer,Oncology
-Dysphagia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Dysphagia,"Surgery, Abdominal Disease, Emergency and ICU"
 Cardiovascular Diseases in Old Age,Heart Disease
 Anxiety,Mental Health
 Postoperative Pain,Arthritis and Injuries
@@ -3192,7 +3193,7 @@ Generic Label,Others
 "Abortion, Habitual",Reproduction and Sexual Health
 Ovarian Cancer,Oncology
 Portal Vein Thrombosis,Heart Disease
-Constipation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Constipation,"Surgery, Abdominal Disease, Emergency and ICU"
 Breast Cancer,Oncology
 Chronic Low Back Pain,Arthritis and Injuries
 "Deficiency, Vitamin D",Obesity and Physical Activity
@@ -3201,10 +3202,10 @@ Malnutrition in Children,Obesity and Physical Activity
 Cardiovascular Disease,Heart Disease
 Patent Ductus Arteriosus,Heart Disease
 Primary Prevention,Others
-Crohn's Disease,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Crohn's Disease,"Surgery, Abdominal Disease, Emergency and ICU"
 Marital Conflict,Others
 Stroke,Heart Disease
-Cardiac and Pulmonary Complications. Central Venous Line Insertion. Gastrointestinal Recovery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Cardiac and Pulmonary Complications. Central Venous Line Insertion. Gastrointestinal Recovery,"Surgery, Abdominal Disease, Emergency and ICU"
 Multiple Sclerosis,Mental Health
 "Aggressive Periodontitis, Generalized",Oral Health
 Cardiovascular Risk Factor,Heart Disease
@@ -3217,7 +3218,7 @@ Neuromuscular Blockade,Mental Health
 "Influenza, Human",Skin Condition
 Opioid-Related Disorders,Addiction
 Stress,Mental Health
-Colonoscopy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Colonoscopy,"Surgery, Abdominal Disease, Emergency and ICU"
 Low Back Pain,Arthritis and Injuries
 Complications,Others
 HIV/AIDS,Reproduction and Sexual Health
@@ -3246,7 +3247,7 @@ Clostridium Difficile,Others
 Physical Activity,Obesity and Physical Activity
 Body Composition,Others
 Dental Plaque,Oral Health
-Draining Wound,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Draining Wound,"Surgery, Abdominal Disease, Emergency and ICU"
 Autism Spectrum Disorder,Mental Health
 Chronic Periodontitis,Oral Health
 Health Behavior,Others
@@ -3261,7 +3262,7 @@ Chronic Kidney Disease Requiring Chronic Dialysis,Kidney Disease
 Oxidative Stress,Mental Health
 Astigmatism,Eye Disease
 "Malocclusion, Angle Class II",Oral Health
-Helicobacter Pylori Gastritis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Helicobacter Pylori Gastritis,"Surgery, Abdominal Disease, Emergency and ICU"
 Arthroplasties,Arthritis and Injuries
 Sexual and Reproductive Health and Rights,Reproduction and Sexual Health
 Healthy Newborn Infants,Reproduction and Sexual Health
@@ -3277,7 +3278,7 @@ Lung Transplant,Pulmonary Disease
 Sleep,Mental Health
 Tooth Loss,Oral Health
 Chronic Kidney Disease,Kidney Disease
-Surgical Wound Infection,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Surgical Wound Infection,"Surgery, Abdominal Disease, Emergency and ICU"
 Hypercholesterolemia,Heart Disease
 Asphyxia Neonatorum,Pulmonary Disease
 Breast Cancer Female,Oncology
@@ -3288,7 +3289,7 @@ Carpal Tunnel Syndrome(CTS),Arthritis and Injuries
 Focus of Study is on Graduate Medical Education Supervision,Eye Disease
 Pregnancy,Reproduction and Sexual Health
 Tendinopathy,Arthritis and Injuries
-Mucositis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Mucositis,"Surgery, Abdominal Disease, Emergency and ICU"
 Human Papilloma Virus Infection Type 11,Skin Condition
 Video-based Task Oriented Activity Training,Others
 Periodontitis,Oral Health
@@ -3301,7 +3302,7 @@ Hospital Infection,Skin Condition
 Community Health Worker Performance,Others
 Colorectal Neoplasms,Oncology
 Hip Injuries,Arthritis and Injuries
-Postoperative Nausea,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Postoperative Nausea,"Surgery, Abdominal Disease, Emergency and ICU"
 "Glucose, High Blood",Diabetes
 Lumbar Disc Herniation,Arthritis and Injuries
 Metabolic Syndrome,Obesity and Physical Activity
@@ -3316,7 +3317,7 @@ Dental Caries,Oral Health
 Dietary Habits,Obesity and Physical Activity
 Alveolar Bone Loss,Oral Health
 Leishmaniasis,Skin Condition
-Surgery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Surgery,"Surgery, Abdominal Disease, Emergency and ICU"
 Dyslipidemias,Heart Disease
 Breast Cancer Female,Oncology
 Pleural Effusion,Pulmonary Disease
@@ -3343,15 +3344,15 @@ Healthy Aged Women,Aging and Palliative Care
 Sedentary Lifestyle,Obesity and Physical Activity
 Breast Cancer,Oncology
 Tension-Type Headache,Mental Health
-Functional Dyspepsia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Functional Dyspepsia,"Surgery, Abdominal Disease, Emergency and ICU"
 Stuttering in Adolescence,Mental Health
-Pediatric Ventricular Septal Defects,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Pediatric Ventricular Septal Defects,"Surgery, Abdominal Disease, Emergency and ICU"
 Healthy,Others
 Chronic Periodontitis,Oral Health
 Facial Nerve Injuries,Mental Health
 Pregnancy,Reproduction and Sexual Health
 Migraine,Mental Health
-Irritable Bowel Syndrome,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Irritable Bowel Syndrome,"Surgery, Abdominal Disease, Emergency and ICU"
 Training,Others
 Lipodermatosclerosis,Skin Condition
 Post-Injection Intraocular Pressure Spikes,Others
@@ -3379,7 +3380,7 @@ Cancer,Oncology
 Overweight,Obesity and Physical Activity
 Academic Acheivement,Others
 Edentulous,Oral Health
-Diabetic Foot Ulcers,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Diabetic Foot Ulcers,"Surgery, Abdominal Disease, Emergency and ICU"
 Cancer of the Colon,Oncology
 HIV,Reproduction and Sexual Health
 Continuity of Care,Others
@@ -3399,12 +3400,12 @@ Utilization,Others
 Transvaginal Ultrasound Scan,Reproduction and Sexual Health
 Herpes Zoster,Skin Condition
 "Blood Loss, Surgical",Heart Disease
-Hypothermia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Hypothermia,"Surgery, Abdominal Disease, Emergency and ICU"
 Physical Activity,Obesity and Physical Activity
 Sleep,Mental Health
 Phantom Limb Pain,Arthritis and Injuries
 Plaque Psoriasis,Skin Condition
-Anesthesia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Anesthesia,"Surgery, Abdominal Disease, Emergency and ICU"
 Xerostomia,Oral Health
 Cancer,Oncology
 Breast Cancer,Oncology
@@ -3424,8 +3425,8 @@ Type 2 Diabetes Mellitus,Diabetes
 Morbid Obesity,Obesity and Physical Activity
 Alzheimer's Disease,Mental Health
 Hypertension,Heart Disease
-Hepatitis C,"Surgery, Abdominal Disease, Emergency and Intensive Care"
-Crohn's Disease,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Hepatitis C,"Surgery, Abdominal Disease, Emergency and ICU"
+Crohn's Disease,"Surgery, Abdominal Disease, Emergency and ICU"
 Type 2 Diabetes Mellitus,Diabetes
 Fibromyalgia,Arthritis and Injuries
 Chronic Kidney Disease,Kidney Disease
@@ -3435,8 +3436,8 @@ Stomach Neoplasms,Oncology
 Back Pain,Arthritis and Injuries
 Dengue,Skin Condition
 Inappropriate Dose of Drug Administered,Others
-Hypothermia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
-Colonoscopy Preparation Acceptance,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Hypothermia,"Surgery, Abdominal Disease, Emergency and ICU"
+Colonoscopy Preparation Acceptance,"Surgery, Abdominal Disease, Emergency and ICU"
 Physical Disability,Obesity and Physical Activity
 Scar Improvement by Laser,Skin Condition
 Diabetes,Diabetes
@@ -3446,16 +3447,16 @@ Healthy,Others
 Neoplasia of the Uterine Cervix,Reproduction and Sexual Health
 Mental Disorders,Mental Health
 Congenital Heart Disease,Heart Disease
-Anesthesia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Anesthesia,"Surgery, Abdominal Disease, Emergency and ICU"
 Type 2 Diabetes,Diabetes
 Alzheimer Disease,Mental Health
-Cholera,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Cholera,"Surgery, Abdominal Disease, Emergency and ICU"
 Adjustment Disorder,Mental Health
 Type 2 Diabetes Mellitus,Diabetes
 Cervical Cancer,Oncology
 Cholecystitis,Kidney Disease
 Chemotherapy-Induced Nausea and Vomiting (CINV),Oncology
-Antenatal Care and Delivery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Antenatal Care and Delivery,"Surgery, Abdominal Disease, Emergency and ICU"
 Community Mental Health Services,Mental Health
 Hypertension,Heart Disease
 Cesarean Section,Reproduction and Sexual Health
@@ -3513,7 +3514,7 @@ Infertility,Reproduction and Sexual Health
 Attentional Processing,Others
 Allergic Rhinitis,"Ear, Nose and Throat"
 Spinal Cord Injury,Arthritis and Injuries
-Satiety,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Satiety,"Surgery, Abdominal Disease, Emergency and ICU"
 HIV,Reproduction and Sexual Health
 Schizophrenia,Mental Health
 "Pain, Postoperative",Arthritis and Injuries
@@ -3521,10 +3522,10 @@ Muscle Composition,Arthritis and Injuries
 Post-Traumatic Stress Disorder,Mental Health
 Cancer Patients First-ever Acute Ischemic Stroke,Oncology
 Posttraumatic Stress Disorder,Mental Health
-Surgery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Surgery,"Surgery, Abdominal Disease, Emergency and ICU"
 Patient Adherence,Others
 Parkinson's Disease,Mental Health
-Post-micturition Incontinence,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Post-micturition Incontinence,"Surgery, Abdominal Disease, Emergency and ICU"
 Psoriasis,Skin Condition
 Atopic Dermatitis,Skin Condition
 Muscle Soreness,Arthritis and Injuries
@@ -3537,13 +3538,13 @@ Acute Respiratory Failure,Pulmonary Disease
 Post-op Pain,Arthritis and Injuries
 Transtibial Amputation,Arthritis and Injuries
 Macular Degeneration,Eye Disease
-Postoperative Vomiting and Nausea,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Postoperative Vomiting and Nausea,"Surgery, Abdominal Disease, Emergency and ICU"
 Multiple Sclerosis,Mental Health
 Stroke,Heart Disease
 Schizophrenia,Mental Health
 Diabetes,Diabetes
 Aging,Aging and Palliative Care
-Bariatric Surgery Candidate,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Bariatric Surgery Candidate,"Surgery, Abdominal Disease, Emergency and ICU"
 Human Papilloma Virus Infection Type 11,Skin Condition
 Autism Spectrum Disorder,Mental Health
 Anxiety,Mental Health
@@ -3568,8 +3569,8 @@ Postpartum Hemorrhage,Reproduction and Sexual Health
 Sedentary Lifestyle,Obesity and Physical Activity
 Weight Loss,Obesity and Physical Activity
 Prostate Cancer,Oncology
-Wound Complication,"Surgery, Abdominal Disease, Emergency and Intensive Care"
-Wound Infection Due to Staphylococcus Aureus,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Wound Complication,"Surgery, Abdominal Disease, Emergency and ICU"
+Wound Infection Due to Staphylococcus Aureus,"Surgery, Abdominal Disease, Emergency and ICU"
 Obesity,Obesity and Physical Activity
 Migraine,Mental Health
 Unintended Pregnancy,Reproduction and Sexual Health
@@ -3604,12 +3605,12 @@ Leukemia,Oncology
 Type 1 Diabetes Mellitus,Diabetes
 Healthy Controls,Others
 Angelman Syndrome,Mental Health
-Intestinal Barrier Function,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Intestinal Barrier Function,"Surgery, Abdominal Disease, Emergency and ICU"
 Mental Disorders,Mental Health
 Pediatric Presentation of Urinary Tract Infection,Kidney Disease
 Major Depressive Disorder,Mental Health
-Infected Pancreatic Necrosis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
-Pressure Ulcer,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Infected Pancreatic Necrosis,"Surgery, Abdominal Disease, Emergency and ICU"
+Pressure Ulcer,"Surgery, Abdominal Disease, Emergency and ICU"
 Pre-Eclampsia,Mental Health
 Insomnia,Mental Health
 Renal Cancer,Oncology
@@ -3618,7 +3619,7 @@ Prematurity,Reproduction and Sexual Health
 Childhood Obesity,Obesity and Physical Activity
 Osteoporosis,Arthritis and Injuries
 Obesity,Obesity and Physical Activity
-Inflammatory Bowel Disease,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Inflammatory Bowel Disease,"Surgery, Abdominal Disease, Emergency and ICU"
 Cellulitis,Skin Condition
 Anterior Cruciate Ligament Reconstruction,Arthritis and Injuries
 Cerebral Palsy,Mental Health
@@ -3626,7 +3627,7 @@ Cerebral Palsy,Mental Health
 Healthy Subject,Others
 Bipolar Disorder,Mental Health
 Obstructive Sleep Apnea,Mental Health
-Melena,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Melena,"Surgery, Abdominal Disease, Emergency and ICU"
 Healthy,Others
 Airway Management,Pulmonary Disease
 HIV,Reproduction and Sexual Health
@@ -3644,7 +3645,7 @@ Obesity,Obesity and Physical Activity
 Mitochondrial Myopathy,Others
 Myofascial Pain,Arthritis and Injuries
 Induction of Labor,Reproduction and Sexual Health
-Spinal Anesthesia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Spinal Anesthesia,"Surgery, Abdominal Disease, Emergency and ICU"
 Post Traumatic Stress Disorder,Mental Health
 Fall,Arthritis and Injuries
 Invasive Breast Cancer,Oncology
@@ -3664,14 +3665,14 @@ Major Depressive Disorder,Mental Health
 Residual Neuromuscular Block,Mental Health
 Amyotrophic Lateral Sclerosis,Mental Health
 Alcohol Use Disorder,Addiction
-"Foot Ulcer, Diabetic","Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Foot Ulcer, Diabetic","Surgery, Abdominal Disease, Emergency and ICU"
 Hodgkin's Lymphoma,Oncology
 Pain,Arthritis and Injuries
 First Degree Relatives of Rheumatoid Arthritis Patients,Arthritis and Injuries
 Type 1 Diabetes Mellitus,Diabetes
 Pain,Arthritis and Injuries
-Brain Death,"Surgery, Abdominal Disease, Emergency and Intensive Care"
-Traumatic Brain Injury,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Brain Death,"Surgery, Abdominal Disease, Emergency and ICU"
+Traumatic Brain Injury,"Surgery, Abdominal Disease, Emergency and ICU"
 Candidates for BRCA 1/2 Genetic Testing,Others
 Overweight,Obesity and Physical Activity
 Presbycusis,Others
@@ -3681,16 +3682,16 @@ Cardiovascular Disease,Heart Disease
 Gastrointestinal Neoplasm,Oncology
 End-Stage Renal Disease,Kidney Disease
 Femoral Artery Stenosis,Heart Disease
-Extraarticular Distal Radius Malunion,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Extraarticular Distal Radius Malunion,"Surgery, Abdominal Disease, Emergency and ICU"
 Type I Diabetes,Diabetes
 Kidney Disease,Kidney Disease
 Advanced Solid Tumor Diseases,Oncology
-Cigarette Smoking,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Cigarette Smoking,"Surgery, Abdominal Disease, Emergency and ICU"
 Weight Loss,Obesity and Physical Activity
 Coronary Artery Disease,Heart Disease
 Major Depressive Disorder,Mental Health
 Acute Respiratory Infection,Pulmonary Disease
-Hepatic Encephalopathy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Hepatic Encephalopathy,"Surgery, Abdominal Disease, Emergency and ICU"
 Depression,Mental Health
 Tobacco Use Disorder,Addiction
 Arthritis,Arthritis and Injuries
@@ -3720,7 +3721,7 @@ Stress Urinary Incontinence,Kidney Disease
 Dental Pain,Oral Health
 Post-Operative Pain,Arthritis and Injuries
 Nausea and Vomiting of Pregnancy,Reproduction and Sexual Health
-Diabetic; Foot Ulcers,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Diabetic; Foot Ulcers,"Surgery, Abdominal Disease, Emergency and ICU"
 HIV Infections,Reproduction and Sexual Health
 Acute Ischemic Stroke From Large Vessel Occlusion,Heart Disease
 Diabetic Foot,Diabetes
@@ -3730,15 +3731,15 @@ Diabetes Mellitus,Diabetes
 Asthma,Pulmonary Disease
 Breast Cancer,Oncology
 Labor Pain,Reproduction and Sexual Health
-Subarachnoid Hemorrhage,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Subarachnoid Hemorrhage,"Surgery, Abdominal Disease, Emergency and ICU"
 Female Sexual Arousal Disorder,Reproduction and Sexual Health
 "Obesity, Severe",Obesity and Physical Activity
 Colon Cancer,Oncology
 Lumbar Surgery,Arthritis and Injuries
 Health Services Misuse,Others
-Dysentery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Dysentery,"Surgery, Abdominal Disease, Emergency and ICU"
 Acute Myocardial Infarction (AMI),Heart Disease
-Functional Constipation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Functional Constipation,"Surgery, Abdominal Disease, Emergency and ICU"
 Opioid Use Disorder,Addiction
 Muscle Contraction,Arthritis and Injuries
 Pain,Arthritis and Injuries
@@ -3746,11 +3747,11 @@ Somatoform Disorders,Mental Health
 Infection,Skin Condition
 Aging Hands,Aging and Palliative Care
 Healthy,Others
-Post-operative Craniotomy Patients,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Post-operative Craniotomy Patients,"Surgery, Abdominal Disease, Emergency and ICU"
 Cancer,Oncology
 Vulvovaginal Candidiasis,Skin Condition
 HIV,Reproduction and Sexual Health
-"Fasciitis, Plantar","Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Fasciitis, Plantar","Surgery, Abdominal Disease, Emergency and ICU"
 Complications of Bone Marrow Transplant,Arthritis and Injuries
 Breast Cancer,Oncology
 Healthy Volunteers,Others
@@ -3770,14 +3771,14 @@ Stage IA Pancreatic Cancer,Oncology
 Urinary Retention,Kidney Disease
 Neonatal Abstinence Syndrome,Reproduction and Sexual Health
 Posttraumatic Stress Disorder (PTSD),Mental Health
-GERD Gastroesophageal Reflux Disease,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+GERD Gastroesophageal Reflux Disease,"Surgery, Abdominal Disease, Emergency and ICU"
 Breast Cancer,Oncology
 Eustachian Tube Dysfunction,"Ear, Nose and Throat"
 Opioid Use Disorders,Addiction
 Bipolar Disorder,Mental Health
 Walking Impairment,Arthritis and Injuries
 "Depressive Disorder, Major",Mental Health
-"Nicotine Dependence, Cigarettes","Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Nicotine Dependence, Cigarettes","Surgery, Abdominal Disease, Emergency and ICU"
 HIV,Reproduction and Sexual Health
 Stem Cell Transplant,Others
 Coronary Artery Disease,Heart Disease
@@ -3793,7 +3794,7 @@ Eveningness/Sleep,Mental Health
 Menopause,Reproduction and Sexual Health
 Chronic Pain,Arthritis and Injuries
 Post Operative Pain,Arthritis and Injuries
-Intensive Care Unit Survivors,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Intensive Care Unit Survivors,"Surgery, Abdominal Disease, Emergency and ICU"
 Type 2 Diabetes,Diabetes
 Cognitive Aging,Mental Health
 Recurrent Breast Cancer,Oncology
@@ -3804,7 +3805,7 @@ HIV,Reproduction and Sexual Health
 HIV,Reproduction and Sexual Health
 Obstructive Sleep Apnea,Mental Health
 Chronic Kidney Disease,Kidney Disease
-Surgical Wound,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Surgical Wound,"Surgery, Abdominal Disease, Emergency and ICU"
 Adolescent Idiopathic Scoliosis,Arthritis and Injuries
 Diabetes,Diabetes
 Stroke,Heart Disease
@@ -3830,19 +3831,19 @@ STDs,Reproduction and Sexual Health
 Acute Pain,Arthritis and Injuries
 Obesity,Obesity and Physical Activity
 Depression,Mental Health
-Wound Infection,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Wound Infection,"Surgery, Abdominal Disease, Emergency and ICU"
 Dental White Spots,Oral Health
 Ankle Sprain,Arthritis and Injuries
-Perforated Appendicitis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Perforated Appendicitis,"Surgery, Abdominal Disease, Emergency and ICU"
 Sleep Disorders,Mental Health
 Obesity,Obesity and Physical Activity
 Low Back Pain,Arthritis and Injuries
 "Anemia, Iron Deficiency",Heart Disease
 Chronic Ankle Instability,Arthritis and Injuries
-GERD,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+GERD,"Surgery, Abdominal Disease, Emergency and ICU"
 Sezary Syndrome,Others
 Body Weight Changes,Obesity and Physical Activity
-Postoperative Posterior Shoulder Tightness,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Postoperative Posterior Shoulder Tightness,"Surgery, Abdominal Disease, Emergency and ICU"
 Anxiety,Mental Health
 Obesity,Obesity and Physical Activity
 Peripheral Artery Disease,Heart Disease
@@ -3858,7 +3859,7 @@ Transcutaneous Oxygen Tension,Heart Disease
 Depressive Symptoms,Mental Health
 Physical Activity,Obesity and Physical Activity
 Biliary Atresia,Others
-Hospital Readmission,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Hospital Readmission,"Surgery, Abdominal Disease, Emergency and ICU"
 Violence,Mental Health
 Non-Infectious Anterior Uveitis,Eye Disease
 Osteoarthritis,Arthritis and Injuries
@@ -3882,7 +3883,7 @@ Chronic Heart Failure,Heart Disease
 Menopause,Reproduction and Sexual Health
 "Hypophosphatemic Rickets, X Linked Dominant",Arthritis and Injuries
 Dyslipidemia,Heart Disease
-Radiculopathy,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Radiculopathy,"Surgery, Abdominal Disease, Emergency and ICU"
 Stroke,Heart Disease
 Obesity,Obesity and Physical Activity
 General Medicine,Others
@@ -3892,7 +3893,7 @@ Severe Mood Dysregulation,Mental Health
 Acute Injury of Anterior Cruciate Ligament,Arthritis and Injuries
 Obesity,Obesity and Physical Activity
 Chronic Stroke Survivors With Plegic Hand,Heart Disease
-Pelvic Floor Disorders,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Pelvic Floor Disorders,"Surgery, Abdominal Disease, Emergency and ICU"
 Depression,Mental Health
 Pain,Arthritis and Injuries
 Depression,Mental Health
@@ -3904,11 +3905,11 @@ Colon Cancer,Oncology
 Diet Intervention,Obesity and Physical Activity
 Cesarean Section,Reproduction and Sexual Health
 Burn Injury,Skin Condition
-Hepatitis C,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Hepatitis C,"Surgery, Abdominal Disease, Emergency and ICU"
 Venous Thromboembolism,Heart Disease
 Nausea,Others
 Colorectal Cancer,Oncology
-"Trauma, Head","Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Trauma, Head","Surgery, Abdominal Disease, Emergency and ICU"
 Pain,Arthritis and Injuries
 Hypertension,Heart Disease
 Oral Glucose Tolerance Test,Diabetes
@@ -3926,11 +3927,11 @@ Obesity,Obesity and Physical Activity
 Patient Satisfaction,Others
 Accelerated Phase Chronic Myelogenous Leukemia,Oncology
 Scleroderma,Skin Condition
-Wound Complications,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Wound Complications,"Surgery, Abdominal Disease, Emergency and ICU"
 Dentin Sensitivity,Oral Health
 Female Sexual Dysfunction,Reproduction and Sexual Health
-Gastroesophageal Reflux,"Surgery, Abdominal Disease, Emergency and Intensive Care"
-Traumatic Brain Injury,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Gastroesophageal Reflux,"Surgery, Abdominal Disease, Emergency and ICU"
+Traumatic Brain Injury,"Surgery, Abdominal Disease, Emergency and ICU"
 Aging,Aging and Palliative Care
 Childhood Obesity,Obesity and Physical Activity
 Acute Pain,Arthritis and Injuries
@@ -3952,7 +3953,7 @@ Spinal Cord Injury,Arthritis and Injuries
 Depression,Mental Health
 Bronchiolitis,Pulmonary Disease
 Multiple Sclerosis,Mental Health
-Gastroschisis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Gastroschisis,"Surgery, Abdominal Disease, Emergency and ICU"
 Abortion Early,Reproduction and Sexual Health
 Cardiovascular Disease,Heart Disease
 Suicide Attempt,Mental Health
@@ -3981,15 +3982,15 @@ Osteoarthritis,Arthritis and Injuries
 Traumatic Hemorrhage,Mental Health
 Heartburn,Heart Disease
 Breast Cancer,Oncology
-Sedation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Sedation,"Surgery, Abdominal Disease, Emergency and ICU"
 Anxiety,Mental Health
 Information Dissemination,Others
 Aphasia,Others
 ADHD - Inattentive Type,Mental Health
 Melanoma (Skin),Skin Condition
-Diverticulitis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Diverticulitis,"Surgery, Abdominal Disease, Emergency and ICU"
 Lung Diseases,Pulmonary Disease
-Diarrhea-Predominant Irritable Bowel Syndrome,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Diarrhea-Predominant Irritable Bowel Syndrome,"Surgery, Abdominal Disease, Emergency and ICU"
 Depression,Mental Health
 Anterior Cruciate Ligament Injury,Arthritis and Injuries
 PTSD With a History of Mild to Moderate TBI,Mental Health
@@ -4009,7 +4010,7 @@ PTSD,Mental Health
 Tobacco Use Disorder,Addiction
 HIV,Reproduction and Sexual Health
 Radial Artery Cannulation,Heart Disease
-Gastrointestinal Mucosal Damage,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Gastrointestinal Mucosal Damage,"Surgery, Abdominal Disease, Emergency and ICU"
 Cardiac Perfusion,Heart Disease
 Comparison of Internet-based CBT and CMT,Others
 Tobacco Use Cessation,Addiction
@@ -4056,7 +4057,7 @@ Trichomonas Infections,Skin Condition
 Stroke,Heart Disease
 Rotator Cuff Tear,Arthritis and Injuries
 Overweight,Obesity and Physical Activity
-Abdominal Pain,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Abdominal Pain,"Surgery, Abdominal Disease, Emergency and ICU"
 Prediabetes,Diabetes
 Quality of Life,Others
 Heartburn,Heart Disease
@@ -4068,7 +4069,7 @@ Inflammation,Skin Condition
 Pain,Arthritis and Injuries
 Adolescent Pregnancy,Reproduction and Sexual Health
 Overweight,Obesity and Physical Activity
-Pancreatic Solid Lesions,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Pancreatic Solid Lesions,"Surgery, Abdominal Disease, Emergency and ICU"
 Orthopaedic Injury,Arthritis and Injuries
 Agitation,Mental Health
 Pregnancy,Reproduction and Sexual Health
@@ -4097,7 +4098,7 @@ High Blood Pressure,Heart Disease
 Ulcerative Colitis,Obesity and Physical Activity
 Child Passenger Safety,Others
 Cerebral Palsy,Mental Health
-Gastrointestinal Hemorrhage,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Gastrointestinal Hemorrhage,"Surgery, Abdominal Disease, Emergency and ICU"
 Diabetes,Diabetes
 Craniotomy,Others
 Obesity,Obesity and Physical Activity
@@ -4109,7 +4110,7 @@ Suicidal Ideation,Mental Health
 Obesity,Obesity and Physical Activity
 Anxiety,Mental Health
 Prostate Cancer,Oncology
-Nicotine Dependent Cigarette Smoker,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Nicotine Dependent Cigarette Smoker,"Surgery, Abdominal Disease, Emergency and ICU"
 Obesity,Obesity and Physical Activity
 HIV,Reproduction and Sexual Health
 Orthodontic Pathological Resorption of External Root,Oral Health
@@ -4145,8 +4146,8 @@ Chronic Disease,Others
 Mobile Health,Others
 Multiple Sclerosis,Mental Health
 "Genital Neoplasm, Female",Oncology
-Brain Health,"Surgery, Abdominal Disease, Emergency and Intensive Care"
-Pancreatic Tumor,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Brain Health,"Surgery, Abdominal Disease, Emergency and ICU"
+Pancreatic Tumor,"Surgery, Abdominal Disease, Emergency and ICU"
 Nicotine Addiction,Addiction
 Dental Caries,Oral Health
 Healthy,Others
@@ -4175,7 +4176,7 @@ Pain,Arthritis and Injuries
 Arteriosclerosis,Heart Disease
 Caregiver,Others
 Communicable Diseases,Others
-"Cystitis, Interstitial","Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Cystitis, Interstitial","Surgery, Abdominal Disease, Emergency and ICU"
 Schizophrenia,Mental Health
 Juvenile Idiopathic Arthritis,Arthritis and Injuries
 Coronary Artery Bypass Grafting,Heart Disease
@@ -4185,28 +4186,28 @@ Dementia,Mental Health
 Drug Dependence,Addiction
 Colorectal Cancer,Oncology
 Peripheral Arterial Disease,Heart Disease
-Cigarette Smoking Behavior,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Cigarette Smoking Behavior,"Surgery, Abdominal Disease, Emergency and ICU"
 Stage IV Non-Small Cell Lung Cancer,Oncology
 Desaturation of Blood,Heart Disease
-Urethral Analgesia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Urethral Analgesia,"Surgery, Abdominal Disease, Emergency and ICU"
 Influenza Vaccination,Skin Condition
 Type 2 Diabetes,Diabetes
 Healthy,Others
 "Carcinoma, Basal Cell",Oncology
 Pelvic Organ Prolapse,Kidney Disease
-Endometriosis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Endometriosis,"Surgery, Abdominal Disease, Emergency and ICU"
 Acute Migraine,Mental Health
-Sedation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Sedation,"Surgery, Abdominal Disease, Emergency and ICU"
 Chronic Kidney Disease,Kidney Disease
 Human Papillomavirus,Skin Condition
-Plantar Fasciitis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Plantar Fasciitis,"Surgery, Abdominal Disease, Emergency and ICU"
 Insulin Resistance,Diabetes
 Oral Hygiene,Oral Health
 Central Retinal Vein Occlusion,Heart Disease
 Chronic Pain,Arthritis and Injuries
 Extensive Stage Small Cell Lung Carcinoma,Oncology
 Pain,Arthritis and Injuries
-"Endoscopy, Gastrointestinal","Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Endoscopy, Gastrointestinal","Surgery, Abdominal Disease, Emergency and ICU"
 Compulsive Hoarding,Mental Health
 Hypertension,Heart Disease
 Migraine,Mental Health
@@ -4226,12 +4227,12 @@ HIV Infection,Reproduction and Sexual Health
 Persistent Asthma,Pulmonary Disease
 Anxiety,Mental Health
 Obesity,Obesity and Physical Activity
-Gastroesophageal Reflux Disease,"Surgery, Abdominal Disease, Emergency and Intensive Care"
-Traumatic Brain Injury,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Gastroesophageal Reflux Disease,"Surgery, Abdominal Disease, Emergency and ICU"
+Traumatic Brain Injury,"Surgery, Abdominal Disease, Emergency and ICU"
 Fluid Loss,Others
 Premature Birth of Newborn,Reproduction and Sexual Health
 β-cryptoxanthin Bioavailability From Biofortified Maize in Humans,Others
-Tricuspid Regurgitation,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Tricuspid Regurgitation,"Surgery, Abdominal Disease, Emergency and ICU"
 Obesity,Obesity and Physical Activity
 Mild Cognitive Impairment (MCI),Mental Health
 Depressive Symptoms,Mental Health
@@ -4254,7 +4255,7 @@ Cardiac Arrest,Heart Disease
 "Osteoarthritis, Knee",Arthritis and Injuries
 Pneumococcal Infection,Skin Condition
 Endometrial Cancer,Oncology
-Traumatic Brain Injury,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Traumatic Brain Injury,"Surgery, Abdominal Disease, Emergency and ICU"
 Kidney Transplantation,Kidney Disease
 Cystic Fibrosis,Pulmonary Disease
 Rheumatoid Arthritis,Arthritis and Injuries
@@ -4280,7 +4281,7 @@ Prostate Cancer,Oncology
 Insomnia,Mental Health
 "Obesity, Childhood",Obesity and Physical Activity
 HIV,Reproduction and Sexual Health
-Cigarette Smoking,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Cigarette Smoking,"Surgery, Abdominal Disease, Emergency and ICU"
 Acute Pain,Arthritis and Injuries
 Low Back Pain,Arthritis and Injuries
 Retinitis Pigmentosa,Eye Disease
@@ -4303,19 +4304,19 @@ Aging,Aging and Palliative Care
 Multiple Sclerosis,Mental Health
 Osteoarthritis,Arthritis and Injuries
 Overweight,Obesity and Physical Activity
-Leg Ulcer,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Leg Ulcer,"Surgery, Abdominal Disease, Emergency and ICU"
 Osteoarthritis,Arthritis and Injuries
 Primary Sjögren's Syndrome,Others
 Aneuploidy,Others
 Nicotine Dependence,Addiction
 Metastatic Breast Cancer,Oncology
-"Fasciitis, Plantar","Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Fasciitis, Plantar","Surgery, Abdominal Disease, Emergency and ICU"
 Hodgkin's Lymphoma,Oncology
 Systemic Lupus Erthematosus,Arthritis and Injuries
 Alcohol Abuse,Addiction
 Knee Osteoarthritis,Arthritis and Injuries
 "Pain, Acute",Arthritis and Injuries
-Brain Injury,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Brain Injury,"Surgery, Abdominal Disease, Emergency and ICU"
 Herpes Zoster,Skin Condition
 Psoriasis,Skin Condition
 Chronic Disease,Others
@@ -4331,7 +4332,7 @@ HIV-1 Infection,Reproduction and Sexual Health
 Contraception,Reproduction and Sexual Health
 Breast Cancer,Oncology
 Total Knee Arthroplasty,Arthritis and Injuries
-Constipation Drug Induced,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Constipation Drug Induced,"Surgery, Abdominal Disease, Emergency and ICU"
 Chronic Pain,Arthritis and Injuries
 Asthma,Pulmonary Disease
 Smoking,Addiction
@@ -4382,12 +4383,12 @@ Dry Eye Disease,Eye Disease
 Breast Cancer,Oncology
 Major Depressive Disorder,Mental Health
 Asthma,Pulmonary Disease
-Operating Room Scheduling,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Operating Room Scheduling,"Surgery, Abdominal Disease, Emergency and ICU"
 Acute Myeloid Leukemia in Remission,Oncology
 Alcohol Use Disorder,Addiction
 Menopause,Reproduction and Sexual Health
 Migraine Headache,Mental Health
-Hospitalization,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Hospitalization,"Surgery, Abdominal Disease, Emergency and ICU"
 Smoking,Addiction
 Migraine Headache,Mental Health
 Methamphetamine Abuse,Addiction
@@ -4434,7 +4435,7 @@ Parkinson Disease,Mental Health
 Type 1 Diabetes,Diabetes
 Obesity,Obesity and Physical Activity
 Contraception,Reproduction and Sexual Health
-Traumatic Brain Injury With Brief Loss of Consciousness,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Traumatic Brain Injury With Brief Loss of Consciousness,"Surgery, Abdominal Disease, Emergency and ICU"
 Anorexia Nervosa,Mental Health
 Leukemia,Oncology
 Chronic Obstructive Pulmonary Disease,Pulmonary Disease
@@ -4447,7 +4448,7 @@ Cardiovascular Disease,Heart Disease
 Childhood Obesity,Obesity and Physical Activity
 Colorectal Disorders,Oncology
 Colorectal Neoplasms,Oncology
-"Hernia, Ventral","Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Hernia, Ventral","Surgery, Abdominal Disease, Emergency and ICU"
 Chronic Kidney Disease,Kidney Disease
 Smoking Cessation,Addiction
 PTSD,Mental Health
@@ -4527,7 +4528,7 @@ Bipolar Disorder,Mental Health
 Type 1 Diabetes,Diabetes
 Childhood Obesity,Obesity and Physical Activity
 Bladder Cancer Requiring Cystectomy,Oncology
-"Brain Injuries, Traumatic","Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Brain Injuries, Traumatic","Surgery, Abdominal Disease, Emergency and ICU"
 Major Depressive Disorder,Mental Health
 Smallpox,Skin Condition
 Substance Withdrawal Syndrome,Addiction
@@ -4543,7 +4544,7 @@ Adult Hematopoietic Cell Transplant (HCT) Survivors 1-2 Yrs Post Most Recent HCT
 Opioid Misuse,Addiction
 Parental/Caregiver Anxiety,Mental Health
 HIV,Reproduction and Sexual Health
-Wounds and Injuries,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Wounds and Injuries,"Surgery, Abdominal Disease, Emergency and ICU"
 Knee Injury,Arthritis and Injuries
 Heart Disease,Heart Disease
 Pneumonia,Pulmonary Disease
@@ -4566,7 +4567,7 @@ Insomnia,Mental Health
 Obesity,Obesity and Physical Activity
 Aggression,Mental Health
 Acute Respiratory Failure,Pulmonary Disease
-NAFLD,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+NAFLD,"Surgery, Abdominal Disease, Emergency and ICU"
 Ureterolithiases,Others
 Chronic Pain,Arthritis and Injuries
 Substance Use Disorders,Addiction
@@ -4590,14 +4591,14 @@ HIV Infections,Reproduction and Sexual Health
 Pituitary Tumor,Oncology
 Overweight,Obesity and Physical Activity
 MDD,Others
-Cigarette Smoking,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Cigarette Smoking,"Surgery, Abdominal Disease, Emergency and ICU"
 Inflammation,Skin Condition
 Total Hip Replacement,Arthritis and Injuries
 Recurrent Fallopian Tube Carcinoma,Oncology
-Surgery,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Surgery,"Surgery, Abdominal Disease, Emergency and ICU"
 "Diabetes Mellitus, Type 1",Diabetes
 Diabetic Macular Edema,Eye Disease
-Surgical Wound Infection,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Surgical Wound Infection,"Surgery, Abdominal Disease, Emergency and ICU"
 Risk Reduction Behavior,Others
 Vitamin D Deficiency,Obesity and Physical Activity
 Alzheimer Disease,Mental Health
@@ -4629,7 +4630,7 @@ Acute Respiratory Failure,Pulmonary Disease
 HIV Infection,Reproduction and Sexual Health
 Migraine,Mental Health
 Epilepsy,Mental Health
-Adenomatous Polyp,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Adenomatous Polyp,"Surgery, Abdominal Disease, Emergency and ICU"
 End-Stage Renal Disease,Kidney Disease
 Hypertension,Heart Disease
 Early Childhood Dental Caries,Oral Health
@@ -4654,7 +4655,7 @@ Cystic Fibrosis,Pulmonary Disease
 Pregnancy,Reproduction and Sexual Health
 Quality Improvement,Others
 Discharge Follow-up Phone Calls,Others
-Hernia,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Hernia,"Surgery, Abdominal Disease, Emergency and ICU"
 Smoking Cessation,Addiction
 Hypertension,Heart Disease
 Sexual Assault,Reproduction and Sexual Health
@@ -4662,14 +4663,14 @@ Diabetes Mellitus,Diabetes
 Pain,Arthritis and Injuries
 Delirium,Mental Health
 HIV Infections,Reproduction and Sexual Health
-Bilateral Nasal Polyposis,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Bilateral Nasal Polyposis,"Surgery, Abdominal Disease, Emergency and ICU"
 Obesity,Obesity and Physical Activity
 Asthma,Pulmonary Disease
-Focus: Healthy Adults Without Brain Injury,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Focus: Healthy Adults Without Brain Injury,"Surgery, Abdominal Disease, Emergency and ICU"
 "Carcinoma, Squamous Cell of Head and Neck",Oncology
 Sleep Apnea,Mental Health
 PSA Level Less Than Ten,Others
-"Analgesics, Opioid","Surgery, Abdominal Disease, Emergency and Intensive Care"
+"Analgesics, Opioid","Surgery, Abdominal Disease, Emergency and ICU"
 Healthy,Others
 BRAF V600E Mutation Present,Others
 Wheezing,Pulmonary Disease
@@ -4690,8 +4691,8 @@ Substance Use Disorders,Addiction
 Dental Caries,Oral Health
 "Pain, Postoperative",Arthritis and Injuries
 Chronic Low Back Pain,Arthritis and Injuries
-Hepatitis B,"Surgery, Abdominal Disease, Emergency and Intensive Care"
-Critical Illness,"Surgery, Abdominal Disease, Emergency and Intensive Care"
+Hepatitis B,"Surgery, Abdominal Disease, Emergency and ICU"
+Critical Illness,"Surgery, Abdominal Disease, Emergency and ICU"
 Pregnancy Termination in Second Trimester,Reproduction and Sexual Health
 Poor Quality Sleep,Mental Health
 "Stress Disorders, Posttraumatic",Mental Health
@@ -4710,3 +4711,11 @@ Smoking Cessation,Addiction
 Breastfeeding,Reproduction and Sexual Health
 Rectal Cancer,Oncology
 Depression,Mental Health
+Coronavirus Disease,Infection and Allergy
+COVID,Infection and Allergy
+covid-19,Infection and Allergy
+Coronavirus Disease 2019,Infection and Allergy
+COVID-19,Infection and Allergy
+covid19,Infection and Allergy
+Coronavirus Infection,Infection and Allergy
+SARS-CoV 2,Infection and Allergy
