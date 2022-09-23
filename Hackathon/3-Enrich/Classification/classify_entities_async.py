@@ -109,16 +109,12 @@ async def classify(project, deployment, source, index, client):
 
     poller_list = []
     async with client:
-        # try:
         for section in input_docs_split:
             poller_list.append(await client.begin_recognize_custom_entities(
                 section,
                 project_name=project,
                 deployment_name=deployment
             ))
-        # except:
-        #     print("no input found for {}, {}".format(project, section))
-        #     return
 
         for poller in poller_list:
             document_results = await poller.result()
@@ -135,7 +131,7 @@ async def classify(project, deployment, source, index, client):
                         custom_entities_result.code, custom_entities_result.message
                         )
                     )
-    # print(outList)
+
     return outList
 
 def split_list(l, split_size):
