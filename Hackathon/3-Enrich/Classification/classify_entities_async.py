@@ -97,13 +97,11 @@ async def recognize_custom_entities_async() -> None:
 
     fd.close()
     outFile.close()
-    
+
     # [END recognize_custom_entities_async]
 
 
 async def classify(project, deployment, source, index, client):
-    outFile = open('classifier_out.txt', 'w', newline='')
-
     outList = []
     input_docs = list(map(lambda item: item[index].replace('"', '').replace('[', '').replace(']', ''), source))
     
