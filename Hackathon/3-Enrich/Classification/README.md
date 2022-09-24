@@ -1,11 +1,15 @@
 # Generator (Making your NLP Model)
 
 ## How to use:
-- install python 3
-- pip any required packages
-- run with an input file with a csv format of `entity,category` (and no category header)
-- install azcopy
-- run the upload command
+1. set up an Azure Cognitive Services instance in Azure
+2. install azcopy
+3. install python 3
+4. pip any required packages
+5. create a container for your data on a storage account in Azure
+   - make sure the storage account is in the same resource group as your ACS instance
+6. run with an input file with a csv format of `entity,category` (and no category header)
+7. run the `azcopy` upload command
+8. repeat steps 5-7 as needed for additional models
 
 ### Usage Example
 - run `.\generate_input.py -storageContainer "condition-data" -projectName "ConditionProject" -inputFile conditions_raw.txt`
