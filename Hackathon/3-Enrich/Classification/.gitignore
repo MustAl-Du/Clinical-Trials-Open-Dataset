@@ -1,4 +1,4 @@
 entity_*
 keys.txt
-enriched.csv
+enriched*.csv
 *_format.json
