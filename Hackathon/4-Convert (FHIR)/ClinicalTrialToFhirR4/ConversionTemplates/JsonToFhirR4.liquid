@@ -1,0 +1,52 @@
+{
+    "resourceType": "ResearchStudy",
+    "identifier": [
+        {
+            "assigner": {
+                "name": "NCT",
+            },
+            "use": "official",
+            "value": "{{content.nctId}}",
+        },
+    ],
+    "title": "{{content.protocolSection.identificationModule.officialTitle}}",
+
+    {% case content.statusModule.overallStatus %}
+    {% when 'COMPLETED'}
+    "status": "completed",
+    {% when 'NOT_YET_RECRUITING'}
+    "status": "temporarily-closed-to-accrual",
+    {% when 'RECRUITING'}
+    "status": "active",
+    {% when 'ACTIVE_NOT_RECRUITING'}
+    "status": "closed-to-accrual",
+    {% when 'TERMINATED'}
+    "status": ,
+    {% when 'ENROLLING_BY_INVITATION'}
+    "status": ,
+    {% when 'SUSPENDED'}
+    "status": ,
+    {% when 'WITHDRAWN'}
+    "status": "withdrawn",
+    {% when 'UNKNOWN'}
+    "status": ,
+    {% endcase %}
+
+    "condition": [
+        {% for condition in content.conditionModule.conditions %}
+        {
+            "coding": ,
+            "text": "{{condition}}",
+        }
+        {% endfor %}
+    ],
+    "contact": [
+        {% for contactPerson in content.contactsLocationsModule.overallOfficials}
+        {
+            "name": "{{contactPerson.name}} | Append: ', ' | Append: {{contactPerson.role}} | Append ', ' | Append: {{contactPerson.affiliation}}",
+        },
+        {% endfor %}
+    ],
+    "description": "{{content.descriptionModule.detailedDescription}}",
+    "sponsor": {{content.sponsorCollaboratorsModule.leadSponsor.name}},
+}
