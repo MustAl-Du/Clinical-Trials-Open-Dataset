@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.IO;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Xml.Linq;
 
 namespace SchemaFromXsd
@@ -78,10 +79,25 @@ namespace SchemaFromXsd
                     this.IterateChildren(element);
                     break;
                 case "attribute":
+                    this.VisitAttribute(element);
                     break;
                 default:
                     throw new InvalidOperationException($"Unexpected node type encountered: {element.Name.LocalName}");
             }
+        }
+
+        private void VisitAttribute(XElement element)
+        {
+            string name = SchemaBuilder.PascalCasify(element.Attribute("name")?.Value);
+            (string typeName, _, _) = this.GetElementType(element);
+
+            if (!typeName.StartsWith("xs:"))
+            {
+                throw new InvalidOperationException(
+                    $"Found attribute with type {typeName}.  Attributes can only have primitive types");
+            }
+
+            this.AppendPrimitiveField(name, typeName, false);
         }
 
         private void VisitChoice(XElement element)
@@ -113,12 +129,29 @@ namespace SchemaFromXsd
         private void VisitElement(XElement element, bool overrideUnbounded = false)
         {
             string name = SchemaBuilder.PascalCasify(element.Attribute("name")?.Value);
-            (string typeName, XElement? typeElement) = this.GetElementType(element);
+            (string typeName, XElement? typeElement, XElement? extensionElement) = this.GetElementType(element);
             bool unbounded = element.Attribute("maxOccurs")?.Value == "unbounded" || overrideUnbounded;
 
             if (typeName.StartsWith("xs:"))
             {
                 this.AppendPrimitiveField(name, typeName, unbounded);
+
+                if (extensionElement != null)
+                {
+                    this.Parents.Push(name);
+                    if (unbounded)
+                    {
+                        this.Parents.Push("Value");
+                        this.IterateChildren(extensionElement);
+                        this.Parents.Pop();
+                    }
+                    else
+                    {
+                        this.IterateChildren(extensionElement);
+                    }
+                    this.Parents.Pop();
+                }
+
                 return;
             }
 
@@ -155,31 +188,35 @@ namespace SchemaFromXsd
             this.Fields.Add(new Field(fieldName, typeName[3..], fieldPath));
         }
 
-        private (string typeName, XElement? typeElement) GetElementType(XElement element)
+        private (string typeName, XElement? typeElement, XElement? extensionElement) GetElementType(XElement element)
         {
             string? type = element.Attribute("type")?.Value;
             if (type == null)
             {
-                return ("custom_struct", element.Element(this.Namespace + "complexType"));
+                return ("custom_struct", element.Element(this.Namespace + "complexType"), null);
             }
 
             XElement? definedType = this.Schema
                 !.Elements()
                 .SingleOrDefault(n => n.Attribute("name")?.Value == type);
 
+            XElement? extensionElement = null;
+
             if (definedType != null)
             {
-                type = this.GetPrimitiveTypeFromDefinedType(definedType, type);
+                (type, extensionElement) = this.GetPrimitiveTypeFromDefinedType(definedType, type);
             }
 
-            return (type, definedType);
+            return (type, definedType, extensionElement);
         }
 
-        private string GetPrimitiveTypeFromDefinedType(XElement definedType, string originalType)
+        private (string typeName, XElement? extensionElement) GetPrimitiveTypeFromDefinedType(
+            XElement definedType, 
+            string originalType)
         {
             if (definedType.Name.LocalName == "simpleType")
             {
-                return this.GetPrimitiveTypeFromSimpleType(definedType);
+                return (this.GetPrimitiveTypeFromSimpleType(definedType), null);
             }
 
             if (definedType.Name.LocalName == "complexType")
@@ -190,19 +227,25 @@ namespace SchemaFromXsd
             throw new InvalidOperationException($"Unexpected type element type: {definedType.Name.LocalName}");
         }
 
-        private string GetPrimitiveTypeFromComplexType(XElement definedType, string originalType)
+        private (string typeName, XElement? extensionElement) GetPrimitiveTypeFromComplexType(
+            XElement definedType, 
+            string originalType)
         {
             XElement? simpleContentElement = definedType.Element(this.Namespace + "simpleContent");
+            XElement? extensionElement = null;
             if (simpleContentElement != null)
             {
-                XElement extensionElement = simpleContentElement.Element(this.Namespace + "extension")
-                    ?? throw new InvalidOperationException("Encountered simpleContent element with no extension element.");
+                extensionElement = simpleContentElement.Element(this.Namespace + "extension")
+                    ?? throw new InvalidOperationException(
+                        "Encountered simpleContent element with no extension element.");
+
                 string baseTypeName = extensionElement.Attribute("base")?.Value
-                    ?? throw new InvalidOperationException("Failed to find base attribute of extension element.");
+                    ?? throw new InvalidOperationException(
+                        "Failed to find base attribute of extension element.");
 
                 if (baseTypeName.StartsWith("xs:"))
                 {
-                    return baseTypeName;
+                    return (baseTypeName, extensionElement);
                 }
 
                 XElement baseTypeElement = this.Schema
@@ -210,10 +253,10 @@ namespace SchemaFromXsd
                     .SingleOrDefault(n => n.Attribute("name")?.Value == baseTypeName)
                     ?? throw new InvalidOperationException($"Failed to find base type named {baseTypeName}");
 
-                return this.GetPrimitiveTypeFromDefinedType(baseTypeElement, originalType);
+                return (this.GetPrimitiveTypeFromDefinedType(baseTypeElement, originalType).typeName, extensionElement);
             }
 
-            return originalType;
+            return (originalType, extensionElement);
         }
 
         private string GetPrimitiveTypeFromSimpleType(XElement simpleType)
@@ -243,12 +286,12 @@ namespace SchemaFromXsd
 
         private string GetFieldName(string name)
         {
-            return String.Join(String.Empty, Parents.Reverse()) + name;
+            return String.Join(String.Empty, Parents.Reverse().Append(name));
         }
 
         private string GetFieldPath(string name)
         {
-            return String.Join('>', Parents.Reverse()) + $">{name}";
+            return String.Join('>', Parents.Reverse().Append(name));
         }
 
         private static string PascalCasify(string? underscoreString)
