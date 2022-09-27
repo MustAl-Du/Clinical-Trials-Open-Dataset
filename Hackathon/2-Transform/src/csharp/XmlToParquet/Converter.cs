@@ -28,7 +28,7 @@ namespace XmlToParquet
 
         private List<ColumnInfo> ColumnInfos { get; }
 
-        private FieldTreeNode FieldTree { get; }
+        private Dictionary<string, int> FieldTree { get; }
 
         private Stack<ParentData> ParentIndexStack { get; }
 
@@ -40,7 +40,7 @@ namespace XmlToParquet
         {
             this.Settings = settings;
             this.ColumnInfos = new();
-            this.FieldTree = new("ClinicalStudy");
+            this.FieldTree = new();
             this.ParentIndexStack = new();
             this.ParentStack = new();
             this.LastParentIds = new();
@@ -155,14 +155,14 @@ namespace XmlToParquet
         private void Visit(XElement e)
         {
             string name = Converter.PascalCasify(e.Name.LocalName);
+            string idFieldName = string.Join(">", this.ParentStack.Reverse().Append(name).Append("Id"));
 
             // If the schema has an Id field defined for the node, generate the ParentData object and push it
             // onto the stack.
-            FieldTreeValueNode? idField = this.FieldTree.GetValueNode(
-                string.Join(">", this.ParentStack.Reverse().Append(name).Append("Id")));
-            if(idField != null)
+            int? idField = this.FieldTree.ContainsKey(idFieldName) ? this.FieldTree[idFieldName] : null;
+            if(idField.HasValue)
             {
-                ColumnInfo cinfo = this.ColumnInfos[idField.Index];
+                ColumnInfo cinfo = this.ColumnInfos[idField.Value];
                 int idValue = this.LastParentIds.ContainsKey(cinfo.Field.Name)
                     ? this.LastParentIds[cinfo.Field.Name] + 1
                     : 1;
@@ -199,8 +199,9 @@ namespace XmlToParquet
             string fieldName = idField != null
                 ? string.Join(">", this.ParentStack.Reverse().Append(name).Append("Value"))
                 : string.Join(">", this.ParentStack.Reverse().Append(name));
-            FieldTreeValueNode valueNode = this.FieldTree[fieldName];
-            ColumnInfo columnInfo = this.ColumnInfos[valueNode.Index];
+
+            //Get the column info of the value field based on the index of this field
+            ColumnInfo columnInfo = this.ColumnInfos[this.FieldTree[fieldName]];
 
             this.PadRows(columnInfo);
 
@@ -242,8 +243,7 @@ namespace XmlToParquet
                         : string.Join(
                             ">",
                             this.ParentStack.Reverse().Append(elementName).Append(name));
-                    FieldTreeValueNode valueNode = this.FieldTree[fieldName];
-                    ColumnInfo columnInfo = this.ColumnInfos[valueNode.Index];
+                    ColumnInfo columnInfo = this.ColumnInfos[this.FieldTree[fieldName]];
 
                     this.PadRows(columnInfo);
 
@@ -330,42 +330,11 @@ namespace XmlToParquet
 
             ColumnInfo? field = Converter.ColumnInfoConstructors[parts[1]](parts[0]);
 
-            this.AddToFieldTree(field?.Field, parts[2]);
+            this.FieldTree[parts[2]] = this.ColumnInfos.Count;
 
             Console.WriteLine($"Added ColumnInfo for line '{line}'");
 
             return field;
-        }
-
-        private void AddToFieldTree(Field? field, string path)
-        {
-            if (field == null) { return; }
-
-            string[] pathParts = path.Split('>');
-            FieldTreeNodeBase node = this.FieldTree;
-            int i = 0;
-            while (node is FieldTreeNode parentNode 
-                && i < pathParts.Length - 1
-                && parentNode.Children.ContainsKey(pathParts[i]))
-            {
-                node = parentNode.Children[pathParts[i]];
-                i++;
-            }
-
-            while (node is FieldTreeNode parentNode && i < pathParts.Length - 1)
-            {
-                node = new FieldTreeNode(pathParts[i]);
-                parentNode.Children[pathParts[i]] = node;
-                i++;
-            }
-
-            if (node is FieldTreeNode finalParentNode && i == pathParts.Length - 1)
-            {
-                finalParentNode.Children[pathParts[i]] = new FieldTreeValueNode(pathParts[i], this.ColumnInfos.Count);
-                return;
-            }
-
-            throw new InvalidOperationException($"Failed to insert field with path {path} into tree.");
         }
 
         private static string PascalCasify(string? underscoreString)
